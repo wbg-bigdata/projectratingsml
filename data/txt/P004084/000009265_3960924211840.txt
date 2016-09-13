@@ -1,0 +1,1569 @@
+Document of
+The World Bank
+FOR OMCLAL USE ONLY
+Report No. 10838
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(LOAN 1676-KO)
+JUNE 30, 1992
+M1ICROpjICHE CC)PY
+RePort No. I.O383g-K    T'Ype: (P'CR)
+A2ofN-ANDE/ X:31f76 / 'I'9ll/ (DDj
+Industry and Energy Operations Division
+Country Department II
+Asia Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTL
+Korean Won
+Year                               (Won per US$)
+1979                                   484
+1980                                   607
+1981                                   681
+1982                                   73).
+1983                                   776
+1984                                   806
+1985                                   870
+1986                                   881
+1987                                   823
+WEIGHTS AND MEASURES
+All weights and measures in metric units.
+1 square meter (m2) 2         10.76 square feet (ft2)
+1 kilometer (km)        =     0.62 mile
+ABBREVIATIONS AND ACRONYMS
+AIT   -     American Information Tachnology Co. Ltd. (USA)
+EPB   -     Economic Planning Board
+ETRI  -     Electronics and Telecommunications Research Institute
+JFIC  -     Fine Instruments Center
+IC    -     Integrated Circuit
+ICE   -     Integrated Circuit Engineering Corporation
+KAIS  -     Korea Advanced Institute of Science
+KIET  -     Korea Institute of Electronics Technology
+KIST  -     Korea Institute of Science Technology
+MCI   -     Ministry of Commerce and industry
+MOC   -     Ministry of Communication
+MOST  -     Ministry of Science and Technology
+PCB   -     Printed Circuit Board
+PCR   -     Project Completion Report
+R&D   -     Research and Development
+RD&E  -     Research, Development and Engineering
+ROM   -     Read-only memory
+UNDP  -     United Nations Development Programme
+VLSI  -     Very-large-scale integration
+VTI   -     VSLI Technology, Inc. (UJSA)
+VTR   -     Video Tape Recorder
+FISCAL YEAR
+January 1 to December 31
+
+
+
+FORt OFFCIAL USE ONLY
+THE WORI D BANK
+Washington, D.C. 20433
+U.S.A.
+-ake of Dvectit.CGeneral
+Ope&tatkV Evaluhikm
+June 30, 1992
+MEMORANDUM TO THE EXECUTIVE DIRECTORS AND THE PRESIDENT
+SUBJECT:      Project Completion Report on Korea
+Electronics Technology Proiect (Loan 1676-KO)
+Attached, for information, is a copy of a report entitled "Project
+Completion Report on Korea - Electronics Technology Project (Loan 1676-4O)"
+prepared by the Electronics and Telecommunications Research Institute with the
+Overview, Basic Data Sheet and Highlights prepared by the Industry and Energy
+Operations Division, Country Department II, Asia Region.
+Yves Rovani
+by H. Eberhard Kapp
+Attachment
+This document has a restricted distribution and may be used by recipients only in the performance
+of their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+FOR OFmFCIAL USE ONLY
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676--KO)
+TABLE OF CONTENTS
+PAGE NO.
+PREFACE   .  .  .   .   .   .   .   .   .   .*...    .   .    .   .    .   .    .   .    .   .    .   .   .    .   .   . .
+BASIC DATA SHEET  . .      .. . . . . . . . . . . . . . .                  iii
+HIGHLIGHTS  ....  .      .  .  .  .  .  .  .  .  .  .  .    .... .    . . . . .  .   .  vii
+OVE-RVIEW  ....  .     .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    . . . . .  .  1
+Introduction  . . . .        .... ........    .   . . . .   .          1
+Project Background and Context  . . . . . . . . . . . . . . .          1
+The  Project   .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  2
+Implementation and Operation  ... .         .. ...  .  .    . .        4
+Project Achievements and Impact . . . . . . . . . . . . . . .          5
+THE BORROWER'S PCR
+I. Introduction ..........    9
+II.  Project Preparation and Appraisal           ..            .9
+Preparation, Appraisal and Negotiations . . . . . . . . . .          9
+Project Objectives  ....  .      .  .  .  .    . . . .   .  .    . ... .  10
+The Program and Project . . . . . . . . . . . . . . . . . .         11
+Covenants .. . . . . . . . . . . . . . . .   . . . . . . . .        12
+III. Project Implementation.                                   . .          12
+Loan Effectiveness and Project Start-up . . . . . . . . . .         12
+Project Revision ..    .        . . . . . . . . . .   . . . . . . . .  12
+Implementation Schedule            ..13
+Procurement . . . . . . . . . . . . . . . . . . . . . . . .         16
+Project Cost   .      .  .  .  .  .  .  .  .  .  .  .  .  .  .  . .   . .  16
+Disbursement.. . .    18
+Loan Allocation            ..                                       P
+Operation    .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  .  .20
+Performance of  Consultants, Contractors, Suppliers  .  .           21
+IV.  Operating Performance . . . . . . . . . . . . . . . . . . . .         22
+V.  Financial Performance . . . . . . . . . . . . .  .  .    .                  .  25
+VI.  Institutional Performance . . . . . . . . . . . . . . . . . .         26
+Organization and Management . . .  .      . . . . . . . . . .       26
+Staff, Recruitment and Training . . . . . . . . . . . . . .         27
+Accounting System  . . . . . . . ..                    .27
+Audit    .   .   .   .  .......................28
+VII.  Project Justification                                                 28
+Project Achievement . . . . . . . . . . . . . . . . . . . .         28
+This document has a restricted distribution and may be used by recipients only in the performance
+of their offcial duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+TABLE OF CONTENTS (Cont'd)
+Project Spin-offs.   .  .  .  .  ..... . . . . . . . .  . .        30
+Least Cost Solution o .           . ...... ooo o. . . o.           30
+Rate of Return  . o . . . . . . . . . . . . . . . . . . . .        30
+VIII.  Bank Performance . . . . .         .  . ... .  ..  .    .    . .. . .  30
+Overall and Specific Performance  . . . . . . . . . . . . .        30
+Supervision   .  .  .  .  .  .  .  .  .    . .  .  .  .  .  .    .  .  .    . .  .    .  31
+Working Relationship  . . .  . . . . . . . . .  . . ..  . . . .    31
+IX.  Conclusion .. . .  . . . . . . . . . . .    . . . . . .  . . .  .   31
+ANNEXES
+Annex I Compliance with Covenants  . o . . .  . . . . . . .  .       33
+Annex 2  Balance Sheets ... .  .  .  .  .  .  .  o ..........   .    35
+Annex 3  Income Statements   o999.9999999999.9.                      36
+Annex 4 Funds Flow Statements  .. ..... .  .  .  .  .  . ..          37
+
+
+
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+PREFACE
+This report covers the Electronics Technology Project in Korea supported
+by Loan 1676-KO. The loan of US$29.0 million was made to the Republic of Korea
+for a project carried out by the Korea Institute of Electronics Technology
+(KIET), which later merged into another institute called Electronics and
+Tulecommunications Research Institute (ETRI), was approved on March 22, 1979.
+The loan became effective on June 28, 1979, and was closed on June 30, 1986, four
+years after the original plan.
+The Project Completion Report (PCR) was prepared by the Electronics and
+Telecommunications Research Institute (ETRI), the implementing agency of the
+Government of Korea. The PCR Overview, Basic Data Sheet and Highlights were
+prepared by AS2IE.
+
+
+
+- iii -
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+BASIC DATA SHEET
+KEY PROJECT DATA
+Appraisal
+Item                                 Exoectation                 Actual
+Total Project Costs (US$ million)                    56.0                     33.0
+Loan Amount (US$ million)                            29.0                      29.0
+Disbursed                                         29.0                     23.9
+Cancelled                                          -                         -
+Project Completion Date                         December 1982               June 1986
+Proportion of Expense
+Spent by Appraisal
+Target Date                                      100Z                      597
+Financial Performance                                                         Fair
+Institutional Performance                                                     Fair
+CUMULATIVE ESTIMATED AND ACTURAL DISBURSEMENTS
+FY79   FY80   FY81  FY82  FY83  F1-4  FY85  FY86  FY87
+Appraisal Estimate
+(USS million)         13.30  21.90  27.00  29.00       -     -         -
+Actual (US$ million)     0.04   7.95  14.71  17.12  20.40  20.59  20.68  22.64 23.9f4
+Actual as Z of Appraisal    -   36     54    59    70    71    71    78    83
+Date of Final Disbursement: January 30, 1987
+STAFF INPUTS
+(staff weeks)
+Fiscal Year  Preaooraisal  AoDraisal Negotiation Supervision  Other   Total
+1977           2.5            -            -            -           -        2.5
+1978          48.5            -            -            -           1.5    50.0
+1979          28.4           33.2          5.5          3.5        11.6    82.2
+1980           -              -            -           13.9         -       13.9
+1981           -              -            -           24.6         -       24.6
+1982           -              -            -           32.2         -       32.2
+1983           -              -            -           13.6         -       13.6
+1984            .3            -            -           22.7         -       23.0
+1985           -              -            -           10.5         -       10.5
+1986           -              -            -            9.9           .2    10.1
+1987           -              -            -              .4        -          .4
+1988           -              -            -            5.7         -        5.7
+1989               .                                    2.3                  2.3
+Total          79.7           33.2          5.5        139.3        13.3   271.0
+
+
+
+- iv -
+MISSION DATA
+Number of                     Date of
+Item        Date      Duration   persons    Staff-weeks /a  Report
+(days)
+Identification   11/75         7           1           1.0          12/03/75
+Preparation       7/77        20           2           5.7           8/18177
+Appraisal         5/78        16           4           9.1          11/22/78
+Total         -          -                       15.8          -
+Supervision I    8/79  /b      5           1           0.4          10/15/79
+Supervision II   3/80  Ic      5           2           0.5           4/30/80
+Supervision III  5/80          5           2           1.4           5/28/80
+Supervision IV   11/80         3           3           2.1          12/15/80
+Supervision V    7/81  /d      8           3           1.1           8/28/81
+Supervision VI   6/82  /e      9           3           2.0           8/19/82
+Supervision VII  12/82 /e      8           2           1.1           1/21/83
+Supervision VIII 11/83 /e /f 12            3           1.3           1103184
+Supervision IX   6/84          9           2           2.6           9/11/84
+Supervision X    5/85          6           2           1.7           6/28185
+Supervision XI   5/86  /e 1z 18            3           2.6           7/17/86
+Completion        5/88        11           1           1.6
+Total                                            18.4
+la  The staffweeks spent on supervision of the project were proportionally
+allocated based on the below.
+/b  Combined with supervision of Heavy Machinery Project (Loan 1466-KO).
+rc  Combined with preparation of the First Technology Development Project
+(Loan 2112-KO).
+/d  Combined with appraisal of Loan 2112-KO.
+/e  Combined with supervision of Loan 2112-KO.
+If  Combined with preappraisal of the Second Technology Development Project
+(Loan 2473-KO).
+/   Combired with supervision of Loan 2473-KO.
+
+
+
+v 
+OTHR MROJECT DATA
+Original
+plan         Revisions        Actual
+First Mer.tion in Files on Timetable                                     8!11/75
+Government's Application                                                 10131176
+Negotiations                                                              2123/79
+Board Approval Date                                                       3122179
+Loan Agreement Date                                                       3/29/79
+Effectiveness Date                                                        b128/79
+Closing Date                             12/31/83         8/31/85
+6/30/86        6/30/86
+Borrower:                                                       Republic of Korea
+Executing Agency:            Korea Institute of Electronics Technology (KIET)/a
+Fiscal Year of Borrower:      January I-December 3.
+/a Later merged into ETRI
+
+
+
+- vii -
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+HIGHLIGHTS
+In October 1976, the Government of Korea requested the Bank's support
+to finance the establishment of a research institute in electronics to be
+called the Korean Institute of Electronics Technology (KIET), to spearhead the
+Korean electronic industry into advanced semiconductors. Accordingly, in
+March 1979, the Bank approved a loan of US$29.0 million to finance the foreign
+exchange portion of a project to build up, KIET's activities.  Out of the US$29
+million, US$5 million was earmarked for research, development and engineering
+(RD&E).
+ii.      The objectives of the project were to develop KIET as a central
+facility in the semiconductor industry, and, accordingly, to (i) provide
+technological infrastructvre of essential production and support services;
+(ii) assist in training of technical staff of the industry; (iii) lead the
+industry in acquiring and developing technologies: (iv) carry out RD&E for
+industry; and (v) explore market opportunities for the industry abroad.
+iii.     The construction of the semiconductor facility and the installation
+of the necessary equipment were delayed by over one and a half years, and the
+facility was ready to fabricate wafers, the major planned output, only in
+October 1981. Training and research activities were likewise delayed.
+iv.      In 1983 the Korean industry started to invest heavily in
+semiconductors. Contrary to expectations, the major corporations decided to
+achieve self-sufficiency in the major services which KIET aimed to supply.
+Accordingly, the demand for KIET's services from the private sector fell
+considerably short of projected plans, and KIET's activities were shifted to
+participation in government-sponsored projects. As a result, KIET did not
+become a profit-making, self-financing institution as envisaged at appraisal
+and remained a government RD&E center der--ading on government funding.  The
+RD&E portion of the project was not carried out, and the earmarked fund of
+US$5 million was subsequently cancelled.
+v.       The Government decided in March 1985 to merge KIET with another
+research institute in telecommunications and form a new institute called the
+Electronics and Telecommunications Research Institute (ETRI). The Bank agreed
+to the merger and to the transfer of KIET's activities from Gumi to Daejoun,
+and also agrecd to transfer the undisbursed amount of the loan from KIE'i to
+ETRI.
+vi.      The project could not sufficiently achieve many of the original
+objectives, notably the financial profitability and industry-related R&D
+programs. However, the project may have played an important catalytic role in
+the electronic industry by proving to the Korean industry that acquiring
+advanced technologies and capabilities is within their grasp.
+
+
+
+- vlll 
+vii.     The most important lessons to be lcarned from this experience are the
+following:
+(i)    There must be strong support and participation of industry.
+(ii)    Industry should have a say in the function of basic strategies
+of the institute.
+(iii)    The top management of the institute should be industry-oriented
+and entrepreneurial.
+(iv)    The legal and financial framework for such an entity should
+allow the flexibility of a private sector organization.
+
+
+
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+OVERVIEW
+Introduction
+1.       This overview is based on the Project Completion Report (PCR) of
+the Electronics Technology Development Prpject (Loan 1676-KO) prepared by
+the Electronics and Telecommunications Research Institute (ETRI), the
+implementing agency of the Government of Korea.  The loan of US$29 million
+to the Republic of Korea for the establishment of Korea Institute of
+Electronics Technology (KIET), which later merged into another institute
+called ETRI. was approved on March 22, 1978. The loan became effective on
+June 28, 1979 upon fulfillment of the conditions of effectiveness of the
+loan, and was closed on June 30, 1986, four years after the original plan.
+2.       The retrospective analysis of the Electronic Technology Project in
+Korea is of wider interest because the project supported a definite
+industrial policy in the high technology area--an area in which the Bank
+can expect increasing involvement in future years.  The purpose of this
+document is to highlight the most important aspects of the project, as
+viewed by the Bank, in order to de-ive some useful lessons for future
+lending. The additional assessment of the Bank complements and sometimes
+differs from the views expressed by the borrower and is based on a mission
+to Korea in May 1988 and other information in files at the Bank.
+Project Background and Context
+3.       Korea has sustainied an extraordinary record of economic growth since
+the 1960s.  Given Korea's poor natural resource endowment, this growth was
+based on the expansion of manufacturing, which grew between 1961 and 1977 at a
+real rate of 191 p.a. A major impetus to this remarkable growth came from
+exports, which grew at an average rate of 322 p.a. in real terms.
+4.       This growth was accompanied by a significant deepening of the
+industrial structure and diversification of manufactured exports. One of the
+emerging areas of growth was the electronics industry. This industry was
+established in the early 1960s as an import-substitution industry oased on the
+assembly of radios and other electronic consumer goods.  It gained momentum
+during the 1970s, spurred by direct foreign investment, joint ventures and the
+growth of domestic firms.   Production and exports increased at a rate of
+about 50? p.a. between 1970 and 1977, leading the growth of the manufacturing
+sector.  The output of electronics industries in 1977 reached over US$1.7 bil-
+lion. About two thirds of the output was exported. The industry became
+increasingly important to the Korean economy.  In 1977 it accounted for 112 of
+Korea's total exports and employed over 140,000 persons.
+5.       At that time Korea's electronic production consisted primarily of
+
+
+
+-2-
+ccaventional components (39Z), technologically mature, low-cost consumer
+products such as watches, radios and black and white television sets (33Z),
+assembly of advanced components, principally by wholly owned subsidiaries of
+large US companies (182), and production of telecommunication equipment for
+the domestic market (10Z).
+6.       The Fourth Five-Year Plan (1977-81) of the Government called for
+concinuing emphasis on the electronics industry as a leading industry in
+Korea'.  export-oriented growth.  The strategy was to focus initially on a few
+technologies which would allow upgrade of the design and reliability of
+Korea's existing product mix and at the same time permit entry into new areas.
+In order to succeed, the strategy called for attracting foreign investment and
+know-how and for development of domestic infrastructure and design and
+manufacturing capabilities.
+7.       KIET was founded by the Government in December 1976 as a government
+research institute under the Ministry of Commerce and Industry (MCI) to
+promot.? and cenduct development of the semiconductor and computer system area
+and lead the effort in the Government's support of the electronics industry.
+The idea was that in order to succeed in the industrial strategy, the
+Government, through KIET, needed to provide the industry with the necessary
+infrastructure and specialized services which could not be provided by each
+individual companies. KIET was also meant to be the focal point for the
+initial transfer of intermediate technologies to Korea and provide related on-
+the-job training. Also, the Government, through KIET, intended to share with
+private industry the costs and subsequent benefits of research, development
+and engineering and promote cooperati;e R&D efforts among Korean firms.
+8.       The Bank played an important role in shaping the proposed strategy.
+An industrial sector mission in November 1974 recommended that Korea seriously
+consider the acquisition of semiconductor technology as a basis for the
+development of its electronics industry, and that the cooperation of the
+Government, industry and research institutions was vital for the achievement
+of this objective. Subsequent Bank involvement in 1975 (as executing agency)
+in a UNDP-financed Planning Assistance Project helped shape Korea's
+development thrust in the semiconductor and digital systems industries in the
+Fourth Five-Year Plan of the Government.
+9.       In November 1976, the Government requested the Bank's assistance in
+financing the foreign currency component of a project designed to establish
+KIET's activities. By March 1977 the project had been explicitly formulated
+and the amount of the loan requested by the Government was US$29 million.
+The Project
+10.      The primary objective of the project was to stimulate the development
+of a technological base in the Korean electronics industry to achieve high
+growth level. The proposed project was aimed to develop KIET to play a
+central role in promoting such growth and accordingly to: (i) provide
+technological infrastructure of essential production and support services,
+(ii) assist in the required training and technical manpower development, (iii)
+lead the industry in acquiring and developing semiconductor and system
+technologies, (iv) carry out RD&E for industry, and (v) explore and develop
+export market opportunities for Korean electronics industry overseas.
+
+
+
+-3-
+11.      The services KIET was to provide to the Korean industry were of broad
+range. The assumption was that these services would reduce the initial
+investment requirements of each individual company and facilitate its entry
+into the electronics area. KIET services were largely expected to be
+available by early 1980 and includeds
+(a) Fabrication of wafers for the industry. This activity was
+supposed to be the major activity and the biggest revenue
+producer of KIET (662 of services revenues). The assumption was
+that Korean private companies, such as Samsung Semiconductors
+(which was already engaged in wafer fabrication) and other
+companies which would enter this new activity, would produce
+wafers for simpler devices while KIET would concentrate on more
+sophisticated products.
+(b) Supply of mask-sets for the domestic industry. This service,
+which was to be needed for wafer fabrication within KIET. was
+also to be provided to other wafer producers so as to substitute
+imports and reduce turnaround time.
+(c) Provide integrated circuit (IC) designs as tailor-made service
+for individual firms. This service was expected to enhance the
+competitiveness of the domestic industry.
+(d) Testing services for the industry. At the time KIET was
+conceived, there were no local facilities for carrying out
+electrical and environmental testing of semiconductor devices
+and system hardware. These services were obtained abroad at a
+considerable expense.
+(e)  Contract system work.  It was envisaged in particular that
+KIET's pool of qualified personnel would have substantial
+capability for the design and development of a wide range of
+microprocessors, minicomputers and other digital systems for use
+in Korea.
+(f) Supplementary services, such as printed circuit boards (PCB), Hz
+gas, education services, etc.
+12.      All the above mentioned activities were to generate revenue from the
+private industry and KIET was supposed to breakeven in its third year of
+operation. After breakeven net profits would increase, according to plan,
+annually.
+13.      Aside from services to the industry, KIET's activities were intended
+to include RD&E operations. The purpose of this activity was:
+(a)  to carry out research projects for the development of products,
+processes and systems in the electronics industry;
+(b) to carry out research costs for work conducted within KIET's
+facilities; RD&E funds were not to finance the costs of in-house
+research conducted by private industry;
+(c)  to carry out projects sponsored by either industry or KIET.
+With regard to KIET-sponsored projects, however, broad industry
+
+
+
+-4-
+interest in the end result of the project had to be established
+to ensure that research work at KIET was closely tied to
+industry goals of the RD&E project for which it was purchased.
+14.      According to the project financing plan, the Bank loan was expected
+to provide USS24 million for the development of KIET (the foreign currency
+part of physical facilities plus part of the technology items) and a loan of
+US$5 million for the foreign currency portion of the RD&E program.
+Implementation and Operation
+15.      The Government selected for the project a site in Gumi, a town some
+200 km from Seoul. The Government hoped to attract into this area firms from
+the electronics industry so that it would become a center for Korea's
+electronics activity, with KIET as a focus. At the time KIET started its
+building activities in Gumi, several electronics plants were already
+established there. most of these in assembly operations, none in research
+activities.
+16.      Construction of the semiconductor building, containing the "clean
+area" in which research in semiconductor and wafer fabrication were to be
+carried out, started to slip at an early stage. This segment of the project
+was on the critical path for the project as a whole since the various proposed
+services to industry and R&D could only start once the clean area facility was
+available. However, the semiconductor building was completed, only in April
+1981, 18 months behind schedule. Equipment was installed by the end of
+September 1981. some 20 months behind original schedule. In retrospect, these
+delays may have been a very important factor in the development of the
+project. When major Korean electronics firms decided in 1982 and 1983 to
+invest heavily in semiconductors, KIET did not have a leading technological
+edge and its wafer fabrication capabilities were not considered reliable
+enough by the industry.
+17.      In 1982 and 1983 the Korean industry started to invest heavily in
+semiconductors. Contrary to the original assumptions, the major corporations
+deciced to achieve self-sufficiency in the major services which KIET aimed to
+supply. Accordingly, the demand for KIET's services from the private sector
+fell considerably short of projected plans. At the same time the Government
+decided that electronics was a priority industry, started to direct and
+finance national projects in electronics and KIET's activities were shifted to
+participation in government-sponsored projects. As a result, KIET did not
+become a profit-making, self-financing institution as envisaged at appraisal
+and remained a government RD&E center dependent on government funding. The
+RD&E portion of the project was not carried out, and the earmarked fund of
+US$5 million was subsequently cancelled.
+18.      During the period 1979 to 1985, KIET rendered the following
+services to industry:
+a)   Wafer fabrication was carried out in 1983 and 1984 on a
+small scale but the products were not sold to the local
+industry but, rather, to a U.S. firm.
+b)   Mask sets were provided to industry.  This activity which
+initially was planned to be a marginal one in terms of
+
+
+
+revenue turned out to generate 35Z.of revenue derived from
+services to the industry.
+c)   Testing activities were performed on a small scale.
+d)   KIET provided H2 gas to the neighboring GoldStar plant of
+bi-polar memories.
+e)   KIET provided tailor-made training services to the
+industry. The activity was carried out on a modest scale
+until 1984 and then terminated.
+f)   KIET has also provided, though not as a revenue-producing
+service, on-the-job training to engineers who came to KIET
+to participate in government sponsored projects.
+g)   IC design and system work as well as R&D were carried out
+through the whole period not as services to the industry
+but rather as government sponsored activities which were
+financed on a cost plus basis.
+19.      Over the years, most of KIET's (and later ETRI's) revenue came from
+the Government (including the item Project Revenue on the income statement in
+Annex 4 of PCR). Only some 15? of the revenues came from private business or
+exports. KIET, throughout the project period, did not manage to breakeven and
+accumulated a loss of over Won 6.7 Billions.
+20.      As early as July 1980, the Government had considered to merge KIET
+with two other organizations. This proposed change was the result of a
+decision to reorganize all the research institutes under the Ministry of
+Science and Technology (HOST). The Bank initially viewed the proposed merger
+of KIET unfavorably and conveyed its concerns to the Government at various
+occasions. The Bank's main concern was the lack of commonality between KIET
+as an industry-oriented entity and the other government-owned research
+institutes.
+21.      The Government decided, finally, in March 1985 to merge KIET with
+anothar research institute in telecommunications and form a new institute
+called the Electronics and Telecocimunications Research Institute (ETRI). It
+was established in a different location and consequently KIET's original
+facility in Gumi was sold to a private Korean company. The Bank agreed to the
+merger and to the transfer of KIET's activities from Gumi to Daejoun, and also
+agreed to transfer the undisbursed amount of the loan from KIET to ETRI.
+Project Achievements and Impact
+22.      Until 1982 the rapidly growing electronics industry in Korea
+practically ignored semiconductors. The shift occurred as a result of
+worldwide shortages in semiconductors, which increased the prices of
+semiconductors and also severely impaired production of consumer goods. It
+was then that the leading companies in Korea decided to vertically integrate
+and move aggressively into semiconductors as well. Accumulated fixed
+investments in semiconductors in Korea from 1974 to 1981 amounted to about
+US$200 million. In 1983 alone, investment totaled US$300 million, then
+climbed to over US$400 million each year for 1984, 1985 and 1986. As a
+
+
+
+-6-
+result, Korean firms managed to achieve-a prominent position among the world
+manufacturers.
+23.      It is difficult to ascertain to what extent KIET and later on ETRI
+contributed to the Korean thrust into semiconductors. It is clear that the
+thrust has been industry led and not Government led. On the other hand, the
+role of KIET in pioneering research in semiconductors and proving that Korea
+can fabricate wafers successfully is undeniable. As one of the managers of
+the Korean semiconductor industry puts it, "KIET gave us a shot in our arm."
+To what extent the industry would have decided to go heavily into
+semiconductors without KIET is a question to which there can be no definite
+answer. Conversely, to what extent the manufacturer's decision to go-it-alone
+was a result of the inability of KIET to deliver reliably and on time is also
+not answerable. These two different views, which are not mutually exclusive.
+can be heard from knowledgeable people inside and outside Korea.
+24.      Perhaps a balanced view of the project (and KIET's) assessment would
+be that it played an important catalytical role but certainly not a leadership
+role in the development of semiconductors in Korea as was originally
+envisaged. KIET's pioneering efforts in 1979-81 in the acquisition and
+development of semiconductor technologies and the demonstration effect it had
+in Korea, and the training provided by KIET to personnel from private entry
+probably in themselves justify the establishment of KIET.
+25.      There are possibly two factors that explain the inability of KIET to
+assume a leadership role in the sector. First, while preparing this project.
+the Bank underestimated the drive, dynamism and risk taking attitude of the
+Korean private sector. Once the private sector made the decision to go into
+semiconductors, it did so in a way which dwarfed KIET and, as a result KIET's
+services became increasingly less attractive. In addition, the Bank also did
+not anticipate the problems of getting the Korean industry to launch into a
+cooperative venture given their fiercely competitive nature and a strong sense
+of individualism. This proved to be one of the main obstacles to getting
+KIET's R&D activities off the ground. Industry cooperation and support are
+critical for an organization like KIET to succeed.
+26.      Adding to the problems was the lack of agility on the part of KIET's
+management and the inability of the Bank to take early corrective action. The
+two problems mentioned above had become evident at an early stage of project
+implementation and the Bank urged the Government on numerous occasions to
+instill more dynamism and private sector orientation into KIET's management.
+But these efforts did not bear fruit. It can be argued that in a project like
+this, it should not be surprising that things do not develop as originally
+envisaged. But what is required on the part of the Bank is willingness and
+decisive action to reshape the project.
+27.      In spite the industry's achievements the success of the Korean
+industry in semiconductor is still not clear. The industry is
+characterized by short life cycle products and by increasing R&D costs. So
+far, the strategy of Korea was to follow the leaders and save on R&D in
+order to compensate for lower effectiveness due to being a latecomer. This
+strategy might not work in the future and the Government and industry might
+look ahead to the future strategy and the role of ETRI. The Government
+should probably do well to study the successes and failures of KIET in
+adhering to its original strategy as stated in the appraisal report. Some
+of the premises and conclusions in this report might be even more relevant
+
+
+
+-7-
+to the present situation.
+28.      The successes or failures of the Electronics Technology Project can
+only be judged against its objectives. If judged narrowly against the
+original objectives of financial self-sufficiency or of completing the R&D
+work program as stated in the appraisal report, the project could be said to
+have failed in those areas. In retrospect, some of the objectives, for
+instance, KIET revenue and profit targets may have been non-realistic.
+29.      However, in a much broader context, taking into consideration the
+Korean semiconductor industry's big move in terms of investment in 1983/84 and
+the huge quantum leap in terms of technological level from 1980/81 to 1983/84,
+it could be said that the project and KIET may have played an important
+catalytic role. In fact, the most single important achievement/success of
+the project was to prove to Korean industry in 1981/82 that Korea, through
+KIET, did acquire wafer fabrication capability and that advanced semiconductor
+technologies were within their grasp.
+30.      The most important lesson that can be learned from this experience is
+the need to enhance the chance of success for such ventures to ensure the
+presence of the following factors:
+(i) There must be strong initial support (including financial
+support) and participation of industry. In order to ensure the
+cooperation, industry should be represented in the management of
+the venture or, at least, be in a position to influence
+decisions. It is also important for an industry service/support
+organization such as KIET to have a close working relation with
+the Ministry with direct jurisdiction over the subsector
+concerned.
+(ii)  The top management of the entity involved must be industry-
+oriented and entrepreneurial to be able to deal effectively with
+industry as well as Government.
+(iii)  The legal framework for such an entity should provide its
+management with the flexibility and agility of a private sector
+organization.
+31.      In the case of a Bank project in a high-tech area which is
+characterized by technologies with short life-cycles and a rapidly changing
+industrial environment, the Bank should be prepared to monitor constantly
+the changing environment, the development of the project and the original
+objectives and business plan in order to be able to respond quickly by
+correcting deviations and/or changing objectives and financial plans. For
+example, in a high-technology area, a facility suitable for research
+purposes can become obsolete for the original purposes. In such a case it
+is important to take into account during project design, a possibility of
+the disposition of a Bank-financed facility. In view of this, the location
+of the project facility is particularly important. The Bank would also
+need access to technical experts in those areas in order to provide the
+Bank and the borrower the reeded technical expertise and applied scientific
+evaluation.
+
+
+
+- 9 -
+PROJECT COMPLETION REPORT
+KOREA
+ELECTRONICS TECHNOLOQg PROJECT
+(Loan 1676-KO)
+I. INTRODUCTION
+1.81        The Korea Institute of Electronics Technology (KIET), a government-
+donated institution established in December 1976, conducted the technological
+development of the semiconductor and computer systems areas in order to promote
+the development of Korea's electronics industry. For this purpose, the Bank
+provided KIET with the Electronics Technology Project (Loan 1676-Ko) which was
+financed with the Bank loan of US $29 million. The project has been, in general,
+adequately carried out in order to attain its objectives.
+1.82        However, under the government's decision on the merger of KIET at
+Cuai estate and Korea Electrotechnology and Telecommunications Research Institute
+at Oaedog Science Park,  a new institute was established as the name of Elec-
+tronics and Telecommunications Research Institute in 1985, and accordingly
+succeeded this loan project. Therefore, the names of all ETRI's hereafter mean
+the former KIET and/or ETRI. Besides, the facility at Cumi established under this
+project was transfered to the private sector in April 1986, and a new seaicon-
+ductor research facility is under construction with the target of Its completion
+in September 1987.
+II. PROJECT PREPARATION AND APPRAISAL
+Preparation. Appraisal and Nexotiations
+2.01        In November 1976, the Coveriwtent of the Republic of Korea (ROK) re-
+quested Bank assistance to finance a project that would promote and assist the
+technological development of the Korean electronics industry. The Bank played an
+important role in shaping the project. The industrial sector mission of November
+1974 recommended that Korea should seriously consider acquisition of the semi-
+conductor technology as a basis for development oi its electronics industry, and
+
+
+
+- 10 -
+the cooperation of Covernnent, inidustry arid research institutions was vital for
+the achievement of this objective. Subsequently, in 1975-76, the Bank acted as an
+executing agency for a UNESP-financed Planting Assistance Project, which included
+a review of the prospects of the electronics industry and suggestions for policy
+formulation in this sector over the period of the 1977-81 Five Year Plan ; the
+Plan emphasizes industry's new development thrust in the direction of the semi-
+conductor and digital systems areas.
+2.02        The Government of the ROK applied to the 8ank for the project with
+$28 million of foreign cost in March 1977. A project preparation mission visited
+Korea in July 1977 to review the project proposed by the Government to develop
+ETRI, and recommended that ETRI should be rediredted from a relatively isolated
+research institution to a service-cum-RDJE organization catering to and working
+directly with industry. The second project preparation mission in May4June 1978
+appraised a $52.8 million project with a foreign cost element of $27.7 million.
+The appraisal was completed in November 1978.
+2.83        Negotiations for the loan was completed in Washington in February 1979.
+The Diak's Board approved a loan of $29 million to ETRI with a Covernment Cuarantee
+in March 1979. The Loan agreement was signed on March 29, 1979.
+Project Objectives
+2.84        The objective of the project was to promote the technological deve-
+lopment of the Korean electronics industry through :
+(a) the further development of ETRI and the Upgrading
+(b) the carrying out by ETRI of programs of technology aquisition, training
+and manpower development ; and
+(c) the carrying out in ETRI's facilities of a program of research, develop-
+ment and engineering for the benefit of the electronics industry in Korea.
+
+
+
+- 11 -
+The Program and Project
+2.85        The project for the period 1979 - 82 consists of the following
+parts
+Part A: (1) Construction and equipping of a semiconductor building, an admi-
+nistrative and systems activities building, a training center,
+a power sub-station with an emergency power generating system,
+a uility plant with air hauidling and chilling equipment, a dion-
+ized water plant and a pure hydrogen generating plant, including
+the provision of land therefor.
+(2) Construction and furnishing of housing and dining facilities for
+ETRI's staff, including the provision of land therefor.
+Part 8: (1) Carrying out of a program of academic, on-the-job and overseas
+staff training, including the provision of educational materials,
+staff attendance at international conferences and seminars and
+invitations of foreign experts to provide ETRI with required
+technical assistance and to conduct short workshops and seminars
+at ETRI's facilities.
+(2) Carrying out of a technology acquisition program consisting of
+the purchase of technology through licensing or other arrange-
+ments with companies and institutions engaged in electronics and
+other related activities.
+Part C: (1) Carrying out at ETRI's facilities of a research, developaent and
+engineering program designed to adapt proven technologies, up-
+grade existing product capabilities and develop new products in
+the electronics field for the benefit of the electronics industry
+in Korea. The program consists of the carrying out of specific
+subprojects for the development of products, processes and systems
+up to the final development stage.
+
+
+
+- 12 -
+;2) The provision of technology, equipment, speciality materials,
+experts' services and overseas training required for the proper
+carrying out of the above subprojects.
+Covenants
+2.06        The status of compliance with Loan and Project Agreenments is at
+Annex 1. Performance with respect to compliance with covenants has generally been
+good, though poor in some respects of the area of operation of RD&E program. The
+reason for this is discussed in the relevant section of this report.
+III. PROJECT IMPLEMENTATION
+Loan Effectiveness and Project Start-up
+3.81        All the conditions for loan effectiveness were met within the appro-
+priate period and the loan was declared effective on June 28, 1979.
+Project Revision
+3.02.        The project did not undergo any substantial revision during 1979-82.
+There were, however, the following changes :
+(a) ETRI's succession of the project with the merger of KIET at Gumi estate
+and KETRI at Daedog Science Park ;
+(b) Cancellation of the use of RD & E fund ; and
+(c) Transfer of the Cumi facilities to the private sector.
+
+
+
+- 13 _
+Impleaentation Schedule
+3.83        she original schedule for construction of the various component
+works of the project provided for project completion by September 1979. However,
+the construction of the semiconductor building was completed in April 1981, 18
+months behind the original schedule, and that of computer building, ia May 1982,
+two years and 8 months late. The delay in project execution was caused by the
+following factors :
+(a) the semiconductor building, as the filst construction in Korea, needed
+more careful review of the building design by Rasmussen Ingle Anderson
+Corp. in the USA and well-experienced expert's consulting due to its
+speciality :
+(b) the delay in installation of the facility-supporting equipments for
+mechanical works due to long-lead time for their procurement with foreign
+expenditure ; and
+(c) the budget shortage for the computer research building, resulting in its
+completion with the additional budget of about 508 million won in 1982.
+The delay in construction of semiconductor building was to a great measure
+contributory to the delays in delivery and installation of research equipment,
+whose installation, in most cases, were delayed until the end of September 1981.
+3.84        The original schedule for overseas training and foreign invitation
+programs was to be conducted for the period of 1979 to 1981. In execution, these
+training and expert invitation programs have been continuosly carried out until
+1986. A comparision of the original appraisal and actuals on these programs is
+given below
+
+
+
+- 14 -
+Table 1: s RAINING   EXPERT INVITATION
+(Units  Han-months)
+fippraisal Estimate         Actuals
+Description
+Number   man-months         Number   man-nmontlhs
+Trainina
+* Semiconductor     65          330               54          316
+. Systems           78          428               46          378
+. Management          8          48                 5          13
+Total             143         858               185         707
+Conference             25           -                63          -
+Expert Invitation
+. Semiconductor      32          32                la          46
+. Systems            32          32               21           11
+. Management         17          17                            -
+. Technical           1          20                 1          17
+Advisor
+. Facilities          3           1                2           23
+Total              85         164                34          97
+The training and expert invitation programs were somewhat poorly progressed
+until 1981 because of (i) the heavy preasure on construction of semiconductor
+building and procurement of research equipment, and (ii) the difficulties in
+locating proper training institutions and suitable experts in selected tech-
+nology areas who were willing to provide such services. However, generally
+speaking, these programs have been adequately carried out to attain the objec-
+tive of up-grading of ETRI's tech&a,-:cal base in the areas of semiconductor
+and computer system.
+
+
+
+- 15 -
+3. 05       The technology acquisition program for 1980 was first prepared in
+Noveiber 1979 and submitted to IERD, but ihereafter no further pro-,ess was
+made.  In May 1982, a technology transfer avrEt.ent with VLSI Technology, Inc.
+(VTI) in the USA was made in order to acquire the silicon gate MMOS technology
+of 32K/64K ROM with the terms and conditions of provision to VTI of the wafers
+processed in return for royalty as the technology fee. With this technological
+assistance, ETRRI successfully established 32K/64K ROM production technology,
+first in Korea. In November 1985, a joint development agreement on super-mini
+computer system was made with American Information Technology, Inc. in the USA
+with the terms and conditions of payment of one million dollars of technology
+fee. Under this agreement, 16 meabers of ETRI staff are under training for the
+acquision of VLSI design, and hardware/software technologies design of computer
+system for one year to June 1987.
+3.86        The RD&E program was to finance both ETRI and industry-sponsored
+projects carried out in ETRI's facilities for the development of products,
+processes and systems up to the final development stage. To ensure that research
+work is closely related to industry goals, the major portion of the research work
+carried uut in ETRI's facilities was required to have an industry sponsor. As the
+RD&E program required of the above terms and conditions, any agreement between
+ETRI and industry for such project had not been reached by 1981 due to the
+industry's uncertainty of semiconductor industry. However, recognizing the
+importance of semiconductor industry, big companies began investing enormous
+amount of funds on production and research facilities for the self-development
+of semiconductor and computer related products since 1981. Subsequently, the
+Ministry of Science and Technology establish a national research system in order
+to stimulate product oriented research and developaent in the joint efforts of
+government-supported institutes and the industry since 1982. Thereafter, ETRI
+began catering its research activities to the national program and the RD$E
+program became difficult to be carried out.
+
+
+
+_ 16 -
+Procurement
+3.87        Procurement of equipment was executed by ETRI in accordance with
+the procedures established by the World Bank Loans. The majority of equipment
+was originally planned to be installed in the early quarters of 1988. However,
+in actuality most of the equipment was contracted in the 3rd quarter of 1988
+and installed in September 1981, one and half years behind the original sche-
+dule. The poor progress of procurement was mainly caused by (i) the delay in
+construction of semiconductor building, and (ii) the adjustment of some items of
+equipment due to some changes in research programs.
+3.88        Sone of additional equipment was procured for the development of
+32K / 64K ROM technology in 1982, and for the conversion of 3" bipolar line to 4"
+line in 1984. In 1986, seven items of additional equipment were procured in order
+to improve such services as mask making and testing to the industry.
+Project Cost
+3.09       iA comparison of  the original appraisal with  actual project cost is
+given below
+
+
+
+- 17--
+Table 2: PROJECI COST
+Units $000 (Local - Won million)
+Appraisal Estimate I/          Actual Cost 2/
+Description
+Local   Foreign    Total        Local   Foreign   Total
+(1) Construction & Equipment
+. Constructiun                 4,200    1,788    10,448        6,885       -       8,860
+. Supporting equipment          .808    5,368      7,-80l        -       5,841    5,841
+. R&D equipment                         11,690    11,698         -      13,766   13,76G
+. Installation, etc.             570       -        1,190         733      -         984
+. Sub-total                    5,570   18,830    30,338        6,738   19,687   28,651
+(2) Technology Program
+. Training                        58    2,078      2,178         -       2,393    2,393
+. Expert Invitation              l80       770        980        -          940      948
+. Tech. Acquisition              -       1,660      1,660        -       1,008    1,008
+Sub-total                      150    4,500      4,810         -       4,333    4,333
+(3) Contingencies                  850    4,890       5,848        -          -       -
+Total                      6,570   27,428    40,980        6,738   23,940   32,984
+I/  The exchange rate used at appraisal was $1 - 485 Won.
+2/  The exchange rate for actual cost is at Annex 2.
+3.1o        The RD&E program is excluded in the above table due to non-execution
+thereof. The local costs are the investment on the Cumi facilities for 1978-84,
+and the foreign costs are the investments on equipment  and technology programs
+financed from the Bank loan for 1979-86.
+
+
+
+-18 -
+3.11       The Iccal costs oa completion jf construction is 6,805 million won
+v.s. 4,280 million #on at appraisal. The major reason for overruns is caused by
+the increase of construction costs due to-the delay in construction of seriicon-
+ductor building.
+Disbursement
+3.1.       The estimated and actual annual cumulative disbursement of the loan is
+as follows
+Table 3: CUMULATIVE DISBURSEMENT
+($ Million)
+Aippraisal          Actuals I/          Actuals as Percent of
+Bank Fiscal Year       Estimate                                Appraisal Estimate
+1979               13.3                 0.047
+1980               21.9                 7.949                     36
+1981               27.6                14.718                     54
+1982               29.0                17.115                     59
+1983                                   20.397                     70
+1984                                   20.585                     71
+1985                                   26.681                     71
+1986                                   22.638                     78
+1987                                   23.941  21                 83
+1 The slow disbursement was caused by delays in procurement of equipment and
+by non-execution of RD&E program.
+2, Final disbursement effected on January 38, 1987
+
+
+
+- 19 -
+Loan Allocation
+3.'3       Original, revised and final all-cation of the loan are
+Table 4: LOAN ALLOCATION
+($ million)
+Loan          Revised         Cancellation      Final
+Category                  Allocation    Allocation    8/30/85              Allocation
+Original      8/2 W/82
+1) Equipment                  17.7           19.6              -              19.6
+2) Expert's Services           0.25           0.25            0.036            0.214
+for Semiconductor
+Facilities
+3) Training, Experts'          4.15           4.15             -               4.15
+Service and Technology
+procurement
+4) RD&E program                5.0            5.0             5.6
+5) Unallocated                  1.9
+Total                      29.0           29.0             5.036           23.964
+3.14       In August 1982, the Bank agreed to use the unallocated funds for
+procurement of equipment, taking in account the increased cost of contracted
+amounts of equipment. In accordance with discussions between the represent-
+atives from the Bank and ETRI in Washington in July 1985, the Bank agreed to
+cancel the use of the 85.0 million under category 4 and the $36 thousand of
+the remaining fund under category 2 in August 1985.
+
+
+
+- 20 -
+Operation
+3.15       Semiconductor processing facility urider tha project was brought into
+operation in September 1981. Henceforth, ETRI was placed on a position to provide
+the industry with such services as wafer fabrication (bipolar and MOS), mask
+fabrication, IC testing, reliability test, etc. With the completion of computer
+building in May 1982, system-related researchl activities began to be carried out
+actively. However, computer production project including printed circuit board
+was given up and accordingly some items of PCB equipment procured were sold to
+the industry.
+3.16       With the enforcement of a national research system by MOST since 1982,
+ETRI placed more emphasis on the conduct of national research programs than on
+providing the industrial services. Major projects like development of VTR IC's
+and 8 bit microprocessor/microcomputer, development and ditribution of personal
+computer, development of 8/16 bit CPAM machine and 16/32 bit UNIX computer, etc.
+were carried out by the joint efforts of ETRI and the industry.
+3.111      Since 1981, big electronic companies like Samsung, ColdStar and Hyun-
+dai began to invest in the semiconductor technology in order to take some port-
+ion of the newly growing semiconductor market, and the Korean government also
+supported them for a breakthrough of electronic technology development in Korea.
+In this regard, at the end of 1983, it was reviewed that ETRI should lead the
+industry through development of more advanced tezhnologyies with up-grading the
+semiconductor facility and transfer its semiconductor facility at Cumi to the
+private sector for more economic utilization of the facility. Accordingly the
+transfer of the Cumi facility was proceeded with for bidding, and a transfer
+contract was awarded with Daewoo Telecommunications in 1984. However, due to
+Daewoo's waving of the transfer agreement in August 1984, the transfer problem
+was held back. In January 1986, the transfer of the facilities was rebidded, and
+coapletly transfered to ColdStar Semiconductor in April 1986.
+3.18       In the end of 1984, to meet the information society in the 2008's,
+the Korean government decided to establish a new institution with the merter of
+
+
+
+- 21 -
+the two institutes ; KIET at Cumi estate and KETRI at Daedog Science Park. In
+March 1985, Electrornics and TeleconL'iunications Research Institute was establish-
+ed with a future-oriented research system-to undertake national research and
+development on advanced information technology integrating the areas of telecom-
+munications, computers, automations and semiconductors. Thereafter, ETRI began
+to carry out the custom semiconductor IC design activities including telecom-
+munication IC's.
+Performance of Consultants, Contractors, Suppliers and Borrower
+3.19       In accordance with the provision of Article 2.82 to the Project Agree-
+ment, a technical advisor was empolyed in order to assist ETRI in carrying out
+of technology programs and RD&E programs. The contract was entered into in October
+1979 for two years and three times extended to June 1986 upon the extension of
+the loan project. The technical advisor had worked at ETRI U. S. Office as a
+part-time job, and visited ETRI when necessary. The performance of the technical
+advisor overall was adequate. He effectively assisted ETRI in preparing bid
+documents, specifications, evaluation of bids for procurement of equipment, and
+gave suitable recommendation on training and expert invitation programs.
+3.24       As agreed under the provision of Article 2.83 to the Project Agreement,
+a semiconductor facility expert was empolyed for two years starting in Septerber
+1979 in order to give day-to-day supervision on construction of semiconductor
+building. The performance of the expert was generally adequate, and ha also
+assisted ETRI in procurement and installation of semiconductor equipment, and
+start-up operation of the semiconductor facility.
+3.21       The performance of local civil engineering contractors for building
+and supporting facilities was generally adequate, though the delay in construc-
+tion of semiconductor building. The research and supporting facility equipment
+contractors delivered and installed their equipment without any critical problem
+on execution of the contracts.
+
+
+
+- 22 -
+IV. OPERATING PERFORMN4ANCE
+4.81       The actual services to industry such as wafer fabrication, nask making,
+IC testing, liydrogen gas, tlaining for engineers from industry are given below
+Table 5: SERVICES TO INDUSTRY
+(Unit : Won millions)
+Service Revenues      1979      1988      1982      1983      1984      1985     1986
+Wafers                -         9         5        99        56          -        -
+Masks                51        35        42        78       134       435       631
+Testing              31        43         8        14        16       884    1,777
+H2 Cas                -         -        34        82      212          -         -
+Training              -        26         -        44        78          -        -
+Total               82       113        89       317      488      1,319    2,408
+At appraisal of the project, the goal of ETRI was to become self-supporting with
+the service incomes plus RD&E revenues since 1984. However, the actual services
+to the industry were carryed out so poorly that the comparision with that at the
+appraisal was not made. The reasons on poor performance of the industrial se-
+rvices were caused by (i) la.w start-up operation of semiconductor facility due
+to the delay in construction and equipping of the semiconductor facilities, tii)
+demand reduction of wafers from the industry due to big companies' participation
+in the semiconductor industry since 1981, and (iii) concentrating ETR's efforts
+on national research programs instead of the industrial services since 1982.
+However, the supply of mask-sets and testing to the industry has been adequately
+carried out to meet the demand thereon from the industry. In the training of
+industry personnel, the number of technical manpower required for the industry had
+been trained through establishment of courses at ETRI such as design and process
+technology of semiconductor, micro processor applications, UNIX, etc.
+
+
+
+- 23 -
+4.02        The performance of research and development in the areas of semicon-
+ductor and computer systems was adequately-carried out, though the RD0E prograis
+with the assistance of the Bank loan was not proceeded with. The research acti-
+vities may be described in the following three plhases
+(a) First Plhase (1978 - 1981)
+During this phase, ETRI developed the technological base through recruitmemt
+of superior staff and foreign training of its engineers, while it was busy
+with building construction and equipment procurement. Development of basic
+technologies in the areas of semiconductor design and process, and partial
+development of computer hardware and software were carried out. Especially,
+a traffic control system for Seoul City was successfully developed and instal-
+led in 1981, and its technology was transfered to Oriental Pricision Co.
+(b) Second Phase (1982 - 1984)
+With the start of a national research program since 1982, in the semiconductor
+area, ETRI acquired its development capabilities of advanced semiconductor
+technology through development of basic CAD technology, fine line mask tech-
+nology, epitaxial layer growing technology, quality assurance and control
+technology, etc. In the joint efforts with the industry, ETRI developed bipolar
+12L process technology and 5 items of VTR IC's using its process, and silicon
+gate NMOS-CMOS process technology and 8 bit uPFuC IC using its process.
+Especially the development of YTR IC's was worthwhile because Japanese chip
+suppliers had been hesitant to supply those IC's to Korean set makers. And as
+in-house projects, pilot production of 32K/64K RON wafers was successfully
+carryed out in 1982 - 83, first in Korea, with the technical assistance from
+VTI in the USA, and semiconductor sustaining technology was started to be
+devloped in 1982, which resulteA in acquiring semiconductor production tech-
+nology.
+
+
+
+--24 -
+In computer area. by virtue of computer standardization in microsystems,
+system development with standard components was performed by using systen
+integration and software porting technology. For the purpose of development
+of Korean-type micro computer systems, development of 8/16 bit u-processor
+based CP/4 machines, personal computers for education and 16/32 bit UNIX
+systems were carried out in the joint efforts with the industry, Especially
+16132 bit UNIX system technology was transfered to the participant companies.
+(c) Third Phase (1985 - 86)
+With the establishment of ETRI, in order to meet the information society in
+the 2980's, the areas of electronics and telecommunications, which will play
+the key role as the infrastructure in the society, are required for the
+systematic technology development integrating computers, telecommunications,
+automation control, semiconductor, software, etc. For this purpose, ET:I
+started the technology develpment of computers, automations, custom VLSI's
+and next generation semiconductors.
+In computer area, in order to develop computer systems for the national
+administration information services, the required technologies are under
+development, and research and development projects for obtaining the abili-
+ties to develop knowledge processing computer systems using the artificial
+intelligence technology have been proceeded. In 1986 development of multi-
+processor computer system started for developing supermini computer system.
+In automation area, for the purposes of development of the technologies of
+standardized distributed control systems and provision of technological
+background with the industry to have the advanced structures of industrial
+manufacturino systems, ETRI started development of a manufacturing inform-
+ation processing system, graphic workstation, and instrumernt and control
+technologies.
+In semiconductor area, with the creative conception and technology based on
+the technology development capabilities accumulated by the second phase,
+
+
+
+- 25 -
+ETRI started the carrying out of development of custom VLSI techlnologies for
+telecommunication IC's, computer systems, etc., development of menmfry devices
+including 4M DRRM, development of design automation system, development of
+next generation semiconductor (GaAs, etc.), development of process equipment
+and materials, and surface analysis technology.
+V. FINANCIAL PERFORMANCE
+5.91        At the appraisal of the project, ETRI was to become self-surporting
+with the service incomes and royalty revenues within five years. However, as
+seen in section of Operating Performance, the industrial services were poorly
+carried out and the RD&E program with the Bank loan was not executed completely.
+Accordingly, the comparison of the actual financial performance with that at the
+appraisal was not made, and the actual financial statements are attached hereto
+as Annexes 3, 4 and 5.
+5.82        The numbers in the financial statements in 1985-86 showed much inc-
+reases due to the merger of two Institutes. The research costs had been mostly
+supported by the MOST by 1984, but since 1985 the research costs are being in
+great portion by the Korea Teleconuunication Authority (KTA) besides the MOST.
+A new semiconductor research facility is under construction with the finanicial
+support of KTA aiming at the completion of its construction in september 1987.
+5.03        The transfer of the Guni facility to the private sector was, as seen
+in section of Operation, completely ended In April 1986. The transfer price was
+16,865 million won in total : 15,365 million won for assets and 1,566 million won
+for bid premium. Of the transfer price, the IBRD loan liability equivalent to
+USD14,211 thousand was assumed by Cold Star Semiconductor Co., the Assignee, and
+the balance of 4,217 million won was paid in cash.
+
+
+
+- 26 -
+VI. INtSTITUTIONAL PERPFORMANCE
+OrKanization and Manarement
+6.91        The former KIET was established in December 1976 as an outgrowth of
+the semiconductor development and systems units in Korea Institute of Science aild
+Technology. A suitably qualified president was designated in November 1977, and
+ETRI was expected to be run as the service-cum-RD & E organization since 1984.
+A seperate IBRD project management unit was not created, but the management of
+the IBRD project was carried out by the project development group.
+2.92        While building construction and equipment procurement were still on
+progress, a new president was designated in February 1981, and ETRI was reorgan-
+ized for more effective management towards the RD & E-oriented operation of the
+semiconductor facility instead of the production services for industry, and
+accordingly ETRI's efforts has been emphasized on carrying out the national
+research programs to meet the government's goals for science and technology
+development since 1982.
+6.93        ETRI's performance has been, in general, adequate even though the
+self-supporting goal was not attained. However, many difficulties in management
+of the project have been encountered due to the number of changes of managers,
+the transfer of the Cumi facility to the private sector, and the merger of two
+institutes (KIET and KETRI). Effectively coping with these diffilculties, ETRI
+had contributed, to a great measure, to promoting and stimulating the technology
+development of Korea industry in the areas of semiconductor and computer systems.
+
+
+
+- 27 -
+Staffing, Recruitment and Training
+6.84        In order to lead Korean industry with advanced technology capabil-
+ities in the related areas,  ETRI was required to recruit a superior staff and
+train them. During the period of the project, recruiting the superior staff was
+not easy because Cuni estates had not been developed as a Silicon Valley in Korea
+as planned due to the industry's negative response on the move to the Electronics
+Industrial Complex at Cumi, and superior manpower preferred to enter research
+institutions and/or pay-well companies in Seoul or its vicinity. Besides, some of
+the superior staff were lost to academic institutions and/or the industry due to
+the 1uug period of proceedings with the transfer of the Cumi facility to the
+private sector since the end of 1983.
+6.85        The training program for ETRI engineers was originally to be carried
+out in the three major phases : (i) basic training at KAIST, other Korean
+universities, and courses at ETRI itself ; (ii) overseas group and fellowship
+training under formal training schemes in academic and industrial settings ; and
+(iii) on-the-job experience in overseas companies in selected technologies.
+Overseas training programs in the above (ii) and (iii) have been adequately
+carried out, as stated in the section of the Implementation Schedule. Courses at
+ETRI such courses as u-processor applications, computer languages, micro computer
+software, semiconductor design / process, etc., had been adequately carried out
+for ETRI staff as well as engineers from the industry. Basic training at KAIST
+has been carried out since 1981 with the operation of part-time courses for the
+engineers from research institutions.
+Accountinr SYstem
+6.06        At the appraisal of the project, ETRI was to establish a separate
+financial department for developing an appropriate cost accounting system in
+view of the complex financial accounting requirements related to ETRI operations
+and RD & E. However, though a financial department was established in the end
+
+
+
+- 28 -
+of 1986, a cost accounting system was not made because ETRI gave its major efforts
+OG national research pro-ra2s if.sead of the industrial services. Accordingly,
+the government's budgetinZ and acaounting-systae has been continuously appliedc.
+Audit
+6.67         In accordance with the provision of Article 4.82 of the Project
+Agreement, the local accounting firms have audited ETRI's accounts since 1988
+and the audited accounts have consistantly 'been submitted to the Bank within
+the covenanted time of four months after the end of each fiscal year.
+6.68        ETRI established an internal audit system, and a fully qualified
+internal auditor was appointed in 1978. His replacements were generally qual-
+ified, and the system has worked well to meet efficency and improvement of
+lintitutional operation and management, especially seeking prior prevention
+of the expected problems.
+VII. PRC)JECT JUSTIFICATION
+ProJect Achievement
+7.61        The project in general achieved the objectives set out at appraisal
+through the provision of the industrial services and carrying out the national
+research program, though the RD & E program with the Bank loan was not carried
+out. The supply of mask-sets and testing service has contributed to import sub-
+stitution, reduction of turnaround times, cost-saving, and improvement of product
+quality and reliability for Korean semiconductor industry. Through the success-
+ful conduct of the national research program since 1982, especilly in the joint
+efforts of ETRI and the industry, the project has greatly contributed to promot-
+ing the development of a technological base in the Korea electronics industry.
+
+
+
+- 29 -
+.onsequently, Korea is now enjoying import substitution and export increase of
+electronic products 3atd devices through the localization of then. Besides, the
+trainIng Jf industry personnel at ETRI facility has greatlj- contributed to the
+development of the technological base of Korean electronics industry, and also
+those who was trained at ETRI have also played the important roles for establish-
+clent of the private training centers in the areas of semiconductor and systems.
+7. 02       In the semiconductor area, design and process technologies of VTR
+IC's developed with the joint efforts with the industry was successfully trans-
+fered to the two participating companies. Thereafter, VTR IC's are now under
+commercial production for import substitution. ETRI has, through development of
+silicon gate NMOS / CMOS technologies, effectively contributed to stimulating the
+industry's vigorous investment on semiconductor production facilities and the
+indusry's technological base.  Consequently. the industry developed 64 K DRAM in
+1984 and 256K DRAM in lY85, which are now under commercial production, and also
+successfully developed the prototype of I F. DRAM in 1986.  In addition, based on
+the research and development experiences in the meantime, ETRI and three big
+companies started the development of submicro meter VLSI technology on a large-
+scale national program in 1986, wiilich is expected to bring out a productive 4 M
+DRAM within two years.
+7.83        In the coaputer area, ETRI promoted a computer mind in Korea through
+the successful development and distribution of personal computer for education
+in joint efforts with five local firms.  16 bit UNIX system technology was
+successfully put into commercial production at the participating companies in
+1984, and also 32 bit UNIX systems technology developed in 1986 will be trans-
+fered to the participating companies in 1987. Subsequently, the industry is now
+accelerating local production of small & medium size computers. Furthermore, with
+the use of the accumaulated technologies in the past years, in 1986 ETRI started
+the development of super-mini computer system technology, knowledge processing
+computer systems, FA network systems technology, instrument and control tech-
+nology, etc., effectively to assist the realization of ISDN by the year 2960.
+
+
+
+- 30
+Project Spin-offs
+7.04        As spin offs from the project, ETRI obtained such research results
+as design drawings, masks, design tools, etc. of semiconductor devices, and
+prototypes, development documents, etc. of PCM, P/C and 16/32 bit computer
+systems.
+Least Cost Solution
+7.05        ETRI has overalI adopted the least cost policy in every step of
+planning, review and execution of research programs, not to mention building
+construction and equipment procurement at the early stage of the project.
+However, the delay in construction of the semiconductor building r-sulted in
+cost increase.
+Rate of Return
+7.06        Since ETRI has been continuously involved in the research and devel-
+opment programs with the assistance of the government, the rate of return could
+not be applied. However, the small amouznt of royalty from technology transfers
+to the industry was used for payment of staff incentive and the cost of basic
+in-house research programs. Besides, the project attained indirect investment
+effects like import substitution and foreign export through localization of the
+semiconductor and computer products with the help of the services and joint
+development programs provided by ETRI during the period of the project.
+VIII. BANK PERFORMANCE
+Overall and Specific Performance
+8.01        The performance of the Bank in respect of the project was adequate
+in general. The Bank's contribution at the stage of preparation was a positive,
+
+
+
+- 31 -
+and had a naterial impact on the decision of the Korean governaent to establish
+the former KIET as a government-supported. institution which would stimulate and
+support the electronics iadustry's drive into the new areas of seziconductor
+and system technology.
+Supervision
+8.02        Bank supervision over the period 1977 - 86 averages more than one
+mission per year. The Bank's mission closely reviewed several problems occurred
+during the implementation of the project, and their comments overall helped
+ETRI's proper solution thereon. In addition, during the period of proceeding
+with the transfer of the Cumi facility to the private sector, and merger of two
+institutes (KIET and KETRI), the Bank assisted ETRI in leaping up the step of
+advanced research and development with a new semiconductor research facilities.
+Working RelationshiP
+8.83        The relationships between ETRI, the government of ROK and the Bank
+were overall reasonable.  ETRI has always kept the Bank fully informed, as in
+the cases of proceeding with training and expert invitation programs as well as
+in the steps of the invitation to bid, bidding, the award of contracts for
+equipment procurement. Quarterly progress reports, yearly financial reports etc.
+have been also submitted to the Bank in accordance with the relavant provisions
+of the Project Agreement.
+IX. CONCLUI ION
+9.61        The project has made valuable contribution towards the technological
+development of the Korean electronics industry, especially with the emphasis on
+semiconductor and system areas, in order to achieve a high growth level. By virtue
+of developaent of ETRI's technological base, and the joint research program with
+and the services to the industry, ETRI has promoted and stimulated the industry's
+
+
+
+- 32 -
+technological dievelopnent in the areas of the semiconductor and systems.
+Consequently, in 1986 ETRI and the industry began to carry out the higher level of
+research and development prograts such as high density submicron VLSI technology,
+custom VLSI technology for telecommunication IC's, and super minicomputer tech-
+nology with the creative conception and technology in 1986. Korea also began to
+enjoy import substitution and foreign export in the areas of semiconductor and com-
+puter related products and devices since 1985.
+9.82        The institutional impact of the project has been significant. Based
+onthe former KIET's achievements of the technological development in the areas
+of semiconductor and systems, a future-oriented institution (ETRI) was established
+in 1985 in order to build the solid infrastructure for the information society
+in the 2800's. ETRI aims at carrying out the systematic research and development
+activities in the information engineering technology areas integrating telecom-
+munications, computers, and sophisticated semiconductors. In this regard, the
+Cumi facility established under this project was transfered to the private sector
+in 1986, for the more economical utilization of the facility, and a new semi-
+conductor research facility is under construction with the target of completion of
+its construction in September 1987.
+9.63       The project seems unattractive in economic terms, due to the poor
+performance of the industrial services. This was caused by the late start-up
+operation of the semiconductor facility, and the industry's self-equipping of
+their semiconductor production facilities, which reduced the need for ETRI's
+provision of wafers. However, the supply of mask-sets ans testing to the industry
+were , in general, adequately performed to meet the demand for the industry.
+The RD&E program was not executed at all. This was caused by the industry's
+negative responses thereon at the early stage of the project, and by giving
+ETRI's major efforts to the national research program.
+
+
+
+- 33 -
+Page 1 of 2
+PROJECT COMPLETION REPORT
+ROREA
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-0O)
+COMPLIANCE WITH COVENANTS
+Section                        Covenant                            Status
+Loan AKreenent
+3.82        Covernaent to provide ETRI with a US $300,080    Yes.
+advance to pay for Bank financed it6ns in
+1979 - 88.
+4..2 (a)    rovernnent to provide ETRI with such funds as    Yes.
+operating costs, working capital requirements
+and capital expenditures in each year.
+4.03 (a)     Periodical reviews by the Government of ETIR        Yes. The Covernient
+staff conpensation structure.                      has reviewed thestaff
+compensation structure
+at the annual Board
+l.eeting,
+Project Agreement
+2.02        ETRI to enpoly experts to assist in carrying         Yes.
+out the technology program.
+2.03        ETRI to eaploy a semiconductor facility             Yes.
+expert to assist in the supervision of cons-
+truction of the semiconductor building.
+2.06 (c)    ETRI to furnish the Bank with quarterly             Yes.
+progress reports on the project implement-
+ation, procurement status of goods, techno-
+logy and services.
+2..8 (a)    ETRI to submit annually to the Bank a four-year  Partial. Though poor
+RO&E pro-ran and an annual technology acquisi-   progressed  the RD&E
+
+
+
+- 34 -
+Paze 2 of 2
+Lion praorabl.                                       proZ-rani, the submis-
+sion of these progracns
+to the Banik had been
+made urntil 1984.
+".09 (a)    ETRI to furnislh the Bank with  annual pro-           Yes.
+grams for training and experts invitation.
+3.04 (b)    Except as the Bank agrees, ETRI shall not             Yes.
+sell, lease, tranfer or dispose of its pro-
+perties or assets.
+3.05        ETRI to establish and maintain.a separate             Partial. A financial
+financial and accounting department to be            and accounting depart-
+headed by a qualified financial director.            ment was established in
+1980 and abolished at
+the end of 1981.
+3.06        ETRI to employ a technical advisor to                 Yes.
+assist in the discharge of its managerial
+functions.
+3.07        ETRI to adopt and implement a cost account-           No. Due to the poor pro-
+ing system in consultation with the Bank.            gress of the services,
+the government's budget
+and accounting system
+has been continuously
+applied.
+3.08         ETRI to adopt and implement a staff incen-           Partial. fAn incentive pay-
+tive system.                                         ment rule was adopted and
+implemented only in 1983.
+4.02         ETRI to furnish the Bank the auditors with           Yes.
+reports of acceptable scope and details
+within four months of the close of the
+fiscal year.
+4.04         Except as otherwise agreed with the Bank             Yes.
+and until Decesber 31, 1983, ETRI to make
+no capital expenditures exceeding
+$2,880,088 equivalent in any one year.
+
+
+
+2
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+BALANCE SHEETS
+1    1979            1986           1981      1    1982      1    1983      I   1984    I   1985    1    1986    I
+F~~~ ~~ ~ ~ ~ ~ ~~ I_                                 I                              + I                         *             I I          I
+i!   -                               I              i               I              I              I              I             I            I 
+ICurrent AJsets                      I              I              I               I              I              I             I
+1.  ash                              I        38    1       164                 1        3.505          2.16    1   6.356   1  19.002   1  33.uI   I
+1. Accounits Recelvable              I       744    I       286    1       233 1           167    1       445    1      255   1   3.134   1   2.719   1
+1. Inventories                       I        66    1        38    I        144    1        98    1       641    I       488   1   1.438   I   1.012   I
+O. Other Current Assets              |       333    1       264    1        17l I          542    I    1. IO    |       622   1   1.075   1        337   1
+|  Total Current Assets              |I t1176    I          6         1      29    I     4. 31          4 1i,3-2T     7.721   1  24, 649   1  37.371   1
+I Fixed Assets
+I. Gross Plixed Assets               |    3.679    |   10.782    1   16.439    I   18.83    I   21,236    I  21.752   1  34.268   1  32,781   I
+|. Less Depreciation                 I        36    1       136    1       736    1    2,179    1    3.911            5.803   1   1.922   I   4.569   1
+IHet Fixed Assets                    |    3.043    1   16,646    1   15.709    1   15.904    1   17.326    1  15.949   I  32.346   1  28.212   I
+I  I             I              I               I              I            'I             I            ~      ~     ~~~~~I  I
+Iether Assets                        |       414    I       325    1        ill            125    I       106'   I      190   I   6.056   I  21,248   1
+I~ ~      ~               I   - I                               _    I*- _I-I_                                                   I    .I
+ITotatl Assets                       1    4.633 1        11.663    1   16,649    1   20.341    1   21.753    I  23.866   I  63.045   I '86,831   I
+ILIABILITIES & CAPITAL               I              I              I               I              I              I             I            I            I
+ICurreit LiabilIties                 I              I       741    1       664    I    3.694    I    1.962    I   8.344   I  18.659   I  25.750   1
+ILong-term Liabilities               I    1.053    I    6.534    1   10.834    1   12.928    1   13.836    I   8.828   I  11.871   1  15,224   1
+I (Including Bank l.oan)             I       (23)   1    (6.464)   1  (16.250)   1  (12,321)   1  (13. 193)   I   (8.648)  1 (11.871)  I (15.224)  1
+IOther Liabilities                   I    . _       I        .     I               I   .I                               595      1 3.151   I  -112L   I
+l,otal Liabilities                   1     1.053    |    7.275        I 11.498    1   16,622    1   15,792    I  17.767   1  33.688             4S,295   !
+I Equlty Punil
+I. Goveinment Conitribution          I    3.621    I    4.452    1    5.6s2    1    6,380    1    6.737    1   7.819   1   7.964   1  24.041
+|. Industry Contribution, etc.    |          471    I       487    I       564    I        586    1    2.883    I   2.946   1  23,365   1  19.585   I
+|. Earned Suplus/Deficit             I        89    1     ffL    I   -1,0665    1   -2.67    I  -3.659    1 -4.672   1  -1.904   1  -2. 09    I
+ITotal fquity                        1    3,582    1    4,388    1    5,151    1    4.319    1    53. 966T    i                i -2 2973&S   I -i;5-3    1
+ITotal L.iabilitics & Capital        I    4.633    1   11.663    1   16.649    1   20.341    1   21.753    1  23.860   1  63.045   1  86.831 1
+I               I              I               I              I              I               I            I            I            Il  
+I                           ...-.-.. ....~                .              .______ 4       I              .            .            ._____   ______
+
+
+
+ANNEX 3
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+INCOME STATEMENTS
+I                                  |    1979    1    1980 1          1981     1    1982    1    1983    1   1984    1   1985    1   1986   1
+EVFl                               I             I              I             i              I             I            I           I            I
+I     -IEPNE                       I             I              I             I              I             I            I           II
+Project Revenues                  I      420   I       607   1        645    I    4.236    1    9.199    1   4.842   I  14.981   I  21.182   1
+iRoyalty Incone                  I       -                                            I -  I  1  19   1  5   1    14  1    -       I       48  I
+IGovernment Contrivution           1      678   I        948         3. 172    i    3.012    1    2.329    1   2.809   1    -       I   4.019   1
+lOther Income                      I      185   1        469   1       293    1       142   1    1,215    I       669  1   1.568   1  .93   I
+I                                  I    1,27     I    1.964    I    4.110   I    7.4600          12.748    I   8.334   1  16.549   1  15.301 I
+IOPERATING EXPENSS                 I             I              I             I              I             I            I           I            I
+Iflrect(ost                        I             I              I             I              I             I            I           I            I
+I  .Labor                          I      106   1        221           128    I       669    1    1.282    1      533   1   3.130  I   5.499   1
+I  laterials                   I       229   1       26    I        222    I      759    1       723   1      558   1   2.425         4.625  I
+I  . Overheads                     I        3   I        157   1       268 8        2.127   1    6.026   1   2.796   1   4.829   1  11.300   1
+|General and Administrative        I      851   I    1,576    1    2.961 1          2,838    1    2.869 :   2.665   I   5.586   I   9.167
+Depreciatlon                     I        21    I       94    1       $95    I    IL472          1. 7qS       1.983   1      91S       _ 32.6    I
+I    1,216    I    2.248   |    4.654    I    7.865    |   12.691    |   8.475   |  16.88    I 13.6hSI  I
+I~~~ I                                  I                       .    I              I            *I            I           I            I 
+|OPrRlATI NG INI MM/OSS                    65    I     -284    I        56            4 465    |     57..  I   -141   1   -336   | 1. 600  1
+I                                  I             I              i             I              I         '     1          1I                
+ILES' . Interest                                         3 -  I  307    I  568    I   791    1      996           893 1       949   I   1.682 1
+|     . Other                      1        21            49 1           61           280 1          731           471        663          S84I
+I     . Income Tax                 I     -       I      _       I     _       I              I             I    _       ;       161        1261
+NUFF I NfVE / f IDSS               |       63 1        -640    1    -518    1  -1,476            1.012        -1.081   I -1.964   1   -142  1
+I                        ~       ~     ~       ~~I  I  I             I              I             I            I            I           I
+I                ._                              I      .                     I                                                       
+
+
+
+4
+ELECTRONICS TECHNOLOGY PROJECT
+(Loan 1676-KO)
+EMS FLOW STATENTS
+f~~~~~~~~~~~ _                                                    
+I                                  I    1979     I    1986               - 1981  I    1982   I    1983 3        194       1985    I   1986
+I                                  I                 -----                                                                            
+ISOURL9SS                                        I              I                            I             I            I           I            I
+I Internal cash Gleneratlo.        I             I              I             I              I             I            1           I            I
+I    Net Inooe                    1       63 1        -649    I    -518    1  -1.476    1  -1.812    1  -1.Q81   I  -1.904   1    -142
+Depreciationi, etc.          1        76    I      387   1        871         2.761    I    4.490   l   2.32 1         7.131      26.898 8
+133    I    -253    I       30           1.285    I    3.478    I   1.451  I   5.227   I  26.666   I
+|Conteributlous                    |    1.376    ;    1.449    I    1.277    I        759 8       2.654    |   1.146   I  13.238   |  12.248   |
+ILong-term Borrowings              1       22   1    6.381    |    4.743    1    1.475          1 1.80  1          89   1      199   I   2.645   i
+I (luclodding Bank Loam)           I             I                  (4.423)   1   (1.475)   I   (1.808)   1       (89) i            1  (2.645)  I           t
+IPrior Year AdJusteent            |      -       I     -       |4   I                _.     1         2   1       68- 1 _I               *      I
+i    1.531    I    7.577    1    6,333        1 3.453    1    7.942    1   2.754   I  18.664   I  41.559 m              _6
+_   _    _                        II    'I11                                                                                                    I
+APPLICATIONS                                    I             I              I             I             I            I            I
+I             I              I             I             1              1            1           1            I
+Aldditlons to Fixed Assets         1    2.552    I    7.825   1    6.23    I    2.099 9          5.528    |   1.277        8 8.831   I  33.393   1
+IDecrease In Long-term Debt        I     -       I      -       I     -       I       126   1    1.193'  1   4.319   1   3.787   1    .027   I
+| (Includins Payment of 1IMD Loan) I             I              I             I      -       I     (99:.)  1  (4.319)  1  (3.787)  1  (2.827)  1
+ISeverance Payments to Employees 1         19 I           12            68    1        72            79   1       149  1       57          159   I
+IPrior Year Adlustent             I     -       I      -       I   __        1       109    I    _  L   I    -         I    _      I   _ 2! I
+2562    I    7.837    I    6.091    1    2.466    1    6.891    1   5.736   1  12.674         1 35.S18   I
+I Caiange     bWorking Capital     I   -1.931    1    -261    1        242    1    1.053    I    1.141    ;  -2,981   1   5.998  1   6,941   1
+II _          I         .                                                                           -
+ITotal Applicatiotis               I    1.531    I    7.577    1    6.   I          1453    1    7.942    I   2.754   1  18.664   1  41.5~9   I
+I-                                 I             I              I             I              i             I            I           ,            I
+I                                  I      _             t                     I              I      *                   I     *           _      I  
+
+
+

@@ -1,0 +1,1966 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 15299
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+JANUARY 23, 1996
+Infrastructue Operarions Division
+Country Department I
+East Asia and Pacific Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EOUIVALENTS
+Currency Unit = Malaysian Ringgit (MS)
+US$1 = M$2.50 = 100 sens
+GOVERNNIENT FISCAL YEAR
+September I to August 31
+WEIGHTS AND MEASURES
+GWh        = gigawatt-hour (1,000,000 kilowatt hours)
+km         = kilometer (0.62 mile)
+kV         = kilovolt (1,000 volts)
+kVA        = kilovolt-amphere (1,000 volt-ampheres)
+kW         = kilowatt (1,000 watts)
+kWh        = kilowatt-hour (1,000 kilowatts)
+MW         = megawatt (1,000 kilowatts)
+MkWh       = million kilowatt-hours (1,000,000 kWh)
+MVA        = megavolt-amperes (l,000 kilovolt-ampheres)
+ABBREVIATIONS
+CMIS       - Computerized Materials Information System
+CMMs       - Computerized Maintenance Management System
+CPS        - Currency Pooling System
+GIS        - Gas Insulated Switchgear
+ICR        - Implementation Completion Report
+[DC        - Interest During Construction
+IERR       - Internal Economic Rate of Return
+NEB        - National Electricity Board of the states
+of Malaya
+NLDC       - National Load Dispatch Center
+PPS        - Prai Power Station
+RCC        - Regional Control Center(s)
+ROR        - Rate of Return
+SAR        - Staff Appraisal Report
+SCADA      - Supervisory Control and Data Acquisition
+SIPS       - Sultan Iskandar Power Station
+TJPS       - Tuanku Jaafar Power Station
+TNB        - Tenaga Nasional Berhad
+SFR        - Self-financing Ratio
+
+
+
+FOR OFFICIAL USE ONLY
+IMPLEMENTATION COMIPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION
+(LOAN 2772-MA)
+TABLE OF CONTENTS
+Page No.
+PREFACE         ...................................................   i
+EVALUATION  SUMMARY  ...........                             ..............................  H
+Part I - Implementation Assessment ......................................
+A. Statement/Evaluation of Objectives   ...............................  I
+B. Achievement of Objectives ..........                     ..........................  2
+C. Implementation Record and Major Factors Affecting the Project  ....                       ........ 4
+D. Project Sustainability .....................                                                        5
+E. Bank Performance .......................................... 6
+F. Borrower Performance . ...................................... 6
+G. Assessment of Overall Outcome  ................................  7
+H. Future Operations ......................                                                            7
+1. Key Lessons Learned   .            ......................................  7
+Part 11- Statistical Tables
+Table I - Summary of Assessments ................................  8
+Table 2  - Related Bank Loans  ..........                     .........................  9
+Table 3  - Project Timetable ...........                    .........................   10
+Table 4  - Loan Disbursement ............11 ......................   11
+Table 5  - Key Indicators for Project Implementation   ....................  12
+Table 6  - Key Indicators for Project Operations  .......................  13
+Table 7  - Studies Included in the Project ............................  14
+Table 8A - Project Costs             ......................................    15
+Table 8B - Project Financing .              .................................... 16
+Table 9  - Economic Cost and Benefits  .............................   17
+Table 10 - Status of Legal Covenants  ..............................   18
+Table I I - Bank Resources - Staff Inputs ............................   19
+Table 12 - Bank Resources - Missions ..............................  20
+Appendices
+A. Mission Aide-Memoire  ...........                      ..........................  22
+B. Borrower Contribution to the ICR   ..............................  25
+C. Appendix C - Miscellaneous Information and Data ....................  34
+D. Borrower's Comments on the ICR  ..............................  48
+Map
+This document has a restricted distnibution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed wiihout World Bank authorization.                           |
+
+
+
+
+
+
+-j_
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+Preface
+This is an Implementation Completion Report (ICR) for the Energy Efficiency and Plant
+Rehabilitation Project in Malaysia for which Loan 2772-MA in the amount of USS100 million
+equivalent was approved on July 6, 1987. A total of US$33.7 million was cancelled, and the last
+disbursement took place on June 10, 1994.
+The ICR was prepared by the East Asia and Pacific Region, and was reviewed by Mr. J.
+Shivakumar, Chief of Infrastructure Operations Division, East Asia and Pacific Region 1.  The
+Borrower, Tenaga Nasional Berhad (TNB), provided comments on the ICR and prepared a Borrower's
+Evaluation Report in accordance with ICR guidelines, which are included as Appendices to the ICR.
+Preparation of the ICR was begun during the ICR Completion Mission in July, 1995. It
+is based on the Staff Appraisal Report (SAR), the Loan and Guarantee Agreements, supervision reports,
+correspondence between the Bank and TNB, internal Bank Memoranda and other material in project
+files. The Borrower contributed to the preparation of the ICR by providing most of the financial,
+performance and investment data for the project, and supplementing the Bank's information on the
+project implementation and operation experience.
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+(MALAYSIA)
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+Evaluation Summary
+Introduction
+1.         The Bank has had a long and constructive relationship spanning over three decades with
+Tenaga Nasional Berhad (TNB), formerly known as the National Electricity Board (NEB) of the states
+of Malaya. With the completion of this project and the conclusion of all of the Bank's programs with
+TNB, the IBRD has assisted in financing a total of 12 power development projects with TNB. At the
+time of project preparation in 1985, electricity consumption had been growing rapidly in peninsular
+Malaysia, and demand was expected to continue to grow at an appreciable rate into the early 1990s with
+growth of the economy. Simultaneously, the Government was concerned that rapid rise in domestic
+consumption of petroleum, used for power and other needs, may exert greater pressure on export
+earnings due to decrease in petroleum prices in the 1980s. Reduction in export earnings from other
+commodities was also of concern to the Government.
+2.         The objectives of the program executed under this Loan were: (a) to rehabilitate TNB's
+existing generation facilities to recoup power capacity and increase fuel efficiencies in power
+generation; (b) to upgrade system control to enhance the efficiency of system operations; (c) to
+rationalize transmission systems to remove transmission bottle-necks and reduce transmission and
+distribution losses; (d) to increase usage of the country's economic and abundant gas resources in place
+of fuel oil; and (e) to further institutional and management capabilities (para 2).
+3.         At appraisal, these objectives were to be achieved by rehabilitating/modifying several
+power units to recover about 116 MW of capacity at three different power plant locations, converting
+about 840 MW of oil fired capacity to dual (gas/oil) firing capability, rationalizing and upgrading the
+transmission system for the burgeoning Kuala Lumpur area through construction of a 275 kV ring and
+nine substations, modernizing the National Load Dispatch Center (NLDC), and establishing three
+additional Regional Control Centers (RCC's) to perform SCADA functions around the large consuming
+areas of Penang, Johor Baru and Klang (para 3). The project also provided for significant technical
+assistance to increase organizational and operational efficiency within TNB.
+4.         The Loan covenants required TNB, the Borrower, to maintain a self-financing (SFR) ratio
+of 30% on its average annual capital investments, a debt service ratio above 1.3, and a debt to debt plus
+equity ratio of less than 60% (Part II, Table 10) to ensure that the utility remained financially strong
+and capable of meeting its investment programs.
+5.         In the early stages of project implementation, the Government of Malaysia entered into a
+trade deal with the Government of India, which required that the entire power plant rehabilitation
+program under the project be entrusted to Bharat Heavy Electricals Limited of India. This development
+led to the cancellation of US$31 million from the Loan, resulted in a much larger scope of work and a
+
+
+
+-iii-
+loss of control by the Bank over the implementation program. Another significant development that
+took place in 1992 was the privatization of TNB which led the Government to cancel TNB's next
+project "Power System Development Project" after its approval by the Board. With future lending to
+the power sector and completion of disbursements for the project, Bank's relationship with the
+Malaysian power sector virtually ended in 1992. The Borrower ceased to provide quarterly progress
+reports and the Bank's supervision missions ended in 1993, despite continuation of the project for
+another 30 months. At the time of the ICR mission, the project was about 95% complete and despite
+best efforts and cooperation on the part of TNB, all data necessary for preparation of the ICR could not
+be made available.
+6.          Excluding  interest during  construction  (IDC) and  certain  significant unresolved
+contingencies and claims, the project is expected to be completed at US$280 million compared to an
+appraisal estimate of US$160 million (Part 11, Table 8A).  The Bank initially provided a loan of
+US$100 million to cover 79%  of the foreign costs.  Based on arrangements made between the
+Governments of Malaysia and India on trade issues, the Borrower procured the rehabilitation and
+conversion components on a negotiated basis, which led to cancellation of US$31 million out of a total
+US$34 million canceled by the Bank at closing (Part 11, Table 4).
+Implementation Experience and Results
+7.          The objectives of the project have been substantially achieved. With respect to the total
+MW recovery and efficiency goals for the rehabilitation and conversion components, the appraisal
+objectives were significantly surpassed. The project is expected to contribute significantly in alleviating
+the shortages in generation capacity and in conserving petroleum  resources for export.  The plant
+rehabilitation program, together with the computerized maintenance management system (CMMS)
+installed, will result in the recovery of significant generation capacity (420 MW) through recovery of
+rated capacity (210 MW) and improvement in plant availability (210 MW). The total capacity recovery
+obtained has been tentatively estimated at about three and half times that (116 MW) planned for at
+appraisal. A fresh audit on the condition of the plants during project implementation, especially with
+respect to safety and control aspects, revealed that the plant units were in need of significantly higher
+levels of investment than estimated at appraisal. The additional investments were also expected to result
+in higher plant capacity recovery and significantly improved fuel efficiency and operability of the units
+(Appendix C, pages 2-3). The CMMS has assisted in improving the operations and availability at
+several of TNB's thermal and hydro-generating plants. The conversion of several plant units (840 MW)
+from oil to dual firing will result in significant increase in the use of abundantly available, economic
+and cleaner gas fuel in place of fuel oil (paras 6-7).
+8.          Completion of the transmission system rationalization program for Kuala Lumpur and its
+environs has resulted in the removal of bottlenecks in the system, reduction in losses, increased
+efficiency in the operations, and also increased reliability of the supply system in the high consuming
+and growth area. When the NLDC and RCC's are fully operational at the end of 1995, several benefits
+discussed above will also accrue for TNB as a whole and the three large regional distribution systems.
+Completion of the computerized materials information system will promote increased efficiency in
+inventory contrbl, improved access to materials for servicing the operations, and reduction in paper-
+work and staffing needs.  The study on inventory of fixed assets has resulted in procedures for
+incorporating new assets into operation and appropriate charging of depreciation as assets are moved
+
+
+
+-Iv-
+into operation. Thus, the financial accounting system now has a capability for calculating the ROR
+accurately (para 12).  Together with the CMMS installed, the institutional development measures
+included in the project have strengthened TNB institutionally and enhanced benefits resulting from these
+are expected in future.  Other institutional strengthening measures were either completed or were
+postponed around the time that TNB was reorganized and converted into a public limited company (Part
+11, Table 7). The impact of the recommendations on these studies has not been shared with the Bank
+for reasons of confidentiality.
+9.          Some delays resulted from the slow pace in making procurement decisions; however, other
+significant delays for overall project completion were caused by factors beyond the control of TNB
+(para 16).  The supplier for GIS switchgear went into bankruptcy proceedings and delayed the
+completion of the transmission rationalization component by over a year. Severe shortages of power
+capacity toward and past 1990 restricted the outaging of plant units planned for rehabilitation and
+conversion, and as a result the rehabilitation and conversion components were delayed by over 30
+months. With completion of this project, TNB's IERR for its investment program for the last ten years
+was 11.9%, and is close to the appraisal estimate of 12%. The average annual ROR in the FY90-94
+interval based on 3-year averaging of the rate base was 11.9%, and is substantially higher than the
+appraisal estimate of 8.3% (para 13). TNB returned a strong financial performance during the five year
+period, and was in compliance with the financial covenants during the last eight years, except with
+respect to the SFR, which dipped below the covenanted level in FY91 and FY94 (Appendix C, page 1).
+When evaluated following acquisition of operating and performance data, the rehabilitation, plant
+conversion, and transmission system rationalization components could show lower IERRs than those
+estimated during appraisal. However, as discussed in Appendix C, the benefits and accomplishments
+under these components are still significant.
+Findings, Future Operations, and Lessons Learned
+10.        The overall outcome for the project is satisfactory, despite a 3-year delay in its
+completion. The project's sustainability is highly likely. The Bank's involvement with the Borrower
+over the last three decades has assisted in strengthening TNB into a technically competent, financially
+strong, and efficient utility. On the whole and with some qualifications, the Borrower performed
+satisfactorily during preparation and implementation of this complicated project (Section F, para. 23-
+24). The Bank's relationship with the Borrower and other government entities involved with power
+was marked with cordiality and cooperation on all sides.
+11.        With cessation of new Bank lending and completion of disbursements for the project in
+1992, the Bank's relationship with the Malaysian power sector virtually ended in 1992. The Bank's
+supervision missions ended in 1993, despite continuation of the project for another 30 months. The
+Borrower had earlier ceased to provide implementation progress reports required under Loan covenants.
+12.        The main task ahead for the Borrower in future is to consolidate the benefits of the
+project. Site acceptance and reliability tests for the new system at the NLDC have to be completed.
+The transmission rationalization component has to be planned for augmentation, since demand will
+overtake the capacity of the system within three years. Training in operating the CMIS and other
+operations/systems commissioned under this project will have to be instituted or continued. The
+
+
+
+Borrower is expected to be successful in sustaining and maximizing the benefits expected from this
+project.
+13.        There are three significant lessons which may be deduced from  the implementation
+experience on this project: (i) Rigorous and extensive effort during project preparation are needed in
+the case of extensive rehabilitation of old thermal plants; (ii) The Bank's currency pooling system and
+one-sided designation of repayment currencies discourage borrowers to seek Bank funds due to added
+complexity and risk; and (iii) when new sector lending is discontinued, supervision missions for on-
+going projects should continue until project completion.
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+PART I. PROJECT IMPLEMENTATION ASSESSMENT
+A. Statement/Evaluation of Obiectives
+1.         The Bank has assisted in financing a total of 12 power generation, transmission expansion,
+and rural electrification projects with Tenaga Nasional Berhad (TNB), formerly known as the National
+Electricity Board (NEB) of the states of Malaya, since the late 1950's. Electricity sales, of which
+TNB's share was 95% in 1985, grew rapidly in Malaysia from 1,210 GWh in 1965 to 11,940 GWh in
+1985. Electricity demand was projected to grow in Malaysia at about 7% p.a. from 1985 to the early
+nineties. The major part (54%) of TNB's generation capacity in 1986 was oil based, while hydropower
+(30%) and gas based generation (16%) comprised the rest. In the mid 1980's, the Malaysian economy
+was highly dependent on petroleum exports for foreign exchange earnings, and the resulting export
+revenues provided 90% of the financing needs for the federal capital investment program. The
+Government was concerned that the decline in oil prices beginning in the early 1980's, together with
+reduced export earnings from tin, palm oil and rubber, would increase the country's debt-service load.
+The Government was also concerned that rapid increase in domestic consumption of petroleum may
+further sharply reduce export earnings and thus lead to a worsening of the foreign exchange situation.
+There was thus a good rationale for reducing petroleum consumption in power generation, increasing
+power system efficiency, and making additional modest investments to recoup a significant fraction of
+the unavailable capacity in existing power plants.
+2.         The objectives of the program executed under this Loan were to rehabilitate TNB's
+existing generation facilities to recoup power capacity and increase fuel efficiencies in power
+generation; upgrade system control to enhance the efficiency of system operations; rationalize
+transmission systems to remove transmission bottle-necks and reduce transmission and distribution
+losses; increase usage of the country's economic and abundant gas resources in place of fuel oil; and
+further institutional and management capabilities (Section A, para 2).
+3.         The objectives of the project were to be attained by  design, procurement and/or
+construction of the following physical components: (a) rehabilitation of seven power units (4x60 +
+3x120 MW) at the Tuanku Jaafar power station (TJPS), three units (3x120 + 3x30 MW) at the Prai
+power station (PPS), and two units (2x120 MW) at the Sultan Iskandar power station (SIPS), and
+conversion of 600 MW of plants at TJPS and 240 MW at SIPS from oil to oil/gas firing; (b)
+introduction of computerized maintenance management systems to six thermal power and three
+hydropower stations;  (c) modernization of TNB's national load dispatch center (NLDC), and
+installation of three regional distribution control centers at Penang, Johore Baru and Klang to provide
+supervisory control and data acquisition (SCADA) functions; and (d) installation of a 275 kV, 72 km
+transmission ring and nine substations with 2,190 MVA transformer capacity to rationalize the power
+
+
+
+-2-
+supply system, reduce system losses and improve reliability of supply to the high growth and
+consumption area of Kuala Lumpur and its surroundings.
+4.         In addition, the project planned a fair amount of assistance to strengthen TNB's
+capabilities in the following areas: (a) technical assistance  for distribution system  planning,
+management, operation and maintenance, and loss assessment and reduction; (b) consultant services to
+promote organizational efficiency through the conduct of a study; (c) technical services to evolve a
+computerized materials handling and inventory control system; (d) a study to update TNB's inventory
+of fixed assets and development of an accounting system to compute the rate base based on the fixed
+assets; and (e) technical assistance to conduct a human resources development study. At the time of
+appraisal, TNB had substantial experience in successfully executing projects similar to those under the
+Loan. Hence, the risks involved in successfully implementing the project components under the Loan
+were minimal.
+B. Achievement of Obiectives
+5.         Overall, the project objectives have been substantially achieved, and in some instances, the
+appraisal objectives/estimates have been significantly exceeded.  However, detailed or quantitative
+discussion of the accomplishments on some components of the project financed under the Loan cannot
+yet be fully presented, since the ICR mission took place in July, 1995, when the project was about 95%
+complete. Performance evaluation of some of the components requires operation for a period of six
+months to a year following completion. Moreover, following the transformation of TNB into a public
+limited company, TNB was reorganized, and with total cessation of new Bank lending at TNB's request
+in 1992, Bank's association with Malaysia's power sector virtually ceased, and periodic reporting on
+progress of the project, as required by the covenants, was discontinued by TNB.  Based on
+considerations discussed elsewhere (Section C, para. 19) TNB also decided to procure the plant
+rehabilitation and conversion components without resort to international competitive bidding. Thus,
+with completion of disbursements for the project, Bank's supervision of the project was prematurely
+discontinued in 1993, despite further delays in project completion for a period of two years.
+6.         The rehabilitation and modification program involving 12 power units at TJPS, PPS and
+SIPS was well-conceived in anticipation of the power shortages and high economic growth rates
+experienced since the late eighties in Malaysia (Power consumption increased rapidly, and during the
+five year interval FY90-94, grew at an average compounded rate of about 11 % p.a.). Following a re-
+evaluation of the condition of the power plant units during implementation, TNB decided to institute
+more extensive rehabilitation/modification of the units to recover about 420 MW of capacity, more than
+three times the appraisal estimate. Total MW recovery was effected in approximately equal proportions
+between recovery of rated capacity and that based on improvements in availability (Appendix C, page
+2-3). Significant increases in plant efficiency (between 2 to 4.2%) have either been noted on plants
+completing tests or are estimated for plants due to undergo testing. Capacity addition and efficiency
+improvement under this program has been achieved with about an investment of US$300 per kW, and
+this is appreciably lower than the estimated alternative investment of US$450 per kW, including site
+preparation and development costs, for installment of new gas turbine plants.
+7.         C6nVersion of 840 MW of capacity at TJPS and SIPS from oil to oil/gas firing is expected
+to lower TNB's fuel cost, as gas fuel costs less than fuel oil. The substitution of gas for oil in these
+plants also preserves petroleum-based export earnings especially as domestic petroleum consumption has
+
+
+
+-3-
+been increasing rapidly in Malaysia.  With the pursuit of a low  investment approach for the
+intermediate term in tapping needed additional power capacity, the overall project has also assisted in
+alleviating the foreign exchange situation.
+8.         The introduction of the computerized maintenance management system (CMMS) to six
+thermal power stations and three hydro-power stations resulted in promoting more accountability and
+improving efficiency in maintenance operations, and increasing the availability at TNB's thermal and
+hydro-power plants. Following the installation of the system, the weighted average availability at
+TNB's plants has increased by 4.9%, and is close to the target improvement of 5%.
+9.         With the completion of construction of a 60 km long, 275 kV transmission ring to feed
+power into the existing 132 kV system through seven new gas insulated switchgear substations, the high
+consuming and high growth Kuala Lumpur area has a more reliable and rationalized transmission
+system, which has reduced system losses.
+10.        Under the Loan, the National Load Dispatch Center (NLDC) was upgraded with new
+computers and associated hardware, including necessary telecontrol system. This modernized system
+includes an energy management system to achieve on-line automatic control, unit commitment,
+production costing and economic dispatch, spinning reserve monitoring, and contingency analysis. Due
+to extensive distribution system expansions, the Penang, Johor Baru and Klang areas were provided
+with Regional Control Centers (RCC) to perform SCADA functions for the network in these
+jurisdictions and to communicate and interact with the NLDC. When fully operational in early 1996,
+these facilities are expected to increase reliability of the system, decrease losses, and lower costs for the
+power and transmission system in Malaysia.
+11.        Implementation of the project also resulted in a number of institutional strengthening
+accomplishments. The materials management system implemented in 1995 is expected to reduce
+inventory levels, ensure stocking in the most appropriate locations, and expedite retrieval of materials
+necessary for servicing the facilities.  It is also expected to reduce paper-work and manpower
+requirements for managing the inventory. As noted in paragraph 8 above, completion of the study on
+CMMS and installation of the system has had significant beneficial impact on the operation of TNB's
+generation plants.
+12.        A comprehensive inventory and valuation of fixed assets and establishment of procedures
+for incorporation of assets into operation was also tasked under the Loan. Prior to 1986, TNB's rates
+of return on fixed assets were overestimated due to delays in transferring assets into operation.
+Completion of the fixed asset accounting tasks in 1990 enabled TNB to claim depreciation expenses
+appropriately which helped maintain an adequate rate of return on total assets in operation.  A human
+resources development study to assist with the functioning of a Human Resource Development Unit
+established within TNB in 1985 was completed under the project; however, the Bank was unable to
+determine its impact, as decisions to implement its recommendations were delayed by the management
+with the impending transformation of TNB  into a limited public company.   For reasons of
+confidentiality, the ICR mission could not obtain information from TNB on what the recommendations
+of the study were implemented in 1992.
+13.        TNB posted a strong financial performance for the five year interval (FY90-94). The rate
+of return (ROR) on revalued fixed assets averaged 11.9% for the period, and compared favorably with
+the appraisal estimate of 8.3%, even though the per kWh revenue did not increase appreciably in the
+
+
+
+-4-
+period. The large kWh sales increases was the predominant reason for the high ROR in relation to the
+appraisal estimate. Overall, TNB was in compliance with all financial covenants negotiated with the
+Bank except with respect to the self-financing ratio (SFR) in certain years. The SFR averaged 30.4%
+during the five year period, which though lower than the five year appraisal average estimate of 44%,
+nevertheless, met the covenanted level of 30%. The SFRs of 21% and 13.3% for FY91 and 94,
+respectively, were lower than the covenanted minimum of 30%. In FY91 the shortfall was accounted
+for largely by lower operating revenues due to higher than anticipated fuel expenses, the high capital
+investment needed in the period (M$2.4 billion against the estimated level of M$1.5 billion), higher
+than estimated debt service load, and increases in working capital and dividend payments. Also in
+FY94, an increase in the capital expenditure of about 77% over that anticipated at appraisal coupled
+with higher than expected debt servicing requirements contributed to the lower SFR. Despite non-
+compliance with the covenanted SFR of 30% in certain years, TNB paid dividends in FY91 (M$70.4
+million) and the amounts escalated from M$36.8 million in FY92 to M$231 million in FY93 and to
+M$246.7 million in FY94. However, these dividends were essential to TNBs privatization and the
+floatation of its shares which required maintenance of an attractive dividend payout ratio. The debt to
+debt plus equity ratio and debt service ratio for the period are well within the Bank covenanted values.
+TNBs financial performance is discussed in more detail in Appendix C page 1.
+14.        The internal economic rate of return (IERR) computed by TNB for its investment program
+using the same methodology as in the SAR is 11.9%, which is close to the appraisal estimate of 12%.
+The IERR is higher than TNB's present opportunity cost of capital, which is below 10%. Only a
+qualitative evaluation of the economic benefits of the plant rehabilitation and modification program is
+possible at this time since six of the twelve power units have not been operated and tested over a
+sufficiently long period.  As discussed in Part 11 (Appendix C, pages 2 -3), the IERR for the
+rehabilitation and modification program could be lower than the SAR estimate of 19.8%. The plant
+conversion program to convert from oil to gas/oil firing could also have lower IERRs than those
+estimated during the appraisal as discussed in Part II ( Appendix C, page 2-3).
+15.         The IERR for the transmission rationalization cannot be estimated with reasonable
+certainty due to a paucity of operating data required for analysis.  The completion cost for the
+component was 34% above the appraisal estimate. Despite the implicitly higher consumption rates for
+electricity in the Kuala Lumpur area, it is probable that the IERR for this component of the project
+would be below the appraisal estimate of 13.9%, when computed in future using actual operating and
+consumption data.
+C. Implementation Record and Maior Factors Affecting the Proiect
+16.        TNB was responsible .or implementing all components of the project, with the assistance
+of consultants and contractors wherever needed. As shown in Part 11, Table 3 there was an overall
+delay of about three years in completion of the project. Almost every component of the project (Part
+11, Table 5) encountered significant delay in completion. Overall, delay in procurement decisions
+resulting in delays/postponements in bid preparation/flotation and tender evaluation and awards,
+contributed to delays in project completion. Certain unanticipated contingencies also contributed to
+delays in impl6mEntation and completion. The transmission system rationalization project for Kuala
+Lumpur suffered an 18-month delay because the supplier of 132 kV GIS switchgear went into
+bankruptcy proceedings. Land acquisition problems also required modification of the transmission and
+
+
+
+-5-
+substation construction project with reduction in the number of substations constructed and a shortening
+of the lines by about 12 kin, even though overall appraisal objectives were not diluted.  A
+comprehensive inspection of the power plant units during implementation revealed that the units were in
+need of more investments to prolong life and ensure safe operations than had been assumed during
+project preparation. The power shortages experienced in the early 1990s prevented outaging of plants
+scheduled for rehabilitation. The schedule for plant rehabilitation and conversion work had to be
+stretched out since simultaneous outaging of plants could not be permitted on account of the serious
+shortages in electricity supplies. This was a major contributory factor in delays for completion of the
+plant rehabilitation and modification component.
+17.        Project completion costs shown in Table 8A (Part 11) are tentative, since contingencies and
+claims, estimated to be significant in relation to costs shown, will not be resolved until evaluation of
+completed work and negotiation. Without including these claims/contingencies and interest during
+construction (IDC), the actual completion cost of the project totals US$280 million, compared to the
+appraisal estimate of US$160 million. The rehabilitation and plant conversion components were
+completed at a total of US$118 million, which is about four times the appraisal estimate.  The
+substantial increase in the cost represents the cost of more extensive rehabilitation of the plants to
+recover about three and a half times the MW estimated at appraisal and also to substantially increase the
+efficiency ratings of the plants. The additional rehabilitation/modification work performed beyond the
+appraisal plans has been  briefly  listed  in  Part II (Appendix  C, pages  11-13).   The
+rehabilitation/modification costs do not include about M$70 million of claims, which are yet to be
+resolved.
+18.        The computerized maintenance management system was completed at US$2.9 million,
+50% above the appraisal estimate. The NLDC and three RCC's are projected to be completed by the
+end of 1995 at US$26.7 million, which is close to the appraisal estimate.  However, there are
+significant claims and counter-claims (15% of the project cost) remaining to be negotiated or resolved.
+The consultant services for the project was completed at an estimated USS7.6 million, and exceeds the
+appraisal estimate of USS5.5 million. The overall transmission system rationalization component for
+the Kuala Lumpur area was completed at US$105.6 million, about 34% above the appraisal estimate.
+The project completed under the Loan omitted two of the nine switching substations and about 12 of
+the 72 km of lines included in the rationalization project during appraisal. The completion cost for the
+substations was US$88.6 million, compared to the appraisal estimate of US$68.7 million (Appendix C,
+page 10). The transmission line was completed at a cost of US$17.1 million, and was 70% above the
+appraisal estimate of US$10 million.
+19.        The Bank initially provided a loan of US$100 million to cover 79% of the appraised
+foreign costs for the project. Based on arrangements reached between the governments of Malaysia and
+India on reciprocal trade issues during implementation, TNB decided to procure the plant rehabilitation
+and conversion components on a negotiated basis, which led the Bank to cancel a loan amount of US
+$31 million in March 1988. An additional US$2.7 million was canceled just prior to loan closing.
+Information on the sources of other funding for the project is not available.
+D. Project Sustainability
+20.        The projects completed under the Loan are likely to be sustained, with TNB benefitting
+substantially from the gains resulting from the project.  Operating results on power plants which have
+
+
+
+-6-
+been rehabilitated show that the units have exceeded the performance objectives set during appraisal,
+and, in a majority of cases, the significantly enhanced performance standards redefined during
+implementation when additional investments were planned (Appendix C, page 11). The transmission
+system rationalization component has been operating effectively in providing the Kuala Lumpur area
+with higher level of energy demand than anticipated during appraisal. The computerized maintenance
+management system is likely to enhance the efficiency of operations to a level higher than what has
+been achieved so far.
+E. Bank Performance
+21.        Overall, the Bank's performance in project identification, preparation, appraisal, and
+supervision has been satisfactory.  The Bank has provided significant assistance to TNB and the
+Government in formulating TNB's investment programs, while also providing valuable advice on
+energy sector issues during the high growth demand years of the 1970s and 1980s. The Bank's
+relationship with TNB and other entities concerned with the power sector in Malaysia has been
+conducted in a cooperative spirit and has been marked by cordiality on all sides.  The Bank's
+participation in the power sector in Malaysia over a period of three decades has assisted TNB to
+develop into a technically competent, financially strong, and efficient utility. The Bank's relationship
+with the Malaysian power sector ended in 1992, following the Government's initiative towards
+privatization of the sector.
+22.        TNB expressed dissatisfaction with the Banks Currency Pooling System (CPS), which was
+introduced during the implementation of the project (Appendix B, page ix). TNB considered the CPS
+an undesirable system because TNB became negatively exposed to the foreign currency risk.  In
+addition, TNB could not forecast the size of foreign exchange risk exposure because the portions of
+each currency in the currency pool could not be reasonably determnined at the time of  loan
+disbursements.
+F. Borrower's Performance
+23.        On the whole and with some qualifications as noted below, the Borrower's performance in
+planning, preparation and implementation of this complicated project was satisfactory. Procurement
+decisions could have been made more expeditiously, and this would have expedited major parts of the
+project by a year or more. The Borrower could have avoided delays in the procurement of switchgear
+equipment, since the bid offer from the supplier which went into bankruptcy proceedings appeared to
+be suspiciously low in relation to all others received and did not fully conform to the tender. Finally,
+a more rigorous evaluation during project preparation on the condition of the power units proposed for
+rehabilitation could have resulted ia better appreciation of costs and implementation schedules. The
+average per kW recovery cost, with settlement of claims, is likely to reach US$300/kW, a level close to
+about 70% of the cost of new gas turbines.
+24.        TNB did not fully conform to Loan covenants with respect to reporting of progress after
+1992. TNB also could not provide all the required data/information for preparation of the ICR.
+
+
+
+-7-
+G. Assessment of Overall Outcome
+25.         The overall outcome for the project is rated as satisfactory. The overall project resulted in
+strong efficiency gains in the power plants, conservation of relatively scarce petroleum resources
+through substitution of gas fuel in power units, near term savings in foreign exchange requirements,
+cost reductions in the operation of a number of plants, and reduction in transmission and system losses.
+H. Future Ogerations
+26.         With completion of the project, TNB's main emphasis would be to maximize the
+performance levels of the capabilities installed or procured under this Loan. To maximize benefits for
+the materials management system, staff training needs to be completed on the use and benefits of the
+system. The site acceptance and reliability tests for the system installed at the NLDC have to be
+completed successfully, after which staff training would need to be instituted to maximize benefits from
+its operation. The present spare capacity for the Kuala Lumpur area transmission system will approach
+full utilization in two to three years, and augmentation of these capabilities are being planned to
+maximize the benefits of the component funded under the Loan.
+1. Key Lessons Learned
+27.         There are some lessons which may be deduced from the implementation experience, all of
+which are not new or exclusive to this project.
+(1)   Much greater effort is needed during preparation of projects for major power plant
+rehabilitation, to examine scope, feasibility, merit and appropriateness of the planned
+investments. In retrospect, some of the power units may have been rehabilitated at a
+relatively high cost, in relation to their life expectancies (Section F, para. 23).
+(2)   The Banks currency pooling system and one-sided designation of repayment currencies
+discourage borrowers to borrow the funds due to the added administrative complexity and
+uncertainty of the system (Section E, para. 22).
+(3)   For projects for which there is no follow-up sector lending, there is a likelihood of Bank-
+Borrower relationship weakening during the later stages of project implementation, as
+happened on this project. Bank staff need to continue supervision visits until project
+completion.
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+PART II - STATISTICAL TABLES
+, I
+
+
+
+I
+
+
+
+8
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 1: Summary of Assessments
+A. Achievement of Obiectives         Substantial          Partial           Negligible        Not AMplicable
+Macro policies                                                                              _x
+Sector policies                                                 x
+Financial objectives                        X
+Institutional development                   X
+Physical objectives                         X
+Poverty reduction and                                                                                  X
+other social objectives
+Environmental objective                                                                                X
+Public sector management                                                                               X
+Private sector development                                                                             X
+B. Proiect Sustainability           Likely                      Unlikely                      Uncertain
+C. Assessment of Overall
+Outcome                   Sajisfactory        Satisfactor.       Unsatisfactory      Unsatisfactorv
+x
+D. Maior Factors Affectine
+the Proiect                Substantial                     Partial                     Negligible
+Factors not generally subject               X
+to govemment control
+Factors generally subject to                                                                           x
+govemment control
+Factors generally subject to                X
+implemcnting agency control
+Highly
+E. Bank Performance             Satisfactorv                  Satisfactory                   Dericient
+Identification                              X
+Preparation assistance                                                   X
+Appraisal                                                                X
+Supervision                                                                                           X 11
+Highly
+F. Borrower Performance           Satisfactory                  Satisfactory                   Deficient
+Preparation                                                              X
+Implementation and Operation                                             X
+I/     Bank supervision was highly satisfactory till 1993 when it abruptly ended.
+
+
+
+9
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 2: Related Bank Loans
+Loan                    Purpose                 Year of          Status
+l___________________________      A pproval
+1. 0210            Hydropower Development               1958       Completed
+2. 0350            Power Development                    1963       Completed
+3. 0458            Power Development                    1966       Completed
+4. 0579             Power Development                   1969       Completed
+5. 0700            Power Development                    1970       Completed
+6. 1031            Power Transmission/Distribution      1974       Completed
+7. 1178            Power Development                    1975       Completed
+8. 1443            Power Development                    1977       Completed
+9. 1808            Power Development                    1980       Completed
+10. 2146           Rural Electrification                1982       Completed
+11. 2438           Rural Electrification                1984       Completed
+12. 2942           Power Development                    1988       Completed
+
+
+
+-10-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 3: Project Timetable
+Steps in project cycle               Date planned          Date actual
+Identification (Executive Project Summary)          July 1985            July 1985
+Preparation                                      December 1985        December 1985
+Appraisal                                          April 1986           April 1986
+Negotiations                                   September 15, 1986   October 16, 1986
+Board presentation                              October 28, 1986      December 1986
+Signing                                            July 6, 1987        July 6, 1987
+Effectiveness                                  September 30, 1987    October 6, 1987
+Completion                                     December 31, 1992   September 1995 **
+Closing                                        December 31, 1993       June 30, 1994
+** Estimate.
+
+
+
+-11-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 4: Loan/Credit Disbursements: Cumulative Estimated and Actual
+(US$ Millions)
+_~~~  =T--=*          
+FY87  FY88  FY89  FY90  FY91   FY92    FY93   FY94
+Appraisal estimate          1.0   17.0  43.0   65       80       91       100
+Actual                      0.2    3.5   23.0  34.3   38.0    65.5    66.3   66.3*
+Actual as % of estimate     20    21      53     53    47        72       66      100
+Date of final disbursement                                                      6/10/94
+Loan amounts of US$31 million and USS2.7 million were cancelled on 3/03/88 and 6/10/94,
+respectively.
+. .
+
+
+
+-12-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 5: Indicators for Project Implementation
+1. SAR KEY IMPLEMENTATION INDICATORS                                    |     Estimated   T          Actual
+1. Thermal Plant Rehabilitation and Conversion
+- Appointment of Consultant                                               June 1987          December 1987
+- Completion of Project                                                November 1990           August 1995
+2. Maintenance Manapement System
+- Start of Project                                                    September 30, 1986   September 30, 1986
+- Installation of System & Completion of Training                      March 30, 1988          May 4, 1990
+3. Svstem Control Improvements
+- Award of Tender                                                      March 30. 1988         July 31, 1989
+- Installation and Commissioning                                      December 30, 1989    September 1, 1995
+4. Transmission System Rationalizine
+A. Substation
+- Date of Award                                                    January 15, 1988      September 1994
+- Commissioning                                                   December 30, 1989        June 8. 1995
+B. Civil Works
+- Commencement of Construction                                      June 30, 1987           April 1988
+- Completion of Construction                                          June 1988             June 1994
+C. Transmission Lines
+- Route Survey Completion                                           June 30, 1987         June 30, 1987
+- Contract Awards                                                 December 15, 1987      December 1989
+- Commissioning                                                     June 30, 1989        November 1994
+5. Consultancy Services
+A. Human Resources Development
+- Appointment of Consultant                                        March 30, 1987          March 1987
+- Completion                                                       March 30, 1988          March 1988
+B. Materials Management System
+- Appointment of Consultants                                        June 30, 1987          August 1992
+- Installation and Completion                                     September 30, 1989       August 1995
+C. Fixed Assets Inventory
+- Appointment of Consultants                                       August 30, 1987          June 1988
+- Completion of Assignment                                        December 15, 1987        March 1990
+I L
+
+
+
+-13-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 6: Key Indicators for Project Operation
+1. SAR Key Operating Indicators                             Estimated                       Actual
+Power Generation (MkWh) in FY94                                         23,469                         33,985
+Power Sales (MkWh) in FY94                                              19,995                         28,918
+Power losses                                                              17%                         14.91%
+Average revenue (MS/kWh) in FY94                                         0.193                          0.186
+Average ROR (FY90-94)  I                                                   8.3                         11.9%
+Average SFR (FY90-94) _/                                                  44%                          30.4%
+Average Debt-Service Ratio (FY90-94)                                       1.9                            1.6
+Net Operating Income (MS mil) in FY94                                    1,020                          1,766
+a!     ROR on fixed assets based on 3-year averaging of assets.
+b/     Based on 3-year averaging of investments.
+
+
+
+-14-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 7: Studies Included in Project
+Purpose as defined at
+Study                    appraiWsl/redefined             Status            Impact of Study
+1. Management Services and   To review role, scope and             Deferred      Study was postponed till
+Development Department       operating particulars of the                        TNB's privatization.
+Department, and make
+recommcndations to enhance its
+effectiveness.
+2. Human Resource             To interpret TNB's manpower         Completed      Results have not been
+Development                   requirements; establish effective                  shared with the Bank since
+staff career development policy                    it was completed before
+and processes; ensure coordination                 corporization and review
+of human resource development                      by management was
+and utilization; and promote                       deferred.
+greater commitment to
+organizational mission and goals.
+3. Materials Handling        To modernize TNB's materials         Completed      A computerized system to
+handling systems and procedures;                   manage materials handling
+and to assist in optimizing TNB's                  has just been installed.
+capital investment in stocks and its               Benefits to result in future.
+cost of managing stores.
+4. Inventory of Fixed Assets   To independently verify TNB's       Completed     Procedure available to
+and Fixed Asset Accounting    catalogue and evaluation of fixed                  incorporate assets into
+assets; to verify its catalogue and                operation and appropriately
+clearance of the Work in Progress                  expense depreciation. Will
+acco.nt; and to review TNB's                       facilitate in maintaining
+methodology for revaluation of                     adequate ROR on total
+fixed assets.                                      assets.
+
+
+
+-15-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 8A: Project Costs
+Appraisal estimate                   Actual
+Foreign                         Foreign
+Local   exchange                Local   exchange
+Item                     costs      costs      Total     costs      costs      Total
+(USSS million)                 (US$ million)
+Thermal power plant rehabilitation           3.2        13.3       16.5     13.6        31.9      45.5
+Thermal power plant conversion from          2.6        10.6       13.2      7.0        21.5      28.5
+oil to oil/gas firing
+Additional Rehabilitation Costs a/                                          17.9        25.8      43.7
+Computerized maintenance management          0.6         1.0        1.6      1.3         1.6       2.9
+system for thermal & hydro stations
+System control improvements                  3.6        20.1      23.7       7.1        19.6      26.7
+Transmission system rationalization         36.1        42.6      78.7      35.0        70.6.    105.6
+Consultancy services for thermal plant       1.1         4.4       5.5      b/          b/         7.6
+rehabilitation, distribution system
+planning, material management,
+management services, fixed assets
+accounting and human resources dev.
+Total Base Cost                        47.2        92.0      139.2                          260.5
+Physical contingencies (10%)                 4.7         9.2      13.9
+8.0       11.1      19.1
+Price contingencies                          2.3         4.6       6.9
+Total Project Cost                     54.2       105.8      160.0                          279.6
+Interest during construction
+Bank Loan                                  .         20.5       20.5                           b/
+Others                                     -                                                   _ b   l
+Total Financing Required                54.2       126.3     180.5      _/                    _i
+a/  Additional investment on power plants beyond those defined in the SAR. Doest not include
+claims totalling M$70 million yet to be resolved.
+b/  Not available
+
+
+
+-16-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 8B: Project Financing
+(US$ million)
+Planned                    Actual
+Source /          i~Local    Forei  Total   Local   Foreign   Total n/
+IBRD                     1          100.0    100.0     b/       66.3     66.3
+TNB                         54.2    26.3      80.5     _/                213. 3
+Other                    I_             _     _      
+Total                    54.2    126.3    180.5      b/               279.6
+a/ Doest not include IDC and other unresolved contingencies/claims.
+b/ Not available
+
+
+
+- 17 -
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 9: Internal Economic Rate of Return for TNB's Investment Program
+r4VESI1Nr cos                   I OPERATMO  & MA rEANC CS                                   TOTAL
+GENE-          9A3          DLSTRI-           GENE- 1RAM- DISTRI                             TOTAL    INVESTA  SALES    ?Er
+YEAR  RATION  MISSION  1B1110TlOTAL RATIO 1.31  BLMM FUR.  TCTAL COST    OPERAni __V__ BENEF
+1983                                        188873                                                                1SS873           0         -lS8S73
+1984                                        229SZ6                                                                229826           0         -229S6
+1985                                        2759                                                                  277059           0         -277059
+1986                                        406148                                                                606148           0         -606148
+1987       764539       20409   244316  1339320   24720    782          216640   650234  1192484    1820725    3160045    2543470            -616575
+19S8       4722         3750   235847  1214290   19419    77m6   235970  4762S2  1I14637    1926369    3140659    270SZ20                    -432439
+1989       167532       246=7   270188   7419S0   369522   971    267m9   71787  14S676    2076897    2818877   2967547                        148670
+1990       109450       191610   3772D0   743400   394731   1384   3268   967252  181235    2537602   3281002    33399L5                        58913
+1991      1385500       410300   5332D0  2416400  335437   122i     3   4S3375  1359  223964    2641884    5052S4    3724433                -13338S1
+1992      146900        300    56800  2391W0    463631   141145   546456  1394306  254W8             2916521    5307521    4320623           -986898
+1993      1403000       554co0  992 W00  3076000   476853   139113   406619  12936  2805571    3251933    6327933    5087579                -1240354
+1994      2097000       8220      984000  4052000   40698   234492   761492  15624  3179506    3692342    7744342    567S744                -2065598
+1995                                                                                                 5041000    5041000    6783000            1742000
+1996                                                                                                 6297000    6297000    780S000            1511000
+1997                                                                                                 7541000    7541000   U817000             1276000
+198                                                                                                  8752000    8752000    9863000            1111000
+199                                                                                                  9582000   95S20O  10847000              1265000
+2000                                                                                                10485000   1048SO00   11971000            1486000
+2001                                                                                                104S5000   10485W0   11971000             1486000
+2002                                                                                                10485000   10485000   11971000            1486000
+2003                                                                                                10485000   1048500    11971000            1486000
+2004                                                                                                10485000   10485000   11971000            1486000
+2005                                                                                                1048SO0O   10485000   11971000            1486000
+2006                                                                                                10485000   10485000   11971000            1486000
+2007                                 .                                                              10485000   10485000   11971000            1486M000
+2008                                                                                                10485000   10485000  11971000             1486000
+2009                                                                                                10485000   10485000   11971000            148600
+2010                                                                                                1040    104850    11971000                1486000
+2011                                                                                                10485000   1048500    11971000            1486000
+2012                                                                                                1048500    10485000   11971000           1486000
+2013                                                                                                10485000   10485000   11971000            1480
+2014                                                                                                10485000   1045000   11971000             1486000
+2015                                                                                                10485000   104500    11971000             1486000
+2016                                                                                                104850W    10485000   11971000            1486000
+2017                                                                                                10485000   104850W    11971000            1486000
+201S                                                                                                10485000  10485000   11971000             1486000
+2019                                                                                                10485000   104S5000   11971000            1486000
+2020                                                                                                10485000   10485000   11971000            1486000
+2021                                                                                                10485000   104S5000   1197100             148600
+2022                                                                                                10485000   1048500   11971000             1486000
+2023                                                                                                1048000W  10485000   11971000             1486000
+2024                                                                                                10485WO   10485000   1197OOO             14S6000
+2025                                                                                                104850O0   10485000   11971000            1486000
+2026                                                                                                104S5000   1048500    11971000            148600
+2027                                                                                                10485000   1048500    11971000            1486000
+202S                    .                              .                                            10485000   10485000   1197100            1486000
+2029                                                                                                10485000   1048500    11971000            14860W
+20301               _______                                           …104850001 10485000   11971000                                          1486000
+intcmnal rate ofmrturn - 11.889%
+
+
+
+-18-
+ENERGY EF1FICIENCY AND PLANT REHABILITATION PROJECT
+Table 10: Status of Legal Covenants
+Original         Revised              Description
+Agreement          Covenant       Fulfillment      Fulfillment               of
+Section            Type            Date             Date                Covenant                     .Comments
+LOAN AGREEMENT
+Section 5.01 (b)            F               A                -         Have accounts & financial    Complied up to FY93.
+statements audited each FY
+by independent auditors
+acceptable to the Bank.
+Section 5.01 (b)            F               A                -          Fumish certified copies of    Complied. Delayed
+financial statements to the    submissions in some years.
+Bank within nine months of
+close of FY.
+Section 5.01 (b)            F               A                -         Fumish to the Bank other    Complied.
+information conceming
+accounts. financial
+statements and audits when
+requested by the Bank.
+Section 5.01 (b)            F               A                -         Furnish unaudited copies of  Complied.
+financial statement six
+months after close of each
+FY.
+Section 5.02 (b)            F            8/1986              -         Self-financing ratio (SFR)    Complied substantially. SFR
+for electricity operations,  dipped to 21% and 13.3% in
+excluding rural            FY91 and FY94, respectively.
+electrification, to be not
+less than 30% of the
+Borrower's average annual
+expenditure.
+Section 5.03 (a)            F              A                 -         Borrower not to incur debt   Complied substantially between
+more than 60% of the sum    FY86-94.
+of its equity plus its total
+debt.
+Section 5.03 (a)            F            8/1986              -         Borrower not to incur debt   Complied fully.
+unless a forecast shows that
+the net estimated revenues
+(total revenue less
+expenditures) during debt
+term is at least 1.3 times
+the debt service
+requirements.
+A - Effective and first fulfilled under previous Bank loans.
+
+
+
+-19-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 11: Bank Resources: Staff Inputs
+Task                                 Input (Staff weeks)
+Project Preparation                                            27.7
+Cofinancing                                                     0.2
+Lending Development                                             9.0
+Project Appraisal                                              23.1
+Loan Negotiation                                                5.3
+Project Supervision                                            18.0
+Implementation Completion Report                                5.0
+TOTAL                                                 88.3
+
+
+
+-20-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Table 12: Bank Resources: Missions
+Stage of J Month/   Number  Days in   Specialized        Performance    Types of
+project     year       of      field a/    staff skills    rating     problems ;/
+cycle               persons             represented b/     status
+Through ARpraisal
+10/85       1         5    ENG                    1             1
+12/85       3         15    ENG,FA,ECO            1             1
+04186       3         23    ENG,FA,ECO            1 1
+Supervision
+02/87       2         6    ENG, FA                1            2, 3
+06/87        1        3    ENG                    1           2, 3
+07/87        1        16    ENG                   2            2, 3
+08/89       2         5    ENG, CON               2            2, 3
+05/90       2         10    ENG, CON              2            2, 3
+07/91        1        11    ENG                   2           2, 4
+07/92        1        5    ENG                    2            2, 3
+Completion
+106/95        1        12    CON
+/a   Includes time devoted to other operations in the country.
+/b   ENG = Engineer, FA = Financial Analyst, ECO = Economist, CONS = Consultant
+/c    I = No. of minor problems, 2 = Procurement decision delays/progress,
+3 = Disbursement, 4 = Project Management
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+APPENDIX A - MISSION AIDE-MEMOIRE
+I I
+
+
+
+
+
+
+- 22 -
+Aide-Memoir
+World Bank Mission. June 19-30. 1995
+1.   A World Bank mission comprising of Mr. Brahm Prasher (consultant) visited
+Tenaga Nasional Berhad (TNB) between July 19 and 30, 1995 for a field
+completion mission to obtain date and information for preparation of the
+Implementation Completion Report (ICR) on the Energy Efficiency and Plant
+Rehabilitation Project (Loan 2772-MA). The mission wishes to thank TNB
+for the cooperation it has received in obtaining data and information required
+for preparation of the ICR.
+2.   TNB and the mission discussed the Borrower's role in preparing its final
+evaluation of the project implementation and operation experience, as
+required under the Loan Agreement, including preparation of the summary
+report which is to be attached to the ICR. TNB will transmit its evaluation
+report for the project, including the summary report, within three months of
+the present mission. The Bank will complete the draft ICR on the project
+within approximately the same period and will transmit the draft to TNB for
+comment. The main findings with respect to the ICR mission are as follows.
+3.   The projects financed under Loan 2772-MA have for the most part been
+completed satisfactorily, save for a few components which are nearing
+completion within the next few months. Of the twelve power plant units,
+ten have been successfully rehabilitated and modified, while the remaining
+two are scheduled for completion by August and September 1995,
+respectively. The mission is pleased to note that all six of the rehabilitated
+and modified units recently completing performance testing and evaluation
+are capable of operating at availability factors, capacity ratings and fuel
+efficiencies, which overall significantly exceed appraisal/design estimates.
+4.   The construction of transmission lines and substations for rationalizing
+power supply to Kuala Lumpur h0s been fully completed. The transmission
+capabilities available for supply of power to Kuala Lumpur has at present a
+spare capacity of about 20 percent and this spare capacity is expected to
+be fully utilized by growth in power consumption in Kuala Lumpur over the
+next few years. The components of the project for upgrading the National
+Load Despatch Centre with computers and related equipment, and for
+establishment of three computerized Regional Control Centers to perform
+SCADA functions for the local networks, has been completed. However,
+
+
+
+- 23 -
+successful testing of the power system application softwares has not been
+completed yet. Site acceptance and reliability tests, both for the National
+and three Regional Control Centres, are expected to be completed by
+September 1995, after which the control centers are expected to be fully
+operational.
+5.   The mission is pleased to note that the institutional development and
+maintenance management components of the project have significantly
+assisted in strengthening TNB's capabilities and operations. It is expected
+that there will be further beneficial effects as the management systems are
+fully utilized and implemented within TNB.
+6.   The mission and TNB discussed operation of the elements of the project
+completed under Loan 2772-MA to maximize project benefits in future. To
+assess the operations and measure performance, the mission and TNB are
+in agreement that project benefits can best be maximized by monitoring
+existing performance indicators being extensively used within TNB for the
+generation, transmission and other in-house support operations.
+7.   TNB has kindly offered to transmit in a few weeks more data and
+information for completion of the ICR. This data and information could not
+be available during the mission. The mission wishes to thank TNB for its
+efforts in assiting the Bank for preparation of the ICR.
+Mr. Mohd.     b. Ism                  Mr. Brahm D. Prasher
+GENERA L MA NA0JA NCEJ                CONSUL TANT
+Tenaga Nasional Berhad                East Asia & Pacific Region, Dept. I
+World Bank
+2
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+APPENDIX B - BORROWER'S CONTRIBUTION TO REPORT
+December 21, 1995
+I I
+
+
+
+
+
+
+_  5-
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+PROJECT COMPLETION REPORT
+Introduction
+The World Bank loan was initially taken to finance the following projects:
+i) Thermal Stations: Plant Rehabilitation and Conversion
+ii) Maintenance Management System for Thermal and Hydro Stations
+iii)System Control Improvements
+iv)Transmission Lines and substations for Power Supply to Kuala Lumpur
+v)Institutional Development
+a) distribution system planning, management, operation and maintenance,
+construction, loss assesment and reduction;
+b) organisational efficiency through the conduct of a study to upgrade the
+management services department
+c) materials management
+d) fixed assets accounting through the conduct of a fixed assets inventory
+e) human resources development
+The projects that are actually being financed from the World Bank are as follows:
+a) Maintenance Management Systems for Thermal and Hydro Stations
+b) System Control Improvements
+c) Consultancy costs for the Plant Rehabilitation and Conversion Project.
+d) Transmission Lines and substations for Power supply to Kuala Lumpur
+The other projects are either internally financed from TNB's own funds or by other
+financiers or the project was not actually carried out.
+,3.
+
+
+
+- 26 -
+COMPUTERISED MAINTENANCE MANAGEMENT SYSTEM
+This project was carried out in order to improve plant availability, efficiency and reduce
+maintanance costs. The system was installed at 10 of TNB'S major power stations. The
+contract for design, supply,conversion,installation and commissioning of CMMS was
+awarded to Messrs. Lahmeyer International of Germany in association with the Electricity
+Supply Board of Ireland.
+The detail audit report of the existing maintenance management system at the power
+stations was carried out and approved on 30 SEPTEMBER 1988. Upon approval of the
+report, the contractor proceeded with the development of the detail design. The
+installation, conversion and commisioning phase was first tried out at a pilot power
+station. On successful completion of this phase, the same was carried out at the other
+power stations.
+The entire project was completed on 4 May 1990. The total contract price was US
+$2.9million, made up of US $1.6 million for the offshore portion and US $1.3 milion for
+the local portion.
+The long term objective of the CMMS is to increase average power plant availability by
+about 5%. The availability trend of seven out of 10 stations are registering positive change
+after CMvMS was commisioned. The overall stations weighted average availability has
+increased by a significant amount of 4.88% after the implementation of the CIMS. The
+thermal stations weighted average availability has increased by a promising 7.68% after
+the implementation of CMMS.
+Generally the results have been fairly acceptable and encouraging. Other factors such as
+increase in maintenance knowledge and efficiency also contributed to this positive results.
+Power stations performance can be further improved with usage and increase utilisation of
+the CMMS system.
+SYSTEM CONTROL INIPROVEMENTS
+This project was carried out in order to upgrade the existing NLDC telecontrol system
+and establish three new Regional Control Centres (RCC) in Penang, Klang and Johor
+Baliru in view of the expansion of the electrical power system and the increase complexity
+ii
+
+
+
+- 27 -
+of the operating system of TNB. The upgraded NLDC telecontrol system also
+incorporates an Energy Management System (EMS). The contract for the supply of the
+NLDC and RCC Telecontrol Systems was awarded to Westinghouse Systems Limited
+U.K.
+Scope of work
+The scope of work for the whole project covers the following areas:-
+a) Replacing the existing NLDC SCADA computer system with a new system which
+incorporates an Energy Management System (EMS). The number of RTU's for the NLDC
+is increased from the present 34 to 54.
+b) Establishing a new computer -based Regional Control Centres at Penang (24 RTU,s),
+Klang (27 RTU's) and Johor Bahru (29 RTU's).
+c) Development and installation of EMS power system application softwares at NLDC.
+Status of Work in Progress
+The contract was awarded to Westinghouse Systems Limited in July 1989. The project
+was to be completed and handed over to TNB after 32 months in March 1992.
+The site acceptance test for the hardwares and SCADA functions have conducted as
+follows: -
+Control Centre           SAT Period
+Penang                    1 nov. 1994- 13 Dec.1994
+Johor Bahru               19 Dec. 1994 - 16 Jan. 1995
+Klang                    23 Jan. 1995 - 20 Feb. 1995
+NLDC                      13 Feb.1995 - Expected to complete 30.7.95
+For the NLDC, testing of the Power System Application Softwares is still in
+progresss.Testing of the despatcher training simulator is scheduled to commence
+beginning of July 1995.
+iii
+
+
+
+28 -
+The main contributing factor to the project delay was the failure of the Factory
+Acceptance Tests (FAT) held in February/March 1992. For the purpose of FAT, tests
+were conducted to evaluate the performance of the computer systems in handling the
+power system expansion up to the year 2005. The performance of the hosts computers for
+NLDC and RCC did not meet the contractual requirements and also unacceptable for
+real-time operational control of TNB transmission and distribution systems. In order to
+comply with the specifications, Westinghouse Systems Limited has to redesign and
+upgrade the computer systems. The second Factory Accceptance Test was conducted in
+October/November 1992 and the system was accepted for shipment to sites.
+Owing to the delay in the project completion, TNB is claiming compensation from the
+liquidated damages, as well as to claims arising from opportunity loss due to delay in
+implementation of Automatic Generation Control (AGC) which would have contributed to
+possible saving of one to two percent in fuel cost. At the same time Westinghouse
+Systems Ltd. has also filed some claims against TNB. As such commercial reconciliations
+negotiations are in progress between TNB and the contractor. However, the project
+progress till completion is not hindered by the commercial counter-claims. The expected
+handing over date is September 1 1995.
+POWER PLANT REHABILITATION AND CONVERSION PROJECT
+Two remaining units under the power plant rehabilitation and conversion project, i.e, Prai
+Power Station unit 5 and Sultan Iskandar Power Station Unit 2, are still undergoing
+rehabilitation and conversion process, and are expected to be completed in July/August
+1995. With the completion of these two units, all 12 units under the PRCP would have
+undergone rehabilitation and conversion as set out in the contract between the main
+contractor Bharat Heavy Electricals Ltd. (BBEL) of India, the sub-contractor Siemens
+AG of Germany and Tenaga Nasional Berhad (TNB).
+The project which was planned for completion end of 1992 has been extended
+considerably, mainly due to severe power shortage in Malaysia during the implementation
+stage. This power shortage forced TNB to reschedule the outage schedule for the units to
+undergo rehabilitation and conversion, in order to allow these units to remain in operation
+to help the power shortage problem.
+Delays during the implementation of the PRCP have been experienced, but this has
+affected the overall schedule to a lesser extent than the power shortage problem.
+The expected completion date is end of 1995.
+iv
+
+
+
+29 -
+Looking from an overall point of view, the targets set for the project have been achieved.
+Tuanku Jaafar Power Station (TJPS) 120MW units and Sultan Iskandar Power (SIPS)
+120MW units have been converted to gas and are capable of running at rated load 120
+MW. For the 120 MW units at TJPS the upgrading of FD and ID Fans under gas
+conversion has also increased the capacity to rated load on oil firing.
+The increase in capacity at Prai Power Stations (PPS) and SIPS has as well been achieved
+by replacing all HP-Heaters.
+Increased efficiency has been achieved for the 120MW units, by replacement of HP-heater
+at PPS and SIPS, improve air heater seals at TJPS and SIPS and installation of on load
+condenser cleaning system for all 120MW units.
+Increased availability has been achieved for all rehabilitated units by the mechanical
+improvements mentioned above and the installation of new control and instrumentation
+system for all the units under the PRCP.
+It is concluded that the overall benefit of the PRCP for TNB is significant. New problems
+have been revealed during the period from the audit in 1988, carried out by TNB and
+Danish Power consult, on which the PRCP scope of work was based on. These problems
+are being attended to by TNB in order not to erode the benefits already achieved under
+the PRCP.
+From the system forecast it has been established that the units under the PRCP will still
+play a role even after the year 2000, especially the 120 MW units. This may not have been
+the case if the units had not undergone the rehabilitation and conversion. Further the
+benefit of the 120 MW units at TJPS and SIPS , being dual fired, has already shown to be
+of great advantage during gas curtailment incidences.
+TRANSMISSION LINES AND SUBSTATIONS FOR POWER SUPPLY TO
+KUALA LUMPUR
+In the initial proposal, 7 substations were to be built under the 12th Power Loan, i.e:-
+1) Serdang
+2) LLN Headquarters
+3) Bandar Tun Razak
+4) Titiwangsa (Jalan Pahang)
+5) Jalan Galloway
+6) Pudu Ulu
+7) Segambut
+v
+
+
+
+- 30 -
+8) Kg.Lanjut
+9) D.C.A. Subang
+The actual scope of work did not vary much from the original estimate, except for the
+Bandar Tun Razak and Titiwangsa substation which was not financed from the World
+Bank Loan. All the nine substations were installed and commisioned by June 8 1995.
+For the transmission lines regarding the Transmission System Rationalization, the original
+estimate was for the following:-
+1) Segambut - K.L. North
+2) Segambut - Kg. Lanjut
+3) Segamnbut - Damansara Ht.-LLN Headquarters
+4) Serdang - Bandar.Tun Razak
+5) K.L. (East) - Pudu Ulu - Bandar Tun Razak
+6) Connought Bridge - Bkt. Raja
+The actual transmission lines that were financed under the 12th Power Loan were as
+follows:-
+1. K.L. (East) - Kg.Lanjut - Pudu Ulu
+2.Pudu Ulu - Bandar Tun Razk - Serdang
+3.Segambut - Damansara Height - TNB HQ
+The above transmission lines have been completed on November 1994, and with the
+commisioning of the substations, the project have benefited the residence and industrial
+consumers in the Klang Valley.
+FIXED ASSET ACCOUNTING
+In 1988, TNB (NEB ) undertook a study on the inventory and revaluation of its fixed
+assets in its records as at 31st August 1988.
+To undertake the above, TNB appointed and awarded a contract to Messrs. Ewbank
+Preece, Brighton, United Kingdom (as the lead) with Messrs. Tenaga Ewbank (a local
+cousultancy firm) to carry out the plant and machinery valuation, Messrs. Ernst &
+vi
+
+
+
+- 31 -
+Whinney ( a local accounting firm) to implement and convert the fixed asset records using
+the Software International's - Masterpiece Fixed Assets System (MFAS- Computer
+System), while the valuation of land and building assets was carried out by Messrs.
+C.H.Williamns Talhar & Wong (an international property valuation finn based locally).
+The cost of the prroject in carrying out the above study, valuation and converting into
+computerised records amounted to about RM2.5 million. The whole project was
+completed in 1990 over a duration of about 2 years.
+As a result, the project achieved the following major objectives:-
+i) Identified and updated the fixed asset records in operation under generation,
+transmission, distribution and general assets.
+ii) Identified the obselete fixed assets, primarily the generating assets eg.
+decommissioned power stations and other generating assets not required for
+generation.
+iii) A detailed inventory on the land and building assets, matched with physical
+checking and valuation carried out with verification of records at the respective
+local government land registry.
+iv) Revised procedures for timely closing and transferring of capitalised work-in-
+progress expenditure to fixed assets, and recommended procedural manuals for
+the above items, including procedures for tax treatment and implications.
+Subsequently, two further revaluation exercises were carried out only on land and building
+assets; one in 1992 for the company's share floatation purpose (values not booked into
+company's books) while the other was in 1994 .
+MATERIALS MANAGEMENT INFORMATION SYSTEM
+The Materials Management Information System (M S) was implemented with the
+following objectives:-
+a)    Upgrade the existing materials management function
+b)    Provide real-time facilities
+c)    Optimize capital investment in stocks
+d)    Minimize inventory expenditures
+e)    Provide effective business tool
+vii
+
+
+
+- 32 -
+Implementation
+The overall completion of MMIVS project to date is 85%. MMIS is an on-line real-time
+system which requires the installation of the telecom leased line to various TNB locations.
+A total of 186 locations need to be connected. To date 172 locations have been
+connected. The difficulty faced in installing the telecommunication network has shifted the
+target completion of the project. The tender was awarded in August 1992 and the original
+implementation was 18 months, i.e. completion in February 1994. However, due to the
+difficulty in network installation the project completion was delayed and the new target
+completion date is by September 1995.
+Training
+User training is an on-going exercise which was started from January 1994. The status of
+training to-date is as follows:
+1,500 operational users have been trained which includes storekeepers, clerical staff and
+officers directly involved in operational work.
+1,300 users will be trained before June 1996. This training will be on operational as well as
+on enquiry facilities.
+Benefits
+The benefits derived so far from the implementation is as follows:-
+I.    Real-time information on stockholding and inventory movement company wide.
+2.    On-line validation of project account for materials used.
+3.    On-line information on purchase orders and receipt
+4.    Real-time voucher creation and check printing for Accounts Payable.
+5.    Company wide accessability to system and information.
+viii
+
+
+
+- 33 -
+TNB'S PERFOR-MANCE
+The original financing amount was for US $1 00m. The actual financing taken was
+US $66.34m, US $33.66m being cancelled. For the Plant Rehabilitation and Conversion
+Project, since it was a negotiated project, and sufficient suppliers credit was available from
+the contractors, i.e, Bharat Heavy Electricals and Kreditstanstalt Fur Weiderafbau, the
+project was not funded from the World Bank. Only the consultancy cost being carried out
+by the Danish Power Consult was being charged to the World Bank loan 2772. Those
+projects which are not funded from the World Bank Loan are either funded internally or
+by other financiers.
+THE BANK'S PERFORMANCE
+In general, the Bank has responded satisfactorily to the requirements of the project.
+Withdrawal applications were processed promptly, and requests for extensions of loan
+closing were attended to immediately. However, TNB have the following cornments:-
+I)    Since the payment of the loan principal are being called in various currencies, it is
+difficult for TNB to do a proper hedging as there are no definite cash flow.
+2)    The cost of revaluation for the fluctuations in the currencies in the pool should not
+be passed to the borrower. If this is to be charged, it should be costed into the
+initial interest rate of the borrowing.
+SUMMARY
+Although the World Bank Loan was principally taken to finance the Plant Rehabilitation
+and several other projects, finally only 4 projects are being financed under this loan. Due
+to a negotiated tender for the project and availability of sufficient suppliers credit, the
+Plant Rehabilitation and Conversion Project was not financed. There were delays in the
+implementation of the projects, and especially for the Plant Rehabilitation & Conversion
+Project, System Control Improvements and Materials Management Information System
+project which are still not completed. Two projects which are financed under this loan,
+Maintenance Management System for Thermal and Hydro Stations and the Transmission
+Lines and Substations for Power Supply to Kuala Lumpur, have been satisfactorily
+completed.
+ix
+
+
+
+I
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+(LOAN 2772-MA)
+Appendix C
+I t
+
+
+
+
+
+
+-35-
+A. FINANCIAL PERFORMANCE
+1.         As shown in the summary on performance (Appendix C, page 4), TNB's financial
+performance during the FY9O-94 period has been strong and satisfactory, and, overall, compares
+favorably with the appraisal predictions. During this five year period, kWh sales grew at an average
+annual rate of about 10.7%, and the total kWh sales in FY94 were about 44% higher than the appraisal
+estimate. Electricity sales revenue grew during this period by about 72% to M$5.41 billion in FY94,
+while the per kWh revenue only grew by a total 4% in FY90-94 to M$0. 186 per kWh. Net operating
+income increased by 49% during this five year period from M$902 to M$1766 million. The FY94 net
+operating income was 73 % higher than the appraisal estimate, and this increase approximately
+corresponds to the percentage increase in kWh sales during the period.
+2.         The rate of return (ROR) based on 3 year averaging of the rate base was 11.9% during
+FY90-94, and compares favorably with the appraisal average of 8.3%. The annual ROR oscillated
+between 9.6% and 13.8% in this period. The average annual ROR based on historical assets was
+13.8%, and exceeded the appraisal average of 11.2% for the five year period. The average debt
+service ratio during the five year interval was 1.6. This average was lower than the appraisal estimate
+of 1.9, but appreciably higher than the annual 1.3 ratio required by the covenants. During this five
+year period, total cash available for debt service was significantly higher than appraisal estimates;
+however, provisions for working capital and dividends increased more steeply than estimated during
+appraisal. TNB was also in compliance with the covenanted debt service minimum of 1.3 for each fiscal
+year.
+3.         TNB posted a strong financial performance for the five year interval (FY90-94). The rate
+of return (ROR) on revalued fixed assets averaged 11.9% for the period, and compared favorably with
+the appraisal estimate of 8.3%, even though the per kWh revenue did not increase appreciably in the
+period. The large kWh sales increases was the predominant reason for the high ROR in relation to the
+appraisal estimate. Overall, TNB was in compliance with all financial covenants negotiated with the
+Bank except with respect to the self-financing ratio (SFR) in certain years. The SFR averaged 30.4%
+during the five year period, which though significantly lower than the five year appraisal average
+estimate of 44% met the covenanted level of 30%.  The SFRs of 21% and 13.3% for FY91 and 94,
+respectively, were lower than the covenanted minimum ratio of 30%. In FY91 the shortfall was
+accounted for largely by lower operating revenues due to higher than anticipated fuel expenses, the high
+capital investment needed in the period (M$2.4 billion against the estimated level of M$1.5 billion),
+higher than estimated debt service load, and increases in working capital and dividend payments. Also
+in FY94, an increase in the capital expenditure of about 77% over that anticipated at appraisal coupled
+with higher than expected debt servicing requirements contributed to the lower SFR. Despite non-
+compliance with the covenanted SFR of 30% in certain years, TNB paid dividends in FY91 (M$70.4
+million) and the amounts escalated from M$36.8 million in FY92 to M$231million in FY93 and to
+M$246.7 million in FY94. However, these dividends were essential to TNBs privatization and the
+floatation of its shares which required maintenance of an attractive dividend payout ratio. The debt to
+debt plus equity ratio and debt service ratio for the period are well within the Bank covenanted values.
+
+
+
+-36-
+B. ECONOMIC ANALYSIS
+Internal Economic Rate of Return for TNB's Investment Program
+4.          An internal economic rate of return (IERR) has been computed for the investment program
+(1984-94) by the Borrower, as shown in Part II, Table 9, to reconfirm the viability of the Borrower's
+investment program. The methodology used to re-evaluate the rate of return is similar to that used in
+the SAR. Fuel costs are based on actual prices paid by TNB up to 1995. Capital costs are the
+investment costs of power plant, transmission and distribution system expansions. Economic costs of
+natural gas are costs which have been specified by Petronas, the government company responsible for
+gas operations and sales. The computations on IERR (Part II, Table 9) show increasing sales revenue
+and total costs during the six year period between FY95 and 2000. However, the Borrower has not
+provided an explanation on the assumptions or basis used for arriving at the revenue and cost streams
+during this period. The re-evaluated economic rate of return is 11.9%, and is close to the 12%
+estimate obtained during appraisal. This rate is significantly higher than TNB's present opportunity cost
+of capital, which is less than 10%.
+Analysis of Investments in Rehabilitated Plant and Computerized Maintenance Management System
+(CMMS)
+5.         As discussed in Part I, the rehabilitation work on two of the twelve power plants has not
+been completed at the time of the ICR mission ending in the beginning of July 1995. Performance test
+results, obtained by operating plants over several months, will not be fully available for about half of
+the modified plants until mid-1996.  Investment cost "contingencies" and claims, indicated to be
+significant in relation to the project costs, have to be resolved before accurate investment data can be
+obtained. A qualitative analysis can be deduced based on performance results available on a majority of
+the plants and estimated completion costs.
+6.          Based on a re-evaluation of the condition of the power plants in 1988 during
+implementation, TNB decided to institute more extensive rehabilitation work on the plants and derive
+much higher benefits from the resulting investments. The audit on the condition of the plant units also
+revealed that safe and disruption-free operation of the units, in the looming context of worsening power
+supply situation, would require appreciable investments in instrumentation and control systems for these
+plant units. The cost of rehabilitating the 12 plant units, including the cost of the CMMS, increased
+significantly from SAR estimate of US$18.1 million to an expected total of US$92.1 million (Table 8a).
+However, there is a corresponding increase in total MW recovered. The SAR estimated a total rating
+recovery of 50 MW for TIPS, PPb and SIPS, while actual rating recovery estimated at these three
+stations is estimated to total about 205 MW. Operating data available from some completed plants have
+largely validated these recovery estimates. The SAR assumed availability improvements averaging only
+5 % following rehabilitation and modification. Experience on some plants completing rehabilitation and
+12-month operation testing suggest availability increases a few times those assumed at appraisal
+(Appendix C, page 11). Total MW recovery based on improvements in availability are re-estimated at
+210 MW, comrated to SAR estimates of 66 MW. The totaL MW recovery based on both capacity rating
+improvements and increased availability is expected to total 420 MW. The corresponding appraisal
+
+
+
+-37-
+estimate was 116 MW. The recovery cost, inclusive of the cost of CMMS investments, is estimated at
+US$300 per kW, and is higher than the estimate of US$156 per kW at appraisal.
+7.         The fuel efficiency improvements at appraisal were estimated at 0.5, 1.0 and 1.5% for the
+rehabilitated plants at SIPS, PPS and TJPS, respectively. However, re-estimates or actual test data on
+completed plants suggest improvements ranging between 2% and 4.2% for most of the plants. The
+IERR for the investment is expected to be below the appraisal estimate of 19.8%, since investment costs
+per kW are higher than the appraisal estimates. Fuel cost savings resulting from increased efficiency
+could, however, to result in significant off-setting of increased investment costs.
+Conversion from Oil to Oil/Gas Firing
+8.         Completion costs to convert power plants from oil to dual (oil or gas) firing are expected
+to be close to US$28.5 million, compared to the appraisal estimate of US$13.5 million. The fuel cost
+savings estimates were based on the cost of fuel oil at M$7.3/MMBTU (US$120/ton or crude at
+US$20/barrel) and gas at M$3.5/MMBTU on the west coast. The differential works out to be about
+$3.8/MMBTU. Recently, fuel oil has been priced at about M$7.00/MMBTU (or equivalent to crude at
+US$19/barrels), while TNB's cost of gas is M$6/MMBTU on the west coast. Under current fuel prices
+paid by TNB, which are likely to prevail in the intermediate term, the fuel cost savings appear to be
+about 25 to 35 % of that estimated at appraisal. The pay-back period for the investment is likely to be
+between 4 to 6 years. The pay-back period based on the economic cost of gas during appraisal was
+estimated to be less than one year. Financially, the plant conversion investment is expected to provide
+much reduced benefits; however, with respect to the economic benefits, (based on economic cost of gas
+which would be substantially lower than the financial price of M$6/MMBTU) the pay-offs are still
+significant.
+Transmission Lines and Substations for Supply to Kuala Lumpur
+9.         The transmission system rationalization component for supply to the Kuala Lumpur area
+was completed at US$106 million (Part 11, Table 8A), about 34% above the appraisal estimate.
+However, the component was completed with omission of 12 km of lines out of the appraised estimate
+of 72 km, reduction of 390 MVA of transformer capacity out of a total of 2,190 MVA, and omission of
+two substations out of nine, including corresponding switch gear equipment. On account of expected
+full utilization of capacity for the system in about two years, further augmentation and investment in the
+system would be needed, sooner, as compared to the appraisal plans. The actual completion cost of the
+system based on equal capacity is implicitly about 20% higher than indicated above. An analysis of the
+economic rate of return at this time is not possible on account of the unavailability of operation and
+other data. The full system was commissioned at the end of 1994. It is probable that when computed
+in future, the economic rate of return for this component would be lower than the appraisal estimate of
+13.9%, despite the higher sales for the area.
+
+
+
+Appendix C
+Page 4 of 13
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Summary of TNB's Financial Performance, FY90-94
+1990                     1991                     1992                      1993                       1994
+Actual        SAR        Actual        SAR        Actual        SAR        Actual         SAR         Actual          SAR
+Power sold  WMkWh)                                  17,381       15,059      19.518       16,190      22,569       17,399       25,398        18,656       28,918        19,995
+Average revenue  (Sen/kWh)                           17.95         19.3        17.99         19.3       18.07         19.3       18.67          19.3         18.56          19.3
+Operating revenue (M$ mln)
+Total oper. exp. & taxes  IM$ mln)                 3,127.0    2,911.6    3.529.4    3,130.2    4,090.0    3,363.8    4,776.5                 3,606.7        5408.1      3,865.4
+Net operating income  (M$ mln)                     2,493.9    2,124.8    2,861.9    2,371.2    3,093.7    2,659.6    3,400.1                 2,918.3        3900.2    3,194.7
+Net income after tax  (MS mln)                       902.1    1,052.4          862.3    1,097.9    1,260.0    1,050.3    1,692.2             1,067.7        1766.3      1,019.7
+Dividend  (MS million)                               492.2        751.1        568.8       736.2        948.1       673.5    1,303.8           679.2        1450.8        681.3
+Rate base  (M$ million)                                35.2        42.4         35.2         42.4       131.9         42.4       241.9          42.4         252.6         42.4
+8,367.o    9,465.8    8,998.0   10,915.6           10,378   11,998.9   12,242.0    12,833.1            13280.0   13,701.2
+Primary ratios:
+Rate of return - Hist. assets (%)
+Rate of return - Reval. assets  (%)                19.7         13.7         7.3         11.7        13.1         10.6         14.9          10.2          14.2          9.9                l
+Self-financing ratio /a (%)                        10.8         10.5         9.6          9.0          121         7.8         13.8           7.3          13.3          6.8                t
+Debt service coverage                              50.0        46.8         21.0         56.3        36.0         42.0         32.0         41.6           13.0         34.5               cn
+Debt/debt plus equity /b (%)                        1.8          1.8         1.4          2.0          2.0         1.8          1.8           2.0           1.3          1.9
+Dividend yield /c (%)                              42.2         38.4        44.9         35.8        33.0         35.7         29.1          36.5          30.6         38.4                l
+Operating ratio (%)                                   -          0.5           -          0.4        0.71          0.4         1.11           0.4          0.65          0.3
+Current ratio /d (%)                              69.1%         63.9        79.1         64.9        67.1         68.8         64.6          70.4         63.6          73.6
+Accounts receivable - months                        130       104.1          110        100.3          200       101.9          130          99.8           110        105.8
+Accounts payable - months                          1.74          1.5        1.95          1.5          1.6         1.5         1.65           1.4          1.65          1.4
+I -        1.4                      1.4                      1.6                        1.7                        1.7
+/a The ratio of cash available for investment divided by that specific year's capital
+expenditure.
+Lb The ratio of long term debt divided by the sum of long term debt plus equity (net of any
+reserve for revaluation of assets).
+/c The ratio of dividends to total equity (including reserves for revaluation of assets).
+/d The ratio of current assets net of liquidity investments divided by current liabilities net of
+overdrafts.
+
+
+
+Appendix C
+Page 5 of 13
+MALAYSIA
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Financial Statements 1990-1994, Income Statement
+(M$ Million)
+1990                   1991                   1992                    1993                      1994
+Financial Year ended August 31                 Actual        SAR       Actual       SAR       Actual       SAR       Actual         SAR        Actual        SAR
+Total Generation (MkWh)                          20,648     17,676      23,369      19,003      26,737     20,422      29,726       21,898       33,985      23,469
+Losses (5)                                        15.82          17      16.48          17       15.59          17      14.56            17       14.91           17
+Net. Generation (MkWh)                           17,381     15,059      19,518      16,190      22,569     17,399      25,398       18,656       28,918      19,995
+Net Imported Power (MkWh)                            15           0          26           0         73           0          99            0          255           0
+Power Sold (KkWh)                               .17,396     15,059      19,544      16,190     22.642      17,399      25,497       18,656       29,173      19,995
+Average Revenue (Sen/MkWh)                        17.95        19.3      17.99        19.3       18.07        19.3      18.67         19.3        18.56         19.3
+Income from Electricity Sales                  3,122.6    1,906.4    3,515.2    3,124.7   4,089.8    3,358.0           4757.1      3,600.6      5,408.1    3,859.0
+Net Revenue - Excl. of Sales                        4.4         5.2        14.2        5.5         0.2         5.8       19.4           6.1            -         6.4
+Operating Revenue                               3,127.0    2,911.6    3,529.4    3,130.2   4,090.0    3,363.8    4,776.5           3,606.7      5,408.1    3,865,4
+OPERATING EXPENSES
+Fuel                                              967.3      751.0    1,333.9        830.3    1,390.8       982.5    1,583.0       1,072.5      1,586.3    1,238.8
+Bulk Purchases                                      2.1         0.0         3.7        0.0         8.5         0.0        9.9           0.0        58.2          0.0
+Other Cash Operating Expenses                     792.8       505.2      904.2       551.8       928.6      607.9       908.3        675.5      1,266.2       742.5
+Depreciation                                      462.7      603.0       425.3       650.2       502.1      723.0       583.1        791.0        731.1       864.4
+Total Operating Expenses                       2,224.9    1,859.2    2,667.1    2,032.3    2,830.0   2,313.5    3,084.3            2,539.0      3,641.8    2,845.7
+OPERATING SURPLUS                                 902.1    1,052.4       862.3    1,097.9    1,260.0    1,050.3    1,692.2         1,067.7      1,766.3    1,019.7
+OTHER ITEMS
+Non-Operating Income
+Govt. Subsidy - Rur. Diesel                                     0.0                    0.0                     0.0                      0.0                      0.0
+Dividend Earnings                                   0.6         0.2        0.6         0.2         0.6         0.2        1.0          0.2           1.0         0.2
+Sundry Receipcs                                    19.7        54.8       23.9        57.5        51.2        60.4       57.6         63.4         69.9         66.6
+Total Non-Operating Income                         20.3        55.0       24.5        57.7        51.8        60.6       58.6         63.6         70.9         66.8
+NET INC. BEF. INTEREST & TRNS.                    922.4    1,107.4       886.8    1,155.6    1,311.8    1,110.9    1,750.8         1,131.3      1,837.2    1,086.5
+INTEREST
+Total Interest Paymencs                           317.1       383.8      341.7       385.8       401.2      397.4       376.7        434.3        372.1       489.8
+Less: Interest Capitalized                          4.4      138.4        47.4       137.5       121.8      131.4        54.2        178.6         43.4       240.9
+INTEREST CHARGED TO OPERATIONS                    312.7      24S.4       294.3       248.3      279.4       266.0       322.5        255.8        328.7       248.9
+INCOME BEFORE TRANSFERS                           609.7      862.0       592.5       9C7.3    1.032.4       844.9    1,428.3         875.5      1,508.5       837.6
+TRANSFR. FROM CONTRIB. ACCT.                      151.5       154.7      171.1       167.9       179.4      174.8       191.3        183.0        200.7       192.8
+INCOME BEFORE TAX & DIVIDEND                     761.2    1,016.7        763.6    1,075.2    1,211.8    1.019.7    1,619.6         1,058.6      1,709.2    1,030.4
+Income Tax                                        269.0      265.6       194.8       338.9      263.7       346.2       315.8        379.4        258.4       349.1
+NET INCOME AFTER TAX                              492.2      751.1       568.8       736.2       948.1      673.5    1,303.8         679.2      1,450.8       681.3
+Dividend                                           35.2        42.4       35.2        42.4       131.9       42.4       241.9         42.4        252.6        42.4
+Less: AdJ. for Sale of Assecs                                  2.11                  (1.0)                   (0.9)                   (0.8)                     (0.7)
+Less: Adj. to Prev. Years
+Less: Adj. to Equity Account
+NET INCOME                               457.0       707.5       531.6       692.8      816.2       630.2    1,061.9         636.0      1,198.2       638.2
+
+
+
+Appendix C
+Page 6 of 13
+Financial Statements 1990-1994, Funds Flow Statement
+(M$ Million)
+1990                   1991                   1992                   1993                     1994
+Financial Year ended Aug. 31_
+Actual       SAR       Actual       SAR       Actual       SAR       Actual        SAR        Actual        SAR
+INTERNAL CASH GENERATION
+Net Income before Interest                     1,029.2    1,107.4       813.1    1,155.6    1,504.1    1,110.9    1,966.8        1,131.3      2,114.5    1,086.5
+Depreciation                                     462.7       603.0      425.4       650.2       502.1      723.0       583.1       791.0        731.l       864.4
+Gross Consumer Contribution                       93.7       160.4      192.9       175.5       120.1      194.3       162.3       215.2        155.9       238.4
+Net Disposal of Fixed Assets                      44.6         1.9        6.7         2.0         6.6        2.1         3.8         2.2          6.1         2.3
+Retirement benefit trust fund                      0           0          0           0       51.4           0       29.3            0         49.2            0
+Unrealized forex (L)/G                           124.2           0      195.3           0      -76.3           0          -8            0      -195.6            0
+OPERATING CASH FLOW                            1,754.4    1,872.6    1,633.4    1,983.3        2,108    2,030.3    2,737.3       2,139.7      2,861.2    2,191.5
+Less: Working Capital Incr.                       81.7       264.7       68.5        14.8       55.1        17.2       -70.4      (29.5)        256.2        99.9
+Less: Taxes Payable                                0.0       265.6        184       338.9      140.4       346.2      221.8        379.4        315.2       349.1
+Less: Dividend Payable                             0.0        42.4       70.4        42.4       36.8        42.4         231        42.4        246.7        42.4
+Less: Net Investment in Subs.                      0.0         0.0         1.1        0.0         0.0        0.0         0.0         0.0          180         0.0
+Less: Payment to Staff (RBTF,                      0.0         0.0        0.0         0.0         0.0        0.0         0.0         0.0         17.8         0.0
+Less; Increase in Govt. Stock                      0.0         0.0        0.0         0.0         -30        0.0         0.0         0.0          -10          0.0
+CASH AVAIL. FOR DEBT SERVICE                   1,672.7    1,299.9    1,309.4    1,587.2    1,905.7    1,624.5    2,354.9         1,747.4      1,855.3    1,700.2
+DEBT SERVICE
+Interest Charged to Operations                   312.7       245.4      294.3       248.3      653.7       266.0      322.5        255.8        328.7       248.9
+Principal Repayments                             630.1       458.2      629.4       542.9      279.4       628.2    1,010.4        623.9      1,050.2       647.6
+Total Debt Service                               942.8       703.6      923.7       791.3      933.1       894.1    1,332.9        879.7      1,378.9       896.5        I
+CASH AVAIL. FROM OPERATIONS                      729.9       596.3      385.7       795.9      972.6       730.4       1,022       867.7        476.4       803.6
+.1--
+CAPITAL INVESTKENT
+Proposed Project                                 739.6        79.9    2,379.3        21.2    2,269.2         0.0    3,222.3          0.0      4,008.7         0.0        I
+Other Projects                                     0.0    1,030.6         0.0    1,250.8          0.0    1,572.3         0.0     1,890.2          0.0    2,041.7
+Capitalized Interest                               4.4       138.4       47.4       137.5      121.8       131.4        54.2       178.6         43.4       240.9
+Annual Capital Investment                          744    1,248.9    2,426.7    1,409.5        2,391    1,703.7    3,276.5       2,068.8      4,052.1    2,282.6
+BALANCE TO BE FINANCED                            14.1       652.7      2,041       613.6    1,418.4       973.3    2,254.5      1,201.1      3,575.7    1,479.0
+SOURCE OF FINANCE
+Govt. Contribution - RE Projects                 101.6        77.1      145.6         0.0        49.5        0.0          30          0.0        25.1          0.0
+Consumer Deposits                                 27.6        35.7        36.3       38.4          45       41.3        53.8        44.3         62.1        47.4
+IBRD Lns. for Ongoing Projects                   32.37         0.0      37.98         0.0      11.74         0.0      65.56          0.0         2.02         0.0
+8 Loan - IBRD Projects X and XI                  19.81         0.0        0.0         0.0        0.0         0.0         0.0         0.0          0.0         0.0
+IBRD Loan - Proposed Project                       0.0        51.6        0.0         4.6        0.0         0.0         0.0         0.0          0.0         0.0
+Committed and Existing Loans                     60.92        17.0   1,293.12         0.0     931.66         0.0         0.0          0.0    2,441.28          0.0
+Further Borrowings                                 0.0       483.1        0.0       572.3         0.0      947.2     523.74      1,163.0          0.0    1,448.0
+Government of Malaysia Equity                       0.0        0.0         0.0        0.0         0.0        0.0         0.0          0.0         0.0          0.0
+Proceed from new shares                            0.0         0.0        0.0         0.0    3,183.6         0.0        15.2         0.0        273.5         0.0
+TOTAL FINANCE                                    242.3       664.6      1,513       615.3    4,221.5       988.5       688.3     1,207.3        2,804    1,495.5
+Liquidity for Investment                           288         0.0        0.0         0.0    2,763.4         0.0         0.0         0.0          0.0         0.0
+Liquidity for Borrowings                           0.0         0.0     -406.7         0.0        0.0         0.0   -1,537.7          0.0       -766.9         0.0
+CASH INCR. (DECR.) FOR YEAR                      -59.9        11.9     -121.3         1.7       39.8        15.2       -28.3         6.1         -4.6        16.5
+OPENING BALANCE                                  196.8       107.7      136.9       119.6        15.6      121.3        55.4       136.5         27.1       142.6
+CLOSING BALANCE                                  136.9       119.6       15.6       121.3       55.4       136.5        27.1       142.6         22.5       159.1
+
+
+
+Appendix C
+Page 7 of 13
+Financial Statements 1990-1994, Balance Sheet
+(M5  Million)
+1990                   1991                    1992                    1993                     1994
+Actual       SAR       Actual        SAR       Actual       SAR       Actual        SAR         Actual        SAR
+ASSETS
+FIXED ASSETS
+Revalued Gross Fixed Assets                     12,666.5   17,192.8   13,885.2   19,349.5   15,812.9   21,275.1   18,253.3    23,166.9    21,038.8   25,403.5
+Less: Accumulated Depreciation                   3,189.3    5,103.2    3,612.4    5,929.0    4,114.4    6,856.5    4,680.9          7,884.5      5,403.1    9,021.8
+Less: Tdtal Contributions                        1,377.6    1,802.6    1,54S.0    1,876.4    1,533.0    1,965.0          1,534      2,069.7         1,514    2,191.9
+Revalued'Net Fixed Assecs                        8,099.6   10,287.0    8,730.0   11,544.1   10,165.3   12,4S3.6   12,238.2    13,212.7    14,321.2   14,189.7
+Work in Progress                                 1,372.5    2,787.5    2,616.2    2,656.9    3,250.8    3,121.8    4,080.6          4,051.3      5,332.2    4,920.8
+TOTAL FIXED ASSETS                               9,472.1   13,074.5   11,346.0   14,201.1   14,416.1   15,575.4          16,319    17,264.0      1,943.4   19,110.6
+CURRENT ASSETS
+Cash                                               136.9       119.6        15.6      121.3        55.4       136.5        27.1        142.6         22.5       159.1
+Inventories                                        389.8      687.7       539.9       774.0       612.3      851.0       589.2        926.7        674.9    1,016.1
+Fuel Inventories                                   122.1        50.1      125.8        55.4         110        65.5          90         71.5         92.8        82.6
+Accounts Receivable                                466.8       372.2         563      392.5       538.7       413.7      656.2         434.8        736.3       456.6
+other Receivables                                  550.4       668.5         542      735.4       768.6       808.9       755.4        889.8        761.1       978.8
+Investment in Govt. Stock                             40         0.0          40        0.0          10         0.0          10          0.0          0.0         0.0
+Short Term Deposit                                 420.6         0.0         101        0.0    2,615.7          0.0    1,017.5           0.0      240.53          0.0
+TOTAL CURRENT ASSETS                             2,106.6    1,898.1    1,927.3    2,078.6    4,712.7    2,275.6    3,145.4          2,465.4    2,520.13    2,693.2
+Investments in Subsidiaries                            5         3.6        6.1         3.6         6.1         3.6        6.1           3.6       186.1          3.6
+Liquidity Investments                                0.0         0.0         0.0        0.0         0.0         0.0         0.0          0.0          0.0         0.0
+TOTAL ASSETS                            11,583.6   14,976.3   13,279.4   16,283.2   18,135.8   17,854.6   19,270.4    19,733.0    22,167.6   21,807.4                  I
+LIABILITIES AND NET WORTH                                                                                                                                              4 
+EQUITY
+Govt. of Malaysia Investment                       902.7       848.4      902.7       848.4       3,000       848.4    3,001.8        848.4      3,034.6        848.4          I
+Retained Earnings                                4,647.6    5,894.7    5,152.6    6,587.5    4,748.7    7,217.8    6,026.6          7,853.7      7,502.2    8,491.9
+Revaluation Reserve                                  0.0    1,833.8          0.0    2,211.6    2,498.6    2,627.8          2512     3,073.7      2,752.7    3,550.6
+TOTAL NET WORTH                                  5,550.3    8,576.9    6,056.3    9,647.5   10,247.3   106G93.9   11,540.4    11,775.9    13,289.5   12,890.9
+BORROWINGS
+IBRD Loan - Proposed Project                         0.0      235.0         0.0       218.8         0.0      197.9         0.0        177.1           0.0       156.2
+IBRD Loans - Ongoing Projects                      54.96      231.5       75.06       200.7       64.35      169.9       115.9        139.1       103.57        108.3
+B Loan - Power X and XI                           181.44       125.0      172.3       125.0      101.86       125.0      89.26        112.5         74.7        100.0
+Previous World Bank Loans                         146.28        85.1     210.54        65.4      160.67       44.1      110.78         23.7        64.59          8.6
+Further Borrowings                             3,661.42    2,570.4    4,477.2    2,148.5          4,720    1,704.4   4,423.56       1,350.1    5,615.04    1,042.2
+Less: Current Maturities                             0.0    1,500.6          0.0    2,023.3          42    2,859.3          0.0     3,837.2           0.0    5,024.7
+TOTAL BORROWINGS                                     0.0    (542.9)          0.0    (628.2)         0.0    (623.9)          0.0      (647.6)          0.0     (612.0)
+4,044.1    4,204.7    4,935.1    4,153.4    5,047.3    4,476.7    4,739.5          4,992.1      5,857.9    5,828.0
+CURRENT LIABILITIES
+Current Maturities of L.T.D.                       639.5       542.9      645.7       628.2       746.9       623.9      625.6        647.6        704.8        612.0
+Accounts Payable                                   319.8       328.9      389.7       371.1       401.9       436.5      637.9        500.8        725.6        549.2
+Provision for Income Tax                           245.4      265.6       256.2       338.9       379.6      346.2       473.6        379.4        416.7        349.1
+Provision for Dividend                              70.4        42.4        36.8       42.4         132        42.4         143        42.4        148.9         42.4
+Other Currenc Liabilities                          368.2       643.0      491.4       691.5       654.9       783.4      548.7        899.1        368.9        992.5
+TOTAL CURRENT LIABILITIES                        1,643.3    1,822.9    1,819.8    2,072.1    2,315.3    2,232.5    2,428.8          2,469.3      2,364.9    2,545.2
+OTHER LIABILITIES
+Consumer Deposits                                  345.9       371.7      382.2       410.2       427.2      451.4         481        495.7        543.2        543.2
+Liquidity Borrowings                                 0.0         0.0       86.9         0.0        46.3         0.0         0.0          0.0          0.0         0.0
+Retirement Benefit Fund                              0.0         0.0         0.0        0.0        51.4         0.0       80.7           0.0       112.1          0.0
+TOTAL OTHER LIABILITIES                            345.9       371.7      469.1       410.2       524.9       451.4      561.7        495.7        653.3        543.2
+TOTAL LIABILITIES AND NET WORTH         11,583.6   14,976.3   13,279.4  16, 283.2   18,135.8   17,854.6   19,270.4    19,733.0   22,167.6   21,807.4
+
+
+
+- 42 -
+Appendix C
+Page 8 of 13
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+System Control Improvements
+(M$ million)
+Appralsal estimnate                 Actual
+Foreign                        Foreign
+Item                    Local   exchange                Local   exchange
+costs     costs      Total     costs      costs     Total
+National Load Dispatch Center
+Computer hardware                        0.6         5.7       6.3       3.9        17.0      20.9
+Software                                 0.3         2.8       3.1       0.0         6.9       6.9
+Administration and overheads             0.5         -         0.5       1.0         0.0       1.0
+Subtotal                             1.4         8.5       9.9       4.9       23.9      28.8
+Distribution Control Centers - Penang, Johor
+Baru and Klang
+Computer hardware                        2.0        22.0      24.0       4.7        14.1      18.8
+Software                                 0.3         3.7       4.0       0.0         3.4       3.4
+Communications equipment                  1.6       16.0       17.6      0.5         1.0       1.5
+Civil works                               2.7                   2.7      4.6         0.0       4.6
+Administration and overheads              1.0        -          1.0      1.0         0.0       1.0
+Subtotal                             7.6        41.7      49.3      10.8       18.5      29.3
+Total Base Cost                      9.0        50.2      59.2      15.7       42.4      58.1
+Physical contingencies (10%)                0.9         5.0       5.9       1.6        4.2       5.8
+Price contingencies                         0.4         2.5       2.9       0.4        2.5       2.9
+Total Project Cost                  10.3        57.7      68.0      17.7       49.1      66.8
+USS million equivalent               4.1       23.1       27.2       7.1       19.6      26.7
+
+
+
+- 43 -
+Appendix C
+Page 9 of 13
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Consultancy Services
+(M$ million)
+Appraisal estimate                   Actual
+Foreign                         Foreign
+Item                     Local   exchange                 Local   exchange
+costs     costs      Total      costs      costs      Total
+Thermal power plant rehabilitation including  0.4         4.0       4.4       2.88        5.12      7.9
+conversion to gas firing (studies and
+detailed engineering)
+Distribution system planning                  0.4         1.5       1.9       -                     *
+Management services                           0.2        0.6        0.8       -
+Materials management (studies and related     1.2         3.8       5.0       -           -         7.7
+hardware)
+Fixed assets accounting                       0.6        0.2        0.8       -                     2.5
+Human resources development                   -           1.0       1.0       0.53        0.28      0.81
+Total Base Cost                       2.8        11.1       13.9                            18.9
+Physical contingencies (10%)                  0.3         1.2       1.5
+Price contingencies                           0.1        0.6        0.7
+Total Project Cost                    3.2        12.9       16.1                            18.9
+USS million equivalent                 1.3        5.2        6.5                             7.6
+Either not executed or implemented through in-house effort.
+~ .
+
+
+
+- 44 -
+Appendix C
+Page 10 of 13
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Substations for Transmission System Rationalization
+(M$ million)
+Appraisal estimate                  Actual
+Foreign                        Foreign
+Item                     Local   exchange               Local   exchange         *
+costs     costs      Total     costs      costs     Total
+Serdang                                     11.4       29.7      41.1       7.4       46.4      53.8
+TNB headquarters                            6.6         7.2       13.8     32.6        11.6     44.2
+Bandar Tun Razak (Tet Lee)                  8.0         8.2       16.2
+Tiniwangsa (Jalan Pahang)                   7.7         6.5       14.2
+Jalan Galloway                              6.8         7.7       14.5      7.2       22.7      29.9
+Pudu Ulu                                    8.0         9.5       17.5      5.7       26.6      32.3
+Segambut                                    6.0        10.5       16.5     10.2        30.0     40.2
+Kg. Lamjut                                  0.7         2.4       3.1       0.3         4.3      4.6
+D.C.A. Subang                               5.0         7.4       12.4      2.6        13.8      16.5
+Total Base Cost                     60.2        89.1      149.3     66.1       155.4    221.5
+Physical contingencies (10%)                6.0         8.9       14.9
+Price contingencies                         3.0         4.4       7.4
+Total Project Cost                  69.2       102.4      171.6     66.1       155.4    221.5
+US$ million equivalent              27.7        41.0      68.7      26.4       62.2      88.6
+Switchgears                                 6.6        58.4      65.0       3.8       130.5     134.3
+Transformers                                4.1        23.9      28.0       1.2        15.8      17.0
+Control and auxiliary equipment             0.6         6.8       7.4       0.0         9.1      9.1
+Land and civil works                       42.2         -        42.2      60.4        0.0      60.4
+Administration and overheads                6.7                   6.7       0.6        0.0       0.6
+Total Base Cost                     60.2        89.1     149.3      66.1      155.4    221.5
+Physical contingencies (10%)                6.0         8.9       14.9
+Price contingencies                         3.0         4.4       7.4
+Total Project Cost                  69.2       102.4     171.6      66.1       155.8    221.5
+US$ million equivalent              27.7        41.0      68.7      26.4       62.2      88.6
+* Totals may not agree due to rounding.
+
+
+
+- 45 -
+Appendix C
+Page 11 of 13
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Availability and Efficiency Improvements for Rehabilitated Power Units
+Availability              Improvement in Availability   Improvement in Efficiency j/
+Power Unit
+PBefore Rehb          After Rehab bl    Achieved        Expected      Achieved Ci    Expected
+Period
+TJPS 1       01/86-07/92  62.4%         77.4%          15.0%           20%            2.47%           1%
+TJPS 2       01/86-12/89  49.3          88.6            39.3            20
+TIPS 3       01/86-12/88  29.9          75.9            46.0            20
+TJPS 4       01/86-01/92  59.2          78.0            18.8            20             2.97            l
+TJPS 5       01/86-10/92  50.4           81.6           31.2            20             1.96            2
+TIPS 6                                                                  20             1.98            2
+TIPS 7                                                                  20
+PPS 4        01/85-08/88  61.4                                          20            4.23            3.0
+PPS 5                                                                                                 3.0
+PPS 6                                                                                                 3.0
+SIPS 1       09191-06/92  73.8          82.6             8.7            8              3.64            3
+SIPS 2                                                                  8                              3
+a/ All efficiency measurements are based on oil firing.
+b/ Availability factor for the latest 12 month period after rehabilitation.
+/ Comparisons based on measurements over a period of one month before and after rehabilitation.
+3 .
+
+
+
+- 46 -
+Appendix C
+Page 12 of 13
+ENERGY EFFICIENCY AND PLANT REHABILITATION PROJECT
+Additional Power Plant Rehabilitation Costs
+Appraisal Estimate (in M$ million) a/               Actual b/
+Item1rT1
+Local      Foreign       Total        Local        Foreign       Total
+Costs       Costs                     Costs    I   Costs
+Sultan Iskandar P/S                                                         0.37          5.21          5.53
+Replacement of HP Heaters
+Prai P/S                                                                    0.22          3.55          3.77
+Replacement of HP Heaters
+Tuanku Jaafar P/S                                                           0.12          3.17          3.29
+Turbine Auxiliary Works
+Prai P/S. TJ P/S, SI P/S                                                     2.4           8.8          11.2
+On Load Condenser & Debris Filter
+Third Party Inspector                                                       0.53          0.89          1.42
+Replacement of Actuators                                                     4.9            0           4.9
+(Massa luara)
+Prime Cost (Boiler)                                                          18           21.2         39.2
+Prime Cost (C&I)                                                              2            6.7          8.7
+Variation Order (Boiler)                                                     14            13           27
+Variation Order (C&l)                                                         2            2             4
+Variation Order (Trd. Party Insp)                                             0           0.11         0.11
+Total                                                                    44.5           64.6        109.2
+a/ No estimate were made during appraisal
+b/ Totals may not agree because of rounding.
+ii
+
+
+
+Appendix C
+Page 13 of 13
+ENERGY EFFICIENCY AND PLANT REHABILIATION PROJECT
+Sumnmary of System  Improvements Included After the Appraisal of the Power Units
+ii_ TIPSIiTIPS2|TIPS3iTIPS4 TIPS ITJPS2ITJPS3I S4 TJS 5 |TJPS 6  TJPS 7  PRAI 4  PRAI 5  PRAI 6  SIPS I  SIPS 2
+New Burner Management System                       Yes      Yes       Yes       Yes       Yes       Yes      Yes      Yes     Yes      Yes      Yes      Yes
+Boiler Automatic Control                           Yes       Yes      Yes       Yes       Yes       Yes      Yes      Yes      Yes     Yes      Yes      Yes
+Turbine Automatic Control                          No        No        No        No       Yes       Yes      Yes      No       No       No      Yes      Yes
+Unit Coordinated Control                           No        No       No         No       Yes       Yes      Yes      No       No       No      Yes      Yes
+Free Governor Operation                            No        No       No         No       Yes       Yes      Yes      No       No       No      Yes      Yes
+Frequency Control Participation                    No        No       No         No       Yes       Yes      Yes      Yes     Yes      Yes      Yes      Yes
+Two Shifting Capability                            No        No        No        No        Yes      Yes      Yes      Yes      Yes      Yes     Yes      Yes
+Automatic Generation Control from NLDC             No        No       No         No       Yes       Yes      Yes      Yes      Yes      Yes     Yes      Yes
+On Load Condenser Cleaning                         No        No       No         No       Yes       Yes      Yes      Yes      Yes      Yes     Yes      Yes
+Data Acquisition System                            No        No       No         No       Yes       Yes      Yes      Yes     Yes      Yes      Yes      Yes
+Online Performance Montoring                       No        No       No         No       Yes       Yes      Yes      Yes      Yes     Yes      Yes      Yes             - 
+Dual Fuel Capability (Oil and Gas)                 No        No       No         No       Yes       Yes      Yes      No       No       No      Yes      Yes
+
+
+
+- 48 -
+~~~~~ -~~~~~~ 
+17 January 1995
+Daraycs Mclhta
+Principal Powcr Enginecr
+Infrastructure Opcrations Division
+Dcpt 1., East Asia and Pacific Rcgioi
+Mhc World Bank
+Int:rziational Bank For Reconstruction and Devclopmcnt
+1)c"r Sir
+Malaysia:      Energy Efficiejcy and Plaxnt
+Rehabilitationt Project (LN 2772.MA)
+lnmilementation Completion Report (ICR)
+Thank you for your final draft of the abovc dazed Dccenlbcr 21, 1995.
+Wc agree to the rtport cxccpt for the last seniteticc paragraph number 22 on pagc 6. The sentcncc
+slhould bc deleted, as our carlicr coninicit was that the opcration of the currcncy pooling system
+was such that it is diflicult for TNB to do proper hedging as thcrc is no definite cash flows.
+Thank you.
+Your sinccrcly
+Managcr Finantce
+(Projoct Finance/Loaui Admninistration)
+Ibu P.jabot. No. 129, Joloa Songsor, Pefl S-Jrol 11 003. 50732 Kuala Lumpuw.
+Tel: Q3.28A2566, 03-2822121. Telqgram IRANG". Te.ox: llANG MA 30426 & ELELEN MA 3371J. Faii 2626754.
+
+
+
+IBRD 27822
+|    10t                                    1010                                  102                                   id3°                                    164.-
+E R,ALAYSIA
+ENERGY EFFICIENCY AND PLANT
+T H A I L A N D                                                                               REHABILITATION PROJECT
+EXISTING CONSTRUCTION  PROJECT  PROJECT  TRANSMISSION LINES
+t- '-%                                      276 kV
+J        9ukt KetrtI_.."..                                                                                                                          132 kV
+686kV
+POWER STATIONS
+Hydro
+\ K.t Shr-                                                            ThRr.al
+SAlorS"                                                                                    A                                      SUBSTATIONS
+60               Ch-p.d/                                                                                                                        STATE BOUNDARIES                     N°
+OutuhIA    A. sniang  .  /;:?sIl                  -. -    INTERNATIONAL BOUNDARIES
+Guru      AL ji.Nt        .r                                     T .. h at;
+S-p~~~ oi ..                                                                 Ktd.kD 00ti
+Sunptbi Petani                                                                                                                          MILES.k  4:~      TCE
+Berit ~~~~~~~~~~~~K..I. K..                                                   D    it0    a   "0         OD    100
+P""    utt.-.,th                                                                   KILOMETERPS
+F/NA-fi/oI*v;  Gslugotj        I       f tterinGoUngG Bdsk                                                                   Koals T-gg.u
+P.rit Bu.t.re 
+Ch..d.h RKemunt/ Kuals Bra-
+X- ~~~~~~~~~~~~G.. Mutl g  _
+P-rak Csrb'd   \
+DrinMs  Pak.
+Lumul   G      WajahXgWoh                   Ku.la L.p I                           Aver PLts
+F ~~~~~~~~~~~~~~~~~~~~~~~Rau b                                                                                            Kw.>  gtJ-
+Kual~ ~   ~ ~~~*Sbngsy    P.tt:flg Bjds Mudsr                                                                                    30S M ;
+KLtNonhilfflPudu Lilu    3era3atu~~~~~~~~~~~~~~Paua
+SubtiogJtr   - -w                                                            S  / SahAP
+T,Wki RiRah nKoL(Suph.
+3o                                Pon K*langs r  -f }:S~~~~~~~~~~~~~~~ub ng Jtrfa    ftrt.ng'                  ShdMah                                             3
+CannogGht nnnt ontenea
+rTh  bofanyN terit oryNKS.K..g
+d h,°---6 fomoo  ttow                                       3atm6ng j                       - KulPdl.h
+or ony  *n°dnoreen,sntTu  kU J  a                                                                                   -A-
+or acceptance of such_                                                                         
+bo-ndor.s.                                                                                \Al0 \ Glorsjh           S    t          hMiNg
+THAILAND g ~~                                                                                                            4ha
+DEMOCRATIC /                                                          Bon I                       at
+BURMi          IS KAMPUCHEA
+vIET NAM
+PHILIPPINES
+- _                                          Bt~~~~~~~~     ~     ~      ~ ~~~~~~atu Pmht   \ JorTtg
+?7t r                                                                                                                                     \_/         tot. Tm
+ERUNEI                                                                                              Ku
+MALAVSIA       , -- ,                                                                                                         Paitn. NsntssA'     k    SulAn
+(7 SINGAPORE                                      NOON   F  SIA                                                    poontbsnA    *t?.hor  Ckn.s    Tg. R..unls
+,     .      ' '8        ~        ~     ~~~,  I N  D O  N  E  S  I A                                                     v    aru  
+,TSINGAPORE        _                                                                                                                 S NGADORE 
+N                                                                                  /~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     ;AP0 
+L kSAFPA _INDONESIA                       .                                     102°                                   1030                      _ SiG POJ
+MARCH 1996
+
+
+
+
+
+
+
+
+
+IMAGING
+Report No:      15299
+Type: ICR
+
+
+

@@ -1,7 +1,6 @@
 #!/usr/local/bin/python
 
 import json
-import httplib
 import os
 import sys
 

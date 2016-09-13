@@ -1,0 +1,2242 @@
+Document of
+The World Bank
+Report No: 25455
+IMPLEMENTATION COMPLETION REPORT
+(TF-27221; IDA-24230; SCL-45740)
+ON A
+CREDIT
+IN THE AMOUNT OF SDR42.1 MILLION &
+A SUPPLEMENTAL LOAN IN THE AMOUNT OF USS8 MILLION
+TO THE PEOPLE'S REPUBLIC OF CHINA
+FOR A FINANCIAL SECTOR TECHNICAL ASSISTANCE PROJECT
+03/31/2003
+Poverty Reduction and Economic Management Unit
+East Asia and Pacific Region
+
+
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective 2/27/03)
+Currency Unit - Chinese Yuan (CNY)
+CNY1.OO = USS 0.120X73
+USS 1.00 - CNY8.28
+FISCAL YEAR
+January 1-  December31
+ABBREVIATIONS AND ACRONYMS
+ADB                        Asian Development Bank
+AIS                        Accounting Infonnation System
+BEPS                        Bulk Electronic Payment System
+BIS                        Bank for International Settlements
+BOCOM                      Bank of Communications
+BSGS                        Book-Entry System for Government Securities
+CAS                        Country Assistance Strategy
+CHAS                       Chinese Accounting Standards
+CNFN                        China National Financial Network
+CGSDTC                      China Government Securities Depository, Trust & Clearing Co.
+CIRC                        China Insurance Regulatory Corrunssion
+CNAO                       Chma National Audit Office
+CNAPS                      Chma National Payments System
+CNFN                       Chuia National Financial Network
+CSRC                       China Securities Regulatory Conimission
+DvP                         Delivery Versus Payment
+EASFS                      Financial Sector Unit, East Asia & the Pacific Region
+FMIS                       Financial Management Infonnation System
+FSAIS                      Financial Sector Accounting & Reporting System
+FSTA                       Fuiancial Sector Technical Assistance Project
+GAO                        General Accounting Office
+GDP                        Gross Domestic Product
+HVPS                       High Value Payment System
+HO                         Head Office
+IAP                        International Advisory Panel
+IAS                        Intemational Accounting Standards
+ICB                        Intemational Competitive Bidding
+ICR                        Implementation Completion Report
+IDA                        Intemational Development Association
+IMF                        Intemational Monetary Fund
+IT                         Information Technology
+LAN                        Local Area Network
+MOF                        Ministry of Finance
+NGO                        Non-Governmental Organization
+NPL                        Non-Performing Loan
+OMO                        Open Market Operations
+OSS                        Off-Site Surveillance
+OTC                        Over the Counter
+PBC                        People's Bank of China
+PW                         Price Waterhouse
+RTGS                       Real Time Gross Setlements
+SAR                        Staff Appraisal Report
+SCL                        Supplemental Loan
+SOE                        State-Owned Enterprise
+TA                         Technical Assistance
+TF                         Trust Fund
+TL                         Task Leader
+UK                         United Kingdom
+USA                        United States of America
+USD                        United States Dollar
+WB                         World Bank
+WTO                        World Trade Organization
+Vice President:  Jemal-ud-din Kassum
+Country Manager/Director.   Yukon Huang
+Sector Manager/Directors  Homi Kharas
+Task Team LeadertTask Manager:    Xiaofeng Hua
+
+
+
+CHINA
+FINANCIAL SECTOR TECHNICAL ASSISTANCE
+CONTENTS
+Page No.
+1. Project Data                                                                      1
+2. Pnncipal Performance Ratings                                                      1
+3. Assessment of Development Objective and Design, and of Quality at Entry           2
+4. Achievement of Objective and Outputs                                              9
+5. Major Factors Affecting Implementation and Outcome                               23
+6. Sustainability                                                                   28
+7. Bank and Borrower Performance                                                    29
+8. Lessons Learned                                                                  32
+9. Partner Comments                                                                 34
+10. Additional Information                                                          40
+Annex 1. Key Performance Indicators/Log Frame Matrix                                42
+Annex 2. Project Costs and Financing                                                43
+Annex 3. Economic Costs and Benefits                                                45
+Annex 4. Bank Inputs                                                                46
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components                48
+Annex 6. Ratings of Bank and Borrower Performance                                   49
+Annex 7. List of Supporting Documents                                               50
+
+
+
+
+
+
+Project ID: P003623                                       Project Name FINANCIAL SECTOR T.A
+Team Leader Xiaofeng Hua                                  TL Unit. EASFS
+ICR Type. Core ICR                                        Report Date: March 31, 2003
+1. Project Data
+Name: FINANCIAL SECTOR T.A                           L/C/TFNumber TF-27221; IDA-24230,
+SCL-45740
+Country/Department. CHINA                                               Region   East Asia and Pacific
+Region
+Sector/subsector: Payment systems, securities clearance & settlement
+(68%); Banking (27%); Central government
+administration (5%)
+KEY DATES
+Original            Revised/Actual
+PCD:   07/23/1990                             Effective: 03/30/1993         09/17/1993
+Appraisal:  09/10/1991                                MTR:
+Approval.  09/29/1992                              Closing: 09/30/1999          09/30/2002
+Borrower/lmplementing Agency. PRC/PBC/MOF/CNAO
+Other Partners-  Government of Japan
+STAFF                Current                                   At Appraisal
+Vice President.      Jemal-ud-din Kassum                       Russell Cheetham
+Country Manager.     Yukon Huang                               Shahid Javed Burki
+Sector Manager.      Homi Kharas                               David Pearce
+Team Leader at ICR.  Xiaofeng Hua                              Shigeo Katsu
+ICR Primary Author:  Xiaofeng Hua; Nancy Chen;
+Robert Keppler
+2. Principal Performance Ratings
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly
+Unlikely, HU=Highly Unsatisfactory, H=Hjgh, SU=Substantial, M=Modest, N=Negligible)
+Outcome S
+Sustainability. L
+Institutional Development Impact: SU
+Bank Performance: S
+Borrower Performance: S
+QAG (if available)        ICR
+Quality at Entry:
+Project at Risk at Any Time: No
+
+
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+3.1 Original Objective:
+Context. In the early 1990s, China's financial sector was at a crossroads. After a decade of reforms,
+an increasingly larger portion of the economy was becoming market-oriented. The economy had
+registered an average annual growth of around 8 percent in the previous decade, and much of it was
+financed by bank loans. However, reforms in the financial sector failed to bring about a similar
+magnitude of change as did state-owned enterprise (SOE) reforms. A couple of Bank reports under the
+economic and sector work program, especially Financial Sector Policies and Institutional Development
+(December 1990) had identified major weaknesses of the financial sector. Banks suffered from a high
+level of NPLs, yet they all reported good profits. The accounting system was based on the Soviet
+model and focused primarily on tax related matters. The paper-based manual payments system was
+subject to considerable capacity and operating stresses, and inter-provincial transfers could take two
+weeks on average. The People's Bank of China (PBC) had been "reclassified" as the central bank
+about 10 years ago, but remained noticeably weak in bank regulation and supervision, monetary policy
+implementation, and a number of other key functions. While the PBC and the banks had been
+operating within a framework defined in several government circulars and preliminary regulations,
+there were no officially adopted laws governing their business activities. Fiscal authorities relied on
+administrative placement of debt, and capital markets were in embryo.
+The govermment was committed to the process of economic reform based on a gradual and careful
+introduction of market mechanisms to increase economic efficiency and a progressive opening up of the
+economy intemationally. It recognized that a successful implementation of this policy would require
+appropriate improvements in the financial sector infrastructure, and requested the Bank to provide
+technical assistance in two areas: modemization of the national payments system and the strengthening
+of the accounting framework. The Bank responded with the Project (FSTA), and during project
+preparation it was agreed that additional benefits would stem from broadening the scope to address
+other financial sector infrastructure issues.
+Development objectives. The project was designed to assist the Chinese government to create the
+foundations for continuing financial sector reform by strengthening financial sector infrastructure in
+selected key areas, including monetary policy execution, prudential supervision of banks, accounting
+and financial reporting framework, market-oriented government debt management and modem
+payments systems.
+Component objectives. The Project was comprised of more than a dozen components, including those
+in Part A implemented by the PBC; in Part B implemented by the Ministry of Finance (MOF); and in
+Part C implemented by China National Auditor's Office (CNAO). For ease of presentation, a
+summary of the component objectives is provided under the following four clusters of activity: central
+bank functions, accounting framework, government debt market and national payments system.
+Central bank functions. The specific objectives of these components focused on strengthening
+selected central bank functions and operational support tools as described below:
+(1) Develop a strong system of prudential regulation and supervision focusing on risk appraisal and
+management.
+(2) Support the development of open market operations and enhance the short-term reserve money
+forecasting capability.
+(3) Strengthen PBC's research and statistics function to provide a more robust foundation for policy
+decisions.
+-2 -
+
+
+
+(4) Support the further development and dissemination of central bank and commercial bank
+legislation.
+(5) Facilitate a better use of office automation and computer-based tools within the PBC headquarters.
+(6) Strengthen the physical resources of, and the quality of education provided by the PBC Graduate
+School.
+Accounting framework The specific objectives of MOF accounting, PBC accounting and CNAO
+auditing components were as follows:
+(1) Advise and assist MOF in the design and drafting of 28-30 general accounting standards, chart of
+accounts and financial reporting formats.
+(2) Design and draft accounting standards for the financial sector including the central bank and
+prepare an action plan for implementing the standards.
+(3) Conduct an organizational study at PBC headquarters and selected branches and recommend the
+most effective organizational arrangement for the accounting department.
+(4) Design and implement a modem management information system which incorporates the new
+accounting standards and practices and prepare an accounting manual and chart of accounts for PBC
+and the financial institutions, respectively.
+(5) Draft auditing standards and outline of an audit manual.
+(6) Provide training to staff of the three agencies through workshops and study tours.
+Government debt market. This group of project components focused on government debt market
+development by providing assistance to both the MOF and the PBC to enhance their respective roles in
+this critical area. The original objectives included: a) improvement of debt instruments and issuing
+procedures and techniques; b) development of debt programming and Treasury cash management
+capabilities; c) development of money market and open market operations; and d) designing a
+computer-based book-entry system for government securities (BSGS).
+During project implementation, new developments in China's financial sector and the government's
+priorities resulted in some adjustments to these objectives. The scope of this component was modified
+as follows:
+(1) Design a core computer-based book-entry system to maintain records of ownership of a broad
+range of instruments, provide efficient clearance and settlement mechanisms, and provide essential
+information to market participants.
+(2) Conduct studies to identify sources of risk and other weaknesses in the inter-bank govemment bond
+market and recommend specific improvement strategies.
+(3) Provide comprehensive recommendations to the MOF on how best to develop the government bond
+market in the short and medium term to both reduce risk and lower the cost of government borrowing.
+(4) Provide advice to both the MOF and the PBC on opportunities to improve coordination on matters
+of mutual concern in both the primary and secondary markets.
+National payments system. The PBC recognized that China's payments, clearance and settlement
+systems required modernization to facilitate timely, cost-effective, safe and reliable settlement of
+monetary transactions. The specific objectives of this component were to:
+(1) Produce a Vision, Conceptual Design and Implementation Strategy for a China National
+Automated Payment System (CNAPS).
+(2) Develop, test and implement a CNAPS pilot based on elements of the vision approved for
+immediate implementation as a basis for developing a national roll-out strategy.
+The vision was expected to identify the payment, clearance and settlement mechanisms and the
+- 3-
+
+
+
+priorities to be attached to different instruments (large value, low value, securities transfers, etc.). It
+would state the respective roles of PBC and other system participants in the development and operation
+of the payment system. It was also to provide the organizational, regulatory, financial, economic and
+technical design features that would underpin subsequent development and pilot implementation
+activities.
+Assessment. These objectives were appropriate and consistent with both the CAS and the government
+priorities for the reform and development of China's financial sector in the early 1990s. Most
+importantly, the objectives were directly supportive of the country's financial sector reforms and
+development, especially, in the areas of bank supervision, monetary policy operations, accounting
+framework, debt market development, and national payments system.
+3.2 Revised Objective:
+The project helps to lay the foundations for continued financial sector reform by strengthening key
+elements of financial sector infrastructure, including legal and regulatory framework, prudential
+supervision, and payments and clearing system. The project also supports the government's effort in
+modernizing the overall accounting framework, strengthening its domestic debt management and
+modernizing the framework for extemal auditing.
+3.3 Original Components:
+Central bank functions. This group included six components related to bank supervision, monetary
+policy, research and statistics, financial legislation, office automation and human resource
+development. These components were all implemented by the PBC. In the early 1990s, PBC's key
+functions such as bank supervision and monetary policy execution suffered from the legacy of a
+planned economy, under which political and social goals took precedence over economic and financial
+objectives. Supervision focused on checking whether banks complied with a variety of government
+rules. The objective of monetary policy execution was to ensure that the credit plan was strictly
+implemented, so that annual investment targets set by the State Planning Commission were sufficiently
+funded. The PBC's capacity in the other key functions covered by this group of components also
+needed substantial strengthening for it to become an effective and efficient central bank over time.
+Given these circumstances, these components focused on exposure of counterparts to best relevant
+international practices, designing of conceptual frameworks, development of principles to underpin
+future actions, and staff training.
+The components in this group had different levels of importance. However, for smooth project
+processing and implementation, the inclusion in the Project of less important components was
+appropriate, as they contributed to sought-after operational and organizational improvements. The
+components relating to monetary policy, banking legislation and research and statistics focused on a
+few specific key issues rather than on generic issues, and this is considered to have been an appropriate
+approach. The service delivery strategy, based on using separate consulting contracts, most of them
+with individual consultants rather than with consulting firms, worked well and resulted in successful
+outcomes. As noted below, the prudential supervision component was handled in a different manner.
+Prudential supervision. This is a substantial component and covered all major aspects of commercial
+bank supervision, from principles and procedures for on-site examination, through automated off-site
+system and prudential regulations, to organization of the supervisory function. The inclusion of pilot
+examinations played a particular role in convincing the PBC supervisors of the benefits associated with
+effective prudential supervision. Given the complexity of this component, using a well-regarded
+consulting firmn to deliver the outputs is considered to have been a correct approach, as it provided the
+- 4 -
+
+
+
+required level of credibility.
+The design of this component could have been improved in the following two areas. The planned Key
+Monitoring Indicators did not allow sufficient time for project implementation. For policy changes of
+the magnitude envisaged under the Project, three years was too short a period for absorption. Some of
+the Momtorable Indicators were too optimistic.  It became quite clear that the development of
+prudential regulations and their implementation could not be achieved within three years, as they were
+dependent on the pace of other reforms. The same can be said of the indicators for the organization
+study of the PBC supervision function. In addition to the difficulties associated with all large-scale
+reorganizations, adopting and acting on the recommendations would require a fundamental change
+from the principles and practices that prevailed at that time. In a transitional economy the size of
+China's, an elapsed time of two years was clearly insufficient.
+Accounting framework    The FSTA project supported a three-pronged program  of technical
+assistance for MOF, People's Bank of China (PBC) and China National Audit Office (CNAO) to
+modernize China's accounting and auditing framework.
+MOF accountine: The objective of this component was to be achieved through researchmng and writing
+accounting standards for consideration by the MOF. The project design is considered appropriate as
+China's economy was in the very early stages of transition from a planned economy to a socialist
+market economy. Before the 1980s, there was very little private ownership of business enterprises in
+China, and therefore no history of financial reporting to investors and creditors. During those decades,
+the accounting model was essentially the Soviet accounting model, which had a budgetary focus and
+was designed for a planned economy, with the government as the principal user of financial reports. In
+this context, the researching and writing approach taken by the Project starting in 1993 to develop
+China's own standards would be considered appropriate, taking into account that it was in the very
+early stages of an evolving market economy and there were numerous limitations, such as: a)
+continued controlling interests of the government in nearly all large- and medium-sized enterprises; b)
+lack of development of certain professions; and c) ineffective corporate governance, including oversight
+of the financial reporting system by the board of directors.
+The above having been said, the situation in China has changed rather dramatically in the past few
+years, suggesting that the time may have come for China to move from a research/writing approach to
+an adopt-IAS approach in establishing national accounting standards. Therefore, the government could
+focus more on implementation planning and preparation. Given the government concerns for
+short-term impact on government revenues and the limited institutional capacity, the adoption of IAS
+could be phased-in and timed with progress in other reforms.
+PBC accountine: The design attempted to address all key aspects of central bank accounting, but
+appeared to be too ambitious for a three-year implementation, especially for developing a complicated
+accounting information system. The implementation could have benefited from better sequencing of
+project components by carrying out the organizational study during the initial implementation stage.
+The organizational study revealed certain accounting information was generated by the Statistics
+Department, and the Accounting Department was more of an administrative unit for the PBC, as
+compared with the accounting function of other central banks. The project design would have benefited
+if a multi-department arrangement had been made to bring other relevant departments like the Statistics
+Department into the picture at the early stage.
+On the PBC accounting information systems sub-component, one major design weakness was the lack
+- 5-
+
+
+
+of performance indicators. Key performance indicators, such as operational and functionality of the
+system, were not used.  Delivery of systems report, Charts of Account/Manuals would not
+automatically indicate that the system is operating effectively.
+This component represented a first-ever attempt by the PBC with assistance by international experts,
+to: a) conduct an overall review of PBC accounting function; b) modernize PBC accounting
+information system; and c) make recommendations on the modernization of charts of accounts for the
+financial sector. Given the different understandings of the accounting function in China and the lack of
+outside knowledge about accounting practices in China's financial sector, these weaknesses could
+hardly be avoided at the design stage. However, if sufficient flexibility had been built into the
+consultant contract, better sequencing might have been achieved. It should also be noted that in the
+"Matrix of Monitorable Indicators" of the SAR, which was close to the timetable for output delivery,
+the organization study was scheduled to be completed in year one, while in the "Key Monitoring
+Indicators," which are similar to the milestones for implementation progress, the same study was
+scheduled to be completed in year three.
+CNAO component. This component was to assist preparation of auditing standards. As of January
+2002, most CNAO officials involved under the Project were said to have left, and were difficult to
+locate. In addition, there were not many documents in the Bank files on the implementation of this
+component. Based on a review of the SAR, project design seemed appropriate.
+Government debt market. Originally there were five components to be implemented by the PBC and
+the MOF. During project implementation substantial changes were taking place, and the role played by
+government debt was continually increasing in importance. Modifications were made to ensure that the
+Project remained responsive to a changing environment.
+Book-entry system. This component was included at the outset of the project. The objective of this
+component was to be achieved through a design study conducted by a suitably qualified and
+experienced intemational consultant with active participation from key stakeholders. As with the
+payments system component, a steering committee and counterpart teams were established to guide and
+facilitate the work of the consultants. In addition, comprehensive inputs from local stakeholders and
+intemational experts were to be made available via active participation in advisory meetings to review
+both outline and final system specifications and agree on a suitable implementation strategy and action
+plan that took account of best intemational practice and local Chinese realities. An automated
+book-entry system is a key pillar of govermment debt markets. However, it is apparent that at the
+outset of the project the PBC counterpart did not fully understand the importance of such a system, and
+questioned its inclusion in the Project design. PBC thinking today is quite different, and the importance
+of a book-entry system as an essential component of the financial sector infrastructure is
+well-recognized. Inclusion of this component in the project is viewed by the PBC as having been
+visionary and clearly needed.
+Risk studies. While project implementation of the component on the book-entry system was completed
+by the PBC within the originally planned period, activities under the other components were delayed.
+By the mid-1990s, the MOF had used a mix of market auction, voluntary underwriting and
+administrative placement to issue debt. The Treasuries were traded in two separate markets, and
+individual investors could buy and redeem their holdings in medium-term savings bonds before
+maturity, with the interest rate risk borne by underwriters. As a result of the book-entry system
+component, by the mid 1990s a centralized depository, clearing and settlement system for the interbank
+government bond market was in operation and managed by the China Government Securities
+- 6 -
+
+
+
+Depository, Trust and Clearing Co. (CGSDTC). CGSDTC was founded jointly by the PBC, the
+MOF and several banks as a direct result of the development of the book-entry system under the
+project. The company became wholly state-owned in 2002.
+To respond to the new developments and the government's need to better understand and manage risks
+in the interbank market, this component was added in 1997, to identify risks associated with the
+clearing and settlements arrangements at the interbank market, and recommend improvements in the
+way that settlement data could be used to improve overall market information, especially price
+transparency.
+MOF component. After the Asian financial crisis, the Chinese government implemented a fiscal
+stimulus program, and the further development of the government securities market became top
+priority. By then the PBC had long stopped issuing central bank bills, as inflation was first subdued
+and then reversed. It mainly used repurchase agreements of Treasuries in its open market operations
+(OMO). Against this backdrop, the Bank agreed with the MOF and the PBC that the design of the
+remaining components should be revised to assist the MOF to:
+(1) Conduct an in-depth analysis of the current market practices to identify weaknesses and other key
+differences based on a comparison of the ways in which such markets operate in a range of more
+developed and market-oriented economies.
+(2) Exposure to relevant best international practices and the lessons to be learned from understanding
+the key characteristics that underpin primary and secondary market development, including debt
+planning and risk management, issuing procedures and techniques, Treasury cash management, the role
+of institutional investors, and clearing and settlement systems in other countries.
+(3) Provide advice to both the MOF and the PBC on opportunities to improve coordination on matters
+of mutual concern in both the primary and secondary markets.
+(4) Provide comprehensive recommendations to the MOF on how best to develop the government bond
+market in the short and medium term to both reduce risk and lower the cost of government borrowing,
+with emphasis on the improvements that should be targeted within a three-year planning horizon.
+It was agreed that the MOF counterpart was to achieve these objectives with the assistance of skilled
+and experienced individual consultants-former debt management officials-from a wide range of
+developed countries. This arrangement is considered appropriate, especially given a MOF concern at
+the time that hiring a well-known investment bank as the consultant could have resulted in a potential
+real or apparent conflict of interest problem.
+The adjustments after 1996 to the design of this group of components were appropriate and represented
+timely responses to not only the client's stated needs, but also to the requirements that the client did not
+fully understand at that time.
+National payments system. The objective of this component was to be achieved through a Payments
+System Design Study followed by acquisition and pilot installation of those components of the Master
+Plan that were agreed for early implementation. The scope of the design study was comprehensive and
+included a range of sub-components including Stocktaking, Visioning the Future Business Needs,
+Conceptual Design, Role of PBC and System Participants, Regulatory and Accounting Framework,
+Computer Processing and Data Communications Architectures, Phased Implementation Schedule, Cost
+Estimates and Cost Recovery Strategy, and the preparation of Bidding Documents.
+Recogmzing the complexity of the work and the need to achieve buy-in from potential users, the PBC
+- 7 -
+
+
+
+established a senior-level Project Steering Committee to ensure close coordination amongst the different
+agencies involved, as well as two Advisory Panels to facilitate the work of the project consultants and
+counterpart teams. It also established a Domestic Advisory Panel representative of all potential
+stakeholders including commercial banks, telecommunications department, and other primary users of
+the payments system to ensure that local views were actively presented to the consultants. In addition,
+an International Advisory Panel was established which consisted of recognized international experts
+from U.S. Federal Reserve, Bank of England, Swiss National Bank, Bank of Japan, the Bundesbank,
+and a specialist from the World Bank to provide advice and technical guidance to the PBC on all
+critical system design and acquisition aspects of the project.
+Detailed technical requirement specifications would be prepared using an interactive process involving
+representatives from all stakeholder institutions. These specifications would then be discussed with
+both Domestic and International Advisory Panels, and agreed upon for use in acquiring via a standard
+two-stage procurement process: (a) a modem application independent data communications capability
+called the China National Financial Network (CNFN); (b) the required computer processing equipment
+for the pilot installations; and (c) two custom-tailored payment application systems called the China
+National Automated Payment System  (CNAPS).   Careful pre-planning was also devoted to
+establishing a robust implementation organization to work with the selected vendor.
+The above arrangements confirm that careful attention was given to the design of this component and
+ensured that stakeholders had an opportunity for active involvement throughout the system design and
+procurement phase of the project, as well as access to the views and advice of the best possible
+intemational experts. Thus an appropriate blend of best intemational practice and local Chinese
+realities would be taken into account in developing the solutions.
+The monitoring indicators associated with this component were reasonably realistic with regard to all
+activities, up to and including the development of the Vision, Conceptual Design, and Technical
+Requirements Specifications for both the CNFN and CNAPS sub-components. However, the schedule
+proved to be very unrealistic with regard to the procurement and pilot implementation phases of this
+complex initiative. It should be noted that two complex sub-systems form the core of the CNAPS
+design: the real-time processing of interbank transactions and the central gross settlement system. At
+the time that CNAPS was designed there were only two fully operational real-time gross settlement
+systems (RTGS), i.e. Fedwire in the U.S.A. and SIC in Switzerland, although several systems were
+under development (e.g. in most E.U. countries, Australia, and Japan). In China at that time, there
+were only five participating banks and none of them had system-wide data communications networks or
+automated intra-bank payments systems, although preliminary work was ongoing. Three key factors
+thus influenced the realism of the project timescale: a) the potential vendor community had no direct
+experience developing and implementing such systems; b) the PBC and the five commercial banks had
+no direct relevant technical experience; and c) the PBC and the banks were the subject of continuous
+intemal changes, both from an organizational and a technical sophistication perspective. The last
+tumed out to be a critical major factor affecting the implementation schedule.
+In essence, although the component was well-designed and appropriate to the future needs anticipated
+by all participants and external experts at the time that the design was frozen for fixed-price
+international competitive bidding, it is apparent with hindsight that some system attributes would have
+been designed differently had the project started say, in 1998, when the characteristics of the Chinese
+banking industry were better known. Project implementation could have been improved if the scope of
+this component had been less broad, taking into consideration the institutional constraints in managing
+complex change programs, and the slow pace of central bank accounting reforms. A more modest but
+- 8 -
+
+
+
+effective payments system development project of this nature could have used a phased-in approach,
+starting with education and expectations-setting, and tackling the development of RTGS and a Bulk
+Electronic Payment System (BEPS) in different stages.
+CGSDTC was founded jointly by the PBC, the MOF and several banks as a direct result of the development of
+the book-entry system under the project The company became wholly state-owned in 2002.
+3.4 Revised Components:
+Component                          Cost (USD)         Rating
+PBC (REGULATION AND SUPERVISION)                      7,000,000.00        NR
+PBC (PAYMENT AND CLEARING SYSTEM)                   40,400,000.00          S
+PBC (FINANCIAL ACCOUNTING)                           4,900,000.00         NR
+PBC (RESEARCH AND STATISTICS)                        1,800,000.00         NR
+PBC (FISCAL AGENCY/MONETARY POLICY)                   1,900,000.00        NR
+PBC (LEGAL FRAMEWORK)                                  200,000.00         NR
+PBC (PBC GRADUATE SCHOOL)                              600,000.00         NR
+PBC (AUTOMATION STRATEGY)                              100,000.00         NR
+MOF (ACCOUNTING STANDARDS)                           1,500,000.00         NR
+MOF (DOMESTIC DEBT MANAGEMENT)                       1,200,000.00          S
+3 5 Quality at Entry
+Quality at entry is considered satisfactory. The Project was a timely response to the client's request,
+and at the same time forward-looking. The design of the Project reflected government priorities and
+Bank CAS objectives, and was based on a comprehensive review which had identified the main
+weaknesses of China's financial sector. The project scope was quite challenging, and the project
+design attempted to take into account the risk that financial sector reforms in China would not proceed
+at a required pace for the expected changes to take place within the envisaged Project timescale.
+However, in the early 1990s, the Bank did not have much experience in large-scale, comprehensive
+technical assistance projects in transition economies. Therefore, the complexity of developing an
+automated national payments system, a modem bank supervision function, and an LAS-compatible
+accounting framework, was underestimated. So were the difficulties for government policy-makers and
+implementing agencies to change the mind-set, overcome obstacles related to reorganization and
+personnel moves, and achieve interagency consensus for overarching reforms. The original closing
+date of the Project (September 30, 1999) was extended three times, to September 30, 2002.
+4. Achievement of Objective and Outputs
+4.1 Outcome/achievement of objective
+The Project had an impact on the reform and development of China's financial sector. It helped to
+introduce new concepts and international practices, and proved to be a successful vehicle for
+substantial knowledge transfer and human capital development. The change of mind-set of government
+officials was visible through the process of project preparation and implementation. Today, the
+landscape of China's financial sector is quite different from that of the early 1990s, and the Project
+made modest contributions to these changes, as it facilitated acceptance by the government of the
+purpose, principles and benefits of improved prudential regulation and supervision, adoption of
+international accounting standards, indirect instruments for monetary policy execution, market-based
+-9-
+
+
+
+government debt management, and modem payments systems. Some of the changes made by the
+authorities are direct outcomes of the Project.
+Central bank functions
+Prudential supervision. The component is regarded by the PBC counterpart at the bank supervision
+and management departments as a milestone in the joumey toward a framework of prudential
+supervision that is in compliance with the Basel Core Principles and intemational best practices. Most
+of the outputs brought about direct benefits and impact. Since the conclusion of this component in
+1996, the PBC has continued to strengthen the prudential regulation framework and practices. It
+adopted and substantially enriched the on-site examination manual. A risk-based loan classification
+system based on incorporatmg the provisions of the draft regulations is in effect for all Chinese banks.
+Many PBC counterpart members now hold managerial positions in the central bank, the China
+Securities Regulatory Commission (CSRC), and the China Insurance Regulatory Commission (CIRC).
+The outcome of this component is satisfactory.
+Monetary policy function. This component was among the first group of technical assistance services
+the PBC departments in charge of monetary policy received with respect to the principles and the
+procedures of OMO. Shortly after the conclusion of the component, the central bank started limited
+OMOs within the interbank govemment bond market arrangements in 1996. At present, OMOs play
+an imnportant role in PBC's management of base money, and have direct impact on commercial bank
+liquidity and the interbank interest rate. The component also supported foreign exchange regime
+reformns in mid-1990s. The outcome is satisfactory.
+Legal function. The component, implemented by the Legal Department, contributed to the. drafting of
+the four basic banking laws, especially that of the Central Bank Law and the Commercial Bank Law,
+which were formalized and adopted by the People's Congress during the project implementation period.
+These laws form the foundation of the financial legal framework. The database for financial sector
+laws and regulations developed under the Project is accessible by the public and facilitates the
+dissemination and application of the laws and regulations. The outcome is considered as highly
+satisfactory.
+Research and statistics. Under this component, the Statistics Department worked with other central
+bank departments and intemational experts on the upgrading of staff with specialized knowledge in
+financial economics, the development of a time-series database, and the transparency of PBC statistics.
+The results of several key research projects, such as those on flow of funds, business cycles, savings
+behavior and economic modeling, provide the analytical basis for monetary policy decisions. The PBC
+Quarterly Bulletin provides monetary and banking information in accordance with the IMF definitions.
+The outcome is considered highly satisfactory.
+PBC office automation. This was a small component but the outcome is highly satisfactory in that it
+set a good example for the development of a cost-efficient and effective corporate IT strategy. Assisted
+by the intemational consultants, the PBC IT departments developed and adopted a five-year office
+automation strategy and implementation program. Within less than three years, all the targets
+embedded in the strategy were met, including implementation of a Local Area Network for PBC HQ
+and the standardization of basic office software products.
+PBC Graduate School. The outcome of this small component is also considered highly satisfactory, as
+- 10 -
+
+
+
+it enabled the Graduate School to provide international-standard courses in finance and banking to
+full-time students as well as part-time graduates students and Ph.D. candidates. The component
+contributed to the hunan resource development of the financial sector, as the graduates of the school
+are in high demand by monetary and fiscal authorities, regulatory bodies and financial institutions.
+Accounting framework
+MOF Accounting. Assisted by the FSTA project, MOF worked to develop a body of Chinese
+Accounting Standards (CHAS) that are broadly in line with International Accounting Standards (IAS).
+While the original plan was to develop 30 standards, the number was reduced as some standards were
+merged. At present, 16 standards have been issued. Among the standards, the project design attached
+more importance to the adoption of those for the financial sector. However, a key standard for basic
+banking businesses which was developed under the Project is yet to be issued, although its principles
+were said to be incorporated in the MOF regulation on accounting practices for financial institutions.
+In addition, given the fact that the govemment will probably continue to promulgate its own accounting
+standards in the foreseeable future, the component helped the MOF to establish a due process for
+standards-setting.
+The accounting standards issued constitute the foundation of China's first modem accounting
+framework that complies with IAS. The adoption of these standards will help to minimize systemic
+risks as reliable financial information will become available to regulators, users of financial statements,
+management and the public at large. However, there are a number of differences between the Chinese
+AS and IAS. MOF supports IAS and is working to achieve convergence of CHAS with LAS. On the
+whole, the objective of this component was achieved.
+PBC Accounting. The impact of this component varied by subcomponents.
+Financial sector accounting standards. In an effort to bring Chinese accounting standards in line with
+international standards, the objective of this sub-component was to develop general banking accounting
+standards that are compatible with International Accounting Standards (IAS). After an estimated 274
+staff-months of foreign and local consultants' work, an inventory of international accounting standards
+and practices for the financial sector had been developed under the project. The exposure draft of
+accounting standards for basic banking businesses was completed before the conclusion of the
+component. According to the Chinese Accounting Law, the MOF is the only authority for publishing
+accounting standards. As mentioned before, the draft exposure is yet to be issued, although the MOF
+issued the accounting regulation for financial institutions in early 2002, which is applicable only to
+listed and foreign investment banks, insurance companies, brokerages, leasing companies, and finance
+companies. Unlisted financial institutions such as state-owned banks continue to use the old
+accounting standards.
+Despite the delays in adopting accounting standards for financial institutions, there are two significant
+breakthroughs since the implementation of this component: (1) While Chinese banks used to follow a
+1% rule on loan-loss provisioning, which was calculated based on 1% of the opening loan balance,'
+loan-loss provisioning is now based on the five category asset classification system. (2) In the past,
+banks were required to cease accrual of interest three years after a loan became delinquent. Over the
+years, PBC tightened the rule and gradually reduced it from three to two years, one year and now six
+months, which approximates international practice.  Although the implementation of these key
+accounting prnciples were more of the derived results of the component on prudential supervision, the
+- 1 1 -
+
+
+
+PBC accounting component helped the PBC counterpart to learn about the principles and the role they
+could play in bank risk management. The consultations between the PBC and the MOF under the
+prudential supervision component, the lessons leamed from the Asian financial crisis, and the
+govenmment commitment to open up the financial sector to foreign competition under WTO contributed
+to the adoption of these principles. Pressure from the public at large, including the other regulatory
+bodies, should be acknowledged. Given these circumstances, the objective of this subcomponent is
+considered achieved.
+PBC Accounting Organization Study. The organization study provided recommendations regarding
+modem central bank accounting and an implementation plan. In 1998, a new organizational
+infrastructure for PBC's Accounting Department was established at headquarters and selected
+branches. Later, a number of recommendations were adopted, such as separation of finance and
+accounting management of commercial banks from the responsibilities of the PBC accounting function;
+and the creation of a separate settlement function within PBC. The objective of this sub-component
+was achieved.
+Financial Accounting Information System. This sub-component comprised three sub-sets: PBC
+Accounting Information System (AIS); PBC System Analysis and Computer-based Systems; and
+Financial Sector Accounting and Financial Reporting System (FSAIS). The stated objective was to
+design a modem accounting, financial reporting and management information system which would
+incorporate the new accounting standards and practices. As described in 4.2 below, it could be said
+that the objective was achieved, as the financial accounting/management information system was
+delivered on schedule, pilot tested, and fully accepted by the govermment. However, the automated
+system is yet to be adopted by PBC because: (i) PBC has been standardizing the applications
+platforms used by various departments, and (ii) the adoption of the system also depends on the pace of
+the construction of the China Financial Network (CNFN). To date, the PBC chart of accounts and
+FSAIS chart of accounts have not been implemented, although the current accounting information
+system used certain information developed under the project. Given the circumstances, it can be
+argued that the outcome under this project sub-component has been marginal.
+MOF/PBC - Study Tours. The impact of these activities were quite limited, as most of the tours were
+in the form of seminars attended by large groups of MOF/PBC officials. Given the short time frame,
+it is questionable that detailed discussions on policy and technical issues could take place. Thus the
+long-term benefit, if any, would have been minimal. In addition, some of the staff who participated in
+the tour were about to retire, giving the impression that what was learned would have less of a chance
+of being applied.   Detailed study tour information such as host organization, detailed
+progran/objectives, information about participants (title, reason for selection), was rarely provided.
+Post-study tour reporting was very general.
+CNAO Component. Technical assistance in drafting auditing standards facilitated the government's
+efforts to modernize the country's auditing framework. In total 38 standards were issued, which
+exceeded the target. Moreover, the National Audit Law enforces the implementation of auditing
+standards. The auditing standards will not only be utilized by the government auditors, but will also
+provide a useful model for private sector accounting firms in conducting external audits. The objective
+of this component was achieved.
+Government debt market
+- 12 -
+
+
+
+Book-entrv system. Assisted by the international consultants, the PBC accounting and technology staff
+acquired detailed knowledge and understanding of the policy, organizational, technical and operational
+aspects of comprehensive security book-entry systems. Based on this exposure, CGSDTC has
+developed and installed-and progressively enhanced-a modem book-entry system that supports both
+the primary and secondary government securities markets. The system managed by CGSDTC operates
+smoothly, and provides the platform for OTC trading among a progressively increasing number of
+participating financial institutions. Clearing of the securities leg of agreed OTC trades takes place in
+real time on a gross basis on the settlement date. Recent improvements-based on CGSDTC
+membership in the national payments system allowing CGSDTC to initiate counterpart funds
+transactions-supports final settlement on a DvP basis. This linkage will be converted soon into an
+automatic linkage and will support DvP on a T+0 basis. The primary market sub-system supports
+electronic auctions and has enabled the MOF and financial institution issuers to issue debt more
+efficiently and at reduced issuance cost. The system has resulted in a substantial reduction in risks in
+secondary market trading and is also providing much improved information on pricing, which is now
+used to provide yield curve data for benchmark issues. The outcome is satisfactory.
+Risk studies. This is a small but successfully implemented component. The government counterpart
+team and the international advisors reviewed the stock and flow of information, and assessed the risks
+in the clearing and settlement arrangements. As a result of these studies information management and
+risk control at the interbank bond market were improved. The outcome of this component is considered
+highly satisfactory.
+MOF component. The specific objectives and scope of this component were modified in late 1999 and
+early 2000. A group of consultants worked closely with the MOF counterpart team and identified the
+major policy and structural problems in China's govemment bond markets, as compared with the more
+developed government securities markets. Recommendations were put forward regarding the future
+development of the markets. The MOF Treasury has confirmed that they more clearly understand what
+needs to be done to improve debt planning, issuance and risk management, and in the development of
+the primary and secondary markets. Through the study, the MOF improved its working relations with
+market participants and with the PBC. There has been recognition that the gaps between China's
+govermment securities market and the developed markets need to addressed as soon as possible for
+sustainable government funding and risk management, and for financial markets to play a pivotal role
+in overall financial sector reform and development. Pressure is building for further and more
+comprehensive change. The MOF counterpart, assisted by Bank's task team, is developing a
+medium-term strategy and implementation program for better government debt management and further
+market development. Once finalized and cleared by the State Council (the Cabinet), the program could
+set off changes with impacts not only on government debt management and market development, but
+also on monetary policy formation and implementation, bank and enterprise reforms, and development
+of other key financial markets. The component played a catalytic role in this process, and the outcome
+is satisfactory.
+National payments system. The specifics of the new payment mechanisms were designed to achieve
+specific policy objectives including: (i) strengthening PBC macro-economic management; (ii) reducing
+float, speeding up the circulation of funds and increasing the efficiency of funds transmission; (iii)
+improving convenience and service to users; (iv) achieving a reliable, secure, and integrated payment,
+clearing and settlement system that would satisfy the needs of a growing economy; and (v) becoming
+capable of expanding flexibly and modularly to suit evolving Chinese conditions. A number of guiding
+principles were established at the outset to underpin the overall system design and included:
+- 13 -
+
+
+
+compliance with intemational standards (banking and technical), minimization of payment system
+risks, high integrity and reliability, cost efficiency and usage of modem technology.
+This was a pilot project with clear development objectives (outcomes), including knowledge
+acquisition, pilot system development as a basis for designing a sustainable national roll-out of a
+modem payment system that satisfies user needs, and agreement upon the specifics of an appropriate
+national roll-out strategy. While the specific outputs envisaged in early 1990s-pilot implementation in
+20 major cities and 48 counties-were only partially delivered, the primary educational and business
+objectives of the pilot project were achieved. As mentioned previously, the PBC and the commercial
+banks underwent substantial changes in the mid- and late-1990s from both an organizational and
+technical perspective. These changes invalidated some of the design and policy characteristics that
+were embedded in the original CNAPS design. For example, there is no longer a need to support
+county-level processing sites, as commercial banks have implemented their own intrabank systems that
+eliminate the need for the interbank system to connect to bank branches at the county level. The PBC
+and commercial banks have agreed, fully tested and implemented the necessary software modifications
+in what is now called the Phase 2 software. A national roll-out strategy that fully satisfies current user
+needs has been agreed upon and is being progressively implemented. Therefore, the outcome of this
+component is considered satisfactory.
+The accounting system of this regulation is similar to the one for general business enterprises, but includes
+policies specific to financial institutions, such as loan-loss provisioning, recognition of interest, repurchase
+agreements and securities transactions, etc.
+Before the Project, there were no provisioning requirements for banks. The minimum 1% provisioning was
+included as a financial covenant of the Project.
+4.2 Outputs by components:
+Central bank functions
+Prudential supervision. Key outputs included:
+(a) Pilot bank examination of Bank of Communications (BOCOM).
+(b) Special assets review of selected banks.
+(c) Drafting of prudential regulations and planning of their implementation.
+(d) Development of onsite examination procedures focusing on prudential concerns.
+(e) Development of an automated offsite surveillance capability.
+(f) An organization study of bank supervision function.
+(g) Development of course curricula, lesson plans, and training materials.
+(h) Workshops, training sessions and study tours.
+These outputs were delivered by joint task teams of Price Waterhouse (PW) as the consultant and PBC
+counterpart groups in 1993-96. The first three outputs yielded immediate benefits during and after the
+component implementation period.
+Pilot bank examination. At the beginning of the pilot examination the PW consultants provided
+training and took the lead in the on-site examination. Toward the latter part of the process, the
+counterpart teams did the bulk of the work, with PW experts acting as technical advisors. After the
+completion of on-site examinations, the consultants worked with and trained PBC staff in sununarizing
+their findings, analyzing examination data, preparing examination reports, and on the presentation of
+overall examination conclusions to BOCOM management. The reviews included BOCOM's
+- 14 -
+
+
+
+regulatory compliance, HO and branch operating policies and practices, credit policy statements, credit
+file reviews, monitoring and reporting procedures, internal audit functions and internal controls. The
+pilot on-site examination was the first time the PBC allowed, and a Chinese bank accepted, systematic
+review and assessment by a group of external specialists. When the pilot examination revealed serious
+problems in financial position and performance of the bank, it was an eye-opener for the supervision
+authorities, who had focused on supervision for rule compliance.
+Special assets reviews. Several state bank branches participated in the reviews, which adopted a
+similar approach as that used under BOCOM examination. The objectives of these reviews were to
+determine the overall quality of assets and each branch's loan portfolio and to relate that determination
+to the overall financial condition and soundness of the provincial branches; determine the level of
+provisioning necessary to establish adequate reserves; assess each bank's policies and procedures for
+managing and administering its loan portfolio and other risk assets; and expose bank supervision staff
+to modem asset evaluation techniques, credit principles, and loan review skills. Three reports of
+examnination and one summary memo provided reasonable assessments of the asset quality found at
+each site. Key deliverables included: training/reference manuals; credit status reports; credit review
+control sheets, and special assets review reports.
+Onsite examination procedures. The main objective was to develop examination methodologies and
+documenting written examination procedures. A draft version of the Comprehensive Examination
+Procedures Handbook, including verification procedures and internal control questionnaires, was
+prepared in 1995 and discussed with representatives of selected banks.  The Handbook was
+successfully utilized during the special asset quality reviews. Key deliverables included: examination
+procedure handbook; model comprehensive report of examination; model asset quality report of
+examination; and examination request letter. Once it became clear what could be achieved by applying
+prudential procedures and methodologies, the PBC developed and issued its on-site examination
+manual, which has standardized procedures and methodologies.
+Drafting of prudential regulations. The drafing of prudential regulations was completed in 1996.
+The draft regulations, divided into 20 chapters, incorporated international prudential supervision
+standards and requirements derived from other jurisdictions, including the Basel Committee on Banking
+Supervision. There wvere a number of appendices which provided detailed regulatory guidance in such
+prudential supervision areas as internal controls over branch operations, lending authority and
+administration, and the contents of credit files. Each regulation contained a section explaining the legal
+authority for the regulation, its-purpose and its scope. Where appropriate it provided a suggested plan
+for the phase-in of the regulation to afford banks a reasonable time to adapt. These drafts were
+designed to: (i) strengthen the PBC's ability to license, regulate, and supervise banks and financial
+institutions; establish prudential controls and limits; and enforce corrective measures through legal
+sanctions and other remedies; and deal with troubled institutions; (ii) a law manual that explains and
+interprets the legal framework; and (iii) where appropriate a plan for phasing the implementation of
+prudential regulations.
+While the regulations were not immediately adopted by the authorities, they contributed to better
+understanding of prudential regulation principles and more realistic assessment of banking risks.
+Armed with experience and insights gained through pilot bank exam and special assets review, the
+PBC formulated its own risk-based assets classification regulation incorporating the provisions of the
+draft regulations. The PBC regulation was tested on a pilot basis in 1998 and is in effect now. The
+central bank also incorporated the chapter on bank intemal control in its guidelines. As the output was
+delivered at the end of 1997 when the Basel Core Principles were issued and the PBC shifted its focus
+- 15 -
+
+
+
+on the latter, the implementation plan of the draft regulations was not followed. The direct benefits of
+this output were not fully achieved. At present, there is still need to adopt a set of prudential
+regulations, as those in effect are yet not yet in full compliance with prudential regulation principles,
+and sometimes conflict with each other.
+Automated off-site surveillance (OSS) capability. The final products delivered by the consultants
+included a high-level OSS strategic business plan, a data requirements matrix, a report on key ratios, a
+report on the database and reporting functionality and recommendations on data management, process
+flow diagrams, system gap analysis, a management infrastructure required to support these systems,
+and an implementation plan to support the short- and long-term strategies. No final decision was made
+at the conclusion of the sub-component, as the recommended changes would require substantial
+organizational changes for which PBC was not ready. In addition, an effective OSS depended on the
+pace of the development of PBC accounting information system and database consolidation, as well as
+on the data processing reforms in the financial sector, which was yet to become a top priority in the
+authorities' reform agenda. In the 1998 PBC reorganization, the off-site surveillance function was split
+and assumed by line departments. The benefits of this output were not fully achieved.
+Organization Study. Given PBC's wide responsibilities, the organization study proposed a substantial
+reordering of the PBC supervision organization by establishing centers for the development of sector
+expertise and creating within each sector department a complete process of organization that, integrates
+critical supervision functions. It was the consultants' view that together, these components of
+organizational design would help build sector expertise, practices and procedures, eliminate
+redundancies, raise the analytical and risk-management capability of the central bank, and develop a
+more customer-oriented management approach for working with extemal institutions. The four formal
+deliverables included: a report on an intemational model of bank supervision, a report on determining
+PBC's new organization charter and supervision structure, a report of recommendations on future work
+processes, and an organization study final report.
+However, the implementation of the recommendations posed significant problems, given its sensitive
+nature that required building support throughout the PBC organization and at the senior government
+level. In the PBC reorganization of the supervision function following the conclusion of the
+component, the principles provided in the organization study were not given sufficient attention. The
+benefits of this output were not fully achieved.
+Training program. The objective was to develop an in-house training program and coordination of
+training activities. PW conducted a survey on the training needs of PBC supervision staff, and
+prepared a report on the Training Needs Analysis. They also developed a comprehensive in-house
+training curriculum consisting of instructor manuals, participant materials and slide presentations for
+ten core bank examination training courses. The training program developed by the PW consultants
+was not implemented, partly due to PBC's desire to compare the proposed program with other
+supervisor training programs. The need to accommodate the current central bank personnel policies
+and the practices for professional education could be another reason. In addition, PBC staff
+participated in several workshops, study tours, secondments, seminars, training crews and specialized
+technical training, which were coordinated by the PW consultant. These activities were well-received
+by the participants.
+Monetary policy function. Key outputs included:
+(a) A review of the structure, regulations and institutional arrangements of money markets in China
+- 16 -
+
+
+
+and making recommendations for improvements.
+(b) Recommendations on PBC open market operations and short-term reserve forecasting.
+(c) Workshops and study tours.
+These outputs were satisfactorily delivered in 1993-95. Under agreement with the Bank, IMF staff
+conducted the study on money markets. The output related to OMOs and short-term forecasting was
+delivered mainly through a series of executive and technical workshops conducted jointly with IMF,
+and short-term overseas training courses and study tours. These activities helped to prepare for PBC
+open market operations which started on a pilot basis in April 1996.
+Legal function. Key outputs included:
+(a) Contribution to the drafting of central bank and banking laws.
+(b) Development of a database for financial sector laws and regulations with publicly available access.
+These outputs were satisfactorily delivered in 1993-96. Expert advice was provided in 1993-94 to the
+drafting and revision of the Law of the People's Bank of China, the Commercial Banking Law, the
+Law of Negotiable Instruments, and the Insurance Law. The scope of the assistance included provision
+of a broad range of comparative legislation and legal practice, and reviewing and recommending
+revisions to the drafts. The laws were promulgated by the National People's Congress in 1995. The
+objective of the financial legal database was to provide access to all relevant laws and regulations for
+regulatory authorities and financial institutions. The designing of the system took about 6 months in
+1995-96. After three months of test run, the system was evaluated as high-quality and low-cost, and
+put into operation. At present the database is also available to the public through the PBC website.
+Research and statistics. Key outputs included:
+(a) Five research projects.
+(b) Network and database.
+(c) Publishing of monetary and banking statistics
+(d) Intermediate courses on financial economics, secondments and study tours.
+The implementation of this component spanned three years from 1994-97. The first three outputs were
+satisfactorily delivered. The PBC task teams, assisted by Bank staff and intemational experts,
+conducted the five research projects on survey techniques, flow of funds, business cycle modeling,
+analysis of savings behavior, and economic modeling.  The local area network (LAN) for the
+Statistics Department had a demonstration effect on the automation of the central bank as the first
+LAN within PBC. The time-series database was completed in late 1998 and improved the PBC data
+processing and management capability. The Central Bank Quarterly Bulletin became an important
+part of the central bank's regular information release system.-
+Training activities included overseas study tours and training sessions, and one series of classroom
+courses. At the project appraisal stage, secondments were planned subject to the absorptive capacity of
+host central banks and the language skills of the PBC staff. Local intensive language training was
+provided, but it seemed no secondments took place.
+PBC office automation. Key outputs included:
+- 17 -
+
+
+
+(a) Recommendations on PBC office automation strategy and a standardized common desktop
+technical platform.
+(b) A training program designed to equip PBC personnel with essential skills based on standardized
+software such as Lotus Notes, Statistical Software, and Graphics Software.
+These outputs were satisfactorily delivered in 1996-97. The project consultants-from IMF Bureau of
+Computer Services and the U.S. General Accounting Office-assisted the PBC IT staff to determiine
+how Information Technology (IT) was being used and to analyze the future needs of the HQ based
+departments. Careful attention was given to the content and thrust of the preliminary IT strategy that
+had been already prepared by the PBC. Overseas visits were made to IMF headquarters, the General
+Accounting Office and the New York Federal Reserve in the U.S.A. and to the Central Bank in Korea.
+In addition selected PBC staff spent one month at IMF headquarters to study specific technical topics
+including the options for satisfying wiring requirements for local area networks (LANs). These
+exposures to relevant organizations and their approaches to using IT were of benefit to relevant PBC
+staff. Strategic recommendations were made covering: strategic content (future applications and
+database requirements); the implementation of an appropriate LAN; and the organization structure &
+resources required to deliver the strategy. A workshop, which was attended by a number of
+intemational specialists from IMF, GAO, U.S. Federal Reserve, BIS, and the Central Bank of
+Malaysia, provided an excellent opportunity for the further exchange of views and infortnation. Based
+on the consultants' recommendations, the wiring of the Headquarters main building and the
+standardization of the desktop technical platform were completed in the second half of 1997 and the
+OA network was set up in 1998.
+PBC Graduate School. Key outputs included:
+(a) Curricula development and delivery.
+(b) Upgrading of language laboratory.
+(c) Purchasing of books and other training materials.
+These outputs were satisfactorily delivered in 1994-97. A study of how to reform the Graduate
+School's curriculum/teaching program/training activities was conducted by the City University of
+Hong Kong, and recommendations contained therein were instrumental in reforning the Graduate
+School's teaching program to resemble acclaimed similar programs provided in overseas universities.
+The reforms were implemented and foreign professors and guest lecturers were invited to deliver twelve
+courses each semester. As a result of the component, the Graduate School was able to establish
+exchange programs with accredited universities including McGill University and the City University of
+Hong Kong. Moreover, the Graduate School undertook the translation of twelve foreign language
+finance-related text books into Chinese that are now being used by universities throughout China.
+Accounting framework
+MOF accounting. Specific outputs included:
+(a) Promulgation of general and special topic accounting standards and certain industry sector
+standards.
+(b) Transfer of knowledge and techniques from consultants to the MOF counterpart teams to enable
+the latter to continue to develop, maintain, and modify a body of accounting standards appropriate and
+responsive to the growing and changing market economy.
+(c) Development of a plan to inform accountants in China on the use of the new standards through
+- 18-
+
+
+
+seminars, publicity and training activities.
+(d) Workshops and study tours.
+These outputs were delivered. Research was carried out on 7-8 country cases for each standard,
+although the MOF realized later that this was too much research, and has since asked the consultant to
+focus on 2-3 countries. A due process for drafting standards was formalized from drafting first
+versions by the Accounting Department staff, through intemal review by a core group of Accounting
+Department management, to public discussion and review by the members of National Accounting
+Standards Committee.
+PBC accounting. Key specific outputs included:
+(a) Inventory of international accounting standards and practices for the financial sector.
+(b) Preparation of accounting standards for the financial sector.
+(c) Accounting information system (AIS).
+(d) Financial sector financial reporting system (FSAIS).
+(e) Standardized accounting and management reports for major components of the financial sector.
+(f) Organization study final report.
+(g) Four two-week overseas' study tours, and training courses and on-the-job training.
+These outputs were delivered. A uniform chart of accounts was revised, and accounting manuals and
+reporting formats for banking, securities and financial institutions were prepared. Accounting and
+financial reporting was standardized under the FSAIS for banking, insurance, securities and finance
+companies. FSAIS was piloted at two banks and three non-bank financial institutions.
+The Organization Study comprised of a study of organization and staffing of the Accounting
+Department functions at PBC Headquarters and branches, and an analysis of strengths and
+weaknesses, as well as recommendations regarding the most effective organizational arrangements for
+the accounting functions. The consultants delivered the final organization study report, which includes:
+a) Mission statement for PBC Accounting Department; b) Strategic objectives; c) Organization
+structure; d) Recommended staff and skill levels; e) Improvements to infornation process and control;
+and f) Implementation plan.
+CNAO component. Key outputs included:
+(a) A framework of auditing standards.
+(b) 25-30 generally accepted auditing standards.
+(c) Training programs, materials and course curricula and training courses.
+These outputs were delivered. The project activities carried out contributed to the issuing of 38
+auditing standards which have been implemented at both the national and provincial levels. However,
+project implementation could have been improved if there were better communication between CNAO
+task team and the Bank task team, and if relevant documentation had been appropriately filed.
+Government debt market
+Book-entrv system. The output was the design, evaluation and implementation of an automated
+book-entry system for government securities. This output was satisfactorily delivered in 1994-97. A
+comprehensive project structure was established and comprised of the Steering Committee, chaired by
+19 -
+
+
+
+a deputy govemor of PBC, the domestic and international advisory panels, the project management
+group, the consultants (PA Consulting), and the four working groups on business processes, research
+and statistics, standards and regulations, and computers and telecommunications. PA Consulting was
+hired to conduct a design study and exposure of PBC staff was realized through a combination of
+"study tours" and "top level seminars." The detailed system design activities and the resulting system
+technical specifications and bidding documents were discussed in detail at two significant International
+Advisory Panel (LAP) meetings.
+While the scope of the original system design produced by the consulting team was not fully adopted in
+the first versions of the book-entry system due to policy constraints and the status of the govemment
+bond market,   the PBC counterparts confirmed that they acquired substantial knowledge of
+intemationally accepted principles and practices that enabled them to develop a system that is flexible
+in its design and capable of progressive development. They also confirned that they gained experience
+in complex project management. The PBC counterpart team applied the concepts and principles of the
+PA design in the evolutionary development of the current book-entry system, especially the design
+principles associated with ownership account structures. The book-entry system went into operation in
+1997 and the component also contributed to the establishment of GGSDTC.
+Risk studies. The key outputs included three studies on secondary markets, risk management of the
+clearing and settlement system, and information management, respectively. These studies addressed:
+a) relevance, transparency and dissemination of statistical and financial information; b) market
+uncertainties and institutional arrangements between the issuer, the central bank and the other
+regulators to manage the risks; c) development of an over-the-counter (OTC) market and commercial
+bank risk management with regard to their participation of the OTC market; and d) market
+infrastructure and clearing and settlement risk management. The outputs were satisfactorily delivered
+within six months in 1997 by three individual consultants who worked closely with the CGSDTC task
+team. The final products were discussed at an intemational seminar, and the policy recommendations
+as summarized by the counterparts were well received by the MOF and PBC management. The studies
+are still referred to by the PBC operatives involved in the interbank market supervision and OMOs.
+MOF component. Key outputs included:
+(a) A study on government securities markets
+(b) Workshops and seminars
+(c) Procurement of software and equipment for debt enhanced debt management capability.
+(d) Short-term overseas training activities.
+The first two outputs were satisfactorily delivered in 2000-2001. Five highly qualified international
+experts from Ireland, New Zealand, Spain, Sweden and U.S.A. were hired as consultants, and a group
+of government debt mangers from Denmark, France, Portugal and U.S.A. were invited as advisors.
+This arrangement was made to accommodate the MOF counterpart's desire to get exposed to wider
+international experience. Supported by the counterpart team, the consultants conducted two rounds of
+field interviews with issuers, regulators and financial institutions. During this process the MOF
+counterpart organized two international seminars and a number of informal workshops attended by all
+the stakeholders and the consultants. These seminars and workshops provided the forum for open
+exchanges of views on important policy and institutional development issues, such as market
+integration, appropriate size of government debt, role of derivatives in risk management and
+institutional investors. The finalized report was delivered in December 2001 and the MOF counterpart
+found it satisfactory.
+- 20 -
+
+
+
+Procurement of software for the Treasury website and database were completed before the closing of
+the Project, and the MOF counterpart team is working on the further development of a database for
+debt management. A short-term overseas training program was prepared which included classroom
+sessions on the theory and practices of government debt management and fixed income markets, as well
+as secondmnent at securities industiy firms. However, the program was not implemented due to a
+couple of factors. As project implementation of this component started in the last two years of the
+implementation period, and the MOF counterpart rightly focused on the study first, there was not
+sufficient time to implement the training program before the closing of the Project. More importantly,
+the Treasury Department, which is the MOF counterpart, was short-staffed for its regular
+responsibilities, and could not send staff on overseas training which was estimated to amount to 12
+man/months. The counterpart team made two studies tours and found them informative.
+National payments system. Key outputs included:
+(a) Design of a processing systems framework-computer processing equipment and a range of
+application systems-called the China National Automated Payment Systems (CNAPS).
+(b) Design of an underlying application independent nationwide telecommunications network called the
+China National Financial Network (CNFN).
+(c) Pilot installation of the large value and low value application systems.
+(d) Procurement of telecommunications capabilities, hardware, and software to support development
+and operation of two national payments centers and a number of local payments centers.
+CNFN and CNAPS were designed to support the following range.of application systems: a) a High
+Value Payment System (HVPS) based on real time gross settlement principles to process credit
+transfers;-b) a Bulk Electronic Payment System (BEPS) to processlow value debit and credit payment
+transactions; c) the payments leg of Government Securities secondary market transactions; d) a Bank
+Card Authorization System; e) a Financial Management Information System (FMIS); and f) a system
+to settle the net clearing balances from Local Clearing Houses.
+For the delivery of these outputs, a consortium of Japanese companies led by NTT Data was selected
+as the supplier through a two-stage Intemational Competitive Bidding (ICB) process. The PBC, with
+the support of the Intemational Advisory Panel members, developed the Bidding Documents, including
+the system specifications broadly in line with the envisaged schedule. Due to the difficulties during the
+ICB and negotiations, project implementation was seriously delayed. During contract implementation,
+the number of local pilots was reduced from the original 80 to 48, as it became clear that system testing
+did not require that many pilots. Sections 5 and 7 provide detailed discussions on the issues related to
+procurement and contracting.
+Despite the difficulties, the PBC counterpart teams and the supplier managed to deliver the following
+outputs by mid-2001:
+(a) Data communications and processing equipment was installed as per agreed plan in the two
+national processing centers (Huairou and Wuxi), and a number of pilot cities.
+(b) The primary and back-up central processing and network management sites were established
+successfully.
+(c) Application systems were completed and tested m the testbed environment that simulated the
+real-life operational environment.
+-21 -
+
+
+
+However, implementation of the pilots in all city (20) and county-level (48) sites was not achieved, as
+sufficient real-life experience was obtained from the limited implementations to allow PBC and
+participating banks to specify the application system functionality changes that are required to best
+satisfy current and future user needs. In addition, rigorous real-life operational testing indicated that
+although the basic software worked from a functional perspective, its underlying technical
+programming characteristics prevented the system from satisfying the essential business performance
+and user interface requirements in a manner acceptable to current PBC and Commercial Bank
+operational requirements. This was particularly true for the low-value Bulk Electronic Payments
+System (BEPS). Given these considerations, the PBC management decided in October 2000, not to
+immediately rollout the systems developed by NIT Data at the conclusion of the pilot program. After
+consultation with the Bank task team, the contract with NTT Data was terminated in a manner
+acceptable to both parties.
+Although the envisaged project outputs were only partially delivered, the component did result in major
+benefits. Both PBC and Commercial Bank personnel acquired substantial new knowledge relating to all
+policy, organizational, technical, and operational aspects of modem payments system mechanisms and
+the critical success factors that must be addressed for successful implementation in a modem
+market-based economy.
+This knowledge has facilitated a continuing joint PBC-Commercial Bank initiative that has resulted in
+the successful implementation of a Real Time Gross Settlement system that uses the original CNFN
+and CNAPS communications and processing architectures. The upgraded application software (Phase
+2 software), has been successfully tested and is operating in Beijing and Wuhan. It fully satisfies the
+needs of both PBC and Commercial Banks for settling large-value and other time-critical transactions,
+including the funds transfer leg of secondary market trading in government securities across centrally
+rmaintained settlement accounts. The Phase 2 RTGS will be rolled-out to an additional 11 provincial
+capitals by the end of April 2003, and to a further 19 major cities by late September 2003. The bulk of
+the equipment acquired as a result of the project will be used by PBC in the national roll-out.
+The final Phase 2 RTGS application system is more efficient and user-friendly than the interim Phase I
+output provided by NTT Data. Most importantly, it can be supported and maintained on a local basis.
+Payments systems services, especially the real-time gross settlement system, are critical to the PBC
+mission. Therefore, the Phase 2 version is a substantial additional improvement, as it eliminates the
+risk of dependence on a foreign supplier. The PBC will work on the upgrading of the application
+system for BEPS towards the end of the conclusion of RTGS rollout.
+With the benefit of hindsight, project implementation of the component would have been irnproved if
+the development of RTGS and BEPS were phased in sequentially, and procurement of hardware and
+applications systems were conducted under separate contracts. A more balanced allocation of funding
+should have been adopted, with a larger amount allocated to the development of software, as this is the
+key determinant to the success of a payments system. The tumrkey approach-implementation of a
+complete system based on frozen specifications for the telecommunications, computer processing and
+payments application software-was not appropriate for the procurement of this complex IT system,
+when large-scale changes in the Chinese banking environment were taking place in parallel with system
+development As mentioned above, an evolutionary sequential approach would have been more
+appropriate.
+4.3 Net Present Value/Economic rate of return:
+- 22 -
+
+
+
+Not applicable.
+4.4 Financial rate of retzrn:
+Not applicable.
+4.5 Institutional development impact:
+Central bank functions. The impact on institutional development of key PBC functions is considered
+substantial, especially in terms of the effectiveness of knowledge transfer.
+Accounting framework.     The institutional development irnpact is substantial in accounting
+standard-setting under the MOF component. For the PBC component, the impact is considered
+moderate, as much of the resources were devoted to the development of the information system, which
+is yet to be adopted by the PBC.
+Government debt market. The impact on institutional development for the MOF, the PBC and the
+CGSDTC are considered substantial, as the staff not only acquired technical knowledge and the
+confidence to use this knowledge in a practical and evolutionary manner, but also gained better
+understanding of the direction of further government debt market development. In addition, the
+CGSDT has developed in-house capability of system enhancement on a routine basis, to satisfy the
+evolving functional requirements of the PBC and an expanding group of active participants in the
+interbank markets.
+National payments system. The impact on human resource development is considered substantial.
+That on the use of financial resources is considered moderate, as the weaknesses in project design
+discussed in Section 4 affected the effective use of the Credit proceeds and counterpart funding.
+5. Major Factors Affecting Implementation and Outcome
+5.1 Factors outside the control of government or implementing agency:
+In general, when the Project was designed in the late 1980s and early 1990s, there was insufficient
+appreciation in both the public and the private sectors of the importance of the financial infrastructure,
+including legal and regulatory framework, accounting and financial reporting framework and clearing
+and settlement systems, for the development of a sound and efficient financial sector. Although there
+was recognition in policy notes and research papers of the importance of the key areas covered by the
+Project in resource allocation, price discovery, risk management and corporate govemance, the
+complexity and risks involved in turning the best practices summarized in literature into Chinese
+realities called for a cautious and pragmatic approach. While the Project was subject to these general
+constraints, further reforms in the financial sector, especially after the Asia financial crisis and China's
+WTO accession, facilitated the achievement of project objectives.
+Central bank functions. The broader policy and institutional changes envisaged under this group of
+project components depend on developments in the economy and on progress in other reforms. The
+component of prudential supervision is a good example. While the outputs of this component
+convinced the PBC counterparts and some of their managers within the central bank of the need to
+adopt a prudential supervision framework in China's banking sector, the Asian financial crisis in
+1997-98 drove home for the PBC management as a whole and for the central government the costs of
+weak regulation and supervision. Since then the development of a prudential supervision framework
+- 23 -
+
+
+
+has been accelerated, although changes will come gradually, given their implications for government
+revenues and financial stability. The timing of change also depends on the pace of parallel reforms
+related to state-owned banks, state-owned enterprises, fiscal and tax management, and financial
+accounting and reporting framework. The expected opening up of China's financial sector to foreign
+competition within five years after China's accession to the World Trade Organization (WTO) was
+another positive factor for the satisfactory outcome of this component.
+Accounting framework As under the components on central bank functions, the pace of adopting the
+new accounting framework including the standards and systems developed under this group was
+dependent on progress in other reforms. A visible change in the understanding by the society of
+accounting's role in the economy has been observed only in the last two to three years. These factors
+were out of the control of the MOF and the PBC as the executive arms of the government.
+PBC accounting. This was a pioneering investment when China opened up in the early 1990s. It was
+an icebreaker for the government. There was a huge culture gap at that time between PBC and the
+foreign consultants. USD3.1 million was considered a large amount for the implementing agency,
+which expected that everything could be accomplished with this amount. In the early 1990s, public
+sector accounting was less developed, even in developed economies. Given the pioneering nature of the
+project, there was a lack of familiarity on the part of the government agencies with the "norm," and a
+lack of familiarity on the part of the international consultants with Chinese thinking and realities. In
+addition, in the early 1990s the PBC was not a real central bank, but rather a giant administrative
+mechanism for the government, using an enormous manual bookkeeping system. Its accounting and
+data processing functions were administrative in culture, not policy- or change-oriented. As key
+sector-wide policies were made outside of PBC, it was not an agent for such changes as the adoption
+throughout of the banking system of the financial sector accounting and reporting system.
+Government debt market. No particular externalities materially affected the implementation of the
+components regarding the development of a book-entry system and the risk studies. However, those
+related to the MOF component are worth mentioning. Project implementation under this component
+was postponed twice. The first postponement in 1995-96 was due to the closing of a Hong
+Kong-based, small securities firm which was hired by the MOF as the consultant. The second
+postponement in 1997-98 was because of a lack of consensus within the central government regarding
+the direction and pace of government debt market development. The fiscal stimulus program adopted
+in late 1990s put the development of market-based debt management back on the top of the MOF
+agenda, and was a main factor for the revitalization of the component.
+National payments system. Rapid changes in the banking and telecommunications environment had
+major unanticipated impacts on the design and implementation of this component. At the design stage
+in 1991-92, flow of funds through the banking system were subject to the PBC credit plan, and the
+treasury function of commercial banks was highly decentralized. To ensure compliance with the credit
+plan, the PBC built into the pilot program a large number of county-level payments centers. Toward
+the second half of the 1990s, the credit plan was abolished, and the commercial banks started to
+centralize their treasury function. The number of financial institutions, as well as the variety of their
+businesses increased. Electronic payment instruments were gaining in popularity. Commercial banks
+were also continuously upgrading their intrabank systems.
+The combined impact of these changes made it quite clear that the scope of the envisaged pilot program
+could be reduced, and that the original technical and operational requirements could and should be
+adjusted to satisfy the current needs of users.
+-24 -
+
+
+
+5 2 Factors generally subject to government control:
+The design and implementation of the Project benefited from a strong commitment by the government
+to market-based financial sector reforms. While some of the specific outputs were not Immediately
+adopted, the pace of the Project-related changes was not inconsistent with the gradualist approach of
+the Chinese government toward reforms.
+5.3 Factors generally subject to implementing agency control.
+Central bank functions. In general, the commitment and the dedication of the PBC departments
+responsible for project implementation of the components in this group contributed to the satisfactory
+outcome and outputs. The prudential supervision component is worth mentioning, as it could well be a
+stand-alone'project. It was a courageous decision by the PBC and BOCOM to let the PW experts
+conduct pilot bank examinations and draft regulations and manuals, as it could have been perceived as
+caving in to attempted interference by western countries in the early 1990s. The PBC assigned large
+counterpart teams composed of young and senior staff from different levels of the central bank
+organization to work shoulder-to-shoulder with the consultant team in pilot bank examinations. This
+participatory approach contributed to the success of the component. In the latter part of project
+implementation, the PBC management team in charge of bank supervision gained better understanding
+of the concept and procedures of prudential supervision. This helped to turn the reports prepared under
+the Project into specific PBC policies and actions. The impact of the Project would have been
+enhanced if improvements were made in effective communication between the joint task teams and the
+PBC senior management. While the Bank should have paid more attention to assisting the PBC
+counterparts to improve their upward communication, the PBC could have provided the consultants
+and the Bank more of such opportunities.
+Accounting framework.
+MOF accounting. The MOF program for the scope of application of new accounting standards
+adopted a gradual approach, limited at first to listed companies and enterprises with overseas
+investment. Given the fact that PBC was ready to adopt the new risk-based assets classification system
+in 1998, the publishing of the new accounting standards for the financial sector would have accelerated
+change in the sector.
+PBC accounting. While accounting system reform is inherently difficult in any large organization,
+PBC's case was particularly difficult due to the fragmented reporting structure, where line authorities
+are combined only at the ultimate level, the Govemor. Although the Accounting Department made an
+effort to collect all the necessary information, it needed to have full cooperation from all departments
+that generate financial transactions. Otherwise, the objectives to integrate PBC's accounts in a
+comprehensive manner would be difficult to attain. While the Accountmg Department worked hard in
+project implementation, it encountered difficulties in mobilizing an interest and understanding from
+those other departments. The change of project leadership and staff of the task team during the
+three-year implementation overshadowed the implementation to a certain extent.
+Government debt market. The commitment and dedication of the project implementation units
+contributed to the satisfactory results of the components in this group. The MOF counterpart team
+worked closely with the Bank task team to revitalize the MOF component, as it was about to be
+dropped by late-1999 due to inaction. The component was also benefited from strong support of the
+department management, despite heavy work load and staffing limits of the Treasury. However, delays
+in project implementation before the end of 1999 affected the achievement of specific results of this
+- 25 -
+
+
+
+component. If given more time, the international experts could have assisted the MOF in detailing the
+roadmap for further market development and the training program could have been implemented, as
+there was sufficient funding for these activities at the closing of the Project. The impact of the
+component could have been greater if the MOF Treasury Department were sufficiently staffed for
+project implementation without serious interruption of its responsibility for managing a debt portfolio
+that amounts to over 26 percent of China's GDP.
+National payments system. The senior management member of the PBC in charge of payments
+system development provided strong support to the component, especially at the planning and
+needs-analysis stage. The use of sound participatory project management processes, an expert LAP,
+suitably experienced project consultants, and dedicated PBC task teams resulted in smooth execution
+up to the beginning of procurement stage. The establishment of the CHIBO company staffed with
+full-time employees as the executive armi of the PBC task teams provided a focal point for all
+project-related activities and provided a well-defined counterpart for the procurement and
+implementation phases.  The PBC continued to provide significant resources during project
+implementation stage, and the perseverance of the task management team contributed to the
+overcoming of difficulties at the stages of procurement, negotiations, and contract implementation.
+5.4 Costs andfinancing:
+Funding. The original financing arrangements for the components other than that of the national
+payments system are considered appropriate, and the objectives of the components were achieved more
+or less within the limits of allocated funding.
+National payments system. The original financing plan for this component fell short of the actual
+needs. There were two sources of the funding gap. First, there was a difference of USD6,330,000
+between the cost of the system estimated at the time of project appraisal in September 1991, and the
+value of the contract signed in November 1996, by the PBC and NTT Data (Japan) the lowest
+evaluated bidder. Second, the 1998 PBC reorganization and a rapid upgrading of the intrabank
+systems and the information technology used by the major Chinese banks resulted in the need to make
+additional changes to the NTT Data solutions. The additional cost caused by these later developments
+added up to about USD1,300,000, leading to a funding gap of USD7,630,000 in the aggregate. In
+August 2000 the Bank approved a Supplemental Loan of USD8 million to cover the funding gap.
+While in projects of this nature and with this degree of complexity higher expenditures than that
+originally planned are not atypical, a major cause of the funding gap was the scope of the pilot
+program. The implementation program required the development, installation and testing of both
+RTGS and BEPS at the same time in two national payments centers, 20 city payments centers and 80
+county payments centers. This turned out to be too ambitious, even though the number of local county
+payments centers was reduced to 48 in 1998-99. As the results of the phase II pilot testing show,
+efficiency could have been gained if a phased-in approach were adopted to develop the high-value
+system first. The provision for a large number of pilots, was, in a way, due to PBC's desire to equip as
+many as possible PBC branches as payments centers with imported hardware facilities. The Phase 11
+testing results also prove that pilot testing of application systems do not require large numbers of
+participating same-level payments centers. The additional cost incurred by the need to make the NTT
+Data technical proposal compatible with the IBM operation systems that were widely used by Chinese
+financial institutions was another factor that led to the gap between the original Credit allocation and
+the contract value.
+Implementatio.L The implementation and disbursement of Credit proceeds were concluded as planned
+-26 -
+
+
+
+under most of the components, except for the components on the national payments system and the
+MOF government debt market. The three major contracts under prudential supervision, PBC
+accounting and MOF accounting all had three-year implementation durations. This is considered too
+short, as it affected the achievement of some of the outputs under these components. Due to the delays
+in project implementation under the national payments system and the MOF government debt market,
+the closing date of the Project was extended three times, from September 1999 to September 2002.
+National pavments system. The system design and preparation of the bidding documents were
+concluded without delay in 1992-93. Given the degree of complexity, a two-phase ICB process was
+applied, which took about one year. Much of the time was spent on dealing with a complaint by a
+company which was not short-listed, and the associated communication between the Bank and the
+PBC, as well as within the Bank on this matter. Negotiations with the NTT Data (Japan) Group,
+which was the lowest evaluated bidder, started in 1995, but could not be concluded until November
+1996. After the bid award, the central bank found out that the operation system used by HITACHI
+equipment to be provided by the supplier was not compatible with the IBM systems already installed in
+the HQ sites of the major commercial banks, and requested the supplier to modify its technical
+proposal. After a long period of communication and many meetings between the NTT Data Group,
+IBM China, and the PBC, a sub-contract was signed between NTT Data and IBM for the supply of the
+operations systems. Due to these delays, disbursement under the component did not pick up until
+1999-2000. With the benefit of hindsight, the delays could have been alleviated if equipment and
+system development had been procured separately, and if the component had first focused on the
+development of the RTGS system.
+Bank .procurement requirements.  In the early 1990s Bank procurement procedures were not
+custom-tailored to the acquisition of complex software-based systems and lacked the flexibility
+necessary to place sufficient emphasis on the software component in a turnkey project. For instance,
+the Bank insisted on the use of a sample contract that was for large-scale fixed investment projects,
+while the primary contributor to a successful outcome was the application software under this Project.
+The Bank procurement group also insisted that the financial and technical proposals of the bidders
+should be given equal weighting, although the PBC counterpart, supported by the Bank task team,
+suggested that the technical proposal should be given higher weighting. These weaknesses were partly
+due to the lack of experience in complex, large-scale IT projects. It should be noted that procurement
+requirements for this type of operation have been improved in recent years.
+MOF govenmuent debt market component. There were two rounds of delays in initiating project
+implementation under this component. In the first round (1995-96), the approval of consultant
+selection took a while, as the Bank found that the selected consultant, which was a Hong Kong-based
+small securities firm, did not have a sufficient track record either as a full-fledged investment bank with
+well-established specialty in government debt markets, or as an experienced consultant in the related
+areas. Eventually the Hong Kong firm teamed up with a Wall Street investment bank, but the team had
+to be dissolved and the contract canceled because the Hong Kong firm was closed by its owner in 1996.
+In 1997-98, the MOF was again ready to start project implementation. However, due to the lack of
+consensus on the direction and pace of government market development within the government at that
+time, the component was shelved. Disbursement under the component was smooth after 1999-2000,
+when the component was revitalized. Despite the earlier delays, the component achieved its objectives,
+and most of the Credit allocation was disbursed by the closing of the Project.
+-27 -
+
+
+
+6. Sustainability
+6.1 Rationale for sustainability rating:
+The overall sustainability of the Project is considered as likely. The Chinese government remains
+committed to the developmental objectives of the Project. A number of the project outputs have
+resulted in visible outcome and benefits. The pace of change in China's financial sector is expected to
+accelerate, with continuous financial deepening and gradual integration of financial markets with the
+international markets.
+Central bank functions. The outcome and the benefits of these components are likely to be sustained.
+The PBC has been collaborating with the IFISs (e.g. the Bank, IMF and BIS) and other central banks
+in the area of bank supervision, although the development of an international standard framework of
+prudential supervision may not be achieved in the near future. Similar collaborations are continuing on
+monetary policy operation. While it will take time for the financial markets to become the basis for
+monetary policy and its execution, the PBC is moving toward this goal.
+Accounting framework
+MOF accounting. The outcome and benefits of this component are likely to be sustained, evidenced by
+the fact that 16 accounting standards issued have been implemented by the private sector.
+PBC accounting. The output of Accounting Information System seems unlikely to be sustainable.
+Although the system was piloted and accepted by the PBC, it has not been adopted to-date. As stated
+in 4.1, neither the PBC nor FSAIS chart of accounts have been implemented. The output of PBC
+Organization Study is considered sustainable, as recommendations derived from the PBC Organization
+Study appear to have been implemented by the PBC.
+CNAO component. The outcome and benefits of this component are likely to be sustained, evidenced
+by the fact that 30 auditing standards have been issued.
+Government debt market. The refonns and development supported by these components are likely to
+continue. There is increasing recognition of the role of market forces in government debt management,
+financial institution strengthening and financial markets development. The MOF has requested further
+Bank assistance in the development and implementation of a medium-term strategy.
+National payments system. The outcome of this component is likely to be sustainable. This rating is
+based on the following facts. The Phase 2 RTGS application software addresses the needs of PBC and
+commercial banks in an acceptable and cost-effective manner. Clear plans exist for rolling out the
+RTGS to some 300-plus cities by the end of 2004. Local support and maintenance of the new
+mechanisms are not dependent on a foreign supplier.  Development plans for further system
+upgrades-for example to provide a DVP capability for government securities transactions-are in place
+and appropriate resources are available.
+In addition, the Phase 2 RTGS system is becoming an essential ingredient of the Chinese financial
+sector infrastructure, and thus will and must be supported. This system is similar to corresponding
+systems such as Fedwire in the U.S.A., CHAPS in the U.K. and quickly becomes indispensable not
+only as a funds transfer vehicle, but also as a mechanism for the rapid transmission of monetary policy
+decisions into the financial sector.
+-28 -
+
+
+
+To enhance sustainability, the PBC needs to initiate similar efforts to upgrade the low-value BEPS.
+The PBC may also consider seeking technical advice to evaluate whether there is a need for further
+improvement, in view of the Bank for International Settlements (BIS) published payments system
+standards embodied in the Lamfalussy Report on Interbank Netting Schemes (1990), and the Report on
+the Core Principles for Systemically Importance Payments Systems (2000).
+6.2 Transition arrangement to regular operations:
+Not applicable.
+7. Bank and Borrower Performance
+Bank
+7. ILending:
+Bank performance is considered satisfactory. The Bank assisted project preparation by conducting a
+comprehensive sector review in 1989-90, which identified the main weaknesses that would benefit from
+substantial technical assistance.  Throughout the lending phase of the Project, Bank country
+management stayed on top of the issues, and the task team worked closely with the government and the
+implementing agencies. The design of the Project was based on intemational best practices, and the
+Bank was able to convince the counterparts of the merits of the design, who in the early 1990s did not
+understand fully the benefits of combining international practice with Chinese realities in a number of
+the areas covered by the Project. These efforts contributed to the overall satisfactory design of the
+project objectives and scope. However, the broad coverage of the Project was a challenge for both the
+government absorptive capacity, and Bank project management.
+As discussed in the preceding sections, the design of the Project in terms of irnplementation durations
+and monitoring indicators could have been improved, if the Bank had understood better the difficulties
+involved in implementing policy changes of the magnitude envisaged under the Project for a transition
+economy of China's size.
+7.2 Supervision:
+Bank performance is considered satisfactory, but with substantial room for improvement. While the
+Bank Board approved the Project in 1992, the Credit did not become effective until September 1993.
+During this period, the Bank endeavored to assist the PBC and the MOF to solve some internal
+problems for project effectiveness.  In 1993-95, the Bank team  closely monitored project
+implementation, especially under those components which did not use the "turnkey" contracting
+approach. For the "big contract" components, including prudential supervision, PBC accounting,
+national payments system and MOF accounting, Bank supervision relied more on progress reports
+provided by consultants and project offices, and was supplemented by meetings with counterpart
+representatives during supervision missions. These reports by design, focused on progress made per
+the agreed time-schedule, and did not provide good insight into the substantive issues. Toward the
+middle of the project implementation period (1995-97), much of the Bank team's energy were
+consumed by the issues related to procurement and contract negotiations under the national payments
+system component, and its supervision (see Section 4.2 and 5.4 for details). Direct involvement in
+project implementation of the rest of the components was weakened. This weakness in supervision was
+particularly noticeable under prudential supervision, PBC accounting and MOF accounting. Due to
+the differences in political, economic, social and cultural backgrounds between the government
+counterparts teams and the international consultant teams, coordination problems came up from time to
+time and required a more hands-on approach by the Bank. The Bank did intervene in a few cases, but
+according to feedback from the government counterparts and consultants, the Bank could have done
+more. Bank supervision improved in the last phase of project implementation period (1998-2002),
+-29 -
+
+
+
+partly because most of the components by then were concluded and partly due to the efforts by the task
+team to focus on timely responses to the emergence of issues that could materially affect the
+achievement of project objectives.
+Throughout the supervision phase, especially when project implementation was in full swing, limited
+budget had been a perennial constraint Due to this constraint, the task team could not get the skill mix
+required for supervising a project that covered almost every aspect of the financial sector. While
+project implementation coincided with a period of large budget cuts throughout the Bank, the reduced
+attention by Bank management after the Project was approved could also be another factor. In
+1995-96 the task management responsibility was transferred from an operations-oriented Bank unit to a
+program-oriented Bank unit. As the new managing unit and its staff did not have sufficient experience
+in Bank operations, the effectiveness of Bank supervision was affected. The reduced management
+involvement under the Project also affected Bank access to the government for the exchange of views
+on the broader policy and institutional issues of China's financial sector.
+To substantiate the rating for Bank performance in supervision, below are a few cases.
+Accounting framework Under PBC component, the Bank did not closely follow the development,
+live production, and acceptance of the financial information. PBC might have been too quick to
+"accept," since little interest was shown, while the consultants might have been eager to wrap up the
+project given the excessive expenses incurred. There appeared to be a missing link in quality control
+by the Bank. On the other hand, the Bank addressed in a timely manner the potential personality
+conflicts between PBC and the consultant team's system expert. WB notified the firm of PBC's
+concern and requested that mitigating steps be taken.
+Under CNAO component, the Bank took the initiative in obtaining progress reports and suggested that
+more emphasis be placed on in-country seminars, which would allow a larger number of participants
+than the overseas study tours.
+Government debt market. The Bank team acted promptly by adding a small, albeit important
+component of risk studies, when the PBC and MOF counterparts requested assistance in information
+management and risk control of the interbank government bond market. Under the MOF component,
+the Bank team tried hard to ensure that a qualified consultant would be hired in 1995-96. Later, the
+task team appropriately assessed the new developments in government's policy stance, and worked
+closely with the MOF counterpart to restart project implementation.
+National payments system. While the Bank task team's efforts in monitoring the PBC-NTT Data
+negotiation process and helping the two sides to better communicate should be acknowledged,
+supervision would have been strengthened if in-house, commercial contract management skills were
+available to the team, to assist the PBC in the long negotiation process.
+Toward the conclusion of the component, when it became clear that the proposed ADB payments
+system loan would not materialize, the task team prepared the Supplemental Loan to help the PBC
+finance the funding gap of the contract, and the additional costs incurred due to the required
+modifications to the NTT Data's technical proposal. At this stage Bank supervision did not limit its
+support to simple progress-checking during mission visits. Technical advice was provided on a
+responsive basis to counterpart requests and included software system attributes, management of
+complex system testing, and management of the contract.
+- 30 -
+
+
+
+7.3 Overall Bankperformance:
+Overall, Bank performance is considered satisfactory.
+Borrower
+74 Preparation:
+Borrower performance during project preparation is considered satisfactory. As mentioned in the
+preceding sections, it was a courageous and forward-looking decision for the Chinese government to
+work with the Bank to prepare the Project, given the strong doubts in some corners of the society
+regarding the direction and the pace of the financial sector reforms in 1991-92. The government
+implementing agencies allocated sufficient resources to project preparation including the establishment
+of large counterpart teams, and helped the Bank task tearn and international consultants to better
+understand the Chinese situations.
+7.5 Government implementation performance:
+Overall, government performance during project implementation is considered satisfactory. Financial
+sector reforms continued, although at a more cautious pace in 1993-96, and have been accelerated
+since 1997. This generally favorable environment allowed the implementing agencies to proceed with
+project implementation, and contributed to the achievement of project objectives. The government
+complied with the Credit covenants, including that which required minimum provisioning of 0.5 percent
+against a financial institution's loan portfolio by the end of 1992. While this appears as far from
+sufficient, the change was a hard-won victory at that time. The government was in compliance with the
+covenant that required annual reviews of key financial sector reform issues with the Bank, although
+such reviews took place mostly between the Bank task team members and counterparts at departmental
+management level.
+7.6 ImplementingAgency,
+Part A (the PBC). The PBC performance is considered satisfactory. Task teams composed of staff
+from different headquarter departments and branches Were established when project implementation
+started. Given the size and duration, some of them represented a substantial withdrawal of limited
+department resources. The PBC also established a World Bank Project Office in its Intemational
+Department, which did a good job in project financial management, compliance with Bank procurement
+procedures, and provision of support to the PBC, Bank and consultant task teams. The Project Office
+also played an important role in communication.
+Senior management commitment was strong in 1993-95. It showed a strong interest in the project and
+was directly involved in technical discussions. This commitment was reduced after 1995. The PBC
+accounting component was affected by frequent changes of task team leaders and members. The busy
+program of the Accounting Department's regular responsibilities could be a reason. Different
+understanding regarding the required staff commitment for project implementation could be another
+reason. The personnel policy could be a third reason. If staff performance in the task team was not
+fully appreciated for promotion, staff would have less incentive to stay several years in the task team.
+No similar problem was reported under the other components. On the contrary, the PBC maintained a
+highly competent management team under the national pavments system component for more than 8
+years from the project preparation stage onward.
+Part B (the MOF). Overall, the MOF performance is considered satisfactory. The Accounting
+Department, which was the implementing unit for the MOF accounting component, worked closely
+with the international consultants and sent the Bank team progress reports on a regular basis. The
+Treasury Department, which started to implement the MOF government debt market component after it
+- 31 -
+
+
+
+was established in the spring of 2000, assigned top priority to the Project. The department managers
+engaged actively in the technical discussions with the financial institutions, the intemational consultants
+and the Bank task team. Despite the limited time, and the complex task of managing a large number of
+individual consultants, the Treasury Department brought project implementation to a satisfactory
+conclusion.
+Part C (the CNAO). Documentation on project implementation in Bank files was limited. One Bank
+report dated October 1995 indicating that it was the first time the bank heard from CNAO since the
+project had become effective in September 1993, although it could be possible that some documents on
+the CNAO component were misplaced. In addition, there were quite a few personnel changes after the
+conclusion of the component, and no official involved in the Project was available for ICR interviewing
+purposes. Under these circumstances, it is difficult to rate CNAO performance. However, the current
+Director-General of the Legal System Department reported that project implementation was
+satisfactory.
+7.7 Overall Borrower performance:
+Overall Borrower performance is considered satisfactory.
+8. Lessons Learned
+Lessons leamed arise from a combination of factors that existed at point of entry and during the
+implementation. There are some general lessons leamed under the Project that could be of help to
+similar technical assistance operations:
+(1) Good analysis to identify major weaknesses is the foundation for good project design.
+(2) Well-defined outputs with specific benefits that were clearly understood by the government and
+implementing agencies are the key for the acceptance of project design and achievement of project
+objectives.
+(3) The conceptual and policy challenges to the govenmment and implementing agencies of initiating
+and managing fundamental changes should be fully appreciated and more time be built in to allow the
+changes to take place and take root.
+(4) The institutional constraints of the government implementing agencies in managing complex
+programs of fundamental changes should be fully appreciated at project design stage, and adjustments
+be made, if necessary, to the original implementation arrangements during project implementation.
+(5) There should be continuity of decision-makers of the project implementing agencies who should
+actively participate at critical points of the project.
+(6) Selection of appropriate consultants and dedicated task teams were very important to project
+success.
+(7) A well-staffed project office greatly helped coordination, monitoring, and communication.
+(8) For this type of operation, sustained Bank management involvement is required, and sufficient
+resources should be allocated for more intensive supervision.
+(9) For the '"urkey" type of large consultant contracts, the Bank task team should closely monitor
+implementation progress, intervene promptly if necessary, and actively engage in major policy and
+technical discussions.
+Prudential supervision component:
+(a) Joint PBC/PW working teams for pilot examinations and special assets review contributed to
+effective knowledge transfer.
+- 32 -
+
+
+
+(b) Selection of a project manager and an immediate supervisor who were open-minded with strong
+professional backgrounds and access to senior management, was the key to turn the documents
+produced under the component into policy and institutional changes.
+(c) For change with a broader impact, such as the adoption of a comprehensive set of prudential
+regulations, and the reorganization of the bank supervision function in China, the international experts
+could have played a better role in communicating with the staff and management regarding the basic
+principles and concepts, rather than drafting reports.
+(d) PBC task teams should have paid more attention to how to communicate with their managers about
+the main findings and recommendations.
+(e) The project implementation period should take into consideration the time required for bigger
+policy/institutional changes.
+(f) The Bank team should have engaged more in the substantive issues and assisted the PBC
+counterparts in their upward communications.
+MOF & PBC accounting components:
+(a) Familiarity of the governnent agencies with the intemational "norm," and of international
+consultants with the Chinese realities, would have greatly irnproved project design and facilitated
+communication between the two sides.
+(b) More effective coordination between the government agencies was the key to smooth project
+implementation.
+(c) Institutional commitment to the accounting systems component was important, as frequent turnover
+of the senior- and mid-level management impacted the effectiveness of project implementation.
+(d) Looking forward, adopting international standards versus a research and writing approach will
+provide important benefits to China, as Chinese accounting standards will be similar (or identical) to
+globally-accepted standards.
+MOF govemment debt market component:
+(a) A phased-in approach focusing on one set of issues at a time (e.g. first, debt planning and primary
+market issues; then, secondary .market issues; and finally, fiscal and monetary policy coordination)
+would have enhanced project outcomes.
+(b) Hiring a local consultant for project administration would have alleviated the MOF staffs burden.
+National payments system component:
+(a) The need for procurement documents custom-tailored to the specifics of complex software-related
+acquisitions became evident during this project and are now available for use on similar
+Bank-supported projects.
+(b) The need to permit and support more flexible implementation arrangements also became evident
+and are supported by the Bank For example, acquiring application -software quite separately from
+equipment has now become a standard option.
+(c) The evident lack of technical expertise on the part of PBC should have been addressed by the Bank
+in a more proactive manner, such as providing a well-qualified Technical Adviser with contract design
+and contract management expertise.
+(d) Changes in task team leadership, especially during the contract negotiation phase of the Project,
+also contributed to reduced attention being placed on the technical content of the implementation
+contract. Continuity of key personnel is a well-accepted project success factor, and care should be
+taken to make senior-level changes at times when project risk is low.
+- 33 -
+
+
+
+9. Partner Comments
+(a) Borrower/implementing agency:
+The full text of PBC and MOF evaluations can be provided upon request. CNAO did not provide an
+official evaluation, as there is limited institutional memory regarding the CNAO component, which was
+completed more than six years ago. The minutes of a meeting with CNAO regarding project
+implementation can also be provided upon request.
+Summary evaluation by PBC
+Background. The PBC has exclusively exercised the function of the central bank of China since 1984.
+To reinforce its functions, the central bank needs to undertake, among other things, the restructuring of
+financial legislation, banking supervision and regulation, treasury management, and payment and
+clearing system, as well as draw on advanced international experience and introduce practices
+prevailing abroad. The FSTA Project aimed at strengthening the PBC's functions of regulation,
+accounting and fiscal agent, enhance the ability of statistical analysis, policy research and formulation
+of financial rules and regulations, build and develop the capital market, gradually establish a
+multi-functional and automated payment and clearing system, and reinforce the personnel training of
+the PBC.
+Evaluation - Financial Prudential Supervision & Regulation. The main outputs of this component are
+as follows: (1) the compilation of the PBC Manual of On-site Examinations, the PBC
+Pre-Examination Questionnaire, the PBC On-site Examination Report Format and the Regulation on
+PBC On-site Examinations; (2) the introduction of the concept of the CAMEL system among
+supervisory staff, clarifying the key points and the risk areas in commercial banks to which inspectors
+need to pay attention during on-site inspections, and introducing the concepts of prudential regulation
+and risk-based supervision; (3) a study on how to set up the organizational structure of the PBC's
+supervisory department, presenting two models of the supervisory organization: institutional
+supervision model and function supervision model; (4) a comparative study of the Chinese and
+advanced countries' frameworks of prudential supervision and regulation; (5) a study on off-site
+surveillance system; and (6) the relevant parts of the off-site study used for drafting the Guiding
+Principles of Internal Control for Financial Institutions, promulgated by the PBC in 1997. The
+documents developed under the project have played an important role in raising the quality of PBC's
+supervisory staff. They have also laid the foundation for the standardization of PBC's supervisory
+work. The results of the Project have played a certain sustamied role in promoting and affecting the
+updating of the bank's supervision concept and improving the ways and means of supervision.
+Moreover, it enabled, for the first time, a large number of supervisory staff to be trained in loan risk
+classification, introducing the advanced practice of credit risk management to the state-owned
+commercial banks, and laying the foundation for the PBC to promulgate the Guidance Principles of
+Loan Risk Classification in March 1999.
+Evaluation - Fiscal Agent/Monetary Policy. As the inception and implementation of the component
+coincided with the initial stage of the liberalization of China's government bond market as well as the
+transitional period from direct macro-economic regulation to indirect regulation, the benefits were
+remarkable. Valuable experience was acquired for the development of China's bond market and
+personnel training, including enlarging the number of institutional investors, establishing the trading
+system of government bonds, reducing issuance cost, developing intermediaries, and strengthening the
+management of underwriters and the management of the use of the proceeds of national debt. This
+-34-
+
+
+
+Project has gained substantial results in building and developing the open market operation,
+restructuring the government bond market and promoting the infrastructure reconstruction of the
+national debt market. As a technical assistance project, it has been a success.
+Evaluation - Accounting. The Project provided guidance and reference for accounting reform of the
+PBC and other financial institutions: (1) the MOF and the PBC consulted the study of the bank
+accounting standards when drafting the Accounting Standards of Basic Bank Business; (2) the MOF
+and the PBC consulted the study of the accounting information system, and applied it to the financial
+industry, when designing the accounting item and accounting statement of the Accounting Regulation
+of Financial Enterprise; (3) the PBC consulted the study of the accounting informnation system when
+the Accounting Item of the PBC was revised and the Accounting Statement System of the PBC and
+Financial Information System of the PBC were amended; and (4) the PBC consulted the research
+findings on organizational structure of accounting when restructuring the management system of the
+PBC.
+Evaluation - Automation Strategy Study. On the basis of the five-year plan proposed by the expert
+team, the PBC started the wiring layout project of its headquarters building network in 1997. The
+construction of headquarters network was completed and connection with branches was established in
+1998. In 1999, the head office automation software was developed, and the nationwide email system
+was established. The PBC launched its intemet website, standardized the platform for users, and
+implemented data and resources sharing. The types of processing software in use were also reduced
+from more than ten to only one or two. By 2000, the five-year plan was fully implemented, and a
+number of the results exceeded our expectations of the original plan.
+Evaluation - Legal Component. The establishment of the data retrieval system of financial laws and
+regulations was instrumental to the acceleration of the construction of China's financial legal system,
+and provided a data platform for the PBC staff to leam laws and apply laws. The financial laws and
+regulation data retrieval system has improved the speed of data input and improved the effective data
+use through regular updating of the database. Since 1998, the PBC has self-financed the upgrading of
+the data-retrieval system, basically ensuring the parallel upgrading of its data base with the publication
+of financial laws, regulations and rules. At present, in addition to this data base of financial laws
+operating in the PBC office automation system, information and data concerning fnancial laws have
+been added to the PBC website.
+Evaluation - PBC Graduate School. The implementation of this Project has helped the School update
+courses, raise the level of instruction and teaching conditions. The new teaching program has kept in
+place the original teaching characteristics of the School, namely attaching great importance to basic
+theory and techniques, combining theory and practice all at the samne time, adopting prevailing
+international teaching methods, so as to enable students to master the latest knowledge and technique
+on the sound basis of economic theory.
+Evaluation - Payment and Clearing System. The prescribed project objectives for CNAPS are good
+guidance for developers of payment systems, putting forward positive and constructive
+recommendations on how to proceed in building a well-managed banking system for transitional
+economies. The objectives were valid at the time of project preparation and were consistent with PBC
+needs. It was also consistent with the policies pursued and services provided by central banks in major
+developed economies. The project design was appropriate in terns of both project processes and
+components. The design was also appropriate from the technical and financial perspectives. Although
+the envisaged project outputs were only partially delivered, the primary development objective has
+- 35 -
+
+
+
+been, generally speaking, achieved. The PBC and commercial banks have now put in place a national
+system roll-out strategy that builds upon the pilot experience and takes into account the current banking
+system reform and improvement of technological environment. The upgraded versions of CNAPS
+application software (Phase 2) fully satisfy user needs and will be rolled-out to 43 major cities by the
+end of 2003. The most important improvement is the application software is not dependent on a
+foreign supplier and has been developed locally, based on the concepts embedded in the original
+application software. This is beneficial to the risk reduction of the payment system. Moreover, the
+bulk of the IT equipment acquired as a result of the pilot will continue to be used by the PBC in the
+national roll-out.
+Overall FSTA/Part A Evaluation. In general, FSTA was successfully implemented with positive
+results: (1) introducing internationally-advanced concepts, technology and experience. The advanced
+ideas, technology and experience have been invaluable in promoting the restructuring of China's
+fnancial system. (2) Introducing advanced technology and experience of project management. This
+played a positive role in improving management. To date, project pre-qualification, competitive
+bidding and various standard contract texts have become widely popularized and commonly adopted in
+China. A number of professional personnel were trained, while an understanding of internationally
+standardized practice and procedures and methods of project management was gained. (3) Partially
+resolving the problem of shortage of foreign exchange. The Project provided the PrUs with financing
+support in the form of foreign exchange. Evan today, compared with commercial loans in foreign
+exchange, the financing extended by the World Bank is still advantageous because of its long maturity.
+Major Factors Affecting Proiect Outputs. (1) Economic and financial reforms have deepened in China,
+resulting in the change of function and management system of the PBC. This had an impact, to various
+extents, on the progress and outcome of the Project. (2) The extent to which the leading group of the
+PIUs understood and supported the Project affected its implementation. From the perspective of each
+of the projects, leaders of the PBC at various levels greatly supported the implementation of the
+Project. However, support and understanding in the application of some of the Project findings in the
+latter period was not strong enough. (3) The composition of experts and the extent to which they
+understood China's national circumstances had a direct bearing on the implementation and output of
+the project. The foreign experts' professional knowledge, experience, and commitment were all direct
+determinants on the quality of the Project. A proper proportion between foreign and local experts in
+the team, on the other hand, directly determined the practicability or effectiveness of application of the
+Project. (4) The extent to which both designers and users of the Project understood and participated in
+it affected the practicality and implementation of the project. Insufficient understanding and
+participation in the project implementation by both designers and users resulted in unsatisfactory
+quality and practicability in some cases.
+Problems and Lessons. Compared with the projects funded with domestic financial resources, the main
+problems of the World Bank TA Project are as follows: (I) Project procedures were too complicated,
+and a large amount of time was spent on going through control and approval procedures. (2) The
+Project was lacking in forward-looking consideration and flexibility, resulting in an unduly long period
+of implementation, missing the most opportune time.  (3) The World Bank lacked sufficient
+communication and exchange with the PIUs for some components, giving rise to misunderstanding on
+project implementation between the World Bank and PIUs. Therefore, some components were unable
+to achieve expected or better results. For instance, the major problem encountered in the CNAPS Pilot
+Implementation was the unduly long time of procurement, contract negotiation and amendment. There
+were indeed delays arising from too complicated, too long and repeated examinations and approvals.
+In handling concrete problems, the contracting parties were not sure if agreement and approval would
+- 36 -
+
+
+
+be granted form the World Bank. This would naturally affect efficiency. In the meantime, managerial
+personnel were restrained from the aforementioned factors and lacked flexibility.
+The lessons learned from project design and implementation are: (1) Under CNAPS component, a
+flexible procurement procedure suitable for the acquisition of complex software-based systems is
+absolutely needed. The pilot implementation target was too ambitious. (2) It is essential to adapt to
+the rapid management changes in a complex project such as CNAPS. Major organizational changes
+within the PBC and major changes in the use of information technology within the commercial banks
+should be taken into account during the design and implementation of the project, allowing due
+flexibility. (3) It is necessary to bring the initiative of local experts into full play during project
+implementation. For instance, under the prudential supervision component, the foreign experts who
+undertook this project had rich experience in supervision and regulation and a deep understanding of
+these subjects, but they lacked knowledge of actual situation in China. (4) Attention should be paid to
+a proper proportion between micro and macro aspects of the components, with stress on both their
+implementation and effectiveness.  Some components should be put into force from superior
+authorities, and it is not enough to only rely on PIUs. For example, the research on how to set up the
+organizational structure of the supervisory departments involved the adjustment in the financial
+supervisory system of China's financial industry, and the PBC did not have authority to decide on such
+an important issue. Some other components should be promoted from the bottom. For instance, the
+studies on on-site inspection and loan classification were of strong practicability, and it was far from
+enough if only the management of supervisory departments and a few distinguished supervisory staff
+members reached agreement on these issues. There was also a need to consider how to fully put the
+research fndings into practice. Take the accounting component as an example. As the management
+system and the function of the government were undergoing adjustment, so was the power to formulate
+and operate the financial and accounting systems. It took much time and energy for the consultants to
+familiarize themselves with these changes. As a result, it was difficult for them to give enough time
+and energy to the process of practical development and design, this affecting the quality and
+applicability of the component.
+Summary evaluation by MOF Accounting Department
+Achievement of Development Objective and Outputs. Generally speaking, the component of FSTA
+project helped to introduce new concepts and international accounting practices and proved to be a
+successful vehicle for knowledge transfer and staff development. Assisted by this project, MOF issued
+a set of exposure drafts of specific accounting standards that were broadly in compliance with
+International Accounting Standards (IAS), which included a specific standard for basic banking
+business. By the end of 2002, 16 specific standards have been issued formally. Moreover, given the
+fact that the govemnment will probably continue to promulgate specific accounting standards in the near
+future, the component did help MOF to construct a outline or framework of the system of Chinese
+accounting standards, also the due process for standards-setting.
+Specific outputs included:
+(a) Promulgation of the general standard and 30 exposure drafts of specific accounting standards.
+(b) Transfer of knowledge and techniques from consultants to the MOF counterpart teams to enable
+the latter to continue to develop, maintain, and modify a body of accounting standards appropriate and
+responsive to the growing and changing market economy.
+(c) Development of a plan to inform accountants in China on the use of the new standards through
+seminars, publicity and trainmg activities.
+(d) Workshops and study tours.
+- 37 -
+
+
+
+These outputs were delivered. Research was carried out on 7-8 countries cases. A due process for
+drafting standards was formalized from drafting by Accounting Regulatory Department, through
+internal review by a core group of Accounting Regulatory Management, to the public discussion and
+reviewed by the members of China Accounting Standards Committee.
+The institutional impact development impact is substantial in accounting standard-setting under MOF
+component.
+Maior Factors Affecting Implementation and Output Due to the background of China in early 1990s,
+there were some unique problems which arose in setting up accounting standards. First, different areas
+of China were at different stages of reform and development. This can be seen in the different stages of
+mechanical conversion of the operation of the enterprises, different degrees of adaptability to the
+market, and different operating styles. Secondly, there was a time span between the completion of
+drafts and the promulgation of standards.
+We believe that the major contract under MOF accounting has a three-year implementation duration,
+which were considered too short, as it affected the achievement of some of the outputs under MOF
+accounting component. For example, for some difficult accounting standards like business combination
+and some standards of specific industry like oil and gas, they generally take a relatively long time to do
+research and make a lot of investigation.
+Sustainabilitv. From our point of view, the outcome and benefits of MOF accounting component are
+likely to sustain. This can be evidenced by the fact that 16 specific accounting standards have been
+issued and implemented by above-mentioned three categories of enterprises. Also, MOF is continuing
+to set other specific accounting standards.
+Bank and Borrower/PIU Perfonrance. Overall, we believe that the performance of the Bank and MOF
+-are satisfactory. Accounting Regulatory Department, which was the implementing unit of MOF
+accounting component, worked very closely with the international consultant (Deloitte Touch
+Tohmatsu) and delivered the Bank team and project progress report regularly.
+Lessons Learned. Because this is the first technical assistance project in our department, we did not
+have much experience regarding the Bank's due procedure and some related matters. In order to utilize
+the fund effectively, we believe that we should increase much communication and cooperation with the
+Bank and well understand the Bank's policy with respect to procurement, signing contract and so on.
+For the perspective of an implementation unit, we have also to make periodic reports to the Bank.
+Summary evaluation by MOF Tlreasury Department.
+Since Treasury Department, MOF was established in 2000, our department restarted implementation of
+the Sub-project-Govemment Securities Market Development in China-Part B under the FSTA.
+Through vigorous support by the World Bank project team and unremitting efforts by the consultants,
+the "China Govermment Securities Market Development Sub-Project" was canried out relatively
+smoothly, basically completed major tasks concerned and realized predetennined target. Major tasks
+that we have accomplished are as follows:
+1. In early 2000, with the help of the World Bank project team, we have hired five experts in
+government securities market from Ireland, New Zealand, Spain, Sweden and the United States, who
+- 38 -
+
+
+
+formed an international consultant panel to conduct research on the current status of China government
+securities market development and strategic conception for further development. At the same time, in
+order to support the Intemational Consultant Panel, we also invited some public debt administrators to
+work as advisors to the Consultant Panel. We organized two field study missions for the consultant
+panel to make survey on the current status of China govemrnment securities market development. They
+had many meetings with supervisory and monitoring departments on China financial markets, securities
+issuing bodies, and market participants. The Consultant Panel completed the "Report on China
+Govenmment Securities Development" in 2001. The report comprehensively analyzes the government
+securities market development status in China, achievement obtained, challenges and problems
+confronted by incorporating international experiences concemed. The report also recommends future
+development direction and suggestions.
+2. In 2000 and 2001, two large-scale international workshops were held in Beijing and Hong Kong
+respectively, which facilitated exchange among national debt market administrators and participants,
+and foreigners of the same occupation, promoted further standardization of China govemrnment
+securities market development and enhanced market confidence.
+3. With the help of the World Bank project team, many small-scale seminars were conducted from
+2000-2002, which covered many important topics on national debt management, including national
+debt issuance system, enhancing institutional investors in national debt market, national debt laws and
+regulations, treasury cash management, etc. These small-scale workshops provide beneficial support
+to our work.
+4. Equipment procurement. With permission from the World Bank and within the World Bank
+predetermined sub-project budget, we purchased equipment via govemment procurement procedure, to
+upgrade and replace hardware conceming national debt management, constructing national debt
+management information system, supervisory and monitoring system on debt issuance, debt cashing
+management system, office automation,  which imnproved efficiency of China national debt
+management.
+5. Short-term training abroad. We have organized 4 short-term study missions or training to foreign
+countries such as the United States, Canada, Australia, New Zealand, Japan, South Korea, United
+Kingdom, Greece and Turkey. Short-termn training enhanced our staff's understanding of national debt
+market in foreign countries.
+6. Both the World Bank project team and our department realized that China govermment securities
+market has basically formed, but still needs improvement and enhancement. The consultants' report
+and World Bank follow-up letters all put forward initial implementation strategy and framework
+advice. These strategy and recommnendations will be tested via practice gradually in future. We hope
+that World Bank can continue to provide support to us through new forms of technical assistance,
+since World Bank has delivered a lot of useful experiences and suggestions relating to govemment
+public debt management via FSTA, and World Bank possesses unique knowledge, human resources
+and coordinating capacity.
+7. Further expand mutual exchange between our department and the World Bank regarding
+govemment public debt management. Our department will continue cooperation with the World Bank.
+We hope that World Bank can provide more communications and exchange opportunities, and
+meanwhile diversify exchange and communications methods.
+- 39 -
+
+
+
+(b) Cofinanciers:
+The Project was cofinanced by a grant of 607.5 million Japanese Yen provided in March, 1991. Part
+A of the Grant proceeds (TF27220), which was executed by the Bank, funded project preparation
+activities for the designing of the national payments system. Part B of the Grant executed by the
+government (TF27221) supported project implementation. All audit reports of TF27221 were
+unqualified. Below is a summary of the comments received from the Ministry of Finance of Japan.
+(c) Other partners (NGOs/private sector):
+Not applicable.
+10. Additional Information
+Peer reviewer comments. The ICR has been reviewed by two peer reviewers. One peer reviewer
+(Mr. Andrew Sheng, Chairman, SFC, Hong Kong) has provided written comments which are available
+in IRIS. The other peer reviewer (Mr. Ronald Points, Manager, Financial Management, EASPR)
+focused more on the accounting framework components, and has confirmed his consent with the
+assessment of the ICR which has incorporated his comments. Below are the excerpts of Mr. Sheng's
+comments:
+1. The report provides an overall assessment of the work conducted by the World Bank in China for a
+period of over 10 years and most of the developments/implementation work have already completed.
+There is no doubt that this project, one of the most ambitious and wide-ranging of its kind when it was
+first designed, has contributed significantly to the fairly successful evolution of the financial sector in
+Chmna to date, even though many challenges remain.
+2. The Project focused on four clusters of activity: central bank functions, accounting framework,
+government debt market and national payment system, which were the most critical areas of
+improvement/development in China during the period. When the FSTA was being designed in the late
+1980s, there was insufficient appreciation of the importance of the whole financial, accounting,
+regulatory and judicial infrastructure that is necessary for the successful development of the financial
+sector. Nor were the importance of four key functions of the financial sector in resource allocation,
+price discovery, risk management and corporate govemance that obvious in the literature, nor the
+operational manuals of the Bank.
+3. Only after the problems of financial sector reforms in the transitional economies of Eastem and
+Central Europe emerge, followed by the Asian crisis, was there greater appreciation of the importance
+of the point that financial system exists to protect property rights for savers and investors. Therefore,
+those financial systems that expropriated property rights of investors through financial repression,
+policy-induced resource allocation, hidden taxation, tunneling, stealing and fraud, would find quickly
+that the investors engaged in capital flight, investment in informal markets or speculation in real
+property. However, the mind-set of centrally-planned or mercantilist emerging market policy-makers
+had the idea that the financial system was a system that could be milked to finance either inefficient
+state-owned enterprises or support rent-seeking oligarchies [crony capitalism].
+4. Unless there was sufficient appreciation of the fundamental finctions and objectives of the financial
+system even within the Bank, sound technical advice to the reformers were basically piece-meal or
+partial in approach.
+5. There is no question in my mind that the FSTA designers were quite clear-sighted in identifying
+-40 -
+
+
+
+important building blocks for the Chinese financial sector. The four components were all necessary,
+but not sufficient, components of the financial sector infrastructure and institution building. The
+success of each component varied depending on.the comporient design, initial conditions and also the
+sophistication and ownership of the impleinenting agency. I agree with the overall "Lessons Learned."
+To be fair to the project designers, there was simply insufficient appreciation in the late 1980s of the
+complexities of institutional and market reform. The Bank can improve its procurement policies in
+getting project supervision and delivery. It was a-pity that there were no follow-up projects to the
+FSTA.
+6. On the whole, the FSTA was a path-breakiing TA project that should have led to a whole series of
+follow-up projects that could have given a coherent and properly-sequenced reform programs and
+projects for the Chinese financial sector.
+7. The fact that the Chinese financial sector has advanced so far without major financial crisis on the
+scale experienced in other transitional econo"mies is testimony to the resilient and pragmatic
+policy-makers. On the other hand, the fact that there reinain considerable gaps in the institutional and
+market framework means that there is considerable more reform work to be done.
+-41 -
+
+
+
+Annex X. Key Perfornma,nce lo&iccators/Log Fnamme Matnix
+The present performance indicator system was not in place at project preparation and approval. Instead,
+the Project used a system of "monitoring and monitorable indicators" valid at that time. This system was
+designed to check project implementation progress. The evaluation of the indicators under the Project was
+provided in Section 3.3.
+-42 -
+
+
+
+Annex 2. Project Costs and Financing
+Project Cost b Com onent (in US$ million equivalent)  -
+-        Appraisal    Actual/Latest  Percentage of
+. .,        - -      - -Estimate     Estimate     A--ppraisal
+Component                      IUS$ million   US$ million  , -
+Central bank functions & PBC accounting              17.52           12.48            71
+National Payments and Clearing System                42.62          48.14            113
+MOF accounting & CNAO auditing standards              3.76            3.76            100
+MOF debt market development                           1.58            1.46            92
+Total Baseline Cost                                  65.48           65.84
+Total Project Costs             65.48           65.84
+Total Financing Required              65.48          65.84
+Note: Based on SAR, disbursement data and staff estimates. Cost estimate at appraisal included the cost
+financed by IDA of US$60 million, that financed by the government of about US$1.03 million, and that
+financed by JGF of US$4.46 million. The increase in ActuallLatest Estimate was mainly due to increase in
+local costs.
+Project Cost Financed by Supplemental Loan No. 4574 (in US$ million equivalent)
+Appraisal     Actual/Latest    Percentage of
+Estimate        Estimate        Appraisal
+Component .       +  : *      US$ million     US$ million          million
+National Payments and Clearing System (NPC)
+Goods                                           8.32              7.80       94
+Front End Fee                                   .08               .08        100
+Total                                                 8.40               7.88       94
+Note: Based on MOF and disbursement data. Total cost estimate at appraisal included, IBRD financed
+cost of US$8 mullion, and counterpart funding of US$0.4 million.
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equival nt)
+Procurement Method'--
+Expenditure Category      ICB           NCB   ,                   N.B.F.     TotalFCost
+1. Works                      0.00         0.00          0.00         0.00         0.00
+(0.00)       (0.00)        (0.00)       (0.00)       (0.00)
+2. Goods                     49.40         0.00          1.64         0.00         51.04
+(48.19)       (0.00)        (1.17)       (0.00)      (49.36)
+3. Services                   0.00         0.00          8.96         0.00         8.96
+(0.00)       (0.00)        (9.76)       (0.00)       (9.76)
+4. Miscellaneous              0.00         0.00          0.00         0.00         0.00
+(0.00)       (0.00)        (0.43)       (0.00)       (0.43)
+5. Miscellaneous              0.00         0.00          0.00         0.00         0.00
+(0.00)       (0.00)        (0.00)       (0.00)       (0.00)
+- 43 -
+
+
+
+6. Miscellaneous                0.00          0.00          0.00          0.00         0.00
+(0.00)        (0.00)        (0.00)        (0.00)        (0.00)
+Total                       49.40          0.00          10.60         0.00         60.00
+(48.19)        (0.00)       (11.36)        (0.00)      (59.55)
+Note: Based on disbursement data and staff estimates. Goods procured under ICB were partly financed by
+the Supplemental Loan.
+The above table provides information on the Credit. Under the Supplemnental Loan, there was only one
+expenditure category: Goods; and US$6.43 million was under ICB, US$0.37 million under Direct
+Contract, and US$0.91 million under Intemational Shopping.
+"Figures in parenthesis are the amounts to be financed by the IDA Credit. All costs include contingencies.
+2/
+Project Financing by Componsn8 (In US$ milion squivalent)
+>  j  m      1      z     1;      lt~~~~~~~~~~~~ferceiitne of A praisal
+Component l        ! Apps alsalaEstriate          A   n   tssthflate      -         o
+.__   _._     _-__      IDDA   -Govt       Col;      WDA GoSDvAt'-      CoF.    ''WA   Govi.   CoF.
+Central bank function &  16.72    0.80                11.68     0.80              69.9  100.0
+PBC accounting
+National payments system  40.47             2.15     45.19      0.80     2.15    111.7         100.0
+MOF accounting & CNAO    1.54     0.20      2.02      1.54      0.20     2.31    100.0  100.0  114.4
+auditing
+MOF debt market          1.26     0.03      0.29      1.14      0.03              90.5  100.0   0.0
+development
+TOTAL                   59.99      1.03     4.46     59.55      1.83     4.46     99.3  177.7  100.0
+Under the Supplemental Loan, the actual financing by IBRD was the same as the appraisal estimate. There
+was no cofinancing and the govemment contribution was esimated at US$0.4 million.
+- 44 -
+
+
+
+Annex 3. Economic Costs and Benefits
+Not applicable
+-45 -
+
+
+
+Annex 4. Bank Inputs
+() Missions.
+Stage of Project Cycle              No. of Persons and Specialty       Performance Rating
+(e.g. 2 Economists, 1 FMS, etc.)  Implementation Development
+Month/Year   Count         Specialty                   Progress    Objective
+Identification/Preparation
+10/14/1990               10   TASK TEAM LEADER (1);
+BANKING SPEC. (2);
+FINANCIAL ANALYST (1);
+OTHER (6)
+03/17/1991                5   TASK TEAM LEADER (1);
+ACCOUNTING SPECIALIST
+(1); OTHER (3)
+Appraisal/Negotiation
+09/16/1991                3   TASK TEAM LEADER (1);
+SR. ECONOMIST (1); SR.
+COUNSEL (I)
+Supervision
+11/16/1992                1   SR. COUNSEL (1)                S            S
+12/09/1992                2   TASK TEAM LEADER (1);          S            S
+BANKING SPECIALIST (1)
+02/13/1993                5   TASK TEAM LEADER (1);           S           S
+BANKING SPECIALIST (1);
+FINANCIAL ANALYST (1);
+OPERATIONS OFFICER (2)
+05/10/1993                7   TASK TEAM LEADER (1);           S           S
+OPERATIONS OFFICER (3);
+BANKING SPECIALIST (2);
+LEGISLATION (1)
+06/01/1993                4   LEGISLATION (1);                S           S
+FINANCIAL SECTOR (1);
+TASK MANAGER (I); BANK
+SUPERVISION (1)
+05/01/1994                3   SR FINANCIAL OFFICER (1);       S           S
+SR. BANKING SPEC. (1); SR.
+OPERATIONS OFFICER (1)
+03/05/1995                4   SR. FINANCIAL OFFICER (1);      S           S
+SR. ECONOMIST (1); SR
+BANKING SPEC. (1); SR.
+OPERATIONS OFFICER (1)
+08/08/1995                2   TASK MANAGER (I);               S           S
+SR.PAYT.SYSTEMS SPCLST
+(1)
+03/20/1996                3   TASK MANAGER (1); SENIOR        S           S
+ECONOMIST-CHINA (1);
+CONSULTANT (1)
+08/15/1996                1   TASK MANAGER (1)                S           S
+05/15/1998                4   TEAM LEADER (1); PR. FIN.       S           S
+ECONOMIST (I); PR.
+PAYMENT SYS. SPEC. (1); SR.
+-46 -
+
+
+
+ECONOMIST (I)
+03/15/1999                 3   MISSION LEADER (1); ADV.,        S            S
+FINAN. INFRAST. (1), FIN.
+SECTOR SPECIALIST (1)
+11/01/1999                 3   TEAM LEADER (1);                 S            S
+PAYMENT SYSTEMS SPEC.
+(1); BOND MARKET SPEC (1)
+10/13/2000                 3   MISSION LEADER (1); FIN.         S            S
+MRKT SPECIALIST (1); FIN
+INFRAST. SPECLST (I)
+ICR
+01/14/2003                 3    TASK TEAM LEADER (1);
+SR. FINANCIAL MGMT.
+SPEC. (1); OPERATIONS
+POLICY ADVISER (1)
+(b) Staff:
+Stage of Project Cycle                 Actual/Latest Estimate
+No. Staff weeks            US$ ('000)
+Identification/Preparation                                    579.1 /a
+Appraisal/Negotiation
+Supervision                                                 1,235.7 /b
+ICR
+Total                                   /c                    1,814 8
+/a Includes Identification through Negotiation.
+/b Includes Supervision through ICR.
+/c Not all information for the project stages is available, due to length of project and changes in Bank
+systems.
+-47 -
+
+
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+Ratzng
+OI Macro policies                             O H   OSUOM        O N    O NA
+L SectorPolicies                              O H    OSUOM       O N    O NA
+OI Physical                                   O H OSUOM O N O NA
+O Financial                                   O H OSUOM O N O NA
+OL Institutional Development                  O H   O SU O M     O N    0 NA
+O Environmental                               O H OSUOM O N O NA
+Social
+O Poverty Reduction                    O H   OSUOM        O N   O NA
+O Gender                               OH OSUOM ON ONA
+O Other (Please specify)               O H   OSUOM        O N    O NA
+L Private sector development                  0 H   O SU O M     0 N    0 NA
+El Public sector management                   0 H   O SU O M     0 N    0 NA
+LI Other (Please specify)                     0 H   O SU O M     0 N    0 NA
+Given the fact that the Project was implemented by about 12 PIUs in three different government agencies, each component was
+individually rated
+Component                                           Rating
+Central bank functions                                                    S
+Prudential supervision                                                   S
+Monetary policy function                                                 s
+Legal function                                                          HS
+Research & statistics                                                   HS
+PBC office automation                                                   HS
+PBC Graduate School                                                     HS
+Accounfing fiSamework                                                     S
+MOF accounting                                                          M
+PBC accounting 
+Auditmg standards                                                        S
+Govemment debt market                                                     S
+Book-entry system                                                        S
+Risk studies                                                            HS
+MOF component                                                            S
+National payments system                                                  S
+- 48 -
+
+
+
+Annex 6. Ratings of Bank and Borrower Performance
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+6.1 Bankperformance                                 Rating
+O Lending                                           OHS*S OU OHU
+O Supervision                                       OHS*S        O U    O HU
+O Overall                                           OHSOS OU OHU
+Bank performance in supervision is considered satisfactory but with room for improvement
+6.2 Borrowerperformance                             Rating
+O Preparation                                       OHSOS        OU     OHU
+OI Government implementation performance            O HS O S     O U    O HU
+O Implementation agency performance                 O HS OS      O U    O HU
+O Overall                                           OHS *OS OU OHU
+-49 -
+
+
+
+Annex 7. List of Suppor¢ling Documents
+Project Staff Appraisal Report (Report No. 10072-CHA)
+Memorandum and Recommendation of the President (Report No. P-7385-CHA)
+China Financial sector Policies and Institutional Development (1990, the World Bank)
+Bank task team's official memos, aide memoirs and supervision reports
+- 50 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rRpoit No.:       25455
+Type:    ICR
+
+
+

@@ -1,0 +1,2088 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 17374
+IMPLEMENTATION COMPLETION REPORT
+REPUBLIC OF TUNISIA
+GAS INFRASTRUCTURE DEVELOPMENT PROJECT
+Loan 3418-TUN
+February 13, 1998
+Infrastructure Development Group
+Middle East and North Africa Regional Office
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+Currency Unit        =      Tunisian Dinar (TD)
+1991: US$1.00               TD 0.865 (December)
+1992: US$1.00               TD 0.951
+1993: US$ 1.00              TD 1.047
+1994: US$1.00               TD 0.991
+1995: US$1.00               TD 0.951
+1996: US$1.00'              TD 0.999
+1997: US$1.00               TD 1.253
+FISCAL YEAR:         January I to December 31
+WEIGHTS AND MEASURES
+I ton of oil         =      39.7 million Btu
+equivalent (Toe)     =      10.2 million kcal
+I ton fuel-oil No.2  =      0.979 toe
+I ton LPG                   1 .106 toe
+I ton gas-oil   .           1.028 toe
+kWh                  =      kilowatt-hour
+I GWh (gigawatt-hour)       1,000,000 kWh
+kV (kilovolt)               1,000 Volt
+I MW (megawatt)             1,000 kW
+ABBREVIATIONS AND ACRONYMS
+BP            British Gas Company
+GOT           Government of Tunisia
+ICB           International Competitive Bidding
+ICR           Implementation Completion Report
+LCB           Local Competitive Bidding
+LIB           Limited International Bidding
+LRMC          Long-Run Marginal Cost
+SCADA         Supervisory Control and Data Acquisition System
+STEG          Societe Tunisienne de l'Electricite et du Gaz
+TMP           Trans-Mediterranean Pipeline
+TTPC          Trans-Tunisian Pipeline Company
+Vice President:  Kemal Dervis
+Director:        Jean-Claude Villiard
+Task Manager:  Jorge A. Larrieu
+
+
+
+TABLE OF CONTENTS              FOR OFFICIAL USE ONLY
+Page
+Preface
+Evaluation Summary                                                     i
+PART I: IMPLEMENTATION ASSESSMENT
+A. Statement and Evaluation of Objectives                              1
+B. Achievement of Objectives                                           3
+C. Implementation Record and Major Factors Affecting the Project       13
+D. Bank Performance                                                    15
+E. Guarantor and Borrower Performance                                  16
+F. Assessment of Program Outcome and Sustainability                    16
+G. Future Operation                                                    17
+H. Key Lessons Learned                                                 17
+PART II: STATISTICAL TABLES
+1. Summary of Assessment                                              19
+2. Related Bank Loans                                                 20
+3. Project Timetable                                                  20
+4. Loan Disbursements: Cumulated Estimated and Actual                 20
+5. Key Indicators for Project Implementation                          21
+6. Key Indicators for Project Operation                               22
+7. Studies Included in the Project                                    23
+8. Project Costs                                                      24
+9. Project Financing                                                  25
+10. Procurement                                                       25
+11. Financial Performance                                            26
+12. Economic Analysis                                                28
+13. Status of Legal Covenants                                         30
+14. Compliance with Operational Manual Statements                    31
+15. Bank Resources: Staff Input                                       31
+16. Bank Resources: Staff Missions                                    32
+APPENDICES
+A. ICR Mission Aide-Memoire
+B. Borrower's Completion Report
+C. Borrower's Comments to the ICR
+Map IBRD 23000
+Project General Lay-out
+This document has a restricted distribution and may be used by recipients only in the
+perforrnance of their official duties. Its contents may not otherwise be disclosed without
+World Bank authorization.
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+REPUBLIC OF TUNISIA
+GAS INFRASTRUCTURE DEVELOPMENT PROJECT
+(Loan 3418-TUN)
+PREFACE
+This is the Implementation Completion Report (ICR) for the Gas Infrastructure
+Development Project in Tunisia for which Loan 3418-TUN in the amount of US$60
+million was approved on November 26, 1991 and made effective on September 25, 1992.
+The loan was closed on June 30, 1997, one year later than originally envisaged. The last
+disbursement was made on November 12, 1997, at which time the undisbursed amount of
+US$530,524 was canceled.
+The ICR was prepared by Jorge A. Larrieu, Principal Power Engineer. The ICR
+was reviewed by the Country Operations Department (MNCMG) and by the
+Infrastructure Development Group (MNSID). The Borrower provided its completion
+report and comments on the ICR, which are incorporated as Appendix B and C,
+respectively.
+Preparation of the ICR began during a mission carried out by Mr. Larrieu in
+December 1997 (Appendix A: includes the ICR's Mission Aide Memoire). It is based on
+the Staff Appraisal Report, the guarantee and loan agreements, supervision reports,
+correspondence between the Bank and the Guarantor and Borrower, internal Bank
+memoranda, and interviews with Bank and Borrower officials and staff involved in
+project implementation. Additionally, the Borrower directly provided the Bank with a
+completion report on the implementation of project components.
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+TUNISIA
+GAS INFRASTRUCTURE DEVELOPMENT PROJECT
+(Loan 3418-TUN)
+EVALUATION SUMMARY
+Project Objectives
+1.    The broad objectives of the project, as defined in the SAR, were to: (a) provide a
+least-cost energy supply alternative for Gabes and other gas markets along the M'saken-
+Gabes pipeline route; (b) develop a gas infrastructure network in the southern part of the
+country in order to facilitate domestic gas fields' development; (c) promote increased
+penetration of natural gas in the industrial and premium fuels markets; and (d) establish a
+modem Supervisory Control and Data Acquisition system (SCADA). The institutional
+development objectives of the project were to assist in developing: (i) a sound gas
+subsector strategy while rationalizing and strengthening the subsector's institutional
+setup; and (ii) an appropriate strategy for enhancing the security of gas supply. Also
+important objectives of the project were to ensure that economic prices for electricity and
+gas would be implemented and that the financial performance of the Societe Tunisienne
+de l'Electricite et du Gaz (STEG) would be adequate.
+2.    To achieve these objectives, the project included the following components: (a)
+construction of a gas transmission pipeline of 240 km connecting the existing 20-inch
+diameter pipeline in the north of M'saken to the existing industrial gas network in Gabes.
+The pipeline will also supply gas to markets along its routing, including Sfax, Jemmel,
+and Agareb; (b) construction of 7 km of 20" diameter and of 5 km of 8" pipelines along
+the existing Tunis loop connecting the eastern and western parts of the network in order
+to enhance the security of gas supply to Tunis; (c) studies related to: (i) security of gas
+supply, along with identification of least-cost alternatives; (ii) conceptual design for the
+nationwide SCADA system; and (iii) a Gas Subsector Development and Rationalization
+study; and (d) training for STEG technical staff on SCADA, sales engineering, and
+conversion of industrial facilities to natural gas. The economic and financial objectives of
+the project were to be achieved by GOT through adequate adjustments of electricity and
+gas tariffs which were covenanted in the Guarantee Agreement and the institutional
+objectives through specific actions which were covenanted in the Loan Agreement(paras.
+4-7).
+Implementation Experience and Results
+3.    Physical objectives were achieved. STEG completed, in a timely manner, the
+
+
+
+- 11 -
+construction of the gas pipelines, including: the main pipeline M'saken-Gabes and the
+extensions to Jemmel, Agareb, Sfax and Miskar. Furthermore, the construction of the
+Tunis loop pipeline extensions along the existing Tunis loop were commissioned as
+scheduled. The expansion of the Zriba measurement center, the installation of the city
+gate stations and of the metering/regulating, stations as well as the installation of the gas
+network cathodic protection, were completed as scheduled. The consumer conversion
+program and the purchase of maintenance equipment/vehicles were partially completed.
+The Gas Subsector Development study was completed, however the conceptual design of
+the Supervisory Control and Data Acquisition system (SCADA) design was not
+implemented. Furthermore, the pipeline to connect the Miskar off-shore gas field (16 km)
+was included in the project and financed under the Bank loan (paras. 11-15).
+4.   Institutional objectives were partially achieved. As in previous Bank operations,
+the Government delayed electricity tariff adjustments, thus continuing with the ongoing
+practice of subsidizing STEG's power operations with the considerable surpluses
+generated by its gas operations. Furthermore, GOT failed to level the retail prices for gas
+consumers. In general, STEG's consolidated financial situation (electricity and gas) during
+project implementation was satisfactory. STEG was able to meet the main financial
+covenants set forth in the Loan Agreement with the Bank: internal cash generation, and debt
+service coverage ratio. However, the financial performance of its electricity activity during
+this period was quite disappointing as it again incurred substantial losses. (paras. 21-27).
+5.    Electricity and Gas tariffs. The Government agreed with STEG under the 1992-
+1996 "Contrat-Progranume" and with the Bank, under the Guarantee agreement, to increase
+electricity tariffs by 6% per year. This agreement was not fully honored by the Government,
+as the tariff adjustments did not take place as scheduled. The Government increased
+electricity tariffs by 7% in 1992, 3% in 1993; 5.9% in 1994; and no increases were made in
+1995, 1996, and 1997. The level of tariffs prevailing during 1992-1997 were neither
+appropriate to recover cost based on economic principles, nor sufficient to at least break-
+even in every year starting 1994. Regarding gas tariffs, they were increased by 10% in
+1992, 8.6% in 1993, and 4.7% in 1994. GOT also failed to level retail prices for gas
+consumers as they were well above economic costs (paras. 28-31).
+6.    Project costs andfinancing. The project was completed at a cost of about
+US$77.5 million, or 21.4% lower than the original appraisal estimate of US$98.6 million.
+The decrease was mainly due to a significant cost reduction in the construction of the
+pipelines (pipelaying) and lower taxes than originally envisaged. The Bank financed
+US$59.47 million and STEG the balance, or US$18.03 million (paras. 33-34).
+7.    Project economic performance. The project's economic performance was
+reevaluated using the method described in the SAR. The actual economic rate of return is
+31%, lower than the appraisal estimate of 38%. At appraisal, the estimated benefits of the
+
+
+
+- 111 -
+Miskar off-shore gas field (which were valued on the' basis of the international price of
+heavy-fuel) were overestimated (para. 35).
+Implementation Record and Major Factors Affecting the Project
+8.    The Government and STEG were fully committed to implementing the physical
+part of the project; however, the Government was quite tepid in implementing the
+measures needed to improve the financial performance in STEG's electricity activity. It
+did not approve the required electricity tariff adjustments which would have allowed
+STEG to recover the cost of service. Furthermore, it failed to level retail prices for gas
+consumers. The physical components included in the project were completed, except for
+the conceptual design of the SCADA (paras. 36-3 7).
+9.    Procurement of goods and services was carried-out in a timely manner. The
+processes utilized by STEG for selecting suppliers, contractors, and services were in line
+with the Bank's competitive bidding guidelines. During project implementation nineteen
+contracts were issued, of which sixteen were financed by the Bank and the balance by
+STEG. Except for two small contracts for the supply of telecommunication and control
+equipment, supply of goods and installation/civil works have been commissioned on
+schedule (para. 38).
+10.   Loan disbursement was slow at the initial stage of project implementation due to a
+delay of some ten months in declaring the loan effective. The Bank extended the loan
+closing date by one year to June 30, 1997. At the time of the last disbursement on
+November 12, 1997, US$59.47 million, or 99.1% of the loan was disbursed. The balance
+of US$530,523 was canceled. Furthermore, the Special Account was never opened; the
+Bank and STEG agreed that it was not necessary since all contracts financed under the
+Bank loan were awarded to foreign suppliers and contractors (paras. 39-40).
+Bank Performance
+11.   Overall project identification, preparation and appraisal was satisfactory. The
+main components of the project were key elements to further develop the existing gas
+network and meet the country's natural gas demand. However, the project did not include
+a well-defined description and targets for the conversion component. Furthermore, the
+Bank did not consider GOT's performance under previous loans concerning pricing
+policies and compliance with the' commitment to adjust tariffs. These lessons should have
+been taken into account in preparing the project. The Bank should have required from
+GOT to increase power tariffs and lower retail prices for gas to economic levels, all as an
+up front condition for approval of the loan. The Bank responded positively to GOT's
+request to add to the project the financing of the 16 km-20" diameter spurline necessary
+to connect the off-shore gas field at Miskar to the main M'saken-Gabes pipeline. The
+participation and support provided by the Bank to the Government and STEG during
+
+
+
+- iv -
+project identification, preparation, and appraisal was satisfactory and efficient. The Bank
+carried-out one identification, two preparation and one appraisal missions during the
+period April 1989 through March 1991. Staff allocation between project identification
+and loan approval amounted to about 110 staff-weeks, costing about US$317,100 (paras.
+41-42).
+12.   Project supervision. Between November 1992 and December 1996, five field
+supervision missions were carried-out. The resources allocated during project
+implementation amounted to about 47 staff-weeks at a cost of about US$178,500. The
+frequency of supervision missions was adequate given that STEG had an excellent project
+implementation team, and its suppliers and contractors were performing adequately. Bank
+supervision was satisfactory. However, the Bank should have strictly enforced compliance
+with the covenants regarding adjustment of electricity and gas tariffs in order to prevent the
+project from departing from some of its institutional objectives (para. 43).
+Guarantor and Borrower Performance
+13.   Project preparation and implementation by STEG. The Borrower prepared the
+project engineering design and technical specifications in a timely manner. It took the
+Government about ten months to meet the conditions for loan effectiveness. Procurement of
+goods and services was carried-out on time and the Government assisted STEG during
+project implementation as necessary. The bulk of the project components was executed on
+schedule. The loan closing date had to be extended by one year. On the negative side, the
+Government did not increase electricity tariffs during 1995, 1996, and 1997, despite the
+Bank' s insistence on the importance of increasing electricity tariffs and eliminating
+subsidies at a fast pace. The overall performance of STEG is considered highly
+satisfactory. The overall performance of the Guarantor during project implementation is
+considered marginally satisfactory, except on financial matters, for which its performance is
+considered unsatisfactory (paras. 44-46).
+Project Sustainability
+14.   The prospect for the project to be sustainable is certain. This is based on the
+following: (i) the project's actual rate of return is adequate; (ii) the facilities built under
+the project are central to the objectives of reducing gas imports from Algeria, replacing
+the use of polluting/less efficient liquid fuels, and supplying additional gas to the market
+in the south; (iii) STEG was able to further enhance adequate institutional capacity to
+expand and operate its gas activities and establish satisfactory national standards for gas
+transportation and distribution; and (iv) the current financial situation of STEG's gas
+activities as well as the corresponding prospects are satisfactory (para. 47).
+
+
+
+_v 
+Project Outcome
+15.   The outcome of the project is satisfactory. The project has been successfully
+completed while achieving most of its objectives. This is supported by the following: (i)
+the facilities financed under the loan were commissioned on time and at lower cost than
+expected at appraisal; (ii) the economic rate of return of the project is adequate; (iii)
+STEG's consolidated performance and compliance with major covenants was, in general,
+satisfactory; (iv) STEG's overall institutional capacity and its coordination with sector
+entities continues to be satisfactory; and (v) the project sustainability is certain (para. 48).
+Future Project Operation
+16.   The increasing demand for gas, STEG's institutional capacity, and the existing
+pricing policy for petroleum products provide an adequate environment for establishing a
+satisfactory program for future project operation. Furthermore, the ongoing program for
+promoting private investrnent in the sector is expected to enhance the environment for
+satisfactory operation of the project. The concession to British Gas for the exploration and
+operation of the Miskar gas field and the ongoing negotiations with an Independent Power
+Producer for the combined-cycle power plant at Rades illustrate the GOT's willingness to
+open the sector to private investors (paras. 49-50).
+Key Lessons Learned
+17.   Despite the satisfactory preparation, implementation, and outcome of this project,
+there are four lessons which can be offered:
+Lesson 1: The lack of legal enforcement of the contract between the Government
+and STEG ("Contrat-Programme") did not allow the utility to improve the finances
+of its electricity operations. In this respect, this contract was not an useful tool for
+achieving the intended objectives. In the absence of the corresponding legal
+instruments, this contract was somewhat helpful for establishing roles and
+promoting some dialogue between STEG and GOT. The validity of this agreement
+is questionable and its effectiveness was minimal.
+Lesson 2. GOT did not comply at the later stages of project implementation with its
+commitment to adjust electricity tariffs and Bank management was reluctant to
+enforce the corresponding covenants. Bank management and staff should strictly
+enforce compliance with critical covenants to prevent the project from departing
+from some of its institutional objectives as well as to preserve the Bank's credibility,
+irrespective of considerations such as closing dates.
+Lesson 3. The conversion component of the project did not include a well-defined
+description and targets. As a result, only four (out of fourteen) industrial
+
+
+
+- vi -
+undertakings were able to convert their facilities to use gas. In general, the project
+design should very detailed and comprehensive. In particular, this project
+component should have explicitly defined, based on a sound survey, a realistic
+program and the type and number of conversions to be achieved each year.
+Detailed and comprehensive project description and implementation targets are
+essential.
+Lesson 4: The lessons from previous gas projects in Tunisia, in particular those
+concerning pricing policies and compliance with the commitment to adjust tariffs,
+should have been taken into account in preparing and implementing the project.
+Under Loan 3418-TUN, the Bank should have required from GOT to increase
+power tariffs and lower retail prices for gas to economic levels, all as an up front
+condition for approval of the loan.
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+TUNISIA
+GAS INFRASTRUCTURE DEVELOPMENT PROJECT
+(Loan 3418-TUN)
+A. Statement and Evaluation of Objectives
+Introduction
+1.    The energy sector represents an important, although declining, portion of the
+Tunisian economy. In particular, during 1996 petroleum exports accounted for about
+7.1% of total exports, while oil revenues represented about 6.7% of budgetary receipts
+(10.1% and 9.9% respectively in 1991). Furthermore, petroleum products and natural gas
+during 1996 represented about 62% and 36% respectively, of the country's primary
+energy available and about 76% and 11% respectively, of the final consumption of
+commercial energy. During the last decade, oil production has been declining despite the
+Government's efforts to attract foreign investments for oil exploration. However, the
+Government has intensified its efforts to enhance efficient use of energy and to diversify
+its sources. The availability of imported Algerian gas from the Trans-Mediterranean
+Pipeline (TMP) and of the gas from the Miskar off-shore field has induced a considerable
+increase in the usage of gas for power generation and industrial processes as a
+replacement for liquid fuels.
+2.    When the Gas Infrastructure Development Project was prepared in 1990, the
+southern part of Tunisia faced critical natural gas shortages due to the rapid depletion of
+the El Borma gas field. In order to reverse this trend and in the absence of prospects to
+develop gas fields in this region, the construction of a pipeline linking the TMP to the
+south was undertaken because its economic attractiveness. The pipeline supplies gas to
+major industrial consumers in the Gabes, Sfax, Agareb, and Jemmel areas; allows STEG
+to further develop gas-fueled power plants in the region; and links the Miskar off-shore
+gas field with consumption centers.
+Experience Under Previous Projects
+3.    The project was the Bank's third operation in Tunisia's gas subsector. During the
+period 1971-1991 the Bank made three loans totaling US$94 million. These have assisted
+Tunisia in expanding STEG's natural gas network. The projects financed under the two
+previous loans, 724-TUN and 1864-TUN, approved in January 1971 and June 1980
+respectively, were successfully completed, however with some problems. Their
+corresponding ICRs confinned both, the appropriateness of the project components and
+the problems faced during their implementation. Furthermore, these. loans have also
+attempted to improve the finances and organization of STEG and the energy sector as
+
+
+
+2
+well as its economic and operational performance. Loan 341 8-TUN (the subject of this
+ICR) is a follow-up to the two previous loans, in particular regarding further development
+of natural gas utilization as well as financial and institutional aspects of the sector.
+Project Objectives and Components
+4.    The broad objectives of the project were to: (a) provide a least-cost energy supply
+alternative for Gabes and other gas markets along the M'saken-Gabes pipeline route; (b)
+develop a gas infrastructure network in the southern part of the country in order to
+facilitate domestic gas field development; (c) promote increased penetration of natural
+gas into the industrial and premium fuels markets; and (d) establish a modern supervisory
+control and data acquisition system (SCADA).
+5.    The institutional development objectives of the project were to assist in
+developing: (a) a sound gas subsector strategy while rationalizing and strengthening the
+subsector's institutional setup; and (b) an appropriate strategy for enhancing the security
+of gas supply. These objectives were to be met through actions specified and covenanted
+in the guarantee and loan agreements. Additionally, other important objectives of the
+project were to ensure that economic prices for electricity and gas would be implemented
+and that the financial performance of STEG would be adequate. The economic and
+financial objectives of the project were to be achieved by GOT through adequate
+adjustments of electricity and gas tariffs which were covenanted in the Guarantee
+Agreement.
+6.    The physical objectives of the project were to support STEG in: (i) developing a
+gas transmission linkage between the north and south of the country; (ii) enhancing the
+gas distribution network flexibility in the city of Tunis and the security of gas supply; and
+(iii) expand consumer connections, metering, and regulating stations.
+7.    To achieve these objectives, the project included the following components:
+(a) construction of a gas transmission pipeline of 240 km connecting the existing
+20-inch diameter pipeline in the north of M'saken to the existing industrial gas
+network in Gabes. The pipeline will also supply gas to markets along its routing
+including Sfax, Jemmel, and Agareb.;
+(b) construction of 7 km of 20" diameter and of 5 km of 8" pipelines along the
+existing Tunis loop connecting the eastern and western parts of the network in
+order to enhance the security of gas supply to Tunis;
+(c) expansion of the Zriba measurement center;
+(d) installation of 3 city gate stations and 14 metering/regulating stations;
+
+
+
+3
+(e) conversion of 14 industrial facilities using liquid fuels to natural gas along the
+pipeline;
+(f) provision of maintenance equipment and vehicles;
+(g) studies related to: (i) security of gas supply, along with identification of least-
+cost analysis; (ii) conceptual design for the nationwide SCADA system; and (iii)
+Gas Subsector Development and Rationalization Study addressed to identify,
+evaluate, and recommend least-cost alternatives, gas market, and improvement of
+the organization and efficient operation of the gas subsector; and
+(h) training for STEG technical staff on SCADA, sales engineering, and
+conversion.
+8.    The project, once completed, was to interconnect through a 240 km gas pipeline
+the southern part of the country (Gabes) to the northern gas network (M'saken) in order to
+supply additional gas to the city of Gabes and other new markets, improve the security of
+gas supply in the area of Tunis, and enhance STEG's planning, managerial, and financial
+capabilities. The project's objectives were relevant to the gas subsector of Tunisia as they
+were in line with those pursued by the Government and the Bank. The objectives were
+clearly stated in the Staff Appraisal Report. The overwhelming reason why the project
+focused on the gas interconnector was the critical gas shortage in the south of Tunisia due
+to the depletion of the El Borma gas field and the urgent need to meet gas demand in this
+area. Furthermore, it was appropriate to include in the project components addressed to
+enhance STEG's planning and financial capabilities.
+9.    The original project's components were appropriate to achieve the physical
+objective of extending additional gas supply to the south at least cost. They were also
+suitable to pursue the important institutional development objective of improving sector
+planning and operational performance. However, despite STEG's adequate overall
+financial performance during the implementation of the project, the Government failed to
+comply with its commitments under the project to periodically adjust electricity tariffs.
+B. Achievement of Objectives
+Implementation Organization
+10.   The physical components were implemented by the beneficiary, STEG, through its
+Gas Directorate, which setup a special project implementation unit. Overall project
+coordination, financial matters, and loan disbursement administration were handled by its
+Finance Department. STEG assigned very competent staff to manage the project and they
+performed very well during all stages of project execution. Furthermore, the suppliers and
+contractors retained by STEG for the supply of equipment and materials and for the
+
+
+
+4
+installation and construction works of the different components were very competent and
+experienced. The project components were completed in a timely manner and, in general,
+at costs below the original estimates. STEG performance as implementing agency is
+considered highly satisfactory.
+Physical Objectives
+11.   The bulk of the physical objectives were achieved. STEG completed the
+construction of the gas pipelines on schedule. During December 1994 the main pipeline
+was commissioned. This pipeline comprises three main sections: M'saken-Sfax (104 kin-
+24" pipe diameter), Sfax-Miskar (27 km-20" pipe diameter), and Miskar-Gabes (106 km-
+20" pipe diameter). The main pipeline also includes four spurs: the ones to the cities of
+Jemmel and Agareb, the one to the city of Sfax (15 km-16" pipe diameter) and the one to
+the Miskar gas field treatment station (16 km-20" pipe diameter). Furthermore, the
+construction of the Tunis loop pipeline extensions (6.2 km-20" pipe diameter and 1.5 km-
+8" pipe diameter, respectively) along the existing Tunis loop connecting the eastern and
+western parts of the network was commissioned during September 1995.
+12.   The expansion of the Zriba measurement center and the installation of six
+regulating stations, eight metering stations, six gas quality control posts, and the gas
+network cathodic protection against pipeline corrosion were completed during the period
+December 1994 through June 1997. Only four industrial facilities using liquid fuels
+(instead of the 14 foreseen at appraisal) were converted to natural gas. Furthermore, these
+four industrial undertakings financed with their own sources the costs associated with the
+conversion works.
+13.  STEG maintenance equipment and vehicles: Albeit the reduced scope (less
+quantities than estimated at appraisal), the maintenance equipment and utility vehicles
+for construction and maintenance work were purchased during the period 1994-1996.
+This equipment is helping STEG to enhance its maintenance and operational practices in
+gas transmission and distribution.
+14.   Studies: The scope of the Security of Gas Supply Study, along with identification
+of least-cost alternatives, were incorporated into the Gas Subsector Development and
+Rationalization Study. The combined study was completed in October 1997. The quality
+of the study is adequate and its conclusions and recommendations meet the intended
+objectives set at appraisal. The study will assist STEG to identify, evaluate, and
+recommend least-cost alternatives, gas market, security of supply measures as well as
+improvement of the organization and efficient operation of the natural gas subsector. The
+study for the conceptual design for the nation-wide SCADA system was never carried
+out. STEG intends to execute this study during 1998.
+15.   As the off-shore natural gas field at Miskar developed by British Gas was to be
+operational by end of 1995, STEG requested that the 16 km-20" diameter spurline
+necessary to connect the Miskar gas treatment plant to the main pipeline M'saken-Gabes
+
+
+
+5
+be financed with proceeds of the Bank loan. Since the operation of this pipeline was
+envisaged for some time and given its highly economic benefits, this proposal was
+accepted by the Bank during 1993. It was further agreed that the supply and installation
+of this spurline (costing about US$3 million) would be contracted as an extension to the
+ongoing contracts for the main pipeline M'saken-Gabbs (using the same supplier and
+contractor and under the same terms and conditions).
+Technical Operations
+16.   Total natural gas requirements have increased from 939,000 toe in 1991 to
+1,800,000 toe in 1996, an average yearly increase of about 14%. The actual growth rate is
+higher than the appraisal estimate of 9% (1,440 toe in 1991 and 2,138 toe in 1996). During
+1991 local gas production from El Borma amounted to 230,000 toe (26%), while imports
+from Algeria amounted to 698,000 toe (74%). In 1997 local gas production is expected to
+amount to 1,606,000 toe (68%) due mainly to the production of the Miskar off-shore gas
+field (1,420,000 toe), El Borma is expected to produce 140,000 toe, and the balance (32%)
+will be imported from Algeria. It should be noted that the actual production rate of the
+Miskar gas field amounts to 1,540 toe/year while at appraisal it was estimated at 990
+toe/year. STEG's power plants are the largest users of gas (over 70%). STEG's gas sales to
+consumers increased from 383,000 toe in 1991 to 524,000 toe in 1996, an annual increase
+of about 7%. The actual growth rate is lower than the appraisal estimate of 10% (379 toe in
+1991 and 610 toe in 1996). The number of STEG's connections increased from 50,254 in
+1991 to 85,604 in 1996 (Table 1.1). The growth of the Tunisian gas market is mainly due
+to the increasing demand of gas for power generation and to a much lesser extent to the
+usage by the industrial and commercial sectors, where natural gas penetration is progressing
+slowly due to high retail tariffs (see para. 30 below).
+Table 1.1. STEG: Gas Production, Purchases from Algeria, STEG Sales ('000 toe)
+Year  Total El Borma Miskar Purchases  Other    STEG Sales  Power Plants
+1991   939   238         0       698        3        383          556
+1992  1,013   238        0       774        1        425          588
+1993   901   178         0       722        1        454          447
+1994   758   159         0       597        2        477          281
+1995  1,023   121        2       894        2        520          503
+1996  1,800   131      665       962        2        524         1276
+1997  2,297   140    1,420       731        6        550         N.A.
+17.   Electricity production increased steadily from 5,156 GWh in 1991 to 6,921 GWh in
+1996 (average growth of about 7% per year), including electricity imports from Algeria and
+purchase from local suppliers, while the number of electricity consumers increased from
+
+
+
+6
+1,453,966 users in 1991 to 1,875,090 in 1996. The actual growth rate is similar to the one
+estimated at appraisal: 5,150 GWh in 1991 and 7,026 in 1996 (Table 1.2).
+Table 1.2. STEG: Generation and purchase of electricity (GWh)
+Year        Total       Hydro        Steam       Combustion    Purchase
+Local Algeria
+1991        5,156       105          4,650         342        43      16
+1992        5,520        65          4,819         596        44      -4
+1993        5,964        64          4,947         694        44    215
+1994        6,416        40          4,380        1,611       54    313
+1995        6,702        39         4,103         2,483       46      31
+1996        6,921        67          3,927        2,858       54      15
+18.   During the period 1991-1996 STEG's gas transmission and distribution network
+was expanded by the addition of 637 km of high pressure transmission pipelines, 47 km of
+medium pressure pipelines, and 1,003 km of low pressure distribution pipelines (Table 1.3).
+Table 1.3. STEG: Gas transmission and distribution facilities over the period
+1991-1996
+1992        1994        1996
+Transmission network (ktn)           1,264       1,888        1,901
+(pressure > 20 bars
+Sub- transmission network (km)        339          381         388
+(4 bars <pressure < 20 bars)
+Distribution network (km)            1,226       1,702        2,038
+(pressure < 4 bars)
+Total                                2,830       3,972        4,327
+19,   STEG's installed power capacity grew from 1,329 MW in 1991 to 1,669 MW in
+1996, an average growth of about 5% per year. Also, the power transmission and
+distribution systems were significantly extended during the period 1991-1996, with the
+addition of 200 km of 225/150/90-kV lines; 27,286 km of distribution lines (medium-low
+voltage); 290 MW in power transformers; and over 7,800 medium and low-voltage
+transformer banks (Tables 1.4 and 1.5).
+
+
+
+7
+Table 1.4. STEG: Generation installed capacity (MW)
+Total       Hydro        Steam    Gas turbine        Combined
+Year                                            & Diesel           Cycle
+1991        1,329         64          774         491                 0
+1992        1,329         64          774         491                 0
+1993        1,329         64          774         491                 0
+1994        1,565         64          774          491             236
+1995        1,686         64          774          491             357
+1996        1,669         64          774          474             357
+Table 1.5. STEG: Power transmission and distribution facilities over the period
+1991-1996
+1992        1994         1996
+HIGH VOLTAGE
+225-kV lines (kIn)                     920          922          994
+150-kV lines (km)                     1,345        1,437       1,445
+90-kV  lines (km)                      800          831          826
+Total                                 3,065        3,190        3,265
+Substations (number)                    34           35          36
+Transformers (Mw)                     1,128        1,289        1,389
+MEDIUM AND LOW VOLTAGE
+Sub-transmission and
+Distribution lines (kin)              66,508       75,650       88,540
+Substations  (number)                 16,462       19,904      23,729
+NUMBER OF CONSUMERS (thousand)    1,537             1,699        1,875
+20.   Energy losses. Power distribution losses, which include technical and non-technical
+losses, have remained below 9% (8.8% in 1996). STEG devotes a considerable amount of
+effort to keeping distribution losses within this range. STEG's losses in its high voltage
+transmission system are about 2.7%. Both transmission and distribution losses are in line
+with utility experience elsewhere and they do not pose a particular problem. Losses within
+the gas network are negligible as they are below 1% (Table 1.6).
+
+
+
+8
+Table 1.6. STEG's electricity losses
+1991  1992  1993  1994  1995  1996
+Transmission (Gwh)             125   162   157   180   171   188
+Percentage (%)                 2.4   2.9   2.6   2.8   2.6   2.7
+Distribution (Gwh)             499   487   534   534   588   610
+Percentage (%)                 9.7   8.9   9.0   8.3   8.7   8.8
+Institutional Objectives
+21.   Institutional objectives were partially achieved. Although the overall consolidated
+financial performance of STEG was satisfactory during project implementation, very
+little was accomplished under the project regarding electricity rates, which were not
+sufficient to cover the full financial costs of its power activity. As in previous Bank
+operations, the Government delayed electricity tariff adjustments, thus continuing with
+the ongoing practice of subsidizing STEG's power operations with the considerable
+surpluses generated by its gas operations. On the latter, GOT failed to level the retail
+prices for gas consumers, which are well above LRMC levels. In this respect, the
+performance of the Government is considered unsatisfactory. The following paragraphs
+detail the foregoing assessment.
+22.   STEG'sfinancialperformance. In general, STEG's consolidated financial situation
+and performance (electricity and gas) during project implementation was satisfactory. As a
+result, STEG was able to meet the main financial covenants set forth in the Loan Agreement
+with the Bank; i.e.; internal cash generation and debt service coverage ratio. However,
+financial performance of its electricity activity during this period was quite disappointing as
+it again incurred substantial losses. Under the Loan Agreement, STEG was obliged to at
+least break-even by the end of December 1994. To achieve this target, the Government
+agreed with the Bank under the Guarantee Agreement, and with STEG under the 1992-1996
+"Contrat-Programnme", to increase electricity tariffs during this period by 6% per year over
+and above any increases in the costs of fuel, wages, or servicing foreign exchange loans.
+STEG's actual consolidated financial performance and the one estimated at appraisal are
+summarized in Part II, Table 11. The variations between projected and actual performance
+are mainly due to lower gas sales and higher heavy fuel and gas prices than the ones
+projected at appraisal.
+23.   STEG's selffinancing and debt service coverage. Through the period of project
+implementation, internal cash generation from its consolidated operations (power and
+gas) enabled STEG to finance a considerable amount of its annual investment
+requirements. In this respect, STEG's financial performance was in general satisfactory.
+Although it was covenanted under the Loan Agreement that this ratio should be not less
+
+
+
+9
+than 25% in 1991 through 1993, and not less than 30% thereafter, this ratio was as high
+as 42% in 1996 and as low as 20% in 1994. The covenanted debt service coverage ratio
+of 1.5 was in general met since this ratio varied from 1.4 in 1993 to 1.9 in 1995 (Table
+1.7).
+24.   STEG's electricity activity losses. As noted above (para. 22), the financial
+performance of STEG's electricity activity was quite disappointing. The losses in this
+activity varied from 13 TD millions in 1992 to 48 TD millions in 1994 (Table 1.7).
+Table 1.7. STEG's Investment, Cash Generation, Self Financing, and Losses
+Invest. Prog.   Cash Gen.   Self Fin. DCR   Power Activity
+Year    (TD million)   (TD million)   (%)  (Ratio) Loss (TD million)
+1991         84            120         33     1.48       - 26
+1992        117            131         40      1.67      - 13
+1993        225            129         26     1.36       - 34
+1994        263            137         20     1.68       - 48
+1995        132            179         40     1.85       - 24
+1996        154            191         42     1.68       - 14
+25.   Accounts receivable. STEG's performance regarding accounts receivable and
+collection of arrears has been very satisfactory as it was able to maintain them below the
+targets agreed upon with the Bank. The average collection period on accounts receivable
+during project implementation was between 29-53 days, well within the 90 days
+maximum allowed under Bank-financed projects (Table 1.8).
+Table 1.8. STEG's accounts receivable (1991-1996)
+Year               (TD million)       (days)
+1991                26.1               29
+1992                32.4               33
+1993                45.0               41
+1994                64.7               53
+1995                 65.5              49
+1996                74.7               53
+
+
+
+10
+26.   STEG's auditing During project implementation, STEG submitted, on schedule, its
+financial statements as well as the accounts of the project duly audited by MTBF-Price
+Waterhouse, STEG's auditors. For reports the auditors concluded that STEG's financial
+statements were adequate and that they accurately reflected its financial position.
+Furthermore, STEG, for the first time, published separate audited accounts for its electricity
+and gas operations for 1995 and 1996, as required by the Loan Agreement.
+27.   STEG's "Contrat-Programme ". This contract for the period 1992-1996 between
+the Government and STEG, a requirement under the conditions of loan effectiveness,
+went into force during October 1992. It was established to enhance the technical
+efficiency and financial situation of STEG. The "Contrat-Programme" specified the
+measures to be taken by the Government and the complementary actions to be taken by
+STEG. This Contract Program did not fully achieve its objectives, as the Government did
+not meet its commitments regarding electricity tariff increases. As a result, STEG's
+electricity activity did not perform as expected when the project was appraised. A new
+1997- 2002 "Contrat-Programme" is now being discussed with the corresponding
+authorities.
+28.   Electricity tariffs. As mentioned above, the Government agreed with STEG under
+the 1992-96 "Contrat-Programme" and with the Bank, under the Guarantee agreement, to
+increase electricity tariffs during this period by at least 6% per year over and above any
+increases in the cost of fuel, wages or servicing foreign exchange loans. This agreement was
+not fuilly honored by the Government as the tariff adjustments did not take place as
+scheduled. The Government increased electricity tariffs by 7% in August 1992, 3% in
+October 1993, 5.9% in June 1994, and no increases were made in 1995,1996, and 1997.
+Supervision missions raised this issue and informed the authorities that, unless actions were
+taken promptly, the Bank may use the corresponding legal remedies, including suspension
+of disbursements. However, Bank management was reluctant to use remedies given that the
+loan closing date was imminent.
+29.   The level of electricity tariffs prevailing during 1992-1997 were neither appropriate
+to recover costs based on economic principles nor sufficient to at least break-even in every
+year starting 1994. They have remained at an average of 0.062 TD/kWh since 1991. It is
+estimated that prevailing electricity tariffs are about 18% below their long-run marginal cost
+(LRMC) as an average, and as much as 20% below LRMC for low-voltage consumers.
+Moreover, Bank supervision missions have repeatedly informed the Tunisian authorities
+that it is necessary for them to index tariffs so changes in fuel prices, rate of exchange and
+inflation can be passed on to consumers (Table 1.9).
+
+
+
+11
+Table 1.9. Evolution of electricity retail tariffs over the period 1991-1997 1/
+Estimated Long-Run Marginal Cost Tariff (LRMC) for 1997 - (TD/kWh)
+Category                       1991  1992  1993  1994  1997  LRMC
+1. Low Voltage                 0.071 0.073 0.077 0.78  0.078 0.097
+2. Medium Voltage              0.055 0.57  0.059 0.59  .059  0.071
+3. High Voltage                0.039 0.041 0.043 0.43  0.043 0.048
+4. Average                     0.057 0.060 0.063 0.64  0.064 0.078
+Increase Producer prices 2/    100    104   108   112   122   125
+Increase Consumer prices 2/    100    106   110   115   127   130
+Notes: I/Includes all taxes. During 1995,1996, and 1997 tariffs were not adjusted.
+2/Base 100for 1991.
+30.   Gas prices. The price of the gas produced at Miskar is valued at 85% of the FOB
+price of high-sulphur heavy fuel oil. Until 1995, the gas from El Borma was used by STEG
+free of charge for power generation (associated gas with oil production which otherwise
+would be flared). The price of the gas imported from Algeria is linked to a basket of eight
+crudes and its level, in general, has been below the CIF price of high-sulfur fuel oil. Gas
+prices for power generation (which represents over 70% of the total national consumption)
+in general reflect economic costs. This is because Tunisia purchases the bulk of the gas
+consumed in the country from Algeria (at a price which is similar to the one paid by Italy)
+and from British Gas, the private undertaking which developed and now operates the
+Miskar off-shore gas field (Table 1.10).
+Table 1.10. Evolution of gas prices over the period 1991-1997
+Category                  1991  1992  1993  1994  1995  1996  1997
+1. Miskar (TD/toe)        n.a.  n.a.   n.a.  n.a.  77    83   91
+2. Algerian gas (TD/toe)  113    91    79    73    81    89   98
+
+
+
+12
+31.   Retail gas tariffs. The Government also increased retail gas tariffs by 10% in
+August 1992, 8.6% in October 1993, and 4.7% in June 1994. The Government did not
+authorize increases during 1995, 1996, and 1997. When gas price increases took place, they
+were higher than the ones authorized for electricity prices. Retail prices, in particular for
+medium and low-pressure consumers, are above economic costs (about 30% for low-
+pressure consumers). This has prevented to some extent the rapid development (including
+conversion) of the gas sector. STEG's gains from its gas operations continue to subsidize
+the power activities. In this regard, GOT failed to comply with its undertakings with the
+Bank under the Guarantee Agreement.
+Table 1.11. Evolution of gas tariffs over the period 1991-1997
+Category                       1991  1992  1993  1994  1995  1996  1997
+1. High pressure (TD/toe)      109   109   112   122   124   124   124
+2. Medium pressure (TD/toe)    122   122   128   149   153   153   153
+3.Lowpressure(TD/toe)          146   146   152   177   182   182   182
+4.Average(TD/toe)               107   112   117   128   131   135   N.A.
+Note: Includes all taxes.
+Training
+32.   The training component was vaguely defined in the SAR and it provided funding
+for training STEG's staff abroad in the area of SCADA systems, sales engineering, and gas
+conversion technology. During project implementation STEG decided, with the Bank's
+concurrence, that the loan proceeds available for this purpose would be not utilized to the
+extent that bilateral technical assistance, mainly through Gaz de France, Italgas, and British
+Gas, was available at better financial terms than the Bank, most of them non-reimbursable.
+Thus the training component included in the loan was provided through the latter
+arrangements. Although under different funding, it is considered that this project component
+was duly implemented and that it had the intended impact on STEG.
+Project Costs
+33.   The project was completed at a cost of about US$77.5 million, of which US$60.3
+million (or 78%) was the foreign exchange component. The actual cost of the project is
+21.4% lower than the original estimate at appraisal, which was US$98.6 million. It should
+be noted that the above costs are not comparable since the actual cost includes
+
+
+
+13
+expenditures corresponding to project administration (US$1.5 million) and to
+pipeline/valves inspection (US$ 1.1 million), which were not included in the original
+estimate made at appraisal. Furthermore, the conversion program was financed by the
+industrial undertakings and the scope of the maintenance equipment/vehicles component
+was reduced. Nevertheless, the 21.4% project cost underrun in dollar terms was due
+mainly to a significant reduction in the cost of the civil works and the installation of the
+pipelines (pipelaying) as a result of the very favorable contract conditions obtained from
+the competitive bidding (about US$10 million equivalent in savings) and to lower import
+tax rates applied to the project's foreign supplies (about US$7 million).
+Project Financing
+34.   The Bank financed US$59.47 million (about 77% of the US$77.5 million project
+financing requirement). STEG financed the balance, or US$ 18.03 million (23%). The
+contribution of local funds to project financing was not a problem since it represented less
+than 2% of STEG's financing requirements for the period 1991-1997.
+Project Economic Performance
+35.   The project's economic performance was reevaluated using the method described
+in the SAR; i.e., by calculating the internal rate of return of the stream of net benefits. Net
+benefits of the program were taken as the difference between (a) the actual project capital
+costs plus the actual charges financed either by STEG or consumers for
+connection/conversion works. Furthermore, the cost of gas was based on actual import
+prices from Algeria as well as on actual purchase price for the gas of Miskar. Gas
+transport costs were estimated at 5 TD/toe and the pipeline operational costs at 2% of the
+investment; and (b) the savings resulting from the project were measured by the value of
+the refined products (63% high sulfur fuel oil, 20% gas oil, 12% low sulfur fuel oil, and
+5% LPG) displaced by the incremental natural gas available as a result of the project.
+Furthermore, the benefits due to the interconnection of the Miskar gas field as well as the
+ones due to the positive environmental impact and to the consumers' convenience were
+added. The refined products were valued at border prices adjusted for the delivery at the
+consumer gate. The actual economic rate of return is 31%, lower than the appraisal
+estimate of 38%. At appraisal, the estimated benefits of the Miskar off-shore gas field
+(which were valued on the basis of prevailing and projected international prices of heavy
+fuel) were overestimated (Part II, Table 12).
+C. Implementation Record and Major Factors Affecting the Project
+36.   The implementation of the physical components included in the project and the
+performance of STEG and of its different contractors were highly satisfactory. The
+project was instrumental in enhancing STEG's institutional capacity in the gas activities,
+although the conceptual design of the SCADA system was not implemented. Regarding
+
+
+
+14
+STEG's financial performance, the overall financial objectives set with the Government
+and STEG under the project were met; however, the major factor affecting the promotion
+of economic pricing policies, in particular for electricity and gas, was the Government's
+lack of commitment to implementing tariff adjustments.
+37.   The Government and STEG were fully committed to carrying-out the physical part
+of the project; however, the Government was quite tepid in implementing the measures
+needed to improve the financial performance in STEG's electricity activity; e.g., it did not
+provide financial autonomy to STEG to allow the recovery of cost of service through
+proper and timely electricity tariff adjustments and to level retail prices for gas
+consumers.
+38.   Procurement of goods and services was carried-out on schedule. STEG's bidding
+documents fully met the Bank's procurement requirements and the processes utilized for
+selecting suppliers, contractors, and services were in line with the Bank's competitive
+bidding guidelines. During project implementation nineteen contracts were issued, of
+which sixteen were reviewed and financed by the Bank. STEG financed the balance.
+Except for two small contracts for the supply of telecommunication and control
+equipment, the supply of goods and the installation/civil works were commissioned on
+schedule. The performance of suppliers and contractors was satisfactory, the supply of
+goods and services was of good quality, and STEG's technical staff performed
+satisfactorily in supervising the supplies and the works. STEG carried out the physical
+components included in the project in a very satisfactory manner. The loan closing date
+was extended by one year, and the project was completed except for the SCADA
+conceptual design.
+39.   Loan disbursement was slow at the initial stage of project implementation when
+compared to the appraisal estimate. Disbursements began with a delay of about one year
+and reached a cumulative level of about 71% of the appraisal estimate three years after
+loan approval. The slow initial pace of disbursement was due to a delay of some ten
+months in declaring the loan effective. The Bank extended the loan closing date by one
+year to June 30, 1997 in order to allow payments for retention (guarantees) to suppliers
+and contractors. At the time of the last disbursement on November 12, 1997, US$59.47
+million, or 99.1% of the loan, was disbursed. The balance of US$530,523 was canceled.
+40.   To facilitate disbursements and payments to some of the suppliers, the Bank and
+the Government originally agreed that a Special Account was to be opened in the
+Treasury. During project implementation, the Bank and STEG agreed not to open this
+account in local currency because all contracts financed under the Bank loan were
+awarded to foreign suppliers and contractors. The commercial terms of their contracts
+required payment in foreign currencies and, in general, through letters of credit.
+Therefore, the Bank paid all suppliers and contractors under the sixteen contracts.
+
+
+
+15
+D. Bank Performance
+41.   Overall project preparation and appraisal were satisfactory. The main
+components of the project, which included the main pipeline M'saken-Gabes, the
+spurlines to Sfax, Jemmel, Agareb, and the pipelines to enhance the security of gas
+supply within the Tunis loop, were key elements to further develop the existing gas
+network and meet the country's natural gas demand. However, as in the previous
+operation (Loan 1864-TUN), the project did not include a well-defined description and
+targets for the conversion component. Although this component was smaller than in the
+previous loan, it should have explicitly defined, based on a sound survey, a realistic
+program, and the type and number of conversions to be achieved each year. As a result,
+only four (out of fourteen) industrial undertakings were able to convert their facilities for
+the usage of gas. Furthermore, the Bank did not consider GOT's performance under
+previous loans concerning pricing policies and compliance with its commitment to adjust
+tariffs. These aspects should have been taken into account in preparing and appraising
+the project and the Bank should have required from GOT to increase power tariffs and
+lower retail prices for gas to economic levels, all as an up front condition for approval of
+the loan.
+42.   The participation and support provided by the Bank to the Government and STEG
+during project identification, preparation, and appraisal was satisfactory and efficient.
+The Bank carried-out one identification, two preparation and one appraisal missions
+during the period April 1989 through March 1991. Furthermore, staff allocation between
+project identification and loan approval amounted to about 110 staff-weeks, costing about
+US$317,100. The collaboration between the Tunisian authorities and the Bank during this
+period was remarkable. The loan was approved in November 1991, signed in May 1992,
+and became effective in September 1992.
+43.   The Bank conducted a yearly supervision of the project. Over the 4 year-period
+November 1992 to December 1996, five field supervision missions were carried-out. The
+resources allocated during project implementation amounted to about 47 staff-weeks, at a
+cost of about US$178,500. The frequency of supervision missions was adequate given
+that STEG had an excellent project implementation team, its suppliers and contractors
+performed adequately, and in general the project was problem free, except for the poor
+financial performance of STEG's electricity activity. Throughout the implementation of
+the project, Bank supervision was satisfactory. However, the Bank should have strictly
+enforced compliance with the covenants regarding increases of electricity tariffs and
+adjustments of retail prices of gas in order to prevent the project from departing from some
+of its institutional objectives.
+
+
+
+16
+E. Guarantor and Borrower Performance
+44.   Project preparation and implementation by STEG  was very efficient and
+satisfactory. STEG prepared the project during the period 1990-1991, when project
+engineering design and technical specifications were completed. It took the Government
+about ten months to meet the conditions for loan effectiveness. As mentioned above,
+procurement of goods and services was carried-out on schedule and the Government
+assisted STEG during project implementation as necessary. The project was completed on
+schedule and the bulk of the project components were executed in a timely manner.
+Although the loan agreement provided for STEG to complete the project within six years
+(the bulk of the facilities were commissioned within the original time frame), the loan
+closing date had to be extended by one year in order to pay some of the retention
+(guarantee) amounts due to suppliers. The key indicators of project implementation are
+included in Part II, Table 5.
+45.   On the negative side, the Government did not increase electricity tariffs during
+1995, 1996, and 1997, despite the Bank advice regarding the importance of increasing
+electricity tariffs and eliminating subsidies at a fast pace. Unfortunately, this lack of
+compliance by the Government occurred at the later stages of project implementation and
+Bank management was reluctant to use remedies given the imminent closing of the loan.
+This situation was reported by the supervision missions, which raised this issue and
+informed the Tunisian authorities. Furthermore, GOT failed to level retail gas prices to final
+consumers. Part II, Table 13 includes the Status of Covenants.
+46.   In view of the above considerations, the overall performance of STEG is considered
+highly satisfactory because of the very good accomplishments of the Borrower (albeit with
+some minor delays) in implementing the physical components of the project. However,
+given the great importance that the Bank attached to STEG's electricity operations, the
+overall performance of the Guarantor during project implementation is considered
+marginally satisfactory, except on financial matters, for which its performance is considered
+unsatisfactory on account of the failure to comply with important financial covenants
+undertaken with the Bank and with STEG.
+F. Assessment of Project Outcome and Sustainability
+Project Sustainability
+47.   The prospect for the project to be sustainable is certain. Despite the lack of full
+action by the GOT regarding adjustment of electricity tariffs and lowering retail gas
+prices, this assessment considers the sustainability of the project benefits assured. This is
+based on the following: (i) the project's actual rate of return is adequate; (ii) the facilities
+built under the project are paramount to the objectives of reducing gas imports from
+
+
+
+17
+Algeria, replacing the use of polluting/less efficient liquid fuels, and supplying additional
+gas to the market in the south; (iii) STEG was able to further enhance adequate
+institutional capacity to expand and operate its gas activities and to implement
+satisfactory national standards for gas transportation and distribution; and (iv) the current
+financial situation of STEG's gas activities as well as the corresponding prospects are
+satisfactory.
+Project Outcome
+48.   The outcome of the project is satisfactory. The project has been successfully
+completed while achieving the bulk of its objectives. This assessment is supported by the
+following: (i) the facilities financed under the loan were commissioned in a timely
+manner and at lower costs than expected at appraisal; (ii) the economic rate of return of
+the project is adequate; (iii) STEG's consolidated performance and compliance with
+major covenants was, in general, satisfactory; (iv) STEG's overall institutional capacity
+and its coordination with sector entities continues to be satisfactory; and (v) the
+sustainability of the project is certain.
+G. Future Project Operation
+49.   The country's increasing demand for gas, STEG's institutional capacity, and the
+existing pricing policy for petroleum products, provide an adequate environment for
+establishing a satisfactory program for future project operation. Key performance indicators
+for project operation are included in Part II, Table 6.
+50.   Furthermore, the ongoing program for promoting private investment in the sector is
+expected to enhance the environment for satisfactory operation of the project. The existing
+concession extended to British Gas for the exploration/operation of the Miskar gas field and
+the proposed Independent Power Producer arrangement for the combined-cycle power plant
+at Rades (under negotiation with the consortium Community Alternative Energy-Marubeni-
+Sithe) are illustrative of GOT's willingness to open the sector to private investors. To the
+extent that future power generation is likely to be undertaken by private investors and that
+power plants will further operate utilizing natural gas, it is expected that this will provide
+the adequate inducement to GOT to adopt electricity and retail gas prices which duly reflect
+economic and market principles.
+H. Key Lessons Learned
+51.   Despite the satisfactory implementation of the project, there are four lessons (one of
+which is not new to Bank operations) that can be offered:
+
+
+
+18
+Lesson 1: The lack of legal enforcement of the contract between the Government
+and STEG ("Contrat-Programme") did not allow the utility to improve the finances
+of its electricity operations. In this respect, this contract was not an useful tool for
+achieving the intended objectives. In the absence of the corresponding legal
+instruments, this contract was somewhat helpful for establishing roles and
+promoting some dialogue between STEG and GOT. In general, the validity of these
+agreements is questionable and its effectiveness is minimal.
+Lesson 2. GOT did not comply at the later stages of project implementation with its
+commitment to adjust electricity tariffs and Bank management was reluctant to
+enforce the corresponding covenants. Bank management and staff should strictly
+enforce compliance with critical covenants to prevent the project from departing
+from some of its institutional objectives as well as to preserve the Bank's credibility,
+irrespective of considerations such as closing dates.
+Lesson 3. The conversion component of the project did not include a well-defined
+description and targets. As a result, only four (out of fourteen) industrial
+undertakings were able to convert their facilities to use gas. In general, the project
+design should very detailed and comprehensive. In particular, this project
+component should have explicitly defined, based on a sound survey, a realistic
+program and the type and number of conversions to be achieved each year.
+Detailed and comprehensive project description and implementation targets are
+essential.
+Lesson 4: The lessons from previous gas projects in Tunisia, in particular those
+concerming pricing policies and compliance with the commitment to adjust tariffs,
+should have been taken into account in preparing and implementing the project.
+Under Loan 3418-TUN, the Bank should have required from GOT to increase
+power tariffs and lower retail prices for gas to economic levels, all as an up front
+condition for approval of the loan.
+
+
+
+19
+IMPLEMENTATION COMPLETION REPORT
+REPUBLIC OF TUNISIA
+GAS INFRASTRUCTURE DEVELOPMENT PROJECT
+(Loan 3418-TUN)
+PART II: STATISTICAL TABLES
+Table 1: Summary of Assessment
+A. Achievement of       Substantial      Partial        Negligible    Not applicable
+objectives
+Macro-economic policies                                                        X
+Sector policies                                                 X
+Financial objectives                            X
+Institutional development                       X
+Physical objectives             X
+Poverty reduction                                                              X
+Gender concerns                                                                X
+Other social objectives                                                        X
+Environmental objectives                                                       X
+Public sector management                        X
+Private sector development      X
+B. Project sustainability       Likely              Unlikely           Uncertain
+Operational& Policy                 X                           L    L_L          _
+C. Bank performance      Highly satisfactory     Satisfactory          Deficient
+X x
+Identification                                           X
+Preparation assistance                                   X
+Appraisal                                                X
+Supervision                                              X
+E D. Guarantor performance  Highly satisfactory  [   Satisfactory    |    Deficient
+Covenant compliance       l                     [                  J        X
+E. Borrower performance      Highly satisfactory    Satisfactory         Deficient
+Preparation                                              X
+Implementation                      X
+Covenant compliance                                      X
+Future Operation                                         X
+
+
+
+20
+Table 1: Summary of Assessment (continued)
+F. Assessment of outcome     Highly      Satisfactory   Unsatisfactory    Highly
+Satisfactory      XUnsatisfactory
+x
+Table 2: Related Bank Loans
+Loan No.                  Title                Amount   Date of Approval         Status
+_ _ _ _ _ _ _   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (U S $     m ) _ _ _ _ _ _ _ _ _ _
+724-TUN    El Borma-Gabes Pipeline Project       7.50         02/25/1971     Completed
+1864-TUN    Second Natural Gas Pipeline Project  27.00        06/05/1980     Completed
+3418-TUN   Gas Infrastructure Development        59.47         11/26/1991    Subject of this
+Project                                                          ICR
+93.97
+Table 3: Project Timetable
+Steps in project cycle      Date planned                       Actual date
+Identification              N.A.                            12/04/89
+Preparation                N.A.                            03/11/90
+Pre-appraisal               N.A.                            03/12/90
+Appraisal                  N.A.                           03/11/91
+Negotiations                N.A.                            09/30/91
+Board presentation             N.A.                           11/26/91
+Signing                   N.A.                           05/05/92
+Effectiveness               N.A.                            09/25/92
+Project completion           12/31/95                         12/15/97
+Loan closing              06/30/96                          06/30/97
+Last disbursement            12/31/95                         11/05/97
+Table 4: Loan Disbursement: Cumulated, Appraisal Estimate and Actual
+(US$ million)
+l  FY92        FY93        FY94       FY95       FY96      FY97      FY98
+Appraisal    10.0        44.1        55.7       59.5       60.0
+Actual      0.0         3.41       34.31      46.27      49.82     58.12      59.47
+Percent
+of        0.0         7.7        61.6        77.8       83.0     96.9       99.1
+Appraisal
+Date of final disbursement: 11/05/1997
+
+
+
+21
+Table 5: Key Indicators for Implementation of Main Project Components
+Implementation Indicators in SAR             Estimated                    Actual
+- Issuance of bidding documents                April 1992                  March 1992
+- Award of contracts                         September 1992                March 1993
+- Start Construction                          January 1993                 June 1993
+- Commissioning of main components           December 1995               December 1994
+- Final disbursement of Bank's loan          December 1995               November 1997
+- Loan closing date                            June 1996                   June 1997
+
+
+
+22
+Table 6: Key Indicators for Project Operation
+Year
+Indicators for STEG                   Unit       1997 --1998 - 1999 and beyond
+1. Market
+Electricity coverage                        percent
+Customers at year's end - Gas               thousand
+Customers at year's end - Electricity       thousand
+Annual electricity production, STEG, Total:  GWh
+Annual gas purchased                        toe
+Annual electricity purchased, STEG          GWh
+Annual gas sales                            toe
+Annual electricity sales                    GWh
+Annual power load factor                    percent
+Average tariff of gas sold                  TD/toe
+Average price of gas purchased              TD/toe
+Average tariff of electricity sold           TD/kWh
+Average tariff of electricity purchased     TD/kWh
+Fuel-oil price at STEG's power plants       TD/ton
+Gas price at STEG's power plants             TD/ton
+2. Efficiency
+Employees Gas                               number
+Employees per thousand customers - Gas      number
+Employees Electricity                       number
+Employees per thousand customers - Electricity   number
+Sales per employee - Gas                    toe
+Sales per employee - Electricity            MWh
+Power losses                                percent
+Fuel consumption, fuel oil, STEG            gr./kWh
+Fuel consumption, gas, STEG                 kCal/kWh
+Production costs - Gas operations           TD/toe
+Production cost - Electricity operations    TD/kWh
+Availability of thermal plants, STEG        percent
+3. Financial
+Rate of return on assets in operation       percent
+Cash operating margin                       percent
+Self financing                              percent
+Debt service coverage ratio                 number
+Revenues-Expenses for Gas operations        TD
+Revenues-Expenses for Electricity Operations  TD
+Debt/Equity ratio                           number
+Accounts receivable                         months of bill.
+Arrears - Gas                               days
+Arrears - Electricity                       days
+
+
+
+23
+Table 7: Studies Included in Project
+No.      Study           Purpose as defined at appraisal    Status    Impact of Study
+Gas Subsector   To analyze long-term gas demand and  Completed  Not yet known.
+Development    supply, evaluate the sectoral economic  during    Implementation
+and             value of gas, review the institutional  1997.    to start in 1998.
+Rationalization   organization of the subsector, and ensure
+Study          the security of gas supply, along with the
+identification of the least-cost solution.
+
+
+
+24
+Table 8: Project Cost
+(US$ million)
+Appraisal Estimate 1/           Current 2/
+Component Cost        Local   Foreign   Total    Local   Foreign   Total   Change
+Costs    Costs    Costs    Costs    Cost      Cost  (%)
+A. Materials
+1. Pipelines
+-Main & spurs                0.00    27.30    27.30      0.00    32.33    32.33   +18.42
+-Tunis loop                  0.00     0.70     O.70O     0.07     0.72     0.79   +12.86
+-Miskar tap                  0.00     0.00     0.00      0.00     1.94     1.94       n.a
+Total                       0.00    28.00    28.00      0.07    34.99    35.06   +25.21
+2. Valves
+-Main, spurs & loop          0.00     3.60     3.60      0.00     3.33     3.33    -7.50
+3. Regulation/metering        0.00     1.70      1.70     0.08     4.47     4.55  +167.65
+Quality control/telecom.
+Total A. Materials            0.00    33.30    33.30      0.15    42.79    42.94   +28.95
+B. Zriba expansions           0.20     0.70     0.90      0.00     0.34     0.34   -62.22
+C. Construction
+1. Land acquisition           1.70     0.00     1.70      1.00     0.00     1.00   -41.18
+2. Main, spurs, T. loop      17.10    10.00    27.10      6.20    16.07    22.27   -17.82
+Total Construction           18.80    10.00    28.80      7.20    16.07    23.27   -19.20
+D. Consumer conversion        0.80     0.90      1.70     0.00     0.00     0.00  -100.00
+E. Main. equip. & vehicle     0.00     4.00     4.00      0.19     0.26     0.45   -88.75
+F. Training & tech. assist.   0.00     0.60     0.60      0.06     0.38     0.44   -26.67
+G. Inspection 3/              0.00     0.00     0.00      1.09     0.00     1.09       n.a
+H. Engineering & admin.3/     0.00     0.00     0.00      1.00     0.44     1.44       n.a
+I. Taxes & duties            11.80     0.00    11.80      7.53     0.00     7.53   -36.19
+Total base cost              31.60    49.50    81.10     17.22    60.28    77.50    -4.44
+-Physical contingencies     3.20     5.00     8.20      0.00     0.00     0.00       n.a
+-Price contingencies        3.80     5.50     9.30      0.00     0.00     0.10       n.a
+TOTAL PROJECT COST           38.60    60.00    98.60    17.22    60.28    77.50   -21.40
+1/ Costs as of January 1991.
+2/ Final costs as of November 1997. They include physical and price contingencies.
+3/ These project components were not included at appraisal.
+
+
+
+25
+Table 9: Project Financing
+(US$ million)
+Appraisal Estimate                Current Estimate
+Local    Foreign                  Local    Foreign
+Source           Costs       Costs       Total      Costs      Costs      Total
+IBRD                        0.00      60.00        60.00      0.00      59.47      59.47
+STEG                       38.60       0.00        38.60     17.12       0.91      18.03
+TOTAL                      38.60      60.00        98.60     17.12      60.38      77.50
+Table 10: Procurement
+Contract No.    Contract Description                Contractor      Currency      Contract
+Name                         Amount
+G 12-1-5600  CIVIL WORKS AND                     CHINA WATER        US$ + TD           16,994,057+
+INSTALLATION OF GAS PIPELINE        ELECTRIC                                6,627,446
+G 12-I-5590  SUPPLY OF STEEL PIPE                MANNESMANN            US$              32,336,650
+G 12 1 5670   SUPPLY OF STEEL PIPE               MANNESMANN            US$                 549,750
+G 12-1-5640  SUPPLY OF STEEL PIPE FOR MISKAR   MANNESMANN              US$               1,953,050
+G 12 I 5650   PIPELINE COATING                   RAYCHEM -BGS        FF + TD       900,000 + 70,960
+G-12-I-5620  SUPPLY OF STEEL VALVES              COOPER                 FF               9,963,050
+G 12-1-5630  SUPPLY OF STEEL VALVES              PHOCEENNE              FF               3,751,165
+G 12-1-5610  SUPPLY OF STEEL VALVES              N. JAMESBORY           FF               4,947,157
+G 10 I 5690   GAS DEVELOPMENT STUDY              SOFREGAZ            FF + TD      2,082,000 + 62,600
+G 10 1 5700   SUPPLY AND INSTALLATION OF GAS  TECHNOERG                 LIT           2,732,347,000
+REDUCTION EQUIPMENT
+G 10 1 5710  SUPPLY OF EQUIPMENT FOR GAS         SECAUTO                FF               8,088,463
+QUALITY CONTROL
+G 10 1 5720   SUPPLY OF GAS METERING STATIONS NUOVO PIGNONE             US$                997,217
+G 10 1 5730   EQUIPMENT FOR GAS VOLUME           BRISTOL MECI           FF               2,078,516
+CORRECTION
+M 04 34364   VEHICLES                            MITSUBISHI             TD                 190,000
+G 12-1-0140  QUALITY CONTROL                     SUPERVISE              TD               1,068,415
+G12 15660   EQUIPMENT FOR GAS STATION            TORMENE                LIT            350,000,000
+G 10 1 5740   SUPPLY OF EQUIPMENT FOR            BRUNAM                  FF              1,443,657
+MAINTENANCE
+G 10-I-5400  SUPPLY OF TELECOMMUNICATIONS   COMSYSTEMS                  US$                22,855
+EQUIPMENT
+G 10-I-5750  SUPPLY OF TELECOMMTNICATIONS   TTS                          TD                94,729
+EQUIPMENT
+
+
+
+Table 11: Summary of Financial Performance
+(TD miillion)
+199'12             1993       _       1994                1995               1996
+Appr.  Actual      Appr.  Actual      Appr.  Actual       Appr.  Actual      Appr.  Actual
+Income Statements
+- Revenues                   349      358        385     402        448     446         513     484        562      516
+- Expenses                   221      227        252     273        287     309         346     304        400      325
+Operating Cash Flow           128     131        133     129        161      137        167     179        162      191
+Amortization, Financial       102     112        113     135        128      154        138     190        145      166
+and Other Charges
+Net Income                    26       19         20   (6)           33  (18)           29       11         17       25
+Sources and____
+Applications of Funds____                                                                                  
+- Sources                                 ____a
+Cash FlowfromOper.          126      129        129     129        155     137        161      173        156     174
+Consumers Contrib.           38      51          37      52         42      55         41       68         41      65
+Borrowings                   99       19        131     116        124     158         91       23         80      40
+Others                        2       5          26      12         11       8         39        5         34       6
+Total Sources                265      203        323     310        332     357        332      269        311     285
+- Applications                                          ____
+Investments                 199     117        206      225        221     263        206      133        176     154
+Debt Service                 67      75          72      78         97      77        105       94         99     108
+Others                       10        1         10       6          7      10         30       17         10       4
+Total Applications           276      192        288     309        325     349        341      244        285     267
+Inc./Decr. in Cash          -11      11         35        1          7       8          -9      25         26      19
+
+
+
+Table 11: Summary of Financial Performance (Continued)
+(TD million)
+1992               1993               1994               1995               1996
+Appr.  Actual      Appr.  Actual      Appr.  Actual      Appr.  Actual      Appr.  Actual
+Balance Sheet
+- Net Fixed Assets          1039     905       1153    1208 _    1268    1373        1360    1416        1414    1465
+- Current Assets             182     238        211     232        225     235        247      285        283     328
+Total Assets                1221    1143       1364    1440       1493    1608        1607    1701       1697    1793
+- Equity                     632     593        672     760        729     787        778      865        815     953
+- Long and Medium            407     323        504     418        574     539        608      523        634     498
+Term Debt
+- Current Liabilities        182     227        188     262        190     282        221      313        248     343
+Total Equity and Liabilities  1221    1143 _   1364    1440 _     1493    1608        1607    1701       1697    1793
+Performance Indicators
+Self-financing Ratio          33      40         27      26         30      20         31       40         40      42
+Debt Coverage Ratio           1.9    1.67 _      1.8    1.36_       1.6    1.68 _      1.5    1.85_       1.6    1.68
+
+
+
+Table 12: Economic Analysis
+(TD million)
+YEAR_                COSTS __                                               E N BENEFITS                           Net  _  Net
+_______   _______  _____    ________                                  ~~~~~~~~    ~~~~~~~Benefit  Benefit   _ _ _ _
+C_ pta -_ Opeati Q tn    Tnsot     Thtall            Sav ings   Consumer _Environ.    Miscar      Total      with        without __
+_____ __     _                     _  Premium      Benefits   Benefits __     _    Miskar   __ Miskar
+1993     19.86  _        _          _      19.86                  _         _                                      -19.86      -19.86,
+1994     33.24                             33.24                                                      .            -33.24      -33.24
+1995 _  11.16         1.55 _      3.00 _   15.71             4.18        0.81       1.39      0.0i      6.38        -9.33       -9.34
+1996 =    3.82        1.55        3.33 =   8.695            11.16        1.62       3.64      3.99     20.41 =      11.71        7.72
+1997      9.42        1.55        7.10     18.07            21.87        2.42       8.68      9.94     42.91        24.84       14.90
+1998                  1.55        7.70 _    9.25            21.87        2.42       8.68     10.78     43.75 _      34.50       23.72
+1999                  1.55        7.70      9.25            21.87        2.42       8.68     10.78     43.75        34.50       23.72
+2000                  1.55        7.70 =    9.25            21.87        2.42       8.68     10.78     43.75 =      34.50       23.72
+2001                  1.55        7.70      9.25            21.87        2.42       8.68     10.78     43.75        34.50       23.72
+2002 _         _      1.55        6.75 _    8.30,           21.87        2.42       8.68_    9.45      42.42 _      34.12       24.67
+2003                  1.55        6.75 =    8.30            21.87        2.42       8.68      9.45     23.76        15.46        6.01
+2004                  1.55        6.75      8.30            21.87        2.42       8.68      9.45     42.42        34.12       24.67
+2005 -                1.55        6.75 _    8.30            21.87        2.42_    8.68        9.45     42.42        34.12       24.67
+2006- _    _          1.55        6.75 _    8.30            21.87        2.42       8.68      9.45     42.42        34.12       24.67
+2007                  1.55        6.75      8.30            21.87        2.42       8.68      9.45     42.42        34.12       24.67
+2008 _  _      _      1.55        6.75      8.30            21.87        2.42       8.68_    9.45      42.42        34.12       24.67                co
+2009  _        _      1.55        6.75 _    8.30            21.87        2.42       8.68      9.45     42.42        34.12       24.67
+2010 _                1.55        6.75 _    8.30            21.87_       2.42       8.68      9.45     42.42        34.12       24.67
+2011      _           1.55        5.00      6.55            21.87        2.42       8.68      7.00     39.97        33.42       26.42
+2012                  1.55        5.00      6.55            21.87        2.42       8.68      7.00     39.97        33.42       26.42
+2013                  1.55        5.00      6.55            21.87        2.42       8.68      7.00     39.97        33.42       26.42
+2014                  1.55        5.00 _    6.55            21.87        2.42       8.68      7.00     39.97 _      33.42       26.42
+2015                  1.55        5.00      6.55.   21.87                2.42       8.68      7.00     39.97        33.42       26.42
+Net Present Value:           __      _      138.4 TD million
+Internal Rate of Retum:  v - = - 3          31% _= -_-                              _    _    _     _    _ _        ==
+
+
+
+29
+Table 12: Economic Analysis (continued)
+ASSUMPTIONS:
+Capital Costs: TD 77.5 million
+Transport Costs: 5 TD/toe
+Operation Costs: 2% of capital costs
+Substitution                Price TD/toe
+1995     1996      1997
+H.S. Fuel (63%)          90        98       107
+L.S. Fuel (12%)          103      117       134
+Gas-oil  (20%)           141      179       224
+LPG    (5%)             166       205       252
+Algerian Gas             81        89        98
+Miskar Gas               77        83        91
+Environmental Benefit    13        19        27
+Consumer s Premium: 5 TD/toe
+Savings of project: 85% of 600 Toe = 510 toe/year (Appraisal estimate)
+Benefits of Miskar = Substitution for imports from Algerian
+Ye_ar      toe-
+1995        2
+1996      665
+1997     1420
+1998-2001     1540
+2002-2010     1350
+2011-2015     1000                                 .
+
+
+
+30
+Table 13: Status of Main Legal Covenants
+GUARANTEE
+AGREEMENT   Status   Date              Covenant Description          Comments
+SECTION
+3.01 (B)           C               Set gas prices to allow gas    Complied during
+companies to operate under sound  1994 ,1995, and
+financial principles           1996
+3.02               C                                              Complied during
+Maintain domestic market prices   1994, 1995, and
+for refined petroleum products  1996
+which reflect economic costs
+3.03              NC   Annually  Adjust electricity tariffs on the  GOT failed to
+basis of LRMC                  increase tariffs
+during 1995, 1996,
+__ ____     _ ______ _ ___________________________  and  1997
+3.04              NC   Annually  Adjust gas tariffs on the basis of   Retail tariffs were
+LRMC                           not leveled and
+they were well
+above LRMC levels
+3.05              NC               GOT and STEG to carry-out      GOT failed to
+"Contrat-Programme"            comply with
+"Contrat-
+Programme"
+_________________  _______                        (power tariffs)
+Key to Status:
+C     = Complied with
+NC    = Not complied with
+CP    = Complied with partially
+
+
+
+31
+Table 13: Status of Main Legal Covenants (Continued)
+LOAN
+AGREEMENT   Status   Date              Covenant Description          Comments
+SECTION
+5.01 (b) (ii)      C    Annually  Submit each year audited records,  STEG submitted
+accounts and financial statements  audited reports on
+from independent auditors      schedule
+5.02 (a)           C               Internal cash generation of 25% in  Complied with
+1991, 1992 and 1993 and 30%    except for 1994
+thereafter
+5.03 (a)           C               Debt service ratio no lower than    Complied with
+1.5                            except for 1993
+Sched 2, B-1       C               Carry-out study: Gas Sector    Study completed;
+Development and Rationalization   implementation
+starts 1998
+5.04               C               Separate financial statements for   STEG for the first
+Gas and Electricity           time published
+separate audited
+accounts for its
+electricity and gas
+L_____ _________                                 operations in 1995
+5 .05             CP               Earn positive net income       Complied with for
+STEG consolidated
+net income and of
+its gas activity.
+Failed to comply
+for its electricity.
+activity
+Table 14: Compliance with Operational Manual Statements
+All the statements of operation manual have been complied with.
+Table 15: Bank Resources: Staff Input
+Stage of            Planned               Revised               Actual
+Project Cycle    Weeks       US$       Weeks        US$      Weeks       US$
+n.a.      n.a.       n.a.        n.a.
+Through Appraisal     n.a.      n.a.        n;a.       n.a.         77.6   214,800
+Appraisal             n.a.      n.a.        n.a.       n.a.         17.9    54,200
+Appraisal-Effectiv.   n.a.      n.a.        n.a.       n.a.         14.3    48,200
+Supervision           n.a.      n.a.        n.a.       n.a.        42.7    161,600
+Completion            4.6      17,000       n.a.       n.a.         4.6      17,000
+TOTAL                                                              157.1   495,800
+
+
+
+32
+Table 16: Bank Resources: Staff Missions
+Stage of     Date    Number  Days  Specialized  Implement  Implement.  Types of
+Project                  of      in    Staff Skills  Developmt.  Developmt.  Problems
+Cycle                 Persons  Field  Represented    Status       Objectives
+Identification   12/04/89   5       10    E, Ec, Sp,      n.a.         n.a.
+_ _ _ _ _ _   _ _ _ _ _ _F A                  _  _  _  _
+Preparation    03/11/90     1       5      Env (C)        n.a.         n.a.
+Pre-appraisal  03/12/90     1       12-       Sp          n.a.         n.a.
+Appraisal     03/11/91      3       10    Sp, E, FA
+Appraisal to    No
+Loan          missions
+Effectiveness
+Supervision 1  02/10/93     2       7       E, FA           1            1       None
+Supervision 2  01/30/94    2        5       E, FA           1            1       None
+Supervision 3  001/23/95    1       5         E             I            I       None
+Supervision 4  05/27/96     1       8         E             1            1       Compliance
+w/ covenants
+was rated 2.
+Lack of tariff
+increases.
+Supervision 5  12/02/96     2       4       E, FA          S            U        Financial
+Performance
+rated U. Lack
+of tariff
+increases
+Key to specialized staff skills:                 Key to ratings: Implementation status
+E     = Engineer                                 as shown in Supervision Form 590:
+Ec    = Economist                                1= no significant problems
+FA    = Financial Analyst                        2= moderate problems
+L     = Lawyer                                   3= major problems, actions being taken
+Sp    = Specialist                               4= major problems, actions yet to be addressed
+C     = Consultant
+Env   = Environmental
+Key to ratings: Development objectives           S  = Satisfactory
+as shown in Supervision Form 590:                U  = Unsatisfactory
+1= all objectives substantially achieved         n.a. = not available
+2= major objectives achieved, minor objectives remain
+3= major objectives are likely to be achieved
+4= major objectives not achieved
+
+
+
+APPENDIX A
+AIDE MEMOIRE OF THE ICR MISSION
+
+
+
+TUNISIE
+PROJET DE DEVELOPPEMENT DE L'INFRASTRUCTURE
+GAZIERE (PRET 3418-TUN)
+MISSION DE PREPARATION DU RAPPORT D'ACHEVEMENT DU PROJET
+AIDE-MEMOIRE
+1.          Une mission de la Banque Mondiale, compos6e de M. Jorge A. Larrieu, a visite la
+Tunisie du 8 au 15 decembre 1997 pour preparer le Rapport d'Achevement du projet de
+D6veloppement de l'Infrastructure Gaziere finance par le pret 3418-TUN. La mission remercie les
+representants de la Direction Generale de l'Energie du Ministere de l'Industrie et de la Direction
+Gen6rale de la Cooperation Intemationale du Ministere de la Cooperation Intemationale et de
+l'Investissement Exterieur, ainsi que ceux de la STEG, pour la collaboration efficace et l'accueil qui
+lui ont et6 reserves. L'aide-memoire r6sume les principaux sujets discutes et les accords conclus lors
+de cette mission. La liste des personnes rencontrees se trouve en Annexe 1.
+Rapport dAch&vement du Projet
+2.          La mission a confirme aux representants de la Direction Generale de l'Energie du
+Ministere de l'Industrie, de la Direction Generale de la Cooperation Internationale du Ministere de
+la Cooperation Intemationale et de l'Investissement Exterieur, et de la STEG que, selon les
+directives et accords des prets de la Banque mondiale, les beneficiaires des prets de la Banque sont
+responsables de preparer un rapport d'achevement du projet. Le rapport doit etre prepar6 au plus
+tard six mois apres la cl6ture dudit pret et il doit etre pr6par6 conjointement avec le rapport
+d'achevement de la Banque.
+3.          Le rapport de l'emprunteur est la derniere etape de suivi du projet. Conformement
+aux directives de la Banque, il a e  convenu avec la STEG que le rapport d'achevement sera
+soumis A la Banque avant le 31 decembre 1997. La mission a encourage les autorites responsables A
+saisir cette opportunit6 pour faire une evaluation retrospective de l'execution du projet, de presenter
+leurs points de vue independants et de preciser dans quelle mesure le projet a atteint ses objectifs
+(physiques, institutionnels, financiers, et sectoriels), et de manifester librement leurs opinions sur la
+qualite de la participation de la Banque.
+4.          La mission a confirme aux autorites que le rapport d'achevement est en cours de
+preparation par la Banque et qu'elle annexera le rapport pr6pare par la STEG et les commentaires
+des autorites tunisiennes sur la partie prepare par la Banque. Ces annexes seront incorpores sans
+modification. Le rapport final sera transmis aux membres du Conseil d'Administration de la
+Banque et aux autorites responsables des Minist&res de l'Industrie et de la Cooperation
+Intemationale et de l'Investissement Exterieur, et de la STEG.
+
+
+
+5.           Les rapports d'achevement de la STEG et de la Banque devront faire le point sur les
+realisations physiques, la passation de marches, les decaissements du pret, les etudes realisees, la
+negociation et application du "Contrat-Programnme" entre le Gouvernement et la STEG. Par
+ailleurs, il sera opportun que le rapport de la STEG exprime les raisons pour lesquelles le "Contrat-
+Programme" n'a pas accompli les objectifs financiers envisages pour F'activite electricite de la
+STEG (tarifs et r6sultat net). I1 faut remarquer que 1'evaluation de l'achevement des objectifs
+physiques, institutionnels, et financiers envisages initialement est une partie importante et critique
+des rapports. Les rapports devraient inclure aussi des opinions sur la qualite de la participation de la
+STEG, des autorites responsables du secteur, de la Banque, et des fournisseurs des services et des
+equipements.
+Indicateurs de Performance du Projet et de la STEG
+6.           La STEG utilise deja un ensemble d'indicateurs operationnels, financiers, et de
+gestion qui permettent de suivre et d'evaluer sa performance. La mission encourage que les
+indicateurs de performance inclus dans l'annexe 2 soient utilises pour evaluer la performance future
+de la STEG et celle du projet.
+Tunis, le 13 decembre 1997
+Jorge A. Larrieu
+Representant de la Banque Mondiale
+
+
+
+Annexe 1
+TUNISIE
+PROJET DE DEVELOPPEMENT DE L'INFRASTRUCTURE
+GAZIERE (PRET 3418-TUN)
+MISSION DE PREPARATION DU RAPPORT D'ACHEVEMENT DU PROJET
+LISTE DES AUTORITES
+NOM                              AGENCE/MIhNISTERE
+M. K.Ben Rejeb                   Directeur General de la Cooperation Intemationale,
+Ministere de la Cooperation Internationale et de
+l'Investissement Exterieur
+M. B. Nahdi                      Directeur General de 1'Energie,
+Ministere de l'Industrie
+M. M. Mouelhi                          President Directeur General
+STEG
+M. 0. Ben Arfa                   Directeur General Adjoint
+STEG
+M. A. Ajra                       Directeur Electricite et Gaz
+Ministere de l'Industrie
+M. J. Ben Salah                  Directeur Gaz, STEG
+M. M. Amor                       Directeur Financier, STEG
+M. S. Menchoul                   Chef Equipement Gaz, STEG
+M. A. Dachraoui                  Chef du Projet Gazoduc, STEG
+M. M. Bouziri                    Chef, Etudes Financieres Gaz, STEG
+
+
+
+Annexe 2
+page No. 1
+TUNISIE
+PROJET DE DEVELOPPEMENT DE L'INFRASTRUCTURE
+GAZIERE (PRET 3418-TUN)
+INDICATEURS DE PERFORMANCE
+Pour l'Activite Electricite
+Nombre d'abonnes par categorie
+Nombre d'agents
+Nombre d'agents pour mille abonnes
+Production annuelle (propre plus achats - Gwh)
+Demande (MW)
+Ventes annuelles (GWh)
+Ventes annuelles pour agent (kWh)
+Tarif moyen (DT/kWh)
+Augmentation moyenne annuelle des tarifs (%)
+Cofit moyen d'exploitation (DT/kWh)
+Pertes d'energie (°/O)
+Taux de rentabilit6 (%)
+Taux d autofinancement (%)
+Ratio de couverture de la dette
+Resultat net (DT)
+Investissement annuel (DT)
+Pour I'Activite Gaz
+Nombre d'abonnes par categorie
+Nombre d'agents
+Nombre d'agents pour abonnes
+Ventes annuelles (TEP)
+Ventes annuelles pour agent (TEP)
+Tarif moyen (DT/TEP)
+Augmentation moyenne annuelle des tarifs (%)
+
+
+
+Annexe 2
+page No. 2
+Cofit moyen d'exploitation (DT/TEP)
+Taux de rentabilite (%)
+Taux d autofinancement (%)
+Ratio de couverture de la dette
+Resultat net (DT)
+Investissement annuel (DT)
+
+
+
+APPENDIX B
+BORROWER'S COMPLETION REPORT
+
+
+
+' ]P'I,4|2'VX3~"IM7 -T4  v: E xA: F vs
+SOCIETE 7UNISIENNE DE L 'ELECTRICITE ET DU 64?
+RAPPORTD A CHEIVEMEYT DU PROJE T
+DEVELO.PPEMNT DE L 'LNlIASIIUJCTURE
+PRET BIRD 3418 - TUN
+UJIOIRIC N'SAIEN - URSES
+IT EXTINSIOGI1 IA R BOOMEIBE TIS
+f                                    D0cembre 1997
+
+
+
+SOMMAIRE
+I- INTRODUCTION
+II- DEROULEMENT DU PROJET
+III- UTILISATION DU PRET
+IV- SUIVI DU PROJET PAR LA BIRD
+V- EXECUTION ET SUIVI DU PROJET
+VI- APPORT DU PROJET
+VII- APPRECIATIONS ET CONCLUSIONS
+VIII- ANNEXES
+- Annexe 1 : Tableau recapitulatif des marches passes
+- Annexe 2 : Ecart entre estimations initiales et cofit reel du projet
+- Annexe 3 : DIcaissements trimestriels sur le pret BIRD 3418 TUN
+- Annexe 4: Schema du gazoduc, ligne MSAKEN-GABES
+- Annexe 5: Carte de reseau gaz
+
+
+
+I- INTRODUCTION
+Le projet de developpement de l'infrastructure gaziere en Tunisie a eci
+pour r6pondife aux objectifs suivants:
+- suppleer le gaz d'EL BORMA, en de&lin, qui alimentait les z8nes industrielles c
+centrales electriques de la region de GABES depuis plus de 20 ans.
+- developper un reseau d'infrastructure pour le gaz sur environ 250 Km des reg
+cbtires du pays afin d'encourager la p-netration du gaz naturel particulirei
+dans l'industrie et le tertiaire pour le remplacement du gasoil et du GPL.
+- interconnecter les reseaux gaz Nord et Sud du pays afin de permetti
+developpement de gisements nationaux de gaz et d'optimiser la gestion
+approvisionnements et des disponibilites nationales en gaz.
+- d6velopper une strategie appropriee destin&e an d6veloppement du secteur du ga
+Dans le cadre du developpement de l'infrastructure gaziere en Tunisie
+programme dans le VIII eme plan, un pret d'un montant de 60 millions de
+dollars a ete octroye par la BIRD  a la STEG pour fmancer la part devises du
+projet du gazoduc MSAKEN-GABES et 1'extension de la boucle de TUNIS.
+II- DEROULEMENT DU PROJET
+I1 Descriptif du proje
+Le projet est constitue principalement d'une conduite gaz haute pression
+reliant MSAKEN a GABES, de l'extension de la boucle de TUNIS (20 pouces, 20
+bars ), d'equipements divers pour l'exploitation et la maintenance du reseau gaz
+et de l'etude de developpement de linfrastructure gaziere.
+Le gazoduc MSAKEN-GABES est compose (voir schema d'equipement):
+- Du tronson Msaken-Sfax, de 104 Km, de diametre 24 pouces ( 609 mm),
+- Du tronson Sfax-Gabes, de 134 Km, de diametre 20 pouces ( 508 mm ),
+- De la conduite d'amenee du gaz de MISKAR, de 16 Km, de diametre 20 pouces,
+- De la conduite d 'alimentation de SFAX, de 15 Km, de diametre 20 pouces.
+L'extension de la boucle de TUNIS comporte:
+-Une conduite de 6,2 Km, de diametre 20 pouces,
+-Une conduite de 1,5 Km, de diametre 8 pouces ( 219 mm).
+
+
+
+Les equipements divers pour 1'exploitation et la maintenance du riseau gaz
+se decomposent comme suit:
+* 6 postes de dhtente et un skid de regulation,
+* 8 postes de comptage,
+6 cabines de contr6le qualite gaz,
+* 75 correcteurs de debit gaz ( PTZ),
+* materiel de te'lcommunlication,
+* materiel de maintenance.
+2 / Marches contract6s pour les besoins du proiet
+Le projet a fait l'objet de 20 contrats dont I resii6 et 16 finances par la
+BIRD.
+Le tableau en annexe 1, r6capitule les marches passes avec les diff&lents
+fournisseurs pour l'acquisition du materiel et la realisation des travaux de pose
+avec les montants respectifs ainsi que leurs dates de signature.
+11 est a signaler que tous les contrats ont etSe menes a terme excepte celui
+signe avec SIMET, pour l'acquisition des tubes pour la boucle de Tunis, qui a ete
+resilie suite i la defaillance de ce fabricant. En remplacement, ces tubes ont e
+acquis aupres du fournisseur des tubes pour la ligne principale MSAKEN-
+GABES (MANNESMANN).
+III - UTILISATION DU PRET
+1 / Estimations des cofits et iustificatif des e'carts
+Le cout.total du projet a ete initialement estime 'a 98,6 millions de Dinars.
+Le co'ut definitif du projet s'eleve 'a 78,5 millions de Dinars. L'ecart de 20,1
+millions de Dinars s'explique essentiellement par une realisation du marche
+travaux de la pose du gazoduc pour un montant en deVai des estimations initiales
+( environ 10 millions de dinars ). La reduction des taxes ( environ 7 millions de
+dinars ) obtenue apres l'octroi au projet du privilege fiscal.
+Le financement de ce projet a e assure par le pret BIRD 3418 TN 'a
+concurrence de 60 millions de Dollars, soit 60 % du cofut global et le reste par les
+fonds propres de la STEG, soit 40 %.
+
+
+
+Le tableau en annexe 2, resume les ecarts entre P'estimation initale et les
+montants effectiyement realis6s a la date de cloture du pret.
+2 / Decaissements sur le nr&
+Le montant total des decaissements sur le pret est de 59,47 milions de
+dollars- . La part non utilisee, inferieure a 0,9 %, s'explique par la reduction du
+cou't du projet.
+Durant l'annee de prolongation qui a e  accordee par la banque ( du 30
+juin 1996 au 30 juin 1997 ) pour l'utilisation du pr6t, les decaissements ont et de
+7,88 millions de dollars.
+Les reglements des marches finances par le pret ont fait l'objet de 100
+demandes de paiement aupres de la BIRD dont 98 reglees directement aux
+fournisseurs et le reste en remboursement de factures de3ji deboursees.
+De ce fait, it n'a pas ete' necessaire de proceder i l'ouverture d'un compte
+special.
+Le tableau des d6caissements trimestriels sur le pret figure en annexe 3.
+IV - SUIVI DU PROJET PAR LA BIRD
+I / Ajwrobation des Appels d'Offres et des contrats
+Les Appels d'Offres, les rapports de depouillement et les contrats ont e
+elabores conformnment aux directives de la BIRD et lui ont ete systematiquement
+adresses pour approbation.
+11 est 'a signaler que les avis d'approbation par la BIRD ont W transmis
+avec une celerite remarquable ayant contribue aux respects de delais du projet.
+Un avis favorable a e  enregistre pour chacun des documents adressks pour
+approbation a la BIRD.
+2 I Missions de suivi de la BIRD
+La BIRD a effectue, durant les 5 ann6es ( 1993-1997 ) 6 missions de suivi
+pour constater I'avancement du projet et le bon deroulement de sa realisation.
+
+
+
+Ces missions ont e  particulierement moti-antes pour 1'equipe du projet et
+les conseils qui ont ete prodigues par la BIRD 'a la STEG ont bien contribue 'a la
+bonne execition du projet.
+V- EXECUTION ET SUIVI DU PROJET
+Les ingenieurs et les techniciens de la STEG ont procede a l' estimation du
+cofit du projet, effectue l'etude pr6liminaire du trace, calcule le dimensionnement
+de la canalisation, fait le 4choix des equipements et ont enfin etabli les appels
+d'offres et les contrats. Une equipe de projet a ete designee pour assurer le bon
+deroulement des differentes operations de la re'alisation du projet.
+Les radiographies de soudures, les epreuves reglementaires et le controIe
+de la qualite des equipements en usine et sur chantier ont &W supervises par
+l'equipe de projet et egalement par un organisme tunisien de contr8le agree par
+le Ministere de l'Industrie, conformement 'a la r6glementation Tunisienne.
+Les essais d'etancheite, de resistance et de mise en gaz ont &  concluants
+des les premiers controles.
+Le projet a ete suivi dans toutes ses phases par le Ministire de tutelle
+(-Direction Generale de l'Energie et Direction de la Securite ) , ainsi que le
+Ministere de la Cooperation Internationale et de l'Investissement Ext6rieur
+(Direction Generale de la Cooperation Internationale).
+Un controle scanner par racleur electronique effectuh en avril 1997 sur
+toute la longueur de la conduite 24 pouces Sfax-Msaken a confirm6 la bonne
+qualite de fabrication et de construction de l'ouvrage.
+VI - APPORT DU PROJET
+Le projet Gazoduc MSAKEN-GABES a amplement atteint ses objectifs
+immediats, il a en effet permis de:
+- eviter la rupture de gaz sur les zones industrielles de GABES en comblant la
+baisse de disponibilitW du gaz d'EL BORMA.
+- rendre disponible pour un fonctionnement de base une puissance electrique de
+130 MW en turbines 'a combustion qui etaient a P'arret pour manque de gaz.
+- convertir du G-asoil au gaz naturel la centrale turbine a combustion de SFAX
+(40 MW).
+
+
+
+- convertir du GPL au gaz naturel des industriels potentiels de ceramique sur le
+trace du gazoduc.
+- connecter les reseaux gaz Nord et Sud et permettre l'optimisation de leur
+exploitation. t
+Ce projet a, en outre, permis de:
+- assurer l'6vacuation de la production gaz du gisement de MISKAR.
+- ameliorer la part du gaz naturel dans l'energie primaire de 26 % en 1992 i
+36 % en 1996.
+- assurer, le transit journalier de 5 millions de m3 sur les 6,5 millions de m3 de
+gaz consomme dans le pays.
+VII - APPRECIATIONS ET CONCLUSIONS
+La realisation du Gazoduc MSAKEN-GABES et de la boucle de Tunis s'est
+deroulee convenablement tant sur les plans securite, qualite, coiit que delais:
+Aucun incident n'a e signal, les essais et epreuves reglementaires ont et
+concluants des les premiers contr8les, un controle scanner a confirm6, apres deux
+annees d'exploitation, la bonne qualite de la fabrication des eqquipements et de la
+construction de l'ouvrage, une reduction des cou'ts de plus de 20 % a e obtenue
+et la mise en gaz a e  effectuee en decembre 1994, en harmonie avec les delais
+prevus.
+Les objectifs du projet ont e  largement atteints et en 1997, cette
+infrastructure a assure 75 % du transit du gaz naturel consomm6 en Tunisie.
+II est cependant 'a noter que, d'une part, ce d6veloppenient important de
+l'infrastructure de 250 Km de r6seau haute pression, ayant interconnect6 deux
+reseaux initialement separes et ayant mis en parallele diff6rentes sources
+d'approvisionnement en gaz, n'a pas et sous-tendu par un systeme de
+surveillance et de commande du nouveau reseau national gaz ainsi constitue.
+Un centre de controle s'avere, a ce stade indispensable pour l'exploitation
+et la gestion du reseau gaz et un projet dans ce sens a ete inscrit au IXeme Plan
+de developpement 1997-2001.
+
+
+
+D'autre part, I'etude de developpement du gaz en Tunisie, inscrite dans le
+cadre de ce ptojet et menee conjointement avec SOFREGAZ (FRANCE), a
+traite principalement des perspectives de developpement de la demande de gaz a
+moyen et long termes et des infrastructures de transport de gaz s'y rapportant,
+mais n'a pas sufflsamment analyse les aspects relatifs au developpement de la
+distribution  du gaz et ceux lies 'a la tarification du gaz. Des actions
+complementaires  doiventi etre  menees  dans ce sens pour combler ces
+insuffisances.
+Sur le plan financier et comparativement aux autres ressources de
+financement, les conditions de la BIRD sont relativement plus on6reuses.
+I1 est a signaler que les missions effectuees par la banque pour le suivi du
+projet ont constitut une motivation supplementaire pour l'equipe de la STEG et
+ont beaucoup contribue a la bonne execution du projet.
+Aussi, nous tenons a exprimer nos remerciements a la BIRD, a la Division
+< Groupe de developpement de l'infrastructure, bureau regional Moyen Orient et
+Afrique du Nord >> et a tout le personnel qui a contribue 'a la re'ussite du projet.
+
+
+
+MARCHES PASSES AVEC LES FOURNISSEURS POUR LE PROJET
+No    L BELLES               DATE          DATE           NO                                  MONTANTS
+MARCHES              A.O   CONTRATS CONTRATS   FOIJRNISSEURS                          MARCHES
+TUBES
+1  - Gazoduc principal         1992       Mars 93    G 12 I 5590       MANNESMANN                 32.336.550 $
+2  - Aiiience Miskar           1993       Janm. 94    G 12 1 5640      MANNESMANN                  1.953.050 $
+3  - BIoucle de Tunis                      Nov.93     G 12 I 0130           SIMET                 Resilie
+4  - Boucle de Tunis                      Sept.94     G 12 1 5670      MANNESMANN                    549.750 $
+5  - Revetement Tubes                     Mars 94    G 12 1 5650       RAYCHEM - BGS               900.000 FF
+70.960 DT
+6 VANNES                       1992       Avril 93    G 12 1 5620    COOPER OIL TOOL    ..  9.963.050 Fl
+7                                                     G 12 I 5610    NELES JAMESBORY             4.947.157 Fir
+8                                                      G 12 I 5630       PHOCEENNE               3.751.165 Fr?
+TRAVAUX DE POSE
+9  - Principal                 1992       Avril 93     G 12 1 5600           CWE                  16.291.787 $
+6.330.100 DT
+- Aven ant                      -         D&. 96                                                    702.270 $
+297.346 DT
+POSTl ES DETENTE
+10 -Detente                    1993        Sept. 94    G 12 1 5660        TORMENE              350.000.000 LIT
+11. -Detentc & regulation      1995       Janv. 96     G 10 1 5700       TECHNOERG           2.732.347.000 LIT
+AUTRES MATERIELS
+12 -T616communicatioii         1995       Janv. 96    G 12 J 5400  COMSYSTEMS FRANCE                  22.855 $
+13                              it            ..       G 10 I 5750  UNISIA TELECOM SYS1             94.729 DT
+14  -Controle quialit6 gaz                             G 10 15710          SECAUTO                8.088.463 FF
+15 -Rampes de comptage          ..        Avril 96     G 10 I 5720     NUOVO PIGNONE                 997.217 $
+16 -Correcteurs PTZ                        Mai 96      G 10 1 5730      BRISTOL MEC(              2.078.516 Fri
+17  -Maintenance                 .         JuiL. 96    G 10 1 5740    BRUNAM EUROPE               1.443.657 Fl?
+_CONTROLE__
+18 -Mat.& Travaux              1992        SUiU 93     G 12 10140         SUPERVISE                824.430 IT
+- -Avenant                   -         F6v. 96                                                 243.985 DT
+19 E'UDES                      1994       Avril 95     G 10 I 5690        SOF?REGAZ               2.082.000 Fl
+_ _ _ _ _ _ _ _ _   _ _ _ _ _ _ _ _ _ _ _ _   I__ _ _ _ _ _ _ _ _   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _   62.600   D T
+20  -VWhiculics (*)            1996        Avril 97    M 04 34364 TE AUTO             BISHI        190.000 DT
+
+
+
+16112/97                                                               ANNEXE 2
+ECART ENTRE ESTIMATION INITIALE ET COUT REEL DU PROJET
+en 106 DT
+DESIGNATION       stimatiol Estini. lit COUT  ECART    OBSERVATIONS
+DES LOTS       itiale(91 avec Aleas REEL (97)
+TUBES                28,00   34,04  35,06   1,02
+VANNES               3,60    4,38   3,33  -1,05
+POSTES DE DETENTE        1,70    2,07    1,96  -0,11
+rTRAVtAUJX DE POSE      27,10   32,95  23,36  -9,59 Bons pri obtenus suite forte competition
+j~                  -               -   -
+MAT. DE1 MAINTENAN       3,90    4,74   3,19  -1,55        _
+OP. FONC. & TRAV.G.C     1,70    2,07   2,00  -0,07
+RESEAU AMENEE IND.       1,70    2,07   0,00  -2,07        _
+VEHICULES                1,00    1,22   0,19  -1,03        _
+ETUDE & PREST. STEG      0,60    0,73   1,88  1,15                _
+TAXES ET DOUANE         11,80    14,35   7,53  -6,82 Reduction suite priilege fiscal accord6
+ALEAS & IMPREVUS        17,50    -       _      _
+Taux utilise:1$S= 1 DT
+
+
+
+16/12/97                                                                                                                           ANNEXE 3
+DECAISSEMENTS TRIMESTRIELS SUR PRET BIRD 3418 TUN
+EN MILLIONS DE.DOLLARS
+DESIGNATION           REALISATIONS 93 REALISATIONS 94    REALISATIONS 95    REALISATIONS 96                     REALISATIONS 97    TOTAL
+DESLOTS           TI T2 T3 T4 TI T2 T3 T4 Ti T2 T3 T4 TI T2 T3 T4 Ti T2 T3 T4  PRET
+TUBES (GAZO. PRINC.)           3,23 2,41  6,90  7,05  8,46  1,06                  1,61                   1,18  0,44-                          32,34
+TUBES (GAZ MISKAR)                                   0,20  0,78  0,78             0,10                              0,08                       1,94
+TUBES (BOUCLE TUNIS)                                                                                     0,54       0,03                       0,57
+VANNES                              0,33             2,07  0,57             0,10  0,05  0,04                        0,09. 0,03  0,05           3,33
+POSTES DE DETENTE                                                                                        0,17       1,40              0,16     1,73
+POSTES DET (TORMENE)                                                                                                0,21        0,01           0,22
+TRAVAUX DE POSE                     1,63  0,74  0,37  1,11  1,51  1,55  2,08  3,35  1,06  0,17  0,13                1,52                      15,22
+TRAV. DE POSE (SUPP.                                                                                                                  0,15     0,15
+TRAV. POSE (AVENANT)                                                                                                0,70                       0,70
+RAMPES DE COMPTAGE                                                                                            0,09              0,75           0,84
+EQUIP. TELECOM.                                                                                                           0,08       0,01      0,09
+EQUIP.CONT.QUAL. GAZ                                                                                     0,16       1,15             0,14      1,45
+CORRECTEURS PTZ                                                                                                     0,36  0,01_                0,37
+MAT. MAINTENANCE                                                                                                    0,26                       0,26
+ETUDES                                                                                             0,04  0,06  0,12                   0,04     0,26
+TOTAL            (,00 3,23 4,37  7,64  7,42 11,84  3,92  2,33  2,08  3,45  2,82  0,21]  0,13( 0,04  2,11  0,65  5,80  0,12  0,81  0,50    59,47
+TOTAL CUMULE          0,00 3,23 7,60 15,24 22,66 34,50 38,42 40,75 42,83 46,28 49,10 49,31 49,44 49,48 51,59 52,24 58,04 58,16 58,97 59,47
+
+
+
+bLWl&U  VItiVkK4L LJP:ULA'II
+PC
+WfSAKEN
+PK 23S,G91
+PS C8 PK 234.K  KLBLINE
+PS5- PK 230,44       BEN KELTHOUM
+PK 213,80    -   ALMIENTA7IONJMAL -ZERAMDiNE
+PS 4. PK 212,386      EM HAYEr
+PS3. PK 18.615       EL KESESBA
+PS2-PK 172,7S5       EL NAJARA
+PS1-PK 153,067       BOUJARBOUA
+PC ~              PKeM       Ps              PK 14,392  OT
+vPC                              P       C                 OT
+AIN TURKIA                                                    KHAZzAtNEr
+PK 133,647
+ps 9-PM 118,53       E770IJPBA
+PK 23580         ALMIENTA7IONAQAREB
+P S.PM 113, 77       AGAREB
+POSIE EACCCEENUSE
+PCPK00                                            t
+8EN SAHLOUN                                                      HANIBAL
+PlK 108,0 0107                                -
+POS -A SE DEMA.                       BRMSH GAS
+PS 7-PK 427          FELLEO
+PS * *-PK M2529      QUWRA
+PK 60,419         ALIM6ETA7TON SKHIRA
+PSS.PK 55466         PONDOUK CIAN
+PS 4- PK 35,735      BOU SAD
+P3.-PK 16,499        LAMARAT
+PS 2-PK 10,955       LAoURIEr
+PS I - PK 5,723      GHANNOUCH
+PC: POSTEDECOUPURE
+PS: POSTEDE SECTIONNEMENT
+POSTE                 PM 0,0O0
+ARRVEE
+GABES
+
+
+
+If Jaz7w' 
+-p. 
+\ ~~~~~~..01+  .
+\       ~~ ~ ~~..9T            .
+, J         4   K~LISIAIAL X 
+zmmxnw                                           I
+-L.~~~~~~~~o,  n                  1 
+s~~~~~~~a                         v  [w  j
+--- -- --------~~~~~agz. 
+DB UtHODAW AB$3S   \                    '~~~~~~~~8EY
+. .. . . .. . . .. ..... ... ....... .... .: .. ..... ... . ... .. ....~~~~~~
+
+
+
+APPENDIX C
+BORROWER's COMMENTS TO THE ICR
+
+
+
+._ JuOCnCT         i Tuniienn DC L'ML&CTlCITC CT DU 1AZ
+Slige Social                                      r
+TUffIS                                           Munsieur Iuctt Claude VILI..l,RD
+* ll~~~~irecteur Groupe 1Dkveloppeenient de I'litfrw%tructuenr
+38, Rue Keneal Araturk                               [lureiau Rdgiolual Moyen Oirienit et Alrique du N.ord
+Bait. Posts/6190                                    I ANQUE NIOND)IALE
+10t0 TUNIS CEDEX                                      VASHING'TON l).C 20433 - IJSA
+L                                         J
+VRF     Fax du 23101/98                                                     1 3  FEV  1998
+NR:oc,L5           ,
+Objet      Rapport cI'lachbvemitin du projet de (leveloppenient de l'infiristructure
+gazi6re en 'uniLsic - Pret BIRD 3418 TUN.
+Monsieur le Directeur,
+Nouis avous 'lIouniciir d'accuser r6ccption de votre rapport d'achiieveinent du projet de
+developpL:uidIl de V'infrastructurc gazicrc, objet <lu prct JIRD 3418 T'I'N, et avons lc plaiksir dle vots
+iznfornaer que, glolbalenient, les Wes exprim6es daris cc r-apport ont ctc 6voqu4es duranti les misioins
+(le suivi d'evxcutioai (lu projet, A l'cxccption, toutefois, dc celles relatives aux catuts cconomiqucs de la
+(listributioal du gaz et aux tarifs de 1'6lectricit6.
+En elfta, vous avez estimnd, sans argunientation chiffrde, cluo les tarif:s du gaz putr les
+ownsonmuateurs inoyenne et basse pressions sont nottenment superieurs au coiit iarginal a long tet-ne.
+Cette comcluisioni nIest WaS celle de la STRG qui consid&re qte les tarifs sus-viscs sont correcw; a
+1'appui de donn6es chiffrdres.
+Concernauit los tarilfe de I'ulcetricit6, it iniporte de souligner qstto Iellgagoitelt d'aiLStoincnt
+pris dulns ce cadre a cte suivi d'effet poinr certains exercices, ce qui s'est r6percutd positivenient sur
+la structure finarciere de M'untreprisc ct votre rapport atteste d cc sujet quo la situation financicre dc
+la STEG est bonne, consecutivemcent aux efforts deployes.
+Par aiRllurs, vous avez signalc quo la banque aurait dfi proc6der & la suspension des tirages
+pour exiger la mnise en appliucaton des ajustemients tarifaires correspondants. A notae avis, cette
+conclusion ae ticnt pas compte des effoits ddployds pour la rdalisation d'un projet de d&veloppement
+economique n6cessitant unrc collaboration 6troite de toutes leg parties et une souplesse drsn
+l'application des clauses contractuelles.
+Nous ajinerions a cet effet, r6itdrer notre satisfaction pour Ic clinmat de parfaite entente ct de
+saine collaboration qui, tout au long de la rdalisation du projet, a caractrisc les relations entre noit
+deux organismes et vous en reinercions vivement.
+Nous vous prioss d'agrder, Monsieur le Directeur, l'expression de nos sutiments distinguds.
+Le Directcur ,$nelral Adjoint
+BE N A    Othman
+1d60 So :3, Ru. Kamsil Auuak-rUNIS- TdIwhon: 243.522-341 .3t1 - Adr.a T6lwaphiq.u. CAZELEC TUNIS-TAM.: 114020-t5OS6 TUNIS
+AX : 21S.1 -3" el -330174 -341 401.                                                         (171-13061 TUNIS
+
+
+
+64ZODUC MASKEAV - GAES
+SCHEMA GENEJ1L O EQUIPEMENVT
+PC
+M'SAKEN
+PK 2Jwog9l
+PS 6- PK 234,373     KEiUNE
+PSS- PK 230,443      BENI KELTHOUM
+8-
+PM 213,580       AUMENTAnIONJEMMAL-ZERAMDINE
+PS 4- PK 212,385     MENZEL HAYEr
+PS 3- PK 192,615     EL KESESBA
+PS2-PK 172,795       EL HAJARA
+PSI- PK 153,067      BOUJARBOUA
+PK F0,000                     PK 14,392
+PC                               P                         OT
+A/N TURKIA  |                        0                        KHAzzANEr
+PK 133,647                        PK 7,62
+PS9- PK 118,833      ETTOURBA
+PM 21S,580       AUMENTA770NAGAREB
+PS 8-PK 113,377      AGAREB
+POSTE DE RACCORDE//MENT
+~~~~~~ ~~~~USINE
+PC                          00
+BEN SAHLOUN                                                      HANNIBAL
+PK 106,000
+GOSTE OAZ STEG DE NACTA             BRITISH GAS
+PS 7- P 94,927       FELLEG
+PS 6 PK 72,259       GRABA
+16-
+PK 60,419         AUMENTATION SKHIRA
+PS 5- PK 55,466      FONDOUK CHIBANI
+PS 4- PK 35,735      BOU SAID
+P53-PK 16,49.9       LAMARAT
+PS2-PK 10,955        LAOUiNET
+PS 1- PK 5,723       GHANNOUCH
+PC: POSTEDECOUPURE
+PS: POSTEDESECTI0NNEMENT
+POSTE                 PKO,C00
+ARRIVES                                                        STEG IDGZ
+GABES                                                         F6vrier 1995
+
+
+
+MAP SECTION
+
+
+
+IBRD 23000
+89                        Gulf of
+lEDITjERRAVEAN                        Bizerte  Turits
+H%S.. .-/K/   sAi;Djeb   Haouaria 37e
+Beja  TU NIS'^gfb
+Jendouba                        u        abeul
+0  ~~~~~~                     ammamet
+Zaghouan
+0 -      Siliana                    Cuf of Hammamet
+36'             Tajeroune       0                                          36t
+LLJ  Sra                               ~~~~~~~~~Monastir
+-t Ouertane                                   mmmernrnel
+0      .                         Kairouan                Mahdia
+35    '    \        >\AtS t               2       2  er adine
+_35'     <      -.AKseine o                             ,                   35!e
+C          ~ ~~~Sidi Bou  i     j                o
+"Feriana / Sfaxt t lGerkonah
+Maulareso                                                          Islands
+,5>,<' °,. tafaa j                                             Mis,kar
+Metlaoui                                   G  uff of'    Ashtart
+Chott/el  Dj Mdiila   Chotte,     ghareb
+Tozeur o
+Chf ci  ottGbe               Ghaln  cG ch
+A    >     S~~~erid    n_z|aeh,
+4           ' P'gFranig                        Medeenne
+33                                                Tataounine
+0
+TU N ISIA ,
+GAS INFRASTRUCTURE DEVELOPMENT '.-
+PROJ ECT       '.        /                    , 
+NATURAL GAS NETWORKK
+-     PROPOSED PIPELINES
+-      EXISTING PIPELINES        Borma
+, _ _ PLANNED PIPELINES
+0   2 5  50  75
+OIL / NATURAL GAS FIELDS                                KILOMETERS
+SALT LAKES
+NATIONAL CAPITAL
+INTERNATIONAL BOUNDARIES               ,
+8                 9                10 e1
+APRIL 1991
+
+
+

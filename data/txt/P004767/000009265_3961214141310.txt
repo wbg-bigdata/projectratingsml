@@ -1,0 +1,1372 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 15679
+IMPLEMENTATION COMPLETION REPORT
+THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Mlay 17, 1996
+Infrastructure Operations Division
+Country Department I
+East Asia and Pacific Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+Currency Unit - Baht (B)
+At the time of Appraisal (Dec 1991)   At the time of ICR Mission (March 96)
+US$1.00           B 25.52           US$1.00      =    B 25.00
+B 100       =    US$ 3.92           B 100        =    US$ 4.00
+UNITS AND MEASURES
+bbl         barrel
+bcf         billion cubic feet
+bpd         barrels per day
+btu         British Thermal Unit
+mcf         1000 cubic feet
+mmbtu       million btu
+mmcfd       million cubic feet per day
+PTT's FISCAL YEAR
+October 1 to September 30
+FY 1995 denotes the year ending on 30 September 1995
+From 1996 PTT's Fiscal Year will be the same as the calendar year
+ABBREVIATIONS AND ACRONYMS
+ADB         Asian Development Bank
+EGAT        Electricity Generating Authority of Thailand
+JDA         Joint Development Area
+JEXIM       Exim Bank of Japan
+LNG         Liquified Natural Gas
+LPG         Liquified Petroleum Gas
+MIS         Management Information System
+PTT         Petroleum Authority of Thailand
+SCADA       Supervisory Control and Data Acquisition
+USEXIM    Exim Bank of the United States
+
+
+
+FOR OFFICIAL USE ONLY
+IMPLEMENTATION COMPLETION REPORT
+THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Table of Contents
+Page No.
+Preface .      ...................................................   i
+Evaluation Summary  .........................  ii
+PART I: IMPLEMENTATION ASSESSMENT
+A.  Statement/Evaluation of Objectives  ..........             ...............  1
+B.  Achievement of Objectives  .........................  2
+C.  Major Factors Affecting the Project ..........             ...............  4
+D.  Project Sustainability .........................  5
+E.  Bank Performance .........................  5
+F.  Borrower Performance .........................  6
+G.  Assessment of Outcome  .........................  7
+H.  Future Operations .........................  7
+I.   Key Lessons Learned .........................  8
+PART II: STATISTICAL ANNEX
+Table 1:  Summary of Assessments  ..................................  10
+Table 2:  Related Bank Loans ......................................  11
+Table 3:  Project Time Table  ......................................  11
+Table 4:  Loan Disbursements ......................................  12
+Table 5: Key Indicators of Project Implementation .12
+Table 6: Key Indicators of Project Operation .13
+Table 7: Studies Included in the Project .13
+Table 8A: Project Costs .14
+Table 8B: Project Financing .14
+Table 9: Economic Costs and Benefits .15
+Table 10: Status of Legal Covenants .16
+Table 11: Compliance with Operational Manual Statements .18
+Table 12: Bank Resources: Staff Inputs .18
+Table 13:  Bank Resources: Missions .................................. 18
+Table 14: Actual Production of Gas and Condensate .19
+Table 15: PTT's Forecast and Actual Financial Performance .19
+APPENDICES
+A. Mission's Aide Memoire .20
+B. Borrower's Contribution to the ICR .22
+MAPS
+IBRD No. 23485R
+IBRD No. 23519
+This document has a restricted distribution and may be used by recipients only in the performance of their
+| official dutes. Its contents may not otherwise be disclosed wiLhout World Bank authorization.  I
+
+
+
+
+
+
+-1-
+IMPLEMENTATION COMPLETION REPORT
+KINGDOM OF THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Preface
+This is the Implementation Completion Report (ICR) for the Bongkot Gas Transmission
+Project in the Kingdom of Thailand for which Loan 3508-TH in the amount of US$ 105.00 million
+equivalent was approved on July 7, 1992 and made effective on December 8, 1992.
+The loan was closed on December 31, 1995, one year later than the original closing date
+of December 31, 1994. Final disbursement took place on October 26, 1994, and the undisbursed
+balance of US$ 13.29 million was canceled in two installments on December 13, 1994 and on
+December 31, 1995. Co-financing was provided by Asian Development Bank (ADB), Exim Bank of
+Japan (JEXIM) and Exim Bank of the United States (USEXIM). PTT did not provide the Bank with
+any comments from the co-financiers.
+The ICR was prepared by V. Krishnaswamy (Consultant) of the Infrastructure Operations
+Division of the East Asia and Pacific Region, Country Department I, and reviewed by M. Farhandi,
+Principal Energy Specialist, J. Shivakumar, Infrastructure Division Chief and W. Schwermer, Project
+Adviser, EAL.
+Preparation of this ICR was begun during the Bank's final supervision/completion mission
+in March 1996. It is based on material in the project files and information gathered during the ICR
+mission from the Borrower and other sources. The Borrower contributed to the preparation of the ICR
+by: (i) providing information to the ICR mission; (ii) contributing views reflected in the mission's Aide
+Memoire; (iii) preparing its own evaluation of the project implementation; and (iv) commenting on the
+draft ICR.
+
+
+
+
+
+
+-ii-
+IMPLEMENTATION COMPLETION REPORT
+KINGDOM OF THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Evaluation Summarv
+Introduction
+i.            The Bongkot Gas Transmission Project was the fourth in the series of Bank loans to the
+Petroleum Authority of Thailand (PTT) to augment the supply of indigenously available and
+environmentally friendly natural gas in Thailand. It was also designed to encourage commercialization
+of the transactions between two parastatals-- PTT and the Electricity Generating Authority of Thailand
+(EGAT). PTT had completed all three earlier projects on schedule and within the budget and the projects
+realized their main objectives. The Bank had provided significant technical assistance for the institutional
+strengthening of PTT, which has emerged as one of the successful and well run energy entities in the
+region.
+Project Objectives
+ii.           The main objective of the project was to increase the gas supply capability of Thailand
+by: (a) expanding the gas transmission system; (b) strengthening the institutional effectiveness of PTT;
+and (c) enabling Thailand to make a more efficient use of its capital resources in the gas sector through
+annual reviews of PTT's investment programs.
+iii.          In pursuit of the physical objective, the Loan Agreement (LA) required the Borrower not
+only to execute the project with due diligence, and also carry out: (a) a thorough inspection and testing
+of the older pipeline between Erawan and Rayong to determine the limit of its capacity to transmit gas
+safely; and (b) an engineering study for a new gas transmission project to augment the transmission
+capacity from Erawan to Rayong.
+iv.           To strengthen the institutional capacity of PTT, covenants under the loan required PTT
+to: (a) conduct and implement a study to upgrade PTT's Management Information System (MIS); (b)
+conduct and implement a study on establishing the safety engineering and environmental standards for
+PTT operations; and (c) conduct a safety audit of PTT's operations by external experts to be hired for
+this purpose!'. During loan negotiations it was agreed: (a) that in addition to an audit by the Auditor
+General, PTT's accounts would be audited by an independent private audit firm acceptable to the Bank;
+and (b) that PTT would strengthen its internal audit office and allow it to report directly to the Governor
+of PTT. As part of project preparation, PTT was persuaded to enter into a formal commercial gas supply
+contract with EGAT, and a loan covenant required PTT to consult the Bank before making any major
+amendments to its gas purchase contract with the gas field operator and its gas sales contract with EGAT.
+1/    In addition, a study on establishing Environmental Standards and Regulations for on-shore and off-shore exploration,
+development and production of Oil and Gas in Thailand, and another study on the Business Strategies and Privatization of PTT were
+parts of the Project allocated for grant financing by ADB technical assistance.
+
+
+
+-iii-
+v.            With regard to the third objective, it was agreed during negotiations that PTT would
+provide towards the end of each year its investment plan for the next few years and that the Bank and
+PTT would jointly review it to identify possible improvements to make a more efficient use of PTT's
+capital resources.
+vi.           The project's objectives were considered timely, practical, realistic and consistent with
+the country's priority (of rapidly increasing commercial energy supplies to sustain the momentum of
+economic growth), the Bank's country assistance strategy (which stressed support for removing
+infrastructural bottlenecks to growth) and the sector strategy (which focused on environmentally friendly
+energy options and on public sector management reforms that would promote competitive private
+investments in the energy sector).
+Implementation Experience and Results
+vii.          The project's objectives have been substantially achieved. The physical facilities were
+constructed and commissioned substantially on schedule, optimum transmission capacity of the first
+pipeline between Erawan and Rayong was determined, and the engineering study led to the construction
+of the second pipeline between Erawan and Rayong under a follow-up Bank loan (Loan 3799-TH). The
+institutional and investment review objectives were also realized, especially with the completion of the
+Fuel Options Study (December 1993), which provided an analytical framework for investment choice and
+timing of investments. PTT's operations have become more commercialized and it is moving gradually
+to corporatize and eventually privatize some of its business units.
+viii.         The project's sustainability seems to be assured in the context of more than the forecast
+level of availability of gas (350 mmcfd compared to the estimate of 250 mmcfd) and condensate from the
+Bongkot gas field, continued high demand for gas in Thai economy, and the adoption by PTT of a sales
+contract to EGAT ensuring continuity of sales and an adequate return on investment. Construction of
+the project pipelines and the second pipeline from Erawan to Rayong encouraged the timely investment
+in gas development and production by private sector operators like Unocal and Total.
+ix.          The project was completed at a cost of US$ 333.94 million, which was about ten percent
+lower than the appraisal estimate. The saving was essentially due to the contingency amount provided
+in the cost estimate not being required, as a result of prudent project management. Despite some
+unfavorable weather conditions, the project was completed basically on schedule and was in full
+commercial operation by March 1994, four to five months ahead of the date envisaged during appraisal.
+The revised economic internal rate of return (ERR) for the project is 34 percent compared to 26 percent
+estimated at appraisal. The pricing formula for the sale of gas to EGAT enables PTT to achieve financial
+internal rates of return (FRR) of 16 percent as estimated during appraisal.
+x.            PTT hedged against external factors such as oil price changes, by partially indexing its
+gas purchase and sale prices to oil prices. Natural disturbances such as cyclones did affect the laying of
+off-shore pipe, but astute construction scheduling allowed the experienced contractors to make up the lost
+time in later stages. The performance of consultants and contractors was excellent and the financiers
+including the Bank helped maintain the project schedule. There was a high level of ownership of the
+project on the part of PTT, which was determined to complete it on schedule to meet its take-or-pay
+obligations under the gas purchase contract. The Government gave PTT a large measure of autonomy and
+was supportive of its initiatives.
+
+
+
+-iv-
+xi.           The Bank's performance on the whole was highly satisfactory. Its quick response to the
+loan request and willingness to spend nearly a year in project preparatory assistance was commendable.
+Also noteworthy were its attention to the exhaustive review of the gas reserves, and its initiatives to
+have the reserve levels certified by the experts, its contributions to make the environment impact
+assessment comprehensive, and its focus on stakeholder incentives to sustain the arrangement. Its
+decision to provide more than the usual percentage of retroactive financing, helped in the timely
+implementation of the project. PTT found the assistance provided by the supervision and other missions
+useful and constructive. The Borrower's performance was highly satisfactory in all areas except for a
+delay in carrying out one of the studies and having its accounts audited by a private firm.  Its
+performance was characterized by a high degree of ownership of the project and reflected the
+organization's maturity.
+xii.          In the light of the achievement of its objectives, the sustainability of its operations, and
+the institutional changes that have taken place, the project outcome was judged highly satisfactory.
+Summary of Findings, Future Operations and Key Lessons Learned
+xiii.         This is the fourth Bank-financed project, which PTT has implemented successfully,
+thereby proving that it is a mature organization capable of implementing successfully complex projects
+in the oil and gas sector. All the conditions for the continued success of the project operation are
+favorable. The Bank's following up with another gas transmission project to augment supplies to the
+Bangkok area was timely and appropriate. Given the urgent need to increase commercial energy supplies
+and the need to ensure that the incremental supplies come from environmentally friendly sources, the
+Bank's continued support for gas transmission and gas import projects is appropriate. Conditions in the
+oil and gas sector in Thailand are favorable for a gradual restructuring of the sector with increasing
+private sector involvement in a competitive milieu. PTT is poised for a major, gradual transformation
+and the Bank will need to be involved in the sector to support and orient the change appropriately. The
+focus of the future operations could be to support regional co-operation initiatives, help Thailand to adopt
+appropriate regulatory mechanisms to enable greater private investment in a competitive environment,
+and to help PTT to gain access to international capital and commercial debt markets on the basis of
+conforming to the disclosure requirements such access demands.
+xiv.          The key lessons learned from the project include: (a) in the Asian context support to
+national oil and gas companies, to construct gas transmission systems helps unbundle the sector, reduces
+the marketing risk for those engaged in exploration, development and production of oil and gas and
+thereby promotes private investment in such upstream activities; (b) projects with a high degree of
+ownership by the borrower succeed, especially when the Bank focuses on identifying and managing
+possible risks to ensure sustainability; (c) gas reserve and recovery level estimates need to be reviewed
+and certified by external experts; (d) Bank missions need to cover areas far beyond the traditional project
+boundaries and work with a wide range of agencies which translates into extra resources and time to
+address adequately the Bank's environmental concerns; (e) the use of the same Task Manager for
+appraisal and supervision leads to greater efficiencies in Bank performance; (f) Bank divisions dealing
+with public utilities need to have adequate in-house financial expertise.
+
+
+
+
+
+
+PART I: IMPLEMENTATION ASSESSMENT
+A. Statement/Evaluation of Objectives
+1.         The Bank has had a long and successful record of assisting Thailand over two decades in
+its efforts to increase commercial energy supplies, develop indigenous resources (such as hydro power,
+lignite, oil and natural gas), make the supply process environmentally acceptable, and improve the
+operational efficiency and financial performance of the energy supply entities. The Bongkot Gas
+Transmission Project (the Project) was the fourth in the series of Bank loans to the Petroleum Authority
+of Thailand (PTT) in the oil and gas sector. Its main objective was to increase the natural gas supply
+capability of Thailand by: (a) expanding the gas transmission system; (b) strengthening the institutional
+functioning of PTT; and (c) enabling Thailand to make a more efficient use of its capital resources in
+the gas sector through annual reviews of PTT's investment program. In the past, the Bank had
+provided significant technical assistance to PTT to improve its efficiency and performance and the
+Project was designed to further commercialize the transactions of parastatals among themselves (e.g.,
+PTT and EGAT) and with others to enable the country to attract and sustain private investment in the
+upstream and down stream activities of the oil and gas sector.
+2.         Given Thailand's rapid economic growth and the sharp rise in the demand for commercial
+energy, the project objectives were considered timely, relevant to the urgent needs of the country,
+practical and realistic. They were also consistent with the country's priority (augmenting commercial
+energy supplies to sustain growth momentum), the Bank's Country Assistance Strategy (which stresses
+support for removing infrastructural bottlenecks to growth, especially in the energy and transport
+sectors), and the energy sector strategy (which focuses on environmentally sound energy options to
+minimize green house gas emissions, and public sector management conducive to attract and sustain
+private investment in the energy related areas). The objectives were clear and sharply focussed, and
+were achievable. The level of complexity of the project and the demands it made on PTT were within
+the capability of PTT with selective external support. The risks (uncertain gas reserves and possible
+cost escalations in offshore production and transport of gas) were normal for all offshore gas supply
+projects, and PTT had adequate technical support during the preparation and implementation phases to
+manage them reasonably.
+3.         To expand the country's gas transmission capacity, construction of offshore pipelines
+between Bongkot and Erawan and between Erawan and Khanom along with the associated on-shore and
+offshore facilities was included as a component under the loan. Also, PTT was required to inspect and
+test, with the help of external experts, the extent to which gas could be transmitted safely through the
+older pipeline between Erawan and Rayong (Loan Agreement (LA), Sch. 5 para. Al). In addition PTT
+was required to carry out an engineering study for a second pipeline between Erawan and Rayong (LA,
+Sch 5, para. DI).
+4.         To strengthen PTT's institutional capacity the project involved: (a) conducting a study to
+upgrade the Management Information System (MIS) of PTT and training the PTT staff (LA. Sch. 5,
+para. Bl); (b) conducting a safety audit of PTT's operations by external experts hired for this purpose
+(LA Sch. 5, para. CI); (c) carrying out a study to establish safety engineering and environmental
+standards for PTT's oil and gas operations (LA Sch. 5, para. C2); and (d) carrying out an audit of
+PTT's financial statements, not only by the Auditor General but also by a firm of independent private
+auditors acceptable to the Bank (para. 7 of the Minutes of Loan Negotiations). Further, while preparing
+the loan, PTT was persuaded to enter into a formal commercial gas supply contract with EGAT and a
+
+
+
+-2-
+loan covenant required PTT to consult the Bank before amending any major provision of the gas
+purchase contact with the field operator and the gas sales contract with EGAT (LA, Sec. 5.02). Two
+additional technical assistance studies, one on environmental standards and regulations for the onshore
+and offshore oil and gas exploration, development and production and the other on PTT's business
+strategy and privatization options were designed to meet the project's institutional objectives. They were
+funded by an ADB technical assistance grant.
+5.          To use capital resources in the oil and gas sector more efficiently, it was agreed during
+loan negotiations that the Bank and PTT will jointly review PTT's investment plans each year (Minutes
+of Loan negotiations, para. 19).
+6.          The physical, institutional and allocative efficiency objectives were also further followed
+up under the subsequent loan (Loan 3799-TH) for the Second Gas Transmission Project.
+B. Achievement of Objectives
+7.          The project's objectives were substantially achieved. With regard to physical objectives,
+expansion of the capacity of the gas transmission system was achieved as planned when the project
+facilities were in full commercial operation in early 1994. The project had been completed at a total
+cost of US$ 333.94 million, or about ten percent lower than the cost of $370 million estimated at
+appraisal. The saving was realized as the funds provided for contingencies were not required, due to
+extensive advance procurement and high quality project management. Despite unfavorable weather that
+affected the off-shore pipe laying work, the Project was essentially completed on schedule and was in
+commercial operation from March 6, 1994, compared to the date of June 30, 1994 estimated at
+appraisal. Gas deliveries actually commenced at Erawan in July 1993k' and at Khanom in Feb 1994.
+The outlook for gas and condensate availability from the Bongkot field has become much more
+optimistic than before and the field operator will be able to increase the daily contract deliveries from
+250 mmcfd to 350 mmcfd after June 1, 1996. Condensate recoveries are also correspondingly higher.
+Thus, it is not surprising that the economic internal rate of return (ERR) calculated in the ICR
+following the methodology adopted during appraisal, was 34 percent compared to the 26 percent
+estimated at appraisal.
+8.          The financial internal rate of return (FRR) calculated at appraisal was 16 percent. The
+ICR mission did not consider it necessary to reassess it, since the selling price to EGAT (which
+accounts for over 85 percent of PTT's gas sales) is governed by the formula that allows PTT to fully
+recover: (a) the cost of gas purchased from the field operator; (b) the cost of transmission including a
+reasonable internal rate of return (not less than 12 percent) to PTT on its investment in the transmission
+facilities; and (c) applicable value added tax. In practice an internal rate return of 15 percent is used to
+determine the sale price to EGAT. On its gas sales to industry, PTT is able to secure prices several
+times higher than that for EGAT. Thus PTT is virtually assured of securing FRRs in excess of 16
+percent by this pricing mechanism.
+1/    A total of 11.08 bcf of gas was delivered from Bongot gas field in July-December 1993 to Erawan and then on to
+Rayong.
+
+
+
+-3-
+9.         The physical objectives achieved also included the determination of the safe gas
+transmission capacity of the older Erawan-Rayong pipeline, the completion of the engineering study for
+the second Erawan-Rayong pipeline and the commencement of the construction of that pipeline under
+the follow-up Bank loan (Loan 3799-TH). Construction of the pipelines under the two Bank loans
+encouraged the private sector field operators such as Unocal and Total to invest further in the gas
+development and production activities in the Gulf of Thailand. By achieving the physical objectives, the
+project also served the environmental goal of minimizing greenhouse gases. Action plans and
+monitoring arrangements set up as a result of the environment impact assessment review at the
+beginning of the project minimized adverse impacts during construction and monitoring reports
+confirmed that the adverse impacts were insignificant.
+10.       In relation to the institutional objectives, PTT carried out the MIS study with a Canadian
+grant (rather than with the funds allocated under the Bank loan for this purpose).  The terms of
+reference were agreed upon with the Bank and PTT implemented the recommendations of the study in
+consultation with the Bank. The associated training of the PTT staff was also completed. The safety
+audit of PTT's operations was carried out by external experts, as envisaged. The study on Safety
+Engineering and Environmental Standards, however, was delayed. The loan closing date was extended
+from December 31, 1994 to December 31, 1995 on account of this. However, the study could not be
+completed before the extended closing date. In the event, PTT used its own funds (instead of the
+US$200,000 allocated for it) to complete the study. The Bank received the final report in April 1996.
+Its scope has also been somewhat abbreviated to cover only the natural gas related operations of PTT,
+using Bongkot Gas Transmission Project as a model or pilot program. Staff manuals are expected to be
+prepared and issued based on this study sometime in 1996. As a result of the agreements reached
+during loan negotiations, the internal audit office of PTT was strengthened with additional staff, and
+allowed to report directly to the Governor of PTT. The same principle was also been adopted in the
+organizations of PTT's subsidiary business units. The study on environmental standards and regulations
+for exploration and development of oil and gas in Thailand under ADB financing was also successfully
+completed and increased the institutional capacity of several agencies in Thailand.
+11.        The objective of improving the allocative efficiency of PTT's investment plans was
+achieved through reviews of the investment plans by the Bank missions which made suggestions for
+improvement. Though formal reporting of such activity appears to have made by only one of the
+supervision missions, PTT regarded the discussions with the Bank missions as providing useful inputs
+to the process of its investment planning. Further the comprehensive sector and economic work done
+for the highly acclaimed Fuel Options Study (December 1993) provided a useful analytical framework
+in which PTT could determine its investment priorities and decide on the ranking and scheduling of its
+options. The Government and PTT were greatly appreciative of this major contribution by the Bank.
+12.        The financial objectives have also been substantially achieved.  PTT's financial
+performance during FY1992-FY1996 was even better than what was forecast at appraisal (see Table
+15). Current projections by PTT indicate that it will have no problem maintaining current levels of
+performance. However, the objective of having the accounts of PTT audited by independent private
+auditors has not yet been realized. This issue was brought up during the negotiations for Loan 3799-
+TH, when it was agreed that the purpose of the private audit would be to restate the financial statements
+of PTT in accordance with the International Accounting Standards (IAS) and to certify PTT's
+compliance with financial ratios covenanted with the Bank. A long form audit report of the private
+auditor was to be submitted to the Bank every year (commencing from FY1993) within three months of
+the date of submission of the Auditor General's report. PTT has concluded a contract with a private
+
+
+
+-4-
+audit firm acceptable to the Bank to review its accounts for FY 1994 and advise on changes to its
+system to conform to IAS. The review is still underway and PTT expects to provide the long form
+report sometime between October and December 1996.
+13.         PTT's financial statements, audited by the Auditor General do not disclose all details
+necessary to calculate the covenanted self financing ratio and debt service ratio. Full information was
+not disclosed on items such as non-cash charges included in expenses (e.g., provident fund
+contributions, depreciation charged as part of cost of sales, etc), debt repayments relating to
+refinancing, their effect on the current portion of the long term loans due, and on the changes of the
+non-cash working capital. PTT's financial situation is essentially sound, but in the absence of adequate
+disclosure in the audited financial statements, it is made to look like an entity performing at a much
+lower level. Thus, it is necessary that the full details required to calculate these ratios and the actual
+calculations themselves should be part of the audit report by the Auditor General and the private
+auditor. If PTT is to raise resources from the international capital markets, such complete disclosures
+would be a minimum requirement. Securing compliance in this regard may not be difficult, since
+another leading energy entity (EGAT) had been complying with somewhat similar provisions for a long
+time. This will be followed up as a part of the supervision of Loan 3799-TH.
+14.         Over the years PTT has become a well managed public sector energy entity in the region
+and has benefitted from a range of technical assistance provided by the Bank. In January 1992,
+following the concept of profit centers, PTT was reorganized into separate business units for oil,
+gas,petrochemicals, central services and head office.  Based on further studiesi', it was further
+reorganized again in February 1996, following the concept of arms-length subsidiaries, into business
+units for oil, gas, international trading operations, and a head office in the form of a holding company.
+All these units will be completely self contained and produce their own balance sheets, so that they
+could be corporatized and listed in the local stock exchange in the near future. PTT's approach to
+business has become increasingly commercial and it is poised for corporatization, and for partial or full
+privatization of its business units eventually.  Public sector management objectives may thus be
+regarded as having met a large measure of success.
+C. Major Factors Affecting the Project
+15.         Natural disturbances such as unseasonable and severe cyclones affected the laying of off-
+shore pipe, but the experienced contractors were able to make up the lost time in the later stages.The
+performance of the contractors and consultants on the whole was excellent. The financiers including the
+Bank were understanding and co-operative. There was a high level of ownership of the project on the
+part of the Government and PTT. With some advice from the Bank, PTT's approach to managing
+external risks and factors affecting the project was successful. It sought to protect itself by partially
+indexing the purchase price of gas to oil prices changes along with prescribed floor and ceiling prices.
+Its sale price of gas to EGAT recovers the purchase price of gas and provides a reasonable return on its
+investment in transmission facilities. Uncertainties relating to gas reserves were resolved through
+detailed investigations, certification of the reserves by the best available experts and appropriate
+2/    Study on the Business Strategy and Privatization of PTT carried out as a part of the Project under ADB technical
+assistance funding,
+
+
+
+-5-
+contracting arrangements with the field operator. Delays in carrying out one of the studies and in
+having its accounts audited by private auditors were mainly due to different interpretations about the
+frequency of the private audit and the cost of the study, as well as to staff changes caused by the two
+reorganizations of PTT. There was some delay in the loan becoming effective, caused by the process
+of the legal opinion being reviewed by the Juridical Council of Thailand, but it did not affect project's
+progress.
+D. Project Sustainability
+16.        Project sustainability over the medium-to-long term seems to be assured. The project was
+completed as scheduled and at a cost lower than estimated. PTT's business unit for natural gas is a
+well run and is able to operate the facilities properly. The outlook for gas and condensate availability
+in the Bongkot field is much brighter than at appraisal (see para. 8). Further, there seems to be no
+slackening of demand for natural gas in Thailand in the foreseeable future. More importantly, the
+commercial arrangements among the key participants are likely to sustain the Project operations as
+planned. The gas sales contracts between the field operator and PTT and between PTT and EGAT
+minimize the risk for all and spread the risks and rewards in an equitable manner, ensuring
+stakeholders' interest in the continued survival of the arrangements. The follow-up project under Loan
+3799-TH further reinforces these trends and will make the project even more sustainable, as will future
+plans to link Bongkot pipeline to the JDA area.
+E. Bank Performance
+17.        Bank performance in identifying, preparing and appraising the Project was considered
+highly satisfactory. The project as formulated was consistent with the country's priorities, the Bank's
+country strategy and sector policy. The Bank responded to the loan application from the country in a
+timely fashion, eliminated the component relating to the onshore pipe line to Namphong power plant,
+the viability of which was not entirely satisfactory, and spent nearly a year in helping PTT prepare the
+project and mobilizing co-finance from the Asian Development Bank and the Exim Banks of Japan and
+USA. The considerable time taken by the Bank to have the gas reserve estimate reviewed, and gas
+reserve levels certified by the best available experts in this activity and to ensure that the contracting
+arrangements for the purchase and sale of gas by PTT were based on commercial considerations and on
+an acceptable gas pricing formula indicate the Bank's concern for identifying project risks and devising
+methods to manage them to ensure project sustainability. In this effort, the appraisal team was guided
+by lessons from earlier PTT projects.
+18.        Bank's performance in relation to the environmental concerns during the preparatory phase
+is noteworthy. To deal effectively with environmental concerns, the Bank had to cover areas far
+beyond the conceptual project limits and work with several agencies besides PTT. Thus it interacted
+with the Department of Mineral Resources, National Energy Policy Office, Office of Environmental
+Policy and Planning, National Environment Board, and the Ministry of Science, Technology and
+Environment as well as private gas field operators like Unocal and Total in order to formulate the
+technical assistance proposals and terms of reference for the Study on Environmental Standards and
+
+
+
+-6-
+Regulation for the on-shore and off-shore oil and gas exploration and development-'. Repeated and
+comprehensive reviews by Bank staff of the several versions of the Environment Assessment Review
+Report produced by PTT with consultant assistance, resulted in the production of a final report that laid
+the foundation for the environmentally sound construction and operation of the Project. The Bank's
+decision to provide more than the usual share of retroactive financing, at the request of the Borrower,
+helped move implementation in a timely fashion.
+19.        Based on the experience under past operations with PTT, procurement arrangements were
+designed to be simple and conducive to speedy implementation. The number of the contracts was kept
+to the minimum and most of them were made single responsibility contracts. Bidding and bid
+evaluation was carried out in the preparation phase and the Bank staff spent considerable time in
+reviewing and discussing the evaluation reports and proposals for contract awards.  Complex
+procurement issues such as the correctness of separating the coating and jacketing of line pipes from the
+main contract for the supply of line pipes arose and were deliberated upon at length, and the issues
+were resolved in the larger interests of the economy and efficiency, generally upholding the proposals
+of the Borrower. The Bank's attention to strengthening the capacity of PTT with comprehensive
+consultant support for project management, and to ensure continuous and meaningful co-ordination with
+all co-financiers throughout the project cycle was also noteworthy.
+20.        Bank supervision was satisfactory-- indeed, more than was evident in the institution's
+records. Apart from the regular supervision missions, missions involved with identifying and preparing
+of the follow-up loan (3799-Th) and Fuel Options Study also provided useful inputs for resolving
+problems. PTT thought highly of such contributions. Sectoral loan covenants were followed up and
+compliance secured. The inability to follow up on the audit related agreements (see paragraphs 12 and
+13) was caused by a shortage of financial analysts in the division.
+21.        In retrospect, it would also appear that for a project with such complete commercial
+orientation, it would have been more appropriate to arrange for some commercial co-financing rather
+than relying exclusively on export credits and official co-financing. PTT could also have been
+encouraged to consider international bond issues and to adopt discipline in accounting, audit, and
+disclosures required for such bond issues. But the tirne frame in which the Project had to be completed
+to meet the take-or-pay obligations under PTT's contract for gas purchase from the field operator
+perhaps did not allow adequate time to prepare PTT for such exercises.
+F. Borrower Performance
+22.        The Borrower's performance was highly satisfactory in all aspects, except with respect to
+the audit covenant (see para. 12) and one of the studies (see para. 10). It was characterized by a high
+degree of ownership of, and commitment to, the project. PTT was determined to design, fund,
+implement and operate the project in time to meet the take-or-pay obligations under its gas purchase
+agreement with the Bongkot field operator. It engaged competent consultants to carry out all pre-
+investment investigations and responded well to the Bank's suggestions to have the gas reserve levels
+certified appropriately and have the project prepared in a manner acceptable to the Bank and the co-
+3/   This was eventually allocated for funding by ADB technical assistance.
+
+
+
+-7-
+financiers. It provided out of its own internally generated cash about 28 percent of the project cost and
+raised through domestic bond issues another 16 percent. It allowed the consultants and contractors to
+operate with adequate freedom and non-interference, but kept a meaningful and rigorous control over
+cost and time schedules. It is remarkable that in a major complex off-shore pipeline project, all
+contract claims were settled and completion certificates issued to all contractors within 6 months of the
+date of the initial operation.
+23.        PTT was fully responsive to the Bank's suggestions to improve the Environmental Impact
+Assessment Review report, which included an action plan and a monitoring plan. It carried out those
+plans engaging competent staff and consultants.
+24.        PTT, through its good financial and corporate performance, has earned the status of
+"Good State Enterprise" from the Government, which gives such enterprises a high degree of autonomy
+in running their business. The Government was also fully supportive of PTT's efforts to raise external
+loans and to issue domestic bonds to finance the project.
+25.        PTT's record of compliance with the covenants under the loan was considered satisfactory.
+Most of the sectoral, financial and audit covenants have been complied with in a timely and meaningful
+manner (see Table 10). The only deviations relate to the delay in carrying out one of the studies and in
+having its accounts audited by external auditors (see paragraphs 10 and 12). In both cases remedial
+action is underway and progress can be monitored by the Bank as a part of the supervision of Loan
+3799-TH.
+G. Assessment of Outcome
+26.        All the Project objectives covering the physical, institutional and allocative efficiency
+aspects were substantially achieved. The project has met and exceeded the levels of gas and condensate
+deliveries planned at the time of appraisal and produced a higher ERR. It is also clearly sustainable.
+Thus, the outcome was judged highly satisfactory.
+H. Future Operations
+27.        PTT's natural gas business unit is well run and capable of operating the project facilities
+properly. Its commercial and financial policies and procedures as well as its personnel are adequate to
+ensure that the operation remains financially sound. Increasing availability of gas and condensate from
+the Bongkot field and the continued high demand have made the outlook for the project brighter than
+before. Nonetheless, PTT will need to closely watch the gas reserves situation and also revise the gas
+sale prices to EGAT from time to time based on the agreed formula. Overall monitoring and evaluation
+of the project performance in the future will be made through the records of PTT relating to the
+operation of the facilities, as well as through the internal and external audit systems in place. The Bank
+has already given a follow-up loan (3799-TH), through which the sectoral and institutional objectives
+will be pursued further. The two items to be followed up by the Bank staff as a part of the supervision
+under that loan would be the matters relating to external audit of PTT's accounts by independent private
+auditors and the implementation of the study on Safety Engineering and Environmental Standards of
+
+
+
+-8-
+PTT's natural gas operations. As a part of some future operation, PTT could be helped to carry out a
+similar study for its oil related operations. The optimal timing for a future evaluation of the project
+would be after five years of operation (sometime in 1999).
+28.         A number of major developments are taking place in Thailand's oil and gas sector. PTT,
+after its reorganization, is poised for the corporatization of its subsidiary business units and for listing
+them on the local stock exchange in the near future. Also, projects involving co-operation among the
+developing countries of the region are taking shape. Such projects included in PTT's investment plans
+are for: (a) LNG import facilities; (b) the import of gas from Myanmar and the JDA area through
+offshore pipelines. In this context, the Bank will need to continue its involvement in Thailand's oil and
+gas sector focussing on the objectives of promoting regional co-operation, encouraging PTT in the
+direction of corporatization and eventual privatization, and creating appropriate regulatory mechanisms
+in the oil and gas industry to foster increased private investment and competition.
+I. Key Lessons Learned
+29.         Many lessons can be learned from the successful implementation of the project. They
+include the following:
+(a)   By supporting gas transmission projects by national entities like PTT, the Bank indirectly
+helps in unbundling the sector, reduces the business risk for the private investment in
+exploration, development and production of oil and gas, and promotes private investment
+in the upstream and down stream activities.
+(b)   With respect to natural gas projects the risk relating the reserve level estimates could be
+made manageable not only by careful reviews of reserve estimates by bank staff and
+project consultants but also by having the safe reserve and recovery levels certified by the
+best experts in the profession.
+(c)   Projects with a high degree of ownership by the Borrower succeed, especially when the
+Bank's preparatory assistance focuses on risks, risk management and sustainability.
+(d)   With respect to projects in Thailand, adopting the use of single responsibility contracts and
+keeping the total number of contracts to the minimum leads to fewer problems and rapid
+implementation.
+(e)   The use of the task manager who prepared and appraised the project, also for its
+supervision leads to continuity of relations with the executing agency and to more effective
+supervision.
+(f)   Adequate attention paid at the stage of reviewing the Environment Impact Assessment
+Report to set up appropriate action plans and monitoring mechanisms leads to an
+environmentally sound implementation and operation of the project, and helps to avoid
+public resistance which is a common feature in many infrastructure projects.
+
+
+
+-9-
+(g)   To address adequately environmental concerns, the Bank has to cover areas far beyond the
+traditional project boundaries and deal with a wide range of agencies, besides the project
+executing agency. Adequate resources need to be provided for this.
+30.        On the downside, project experience showed that it was necessary to improve
+communication among the different agencies in Thailand such as PTT and EGAT, to ensure that their
+development and business plans become congruent in substance, details and timing. It was also found
+necessary to improve communication within PTT among its technical, financial and commercial groups.
+The next Bank operation focused on this aspect.
+31.        The project experience also showed that Bank divisions dealing with public utilities and
+infrastructure must have an adequate number of financial analysts on their staff to follow up on the
+audit and financial covenants meaningfully. Given the budget constraints, it may not always be possible
+to remedy this problem.
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+PART II: STATISTICAL ANNEX
+
+
+
+
+
+
+-10-
+Table 1: Summary of Assessments
+A. Achievement of Objectives
+|  Substantial        Partial        Negligible   [  Not Applicable
+Macro policies                                                                                         X
+Sector policies                                    X
+Financial objectives                               X
+Institutional development                          X
+Physical objectives                                X
+Poverty reduction                                                                                      x
+Gender Issues                                                                                          X
+Other social objectives                                                                                X
+Environmental objectives                           X
+Public sector management                           X
+Private sector management                                                                              X
+Other (Financial Recovery)                                                                             X
+B. Project Sustainability
+Project sustainability                I         Likely          |        Unlikely        [       Uncertain        |
+||Project sustainability               |Xl
+C. Bank Performance
+Highly satisfactory         Satisfactory      |        Deficient
+Identification                                    X
+Preparation assistance                            X
+Appraisal                                         X
+I Supervision                                      x
+D. Borrower Performance
+I Highly satisfactory           Satisfactory      |       Deficient
+Preparation                                       X
+Implementation                                                              X
+Covenant compliance                                                         X
+Operation (if applicable)                         X
+E. Assessment of Outcome
+Highly satisfactory    Satisfactory        Unsatisfactory           IHighly
+I AssessmentI                                                                                    unsatisfactory
+[Assessment jfotoe           I         xII1
+
+
+
+-11-
+Table 2: Related Bank Loans
+Loan/Credit Title                             Purpose                       1   Year of        Status
+l_______________           _  |__  | Approval  |
+Preceding operations
+1. Natural Gas Development    Engineering loan to prepare the Project under item 2      1978        Completed
+Engineering Project        below.
+(Loan 5010-TH)
+2. Second Natural Gas          Erawan to Bangkok offshore gas pipeline                  1979        Completed
+Development Project
+(Loan 1773-TH)
+3. Liquefied Petroleum Gas     Gas separation plant at Rayong and built storage for LPG  1982       Completed
+Project
+(Loan 2184-TH)
+4. Sirikit Petroleum Project   Oil field development                                    1985       Completed a/
+(Loan 2639-TH)
+Following operations
+1. Second Gas Transmission     Second gas pipeline from Erawan to Bangkok area          1994         Ongoing
+Project
+(Loan 3799-TH)
+a/ Though the Project was implemented, the entire loan amount was canceled in two installments in 1986 and 1988.
+Table 3: Project Timetable
+Steps in Project Cycle                        Date Planned a/             Date actual/
+l ____________________________________________________________   l                     l_____________________ _    Ixlatest    estim ate
+Identification (Executive Project Summary)                            March 91                March 1991
+Preparation                                                        Oct 90 - Nov 91          Oct 90 - Nov 91
+Appraisal                                                          Oct 91 - Nov 91            9-22 Dec 91
+Negotiations                                                          Feb 1992            27 April - I May 92
+Board presentation                                                   May 1992                  7 July 92
+Signing                                                              June 1992                 8 July 92
+Effectiveness                                                         July 1992                8 Dec 92
+Project completion                                                   30 June 94                31 Dec 93
+Loan closing                                                         31 Dec 94                 31 Dec 95
+a/ Based on the BTOR of the first mission (March 20-30, 1991) and the President's Memorandum for the Loan.
+
+
+
+-12-
+Table 4: Loan Disbursements: Cumulative Estimated and Actual
+(US$ millions)
+_                             |       i~~~~~~~ ~~~~~~Y1993   17  FY1994                FY1995
+Appraisal estimate                           75.00                   96.00                   105.00
+Actual                                       33.73                   42.86                   91.71
+Actual as % of estimate                     44.5 %                   44.7 %                  87.3 %
+Date of Final Disbursement: 26 October 1994
+The remaining amount of $ 13.29 was cancelled in two instalments.
+Table 5: Key Indicators of Project Implementation
+[                   Key implementation activities in SAR                           Estimated             Actual
+l                                                             ~~~~~~~                           ~~in SAR  l
+A.  Award of Contracts
+1) Consulting services for project engineering                              30 Apr 91            30 Apr 91
+2) Supply of linepipe contract                                              20 Dec 91            20 Dec 91
+3) Supply of coating services for pipes                                     20 Dec 91             15 Jan 92
+4) SCADA and communications contract                                          1Jun 92             4 Jun 92
+5) Pipeline construction contract                                           25 Jun 92            25 Jun 92
+B.  Engineering and Design                                                        31 Dec 91           31 Dec 91
+C.  Material Supply and Construction
+1) Supply of linepipe-complete delivery                                     31 Oct 92            30 Sep 92
+2) Complete pipe coating                                                    31 Dec 92            30 Mar 93
+3) Complete 32" pipe laying                                                 31 Mar 93            19 Jun 93
+4) Complete 24" pipe laying                                                 31 Aug 93            31 May 93
+5) Complete riser platforms and onshore facilities                          30 Nov 93            30 Nov 93
+6) Complete SCADA and communications work                                   30 Nov 93            31 Dec 93
+D.  Completion, Testing and Operation
+1) Certificates of completion of all contracts                              31 Dec 93            30 Sep 94
+2) Testing and Commissioning                                                30 Nov 93             3 Feb 94
+3) Start of regular operations                                             31 Dec 93 /a           6 Mar 94
+E.  Key delivery dates for gas
+1) Gas delivery from Bongkot to Erawan                                      30 Jun 93            17 Jul 93
+2) Gas delivery from Erawan to Khannom                                      31 Dec 93             4 Feb 94
+a/ SAR noted that this estimate by PTT might be optimistic and indicated that regular operations were more likely to
+commence from June 30, 1994.
+
+
+
+-13-
+Table 6: Key Indicators of Project Operation
+Key Indicator           |              Estimated              [               Actual
+Delivery of Natural Gas              1993   -                              1993   11.08 bcf
+1994  64.00 Bcf                      1994  71.72 bcf
+1995   82.50 Bcf                     1995   83.69 bcf
+Sale of Condensate                   1993   -                              1993   0.61 mmbl
+1994   1.0 nmmbbl                    1994   1.24 mmbbl
+1995   1.25 mmbbl                    1995   1.50 mmbbl
+Table 7: Studies Included in the Project
+Purpose as defined at                                                     i
+Study           l         appraisal/redefined       J      Status             Impact of study
+1. Study on MIS and staff    To upgrade the management          Completed under  Bank prepared the terms of
+training                 information systems in PTT and to   Canadian grant   reference and reviewed Study.
+train related staff                 funding          Recommendations have been
+implemented. Training
+completed.
+2. Engineering Study        For transportation of additional gas  Completed       Resulting Project was funded
+from Erawan to Bangkok Area                          by the Bank under Loan 3799-
+TH
+3. Engineering Safety and   A study to enable the preparation of    Completed in  Will result in staff manuals for
+Environmental Standards   standards of engineering safety and  mid-April 1996   the subject covering PTT's
+Study                    environmental aspects of PTT's oil and                natural gas operations.
+gas operations
+4. Environmental Standards   To evolve common norms and          Completed under  Amendments to the Petroleum
+and Regulations for Oil   standards for all field operators in  ADB technical    Act of Thailand and Regulation
+and Gas Exploration and   Thailand and especially in the Gulf of   assistance  are expected to be issued soon.
+Production               Thailand.
+PTT was recently reorganized
+5. Study on the Business                                        Completed under  into business units following
+Strategy and Privatization  To review the options available to PTT  ADB technical   the concept of arms-length
+of PTT.                 in a value maximizing environment.    assistance       subsidiaries for eventual
+I                                   I                Iprivatization.
+
+
+
+-14-
+Table 8A: Project Costs
+(US$ million)
+Appraisal estimate             Actual/latest estimate
+Item                    Local  ffForeign      T-otal    Locad     Foreign      Total
+1. Civil works/buildings                3.00         -         3.00      1.58        -         1.58
+2. Pipe material (linepipe)              -          77.20     77.20      -          77.22    77.22
+3. Pipe coating and jacketing            -          26.21     26.20      -          26.01     26.01
+4. Pipeline construction                15.00       95.00    110.00     25.08       90.67    115.75
+5. Total equipment                       -          20.00     20.00      -           18.04    18.04
+6. SCADA/telecom                         3.70        6.60     10.30      3.91        6.84     10.75
+7. Riser platform                        -          38.00     38.00      -          43.80    43.80
+8. Engineering consultancy               3.50       11.50     15.00      2.39        12.17    14.56
+9. MIS and training                      0.10        0.90      1.00      0.41         -        0.41
+10. Environmental study                  -           0.20      0.20      0.17        -         0.17
+11. Second pipeline study               0.20         1.80      2.00      0.16        0.83     0.99
+12. Taxes and duties                    13.00        -        13.00      3.26        -         3.26
+13. Base Cost                          38.50       277.40    315.90     36.96      275.58    312.54
+14. Physical Contingency                3.10        22.20     25.30      -           -         -
+15. Price Contingency                   0.80         6.00      6.80      -            -        -
+16. Total Proiect Cost                 42.40       305.60    348.00     36.96      275.58    312.54
+17. IDC and other charges               2.60        19.40     22.00     11.45        9.95    21.40
+Total financing required     1 45.00      325.00    370.00      48.41      285.53    333.94
+Table 8B: Project Financing
+(US$ million)
+Appraisal estimate             Actual/latest estimate
+Source                   Local    ivoreign  7Total       Local                 Total
+1. IBRD                                 4.20       100.80    105.00      1.83       90.05    91.88
+2. Eximbank US                           0.70        6.60      7.30      -           2.35      2.35
+3. Eximbank Japan                        7.00       45.00     52.00      -          45.08    45.08
+4. Asian Development Bank                8.00       50.00     58.00      -          47.41    47.41
+5. PTT Bonds & other borrowings         10.00       46.00     56.00     40.98        14.01    54.99
+6. PTT's internal cash generation       15.10       76.60     91.70      5.60       86.63     92.23
+Total                I 45.00       325.00    370.00     48.41      285.53    333.94
+Source: PTT's Finance Division.
+
+
+
+Table 9: Econoinic Costs and Bencfits
+(Do)llhrjigute as trc ic Lo hi.tacIt 1991 US Dollhn,-.)
+1iongkot Field Gas                         l'otal Cost    Gas     Condeinsate   Gas Net  UJiti Value             Coidenisate Toltal Bcnelit Net lcnelit
+Produictioni          Gas Transport       Strcari   I'roduction  Production   13ack    Condcisate Gas Benelit  13enelit    Stream     Stream
+Capital Cost O&M Cost Capital Cost O&M Cost
+(S mil)    (S nil)     (Smiil)     (S nl)    (n mil)      Bcl       MM131.    (S/micl)    (S/BI)       (S Ind)       inii)       mil)    (S mil)
+1990        14.10        3.50                              17.60                                                                                       -17.60
+1991       114.80       10.80        1.29                 126.89                                                                                      -126.89
+1992       193.90      31.80       84.16                 309.86                                                                                       -309.86
+1993       111.80      51.10      175.81        3.14     341.85       11.08        0.61       4.14       15.19      45.87        9.27       55.14    -286.71
+1994        34.40      49.70       39.80        9.42     133.32       71.72        1.24       4.14       13.74     296.92       17.04     313.96       180.64
+1995        36.20      52.50       11.82        9.42     109.94       83.69        1.50       4.14       14.25     346.48       21.38     367.85      257.91
+1996       47.50       52.60        0.13        9.42     109.65      109.80       2.00        4.14       13.18     454.57       26.36     480.93      371.28
+1997        12.80      52.50                1  9.42       74.72      127.75       2.45        4.14       12.44     528.89       30.48     559.36      484.64
+1998        94.60      52.50                    9.42     156.52      127.75       2.45        4.14       12.51     528.89       30.65     559.53      403.01
+1999        53.80      58.00                    9.42     121.22      127.75       2.45        4.14       12.39     528.89       30.36     559.24      438.02
+2000        11.80       58.00                   9.42       79.22     127.75        2.45       4.14       12.27     528.89       30.06      558.95      479.73
+2001        62.80       58.00                   9.42      130.22  . 127.75         2.45       4.14       12.27     528.89       30.06      558.95      428.73
+2002        40.10       58.00                   9.42      107.52     127.75        2.45       4.14       12.27     528.89       30.06      558.95      451.43
+2003         5.30       58.00                   9.42       72.72     127.75        2.45       4.14       12.27      528.89      30.06      558.95      486.23
+2004        30.70       57.50                   9.42       97.62     127.75        2.45       4.14       12.27     528.89       30.06      558.95      461.33
+2005        38.10       57.50                   9.42      105.02     127.75        2.45       4.14       12.27     528.89       30.06      558.95      453.93
+2006                    57.50                   9.42      66.92      127.75        2.45       4.14       12.27     528.89       30.06      558.95     492.03
+2007                    51.50                   9.42      60.92      127.75        2.00       4.14       12.27     528.89       24.54      553.43     492.51
+2008                   43.50                    9.42      52.92      127.75        1.50       4.14       12.27     528.89       18.41      547.29     494.37
+2009                    32.50                   9.42      41.92      127.75        1.00       4.14       12.27     528.89       12.27      541.16     499.24
+2010                   20.00                    9.42      29.42      127.75        0.50       4.14       12.27     528.89        6.14      535.02     505.60
+EIRR           34.16%
+NP'V          $1.6106.7
+Noles:
+1 Acitial c;apiltil expeodilitrc onll Songkol gas tranilsimission excuidi )og taxcs adl dtilics hals heii coniveltled into constanitl 1991 dollairs hy usinig i5-MIIV Idlex (Co(,uiloU/i/y
+tlareiIs & DJeveloin,g (CountrieCs, Feb 1996) lor loreigi curreiicy cosis andThailand Consumer lPrice Index) (TIHIA-Key IL'conanfic Indica/o/S) lir local currency costs.
+2. ( )& NI cx1icili l ores lor ( Gas Irasnis issioii is al 3`1 ol capital cost ol' thie Irallsiliission fI.i filics.
+3. Gas Iransinission acluals and outllook are better than Iorecast duriig appraisal. Production will increase 1rom 250 imclCd to 350 iimicld Ironi Juinc 1996.
+Condensate production will also increase correspondingly. These increases can be handled by the cxisting system wilhouit any additional capital invesiment.
+4. Gas net back value has been recomputcd at $4.50 mmblu in the Fuel Option Study (Dcc 1993) having importcd coal-based steam
+po%%er planit v.ilh 1'GI) as reference unit lo be replaced by gas-lired combined cycle unit and with 20/ of the gas being used by indusiry to replace lPG.
+Nonetla:hess. to be on the conservalive side, it has been decidcd to use $4. 14/,ncf calculated during appraisal as the gas nethack value.
+5. :olluwing the mtchodology in appraisal, condensale valuc is assumcd lo be $1.0 lower than crudc oil prices/barrel and price movements
+follo%% the oil price forecast contained in Commodity Markets and Developing Countries (Fcb 1996).
+6. Scnsilivity run using gas and condcnsate production levels exacily as given in the SAR for tie years 1996-2010 yields an ERR of27.81% and an NPV of $998.0 million.
+
+
+
+-16-
+Table 10: Status of Legal Covenants
+I Loan No.                          Original      Revised
+Agreement  Covenant  Present  fufillment   fulfillment          Description of covenant            Comments
+Section      type      Status      date         date
+LA  5.0        1                     -            -       Accounts to be audited by         Audiung is by the
+(b)(i)                                                  independent auditor acceptable to  Auditor General of
+the Bank                         Thailand
+LA 5.01        I         C           -            -       Audited financial statements to be
+(b)(ii)                                                  provided to the Bank within 6
+months from the end of financial
+year.
+LA 5.02        5         C           -            -       PTT to consult the Bank before    -
+amending gas sales and gas
+purchase agreements.
+LA  5.03       6          C          -            -       PTT to ensure full implementation   -
+of action plan contained in the
+Environmental Assessment Report.
+LA 5.04        2          C          -            -       PTT to achieve an SFR of 159% for  -
+FY1993 and 25% thereafter.
+LA 5.05        2          C          -            -       PTT to maintain a debt service    -
+overage rato of 1.3 times or
+greater.
+LA 5.06        2          C                 -             PTT's debt/debt+equity ratio not    Under Loan No. 3799-
+to exceed 60% (on the basis of   TH, this has been
+revalued assets).                changed to 70% (on the
+basis of book value).
+LA Sch. 5      13         C        31 Mar          -       PTTto fumish to the Bank an
+para. Al                           1993                   ipspection test report on the
+existing 34" pipeline before 31 Dec
+1992, exchange views with the
+Bank before 31 Mar 93, and
+implement the report.
+LA Sch. 5      9          C           -            -       PT7 is to furnish Quarterly       -
+para. A2                                                  Progress Reports.
+LA Sch. 5      5          C        31 Dec          -       PTT to engage consultnts and      This was done using
+para. B 1                          1993                   carry out a study on MIS and      Canadian grant funds.
+provide reports to the Bank.
+LA Sch. 5      5          C        31 Mar          -       PTT to exchange views with the    -
+para. B2                           1994                   Bank on the above report and
+ensure implementation.
+LA Sch. 5      6          C        31 Mar          -       PTf tO funimsh an audit report on    -
+para. Cl                           1993                   the safety of its operations to the
+Bank, exchange views and ensure
+implementation of the
+recommendations.
+LA Sch. 5      6         CD           -                    PTr to engage consultants and     Compliance was
+pan. C2                 CP                                carry out a study on Safety       delayed and the study
+Engineering and Environmental    was completed in mid-
+Standards of its operations and  April 1996. Study
+fumish the report to the Bank.   covers only natural gas
+related operations.
+LA Sch. 5      6         CD        31 Dec          -       P1  to exchange views with the    Compliance is expected
+para. C3                           1993                   Bank on the above report and     in the course of 1996.
+ensure its implementation.
+LA Sch. 5      13         C        31 Mar          -       PTT to engage consultants and
+pam Dl                             1993                   carry out an engineering study for
+the second pipeline from Erawan to
+Rayong and provide report. to the
+Bank
+LA Sch. 5      13         C      30 Jun 1993       -       PTT to exchange views with the   The project is presently
+para. D2                                                  Bank on the above report and      under construcdon
+ensure implementation.            financing under Loan
+No. 3799-TH.
+Minutes of     5          C           .                    PTT and the Bank to jointly review   These reviews took
+Loan                                                    PTT's investment plan every year   place in the context of
+Negotiation                                                based on reports to be given by   supervision and
+pam. 19                                                   PTI before 31 Dec each year.      preparation of the
+following project.
+
+
+
+-17-
+Loan No.                          Or41nal      Revised
+Agreement  Covenant  Present  fulfilllnent  fulUillment      Description of covenant           Comments
+Section     type      Status     date         date
+Minutes of     I        NC          -            -      In addition to the audit by the  Under the loan
+Loan                                                  Auditor General, PTT is to have its  negotiations of the next
+Negotiation                                              accounts audited by a private   loan (Loan 3799-TH),
+para. 7                                                auditing firm acceptable to the  this was reiterated and
+Bank according to an agreed scope   the private auditor was
+of work.                        required to provide a
+long form report within
+three months from the
+submission of the
+Auditor General's
+report. Compliance is
+being followed up
+under this loan.
+Present status:
+C - In compliance
+CD - Compliance delayed
+CP - Partial compliance
+NC - Not in compliance.
+Types of covenants:
+I - Accounts and audit
+2 - Financial performance
+; - Management aspects of executing agency
+6 - Environment
+9 - Monitoring, review and reporting
+13 - Other
+
+
+
+-18-
+Table 11: Compliance with Operational Manual Statements
+Statement number and title                        Description and comment on lack of compliance
+None                                        No significant lack of compliance with
+an applicable Bank manual statement.
+Table 12: Bank Resources: Staff Inputs
+l ~~Actual*
+Stage of project cycle                 tee         ul*
+Pre-appraisal                               53.7             171.3
+Appraisal                                   22.3              75.0
+Negotiations                                18.3              64.5
+Supervision                                  6.7 a/           25.6
+Completion                                    1.0              8.8
+TOTAL                      [     102.0             345.2
+* As of 1/5/96.
+a/   Most of the supervisions of this project were combined with sector work and
+lending/supervision work of the Fuel Option Study and Second Gas Transmission Project.
+Table 13: Bank Resources: Missions
+Stage of     Month/   Number   Days          Specialzed staff           Performance rating             Types of
+project cycle    year        of        in    skills represented a/  Implementation   Development         problems
+persons    field                               status         Objective
+Preappraisal      3/91        3         9             1,2,3         |                 |               |
+6-7/91       5        13           1,2,3,4,5               -                -       l
+Appraisal         12/91       7         9           2,4,5,6,7       |                 |               |
+Supervision       9/92        1         2               2                    -                -       |
+2/93        4         1 1          2,4,5,6                1                 1 l
+9/94        1         2              2                    S               HS       l
+12/94       1         8               2                    S               HS          safery study
+12/95       1         9               2                   S                HS         delayed safety
+study delayed
+Completion        3/96        2         5              1,2                   S               HS           safety study
+l________  l_________         l____________________  l_________________                     delayed
+a/ I =encrgy economist, 2=energy specialist, 3=informatics, 4=financial analyst, 5=environmental specialist, 6=petroleum geologist,
+7 = senior management.
+
+
+
+-19-
+Table 14: Actual Production of Gas and Condensate
+Average Daily gas Flow from                          Actual Production   |
+Period                                  Bongkot Fleld (mmcfd)                                of Condensate
+Bongkot to Erawan       Erawan to Khanom         Erawan to Rayong             mmbbl
+1994                           196.50                   92.66                   103.84                   1.24
+1995                           229.30                   122.42                  106.88                   1.50
+1996 Jan                       275.00                   157.00                  118.00                   0.181
+1996 Feb                       294.00                   154.00                  140.00                   0.144
+Note: In 1993, a total of 11.08 bcf of gas was produced in the Bongkot field and flowed to Rayong via Erawan. A total of 0.61 numbl of
+condensate was also produced in 1993.
+Source: PTT, Supply Operations Division, Natural Gas Supply Department.
+Table 15: PTT's Forecast and Actual Financial Performance
+Item                  |  Covenant  I FY92 I FY93 I FY94    FY95    FY96    FY97  | FY98
+1. Self Financing Ratio                  >25%
+(a)                                                       25       16       25        25       38         -
+(b)                                                      135       32       42        27       48       37       80
+2. Debt Service Coverage Ratio           > 1.3 times
+(a)                                                      3.1      2.3       1.8      1.7       1.9        -        -
+(b)                                   <70%               3.2      3.5       3.0      3.4      2.7       3.0      2.5
+3. Debt/(Debt+Equity) Ratio
+(a)                                                       40       48       55        55       53         -        -
+(b)                                                       42       42       50        55       58       60       59
+Notes:
+(a) = forecasts in SAR (Dec. 91)(b) = actuals/forecasts during ICR mission (March 96)
+I .      Items (1) and (2) calculated after excluding prepayments of loans by PIT (which is restructuring its debts) as agreed to during
+negotiations under Loan 3508-TH.
+2.      Item (3) calculated on the basis of historical costs of assets (book values) as agreed to during negotiations under Loan 3799-TH.
+3.       Calculations for FY92 to FY95 are based on audited Financial Statements and clarifications provided by PIT. Those for other
+years are based on PTT's forecasts.
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Appendix A
+
+
+
+I
+
+
+
+-20-                           Appendix A
+Pace I of 2
+THAILAND: BONGKOT GAS TRANSMISSION PROJECT
+(Loan No. 3058-Th)
+AIDE IMEMOHE
+LMPLEtYENTATION COMPLETION REPORT MISSION
+1.    A World Bank Implementation Completion Report Mission (ICR Mission)
+visited Thailand during 11-15 March 1996 to collect materials for the preparartion
+of the ICR for the above mentioned Project and to hold discussions with the officials
+of the Borrower, Petroleum Authority of Thailand (PTT).
+2.    A World Bank loan of $ 105 million was approved for the above Project on
+7 July 1992 and became effective on 8 December 1992. The construction of the
+Project facilities was completed by end 1993 as originally scheduled and
+commercial operations commenced in January 1994. The pipelines are operating
+normally since then and planned gas deliveries from the Bongkot gas fields are
+being made. The gas availability in the Bongkot field has turned out to be more than
+anticipated and the field operator is ready to increase the contracted deliveries from
+the level of 250 mmcfd to 350 mmcfd; In the context of demand for natural gas in
+Thailand increasing at higher than forecast rates, the sustainability of the Project
+seems to be fully assured. The Project has been imnplemented at a cost of about
+S 334 million or about 10 percent lower than the cost estirnated at the time of
+appraisal. The economic and financial rates of return, based on actuals upon
+completion of the project are expected to be even higher than those calculated at the
+time of Project appraisal. The World Bank loan account was closed on 31 December
+1995, after canceling a surplus amount of about S 13 million. The Project, thus, has
+been successfully completed and PTT believes that there are no special issues to be
+raised for discussion.
+3.    PTT has carried out most of the studies, it agreed to undertake, and has
+complied with most of the covenants under the loan. It would appear that there are
+only a few items to be highlighted for follow up.
+4.    The Study on Safety Engineering and Environmental Standards for the PTT
+Operations had been delayed and a draft report had been sent to the Bank recently:
+The draft covers only the operations of PTT relating to natural gas, using the
+Bongkot Gas Transmission Project facilities as an example/pilot for the study. The
+draft is being revised taking into account the comrnments of the various sections of
+PTT, and the revised version will be forwarded to the Bank not later than 15 April
+1996. PTT plans to use this study to prepare and issue the relevant Manuals for staff
+use on this subject. PTT also plans to carry out a similar study for its oil related
+operations at an appropriate time.
+5.    PTT had agreed earlier to engage an independent private auditor experienced
+in the oil and gas industry to review its financial statements and prepare a long form
+report to restate them in accordance with International Accounting Standards. Such
+long form reports are to be sent to the Bank every year commnencing from FY 1993,
+
+
+
+-21-                          AppEendix A
+Page 2 of 2
+within three months from the date of submission of the Audit Report of the Auditor
+General. However, PTT had been able to conclude a contract with a suitable
+intemational accounting firm for this purpose only in September 1994. The work in
+relation to the accounts of 1994 are ongoing, and the long form report for FY 1994
+could be made available to the Bank in the fourth quarter of 1996. This needs to be
+followed up by PTT.
+6.    Under the current procedures of the Bank, the ICR should include an
+appendix giving the Borrower's part of the ICR. The format and possible items to be
+included in this had already been communicated to PTT and further explained to its
+staff during this mission. PTT has agreed to send its part of the ICR to the Bank not
+later than 25 March 1996, so that the Bank's draft ICR including the Borrower's ICR
+as an appendix could be finalized and sent to PTT by mid April for review and
+comments. PTT's comments on this draft of the Bank needs to be communicated
+within a week or ten days to enable the Bank to finalize the ICR and circulate it to
+its Board of Directors on the scheduled date. Under the Bank's current policy on
+disclosures, ICR is a document accessible to the public.
+7.   The comprehensive Environment Impact Assessment Statement Report
+prepared at the time of appraisal includes an action plan to be pursued by PTT both
+during the construction phase and'the operational phase of the Project. PTT
+confirms that it will maintain the appropriate monitoring arrangements and pursue
+the action plan throughout the operational phase of the Project facilities.
+8.   The Mission wishes to place on record its appreciation of the co-operation
+and assistance provided by the PTT staff and thanks PTT for all the courtesies and
+hospitality extended during its stay at Bangkok.
+March 14, 1996                           M. Farhandi
+Bangkok                      Task Manager, World Bank ICR Mission
+Pichai Chunhavajira
+Acting Deputy Governor, Corporate Finance and Accounting
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+THAILAND
+BONGKOT GAS TRANSMISSION PROJECT
+(LOAN 3508-TH)
+Appendix B
+
+
+
+
+
+
+-22-                               Annex B
+Page 1 of 3
+IMPLEMENTATION COMPLETION REPORT
+BONGKOT-ERAWAN-KHANOM PIPELINE PROJECT
+1. Project Description
+The main objective of the Bongkot-Erawan-Khanom Pipeline Project was to provide the
+Petroleum Authority of Thailand (PTT) with gas transmission capability from the Bongkot
+and Erawan offshore gas fields to customers on Thailand's southern and eastern seaboards.
+This additional supply capability was required to meet the increasing energy demands of
+Thailand's growing economy.
+The project consisted of the following major parts:
+1. A 32-inch diameter submarine pipeline approximately 170km in length from the newly
+developed Bongkot gas field to an existing platform in the Erawan gas field.
+2. A 24-inch diameter submarine pipeline approximately 160 km in length from the
+Erawan platform to shore at Khanom in southern Thailand.
+3. An onshore gas receiving terminal at Khanom including a liquid slug catcher and a
+short gas delivery pipeline to an EGAT power plant.
+4. SCADA and Communications additions and upgrades to PTT's existing system,
+including construction of a new control building in Chonburi, a Product Management
+Information System, and a Pipeline Simulation Model.
+The project began in April 1991 and was completed in December 1994.
+2. Project Implementation.
+The project was split into two phases, with Phase I including detailed engineering, site
+surveys, and bidding, and Phase II consisting of installation engineering, construction,
+precommissioning, commissioning, and start-up. Multiple Contractors were used for
+
+
+
+-23-                                Annex B
+Page 2 of 3
+supply of linepipe, pipe coating, construction, and SCADA and Communications
+installation. Overall project coordination and project management services were provided
+by a Consultant to PTT.
+The project was executed well, with the only major difficulty being weather delays due to
+unusual occurrence of two typhoons affecting the Gulf of Thailand during marine
+construction. Since these delays occurred early in the project, Contractors were able to
+compensate in later activities.
+3. Project Costs
+Final actual costs for each portion of the project were as follows (all figures in millions):
+Consulting                            US$   14.56
+Supply of linepipe                           77.22
+Linepipe coating and jacketing               26.01
+Pipeline and facilities                     115.75
+SCADA and Communications                     10.75
+Civil Works                                   1.58
+TOTAL                                        18.04
+RISER PLATFORM                               43.80
+MIS and Training                              0.41
+Environmental Study                           0.17
+2nd Pipeline Study                            0.99
+Taxes and Duties                              3.26
+IDC                                          21.40
+Total   US$  333.94
+
+
+
+-24-                               Annex B
+l'age 3 of 3
+4. Economic Re-evaluation
+The economic evaluation of the project takes into consideration both the capital costs and
+the operating costs for the pipeline against the benefit derived from sales of gas and
+condensate. Detailed figures have been provided by PTT Planning Department showing
+the costs and benefits on a year-by-year basis. Of greatest note is an improvement in the
+benefit received from the gas streams over the original economic evaluation. This higher
+gas stream benefit has contributed to the increased project EIRR of 29.73% over the
+original estimated EIRR of 26.33%.
+5. Performance of the Bank
+The project was closely monitored by the Bank. During implementation, the Bank actively
+played a constructive role in many parts of the Loan Projects. Close monitoring by the
+Bank was of value in expediting implementation.
+
+
+
+I
+I
+
+
+
+IBRD 23485R
+'.CHINA        -TALN
+5* CHINA,,,                               100°                                          102'                                       104'
+MYANMAR  )THIA
+,*' PEMPL S;                                                BONGKOT GAS TRANSMISSION PROJECT
+-RE._ '                14                         PROPOSED PIPELINE ROUTES AND OFFSHORE PLATFORMS
+i THAILAND   ',   i VIET                             BANGKOK                           FUTURE PROPOSED EXISTING
+THAI, AN    ' .     VIE1                                                                         -        -NAM   GAS PIPELINES
+MBDAic .A  A  TERMINALS
+AREA  i   . _ . _  I>                                                      *        *        *      PLATFORMS
+A                                                                 Chonburi                                 *               POWER PLANTS
+MAP                                                                                                                       GAS FIELDS
+DISPUTED AREA
+MALAYSIARayng )                                                                                          - -   INTERNATIONAL BOUNDARIES
+MALAYSI[A                     )Sattahip0!                                 5
+98°                                                                                                         )
+~1                                                                      I
+-12'                                                                         I'                                                                  12'-
+MYANMAR  0* o Prachuop
+/  Khiri Khan             /                                                   CAMBODIA
+(                              /            I7/
+DISPUTED AREA
+/        0 Chumphon
+I-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~I,
+.                                               Pt,^T~~~~~~~~~~ONG /
+KHANOM ONSHORE
+TERMINAL & POWER PtANT 24                   WAN PRODUCTION
+A   2A" ~~~~~TO~MCOMPLEX
+SuratThanio  EGAT               160KM  EPA
+POWER PLANT                    RISER             
+PlA7TFORM     \          \        \
+Phongnga
+O                       Nakhon Si                                         \ \\
+Thammaratl
+Krabi
+Phuket O                                                                           BOlQK    '
+STRUCTURE _       \         \
+PROWCO                \ 
+Trang Phatthalung                                     PL,\
+0   0
+0Songkhla
+Satun.                                                              "
+S0ifl\                    Yalo
+0
+'5-  J.i         N            Narnthiwat 0                           Th,at-p h-ebop  r.dby
+6arthe -on-ninc of reder
+a-d is  nlus-nel  far the
+0       40      80      120     160    200                                 1                                             =1 erat The World   6-
+I___ ___ ___I ___ ___ __I _ ___ ____I __ ___ __I   I                                                                    and  the  boundaries  sho-n
+(                                 an ~~~~~~~~~~~~~~~~this -ap d net ;.sply, an ?he
+KILOMETERS                                                                                             par  r nf The Wold Bank G-oup
+a-y j.dgnteot o- the legal
+9t8'` aFany t12nitainy a any
+98~~~~~~~~~~ ~~o(,                                       MA AY IA              10'                     -nh ban-dor-    104'
+JULY 1992
+
+
+
+
+
+
+IBRD 23519
+CHINA       -.                               100                                                102                                             1u4
+MYANMAR                                                                                                       THAILAND
+, PEOPLE S                                                         BONGKOT GAS TRANSMISSION PROJECT
+/     ' 'IDEM   I<,
+-  REP_                          14                                               GULF OF THAILAND - GAS FIELDS                                           4
+THAILAND   '                                              BANGKOK                                    {Z       * BASIN OUTLINES
+) VIET
+..NAM                                                                              0       GAS DISCOVERIES
+AMBODIA i                                                                                    0        GAS FIELDS
+AREA      i
+OF                         .
+MAP                  I                                                                                                      DSPUTED AREA
+J                                                                                             -  ? -   INTERNATIONAL BOUNDARIES
+Rayong               0        40       80       120      160      200
+MALASIASattki                                                             0                  I         1       I         1         1        1
+MALAYSIA                          )                             Sottohip                                                KILOMETERS
+Th,s .ep h-5 boen pred by
+The WdId Beh'ss -k-exclooely
+for the convenience of readers                  -
+and it esoloioefy for he1
+-emol e of The Wortd ban                                                                                                                                          12'-
+16nop The deno,,insoti-  A e  IVYANMAR
+on,d te boundories shown    II.,,1oIV/l
+thia  pdo rp -   -ply. on th                     * 0  Prachuap
+par of The World nk Grop.                         /     Khiri Khan                                                                         CAMBODIA
+ony Idg-ent-on th;IepaI.
+s'hJs T-Y WJny -eley o n  
+endor-et-enor,ocoept- of                      I
+,0oh hocodanes                              (                                                /                                         /
+/1                                            0   I                                   //
+.s            /      I           |                    j \      DISPUTED AREA           /
+_          /CHUM PON                                  /\\/
+BASIN
+(   Chumphon                                                                            /
+PAITANI
+/0                  O                 BASINGHS              TROUGHONGKHLA
+100                                                             BASIN                                         710'-
+01104
+100
+Surat Thani Q                                             1 i      12\
+70
+0             ~20 60
+Phongnga                                                                1     0
+0                          Nakhon Si o13
+Thommorato
+Krobi
+-8                               0                                                                             0    O                                              8-
+Phuket O                                                                                                                                 FUTURE
+THAILAND-MALAYSIA
+| | | \ \ \ \ \ ~~~~~~~~~~~JOINT DEVELOPMENT
+Gas Fields & Discoveries                Trang  Phattholung                                                       20                       OND AREA
+Numbered by Basin                         O          0                                                                                       AREA
+OFFSHORE PATrANI
+Gas Fields:       Gas Discoveries:
+I -Ere,oon        " -Pladong                                        0
+2-Boonpat          2-Pakarang                                         Songkhlo                                                     3 
+3-Satun           12 -Trot
+4-Platong         13 -Pailin
+5-Kaphong                                            Satun                                                                      MALAY BASIN
+6-Funan                                                   f                         Yala
+7-Jokrawcan                                       _
+8-Gomin                                                                                 N ,    rathiwt/                          9V 0
+9-Surat            /Y N                                                                      h                                      5               4
+OFFSHORE MALAY                                                             _                                                        0
+Gas Fields:       Gas Discoveries:                                                                          )                          11          60
+1 -Bongkot       2 -S.Bongkot                                                                          /                                 0                  6 -
+4-Jernch          3 -Pilong
+5-Bintang         9-Damon                                                      '                                                             012   07
+6-Sepait         10Lawt                                                                                                                         130       8
+7-lnas           II -Noring                                                                                                                               8
+B-Buang          12 -Bedong                                                     tvtMALAYSIA
+13 Tuioh                          100'                                                102
+FEBRIJAhY 1992
+
+
+
+
+
+
+
+
+
+1 MAG I NG
+ReDort No:        15679
+Type: ICR
+
+
+
