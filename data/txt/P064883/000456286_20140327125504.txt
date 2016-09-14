@@ -1,0 +1,1455 @@
+                                                                86278
+
+                   PES Learning Paper 2007-4
+
+
+Mapping Environmental Services in Highland Guatemala
+
+              Stefano Pagiola, Wei Zhang, and Ale Colom
+
+
+
+
+                           December 2007
+
+   Latin America and Caribbean Sustainable Development Department
+                             World Bank
+                          Washington DC, USA
+Abstract	  
+This paper uses data from Guatemala to map areas that are important for the provision of
+indirect ecosystem services—services whose benefits are enjoyed at some distance from the
+ecosystem that provides them, such as watershed services (enjoyed downstream) or biodiversity
+conservation (enjoyed globally). These services are usually externalities from the perspective of
+land users, and so tend to be under-provided. Mapping the areas that supply such services links
+the supply and demand of ecosystem services in a spatially explicit way, allows the identification
+and prioritization of areas of conservation interest.
+
+Authors	  
+Stefano Pagiola is senior environmental economist and Wei Zhang is consultant in the
+Environment Department, World Bank. Ale Colom is an independent consultant.
+
+Keywords
+Environmental services, mapping, watershed, biodiversity, Guatemala
+
+Acknowledgements
+Work on this paper was financed in part by a grant from the Norwegian Trust Fund for
+Environmentally and Socially Sustainable Development. The opinions expressed in this paper are
+the authors’ own and do not necessarily represent those of the World Bank Group or the
+Government of Norway.
+
+Cover	  photo
+Volcán del Fuego, Guatemala (Stefano Pagiola).
+
+
+
+
+PES	  Learning	  Papers	  
+PES Learning Papers draw on the World Bank’s extensive experience in supporting programs of Payments
+for Environmental Services (PES). They are part of a larger effort by the World Bank to provide open
+access to its research and make a contribution to development policy discussions around the world.
+The PES Learning Paper series disseminates the findings of work in progress to encourage the exchange of
+ideas about PES. An objective of the series is to get the findings out quickly, even if the presentations are
+less than fully polished. The papers carry the names of the authors and should be cited accordingly. The
+findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They
+do not necessarily represent the views of the International Bank for Reconstruction and
+Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World
+Bank or the governments they represent. The boundaries, colors, denominations, and other information
+shown on any map in this work do not imply any judgment on the part of The World Bank concerning the
+legal status of any territory or the endorsement or acceptance of such boundaries.
+               Mapping Environmental Services in Guatemala
+                      Stefano Pagiola, Wei Zhang, and Ale Colom
+
+
+                                   1. Introduction
+      The Millennium Ecosystem Assessment (MA) has highlighted the importance of
+the services that natural and managed ecosystems provide, and the threats they are
+experiencing (MA, 2005).
+       To be able to address the threats, it is important to improve our understanding
+of ecosystems, the services they provide, and the threats they face. A critical aspect
+that has often been neglected to date is the spatial aspect of services.
+       In this paper, we use data from Guatemala to map areas that are important for
+the provision of indirect ecosystem services—services whose benefits are enjoyed at
+some distance from the ecosystem that provides them, such as watershed services
+(enjoyed downstream) or biodiversity conservation (enjoyed globally). These services
+are usually externalities from the perspective of land users, and so tend to be under-
+provided. Mapping the areas that supply such services links the supply and demand of
+ecosystem services in a spatially explicit way, allowing us to identify and prioritize
+areas of conservation interest.
+
+                              2. Ecosystem services
+       The MA classifies the services that ecosystems can provide into four broad
+categories: provisioning services, regulating services, cultural services, and supporting
+services (Figure 1A) (MA, 2005). This typology separates services along functional
+lines. These categories illustrate the diverse ways in which ecosystems contribute to
+human welfare.
+        We focus here on services whose benefits are enjoyed outside the ecosystems
+that provide them—what economists call indirect benefits (Figure 1B). In the MA’s
+classification, these are primarily regulating and supporting services, as well as some
+cultural services. There are two reasons for doing so.
+   ! First, because of the physical distance between the ecosystems that provide
+        the service and the service users, it is often far from obvious where the
+        services originate. One cannot harvest a crop without knowing where it grows;
+        but it is perfectly possible to enjoy clean water without having the faintest
+        idea of where it came from.
+   ! Second, and again because of the physical distance between the ecosystems
+        that provide the services and the service users, most indirect services are
+        externalities from the perspective of the ecosystem managers. Ecosystem
+        managers are typically neither compensated for providing the services, nor
+        penalized for not doing so. As a result, they tend to ignore these services in
+        making their management decisions.
+
+
+
+                                           1
+                            A.The Millennium Ecosystem Assessment
+
+
+
+
+Source: Millennium Ecosystem Assessment, 2003.
+
+                                      B. Total Economic Value
+
+
+
+
+                           Figure 1: Typologies of ecosystem services
+
+       In most cases, the main external services of interest are water, biodiversity
+conservation, and carbon sequestration. Our analysis focuses on water services, for
+several reasons. First, water is a critical factor in economic growth and human
+welfare. Insufficient and/or irregular flow and poor quality water constitute major
+sources of human health and development problems and constraints in many
+developing countries. Second, biodiversity conservation priorities have been the focus
+of considerable work in recent years, which has included at least some basic mapping
+work in most countries, in the context of National Biodiversity Strategy and Action
+Plan (NBSAP) processes or their equivalent. Carbon sequestration services, on the
+other hand, are not spatially specific. A molecule of carbon removed from (or
+prevented from entering) the atmosphere anywhere in the world, by whatever means
+is equivalent to any other carbon dioxide molecule. The only spatial aspect of this
+service is the need to document that areas afforested or reforested under the Clean
+Development Mechanism (CDM) were without tree cover prior to 1990. Third, unlike
+biodiversity conservation and carbon sequestration, many water uses have tangible
+(and sometimes rivalrous) use value. Due to the spatial nature of the flow of the
+service, beneficiaries and their demand are relatively easy to identify and evaluate
+(Pagiola and Platais, 2007), offering a potential for using market-based mechanisms to
+equalize the spatially linked service supply and demand.
+      Recognition of the problem posed by the degradation of ecosystem services and
+of the failure of past approaches to dealing with it has led to efforts to develop
+systems in which land users are paid for the environmental services they generate,
+
+                                                 2
+thus aligning their incentives with those of society as a whole (Landell-Mills and
+Porras, 2002; Pagiola and others, 2002a; Wunder, 2005). The central principles of this
+Payment for Environmental Services (PES) approach are that those who provide
+environmental services should be compensated for doing so and that those who
+receive the services should pay for their provision (Pagiola and Platais, 2007). This
+approach has the further advantage of providing additional income sources for poor
+land users, helping to improve their livelihoods. Several countries are already
+experimenting with such systems, many with World Bank assistance. Implementation
+of PES mechanisms has been essentially ad hoc until now, focusing on low-hanging
+fruit. Mapping and estimating the relative values of areas that are important for
+service provision will allow a more systematic approach to the implementation of PES
+mechanisms.
+
+                                 3. Methodology
+      Our analysis is comprised of two components. First, we mapped the areas that
+provide water services (‘water supply areas’) by identifying the specific location of
+the intakes used by major users (‘takepoints’) to obtain their water and then
+delineating the portions of the watershed that contribute water to those intakes.
+Second, we estimated an index of the value of each water supply area using various
+measures of the magnitude of the service they provide.
+      We focus on the larger, formal sector water users. There is also a considerable
+amount of direct use of water by rural households. Transaction costs make it
+impractical in most cases to base PES mechanisms on such dispersed users.
+       In mapping the areas that provide water services, we focus on surface water
+sources, omitting underground tapping and extraction of groundwater sources, as the
+understanding of belowground waterflows is insufficient to allow recharge areas for
+specific wells to be identified. Information on groundwater use is also more difficult
+to obtain.
+
+Identifying water supply areas
+       Mapping water supply areas begins by identifying the specific location of the
+water takepoints from which users obtain their water. As water use in Guatemala is
+highly decentralized, this was generally accomplished by contacting the users
+directly. Unfortunately, in many cases it proved impossible to obtain more than a
+general location, so that assumptions had to be made to plot a specific location from
+the available data. These assumptions are detailed in the discussion of individual
+water users.
+       Once the location of the water takepoints was identified, we delineated the
+approximate water supply area for each takepoint using the closest 100m contour line
+up to the limit of the watershed, based on the principle that ‘water flows downhill’
+(Figure 2). In cases where water is extracted from a river whose tributaries stretch
+over multiple distinct watersheds that are all part of a larger drainage basin, all
+upstream watersheds in addition to the proportion of the watershed above the intake
+are included in the water supply area. The approach offers a practical and much less
+
+
+                                          3
+expensive alternative to conducting hydrological survey for a quick assessment of
+water service supply. It tends to over-estimate the size of the water supply area, by
+including some lateral areas at altitudes close to that of takepoint from which water
+would likely drain past the takepoint.
+    ! Where multiple takepoints were used by a given user, we took the lowest
+       takepoint if they were located in the same watershed, or repeated the process
+       for each takepoint if they were located in separate watersheds.
+    ! In some cases, multiple users are located in the same watershed. For example,
+       the Canadá and Santa Maria hydroelectric power (HEP) plants are both located
+       on the Río Samalá, about half a kilometer apart. In this case, we delineated a
+       single water supply area, using the contour line closest to the plant furthest
+       downstream. When the two users are located far apart, however, separate
+       water supply areas are delineated. For example, the Matanzas HEP plant, on
+       the Río Matanzas, has its own water supply area. Río Matanzas ultimately flows
+       into the Río Chixoy, and thence to the Chixoy HEP plant about 40km
+       downstream. In this case, a separate water supply area is delineated for
+       Matanzas, which is fully contained within the boundaries of the Chixoy water
+       supply area.
+
+
+
+
+                         Figure 2: Delineating water supply areas
+
+       We use the watershed map of Guatemala developed by Nelson and Chomitz
+(2002). They generated a 100-meter hydrologically correct elevation surface by
+interpolating contour lines and spot heights in combination with lakes and river data.
+This map differs slightly from the watershed map produced by the Ministry of
+Agriculture, Livestock, and Nutrition (Ministerío de Agricultura, Ganadería y
+
+
+                                          4
+Alimentación, MAGA), but the differences are too small to materially affect the
+results.1
+      The study area is limited to the highland areas of Guatemala, omitting the
+northern Petén department (Figure 3). Petén accounts for about a third of
+Guatemala’s land area, but only 3 percent of its population and 4 percent of the poor.
+
+                                                                                                                                           Cuba
+
+                                                                                                                     Cayman Is.
+
+
+                                                          Mexico                                                                     Jamaica
+
+                                                                               Belize
+
+
+                                                                   Guatemala
+
+                                                                                        Honduras
+
+                                                                          El Salvador
+
+                                                                                                  Nicaragua
+                                        Petén
+
+
+                                                                                                        Costa Rica
+
+
+                                                                                                                      Panama               Colombia
+
+
+
+
+                                                                                                               -
+                           Study area
+
+
+
+
+                                                                                 0           45          90                    180             270
+
+                                                                                                               Kilometers
+
+
+
+
+                                                Figure 3: Study area
+
+Estimating the value of water supply areas
+       All water supply areas are not equally valuable. The value of each water supply
+area is estimated using information on the nature and magnitude of each individual
+water use. Data were obtained from governmental and non-governmental sources, as
+well as collected in the field. The lack of legislation regulating the use of
+underground sources for industrial and domestic use renders very difficult the
+collection of information on the subject. It proved particularly difficult to obtain
+information on water quantities and sources used by private individuals and
+companies. Part of the work also consisted of organizing existing data on agri-
+industrial and industrial processing, irrigation, energy generation, and domestic use
+
+1
+    We chose to use the Nelson and Chomitz (2002) watershed map so that we could also use their
+    poverty map of Guatemala and undertake analyses of how service supply areas relate to poverty
+    (Pagiola and others, 2007). If we had used the MAGA watershed map, we would not have been able
+    to examine how areas that are important for service provision compare to areas of high poverty.
+
+
+                                                      5
+that weren’t in formats compatible for geographic analysis, or that were available in
+scattered and incompatible forms. When possible, available data was corroborated
+with information from observations in the field or verified by telephone or in person.
+       One possible approach to estimate the value of individual water supply areas is
+to use the actual water use by downstream users. While this approach has its
+attractions, it also faces significant limitations. First, the amount of water use says
+little about the value of such use. Some uses are very valuable, such as human
+consumption, others less so. In many countries, for example, agriculture is by far the
+largest user of water, but a variety of subsidies and other distortions means that this
+use is often very inefficient. The marginal value of an additional cubic metre of water
+may be very high in some uses, and very low in others. Second, although water
+volume used seems to provide an index which is comparable across users, this is not in
+fact the case. Consumptive water uses (for example, irrigation or domestic supply)
+cannot be compared directly to non-consumptive uses (such as HEP generation). Even
+among consumptive uses, some generate significant return flows (thus reducing their
+net use) while others do not.
+       In this study, we used indices that directly reflect the benefits that water
+provides. Because of the different nature of each water use, each set of users has its
+own value index. That for HEP plants, for example, is based on the installed
+generating capacity of each plant, while that for domestic water supply systems is
+based on the number of households served, while that for irrigation systems is based
+on the area irrigated. These value indices give a broad sense of the relative
+importance of each water supply area. Unfortunately, the indices are
+incommensurate, and so cannot be added together to obtain a single unified index.
+Ideally, the marginal value of an additional cubic meter of water in each use would be
+estimated, but estimating these values is far beyond the scope of the present study.
+Using the prices paid by users for their water would not resolve the problem, as many
+users pay nothing and others pay administratively determined prices that are un-
+related to either the cost of provision or the value of use.
+      The indices are then expressed in per hectare terms by dividing by the size of
+the corresponding water supply areas.
+   ! Where a given user drew water from several distinct water supply areas, we
+      prorated the total value across each area according to their contribution to
+      total use.
+   ! When multiple users (of a given kind of use) are located in the same
+      watershed, the value index for the water supply area reflects their combined
+      use. Thus the value index for this water supply area of the Canadá and Santa
+      Maria HEP plants on the Río Samalá is based on its contribution to both plants
+      together.
+   ! However, when the users are located far enough apart that separate water
+      supply areas are delineated, the value index for the water supply area that
+      serves both users reflects their combined use, but that for the broader water
+      supply area only reflects the value of the use by the downstream user. Thus in
+      the case of the Matanzas and Chixoy HEP plants on the Río Matanzas, the value
+
+
+                                          6
+      index for the Matanzas water supply area reflects the fact that this area also
+      contributes to Chixoy, but the value index for the rest of the Chixoy water
+      supply area is based on its contribution to Chixoy alone.
+
+                    4. Mapping water service supply areas
+       Guatemala receives about 111 billion m3 of water annually, giving an average
+availability of 8,600 m3 per person per year (FAO, 2007). The country is divided into
+three broad hydrological basins (López Choc, 2002; Cobos, 2002). Watersheds that
+drain to the Pacific Ocean are generally small and have steep slopes. Watersheds that
+drain towards the Caribbean tend to be larger; they include Guatemala’s longest
+river, the Río Motagua. Watersheds in the northeast of the country drain towards the
+Río Usumacinta in Mexico, and then on to the Gulf of Mexico. Total water withdrawal
+were estimated to be about 2 billion m3 in 2000, or less than 2% of the country’s total
+renewable water resources. Among the major sectors, agriculture accounts for over
+80.5 percent of withdrawals, followed by industrial users (13.5 percent) and domestic
+users (6.5 percent) (FAO, 2007).
+      Detailed data tables are provided in Appendix 1. Maps for each service are
+shown in Appendix 2.
+
+Hydroelectric power producers
+       HEP producers are the easiest water users to map, as their location and
+installed generating capacity is well-documented, and in most cases can easily be
+verified from available on-line satellite imagery. Moreover, the number of
+hydroelectric plants is small (Appendix Table 1). Most HEP plants are operated by the
+state-owned National Institute for Electrification (Instituto Nacional de
+Electrificación, INDE). There are also several privately-operated HEP plants.
+       Map 1 shows the location of the 17 HEP plants in Guatemala, and the water
+supply areas that feed them. The shading reflects the importance of each water
+supply area, in terms of installed generating capacity per hectare. The mean size of
+HEP water supply areas is 70,000 ha, but there is considerable variation (s.d.=141,000
+ha). The largest water supply area, at over 0.5 million ha, serves the 300MW Chixoy
+plant. If this area is omitted, the average size of the remaining water supply areas
+drops to 32,000 ha. Three other water supply areas cluster at about 100,000 ha, with
+one at just under 40,000 ha and all others smaller than 25,000 ha. The smallest area,
+at under 4,000 ha, serves the 3.9MW San Isidro plant. Although the largest plant has
+the largest water supply area, the size of the plant is generally uncorrelated with the
+size of the water supply area.
+       The mean value of these water supply areas is 1.04KW/ha, but again there is
+very high variability (s.d.=1.04KW/ha). It is interesting to note that the highest value
+water supply area is not the one serving the largest hydroelectric plant (Chixoy).
+Because of its large size (545,000 ha), the value of this water supply area is only
+0.55KW/ha. The water supply areas of medium-sized plants tend to be of much higher
+value. Thus the highest-value water supply area, at 3.45KW/ha, is the 13,100 ha
+upper watershed of Río Las Vacas, which provides water to the 44MW Las Vacas plant.
+
+
+                                           7
+In second place is the water supply area for the 90MW Aguacapa and 8.2MW Poza
+Verde plants, which generates 2.68KW/ha. The smallest water supply area, that of
+the San Isidro plant, has a value of 1.03KW/ha, very close to the mean. The smallest
+plant, the 0.7MW Chichaic plant, is associated with the lowest watershed value of
+0.04KW/ha, because its 17,300 ha water supply area is larger than that of several
+other plants.
+
+Domestic water supply systems
+      There is a large number of domestic water supply systems in Guatemala, with
+as much as 70 percent of households having access to piped water (World Bank, 2004).
+Guatemala is the only Central American country that does not have a national public
+corporation that manages domestic water supply in most urban areas (Walker and
+Velásquez, 1999). The domestic water supply sector is comprised of three
+components:
+   ! service to the Guatemala City metropolitan area, provided mainly by the
+      Municipal Water Firm of Guatemala City (Empresa Municipal de Agua de
+      Guatemala, EMPAGUA);
+   ! other urban areas, served by municipal governments, either directly or through
+      public corporations; and
+   ! rural areas served by Community Based Organizations (Foster and Araujo,
+      2004).
+       This study focuses on urban water supply systems, mainly due to data
+availability constraints. The coverage of water supply systems in rural areas is in any
+case much lower. No ministries have explicit oversight authority over the water
+sector. As a result, information on domestic water supply systems is very hard to
+obtain. Except for the systems operated by EMPAGUA, most water supply systems are
+very poorly documented. To accommodate the uneven quality of available data, we
+conducted separate analyses for systems run by EMPAGUA and by the municipalities.
+       We contacted 273 of the 331 municipalities in Guatemala to collect data on
+their water supply systems. As with other water users, we omitted systems that rely
+solely on wells. Since information is not available on relative dependence on surface
+vs. ground sources, our focus on surface sources may lead to overestimation of the
+values of water supply areas for those systems that rely on both types of sources. We
+focused on relatively larger systems using a cut-off of 1,000 households served.
+      Among those contacted, 199 municipal systems rely, either solely or partly, on
+surface water sources. Of these, 85 (43 percent) had water systems serving more than
+1,000 households. In most cases, specific takepoint locations were not available—only
+the name of the river or stream on which they are located. We assumed that
+takepoints are located at the closest upstream point of the named river to the urban
+centers served, thus allowing us to roughly delineate water service supply areas to
+
+
+
+
+                                          8
+many municipal systems.2 Detailed data on names of surface water sources were only
+available for 42 municipalities; and for another 5 municipalities we assumed they
+drew water from the only nearby river. Thus, we were able to delineate water supply
+areas for a total of 47 municipal systems. The municipal water supply systems and
+their water supply areas are shown in Map 2 and Appendix Table 2.
+       As can be seen in Map 2, the water supply areas serving domestic water supply
+systems tend to be small. With an average size of less than 11,000 ha, they are
+generally much smaller than the water supply areas serving HEP plants, although that
+is not true in all cases. This is partly due to the concentration of population in
+Guatemala’s highland areas, so that most water supply systems draw water from the
+upper part of watersheds. As with HEP water supply areas, there is substantial
+variation in size (s.d.=16,000 ha), with supply areas ranging in size from 600 ha
+(serving Catarina, San Marcos department) to almost 73,000 ha (serving Almolonga,
+Quetzaltenango department) (Table 2 below).
+       The value index in the case of water supply areas that provide water for
+domestic use is the number of households served. Data on the number of households
+served by municipal systems in 2001 were obtained from the National Institute for
+Municipal Development (Instituto Nacional de Fomento Municipal, INFOM). On
+average, water supply areas serve 1.08 households per hectare. The highest-value
+water supply area serves 35,000 households in Santa Lucia Cotzumalguapa, Escuintla
+department, or 6.41 households per hectare. In this case, the highest-valued areas
+tend to be those serving the largest number of households. This correspondence is
+partly due to the small size of their water supply areas. Indeed, the laregst water
+supply area (serving 1,800 households in Almolonga) has the lowest value among the
+47 systems analyzed, amounting to 0.02 households served per hectare. In contrast,
+the smallest water supply area (serving 1,200 households in Catarina) has a much
+higher value at 2.1 households served per hectare, making it the 7th highest-value
+water supply area.
+       The five systems operated by EMPAGUA serve most of the capital, currently
+serving about 85 percent of Guatemala City’s water users (World Bank, 2005). The
+balance is provided by a private firm, Aguas de Mariscal, which supplies about 10
+percent of Guatemala City, and some smaller firms and private wells, which supply
+the remaining 5 percent (World Bank, 2005; Martínez Tuna, 2002). Unregulated
+tapping of groundwater sources is also common in the Guatemala City metropolitan
+area but had to be omitted from the analysis because of data unavailability.
+EMPAGUA’s water supply systems and their corresponding water supply systems are
+shown in Map 3 and Appendix Table 3.
+       The EMPAGUA systems are served by water supply areas that are much smaller
+than those serving municipal systems. The mean size of EMPAGUA’s water supply
+areas is 4,100 ha (s.d.=4,800 ha), only 37 percent of that of other municipal systems.
+
+2
+    This assumption may have resulted in a slight over-estimation of areas, as some systems are likely
+    to draw their water from points higher up in the watershed (to reduce the chances of
+    contamination, or to take advantage of gravity flows).
+
+
+                                                  9
+The largest water supply area (13,100 ha) serves both the La Brigada and Lo de Coy
+systems, while the smallest water (121 ha) serves the El Cambray system (the town’s
+oldest, with one takepoint operating since 1786), generating a value of 2.85
+households per hectare.
+       As with municipal water supply systems, the value index for the EMPAGUA
+systems is the number of households served. The situation is complicated in this case
+because multiple water sources supply a single population. Each of EMPAGUA’s five
+systems serves distinct areas of the Metropolitan area, but no data were available on
+the number of households served by individual systems. To estimate the number of
+households served by each system, we divided system-specific production volumes by
+the monthly average consumption level of 20 m3 per household (Foster and Araujo,
+2004).3 We develop weighting factors based on river capacities to prorate the relative
+contribution of each takepoint to total production of each system.
+       Although the water supply areas of the EMPAGUA systems are much smaller
+than those of municipal systems, their value is much greater. The mean value of
+EMPAGUA’s water supply areas is 11.53 households per hectare (s.d.=13.48). The
+highest value of 55.37 households per hectare is generated in the watershed of Río
+Canalitos and Quebrada Agua Tibia that serves the Ilusiones system. The high value is
+due both to the small size of the water supply area and the relatively higher source
+river capacity of Río Canalitos. The lowest-value water supply area (0.51 households
+per hectare) also serves the Ilusiones system, with both relatively low source river
+capacity and large size of water supply area contributing to the small value.
+
+Irrigation
+        As of 1997, Guatemala has 130,000 ha of irrigated land (FAO, 2007),
+approximately 80 percent of which is privately owned (MAGA, 1993). Irrigation
+systems in Guatemala are classified as private, state, and “minirriego” systems (with
+irrigated areas between 5 and 50 ha). The largest private irrigation systems are
+dedicated to export products: sugar cane fields and banana plantations (FAO, 2007).
+Private systems are subdivided in two categories: (a) large, individual farms owned by
+a person, family or company, and (b) communal systems, where many small scale
+farmers organize themselves to manage a water source for production purposes.
+Irrigation in large private farms is characterized by gravity systems, where water is
+tapped from rivers, collected in temporary earth dams and channels that are rebuilt
+and cleaned after each rainy season. Other systems include the use of pumps, drip
+irrigation, and sprinklers. The use of wells is known but not documented. State
+irrigation systems are characterized by the use of small, permanent concrete dams
+and channels, as well as the use of pumps to reach areas above river levels. Gravity
+systems predominate in this group (MAGA, 1993).
+
+3
+    While imperfect, this approach results in a reasonable estimate of the total number of households
+    served. The population of the Guatemala metro region is 2.5 million (INE, 2006), and the average
+    household size is 4.7 people (Valladares Cerezo, 2003), giving about 530,000 households. About 74
+    percent of water users in Guatemala City are served by EMPAGUA (Martínez Tuna, 2002), or about
+    390,000 households, which is very close to the figure we obtain of 360,000 households.
+
+
+                                                 10
+       Documentation of water withdrawal and intake location of irrigation systems
+was even more limited than for domestic water supply systems. As with municipal
+water systems, most information was obtained by contacting water users directly.
+Here, too, only approximate information could be obtained, and even that for only a
+small portion of all irrigation systems. We focused on larger systems, with a minimum
+of 500 ha under irrigation.
+       The location of irrigated area was estimated by the approximate location of
+villages or farms. As in the domestic water supply case, we assume that intakes are
+located near the irrigated areas. Using available data, we proceeded to delineate the
+service supply areas unless it was impossible to pinpoint from which river water is
+withdrawn.
+        The irrigated areas for which data were available and their water supply areas
+are shown in Map 4 and in Appendix Table 4. The size of the irrigated area provides
+the value index for these water supply areas.
+        The water supply areas serving irrigation systems vary widely in size, ranging
+from a minimum of 2,900 ha to a maximum of 234,000 ha, with an average area of
+about 64,000 ha (s.d.=73,000 ha). Again, the most important water supply areas are
+not necessarily those that serve the largest irrigated areas. In fact, the largest water
+supply area only generates a value of 0.02 ha of irrigated area per hectare. The
+second largest water supply area corresponds to the lowest value of 0.01 ha of
+irrigated area per hectare (tied with another two water supply areas). The highest-
+value water supply area (0.68 ha of irrigated area per hectare) serves an irrigated
+area of 8,770 ha in the Coyolate watershed. The mean value of the water supply areas
+to irrigation systems included is 0.14 ha of irrigated area per upstream hectare.
+
+Other water users
+       Use of water by industrial users is very poorly documented. Moreover, these
+users proved very resistant to attempts to gather information. Because of this, we
+were only able to gather data on a small proportion of all users. Moreover, these
+other users include a wide variety of uses, making it difficult to generate a single
+value index.
+       We obtained information for 1,236 entities that use water to process
+agricultural products, among which 376 were identified in specific watersheds by
+location, along with data on production and employment, including 347 coffee mills,
+14 sugar mills, 6 rice mills, 6 cardamom mills, and 3 dairy plants. Specific spatial
+information on the location of water intakes was generally not available for these
+entities. However, descriptive information of coffee mills and sugar mills indicate
+that they normally tapped rivers and streams located within the farm property. Based
+on this, we were able to identify 107 coffee mills and 2 sugar mills that were located
+along rivers or streams. We based delineation of upstream water supply areas on the
+assumption that water intakes coincide with mill locations (Appendix Table 5 and
+Maps 5A and 5B).
+
+
+
+
+                                          11
+       We also identified the locations of 19 bottled water and soft and alcoholic
+drink producers in Guatemala City and the Motagua watershed. However, production
+data were not available.
+       Value indices for these industrial users would ideally be based on value of
+production, but we were unable to obtain such data. Using available data, we
+calculated the value indices, based either on permanent employment or on seasonal
+production quantities. A small fraction of industrial users also reported on their hire
+of seasonal workers, but this is omitted in the value index calculation. In most cases,
+the job generation capacity of an industrial user is positively correlated with the
+production quantity according to our sample.
+       As in the case of other users, the water supply areas serving industrial users
+vary significantly in size, ranging from a minimum of 345 ha to a maximum of 146,700
+ha, with an average area of about 21,000 ha (s.d.=36,000 ha). The mean value in
+terms of production quantity (quintals) per hectare is 37.6 (s.d.=166.1).4 The mean
+value in terms of jobs generated per hectare is 1.07 (s.d.=4.49). Like the other uses,
+large water supply areas tend to have smaller values. For instance, both the smallest
+production quantity value (0.1 qq/ha) and the smallest job value (0.0005 jobs/ha) are
+found in the largest water supply area, whereas the highest-value water supply area
+in terms of both production quantity (816.8 qq/ha) and jobs generated (21.04
+jobs/ha) has the second smallest size of 712 ha.
+
+                                 4. Mapping biodiversity
+      To complement our map of water services, we also secured information on
+areas that are important for biodiversity. As a first approximation of the areas that
+are important for biodiversity conservation, we use the country’s protected areas
+system. There is no obvious value index for land that is of biodiversity importance.
+Here we use the World Conservation Union (IUCN)’s classification of protected areas
+as a crude ranking of importance. IUCN has defined a series of six protected area
+management categories, based on primary management objective. A summary of
+categories and their definitions is provided below (IUCN, 1994).
+       We collected from various sources geospatial data on protected areas and
+biological corridors. The map is shown in Map 6.
+   ! Established protected areas: As of 2003, there are 120 official protected areas,
+       covering over 3 million ha, or 29 percent of total land area (CONAP, 2003),
+       much higher than the 8.6 percent average in Central America and the
+       Caribbean region, or the 10.8 percent worldwide average (UNEP-WCMC, 2003).5
+       Of these, 11 protected areas, covering over 2.5 million ha, are located in the
+       Petén region.
+
+
+4
+    1 quintal (qq) is equivalent to 45.45 kilograms or 100 lbs.
+5
+    The number of protected areas is given as 156 in some sources. The discrepancy arises from
+    whether protected area complexes that include a core zone, various multiple use zones, and a
+    buffer zones are counted as a single protected area or several separate ones.
+
+
+                                               12
+    !     Areas of special protection (Area de Protección Especial): This class of areas
+          refers to areas of high biodiversity that are in the process of being declared
+          protected areas. As of 2007, there are 19 such areas (CONAP, 2007). Note that
+          the list is evolving as existing areas being declared as protected areas and new
+          areas of conservation interest being identified and added.
+    !     Proposed protected areas and biological corridors from the “Central American
+          Vegetation/Land Cover Classification and Conservation Status” dataset. These
+          data were developed by the Regional Environmental Program for Central
+          America (Programa Ambiental Regional para Centroamérica, PROARCA), as part
+          of their effort to improve protected area management in the Mesoamerican
+          Biological Corridor (MBC).
+
+Table 1: IUCN protected area categories
+Categories       Definition
+        Ia       Strict Nature Reserve: protected area managed mainly for science
+        Ib       Wilderness Area: protected area managed mainly for wilderness protection
+        II       National Park: protected area managed mainly for ecosystem protection and
+                 recreation
+        III      Natural Monument: protected area managed mainly for conservation of
+                 specific natural features
+        IV       Habitat/Species Management Area: protected area managed mainly for
+                 conservation through management intervention
+        V        Protected Landscape/Seascape: protected area               managed      mainly   for
+                 landscape/seascape conservation and recreation
+        VI       Managed Resource Protected Area: protected area managed mainly for the
+                 sustainable use of natural ecosystems
+Source:       IUCN, 1994.
+      We use the 2000 GIS map of Guatemala’s protected areas prepared by
+PROARCA. This map, which contains 94 named established protected areas including
+12 areas of special protection, provides a more comprehensive coverage of the
+country’s protected area system than the map currently available from the World
+Conservation Monitoring Centre’s (UNEP-WCMC) World Database on Protected Areas
+(WDPA).6 Detailed information on each site is summarized in Appendix Table 6. We
+extract geospatial data on proposed protected areas and biological corridors from the
+“Central American Vegetation/Land Cover Classification and Conservation Status”
+dataset, which is disseminated by the Center for International Earth Science
+Information Network (CIESIN) at Columbia University.
+
+
+
+6
+    There are minor discrepancies between the PROARCA map and the WCMC map in the management
+    categories of different protected areas. For instance, Laguna Lachuá national park is defined as a
+    category I management area in the PROARCA map but a category II area in the WCMC map. We
+    maintain the PROARCA classification, which presumably reflects local knowledge and perception
+    more accurately.
+
+
+                                                 13
+       The protected areas in the study area tend to be more numerous but smaller in
+size than those in the Petén region. There are 5 category I areas (covering 27,700 ha),
+5 category II areas (covering 10,000 ha), 6 category III areas (covering 320,000 ha), 7
+category IV areas (covering 24,100 ha), 6 category V areas (covering 4,300 ha), 2
+category VI areas (covering 181,400 ha), 25 areas categorized as buffer zone (covering
+158,000 ha), and 38 areas without any category information (covering 272,000 ha)
+(Figure 4). The areas of special protection are not assigned to any category in this
+dataset.
+       The largest protected area in the study area is Sierra de las Minas, covering
+240,000 ha including the associated buffer zone. Watersheds in the Sierra de las Minas
+range serve two HEP plants, dozens of large and medium-size industries, large
+irrigated areas, and over 200 communities. However, these areas face aquifer
+depletion, industrial misuse of water supplies, sedimentation, and pollution from
+agricultural runoff (WWF, 2007).
+
+                 Number of areas                          350            Total area ('000 ha)
+  40
+                                                          300
+  30                                                      250
+                                                          200
+  20
+                                                          150
+
+  10                                                      100
+                                                           50
+   0                                                        0
+       I    II   III   IV    V     VI   Buffer No               I   II    III   IV   V      VI Buffer No
+                                         zone info                                              zone info
+                  Protection category                                       Protection category
+
+                 Figure 4: Distribution of protected areas in the study area
+
+                                          5. Discussion
+       Several important results emerge from this mapping work. The first and most
+important is that water services are very site specific. Some areas provide water to
+important water users, and some do not. Moreover, the value of water supply areas
+varies widely from case to case. Figure 5 shows how the value index for different
+water uses varies with the size of the water supply area. With some exceptions, water
+supply areas with high value indices tend to be small, whereas large-sized water
+supply areas are almost unanimously found to be of low value. These counterintuitive
+findings emphasize the importance of mapping work such as that carried out in this
+study, which allows water supply areas to be both identified and valued. Without such
+an analysis, there is a substantial likelihood that conservation efforts may be mis-
+directed, being used either in areas which do not contribute to water service
+provision, or to areas that are less important than others.
+
+
+
+
+                                                     14
+                                               A. Hydroelectric power producers (installed capacity)
+                      4.00                                                                                    4.00
+                                      Las Vacas (45MW)
+                      3.50                                                                                    3.50
+
+                      3.00                          Aguacapa (90MW) and                                       3.00
+Value index (KW/ha)
+
+
+
+
+                                                       Poza Verde (8MW)              a. Porvenir (2.3MW)
+                                                                                     b. Chichaic (0.7MW)
+                      2.50                                                                                    2.50
+                                                                                     c. San Isidro (4MW)
+                                      Secacao (16.5MW)
+                      2.00                                                                                    2.00
+
+                      1.50       Pasabien (12MW)                                                              1.50
+                                       Matanzas (11.7MW)          Jurun Marinala (60MW)
+                      1.00        c                                and El Salto (5.5MW)                       1.00
+                                          Bobos (10MW)                             Canada (47.5MW) and                              Chixoy (300MW)
+                      0.50                                                          Santa Maria (6MW)
+                                                                                                              0.50
+                                      a       Capulin (40MW)           Esclavos (14MW)
+                                      b
+                      0.00                                                                                    0.00
+                             0             25,000        50,000         75,000       100,000        125,000     150,000
+                                                                                                                500,000   525,000              550,000
+
+                                                                        Size of Water Supply Area (ha)
+
+
+                                              B. Domestic water supply systems (households served)
+
+
+
+
+                                                               C. Irrigation systems (area irrigated)
+
+
+
+
+                                 Figure 5: Relationship between size of water supply area and value index
+
+
+                                                                                               15
+        As already noted, the most important water supply areas for any given use, on
+a per hectare basis, are not necessarily these associated with the largest service use,
+with the notable exception of the water supply areas of the EMPAGUA systems.
+Smaller areas serving more modest users can have higher values per hectare. This is
+most obvious in the case of HEP plants, in which the value of the water supply area
+serving Chixoy is much less than that of areas serving smaller HEP plants. Thus
+prioritization of interventions should not be based solely on the magnitude of
+downstream water uses, but needs to also consider the size of the water supply area.
+       In addition, the impact of land management on watershed hydrology and
+sedimentation are usually observed more clearly in smaller-scale watersheds (Faurès,
+2004). Interventions in smaller watersheds will thus tend to be more likely to be
+based on a strong understanding of how upstream land use affects downstream water
+users.
+        As Table 2 shows, the average size of water supply areas varies by user. On
+average, HEP plants have the largest water supply areas (70,000 ha), followed by
+irrigation systems (64,000 ha) and industrial users (21,000 ha). Domestic water supply
+systems, on the contrary, tend to be fed by much smaller water supply areas (11,000
+ha). This is especially true for the EMPAGUA systems, which are supplied by water
+supply areas of only 4,100 ha. In all cases, however, there is substantial variability.
+
+
+Table 2: Size of water supply areas
+                                          Standard                                Total      Number
+                               Mean       deviation    Minimum     Maximum        area          of
+                               (ha)         (ha)         (ha)        (ha)         (ha)        areasa
+HEP producers                  70,000      141,000        3,800      545,000     966,000        14
+Domestic water supply
+! Municipal systems            11,000       16,000          600       72,800     431,000        38b
+! EMPAGUA systems                4,100       4,800          121       13,100      70,500        17
+Irrigation systems             64,000       73,000        2,900      234,000     899,000        14
+Industrial users               21,000       36,000          345      147,000     525,000        25
+Notes:   a. Water supply areas that service multiple plants are counted once.
+         b. Systems are served by multiple water supply areas. Each water supply area is accounted
+         separately.
+
+
+       Comparison of the value of water supply areas across users is not feasible, as
+different value indices are used to measure the relative importance of supply areas
+for each group (Table 3). However, we find significantly larger variances in the two
+value indices for industrial users than for other users.
+
+
+
+
+                                                 16
+Table 3: Value of water supply areas
+                                                                                            Number
+                                               Standard                            Total       of
+                         Units         Mean    deviation   Minimum   Maximum       value     areasa
+HEP producers          KW/ha            1.04       1.04      0.04         3.45      14.62      14
+Domestic water
+supply
+! Municipal systems    HH/ha            1.08       1.43      0.02         6.41      41.07      38b
+! EMPAGUA systems      HH/ha           11.53      13.48      0.51       55.37     196.07       17
+Irrigation systems     Ha/ha            0.14       0.20      0.01         0.68       1.91      14
+                               c
+Industrial users       qq/ha           37.62     166.07      0.10      816.82     902.85       24
+                                   c
+                       Jobs/ha          1.07       4.49       0.0       21.04       23.58      22
+Notes:    a. Water supply areas that service multiple plants are counted once.
+          b. Systems are served by multiple water supply areas. Each water supply area is accounted
+            separately.
+          c. Alternative indices of value.
+
+
+        Many water supply areas provide water to more than one kind of user. Map 7
+shows the overlaps across water supply areas. The map allows us to identify areas
+that provide service to multiple user groups. The majority of the overlapped areas
+supply water to two user groups, with a small number of areas providing water for
+three kinds of users. The water supply areas of HEP and irrigation systems overlap the
+most, amounting to 192,000 ha, mostly in the mid-southern region. In the second
+place are industrial users and irrigation systems, whose water supply areas overlap on
+179,000 ha. Moreover, there are 104,000 ha of water supply area that feeds three
+user groups, industrial users, irrigation systems, and HEP simultaneously, followed by
+18,800 ha overlapped by industrial users, irrigation systems, and domestic supply
+systems. No areas supply to all four user groups. As can be seen, many of the overlaps
+are concentrated in the mid-southern region of the study area, where all four types of
+users are present. Since the water supply areas of irrigation systems and industrial
+users are mostly located in the south, their water supply areas tend to overlap more
+with other user groups than HEP and domestic supply systems. HEP plants are most
+likely to have water supply areas that are not shared with any other users.
+
+                                          6. Conclusions
+      This approach taken in this study focuses on tying together the demand side
+(water users) and supply side (upstream land management problems) of the water
+equation, offering a systematic view of the spatial distribution of uses and the sources
+of their water. The kind of decision tool can help target limited conservation
+resources to land use management that provides the most benefit.
+      The results illustrate the high spatial heterogeneity of water services, an
+important factor to be considered in designing any intervention. Two hydrologically
+
+
+                                                  17
+similar watersheds may differ dramatically in their value in terms of the water
+services they provide, depending on whether or not there are important water users
+downstream.
+       As an initial effort to develop a geo-referenced database of water services, the
+analysis is necessarily crude. This paper illustrates the methodologies for conducting
+water service mapping and valuing analysis. As discussed in section 3, this study has
+encountered considerable data limitations, primarily centered on water intake
+locations and water demand measurement. Except in the case of HEP, the resulting
+maps thus provide only a partial view of water supply areas in the country. The
+results could be substantially improved by
+   ! conducting a systematic inventory of water users, which would collect both the
+       location of water takepoints and at least basic information on the nature and
+       extent of their water use7; and
+   ! improving procedures to delineate water supply areas, by more carefully
+       tracing flows.
+       The most important weakness of the current mapping exercise is the inability
+to include groundwater uses. While data are available on the location of many wells
+and on the uses that these wells contribute to (with the same quality issues as we
+have on surface water uses), the lack of information on how groundwater flows
+currently prevents us from identifying the recharge areas that contribute to specific
+wells.
+       Even with these weaknesses, data such as these provide a potentially useful
+tool to prioritize areas in which interventions might be needed. All watersheds are
+not equal. Some have many high-value uses downstream, while others have few or
+none. Even within watersheds that have high-value uses downstream, there is
+considerable variability in their relative importance. These mapping data provide at
+least a first cut at which areas are most important.
+      Such mapping work is likely to be particularly useful in identifying areas that
+have potential for development of PES mechanisms. To date, PES implementation has
+been essentially opportunistics, focusing on a few ‘low hanging fruit.’ Mapping data
+such as these open the way for a more systematic assessment of potential.
+   ! They indicate areas of high value to downstream water users, where the
+      potential for a deal may be particularly high.
+   ! When data on other services are also available (such as the biodiversity data
+      shown here), they allow areas that are important for multiple services to be
+      identified. ‘Bundling’ payments for multiple services may be necessary if the
+      value of a single service is insufficient to justify conservation measures;
+      alternatively, bundling services may result in higher payments to upstream land
+      users.
+
+
+
+7
+    Such data would also allow additional analyses, such as understanding the pattern of withdrawals
+    in areas where total water supply is insufficient to satisfy the needs of all users.
+
+
+                                                18
+!   They also indicate areas where PES mechanisms may be harder to develop,
+    because of the presence of multiple downstream water users. When multiple
+    users with similar needs draw from the same water supply area, each will have
+    an incentive to attempt to free-ride on the efforts of others; when multiple
+    users with different needs draw from the same water supply areas, their
+    requirements and priorities may be incompatible.
+!   When spatial data on poverty are also available, they allow an assessment of
+    how PES might affect the poor (Pagiola and others, 2007).
+
+
+
+
+                                      19
+                                        References
+Cobos, C.R. 2002. “El agua: Situación actual y necesidades de gestion.” Facultad de Ciencias
+    Ambientales y Agrícolas, Documento Técnico No.5. Guatemala: Universidad Rafael
+    Landivar.
+CONAP (Consejo Nacional de Áreas Protegidas). 2003. “Informe nacional de áreas protegidas
+    de Guatemala.” Guatemala: CONAP.
+CONAP (Consejo Nacional de Áreas Protegidas). 2007. “Áreas de protección especial.”
+    Guatemala: CONAP.
+FAO (Food and Agriculture Organisation). 2007. AQUASTAT main country database. Rome:
+    FAO. (Accessed Sept. 2007.)
+Foster, V., and M.C. Araujo. 2004. “Does infrastructure reform work for the poor? A case
+    study from Guatemala.” Policy Research Working Paper No.3185. Washington: World Bank.
+Faurès, J.M. 2004. “Land-water linkages in rural watersheds: Implications for payment
+    schemes for environmental services.” Paper presented at the Regional forum on Payment
+    Schemes for Environmental Services in Watersheds, Arequipa, Peru, 9-12 June 2003.
+Foster, V. and M.C. Araujo. 2005. “Does infrastructure reform work for the poor? A case study
+    from Guatemala.” Policy Research Working Paper No. 3185. Washington: World Bank.
+INE (Instituto Nacional de la Estadística). 2006. “Proyecciones de población y lugares poblados
+    con base al XI Censo de Población y VI de Habitación 2002, periodo 2000-2020.”
+    Guatemala: INE.
+IUCN (World Conservation Union). 1994. Guidelines for Protected Areas Management
+    Categories. Cambridge and Gland: IUCN.
+López Choc, F. 2002. “Capital hidrico y usos del agua: Guatemala.” Proyecto Dialogo Regional
+    de Agua y Clima. Guatemala: Comité Regional de Recursos Hidráulicos.
+MA (Millennium Ecosystem Assessment). 2003. Ecosystems and Human Well-being: A
+    Framework for Assessment. Washington: Island Press.
+MA (Millennium Ecosystem Assessment). 2005. Ecosystems and Human Well-being: Current
+    State and Trends. Washington: Island Press.
+MAGA (Ministerio de Agricultura, Ganadería y Alimentación). 1993. “Desarrollo del Valle de
+    Río Polochic a base de recuperación de tierras medidas de manejo y conservación.”
+    Proyecto PNUD/OSP/GUA/88/003. Guatemala: MAGA.
+Martínez Tuna, M. 2002. “Valoración económica del agua en la ciudad de Guatemala.”
+    Guatemala: FLACSO.
+Nelson, A., and K. Chomitz. 2002. “The forest-hydrology-poverty nexus in Central America: An
+    heuristic analysis.” Washington: World Bank.
+Pagiola, S., and G. Platais. 2007. “Payments for environmental services: From theory to
+    practice.” Washington: World Bank.
+Pagiola, S., N. Landell-Mills, and J. Bishop. 2002. “Making market-based mechanisms work for
+    forests and people.” In S. Pagiola, J. Bishop, and N. Landell-Mills (Eds.), Selling Forest
+    Environmental Services: Market-Based Mechanisms for Conservation And Development.
+    London: Earthscan.
+UNEP-WCMC (United Nations Environment Programme-World Conservation Monitoring Centre).
+    2007. World Database on Protected Areas (WDPA). Available at http://www.unep-
+    wcmc.org/wdpa/ (accessed September 2007).
+
+
+
+                                              20
+Valladares Cerezo, C.E. 2003. “Guatemala City, Guatemala.” In UN-Habitat (ed.), Global
+    Report on Human Settlements 2003, The Challenge of Slums. London: Earthscan, London.
+Walker, I., F. Ordoñez, P. Serrano, and J. Halpern. 1999. “Pricing, subsidies, and the poor:
+    Demand for improved water services in Central America.”Policy Research Working Paper
+    No.2468. Washington: World Bank.
+Walker, I. and M. Velásquez. 1999. “Regional analysis of decentralization of water supply and
+    sanitation services in Central America and the Dominican Republic.” Environmental Health
+    Project Activity Report No.65. Washington: USAID.
+World Bank. 2005. “Guatemala Country Economic Memorandum: Challenges to higher
+    economic growth.” Report No. 29145- GT. Washington: World Bank.
+Wunder, S. 2005. “Payments for environmental services: Some nuts and bolts.” CIFOR
+    Occasional Paper No.42. Bogor: CIFOR.
+WWF (World Wildlife Fund). 2006. “The Water Fund: Sierra de las Minas, Guatemala.”
+    Guatemala City: WWF Central America.
+
+
+
+
+                                             21
+                                     Appendix 1: Data tables
+
+Appendix Table 1: Hydroelectric power plants and their water supply areas
+                                          Generating Water supply         Value
+                                            capacity        area          index
+Plant            River                        (MW)          (ha)        (KW/ha)
+Chixoy                  Chixoy                                300.0            545,000              0.55
+                                                                                         a
+Matanzas                Matanzas                                11.7            19,700              1.14
+Aguacapa                Aguacapa                                90.0
+                                                                                36,600b             2.68
+Poza Verde              Aguacapa                                 8.2
+Jurun Marinala          Michatoya                               60.0
+                                                                                77,100b             0.85
+El Salto                Michatoya                                5.5
+Canadá                  Samalá                                  47.5
+                                                                                83,700b             0.64
+Santa Maria             Samala                                   6.0
+Las Vacas               Las Vacas                               45.0             13,100             3.45
+Secacao                 Trece Aguas                             16.5              7,500             2.19
+Esclavos                Los Esclavos                            14.0           110,700              0.14
+Pasabien                Pasabien                                12.0              8,900             1.35
+Bobos                   Bobos                                   10.0             12,400             0.80
+Capulín                 Osuna                                   40.0             22,500             0.18
+San Isidro              San Isidro                               3.9              3,800             1.03
+Porvenir                Cabuz Tzoc Chapa                         2.3             17,300             0.13
+Chichaic                Cahabon                                  0.7             17,300             0.04
+Notes:       a. This area is located within the watershed that serves Chixoy; its importance also
+                reflects its contribution to Chixoy.
+             b. These water supply areas serve several users.
+Sources:     Location of national hydroelectric power plants: personal communication with Ing.
+             Arturo Ajcajabón of Instituto Nacional de Estadística (INDE) in 2004
+             Location of private hydroelectric power plants: personal communications in 2004 with Ing.
+             Rodrigo Tormo (Secacao), San Isidro and Matanzas by Ing. Rafael López, and descriptive
+             locations for all other private HEP (Las Vacas, El Capulín, Río Bobos, and El Canadá) by Ing.
+             Alonso, Ing. Renato Patzán, and Ing. Florencio Gramajo
+
+
+
+
+                                                    22
+Appendix Table 2: Domestic water supply systems and their water supply areas
+                                             Households             Value index
+                                             served per     Total   (Households
+                                               system     upstream served per
+Municipality                Department         (2001)     area (ha)      ha)
+Santa Lucia Cotzumalguapa     Escuintla         35,000     5,459         6.41
+Chiquimula                    Chiquimula        13,248     3,117         4.25
+Momostenango                  Totonicapan       10,000     2,436         4.10
+Retalhuleu                    Retalhuleu         4,787     1,323         3.62
+Jutiapa                       Jutiapa            4,500     4,552         0.99
+Palin                         Escuintla          4,152     8,266         0.50
+Teculutan                     Zacapa             4,100    19,904         0.21
+Fray Bartolome de las Casas   Alta Verapaz       4,030     5,671         0.73
+Morales                       Izabal             3,260     6,197         0.53
+Palencia                      Guatemala          3,000     1,885         1.59
+San Sebastian                 Retalhuleu         2,320    10,901         0.21
+Gualan                        Zacapa             2,150     7,385         0.29
+San Antonio Suchitepequez     Suchitepequez      2,060     6,465         0.32
+Solola                        Solola             2,010    14,879         0.14
+Nuevo Progreso                San Marcos         1,849      791          2.34
+Jacaltenango                  Huehuetenango      1,828    11,412         0.16
+Panajachel                    Solola             1,813     8,008         0.23
+Chichicastenango              Quiche             1,800     5,493         0.33
+Almolonga                     Quetzaltenango     1,774    72,780         0.02
+Río Hondo                     Zacapa             1,700    11,066         0.15
+Totonicapan                   Totonicapan        1,535     2,867         0.56
+San Carlos Alzatate           Jalapa             1,515     4,340         0.35
+Santa Catarina Pinula         Guatemala          1,510     2,020         0.75
+Zaragoza                      Chimaltenango      1,495      568          2.63
+Cuyotenango                   Suchitepequez     1,285     34,753         0.04
+Tactic                        Alta Verapaz       1,262     3,646         0.35
+Catarina                      San Marcos         1,200      572          2.10
+Río Bravo                     Suchitepequez      1,183    20,066         0.06
+Soloma                        Huehuetenango      1,180      993          1.19
+San Juan La Laguna            Solola             1,100     1,308         0.84
+Mataquescuintla               Jalapa             1,099     1,113         1.03
+
+
+                                           23
+Appendix Table 2: Domestic water supply systems and their water supply areas
+                                             Households             Value index
+                                             served per     Total   (Households
+                                               system     upstream served per
+Municipality                Department         (2001)     area (ha)      ha)
+Zacapa                               Zacapa                      1036     3,472            0.30
+Cubulco                              Baja Verapaz                1,000    1,060            0.94
+Asuncion Mita                        Jutiapa                     3,492
+                                                                                           0.12
+Santa Catarina Mita                  Jutiapa                     1,651   42,566a
+La Esperanza (2 towns)               Quetzaltenango              2,739   10,064a           0.30
+Santo Domingo Xenacoj (2
+                                                                 2,000
+towns)                               Sacatepequez                         3,554a           1.92
+Santiago Sacatepequez                Sacatepequez                4,817
+San Andres Itzapa                    Chimaltenango               3,178
+Parramos                             Chimaltenango               1,406
+Jocotenango                          Sacatepequez                3,000
+                                                                         39,950a           0.43
+Antigua Guatemala                    Sacatepequez                4,407
+San Antonio Aguas Calientes          Sacatepequez                3,125
+Alotenango                           Sacatepequez                2,137
+Notes:    a. Multiple systems share the same water supply area
+Sources: Number of households served provided by Instituto Nacional de Fomento Municipal (INFOM,
+         2004)
+         Location of sources based on personal communications from individual systems
+
+
+
+
+                                                 24
+Appendix Table 3: EMPAGUA systems
+                                                                                  Value index
+               Production   Households                                Water       (Households
+                per day     served per       River/creek where        supply       served per
+Systems           (m3)        system         takepoints located      area (ha)         ha)
+Lo de Coy        140,000      210,000     Río Pansalic                  1,324            2.67
+                                          Río Las Flores                   843           2.44
+                                                     a
+                                          Río Xaya                       8,709           9.63b
+                                          Río Pixcayaa                  13,079          13.69b
+La
+Brigada           40,000       60,000     Río La Brigada                   189           7.80
+Santa
+Luisa             10,000       15,000     Quebrada La Manguita             128          16.03
+                                          Quebrada La Piedrona             888           2.22
+                                          Quebrada San Antonio             455          17.49
+                                          Río Acatan                       244          12.29
+Ilusiones         25,000       37,500     Río Los Ocotes                 7,987           0.51
+                                          Río Teocinte                   9,355           0.52
+                                          Río Canalitos and
+                                          Quebrada Agua Tibia              516          55.37
+El
+Cambray           25,000       37,500     Río Pinula                     1,078          27.18
+                                          Riachuelo Panasequeque         3,841           2.04
+                                          Quebrada Agua Bonita             121           2.85
+Notes:      a. Shared with La Brigada system.
+            b. The value reflects households served by both La Brigada and Lo de Coy systems
+            c. Only surface source water is considered
+Source:     Description of EMPAGUA systems provided by Leonel Vásquez Maldonado of EMPAGUA (May
+            2003 and February 2004)
+
+
+
+
+                                                25
+Appendix Table 4: Irrigation systems and their water supply areas
+                                                      Water
+                                         Irrigated   supply        Value index
+                                            area      area     (Irrigated area per
+Watershed Sub-watershed                     (ha)       (ha)            ha)
+Achiguate      Guacalate                          10,390    56,020        0.20a
+Coyolate       San Cristóbal                       8,770    12,947         0.68
+Acomé          Catchment area Acomé
+                                                   5,500    12,786         0.43
+               /Agüero /Cabeza de Toro
+Motagua        Catchment area Motagua              5,000      n/a          n/a
+Grande de      Catchment area Grande de
+                                                   3,613   234,353         0.02
+Zacapa         Zacapa
+Coyolate       Catchment area Coyolate             2,880      n/a          n/a
+Motagua        Catchment area Motagua              2,700      n/a          n/a
+Maria Linda    Naranjo                             2,400      n/a          n/a
+Motagua        Jones/Santiago/Catchment
+                                                   2,348    26,235         0.09
+               area Motagua
+Salinas        Salamá                              1,500    31,761         0.05
+Coyolate       Catchment area Coyolate             1,500      n/a          n/a
+Achiguate      Democracia (Achiguate)              1,490    98,629         0.02
+Ostua Guija    Lago Guija 2                        1,408      n/a          n/a
+Grande de      Catchment area Grande de
+                                                   1,274      n/a          n/a
+Zacapa         Zacapa
+Lago Atitlán   Quiscab                             1,046     6,968         0.15
+Motagua        Bobos                               1,000      n/a          n/a
+Los Esclavos   Catchment area Los Esclavos         1,000   199,531         0.01
+Achiguate      Achiguate                           1,000      n/a          n/a
+Motagua        Teculután                            769     19,904         0.04
+Motagua        Catchment area Motagua               760       n/a          n/a
+Nahualate      Catchment area Nahualate             750    110,500         0.01
+Nahualate      Catchment area Nahualate             750       n/a          n/a
+Nahualate      Ixtacapa                             750       n/a          n/a
+Ocosito        Sumula                               700       n/a          n/a
+Suchiate       Catchment area Suchiate              700       n/a          n/a
+Paz            Catchment area Paz                   650       n/a          n/a
+Motagua        Catchment area Motagua               629       n/a          n/a
+Maria Linda    Michatoya                            600       n/a          n/a
+
+
+                                             26
+Appendix Table 4: Irrigation systems and their water supply areas
+                                                      Water
+                                         Irrigated   supply        Value index
+                                            area      area     (Irrigated area per
+Watershed Sub-watershed                     (ha)       (ha)            ha)
+Maria Linda     Catchment area Maria Linda                540         2,884                    0.19
+Maria Linda     Catchment area Maria Linda                540        66,377                    0.01
+Achiguate       Catchment area Ceniza                     500        19,623                   0.04b
+Notes:     a. This water supply area serves two irrigation systems in sub-watersheds Democracia and
+              Guacalate of watershed Achiguate. The value reflects its contribution to the irrigation
+              system in the Democracia sub-watershed (1,490 ha of irrigation area).
+           b. This water supply area serves two irrigation systems in the sub-watersheds Democracia
+              and Ceniza. The value reflects its contribution to the irrigation system in the Democracia
+              sub-watershed (1,490 ha of irrigation area).
+           c. Only surface source water is considered
+Sources:   MAGA data
+
+
+
+
+                                                   27
+Appendix Table 5: Industrial users and the water supply areas
+                                                                       Water           Value indices
+                                                Total        Total     supply
+                                  Number     production    permanent    area        Production    Jobs
+Department      Municipality      of mills   (quintals)       jobs       (ha)        (qq/ha)      /ha
+Sugar mills
+Escuintla       Masagua              1         581,284        14,976      712         816.8      21.044
+Escuintla       Escuintla            1            1,021        9,420     4,077          0.3       2.310
+Coffee mills
+Guatemala       Petapa               1                 -           -    21,090             -             -
+Escuintla       Palin                1          15,000           300    12,532          1.2       0.024
+Sacatepequez    Jocotenango          1          60,000            30    17,818          3.4       0.002
+Jalapa          San Luis             1          13,333            25    10,265          1.3       0.002
+                Jilotepeque
+Huehuetenango   San Pedro Necta      1          23,111            12    12,101          1.9       0.001
+Alta Verapaz    Cahabon              1            3,000           12     3,072          1.0       0.004
+Santa Rosa      Nueva Santa          1            4,000           12                    0.3       0.001
+                Rosa                                                   30,253a
+Santa Rosa      Pueblo Nuevo         1            1,000            8     2,571          0.4       0.003
+                Vinas
+Santa Rosa      Pueblo Nuevo         1            5,000            8     3,323          1.5       0.002
+                Vinas
+Santa Rosa      Santa Maria          1               500           3    1,309a          0.5       0.003
+                Ixhuatan
+Huehuetenango   Cuilco               2            8,319            -     5,150          1.6              -
+Baja Verapaz    Purulha              2            2,400            -     3,447          0.7              -
+Santa Rosa      Casillas             2            6,500           20      345          18.9       0.058
+Santa Rosa      Cuilapa              2          11,500            19                    0.7       0.002
+                                                                       87,381a
+Huehuetenango   La Democracia        2          11,399             7     8,211          1.4       0.001
+                and La Libertad
+Chiquimula      Esquipulas           4          41,000            30     2,513         16.3       0.012
+Baja Verapaz    Purulha              5            4,600          225    11,928          0.4       0.019
+                                                                                a
+Santa Rosa      Cuilapa              5          32,000            53    9,150           4.1       0.007
+Santa Rosa      Santa Cruz           6          14,500            73                    0.1      0.0005
+                Naranjo                                                146,701
+Santa Rosa      Santa Cruz           8          14,800            79                    2.1       0.009
+                Naranjo                                                10,466a
+Jalapa and El   Mataquescuintla     10          83,126           256     5,969         13.9       0.043
+Progreso        and San Agustin
+                Acasaguastla
+
+
+
+
+                                                28
+Appendix Table 5: Industrial users and the water supply areas
+                                                                        Water        Value indices
+                                               Total       Total        supply
+                                 Number     production   permanent       area     Production       Jobs
+Department    Municipality       of mills   (quintals)      jobs          (ha)     (qq/ha)         /ha
+Jalapa        Mataquescuintla       20         217,243           479     15,918       13.7         0.030
+Santa Rosa    Pueblo Nuevo          29          47,055            92    99,091         0.6         0.001
+              Vinas, Cuilapa,
+              Barberena,
+              Chiquimulilla
+Notes:        a. This water supply area serves multiple industrial users. The values reflect its
+                 contribution to all users.
+              b. Only surface source water is considered
+Sources:      Personal communication with individual users
+
+
+
+
+                                               29
+Appendix Table 6: Protected areas and formal buffer zones
+                                                                 IUCN       Areac        Year
+Protected area                             Category            categoryb    (ha)     establishedd
+A. Protected areasa
+Abaj Takalik                    Area of special protection     Nd             133
+Astillero Municipal de Tecpán   Regional Park                  IV            1,601      2000
+Atitlán                         Multiple Use Area              III         118,992
+Bocas del Polochic              Wildlife Refuge                III          23,419      1996
+Cerro San Gil                   Protected reserve for spring   Nd           43,337      1996
+Chocón Machacas                 Protected Biotope              II            7,859      1989
+Cordillera Alux                 Protected reserve for spring   Nd            4,417
+Cumbre Alta                     Area of special protection     Nd            8,295
+El Espino                       Private Natural Reserve        V              255       1997
+El Higuerito                    Private Natural Reserve        V              823       1995
+Iximché                         Cultural Monument              II              10
+K'antí Shul                     Private Natural Reserve        V             1,149      1999
+Lago de Güija                   Area of special protection     Nd            1,392
+Laguna Chichoj                  Area of special protection     Nd              50
+Laguna de Ayarza                Area of special protection     Nd            1,408
+Laguna el Pino                  National Park                  I              500       1955
+Laguna Lachuá                   National Park                  I             9,776      1975
+Laguna Yolnabaj                 Area of special protection     Nd             377
+Los Altos de San Miguel
+                                Regional Park                  IV           12,056      1997
+Totonicapán
+Manchón Guamuchal               Private Natural Reserve        V             1,648      1998
+Mario Dary                      Protected Biotope              II            1,159      1977
+Montaña Espíritu Santo          Area of special protection     Nd            8,261
+Monterrico                      Multiple Use Area              III           2,766      1977
+Pachuj                          Private Natural Reserve        V              414       1996
+Parque Regional Municipal de
+                                Regional Park                  IV            5,658      1998
+Quetzaltenango
+Punta de Manabique              Wildlife Refuge                III         131,906
+Quiriguá                        Cultural Monument              II              33       1979
+Río Dulce                       National Park                  I            13,560      1955
+Río Sarstún                     Multiple Use Area              III          40,781
+San Rafael Pixcayá              Area of special protection     Nd             154
+Santa Elena                     Private Natural Reserve        V               47       1997
+Semuc Champey                   Natural Monument               II             964
+Sierra Caral                    Area of special protection     Nd           20,678
+Sierra Chinajá                  Area of special protection     Nd           12,678
+
+
+
+                                                  30
+Appendix Table 6: Protected areas and formal buffer zones
+                                                            IUCN       Areac        Year
+Protected area                          Category          categoryb    (ha)     establishedd
+Sierra de las Minas          Biosphere Reserve            VI          147,088      1989
+Sierra de los Cuchumatanes   Area of special protection   Nd           97,619
+Sierra de Santa Cruz         Area of special protection   Nd           44,818
+Sipacate-Naranjo             National Park                I             1,782      1969
+Tewancarnero                 Regional Park                IV             499       1996
+Visis Cabá                   Biosphere Reserve            VI           34,312      1997
+Volcán Acatenango            No-hunting zone              Nd            3,154      1956
+Volcán Agua                  No-hunting zone              Nd            3,748      1956
+Volcán Alzatate              No-hunting zone              Nd             514       1956
+Volcán Amayo                 No-hunting zone              Nd             606       1956
+Volcán Cerro Redondo         No-hunting zone              Nd              39       1956
+Volcán Chicabal              Regional Park                IV            1,253      1956
+Volcán Chingo                No-hunting zone              Nd             351       1956
+Volcán Coxliquel             No-hunting zone              Nd             746       1956
+Volcán Cruz Quemada          No-hunting zone              Nd             146       1956
+Volcán Culma                 No-hunting zone              Nd              17       1956
+Volcán El Tobón              No-hunting zone              Nd             234       1956
+Volcán Fuego                 No-hunting zone              Nd            4,526
+Volcán Ixtepeque             No-hunting zone              Nd             203       1956
+Volcán Jumay                 No-hunting zone              Nd             952       1956
+Volcán Jumaytepeque          No-hunting zone              Nd             115       1956
+Volcán Lacandón              No-hunting zone              Nd            1,868      1956
+Volcán Las Víboras           No-hunting zone              Nd             298       1956
+Volcán Moyuta                No-hunting zone              Nd             313       1956
+Volcán Pacaya                National Park                I             2,047      1956
+Volcán Quetzaltepeque        No-hunting zone              Nd             318       1956
+Volcán San Antonio           No-hunting zone              Nd              36       1956
+Volcán Santo Tomás           No-hunting zone              Nd            3,150      1900
+Volcán Suchitán              Regional Park                IV            2,545      1956
+Volcán Tacaná                No-hunting zone              Nd             950       1956
+Volcán Tahual                No-hunting zone              Nd             437       1956
+Volcán Tajumulco             No-hunting zone              Nd            4,136      1956
+Volcán Tecuamburro           No-hunting zone              Nd            1,523      1900
+Volcán y Laguna de Ipala     Multiple Use Area            III           2,291
+Zunil                        Regional Park                IV             468       1996
+
+
+
+
+                                             31
+Appendix Table 6: Protected areas and formal buffer zones
+                                                                      IUCN       Areac        Year
+Protected area                               Category               categoryb    (ha)     establishedd
+B. Buffer zones
+Sierra de las Minas                                                              94,525
+Volcán Acatenango                                                                 4,433
+Volcán Agua                                                                       9,725
+Volcán Alzatate                                                                   1,731
+Volcán Amayo                                                                      2,074
+Volcán Cerro Redondo                                                                335
+Volcán Chingo                                                                       825
+Volcán Coxliquel                                                                    943
+Volcán Cruz Quemada                                                                 731
+Volcán Culma                                                                        436
+Volcán El Tobón                                                                     907
+Volcán Fuego                                                                      9,366
+Volcán Ixtepeque                                                                  1,664
+Volcán Jumay                                                                      1,813
+Volcán Jumaytepeque                                                                 732
+Volcán Lacandón                                                                   2,972
+Volcán Las Víboras                                                                2,150
+Volcán Moyuta                                                                       730
+Volcán Quetzaltepeque                                                               781
+Volcán San Antonio                                                                   65
+Volcán Santo Tomás                                                                4,771
+Volcán Tacaná                                                                     1,998
+Volcán Tahual                                                                     2,450
+Volcán Tajumulco                                                                  8,693
+Volcán Tecuamburro                                                                3,606
+Notes:     Nd = not defined
+           a
+             All 69 protected areas are designated areas.
+           b
+             Information on IUCN management categories from the PROARCA map does not always agree
+           with that from the UNEP-WCMC map. We adopt the PROARCA definitions in this study.
+           c
+             For sites with formal buffer zones, areas of sites reported in sub-table A do not include
+           those of the corresponding buffer zones. The areas of the buffer zones are reported in sub-
+           table B.
+           d
+             Supplementary information obtained from UNEP-WCMC protected areas database.
+Sources:   2000 GIS map of Guatemala’s protected areas prepared by PROARCA.
+           UNEP-WCMC protected areas database, whose original source is the GIS dataset from Mapa
+           Digital de Áreas Protegidas, CONAP, 1999.
+
+
+
+
+                                                  32
+        Appendix 2. Maps of service areas
+
+
+
+
+Map 1: Hydroelectric power plants and their water supply areas
+
+
+
+                          33
+Map 2: Municipal water supply systems and their water supply areas
+
+
+
+
+                            34
+Map 3: Guatemala City water supply systems and their water supply areas
+
+
+
+
+                               35
+Map 4: Irrigation systems and their water supply areas
+
+
+
+
+                      36
+Map 5a: Industrial users and their water supply areas
+
+
+
+
+                      37
+Map 5b: Industrial users and their water supply areas
+
+
+
+
+                      38
+Map 6: Protected areas and biological corridors
+
+
+
+
+                      39
+Map 7: Overlap of water supply areas
+
+
+
+
+                 40
+

@@ -1,0 +1,1346 @@
+                                              Document of
+                                           The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+
+
+
+                                                                                        Report No: 32311
+
+
+                             IMPLEMENTATION COMPLETION REPORT
+                                              (SCL-42850)
+
+                                                  ON A
+
+                                                  LOAN
+
+                               IN THE AMOUNT OF US$16.4 MILLION
+
+                                                 TO THE
+
+                                                UKRAINE
+
+                                                 FOR A
+
+                                   TREASURY SYSTEMS PROJECT
+
+
+
+
+                                              May 25, 2005
+
+
+
+
+Poverty Reduction and Economic Management Sector
+Europe and Central Asia Region
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                                CURRENCY EQUIVALENTS
+
+                            (Exchange Rate Effective May 25, 2005)
+
+                                 Currency Unit = UAH Hrivnya
+                                1 UAH Hrivnya = US$ 0.20
+                                         US$ 1 = 5.045 UAH
+
+
+
+
+                                        FISCAL YEAR
+                                   January 1    Decmber 31
+
+
+
+
+                            ABBREVIATIONS AND ACRONYMS
+
+ADETEF French Government's Aid Agency                PAL      Programmatic Adjustment Loan
+
+AS     Name of the Treasury System developed by      PHRD     Policy and Human Resources Development
+KAZNA  the Treasury                                           Grant
+
+CIS    Commonweatlh of Independent States            PIU      Project Implementation Unit
+COA    Chart of Accounts                             PSRML Public Sector Resource Management Loan
+DBMS   Database Management System                    QAE      Quality at Entry
+ECA    Europe and Central Asia Region                RDBMS Relational Database Management System
+FAD    Fiscal Affairs Department                     STU      State Tax Administration
+FSU    Former Soviet Union                           SU       Spending Unit
+GFS    Government Finance Statistics                 S/W      Software
+H/W    Hardware                                      TA       Technical Assistance
+IBL    Institution Building Loan                     TLS      Treasury Ledger System
+ICB    International Competitive Bidding             TSA      Treasury Single Account
+IMF    International Monetary Fund                   TSP      Treasury Systems Project
+IT     Information Technology                        UNIX     Name of computer operations system
+LAN    Local Area Network                            USAID    United States Agency for International
+                                                              Development
+MOF    Ministry of Finance                           WAN      Wide Area Network
+NBU    National Bank of Ukraine                      WB       World Bank
+
+
+
+
+                                 Vice President:   Shigeo Katsu
+                              Country Director     Paul G. Bermingham
+                               Sector Manager      Deborah L. Wetzel
+             Task Team Leader/Task Manager:        Cem Dener
+
+                                          UKRAINE
+                             TREASURY SYSTEMS PROJECT
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         2
+4. Achievement of Objective and Outputs                                            6
+5. Major Factors Affecting Implementation and Outcome                            10
+6. Sustainability                                                                11
+7. Bank and Borrower Performance                                                 11
+8. Lessons Learned                                                               13
+9. Partner Comments                                                              14
+10. Additional Information                                                       17
+Annex 1. Key Performance Indicators/Log Frame Matrix                             18
+Annex 2. Project Costs and Financing                                             20
+Annex 3. Economic Costs and Benefits                                             22
+Annex 4. Bank Inputs                                                             23
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components             25
+Annex 6. Ratings of Bank and Borrower Performance                                26
+Annex 7. List of Supporting Documents                                            27
+
+Project ID: P049174                                                  Project Name: Treasury Systems Project
+Team Leader: Cem Dener                                               TL Unit: ECSPE
+ICR Type: Core ICR                                                   Report Date: May 25, 2005
+
+
+1. Project Data
+                   Name: Treasury Systems Project                                 L/C/TF Number: SCL-42850
+   Country/Department: UKRAINE                                                            Region: Europe and Central Asia
+                                                                                                     Region
+
+        Sector/subsector: General public administration sector (94%); Law and justice (6%)
+                  Theme: Public expenditure, financial management and procurement (P);
+                            Administrative and civil service reform (P); Law reform (S);
+                            Standards and financial reporting (S)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 01.23.1997                                     Effective: 03.01.1998                07.27.1999
+     Appraisal: 07.31.1997                                         MTR: 02.15.2000                  10.17.2002
+      Approval: 02.24.1998                                      Closing: 06.30.2002                 12.31.2004
+
+
+
+    Borrower/Implementing Agency:          UKRAINE/TREASURY DEPARTMENT
+                      Other Partners:
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Shigeo Katsu                                   Johannes F. Linn
+Country Director:               Paul G. Bermingham                             Paul J. Siegelbaum
+Sector Manager:                 Deborah L. Wetzel                              Sanjay Pradhan
+Team Leader at ICR:             Cem Dener
+ICR Primary Author:             Ali Hashim
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        S
+                      Sustainability:      L
+   Institutional Development Impact:       SU
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry: S                                S
+                     Project at Risk at Any Time: Yes
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+         The overall objective of the project is to assist the Government to design and implement a fully
+functional, automated Treasury system that would serve as an effective instrument for budget execution
+and cash management.
+
+Context:
+
+         The objectives of the Treasury Systems Project (TSP) need to be assessed in the context of the
+fiscal problems encountered by the Government and the reform agenda pursued by it at the time of project
+inception. In the mid-nineties when this project was being prepared, one of the key issues facing the
+Government and leading to an unsustainable fiscal situation was that the Government had been running up
+arrears and postponing expenditures caused by an unrealistic budget and by poor expenditure management
+and control. Previous analyses by the Government, the IMF and the Bank had highlighted significant
+weaknesses in the budget system and the financial management of government resources. (Ukraine--A
+Program to Set Up a Treasury System, IMF/FAD, April 1993. Garamfalvi, et al.). The key weaknesses of
+the previous system, as documented by this work, were:
+
+   l lack of a macro economic framework needed for formulation of the budget and making of revenue
+         and expenditure projections;
+
+   l diffusion of responsibilities for fiscal matters among a number of different entities within the
+         Government in addition to the MOF;
+
+   l inappropriate legal framework for budget preparation, approval, implementation and monitoring;
+
+   l inappropriate budget classifications, which did not allow meaningful budget monitoring;
+
+   l lack of administrative capacity to adjust the budget in response to changing circumstances;
+
+   l lack of reliable, comprehensive and timely accounting information;
+
+   l underdeveloped debt and cash management operations that are not linked to overall budget
+         management; and
+
+   l dispersion of budget money in many spending units accounts, instead of concentrating money in a
+         Treasury Single Account (TSA), which made cash management difficult.
+
+Government Fiscal Reform Program
+
+         In response to this situation, the Government of Ukraine initiated a fiscal reform program in 1994
+to address these issues. As part of this program, and with IMF assistance, the Government developed a
+comprehensive strategy to introduce a fully functioning Treasury. The various elements of this strategy are
+summarized below:
+
+   l Preparation of comprehensive legislation to support the establishment of the Treasury and its
+         functions and to define budget preparation and budget execution procedures (1995).
+
+   l Establishing a Treasury organization, including establishment of regional (oblast level) and district
+         (rayon level) Treasury units which would take over budget execution and primary accounting
+         responsibilities from the National Bank of Ukraine (NBU), and introduce required reforms to
+         centralize fiscal monitoring and control functions in the Treasury.
+
+
+
+                                                     - 2 -
+
+   l Revision (1997) of the budget classification structure to conform with the IMF's Government
+        Finance Statistics (GFS) in order to facilitate a strategic overview of the allocation of budget
+        resources between sectors of the economy and for inter-country and time-series comparisons. The
+        new budget classification structure also allowed the Treasury to identify the resources allocated to
+        each line ministry and to ensure proper accountability.
+
+   l Re-engineering Treasury processes and setting up new procedures for budget execution.
+        Replacement of the existing system of fiscal transfers to Spending Unit (SU) bank accounts with a
+        system of Treasury warrants that would set the limit for expenditure for the line ministries by
+        program and line items, using the new budget classification code. The line ministries would in turn
+        distribute the warrant allocation to SUs by the same classification code by issue of sub-warrants.
+        The regional offices were made responsible for ex-ante control of all payment orders raised by SUs
+        against their cash allocations, for calculating the division of designated tax revenues between the
+        central government and the local governments, and for advising the NBU regional branches of the
+        allocation of revenues. This reform intended to achieve optimum use of the cash resources and
+        prevent accumulation of idle cash balances.
+
+   l Closing down bank accounts held by the spending units and bringing them under the control of the
+        Treasury; progressive consolidation of these accounts at the regional branches of the Central Bank
+        (NBU); setting up a Treasury Single Account (TSA) at the headquarters of the Central Bank in
+        Kyiv with daily transfers of balances to this account from the regional branches of the NBU.
+
+   l Creation of a Treasury Ledger System (TLS) based on a new chart of accounts, which includes
+        ledgers for financial accounting as well as for monitoring of budget implementation. The TLS was
+        based on the new chart of accounts (COA) adopted for use in 1997. The new COA reflected the
+        new budget classification of revenues and expenditures. The TLS also has provisions for recording
+        data on original budgets, revisions as approved by the Budget department, warrants issued by the
+        Treasury and sub-warrants by line ministries at regional level and expenditures against these
+        warrants.
+
+   l Design and implementation of a modern, automated, and integrated Treasury System for
+        government financial management to support the re-engineered Treasury processes and procedures.
+
+
+This reform strategy was implemented in a phased manner over the period 1994-2002.
+
+        Originally, assistance from the World Bank to the Treasury had started under the Treasury
+Component of an Institution Building Loan (IBL). In 1997 work was carried out under the Treasury
+component of the IBL to elaborate drafts of legislative and normative acts for the Treasury and to analyze
+the Treasury department's functional and organizational structure. Assistance was also provided for setting
+up a basic computer-based system to support the Treasury in budget execution processes. The present
+project built on this work and designed and implemented a fully functioning Treasury system.
+
+        Several other donors, such as USAID and the French ADETEF, were also actively involved at this
+time in designing and implementing reforms in the public sector in Ukraine. In the case of the Treasury,
+USAID and ADETEF contributed to an analysis of application software options for the Treasury system
+and ADETEF assisted in arranging for the training of Treasury staff on the concepts and functioning of a
+modern Treasury system with agencies of the French Government.
+
+
+
+
+                                                     - 3 -
+
+Assessment of Project Objectives:
+
+        In view of the above, the objectives of the Treasury Project reflected essential priorities for fiscal
+management in Ukraine as identified by the Government, the IMF and the Bank at that time. They were
+consistent with Government strategy for setting up institutions, systems and procedures necessary to
+establish a fully functioning Treasury function within Government. The objectives were however very
+ambitious since the implementation of the Treasury function, ab-initio, involved introducing change on a
+massive scale, government-wide. However, these changes were essential for the desired transition to a
+market economy.
+
+3.2 Revised Objective:
+        The overall objective was not revised.
+
+3.3 Original Components:
+        This is essentially a single component project that was designed to provide technical assistance,
+computer equipment, software and training to enable the Government to design, develop, test, and
+implement processes, procedures and systems, related regulations and training programs for budget
+execution and treasury operations. The project would first provide support, to enhance the basic system
+developed under the Institutional Building Loan (the interim system) and extend it across the country. It
+would then design a more comprehensive Treasury system, implement it in a set of pilot rayons and rayons
+and then replicate it through out the country. Details of project inputs are as follows:
+
+         A.      Technical Assistance (base cost US$2.62 million).The IMF was responsible for advising
+        the MOF/Treasury on the substantive aspects of Budget Execution, Cash Management, and
+        Treasury Operations. This assistance was delivered through a Resident IMF Treasury advisor. The
+        project would provide TA for the design of an automated Treasury system to support Treasury
+        operations. This included: (i) extending the work done by the IMF advisor into a full set of
+        functional specifications for the Treasury system, incorporating the key characteristics of the
+        overall design, as specified by the IMF (e.g., new COA, re-engineered Treasury processes, etc.);
+        (ii) developing the technology architecture for implementing the treasury systems and specifying
+        the H/W, S/W and communications design, systems software and application S/W environment
+        (UNIX, DBMS, and application development tools); (iii) researching and identifying and/or
+        developing application software for the Treasury system;          (iv) specifying the hardware and
+        software requirements and preparing bidding documents in accordance with World Bank
+        procurement guidelines; (iv) supervising implementation of the Treasury system. In addition,
+        technical assistance was also be provided to assist the Treasury to administer and manage the
+        project and assist with Bank procedures (project monitoring, accounting, and disbursement).
+
+        B.        Computer Hardware and Software (base cost US$21.4 million). This included: (i)
+        equipment (UNIX servers, work stations, equipment and software for local and wide area
+        networks, printers, UPS, site preparation), systems software and application development tools for
+        central facilities at the Treasury Headquarters, oblast and rayon Treasury offices. Each Treasury
+        office would receive an appropriately sized UNIX server, a LAN network, a RDBMS, application
+        development tools, laser and line printers, Windows-based work stations, and WAN equipment to
+        connect to the overall Treasury network; and (ii) application software for Treasury systems at the
+        center, regional units, and spending units, and customization, as may be necessary.
+
+        C.       Training (base cost US$0.5 million). Training was recognized to be a crucial element for
+        project implementation. The project provided financing for: (i) technical assistance for a training
+
+
+
+                                                     - 4 -
+
+         needs analysis; identification of suitable training courses within the country and abroad; the
+         development/acquisition of training materials, technical documentation, and end-user manuals; (ii)
+         training courses arranged at site, or in local or foreign institutes to cover these areas. Staff trained
+         under the project included the MOF/Line Agency/Treasury staff and technical staff of the
+         MOF/Treasury involved in the development and implementation of the systems; and (iii) study
+         tours abroad for government officials in the budget execution and treasury operations areas to
+         enable them to benefit from the experiences of other Governments in these areas.
+
+         The project provided financing for essential technical assistance required for the detailed design of
+the systems, for the computer hardware, software and training required for their implementation. Project
+activities were consistent with the requirements of setting up a Treasury system in the country. The phasing
+of project activities which included a pilot phase and, on successful completion of this phase, replication of
+the system across the country, was in line with the required phasing for similar projects, which involved the
+implementation of large scale information systems, countrywide.
+
+3.4 Revised Components:
+         The project components were not revised. However, as a result of advice based on analyses by two
+sets of consultants, one financed by the USAID and the other by the French Government, both of whom
+were of the opinion that since during the early years of project implementation, Treasury processes and
+procedures were still being modified frequently, and had not been stabilized and incorporated in the legal
+framework, it would be better for the Treasury to invest in custom development of application software
+rather than the acquisition of an off-the-shelf application software package for the budget execution part.
+The project therefore financed the acquisition of consulting services from a group of technical consultants
+who designed, developed, and implemented the Treasury system. The Treasury did acquire an off-the-shelf
+package to interface the Treasury system with the banking system. Project-financed consultants helped the
+Treasury to integrate this with the custom-developed Treasury system.
+
+3.5 Quality at Entry:
+          A formal Quality at Entry (QAE) assessment was not carried out before the start of the project.
+However, project objectives were consistent with Government priorities and the Bank's strategy as
+envisaged in the Public Sector Resource Management Loan (PSRML) adjustment operation that was
+initiated at about the same time and were proven feasible during implementation. The conceptual design of
+the Treasury system was based on the IMF's design which was being successfully introduced elsewhere in
+the Former Soviet Union (FSU). The implementation approach was also appropriate, with a pilot phase to
+test the functionality of the systems, before being adopted nationwide. Counterparts were committed to the
+operation and were involved in all phases of project preparation. However, the project was launched in a
+challenging environment as the political consensus on reforms within the country was evolving. It was an
+ambitious project and involved extensive changes to the existing system of fiscal management and control.
+The project design catered adequately to technical aspects but underestimated considerations of the political
+economy. This led to delays during project effectiveness and implementation. A better analysis of the
+political economy and institutional stakeholders might have mitigated the very slow start up of the project.
+However, the technical design proposed for the Treasury system and its phasing envisaged in the project
+and the commitment level of the MOF and the Treasury management were appropriate. Gaps in
+institutional capacity were supplemented by technical assistance provided through the project. The project
+objectives were achieved. Therefore, on balance QAE is assessed as satisfactory.
+
+
+
+
+                                                      - 5 -
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+
+        The project has successfully assisted the Government in setting up a Treasury function, has
+modernized Treasury operations, and has upgraded the Government's capacity for fiscal management.
+Reform measures included the design and implementation of the underlying legal framework, the setting up
+of the organizational arrangements for Treasury-based payment and receipts processing and design of the
+associated systems and procedures. These measures have provided the Treasury the capacity to monitor
+budget execution closely, collect and provide the MOF comprehensive reliable and timely information
+required for the management of government expenditure and has significantly improved the capacity of the
+Government for fiscal management. The overall objectives of the project have been successfully
+accomplished and the achievement of objectives is rated satisfactory.
+
+        It is interesting to see the data on Government fiscal deficits in Ukraine for the period 1994-2004
+as shown the table below:
+
+                      General Government Fiscal deficit ( % of GDP) - IMF Figures
+  1994       1995      1996       1997      1998      1999      2000    2001       2002      2003       2004
+   -7.8      -4.9       -3.2      -5.4      -2.8       -2.4     -1.3     -1.6      +0.5       -0.9      -4.4
+
+        It is observed that in response to the reform measures initiated by the Government during the
+period 1994- 2000, which included the establishment of the Treasury and were generally characterized by
+better budget management and improved fiscal control, the fiscal deficit reduced significantly. The rise in
+the defict during 2004 is attributed to the loosening of fiscal control and granting very large increases in
+benefits (e.g., pensions) prior to the national elections in 2004.
+
+        Details of Treasury-specific reforms implemented over the period 1998-2004 are given below. The
+necessary legal framework that authorizes the Treasury to control budget execution is in place. The State
+Treasury has been set up as a separate organization under the MOF and has taken over budget execution
+functions formerly carried out by financing departments of the MOF and the National Bank of Ukraine. A
+three-tier Treasury organization has been set up with offices at the center, the 27 oblast treasury offices and
+640 rayon Treasury offices. A GFS-conformant Budget classification structure has been implemented since
+1998. A Treasury Single Account has been established at the National Bank of Ukraine at the center in
+Kyiv and at the oblast branches of the Central Bank. Most spending units' bank accounts have been closed
+and Government finances are lodged in the Central Bank. Budget execution processes have been
+re-engineered and spending units now route all of their expenditure transactions, including those relating to
+staff salaries, through designated treasury offices. Budget appropriations approved by Parliament are
+recorded in the Treasury system, as are planned expenditures for each spending unit, by month and type of
+expenditure. During the course of the year the MOF issues periodic warrants to spending ministries which
+define the limits of expenditure for that month. The Treasury offices check for availability of budget and
+cash and pass these transactions to their parent oblast Treasury office which then processes them through
+correspondent accounts set up at the oblast branch of the National Bank of Ukraine. After approval the
+Treasury forwards the payment request to the designated branch of the Central Bank that holds the TSA
+and the bank pays the government creditor. This payment could be in the form of a check or a direct deposit
+to the creditors' bank account in a private bank. A commitment system has been instituted for contracts
+exceeding a specified threshold. A full set of fiscal reports are produced by the system to assist the
+Government in the management of its financial resources.
+
+
+
+
+                                                       - 6 -
+
+         Over the period 1997-2002, the scope of the Treasury system has been gradually extended to cover
+all central government budget operations, including former extra-budgetary funds and off-budget revenue
+activities of the central government institutions. Starting from FY2000, off-budget activities of budget
+institutions and most extra-budgetary funds are covered by the formal budget appropriation process. The
+Treasury system has become the repository of information for all initial budget allocations and any changes
+introduced during the course of the year. A basic commitment registration and control system has been
+initiated from FY2001.
+
+         All information on cash flows related to tax administration are routed through the Treasury.
+Typically, a taxpayer would instruct his Bank to make a payment on his behalf for a specific tax to a
+specified Treasury correspondent account at the respective oblast branch of the NBU. The Treasury
+receives information about these deposits by type of tax including details about the taxpayer from the NBU.
+This information is then passed on by the Treasury to the TSA office at the oblast and rayon levels. Since
+August 2002, Customs receipts are also deposited in the Treasury correspondent accounts with the NBU as
+explained above for tax administration, and Treasury informs the Customs Department about the
+collections. All customs-related expenditures are now also handled by the Treasury.
+
+         At present, only selected national security agencies remain outside the purview of the project. Even
+for these agencies, payments related to their headquarters (e.g., salaries of staff and other expenses) are
+handled through the Treasury.
+
+         In accordance with a Government decree, the Treasury has extended the coverage of the system to
+the local budgets. This is beyond the scope of the project as originally designed. Extending Treasury
+coverage to local budget execution allows the uniform application of expenditure and procurement control
+regulations and better information on the fiscal position of all levels of government budgets in Ukraine.
+Local government revenue and expenditure transactions are now also routed through the Treasury with
+effect from January 2004.
+
+         However, achievement of project objectives has not been achieved without difficulties. Opposition
+from groups who perceived this change as a threat, delayed project effectiveness. These factors are
+discussed in more detail in Section 5.2         below and caused a delay of about 12 months in project
+effectiveness. In addition, the slow pace of project implementation in the earlier years during which the
+underlying concepts of the Treasury reform and associated systems were still being debated, caused
+schedule slippages and the project closing date had to be extended by two and a half years. However, as
+pointed out in a recent study carried out at the Bank and discussed in Section 8, the time taken to complete
+the project is not out of line with the time taken for similar projects in many countries.
+
+4.2 Outputs by components:
+
+         As mentioned earlier, this is a single component project. However, the major outputs for each of
+the notional sub-components are described below.
+
+(a)      Technical Assistance. As mentioned earlier, the overall functional design of the Treasury system
+was carried out under advice from the IMF. Technical assistance on the substantive aspects of the Treasury
+was provided by the IMF through the resident IMF Treasury advisor. The Project supplemented this
+assistance by financing the consultants for the technical design, development, and implementation of the
+automated Treasury system developed under the project. The design phase was completed successfully and
+the outputs from this phase were satisfactory. This phase resulted in: (i) a full statement of functional
+requirements for the Treasury system. The functional design included a description of information flows,
+
+
+
+                                                       - 7 -
+
+procedures, transaction types, associated documents and forms, the organizational arrangements required to
+operate the new systems and the reports to be generated. It also developed detailed documentation for the
+overall systems and its operation, the detailed functional requirements and systems specifications for the
+application software required to support them, in addition to their interfaces with external systems; (ii)
+design of technology architecture. This task involved definition of the size and configuration of the
+hardware and software to be installed at the nodes, as well as the mode of intercommunication, and
+specifications for the hardware and systems software required at the various sites for each phase of the
+project; (iii) preparation of tender documents for system procurement in accordance with the World Bank
+guidelines for procurement of computer systems; and (iv) design of a training program describing the
+training courses required for the operation of the system and highlighting the numbers and types of staff to
+be trained in each area.
+
+(b)      Computer Hardware and Software: The outputs from this component are rated satisfactory. The
+project first financed hardware and software to upgrade the interim Treasury system that was first
+established by the Government using its own finances in the mid nineties. These improvements related to
+upgrades in hardware, systems software and application software and were designed with a view to enable
+the system to act as an effective interim tool for budget execution and control. The Treasury then upgraded
+this interim system to a new more full function system, termed the AS KAZNA, as agreed with a joint
+Bank /IMF (FAD) mission in 2000.
+
+         The AS KAZNA system was first piloted at a designated set of oblasts and rayons and then
+subsequently replicated across all oblasts and rayons over the period 2000- 2004. The system has been
+established at all oblasts and rayons. The system is being used to process all central government
+expenditure and revenue transactions at all oblasts and all associated rayons and the Headquarters. In
+addition, as of December 2003, the AS KAZNA system is also being used to process local government
+expenditure and revenue transactions in all oblasts and rayons.
+
+         The Treasury system "KAZNA" designed and implemented under the project is operating in a
+stable mode. Typically between 60-100 local users and 400 remote users are connected to the system
+running at a given oblast on a given day. The total number of concurrent users, country wide is about 8000.
+The system processes about 94 million transactions per year country wide. Out of this number, 70 million
+transactions relate to revenue and 24 million transactions relate to expenditure.
+
+         The AS KAZNA system operates under an oblast-based centralized environment. This means that
+the application software resides at the oblast and the rayon offices are required to connect to this in an
+on-line mode to process transactions. This facilitates system maintenance and upgrades. However, it also
+imposes additional communications requirements. For satisfactory operations an online telecommunications
+link with a minimum speed of 19.2 kbs is required between all rayon offices and their parent offices at the
+oblast level. The Treasury has worked with UKR Telecom for the provision of adequate numbers of good
+quality communication lines between the rayon and the oblast treasury offices and between the oblasts and
+the central Treasury. For the connections from the oblast to central Treasury the Treasury now has frame
+relay channels operating at a bandwidth of 64 kbs over fiber optic medium. For the rayons to oblasts a mix
+of analog channels, frame relay connections, and x.25 channels are currently used to connect all rayons to
+their respective oblasts. Data transmission speeds over these channels vary between 19.2 to 64 kbs. It
+appears that the Treasury has been able to overcome the anticipated problems related to
+telecommunications.
+
+(c)      Training: The outputs from this component are rated as satisfactory. As part of the AS KAZNA
+roll-out process,     the Treasury has conducted an extensive training program for the training of
+
+
+                                                     - 8 -
+
+management, technical, and operational staff. Training of functional staff and managers included definition
+of the concepts of a Treasury-centric budget execution system and how the automated treasury system will
+be used to carry out the budget execution process Documentation has been developed that describes
+operational procedures for carrying out treasury functions using the new system. The training program has
+proceeded successfully and between 10-15 staff have been trained for each oblast who then serve as
+trainers for staff at their oblasts and associated rayons. A total of about 337 trainers have been trained in
+the use of KAZNA over the last three years. These staff then provide hands-on assistance and training to
+Treasury office staff in their regions. The Treasury system is now operating in all regional (oblast) and
+district (rayon) offices and all relevant staff have been trained in its use. The Treasury has planned an
+ongoing training program for managers and operational staff at professional training institutes at Kyiv and
+Dnieperopetrovsk and it is envisaged that about 1,000 staff would be trained on an ongoing basis each
+year.
+
+         The Treasury has followed this up by organizing extensive seminars for training of its staff, as
+well as senior financial staff of the user ministries and local governments. This training focused on the
+functional aspects of the new treasury system, using the Treasury training facility and the detailed
+functional requirement documents. A detailed training program for the senior staff of the MOF and the user
+ministries in using the new application software has been introduced from November, 2001 by the project
+team and is being replicated country-wide, in step with the system replication process.
+
+         In addition the Project has also financed the costs associated with training of Treasury staff,
+arranged through ADETEF, with government agencies in France, to make them familiar with the
+functioning of a modern treasury. A total of 135 Treasury staff were sent to France for this training over
+the last four years. Senior Treasury managers from the functional and the informatics side also visited
+Hungary and Kazakhstan to see the working of the Treasury system in these countries.
+
+4.3 Net Present Value/Economic rate of return:
+
+N.A.
+
+4.4 Financial rate of return:
+
+N.A.
+
+4.5 Institutional development impact:
+
+         The institutional development impact of this project has been substantial. The necessary legal and
+institutional framework required for the operation of a Treasury has been set up. The Government of
+Ukraine has been able to put in place a fully functioning Treasury organization with offices at the center, in
+each of the 27 oblasts and in some 650 rayons. All government financial flows relating to expenditures and
+receipts have been restructured and are routed through the Treasury. Most spending unit bank accounts
+have been closed and a TSA has been set up with the NBU. Associated systems and procedures
+implemented under the project enable better control on the use of Government financial resources and
+ensure that they are spent on items for which they had originally been approved. The system enables better
+cash management and Government has a good idea of the total cash resources available to it at a given
+point in time thereby enabling it to better formulate its borrowing strategy. Efficiencies in budget execution
+achieved by the system, enable Government to meets its financial obligations within the stipulated
+contractual time limits. A large number of staff have been trained in the use of the system.
+
+
+
+
+                                                      - 9 -
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+         A major factor that affected project implementation related to the fact that this project was initiated
+at a time when Ukraine was in the initial stages of the transition from a socialist system to a market
+economy. The project was launched in a challenging environment when political consensus on the reforms
+in the country was still evolving. Public finance management structures and institutions inherited from the
+socialist days were not adapted to a market economy and called for far reaching institutional and policy
+reforms. Even though a decision had been taken to move to a market-based economy, the specific steps
+involved in the actual transition were not clear to all Government officials. Exposure of top MOF officials
+to courses organized by the IMF institute in Vienna, and visits of these officials to other advanced
+countries, to see the functioning of a modern Treasury were helpful in improving their understanding of
+Treasury Reforms. However, it took time for all related officials to become fully conversant with the new
+systems and procedures involved in the transition.
+
+5.2 Factors generally subject to government control:
+         The introduction of the new institutional structure for budget execution envisaged under the project
+would require reorganization and realignment of the roles and responsibilities of related Government
+agencies, such as the MOF, the Treasury, the Central Bank, as well as the relationships with line
+ministries. Change on such a magnitude is bound to experience opposition from groups who perceive this
+change to be detrimental to them. These quarters were able to mount a successful opposition to the project.
+Thus, spending units within Government resisted the closure of Bank accounts. The private banking sector
+in the country resisted a loss of government business consequent to the closure of the SU bank accounts
+and lobbied parliamentarians at the Verkhovna Rada (the Ukrainian Parliament), which refused to ratify the
+project Loan or a PHRD Grant agreement under pressure from this lobby. This led to the eventual
+cancellation of the PHRD grant and a delay of about 15 months in project effectiveness. It was only due to
+the continuing support of the senior government policy makers in the MOF that these obstacles were
+eventually overcome.
+
+5.3 Factors generally subject to implementing agency control:
+         In the early years of the project the Treasury Department was a growing but weak institution which
+suffered from frequent changes in management and had limited institutional capacity both on the functional
+and technical side. Due to this, it took some time for the Treasury to understand fully the concepts and
+implement activities associated with setting up a fully functioning Treasury.              These institutional
+weaknesses contributed to some delay in implementation. However, these weaknesses were largely
+overcome as the project got underway. In the early stages of project implementation, a controversy over the
+type of application software to be used delayed project implementation. However, once this issue was
+settled in accordance with the advice of the IMF and the Bank, the project implementation proceeded
+smoothly and the system was extended to all oblasts and rayons within a fairly short period of two to three
+years.
+
+5.4 Costs and financing:
+        The original investment cost of the project was estimated at US$26.2 million, including duties and
+taxes of US$3.41 million. Out of this the Bank was supposed to finance US$16.4 million. The Loan has
+been almost fully disbursed. A residual amount of US$1,197.36 has been cancelled. In addition, the
+Government has contributed US$10.85 million, mainly towards procurement of computer hardware and
+software. This includes an amount of US$4.66 million for the payment of duties and taxes on equipment
+and software imports. Thus, the total project investment cost is about US$27.24 million, which is slightly
+higher than the original estimate. This increase is due to the fact that some of the computer hardware
+purchased by the Government from its own resources in the earlier years of the project had to be upgraded
+
+
+                                                     - 10 -
+
+as the project progressed and better and more effective technology became available.
+
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+         Sustainability of the Project. Treasury reforms, including the legal framework, the organizational
+arrangements, the system and procedures set up under the project have become an integral part of
+government budget execution processes. A sufficient number of staff have been trained in the use of the
+new systems and procedures. The Government has contributed a significant amount towards ths
+implementation of the new Treasury system and appears committed to continue to allocate additional
+resources to maintain the new systems. It is also planning a follow-on project to implement the second stage
+of treasury reforms in Ukraine, which would ensure better use of the information available from the
+Treasury system by the central MOF for budget execution purposes and the spending units for getting
+better status information on their financial resources.
+
+6.2 Transition arrangement to regular operations:
+         The institutions and systems set up as part of this project are now routinely used by the
+Government as part of its apparatus for public finance management. The transition to regular operations
+has already successfully taken place.
+
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+         The Bank's performance in the identification, preparation, and appraisal phases of the project was
+satisfactory. The project financed the setting up of a Treasury system, which was a crucial element of the
+Government's own fiscal reform program. During these phases the Bank worked closely with the IMF and
+provided advice on the design and implementation of the system based on its work on similar systems in
+other CIS countries. Government officials internalized the concepts associated with setting up a Treasury
+function and fully supported the design. However, both the Bank and the Borrower had underestimated
+political and institutional constraints and stiff resistance was encountered from quarters whose interests
+would be affected by the project. This was overcome only by the continuing high level support from the
+Government for establishing a Treasury function. The project received about 58 staff-weeks for project
+preparation up to supervision.
+
+7.2 Supervision:
+         The Bank's performance is assessed as satisfactory. The project received about 167 staff-weeks for
+supervision. The Bank and IMF worked very closely to supervise the project. During the initial phases of
+the project, progress was slow in the selection of the application software for the project due to internal
+conflicts within the Treasury. However, after intensive discussions between the Treasury, the IMF, and
+Bank experts, in which the Bank and the IMF assisted the Treasury in assessing options, the Treasury
+came to a decision on the choice of the application software for the Treasury system and started its
+implementation across all oblasts and rayons.
+
+         During the later years of the project, the Treasury put a very competent Treasury professional in
+charge of the project and assembled a team of competent consultants and staff to work on project
+implementation. Another key characteristic was that the focus of project implementation moved from being
+one of an IT project to a Treasury reform project.
+
+
+
+                                                     - 11 -
+
+        These changes, coupled with persistent Borrower commitment to project implementation, enabled
+the Treasury to complete the design and development of the application software and its pilot
+implementation and testing. The software was then rolled out to all oblasts and rayons after the necessary
+hardware was procured through project financing.       Both the IMF advisor and the Bank were actively
+involved in assessing the quality and the suitability of the prototype and in advising the Treasury on any
+corrective actions required.
+
+        Implementation picked up considerably during the last years of the project and it was able to
+achieve most of its objectives. On balance, the Bank's performance during supervision can therefore be
+rated as satisfactory.
+
+7.3 Overall Bank performance:
+        In view of project outcomes and the quality of intensive supervision carried out during the project,
+overall Bank performance can be assessed as satisfactory.
+
+
+Borrower
+7.4 Preparation:
+        The overall project design was based on IMF recommendations for Treasury systems for CIS
+countries. However, as implementation commenced, the Borrower quickly assumed the leadership in
+formulating and executing project activities. In particular, the Borrower internalized the basic concepts
+associated with the Treasury function and, in fact, showed a strong desire to extend the scope of the
+function to areas beyond those that were originally envisaged in the project, e.g., the extension of the
+system to include local governments. The Bank remained involved in implementation by highlighting the
+underlying requirements for pursuing this more aggressive strategy and keeping a close watch on progress
+implementation.
+
+
+7.5 Government implementation performance:
+        The Ministry of Finance was responsible for overall project coordination, however, execution of
+the project was the responsibility of the Treasury Department.
+
+
+7.6 Implementing Agency:
+         The implementing agency, was very responsive to the implementation needs of the project and
+generally excellent cooperation was established with the task team and maintained throughout the project.
+The Treasury hired a very competent team of technical consultants financed under the project who were
+able to successfully design, develop, and implement the new Treasury System across all oblasts and rayons
+in the country. A project-financed Project Implementation Unit (PIU) within the Treasury was responsible
+for procurement, maintaining project accounts, and the financial management aspects of the project.
+Hardware and software worth over US$14.0 million was procured through two large International
+Competitive Bids (ICBs) which were carried out very smoothly.
+
+
+7.7 Overall Borrower performance:
+        The targets proposed for the project have been met. Overall performance of the Borrower can be
+assessed as satisfactory.
+
+
+
+
+                                                    - 12 -
+
+8. Lessons Learned
+
+        The Treasury System project holds some valuable lessons for the design and implementation of
+technical assistance projects.
+
+        Strong commitment and support from the highest management levels. Government
+commitment to reform over the entire project duration, which has extended to seven years, has been a
+critical success factor for this project. Successive Finance Ministers and Treasury managers have
+recognized the importance of treasury reforms and have continued to press for progress on key policy
+reforms. Initially there was resistance from some power ministries (e.g., the Ministry of Defense), who
+were reluctant to give up their separate bank accounts. However, support from the Government made it
+possible for the Treasury to achieve the transition.
+
+        Design of information systems should be driven by functional rather than technical issues. In
+the design of this project, attention was carefully focused on functional design issues prior to
+computerization issues, to ensure effective and efficient implementation.       Functional and procedural
+changes were the major drivers of the reform. The technological changes, though the most capital intensive,
+were viewed as being in support of the functional reforms. A decision early in the project to invest in an
+interim computer system, partly financed under the IBL, to handle core aspects of Treasury functionality
+was critical in enabling the introduction of change involved in a gradual and a more manageable manner. It
+enabled staff within the Treasury to become familiar with a simpler computer-based system before the full
+function, more complex system was introduced. Moreover, since this system enabled the introduction of the
+key functional processes for the Treasury, it made it possible to hold the end-user's attention over the
+extended period required for full systems implementation.
+
+        Bank-IMF partnership in Treasury-related operations. In this project as in several others, e.g.,
+Treasury projects Kazakhstan, Hungary, etc., the partnership between the Bank and the Fiscal Affairs
+Department (FAD) of the IMF in terms of delivery of coordinated policy advice, close monitoring and
+follow-up has been critical for successful project implementation. The consistency and continuity in the
+advice was made possible by the continued association of the same IMF Treasury advisor throughout the
+major part of the project duration. This enabled the availability of good functional and technical advice to
+the Borrower during the critical implementation phases. Technical members of the Bank team at appraisal
+of this project were also involved with project supervision up to completion. This contributed to continuity
+of advice. The requirements for the inclusion of appropriately qualified technical staff in the project team
+for projects involving the implementation of a major countrywide information systems network needs to be
+recognized in the Bank.
+
+        Implementation capacity. The Government's ability to staff the project team with an extremely
+competent project manager and with a dedicated team of Treasury staff was critical during the testing and
+implementation phases of the new system. The Government was also able to set up a team of extremely
+competent local consultants experienced in setting up complex information systems who were able to
+design, develop, and implement the new Treasury system. However, low government pay scales will
+continue to be a crucial impediment to attracting and retaining qualified technical staff. Increasing salaries
+and a parallel move at improving the service conditions of employees within the Treasury would be
+required to retain staff and ensure the longer term sustainability of the system. In the interim, the
+Government may need to contract with the private sector for some technical support to ensure proper
+maintenance and operation of the system as it has done during project implementation. Treasury
+management recognizes this requirement.
+
+
+
+
+                                                    - 13 -
+
+         Time required for institutional building projects. The project closing date had to be extended by
+two and a half years to complete the project activities. Lack of capacity within the Treasury to handle the
+implementation of change associated with the new financial management system on such a wide scale has
+been the main impediment to the project being completed more speedily. The time taken is not out of line
+with similar projects in other countries, such as Kazakhstan, etc., where a treasury function was being set
+up ab-initio. A recent study in ECA of Treasury systems in 13 countries has shown that the average time
+taken for setting a basic Treasury system in these countries is between seven to nine years. The time
+actually taken to introduce changes in the legal framework and organization structures,           re-engineer
+functional processes, and introduce new        systems procedures on such a large scale across multiple
+government agencies needs to be recognized in planning similar projects.
+
+         Focused and well-defined program. A focused and well-defined program and a single
+implementing agency are prerequisites to successful and smooth implementation. These set of conditions
+were present in this Project.
+
+         Relating technical assistance operations to policy-based lending. As mentioned above, the close
+linkages between the Treasury Systems Project and the IMF's economic support program, specially in the
+early years of the project, and the Bank's public sector adjustment lending (first, the PSRML and later, the
+PAL programs), have been particularly useful in focusing high-level Government management attention on
+the importance of achieving milestones in the Treasury project.
+
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+
+                                      Borrower's Evaluation Report
+
+
+1.       Assessment of the Project Objectives, Design, Implementation and Operation Experience
+
+The State Treasury of Ukraine (STU) has been developing along with the World bank during almost the
+whole time of its existence. The beginning of the Project was contemporized with the period of
+establishment and initial development of treasury system in Ukraine. At that time the Treasury was one of
+the departments at the Ministry of Finance.
+
+From the first year, the Treasury has undergone dynamic development, but possessed a limited institutional
+capacity. This was caused by the difficulties during formation period: low technical capabilities and weak
+methodological base, understaffed, overloaded by high-scaled government objectives.
+
+Therefore, the Project objective that is the establishment of a fully functional automated treasury system as
+an effective tool for budget execution and cash management accompanied by financial and technical
+assistance was extremely important for STU and the budget system as a whole.
+
+In general, the project content was built successfully. It envisaged a substantial technical assistance to
+support treasury reforms and training. A resident IMF adviser on treasury issues worked at the Treasury on
+the permanent basis. Moreover, the numerous WB supervisory missions monitored the course of Project
+realization, amended the Project content with new assignments and addressed the current implementation
+problems.
+
+
+
+
+                                                     - 14 -
+
+The improvement of the Project at the preparation stage would have been better if there was systematic
+government policy from one hand and strategic development program for the Treasury system on the other
+hand. Unfortunately, we had to amend and extend the Project content during its implementation, for
+example, automation of accounting on treasury servicing of local budgets. However, due to reasonable
+policy of the Bank we achieved the greater outputs than expected, within the available value of the Project.
+
+2.        Project Implementation
+
+The Project Implementation had been carried out properly. An effective link has been established between
+main implementation agencies (STU, World Bank, IMF, PIU) and promoted the efficiency for project
+implementation process.
+
+Among the factors that could facilitate the Project implementation, we would like to point out the following:
+experience and knowledge in design of payment systems, and WB procedures and guidelines, qualified
+personnel experienced in automation of accounting procedures, certain management culture in conjunction
+with experience of large-scale IT projects realization. If the Treasury had these capacities at the Project
+start, this could reduce the implementation time and favored with the efficiency of the Project realization.
+
+3.        Achievement of Project Objectives
+
+All Projects objectives were accomplished that was confirmed by expectations of the Bank experts during
+supervisory missions.
+
+In general, STU was established as a modern public financial institution, reached full functionality and
+became an effective instrument of budget control.
+
+As far as the components are concerned:
+
+Part A: Technical Assistance in Designing and Implementing a Treasury System
+
+The institutional and legal framework for Treasury activities are in place.
+The Treasury functionality is stabilized, including introduction of budget classification compliant with
+IMF's GFS methodology and implementation of new chart of accounts. All Government payments are
+routed through the Treasury, which checks for budget appropriations, cash available, commitment before
+releasing the payment to be paid from the Treasury single account. A full set of fiscal reports are produced
+by the Treasury.
+
+Part B: Computer Hardware and Software
+
+A computerized transaction Treasury Ledger Systems based on automated system for accounting of
+budgets execution AS "Kazna" has been established and rolled out within the Treasury system. The
+Treasury Single Account is built and legal framework on its functioning is set up.
+
+The updated hardware platform for the Treasury has been installed on Intranet mode including
+telecommunication network rayon-oblast plus oblast-center, implemented DBMS Oracle (for budget
+revenues, banking part), Microsoft SQL (for budget expenditures, treasury part) as well as intrusion and
+antiviral protection systems.
+
+
+
+
+                                                     - 15 -
+
+Part C: Training
+
+During the course of the project a wide training program has been carried out.
+The Treasury management and staff had the opportunity to attend workshops, conferences in international
+training centers and in Ukraine in the area of budget management and treasury practices. Thus, valuable
+experience and practical recommendations were gained especially in terms of treasury servicing of local
+budgets.
+
+4.       Appraisal of the Borrower's Own Work from the Standpoint of Project development and
+Introduction
+
+Fist of all, it is experience gained in area of project management. In the course of the Project the Treasury
+approach to its realization was improved significantly.
+
+In the conditions of limited institutional capacities and uncertainty in budget policy in the Project start,
+approach to cooperation with the Bank was built taking into account the actual situation in budget sphere
+and availability of own recourses in the Treasury.
+
+By the second part of the Project we worked out the effective strategy that allowed predicting possible
+problems, setting priorities for project measures as well as planning the Treasury activities.
+
+Specific management culture and significant performance potential received due to experience of
+cooperation with the Bank, set the positive preconditions for a follow-up joint IBRD's project.
+
+The Treasury did its best to disburse fully and effectively the Loan proceeds.
+Obviously, some lack of experience in project management in the Project beginning could have been
+compensated by arrangement of workshop for the Treasury management in area of project and financial
+management and procurement.
+
+It could be reasonable to envisage to great extent attraction of national intellectual resources for fulfillment
+of Project objectives. This could facilitate the development and increase of S&T capacities in Ukraine.
+
+Our experience in ICB procurements proved that the most appropriate procedure for complex IT solutions
+is 2-stage bidding with an accent on pilot projects.
+
+Also the costs for maintenance and technical support are essential part of the procurement. This significant
+amount, 10 and 20% of product costs (as charged by IT industry) should be accounted during cost
+estimates of IT procurement. That also requires a bigger life cycle costs of IT procurement and should be
+taken into account while Project preparation.
+
+In our opinion, the issue of authorized support on the out-sourcing principles should be addressed to
+greater extent in Ukraine.
+
+The experience gained during the WB Project implementation made the State Treasury of Ukraine
+well-known institution in the area of international project realization. We're sure that new approach to
+project implementation will be valuable in cooperation with other international donors.
+
+
+
+
+                                                      - 16 -
+
+5.      Appraisal of the World Bank Work from the Standpoint of Project Development and Introduction
+
+First of all, we would like to appreciate the excellent work of the Task Team, that provided efficient
+coordination and support of the Project from the Bank side as well as constant assistance given by the Bank
+Resident mission in Ukraine.
+
+The main advantage of the Bank in terms of project implementation, to our mind, is the high degree of trust
+to the Treasury as implementing agency.
+
+The next is flexible and sustainable policy taking into account the national specifics. This allowed them to
+withdraw the excessive tensions in resolving of main strategic implementation issues.
+
+A striking example is the approval by the Bank of the Treasury decision regarding own design and
+implementation of application software AS "Kazna" for Treasury information system. At that time the
+Bank accepted the Treasury arguments, namely inability and unreadiness of the Treasury, in terms of
+functionality and technical capacities for procurement of off-the-shelf application software. This favorable
+decision turned out to be quite effective for medium-term tasks of Treasury development and allowed
+financing AS "Kazna" implementation from Loan proceeds.
+
+Some negative feature that could be mentioned was frequent introduction of new samples for IT
+procurement bidding documents and usage of trial version of Standard bidding document for complex
+purchases.
+
+Relations with the Bank were very constructive. Always we felt understanding attitude of the Bank
+representative to the Treasury. Besides regular supervisory missions the Bank was open to discuss critical
+issues during meetings, negotiations, video-conference, etc. Project implementation unit played a key role
+for successful project implementation and became an effective intermediate link between the Bank and the
+Treasury.
+
+In our opinion, more decentralization within the Bank would reduce time for concordance and approval
+procedures, and would facilitate the timely project implementation. Such processes have been introduced
+recently in financial management and procurement activities.
+
+(b) Cofinanciers:
+
+
+(c) Other partners (NGOs/private sector):
+
+
+10. Additional Information
+
+None.
+
+
+
+
+                                                    - 17 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+Outcome / Impact Indicators:
+                                                                                    1
+                 Indicator/Matrix                           Projected in last PSR                           Actual/Latest Estimate
+Introduce new budget classification compliant The new budget classification system and          Use of the new budget classification system
+with GFS to be introduced in FY 1998.          new Chart of Accounts were introduced in         and chart of accounts has improved the
+Improvements to be made over the course of 1998.                                                quality of fiscal reporting
+the project.
+
+Develop the legal, regulatory and operational The Treasury was set up under a                   A Treasury centric budget execution system
+framework to implement the Treasury            Presidential Decree in 1997 giving it the        is now in full operation enabling the
+system.                                        authority to monitor budget execution. A         Government to ensure that all spending is in
+                                               three-tier organization has been set up with     accordance with budget appropriations and
+Establish Treasury Single account by FY        Treasury offices at the Center, at each of the warrant allocations.
+1998; centralize all government payments       27 oblasts and about 650 rayons. A Treasury
+through Treasury by June 1999, 70% by          single account has been established in the
+June 1998.                                     National Bank of Ukraine (NBU) at the center
+                                               in Kiev and at the oblast branches of the
+                                               Central bank. Most spending unit bank
+                                               accounts have been closed and Government
+                                               finances are lodged in the Central Bank.
+                                               Budget execution processes have been
+                                               re-engineered and spending units route all
+                                               expenditure transactions, including those
+                                               related to staff salaries, through designated
+                                               Treasury offices. This change has taken
+                                               place gradually over the period 1997 to 2000.
+
+Improved cash management to result in a        With the implementation of the new Treasury Implementation of the TSA system and
+reduction of government cash balances with     system, most spending unit bank accounts         consolidation of Government bank accounts
+the banking system to half the present         with the private banking system have been        into a TSA has eliminated idle balances in
+amount after the implementation of the full    closed and a TSA was set up at the Central       spending unit bank accounts.
+system.                                        Bank in Kiev. Balances in branches of the
+                                               Central Bank at oblast branches are
+                                               transferred each night to the TSA at the
+                                               Central Bank in Kiev.
+
+Develop methods to improve forecasting of      The new Treasury system implemented              Information available from the Treasury
+expenditure requirements and cash              under the project has the capability to assist   system is used to forecast expenditures and
+management.                                    in the forecasting of expenditure and cash       for cash management
+                                               management.
+
+Assess training requirements for institutional A comprehensive training program was             A sufficient number of Treasury staff have
+development, and develop and implement a       initiated in parallel with the implementation of been trained in the operation and use of the
+training, skills upgrading, and recruitment    the new AS KAZNA Treasury system.                system and trained Treasury staff now use
+program as may be necessary- Ongoing           Documentation has been developed that            the Treasury system on a day to day basis for
+throughout the project                         describes the operational procedures for         all budget execution related functions.
+                                               carrying out treasury functions using the new
+                                               system. A total of about 1650 staff have been
+                                               trained in the use of the new system over the
+                                               last three years. In addition the Treasury has
+                                               developed a capacity to train new entrants
+                                               and replacement staff on an ongoing basis.
+
+
+
+
+                                                                    - 18 -
+
+Output Indicators:
+                                                                                 1
+               Indicator/Matrix                          Projected in last PSR                   Actual/Latest Estimate
+Redesign budget classification system and    A new budget classification system based on same
+develop a revised Chart of Accounts          IMF's GFS and a new Chart of Accounts
+conforming with the IMF's GFS classification conforming to the new budget classification
+methodology                                  was designed in 1997-98.
+
+
+Develop the fiscal reporting system- start   A basic fiscal reporting capability was       same
+preparing fiscal reports using the interim   established using the interim Treasury
+treasury system - FY1999.                    system in 1999.
+
+
+Upgrade interim system and hardware by       The Treasury first upgraded the interim       same
+June 1999. Establish pilot system by June    system developed under the IBL from
+2000. Install full system hardware and       Government's own resources. This was done
+software by December 2001.                   in 2000. This system was then replaced by a
+                                             more fully functioning Treasury system AS
+                                             KAZNA in 2002. The new system has now
+                                             been installed at all oblasts and rayons and
+                                             is being used to process all central and local
+                                             government expenditure and revenue
+                                             transactions.
+
+
+1End of project
+
+
+
+
+                                                                - 19 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                          Appraisal    Actual/Latest   Percentage of
+                                                          Estimate      Estimate        Appraisal
+                      Component                           US$ million   US$ million
+Equipment and Software                                      22.77          25.73
+Technical Assistance                                         2.59            0.97
+Training                                                     0.54            0.27
+Incremental Operating Costs                                  0.27            0.27
+
+Total Baseline Cost                                         26.17          27.24
+                        Total Project Costs                 26.17          27.24
+                  Total Financing Required                  26.17          27.24
+
+
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+                                                                    1
+                                               Procurement Method
+    Expenditure Category           ICB             NCB                2       N.B.F.     Total Cost
+                                                               Other
+1. Works                          0.00              0.00         0.00         0.00          0.00
+                                  (0.00)           (0.00)      (0.00)         (0.00)       (0.00)
+2. Goods                          11.59             0.00         1.50         9.67         22.76
+                                 (11.59)           (0.00)      (1.50)         (0.00)      (13.09)
+3. Services                       0.00              0.00         2.44         0.14          2.58
+                                  (0.00)           (0.00)      (2.44)         (0.00)       (2.44)
+4. Training                       0.00              0.00         0.54         0.00          0.54
+                                  (0.00)           (0.00)      (0.54)         (0.00)       (0.54)
+5. Incremental Operating          0.00              0.00         0.28         0.00          0.28
+Costs                             (0.00)           (0.00)      (0.28)         (0.00)       (0.28)
+6. Miscellaneous                  0.00              0.00         0.00         0.00          0.00
+                                  (0.00)           (0.00)      (0.00)         (0.00)       (0.00)
+    Total                         11.59             0.00         4.76         9.81         26.16
+                                 (11.59)           (0.00)      (4.76)         (0.00)      (16.35)
+
+
+
+
+                                                - 20 -
+
+  Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                                   1
+                                                         Procurement Method
+       Expenditure Category                ICB               NCB                      2         N.B.F.         Total Cost
+                                                                               Other
+   1. Works                                0.00               0.00              0.00             0.00              0.00
+                                          (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+   2. Goods                                14.11              0.00              0.76             10.85            25.72
+                                          (14.11)            (0.00)            (0.76)            (0.00)           (14.87)
+   3. Services                             0.00               0.00              0.97             0.00              0.97
+                                          (0.00)             (0.00)            (0.97)            (0.00)           (0.97)
+   4. Training                             0.00               0.00              0.27             0.00              0.27
+                                          (0.00)             (0.00)            (0.27)            (0.00)           (0.27)
+   5. Incremental Operating                0.00               0.00              0.28             0.00              0.28
+   Costs                                  (0.00)             (0.00)            (0.28)            (0.00)           (0.28)
+   6. Miscellaneous                        0.00               0.00              0.00             0.00              0.00
+                                          (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+       Total                               14.11              0.00              2.28             10.85            27.24
+                                          (14.11)            (0.00)            (2.28)            (0.00)           (16.39)
+
+    1/Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+
+    2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+      of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+      managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+Project Financing by Component (in US$ million equivalent)
+                                                                                                      Percentage of Appraisal
+       Component                   Appraisal Estimate                  Actual/Latest Estimate
+                               Bank        Govt.        CoF.         Bank         Govt.      CoF.       Bank     Govt.     CoF.
+Equipment and Software        13.09         9.67                    14.88         10.85                 113.7    112.2
+Technical Assistance           2.45         0.14                     0.97         0.00                  39.6      0.0
+Training                       0.59         0.00                     0.27         0.00                  45.8      0.0
+Incremental Operating          0.27         0.00                     0.27         0.00                  100.0     0.0
+Costs
+
+
+
+
+                                                          - 21 -
+
+Annex 3. Economic Costs and Benefits
+
+N.A
+
+
+
+
+                                      - 22 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                No. of Persons and Specialty                   Performance Rating
+                                     (e.g. 2 Economists, 1 FMS, etc.)           Implementation Development
+                   Month/Year  Count           Specialty                          Progress       Objective
+
+ Identification/Preparation
+              October 1996              3    TTL, Informatics Specialist, IMF
+                                             FAD Economist
+              March 1997                3    TTL, Informatics Specislist, IMF
+                                             FAD Economist
+
+ Appraisal/Negotiation
+              August, 1997              5    TTL, Informatics Specilaist,
+                                             IMF FAD Economist,
+                                             Procurement specialist,
+                                             Financial Management
+                                             Specialist
+              December 1997             7    TTL, Informatics Specialist,
+                                             IMF FAD Economist, Lawyer,
+                                             Procurement Specialist, Financial
+                                             Management Specialist,
+                                             Disbursement Specialist
+
+ Supervision
+              09/19/1998                2    Sr Informatics Specialist (1);          S               S
+                                             Sr Eonomist (1)
+              10/23/1999                2    Informatics Specialist (1); Project     U               S
+                                             Officer (1)
+              05/15/2000                3    TTL and Informatics Spec. (1);          S               S
+                                             Procurement Specialist (1);
+                                             Disbursement Analyst (1)
+              10/21/2000                3    TTL and Informatics Spec. (1);          S               S
+                                             Proc Staff (1); Disb Staff (1)
+              06/02/2001                4    TTL and Informatics Spec. (1);          S               S
+                                             Proc Spec (1); Disb Analyst (1);
+                                             IMF Advisor Designate (1)
+              12/01/2001                2    TTL and Informatics (1); Lead           S               S
+                                             Economist (1)
+              03/05/2002                2    TTL/Informatics (1); IMF-FAD            S               S
+                                             Economist (1)
+              10/17/2002                3    TTL and Informatics Spec. (1);          S               S
+                                             Proc Staff (1); Disb Staff (1);
+              06/20/2003                3    TTL and Informatics Spec. (1);          S               S
+                                             Proc Staff (1); Disb Staff (1);
+
+
+ ICR
+              10/15/2004                3     TTL/ Informatics Spec. (1);            S               S
+                                              Proc Staff (1); Disb Staff (1)
+
+
+
+
+                                              - 23 -
+
+(b) Staff:
+
+       Stage of Project Cycle                Actual/Latest Estimate
+                                 No. Staff weeks                 US$ ('000)
+  Identification/Preparation               18                       39800
+  Appraisal/Negotiation                    40                       66820
+  Supervision                            167                       469000
+  ICR                                       8                       20000
+  Total                                  233                       595620
+
+
+
+
+                                            - 24 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 25 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 26 -
+
+Annex 7. List of Supporting Documents
+
+Staff Appraisal report, Technical Annex No: T-7184-UA
+Bank Mission Back to Office Reports and aide Memoires from 1997- 2004
+
+
+
+
+                                                - 27 -
+
+- 28 -
+

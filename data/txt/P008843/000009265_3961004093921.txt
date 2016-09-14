@@ -1,0 +1,2660 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 11628-SLK
+STAFF APPRAISAL REPORT
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+MAY 28, 1993
+Infrastructure Operations Division
+Central Europe Department II
+Europe and Central Asia Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY AND EQUIVALENT UNITS
+Currency Unit = Koruna (Kcs)
+AVERAGE EXCHANGE RATES
+1987       1988       1989       1990       1991   1992
+US$1.00                 = Kcs 13.68        14.36       15.05      17.95     28.50  28.50
+WEIGHTS AND MEASURES
+Metric System                                          US System
+1 meter (m)              =                       3.208 feet (ft)
+1 kilometer (km)         =                       0.6214 mile (mi)
+I square kilometer       =                       0.3861 square mile (mi2)
+1 metric ton (m ton)     =                       0.9842 long ton (Ig ton)
+1 kilogram (kg)          =                       2.2046 pounds (Ibs)
+ABBREVIATIONS AND ACRONYMS
+DEL         -   Direct Exchange (telephone) Line
+DON         -   Digital Overlay Network
+EC          -   European Community
+EBRD        -   European Bank for Reconstruction and Development
+EIB         -   European Investment Bank
+FDM         -   Frequency Division Multiplex (method used in the analogue environment for
+combining multiple conversations on a single wire or radio channel)
+FMPT        -   Former Czechoslovakian Federal Ministry for Post and Telecommunications
+GDP         -   Gross Domestic Product
+GOS         -   Government of the Slovak Republic
+GSM         -   Group Special Mobile (proposed standard for digital cellular telephone systems)
+IDP         -   Institutional Development Program
+JV          -   Joint Venture
+MAN/WAN  -   Metropolitan Area or Wide Area Network
+MB/s        -   Megabit per second
+MIS         -   Management Information Systems
+MTCP        -   Ministry of Transport, Communications and Public Works (of the Slovak
+Republic)
+MW          -   Microwave
+PHARE       -   EC grant program for providing assistance to CEE
+PIU         -   Project Implementation Unit
+PSTN        -   Public Switched Telephone (or Telecommunications)
+Network
+SPT         -   Sprava Post a Telekomunikaci (Slovak Republic's Post and Telecommunications
+organization, so called during period under the former CSFR)
+SR          -   Sprava Radiokomunikaci
+ST          -   Slovak Telecommunications (Current name of operating company)
+TC          -   Telecommunications
+TCMI        -   Telecommunications Manufacturing Industry
+TCO         -   Telecommunications Operator: i.e., the telecom
+section of the SPT until separation of posts and telecoms, and the
+telecom enterprise, ST, thereafter
+USTDP       -   United States Trade Development Program
+UNT         -   Unified Telecommunications Network (of former CSFR)
+SLOVAK FISCAL YEAR
+January 1 - December31
+
+
+
+FOR OMCIAL USE ONLY
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+STAFF APPRAISAL REPORT
+Table of Contents
+Page
+LOAN AND PROJECT SUMMARY   ........                                      .................. i-iii
+I. INTRODUCTION ........................................ 1
+H.   THE TELECOMMUNICATIONS SECTOR ........................ 1
+A.   Introduction ........................................ 1
+B.    Government Authorities ................................ 3
+C.    Telecommunications Service Providers ....................... 4
+D.   Telecommunications Users ............................... 8
+E.    Telecommunications Manufacturing Industry .................... 8
+Ill.  TELECOMMUNICATIONS SECTOR POLICY ...................... 9
+IV.  DEVELOPMENT PROGRAM ............................... 13
+A.   Development Plans .................................. 13
+B.       Project Description and Implementation ...................... 15
+V.   FINANCIAL ANALYSIS ................................... 23
+A.   Introduction ....................................... 23
+B.   Past Performance ....................                                                                 ................ 24
+C.       Projected Financial Performance  ..... .....................                                      27
+D.   Financing Plan ............................                                                           29
+E.  Tariffs ............................                                                                   30
+F.   Accounting and Finance ............................     31
+G.   Cash Management ...........................                                                           32
+H.  Auditing ...........................                                                                   32
+I.    Financial Covenants ............................                                                     33
+Ths Report was prepared by a team comprising Nwob Hker (Task Manager), Eaar Wmmstrm, and Greta
+Nettleto  (Conasultant); David Loux is the Peer Reviewer. EC2 1nfrasructur is the responsbe division
+(Han J1. Apitz, Division Ciel, Central Europe Deparbtent (Kenal Dervi, Director).
+r  This document has a restricted distribution and may be used by recipients only in the performance
+of their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+VI. ECONOMIC ANALYSIS ............................... 33
+A.    Rate of Return/Benefits/Risks ............................ 33
+B.    Environmental and Health Aspects . ......................... 35
+VII.   AGREEMENTS REACHED  .............................. 35
+TABLES
+2.1    Comparative Quality of Service indicators  ...          ................  6
+4.1    Total Program Cost: ST ..............  ................. 18
+4.2    Project Financing  ........         ..............  ............  19
+4.3    Procurement: ST ................. .................. 20
+4.4  Performance Indicators: ST .............................. 23
+5.1  Past Financial Performance .............................. 25
+5.2    Projected Financial Performance  .      ......................... 27
+5.3    Financing Plan: ST  ................................   30
+ANNEXES
+1   Organization Chart of ST ............................... 37
+2      Slovak Basic Telecom Data  . ............................ 38
+3      Slovak Telephone Network Architecture  .......            .............. 39
+4      Telecommunications Manufacturing Industry ......            ............. 40
+5      Physical Investment Data ............................... 43
+6      Institutional Development Program  ..........           ............... 44
+7      Training and Technical Assistance ......................... 51
+8   Project Costs .................................. 52
+9      Schedule of Disbursements .............................. 53
+10    Implementation Schedule ...............................  54
+11     Performance Indicators ................................ 55
+12     Financial Statements  ................................  56
+13     Number of Employees per 1,000 DEL  ........               .............. 61
+14     Tariffs ................................ 62
+15     Calculation of Intemal Rate of Retum  .........          .............. 63
+16     Recommendations: PA Consultants ......................... 64
+Map IBRD-24626
+
+
+
+SLOVAK REPUBLIC
+STAFF APPRAISAL REPORT
+TELECOMMUNICATIONS PROJECT
+LOAN AND PROJECT SUMMARY
+Borrower:               Slovak Telecommunications (ST)
+Guarantor:              Slovak Republic
+Amount:                 US$55.0 million
+Terms:                  Seventeen years maturity, including five-year grace period at the
+Bank's standard variable interest rate. The foreign exchange
+risk would be borne by the borrower.
+Project Objectives:     The project would support the digitalization and expansion of
+the core network to: (a) reduce congestion on key network
+elements (thereby improving service for all subscribers); (b)
+rapidly provide modern digital communications for businesses
+(especially export-related businesses); and (c) provide a sound
+foundation for future modernization and expansion of the entire
+network. The project would also focus on institutional and
+policy improvements aimed at: (a) increased efficiency in TC
+investment and operations; (b) improved quality of service; and
+(c) transition to full commercial operation.
+Project Descaption:     The project would support ST's development program for 1993
+- 1995 and would consist of two main elements: (a) construction
+of a digital overlay network focussing mainly on long-distance
+facilities but with appropriate complimentary international and
+local network improvement; and (b) technical assistance and
+training to support institutional improvements, especially in
+financial management, human resource management, and market
+orientation.
+Project Benefits:       The proposed project would help improve the quantity and
+quality of telecommunications service--thereby directly
+benefitting immediate users of these services and indirectly all
+sectors of the economy which depend on communications.
+Direct beneficiaries would include all existing subscribers (who
+would benefit from the improved quality which would result
+from decongestion of the long-distance network); and high
+
+
+
+- ii -
+volume subscribers (primarily business) who would benefit from
+access to modem digital communications. By facilitating the
+performance of business and the spread of market mechanisms
+(which depend on telecommunications), the project would
+benefit and support the development of the economy.
+Project Risks:            The principal risks relate to: (a) the financial strength of the ST
+and its ability to sustain high investment; (b) the implementation
+capacity of the ST; and (c) the limited experience of the new
+Slovak Government institutions. These risks are acceptable
+because it is the Government's policy to promote self-financing
+infrastructure investment, which means that the Government
+must set such tariff levels which will permit the implementation
+of the agreed development project. Furthermore, the
+Government gives the highest priority to investments in
+telecommunication where the customers are willing to pay
+higher rates for services rendered and the tariffs are relatively
+low.
+Moreover, to increase the capacity of ST to manage these risks,
+a number of provisions have been made. Measures to
+strengthen the financial management of the ST will be included
+in the project, such as the creation of a strong financial
+department and training of its staff, tariff studies leading to
+reform and rebalancing, and the design and implementation of
+commercial accounting systems and related MIS. A series of
+financial covenants (tied to internal cash generation and
+operating ratio) will be required to ensure adequate financial
+performance of the borrower. A strong Project Implementation
+Unit (PIU) was created in the ST prior to negotiation. Initially,
+this unit would deal with procurement preparation; later, it
+would be responsible for project execution. The project would
+contain technical assistance for the PIU. Finally, the
+Government's policy and regulatory function is being developed
+with the assistance of qualified consultants.
+
+
+
+- iii -
+Estimated Costs:
+US$ Million
+Component                  Local         Foreign          Total
+Long Distance Network       25.5           50.6            76.1
+Local Network              139.0          119.4           258.4
+Technical Assistance         6.9            6.9            13.8
+Other                       36.7           27.9            64.6
+Contingencies               22.7           26.7            49.4
+TOTAL                      230.8          231.5           462.3
+Financing Plan:
+US$ Million
+Local         Foreign          Total
+IBRD                         --            55.0            55.0
+EIB                                        55.3            55.3
+EBRD                                       55.0            55.0
+Export credits              --             66.2            66.2
+ST                         230.8           --             230.8
+TOTAL                      230.8          231.5           462.3
+Estimated Disbursements (US$ Million):
+ST
+IBRD FY:        FY94    FY95        FY96        FY97        FY98       FY99
+Annual           4       11          14         12           8           6
+Cumulative       4       15          29         41          49          55
+Economic Rate of Return: Over 40%
+Staff Appraisal Report: No. 11628-SLK
+Map: IBRD-24626, March 1993
+
+
+
+
+
+
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+I. INTRODUCTION
+1.01        In general, information systems, and the telecommunication (TC) networks
+which form their core, have become the central nervous system of the world's economies,
+and are becoming more sophisticated, more capable and more important every day. The TC
+infrastructure of the Slovak Republic is severely underdeveloped. For most of the post-war
+period, the TC network was accorded low priority by the Government in the former
+Czechoslovakia, with the result that it is now inadequate to support the degree and quality of
+economic activity generated by a market-oriented economy at the Slovak Republic's level.
+1.02        Demand for TC services is increasing rapidly in the Slovak Republic. This is
+already putting severe strain on the existing TC network. As the process of transformation
+proceeds and economic growth picks up, the emergence of new private firms operating in a
+competitive free-market mode and oriented toward the European and global economy will
+accelerate still further the increase in TC demand. Investment along traditional lines will not
+be sufficient to prevent TC from becoming an ever more severe constraint on economic
+development. A substantial change, both in the magnitude and in the nature of TC
+development, will be necessary. It is in this context that the Govemment of the Slovak
+Republic (GOS) and the Bank have identified the telecommunications sector as a major
+priority for investment and reform, and have designed the proposed program to meet the
+needs of the sector.
+HI. TELECOMMUNICATIONS SECTOR STRUCTURE
+A. Introduction
+2.01        The Slovak telecommunications sector consists of the following five main
+parts:
+(a)   Government authorities: The Ministry of Transport, Communications
+and Public Works (MTCP) exercises the Government's authority over
+the sector, except for final approval of tariffs. The final authority for
+setting TC tariffs rests with the Ministry of Finance (para. 3.16).
+(b)   Telecommunications operating company: The state-owned Slovak
+Telecommunications (ST) enterprise was created by the Slovak
+Government and started operation on January 1, 1993. It is comprised
+of the telecommunications section (Sprava Telekomunikaci) of the
+former Sprava Post a Telekomunikaci (SPT) which, together with the
+former Sprava Radiokomunikaci, operates microwave links, as well as
+
+
+
+the nation's broadcasting facilities. The same decree also effectively
+split telecommunications from posts.
+(c)   Other TC operators: Currently, various Ministries and industries own
+and operate their own private networks that are largely separate from
+the ST, but which do have some points of interconnection. In addition,
+there are a few joint ventures between the ST and foreign investors
+(and several potential joint-ventures). There are also a few specialized
+operators whose existence is based primarily on leased ST lines; the
+most important of these is the banking network. Although none of
+these is a "TC operator" in the sense of offering TC services to others
+on a commercial basis, some of them are beginning to think about
+becoming operators of one sort or another in the future. Cellular
+service is being offered by Eurotel, a new joint venture between ST and
+Atlantic West, with a 20 year franchise.
+(d)   Users of telecommunications services: There are approximately
+563,000 residential subscribers, and 187,000 government and business
+subscribers.
+(e)   The Telecommunications Manufacturing Industry (TCMI):
+Although not strictly part of the TC services sector, the TCMI has a
+close and important relationship with it. The industry was traditionally
+organized as a single conglomerate, known as TESLA. Since the 1989
+revolution, and subsequent creation of the Slovak Republic, large parts
+of this conglomerate have been dismantled and the constituent parts
+now operate independently under names which begin with TESLA,
+followed by the name of the town or suburb where they are located.
+Traditionally, TCMI of the former CSFR supplied 90% of domestic
+needs for virtually all types of TC equipment (switches, cables,
+multiplexors, microwave equipment, telephone sets etc.) and exported a
+substantial amount (primarily to the former USSR). However, the
+revolution of 1989, and the subsequent relaxation of Western controls
+on high-tech exports, has presented the local TCMI with a severe
+dilemma: it must rapidly convert its obsolete analog technology to
+modern digital technology or face extinction. It is the view of the Bank
+that the development of the ST should be insulated from whatever
+industrial policy the GOS may choose to follow for the TCMI by a
+competitive procurement policy (para 2.33). There is now also a major
+joint venture with Alcatel SEL to produce System 12 switching systems
+in the Slovak Republic.
+2.02        The proposed Bank loan will be made to the ST with the guarantee of the
+Government of the Slovak Republic. Accordingly, these authorities are discussed in greater
+detail below.
+
+
+
+3-
+B. Government Authorities
+The Ministry of Transport, Communications and Public Works of the Slovak Republic
+(MTCP)
+2.03        The former Czechoslovakian Federal Ministry of Posts and
+Telecommunications (FMPT) was abolished in October, 1992. It had been the repository of
+the Federal Government statutory, regulatory (except tariffs), administrative and ownership
+authority over the sector and, particularly, over the two SPTs, located in Prague and
+Bratislava, respectively. In 1990, the FMPT ceded a substantial amount of authority to the
+two Republics (including the power to appoint the Director Generals of the SPTs).
+However, the FMPT retained de jure pre-eminence and continued to exercise substantial de-
+facto influence on what might otherwise be considered internal ST issues (e.g., investment
+planning, choice of equipment, joint venture negotiations, etc.). In the second half of 1991,
+the Federal Ministry attempted to recoup some of the authority which had been ceded to the
+Republics and the SPTs.
+2.04        At the end of March 1992, a telecommunications law was passed (as an
+amendment to the existing 1964 Law) which reaffirmed the dominant legal position of the
+then Federal Government (and, specifically, the FMPT) in TC regulation. However, this
+law did not touch on the ownership of the SPTs. The law explicitly gave the FMPT the
+following powers: (a) setting and enforcing technical standards and rules; (b) allocation and
+control of radio frequencies; (c) conduct of international TC relations; (d) licensing of public
+long distance TC operators; (e) licensing private operators whose facilities cross Republic
+boundaries, and licensing mobile TC operators; and (f) licensing broadcasters. The law gave
+the Republics the power to license and regulate local telecommunications operators, but the
+Federal Government retained the authority to define the boundary between local and long-
+distance services. When the separation of the two Republics became a certainty at the end of
+1992, FMPT was eliminated completely, and the new Ministry of Transport,
+Communications and Public Works (MTCP) took control over the sector in the new Slovak
+Republic.
+Regulatory Structure
+2.05        No framework for a separate regulatory function has been set up so far. The
+existing Federal law will remain in force until it is replaced by new Republican legislation.
+In general, it is planned that the MTCP will take responsibility for setting strategy and policy
+for the sector, and a separate telecommunications regulatory agency, with a Director General
+for Telecommunications, will be set up that will be in charge of setting tariff policy,
+assigning radio frequencies, homologization, etc. This agency would be set up based on
+recommendations that have been made by a study done by PA Consultants, together with
+outside legal experts (see Annex 16). Preparation and adoption of the new
+Telecommunications Law will be required for these plans to be implemented.
+2.06        Price regulation. The existing regulatory scheme for pricing is still in its
+infancy. The MTCP is currently preparing a proposal for a new tariff structure, which will
+be submitted to the Ministry of Finance for approval. Until the new law is adopted, existing
+
+
+
+- 4 -
+Federal law will continue to control tariffs, although the existing criteria and methodology
+for setting TC tariffs--both level and structure--are rudimentary. The Bank, EIB and EBRD
+will work closely with ST under the Institutional Development Program (para 4.11) to
+improve its capability in tariffing. The Government's capability is being addressed by the
+PHARE program assistance.
+C. Telecommunications Service Providers
+Slovak Telecommunications
+2.07        Slovak Telecommunications (Slovenske Telekomunikace) or ST delivers TC
+services to final customers. It combines TC and radio broadcasting communications in one
+enterprise. Telecommunications was split from postal services at the end of 1992.
+Telecommunications is being provided under the law for State Enterprises until the entity is
+privatized.
+2.08        Organization. The ST is organized on a territorial basis into three regions,
+plus the capital, Bratislava. The regions are further divided into 36 district organizations. In
+addition to territorial units, there are several special functional units, which cover
+construction, finance, human resources development, marketing, network development, and
+operations and maintenance (see Annex 1).
+2.09        Existing facilities. At the end of 1991, there were 1,305,000 telephones and
+757,000 direct exchange lines (DELs) in operation in the Slovak Republic, giving a density
+of 15.1 DELs per 100 population (see Annex 2 for basic TC statistics). These numbers,
+while slightly better than in other CEE countries, are far worse than in Western European
+countries (including those with relatively similar income levels) and much below what is
+needed--as demonstrated by the registered waiting list of 125,000, which is equivalent to an
+average waiting time of 3.25 years for ST. In fact, the real number of unserved customers is
+much higher, since in situations of such large and chronic excess demand, registered waiting
+lists greatly understate the actual demand, usually by a factor of 50% or more.
+2.10        Telephone penetration is also geographically unbalanced: DEL penetration
+exceeds 30% in Bratislava but is far lower in all other towns (typically between 2 and 6%),
+or in the villages and countryside.
+2.11        Switching and network design. The national network is designed as a unit.
+Network topology is a three level hierarchy. The top level is comprised of seven transit
+switches, which are interconnected in a meshed network (see Annex 3). One of the seven
+exchanges is the main central exchange in Bratislava, which is a combined transit and
+international exchange and now also carries all international traffic for the Slovak Republic.
+2.12        The second level of the hierarchy consists of 67 nodal exchanges. Below this
+is the third level consisting of approximately 1,357 local exchanges. The local telephone
+network is virtually fully automatized; equipment is almost all electro-mechanical analog
+(strouger and crossbar). There are a few early vintage E-10 digital exchanges of Polish
+
+
+
+-5-
+manufacture (Alcatel licensed) but their significance on network design and capability is
+negligible.
+2.13        Long Distance Systems. The long distance network is comprised of some
+42,000 trunk exchange lines interconnected with 2,645 tube km of coaxial cables carrying
+Frequency Division Multiplex (FDM) transmission systems of 300 to 2,700 channels. There
+are some 12,235 km of symmetrical cables carrying 60-120 channel systems. Furthermore,
+there are 2,645 route km of microwave links employing systems of 300 to 1,800 channels.
+In addition, there are 65,491 channels of multiplexing equipment.
+2.14        The long-distance network--especially the cable network--is of relatively recent
+vintage and in fairly good condition. However, the capacity, capability and architecture are
+old-fashioned, inefficient and ill-suited to the needs of modem telecommunication systems.
+Nevertheless, the comparatively good condition of this portion of the network has
+implications for the design of the proposed Digital Overlay Network (DON--para 4.03) which
+has been adjusted to make maximum use of existing trunk cable capacity.
+2.15        International Facilities. International traffic is handled by an Ericsson-
+designed exchange (ARM 201/4) in Bratislava. It was manufactured by Nikola Tesla in
+Yugoslavia on license. The total number of international circuits is 300.
+2.16        Telex/telegraph/data. The telex network is fully automatic with a total
+installed capacity of 5,698 subscriber lines, of which 3,200 are connected. The telegraph
+system is still fairly popular, especially with private citizens in rural areas, because of the
+scarcity of telephones. The number of inland telegrams is currently about 1.6 million per
+year. In the West, the advent of fax, voice mail, electronic mail and similar services, has
+practically eliminated telegraphy and is rapidly eliminating Telex. In CEE, however, the
+scarcity and congestion of the telephone network (which is the medium for the newer
+services) keeps Telex (for business customers) and telegraph (primarily for private
+individuals) afloat and of continuing significance. However, as the telephone system
+improves--and especially as the planned DONs come on stream in the next 2-4 years--one can
+expect these two services to go into decline in CEE as they have in the West.
+2.17        Data services, as these are understood in the West, are almost non-existent.
+There are about 7,300 fax machines and about 1,056 customers using data systems based on
+ST leased lines. A joint venture to build an initial packet switched data network has been
+formed with Atlantic West.
+2.18        Mobile service. In addition to limited traditional mobile radio services (for
+police, etc.) cellular telephone service has recently been initiated based on a license awarded
+to a joint venture, Eurotel, between the ST and Atlantic West (itself a joint venture between
+Bell Atlantic and US West).
+2.19        Eurotel is 51 % owned by ST, while Atlantic West owns the remaining 49%.
+The venture will offer service based on analogue technology operating in the 450 Mhz band
+with equipment from Nokia. It has an exclusive franchise for 20 years to operate in this
+band. Atlantic West hopes that the franchise will be upgraded and extended when the 890
+
+
+
+- 6 -
+and 900 Mhz bands become available, together with GSM digital systems standards (this is
+expected in late 1993). However, there is no guarantee of this; the Slovak authorities may
+decide to open the additional bands for one or more other carriers.
+2.20        So far the Eurotel venture is growing very slowly. The main reasons appear
+to be high tariffs and connection charges and the reluctance of Atlantic West to invest in
+additional infrastructure or to market its services aggressively.
+2.21        Quality of Service. Quality of service has been poor compared with Western
+European ones--including those with middle incomes (see Table 2.1). Quality is
+deteriorating. Congestion, in particular, is steadily reducing the call completion rate,
+especially in the long-distance network. In general, call completion can decline to about 38 -
+40%; after this point, if the number of unsuccessful calls clogging the system rises further, a
+network begins to jam, causing a rapidly accelerating decline in completion rates and a
+perceived collapse of quality. Currently, call completion rates in the Slovak Republic are at
+or below this crucial point, ranging from 35 to 49 percent, depending on whether the call is
+local, long distance, or international. Indeed, some routes are already experiencing
+Table 2.1: COMPARATIVE QUALITY OF SERVICE INDICATORS, 1989
+Slovak    Hungary      Poland     Average
+Rep.                              European
+Community
+Call completion rate, local     35%       38%         37%         65%
+Call completion rate, long     35%        36%         38%         60%
+distance
+completion rates of below 20% (and occasionally as low as 5%) in busy hours. At these low
+rates, the network is almost non-functional. When the network jams, costs actually rise
+(since the equipment is working at higher than designed capacity), while revenues plummet
+(since only successful calls yield revenue). Since TC networks in the Slovak Republic do
+not have the capability common to (much simpler) electric power networks of cutting off low
+priority customers for a period when demand overloads the network, it is critical for TC
+networks to avoid the problem in the first place by building necessary capacity.
+2.22        Organization of maintenance in the Slovak Republic is relatively good, at least
+by CEE standards. Outside plants are somewhat better than average for the region and the
+long-distance trunk cable network is relatively new and in good condition. The principle
+difficulties in the network are due more to antiquated equipment and inadequate capacity in
+the face of rapidly expanding demand than to poor maintenance. However, with the rapid
+introduction of new digital and optical technology, the nature and organization of
+maintenance activities will change substantially. Training and organizational adjustment will
+
+
+
+-7-
+have to be stepped up to keep pace. These will be dealt with in the appropriate parts of the
+Institutional Development Program (para 4.16).
+Other Service Providers
+2.23        The Sprava Radiokomunikaci (SR). Before it was integrated into the ST in
+January, 1993, the SR was an independent enterprise operating separately from the SPT but
+under the same umbrella of government ministerial control. The SR provided the
+infrastructure and service elements for broadcasting, but not the programming. These
+elements included long-distance trunk distribution of broadcast signal, as well as over-the-air
+broadcasting to final audiences. In addition, the SR provided and operated the microwave
+channels used by the ST. This operation is now part of the new ST.
+2.24        Other Ministries and Enterprises. A number of other ministries, besides the
+MTCP, have the authority to build and operate their own TC networks and have done so.
+Under this authority, a number of independent TC networks exist, e.g., those of the military,
+railroads, rivers commission, airlines administration, pipelines and electricity system. The
+technology of these networks is roughly the same as that of the main telephone network,but
+with simpler architectures and less capacity and capability. Most of them have at least a few
+points of interconnection with the Public Switched Telephone Network (PSTN), but this
+interconnection is accomplished under standards that give them the status of being large
+customers with PBXs rather than being directly integrated into the PSTN's own systems.
+2.25        Recent legislation continues to allow these organizations to build and operate
+networks for their own use and without licenses. However, should they wish to connect their
+networks to the "United Telecommunications Network" (i.e., the PSTN) or to offer services
+to the public, then they would require a license (para. 3.06).
+2.26        Joint Ventures (JVs). Two JVs with the ST are now in place and operating.
+The first is with Bell Atlantic and US West for cellular mobile telephone service and packet
+switched data service. The second is with the Dutch PTT's consulting firm (NePosTel) for
+the development of software. A number of other JVs are currently under negotiation and
+nearing completion, including one with a French company for a nationwide paging system.
+Each of these is structured so that the ST would retain majority control and the JV would be
+operated in conformance with the current State Enterprise Law.
+2.27        Independent operators. When compared with Hungary and Poland, the
+Slovak Republic so far has seen relatively little overt activity by potential independent
+operators. An exception is the network being constructed by the banks in both the Czech
+Republic and the Slovak Republic. Initially, this would utilize an optical fiber loop to link
+banking locations in Prague, and connect them to the planned digital switch. Simultaneously,
+the banks are developing a nationwide network, primarily using lines and facilities leased
+from Czech Telecommunications (in the Czech Republic) and ST (in the Slovak Republic)
+and supplemented with new independent construction, where necessary. The banking
+network is being set up in full cooperation with CT and ST, but future networks may be
+more independent, especially if/when it becomes apparent that such networks (including the
+Banking network) typically have spare capacity (with zero or near-zero marginal costs) which
+
+
+
+- 8 -
+can be made available to third parties at rates which are very favorable compared to ST's
+facilities. The existing Federal law (in force until replaced by new Republican legislation)
+would permit the entry of new operators independent of the ST, but would require them to
+obtain licenses from the MTCP (para. 3.06).
+2.28        There has been some activity among potential "interconnect" companies but,
+so far, not very much. These sorts of companies begin by offering simple "add-ons" to the
+existing TC network (by providing terminal equipment, PABXs, LANs, etc.). Typically,
+however, they tend to expand the scope of their activities into Metropolitan Area Networks
+and Wide Area Networks (MANs/WANs) with sophisticated capabilities. As such, they are
+one of the main avenues by which competition enters the TC market. These sorts of
+companies are becoming active in neighboring countries and one can expect the same in the
+Slovak Republic if they are permitted. The new law explicitly permits networks which are
+confined to a single premise (LANs) to operate without a license, which will presumably
+encourage these arrangements. Wider networks will be classified as part of the public
+network, and hence require a license. On the other hand, if they come under the category
+of whatever the Ministry ultimately defines as "local" telecommunications, it would be up to
+the Government to decide whether they need licenses or not.
+D. Telecommunications Users
+2.29        There is substantial and growing pressure on the government for rapid
+improvement in TC services. This comes both from the general population, 85% of which
+does not have a telephone at all, and from businesses and large organizations which generally
+have basic telephone service, but far less (both in quantity and quality) than they need to
+transform themselves and compete in modern markets. This pressure expresses itself, among
+other things, in speeches by government officials and members of Parliament calling for
+radical liberalization and privatization. It is probably also finding an outlet through large
+enterprises exploring the possibility of building their own TC networks (of which the
+previously mentioned banking network is an example).
+E. The Telecommunications Manufacturing Industry (TCMI)
+2.30        Like most other CEE countries, the former Czechoslovakia had a large, full-
+range TCMI which in the past made the country practically self-sufficient in TC equipment.
+Prior to the velvet revolution in late 1989, the former Czechoslovak TCMI supplied 90% of
+the equipment required by the domestic TC sector, as well as exporting a significant amount,
+primarily to the former USSR. At that time, virtually all TC manufacturing was in the hands
+of a single conglomerate, TESLA. Today, the TCMI is composed of a number of factories,
+all of which were part of TESLA. All still retain the first name, TESLA, followed by the
+name of the town or suburb in which they are located. Most of these are actively seeking,
+and some have found, foreign joint venture partners in order to obtain modem technology
+and capital. Nevertheless, there is a question as to whether all of them can remain in
+business and remain competitive. A summary of the industry, its products, and technologies
+is contained in Annex 4.
+
+
+
+-9-
+2.31        A joint venture has been concluded with Alcatel-SEL to produce System 12
+switching systems in the Slovak Republic. SEL was chosen after a competitive process
+which was similar to ICB and yielded good prices for what are competitive modern systems.
+The JV has been guaranteed 30% of the ST's demand through 1995. Another 30% of the
+demand was guaranteed to Tesla Karin, a Siemens J.V. in Prague. (The remaining 40% is,
+in principle, open for competitive bidding.) The supply contracts for 1992 have been signed
+and will be financed by export credits from KFW, the German Government's reconstruction
+credit agency. A similar contract for 1993 is currently being negotiated. The cable,
+transmission and terminal equipment producers are also looking for foreign joint venture
+partners, but so far, nothing definite has been determined.
+2.32        There is no question that the switching systems chosen for the J.V. are of
+internationally competitive quality and that the prices obtained were also good by
+international competitive standards. However, the profile of delivery volumes is, in the
+Bank's view, suboptimal, with too much being delivered too soon. This leads to
+"warehousing" of expensive equipment until the entire supporting network can be put in
+place to allow the equipment to be fully utilized. Be that as it may, these decisions have
+already been taken. Where possible, the Bank has worked to stretch out the deliveries and
+reduce the warehousing effect, but it has not been possible to eliminate it altogether. To
+minimize the damage of the remaining "excess" early deliveries, some aspects of the Bank's
+own project have been rearranged to permit earlier utilization of some of the Siemens and
+SEL deliveries. The end result, while still somewhat less than optimal, is the best that can
+be managed, given the circumstances and existence of prior decisions.
+2.33        The existing contract with SEL (or any other manufacturer) ensures good
+prices and terms through 1995, and for the duration of the Bank-supported investment
+program, as well. Whether SEL will ultimately be able to produce world class equipment in
+the Slovak Republic with a significant amount of domestic value-added at competitive prices,
+however, remains to be seen. For this reason, it is important that the economics of
+investment in TC networks be insulated from the fate of the domestic TCMI. This should be
+done by reliance on competitive procurement practices which will ensure that, regardless of
+whether domestic firms are chosen or not, ST will have access to quality equipment at
+competitive prices. Procurement practices for the proposed project will enable this policy to
+be implemented effectively (para. 4.20 et seq.).
+m. TELECOMMUNICATIONS SECTOR POLICY
+3.01        Until 1990, the former CSFR's operational and governmental TC functions
+were combined in one body which was itself part of the Ministry of Transport and
+Communications. As was usual in CEE, the law under which the sector operated gave sole
+authority to build and operate public TC networks to the Ministry.
+3.02        In early 1990, initial steps were taken to reform the sector, ostensibly in line
+with evolving European practice as expressed in the EC "Green Paper" of 1987.
+Accordingly, policy/regulatory authority was distinguished from operational responsibility,
+with the former vested in a new Federal Ministry of Posts and Telecommunications (FMPT)
+
+
+
+- 10 -
+and the latter in the two Post and Telecommunications enterprises for the Czech Republic
+and the Slovak Republics, 'Sprava Post a Telekomunikaci (SPT-Prague and SPT-Bratislava).
+At the same time, a Federal Government Resolution was passed setting out the "Principles of
+the State's PTT Policy." These actions were taken administratively under powers given to
+the FMPT under the then existing law (Act No. 110 of 1964).
+3.03        At the same time work was begun on: (a) drafting a new TC law; (b)
+reorganizing the SPTs; (c) further defining the government's regulatory/policy
+responsibilities vis a vis the SPTs' operational responsibilities; and (d) allocating
+governmental authority over the sector between the Federal and Republic levels. As of the
+end of 1992, after nearly two years of effort, the following progress has been made on these
+four tasks:
+3.04        Recent TC Legislation: On the basis of the above-mentioned principles, a
+new law was prepared by the FMPT, approved by the Cabinet and submitted to the
+Parliament. It was passed in March, 1992. This Federal law took the form of an
+amendment to the then existing TC law of 1964. In line with the emerging pattem in CEE
+(e.g., Poland's new law and the new law in Hungary) the law is permissive in form, giving
+broad powers and discretion to the Govemment (to be exercised through the Ministry). It
+takes the essential steps of: (a) ending the mandatory monopoly of the State (and its agent,
+the ST) and permitting the licensing of other operators; and (b) distinguishes regulatory
+authority from operations of the TC network(s).
+3.05        The new Government of the Slovak Republic will adopt a general
+telecommunications law which will maintain the existing legal environment in the new
+Republic, until new legislation can be implemented. This means that the existing Federal
+law for telecommunications will continue in force until a new Republican law is enacted.
+Simultaneously, a new regulatory agency is being organized along the lines recommended by
+the PA consultants (para. 3.15). This proposed model calls for the creation of a semi-
+autonomous government agency presided over by an appointed Director General for
+Telecommunications (see Annex 16).
+3.06        The existing law defines the 'United Telecommunications Network" (UTN) as
+being, in effect, the PSTN. Any person (human or juridical) who operates any part of the
+UTN must have a valid license to do so from the MTCP. This includes the ST. "Private"
+networks of the railroads, electric power system, interior ministry, military, etc., do not have
+licenses now and can continue to operate without licenses so long as they are not part of the
+UTN, i.e., if they provide service only for their own use. Networks within a single premise
+are similarly not required to obtain licenses.
+3.07        In general, the law provides only the bare skeleton of sectoral authority. The
+meat, sinews, blood and skin of TC sector policy, structure and regulation still remain to be
+established in the detailed decisions of the MTCP and the Government after the law takes
+effect. The law itself provides relatively little policy guidance, nor many criteria for
+decision making, etc., but it is compatible with a wide variety of different policies. For
+instance, the law specifies who must obtain a license, but it gives no guidance as to what
+these licenses should contain. In fact, the content of licenses for all operators (ST and non-
+
+
+
+- 11 -
+ST alike) is one of the most important tools for setting and implementing policy. To date,
+the Government's sectoral policy has been expressed only in the most general terms.
+3.08        A major program of studies (para. 3.15) has been arranged and is being
+financed by the EC and the US Government (through the PHARE and the USTDP,
+respectively). The immediate "client" for these is the GOS (after Jan. 1, 1993) and
+specifically, the MTCP. These studies have been coordinated and overseen by a steering
+committee consisting of the senior officials of all major concerned institutions, including the
+ST, the MTCP, and the Ministry of Finance. While the Bank does not have a rigid view as
+to what constitutes the "correct" policy and regulatory framework, it strongly believes that a
+clear, rational, orderly system which addresses the main issues is required. It is in close
+contact with the steering committee and with the PHARE and USTDP and is confident that
+this process will lead to policy and regulatory recommendations which are in the mainstream
+of European practice and which the Bank will find satisfactory.
+3.09        Internal reorganization of the ST. Separation of TC operations from Posts
+within the ST occurred on January 1, 1993. Joint telecommunications and postal services in
+small villages are regulated by contracts between the ST and the Post. In the meantime, the
+ST is aggressively moving middle level management staff into international seminars and
+training courses to develop internal business and corporate strategy capabilities. The
+Institutional Development Program associated with the Project will assist the ST in upgrading
+all aspects of its evolution into a commercially oriented public utility.
+3.10        There is a serious lack of financial expertise in the ST. There are, of course,
+"finance" or "economic" departments. But these are primarily bookkeeping or accounting
+departments, oriented to the old system in which their function was monitoring and control
+vis-a-vis the central planning commission. In a modern TC business, accounting and finance
+have a much more complex and critical role, in analyzing performance, setting strategy,
+choosing investments, etc. The Bank has worked intensively with the finance personnel in
+the ST during project preparation (including an intensive, eight-day course for all CEE which
+ST staff attended). The Bank, in cooperation with the EIB, will take the lead on further
+developing financial capability and introducing modern accounting systems (as their part of
+the Institutional Development Program jointly agreed with the ST, the EIB and the EBRD,
+para 4.12).
+3.11        Role of SR vis-a-vis the ST. In most countries an organizational division is
+made between "broadcasting" (non-addressed, one-way transmission of signals to a general
+area) and "telecommunications" (addressed, point-to-point transport of signals, including
+TV, radio, telephone, data, etc.). The former are normally controlled by broadcasters, and
+the latter by the national telecommunications company. The former activity (by its nature)
+always uses the airwaves, but the latter should be free to use whatever techniques (coaxial
+cable, optical fibre, terrestrial MW, satellite, etc.) are economically and technically
+appropriate. Under this arrangement, broadcasters come to the TC company to transport
+their signals around the country like any other customer for this service. In the Slovak
+Republic, however, before January 1, 1993, the ST constructed and operated the closed
+media portions of the TC network (e.g., symmetrical and co-axial cable, optical fiber) but
+went to the SR whenever it wanted to use MW for a given link. In the past, this was never
+
+
+
+- 12 -
+a problem as the SR and ST were closely related and operated under the same tight
+Ministerial control.
+3.12        Currently, SR and ST (the telecommunications section of the former SPT)
+have been integrated into one organization. This arrangement should not pose problems,
+however, since the broadcasting service will be provided on a commercial basis, and users
+will be billed just as they would be for the use of leased lines or other communications trunk
+services.
+3.13        Separation of Operations from Government Responsibility. There is a
+general consensus throughout the sector that the Ministry should withdraw from the business
+and operational activities of the ST and confine itself to "policy and regulatory matters". In
+the past, the former FMPT attempted to follow this guideline, stepping back from routine
+management and leaving the two SPTs to function with substantial independence in their day-
+to-day operations.
+3.14        As the operational activities of the Ministry decline, regulatory activities
+should increase. This appears to be happening, but intermittently and without clear
+direction. The slow progress is primarily the result of a lack of an agreed, well defined
+policy on such basic issues as sector structure, ownership, division of powers, etc.
+However, it is also the case that responsibilities, resources, staff and authority have not yet
+been well defined and allocated within the Ministry. The MTCP will need to develop more
+expertise on the two central issues which will dominate its regulatory function in coming
+years: (a) regulating a dominant, increasingly independent and commercially oriented TC
+monopoly; and (b) encouraging competitive forces while channeling them in directions which
+are constructive and valuable. In the near term, these are unlikely to affect the viability of
+the proposed project. In the longer term, however, the health and growth of the sector will
+depend on the nature and quality of regulation as much as on the telecom management itself.
+3.15        The MTCP is aware of the urgency of the regulatory tasks facing it, and has
+chosen to utilize both USTDP and PHARE grant funds to meet the problem. PHARE has
+allocated approximately 1.2 million ECUs for a broad range of technical assistance activities,
+primarily to the MTCP. The definition and organization of this program has been going on
+for a year. The first major element of this program is to be a study of regulatory policy,
+rules, systems, etc. A well-respected TC consultant firm was chosen as the main contractor
+and spelled out a detailed work program. In parallel, the USTDP financed a major law firm
+to draw up proposals for detailed regulatory mechanisms. The PHARE financed work done
+by the PA Consulting Group was completed in late 1992; an abstract of its findings is given
+in Annex 16. Furthermore, PHARE agreed to extend the PA contract to help implement the
+recommendations and to assist ST in the organizational changes that will be required
+following separation of the two new republics.
+3.16        Tariff policy. The MTCP has responsibility for maldng detailed tariff
+proposals but final authority for setting TC tariffs (as with all other public utility prices) rests
+with the Ministry of Finance. The Finance Ministry has a mandate to implement macro-
+economic policies, and it has little micro-economic sectoral expertise. This situation tends to
+
+
+
+- 13 -
+work against the shaping of effective TC tariffs, since the Government has to take into
+account a number of factors: (a) macroeconomic stability; (b) revenue for the Government;
+(c) protecting customers from monopolistic overcharging; (d) assuring enough revenues to the
+company to finance its investment (including service extension to rural, high-cost areas); (e)
+microeconomic incentives to the company to improve efficiency; and (f) incentives to
+customers to realign their TC usage with the structure of costs, etc. Some of these interests
+conflict, often in complex ways. Some push in the direction of higher tariffs, some in the
+direction of lower tariffs; some militate for one rate structure, and some for another.
+3.17         In the long run, micro-economic price regulation and other regulatory
+authority should be put into the hands of the relevant expert sectoral body, which should be
+mandated to give predominant weight to micro-economic considerations in direct, sector-
+specific tariff decisions. As of now, however, the GOS considers that control over inflation
+is such an important and overriding concern that all price authority must remain in a single
+location--the MOF. This being the case, the project will emphasize development of a
+workable division of responsibility between MTCP and MOF and development of a workable
+pricing policy to be adhered to by the MOF as well as by the MTCP (paras. 5.25 - 5.29).
+3.18         Regardless of the tariff and regulatory scheme chosen, the ST should be
+mandated and permitted to act as an autonomous economic/financial enterprise subject to the
+same rules as other economic enterprises. Within general tariff guidelines, it should be free
+to set tariffs in response to market signals and business considerations.  It should pay taxes
+at the same rate as other companies. ' It should make its own investment decisions and be
+required to raise its own financing. If the Government chooses to leave dividends with the
+company to help finance investment, this should be reflected in the value of the
+Government's holding and dividends paid at a later date. Such a system would not only put
+the ST on a basis to become an efficient economic entity, but would also set the scene for the
+introduction of competition and for private investment in the ST at such time as the
+Government decides to move ahead with this agenda. The financial covenants and action
+plan associated with the project will be designed to move the ST in this direction.
+IV. THE DEVELOPMENT PROGRAM
+A. Development Plans
+4.01         Development Objectives. The Government of the former CSFR was aware of
+the critical importance of TC for overall economic transformation and development. To
+articulate its vision, it adopted a resolution setting forth the principles of communication
+policy. This, however, was a ten-year program based on very wide-ranging, long-term
+trends. Although this long-term prospectus provides a useful framework for planning, it
+Eventually, the Government should receive a dividend on its equity in the ST in addition to taxes.
+During the coming period when high rates of investment are needed, however, this dividend should be
+foregone, just as a private investor would forego dividends during a period of rapid capital build-up.
+
+
+
+- 14 -
+must be supplemented by a concrete strategy for achieving the stated goals that also takes
+into account the new situation created by the separation of the Czech Republic from the
+Slovak Republic. The details of such near/middle term strategies have been the subject of a
+complex dialogue involving the former SPTs, the former Federal Government, the current
+Republican Governments, multilateral banks, expert consultants, and several foreign TCOs.
+This has produced the four-year development program which forms the basis for the
+proposed project.
+4.02        Background. During the summer of 1990, Bank staff worked with CSFR
+authorities to frame the initial, development strategy for the sector, which consisted of the
+following steps: (a) offering immediately a tender for a joint venture for cellular phone
+service and for a basic packet-switched data network; (b) using the franchise fees obtained
+from the cellular tender to finance major studies on network development strategy and to do
+initial investment in the most urgent areas (e.g., on the Prague/Bratislava corridor); (c)
+beginning preparation of the basic changes in law, regulation and policy which are necessary;
+(d) putting the ST's procurement procedures on a more competitive basis; (e) beginning to
+seek strategic partners for core network development; and (f) drawing up an agenda of the
+most urgent technical assistance items for the above activities. Since that time, Bank staff
+have been working on a Sector Survey in parallel with project preparation.
+4.03        Strategy. The core of the near-term strategy is to begin the digitalization of
+the network by constructing a Digital Overlay Network (DON) designed to: (a) rapidly
+improve the long distance and international networks; (b) quickly provide modern service to
+large-scale (especially business) customers--without which they cannot hope to compete in the
+world market; (c) create a modern digital "backbone" network which will form the basis for
+future national network development; and (d) generate substantial profits to finance expansion
+and modernization of the main national network.
+4.04         Agreement on this strategy was reached with the FMPT and the SPTs in the
+spring of 1991. Following this, two major studies were commissioned to provide detailed
+alternative designs for the digitalization plan and the DON. These studies (costing about
+$2.0 million) were undertaken by Bell Atlantic/US West of the USA and DETECON of
+Germany. Bank staff worked closely with CSFR authorities throughout this process,
+designing, monitoring and evaluating the studies. They were completed in late summer
+1991. Although different in some respects, both confirmed the SPT's development strategies
+and provided valuable data and strategic insights, and the decision was made to attempt to
+combine the best of both studies. British Telecom (BT) was commissioned to assist in
+evaluating and combining the best elements of both into a single plan. By the end of 1991,
+the BT exercise was complete. This, plus the two previous studies, provided the basis for
+ST's development proposal over the next four years. On the basis of this proposal, and the
+extensive dialogue that lay behind it, a joint IBRD/EIB/EBRD appraisal mission visited
+CSFR in February 1992. The findings of that mission resulted in the agreed program which
+is reflected in this SAR. The one-year delay in the finalization of negotiations was caused by
+the political transitions related to the separation of the Czech Republic from the Slovak
+Republic.
+
+
+
+- 15 -
+B. Project Description and Implementation
+4.05        Design. The project consists of a Three-Year Development Program. It has
+been conceived and designed as a national telecommunications development program with
+consistent technical standards, dimensioning and optimization, and where the interworking,
+interfacing, traffic routing, tariffing and operational characteristics are harmonized.
+4.06        Program Description. The Development Program consists of three main
+parts:
+(a)   A physical investment program;
+(b)   Institutional and policy improvements to accelerate its transformation into a
+modem, commercially oriented public utility; and
+(c)   Technical assistance and training to support the above activities.
+4.07        In addition, the program envisages support to the GOS from other sources
+(especially PHARE and USTDP) for the creation and strengthening of regulatory and policy
+capability (para. 3.15). This support will be closely monitored by the Bank.
+4.08        The Physical Investment Program. The purpose of the program is to begin
+the process of modernizing, digitalizing, and expanding the TC network. The first major
+step of this process would constitute the core of the program and would include construction
+of an international and inter-urban Digital Overlay Network (DON), plus complementary
+local digital network development. The DON and related development has been designed to:
+(a) relieve the most vital and congested portions of the national TC system; (b) rapidly
+provide modem TC services to the business community; and (c) build a sound backbone
+network to serve as the foundation for the future modernization, digitalization and expansion
+of the entire TC network in the Slovak Republic.
+4.09        A detailed description of the Development Program for physical investment
+follows:
+(a)   The three-year investment program (1993 to 1995) would result in the
+installation of an overlay digital long-distance network consisting of:
+(i)   Four transit exchanges with a total sum of 20,000 trunks; and
+(ii)   A long distance transmission network with 2,600 km of fiber optic
+cables, also including multiplexing equipment, coaxial cables, and
+microwave equipment.
+(b)   Local network development would consist of:
+(i)   Provision and installation of 33,000 lines of switching capacity (analog
+type), mainly for expansion of existing analog exchanges;
+
+
+
+- 16 -
+(ii)   Provision and installation of 410,000 lines switching capacity of digital
+Stored Program Control (SPC) type, of which 160,000 would be used
+for replacement of old worn out and obsolete equipment. During the
+project period some 224,000 new subscribers would be connected. Of
+the new digital subscribers some 40,000 would be high traffic volume
+business customers. Another 30,000 analog business subscribers would
+migrate to the new digital network; and
+(iii) Expansion of the associated local network and subscriber plant would
+require about 220 km of fiber optic cables (with an average of 16 fibers
+per cable) and 690,000 km pairs of copper cables and subscriber
+equipment.
+(c)   The program also includes provision of network management centers,
+measuring and testing instruments, training equipment, software tools and
+miscellaneous equipment.
+4.10        Physical investment data for the Slovak Republic is given in Annex 5.
+4.11        Institutional Development Program (IDP) and Technical Assistance (TA)
+Program Objectives and Scope: The main objective of the Institutional Development
+Program (IDP) would be to assist ST in its restructuring process. This would involve: (a)
+the transition from analog to digital systems and the introduction of modem technology; (b)
+the separation between posts and telecommunications; (c) the transition from a centrally
+planned system to a commercial enterprise in a market economy; (d) the introduction of
+competition and the reduction of the basic telephone monopoly; and (e) the eventual
+privatization and transformation of ST into a joint stock company. To summarize, the IDP
+and related TA would support the transformation of ST from a government agency into an
+independent and autonomous company run in a commercial fashion. The IDP would include
+direct technical assistance for the execution of the Program and the Development Plan as
+well as the overall institutional development of ST.
+4.12        The IDP would be executed through technical assistance (TA) and training for
+ST experts that would focus on the design, development and implementation aspects of
+management systems, human resources development, the transfer of technology and
+commercialization, all of which would include the transfer of know-how and hands-on skills
+through in-house training. This training would consist of both on-the-job training and
+classroom lecturing, and could include study visits abroad. The IDP would comprise six
+main components:
+-     Corporate Strategy, Service Planning and Organizational Development
+-     Human Resource Management and Development
+-     Accounting and Finance
+-     Auditing
+-     Technical Expertise
+-     Project Implementation
+
+
+
+- 17 -
+The Bank, EIB, and EBRD would all participate in the organizing and monitoring of all of
+these components, but the primary responsibilities would be divided up among them. In this
+arrangement, the Bank, together with the EIB, would have the main responsibility for
+organizing, supporting and monitoring the activities associated with the Accounting and
+Finance components.
+4.13        Program Implementation Unit. The IDP would support ST's Program
+Implementation Unit (PIU) with 70 person-months of TA. The responsibilities of the PIU
+would be the coordination and supervision of the execution of the entire program. The main
+responsibilities would include: (a) coordination of program and project preparation and
+implementation (planning, procurement activities, installation and acceptance testing,
+synchronization of different activities, interfacing with foreign suppliers, etc.); (b)
+coordination of different technical assistance and training activities, and (c) liaisoning with
+and reporting to the three banks. The total support of foreign experts for the IDP would be
+about 322 person-months (including the person-months for the PIU).
+4.14        Detailed Terms of Reference for each IDP component are given in Annex 6,
+together with the estimated cost of foreign consultants and implementation schedules. The
+details of IDP and related TA were confirmed during negotiations.
+4.15        Technical Assistance and Training: Besides the IDP and related TA, ST will
+be the beneficiary and recipient and will manage and coordinate an array of other TA and
+Training assistance. A preliminary list of these includes:
+-     US Trade Development Program Assistance;
+-     UNDP Project executed by ITU;
+-     PHARE Program Assistance;
+-     Bilateral TA from European TC Administrations, EC assistance, etc.
+4.16        Additionally, ST has mapped out its own training and technical assistance
+requirements, including the upgrading and modernizing of its training facilities. This would
+entail resources for training at a cost of 15,200 person-days (US$16.8 million). The cost has
+been allocated equally between local and foreign currency. Details of training and TA
+requirements are found in Annex 7.
+4.17        Total program cost is estimated at Kcs 13.16 Billion (US$462.3 million) with
+a foreign exchange component of Kcs 6.588 Billion (US$231.5 million). These cost are
+based on estimated late 1992 prices for equipment, materials services and civil works. Cost
+details are given in Annex 8 and summarized in Table 4.1
+
+
+
+- 18 -
+Table 4.1: Slovak Telecommunications Program - Total Program Cost
+(US$ Million)
+ITEM                            Local          Foreign        Total
+Buildings                                           24.0                        24.0
+L/D Network
+Switching                                            2.1           8.6          10.7
+Transmission                                        23.4          42.0          65.4
+Local Networks
+Switching                                           39.3          92.7         132.0
+Network'                                           99.7          26.7         126.4
+TA and Training                                       6.9            6.9          13.8
+Other2                                                12.7          27.9          40.6
+Base Cost                                            208.1         204.8         412.9
+Contingency                                         22.7          26.7          49.4
+Total                                                230.8         231.5         462.3
+'Local line network' includes local optical cables and subscriber multiplexing.
+2 Other' includes operational support systems, instruments, tools, and miscellaneous.
+4.18         Contingencies. Physical contingencies are based on 4% for local and foreign
+equipment, 5% for civil works and 8% for local and foreign services. Price contingencies
+are based on foreign cost increases of 3.8% in 1993, 1.9% in 1994 and 2.7%  in 1995.
+Local cost increases are based on 7.5% annually.
+4.19         Least Cost Solution. The dimensioning and financing of various elements in
+the system are based on generally accepted engineering practices for selection of techniques
+and equipment, after study (supported by foreign consultants) of feasible alternatives.
+Project planning of the digital overlay network has as its objective the least-cost solution that
+would be consistent with technical and operational strategies that are satisfactory. The
+program includes allowance for an amount of local network investment which is larger than
+optimal but which derives from previous contractual agreements with suppliers and bi-lateral
+financing authorities. The remainder of the program has been designed to be optimal, taking
+into account these previous commitments. The agreed physical investment plan for the
+development program represents the least-cost solution for providing the service level
+improvements planned, given the constraints imposed by the existing configuration and
+technology of the telecommunications network. The agreed pace of replacement of obsolete
+and worn out equipment and materials is necessary in order to achieve the service quality
+improvement required during the program period.
+
+
+
+- 19 -
+4.19        Financing: The proposed sources of financing for the development program
+are shown in the table below. The estimated program cost and the financing arrangements
+were agreed during negotiations. Total program cost estimates are given in Annex 8.
+Table 4.2: PROJECT FINANCING (US$ Million)
+Source                   Loca                Foreign              Total
+IBRD                             --                  55.0                55.0
+EIB                                                  55.3                55.3
+EBRD                                                 55.0                55.0
+Supplier Credits                 --                  66.2                66.2
+ST                              230.8                --                 230.8
+TOTAL                           230.8               231.5               462.3
+4.20        Procurement: Procurement arrangements are summarized in Table 4.3. The
+Bank loan would finance US$55.0 million for equipment, materials and associated services,
+of which US$45.0 million would be procured through International Competitive Bidding
+(ICB) in accordance with the Bank's procurement guidelines. Most of the equipment,
+supplies and materials have been grouped into eight main bidding packages. This has been
+done to attract bidders, to enhance competition, and to benefit from economies of scale in bid
+price.
+4.21        There are several exceptions to the ICB requirement. International shopping
+based on price quotations obtained from at least three suppliers, and from at least two
+eligible source countries, would be used for those equipment packages with an estimated
+value below US$300,000, and in the aggregate of US$5.5 million. Procurement of goods
+which are of proprietary nature, which require standardization with existing equipment, or
+for which early delivery is crucial for expedited program execution, would be carried out
+through direct contracting (amount not to exceed US$1.0 million). Contracts for consultant
+services and training to be financed by the Bank, totalling US$3.5 million, would be
+awarded, subject to the Bank's prior review, according to Bank guidelines for use of
+consultants. Such review would include the letters of invitation, TOR's, proposed short lists,
+draft contract etc., in accordance with said guidelines. During negotiations, the procurement
+arrangements were confirmed.
+4.22        Participation by Slovak Republic suppliers in the bidding is expected to be
+limited since equipment and supplies to be procured under the loan are generally not yet
+manufactured in Slovakia. In the evaluation and comparison of bids for equipment to be
+procured through ICB, domestic manufacturers, offering domestically manufactured goods
+having at least 20% value added, would be granted a margin of preference of 15% or the
+relevant duty, whichever is lower.
+
+
+
+- 20 -
+Table 4.3: Slovak Republic Telecommunications
+Procurement Arrangements (US$ Million)'
+ICB                           OTHER PROCUREMENT                  TOTAL
+IBRD3   EIB   EBRD             IBRD   EIB    EBRD         ST       ST    (million
+(export  local    USS)
+credits)
+ITEM
+Buildings               -      -        -             -      -         -         -       27.6      27.6
+Transit Switches        -      -        -             -       3.4      -          6.5     2.4      12.3
+Local Switches          -     -         -             -      49.0      -        35.9    58.9      143.8
+Optical Fiber Cables    9.3   -        17.5           -      -         -         11.5    26.3      64.6
+(9.3)
+Microwave, Coax         2.5   -         -             -      -         -         10.5     3.2      16.2
+Cables                                                                                             (2.5)
+Copper Cables          18.6   -        32.4           -      -         -          0.9    90.9     142.8
+(18.6)
+Network Operation       9.4   -         -             -      -         -          0.9     1.2      11.5
+Facilities (OSS)                                                                                   (9.4)
+TA and Training         -     -         -              352   1.2       3.1       -        7.8      15.6
+(3.5)
+Miscellaneous           5.2   -         -              6.53   1.7      2.0       -       12.5      27.9
+(11.7)
+TOTAL                  45.0   -        49.9           10.0  55.3       5.1       66.2  230.8    462.3
+(55.0)
+*Figures in parenthesis indicate amounts to be financed by the World Sank uider the proposed loan.
+Includes Contingencies.
+For USS3.5 million in TA, World Bank guideLines of using consultants will apply.
+USS6.5 million in MisceLlaneous includes international shopping (USS5.5 million), negotiated
+contracts, direct purchase (USS1.0 million).
+Miscellaneous includes Instruments, measuring equipment, and office equipment (PCs, faxes, etc.).
+4.23            All Bank-financed bid packages for goods estimated to cost US$1.0 million
+equivalent and above would be subject to the Bank's prior review of procurement
+documentation. It is estimated that this prior review would cover about 80% of the total
+estimated value of contracts. The balance of Bank-financed contracts would be subject to the
+Bank's review of the contract award. Relaxation of COCOM regulations, effective August
+1, 1991, would practically eliminate restrictions on most of the equipment to be purchased
+with the Bank loan. Nevertheless, the Bank would continue to review bidding documents
+prior to issuance for any possible residual problems.
+
+
+
+- 21 -
+4.24        Procurement of equipment financed by EIB and EBRD would be carried out in
+accordance with their respective regulations. Locally produced goods would be contracted
+according to usual ST and telecommunications industry practice through local competitive
+bidding, direct purchase and negotiated prices as appropriate, subject to GOS regulations.
+4.25        To assist the ST, and ensure timely implementation, some contracts combining
+supply of goods and installation are envisaged (e.g., long-distance fiber optic routes and
+some key local networks). Such contracts, procured under ICB procedures, would be paid
+for through the Bank loans.
+4.26        Disbursement. Disbursement from the proceeds of the proposed loan would
+be made for:
+(a)   100% of: (i) foreign expenditures of directly imported goods;
+(ii) installation services; (iii) local ex-factory cost of goods
+manufactured in the Slovak Republic; and (iv) 85% of local
+expenditures for other items procured locally;
+(b)   100% of total expenditures for consultants' services.
+Disbursement requests would be required to be fully documented, except for those
+expenditures for contracts valued below US$150,000, which could be submitted on the basis
+of certified statements of expenditures (SOEs). In this case, supporting documentation would
+be retained by ST for at least one year (after receipt by the Bank of the audit report for the
+period during which the last disbursement was made) and would be made available to
+auditors and Bank supervision missions upon request. In order to facilitate project
+implementation, a special account in the amount of US$ 2.5 million equivalent, representing
+about four months of average expenditures, would be established and maintained by the
+borrower. The estimated disbursement schedule for the project is shown in Annex 9. The
+loan closing date would be June 30, 1998.
+4.27        Project Implementation. ST would be responsible for overall project
+implementation, since it has sufficient experience in the execution of similar works, albeit in
+analog technology. ST's investment organization would be charged with the responsibility of
+executing their part of the investment, through interacting with the foreign suppliers under
+overall coordination of the MTCP. ST's organization would also be responsible for the
+operation and maintenance of the systems once implementation had been completed. ST has
+created a Program Implementation Unit (PIU) that reports to the Director General, which
+would be responsible for overall coordination and execution of the project. It would also
+carry out coordination, support, and direct supervision of works at the locations where the
+digital transit exchanges, local exchanges, and transmission systems would be installed. The
+supplier would be responsible for the installation and commissioning of the exchanges and
+training of local staff. The PIU would contain sufficient experienced personnel to execute its
+mandate, and would be supported by five man-years of foreign expertise as part of the IDP's
+technical assistance program, in order to ensure smooth program implementation. Suppliers
+would be asked to contract for maintenance supervision for one year in order to assist ST in
+
+
+
+- 22 -
+handling the complex new systems and the new technology. During negotiations, the
+creation of the PIU was confirmed. The proposed implementation schedule is given in
+Annex 10.
+4.28        ST has already appointed a procurement coordinator, who would be
+incorporated into the PIU, and who would coordinate the work of preparation of bid
+documents, bid evaluation and contract signature. The three Banks are supporting the group
+with foreign expertise for the early preparation of technical specifications for digital
+switching (EIB), optical transmission equipment (EBRD), and microwave equipment (World
+Bank).
+4.29        ST has decided to rely more than it has in the past on outside contractors and
+complex subproject deliveries in the implementation of the development program. The
+eventual aim is to create and equip a special expert unit within the ST which would help
+negotiate, contract and supervise the implementation of such contracts in the future, including
+final acceptance. This unit would be supported by an MIS with an inbuilt finance and time
+control function. ST's plans for more aggressive development and elimination of state
+support would necessitate more efficient and cost conscious methods to ensure investment
+efficacy. In any case, the more complex installations and new technology would require
+special assistance and supervision by contractors and suppliers. As the digital overlay
+network is an important element of the whole system, one year of supervision of maintenance
+would be requested from and contracted with the successful bidders.
+4.30        Performance Indicators. An Action Plan consisting of performance
+indicators (see Annex 11) and target values, plus a mechanism for monitoring the execution
+of the project in relation to the agreed targets was agreed during negotiations, together with
+targets for each indicator for the Program in each year. More specifically, agreement was
+reached on: (a) ST monitoring of the agreed indicators and semi-annual reporting to the
+banks of actual vs. target performances: (b) discussions, once a year, between ST and the
+banks of any shortfalls, reasons for them, and proposed remedies; and (c) agreement
+following this discussion will be reached between the banks and ST on adjustment of
+performance targets for the following year(s). Examples of key performance indicators (see
+Annex 11 for full list) are shown in Table 4.4.
+
+
+
+- 23 -
+Table 4.4 Slovak Republic: Performance Indicators
+1992 (actual)       1995 (target)
+Network Development Indicators
+connected DEL's (lines)                         800                1,046
+x 1,000
+exchange capacity (lines)                       935                1,231
+x 1,000
+DELs per 1,000 inhabitants                      15.2                19.7
+Quality of service indicators
+faults/100 DELs/month                            6                   5
+effective calling rate                         40%                 49%
+Efficiency indicators
+employees per 1000 DEL'                         14.7                12.4
+Excluding construction staff.
+V. FINANCIAL ANALYSIS
+A. Introduction
+5.01        The former SPT-Bratislava's accounting system was not primarily designed to
+provide management with relevant and reliable accounting information, but rather to furnish
+the information needed by the State Planning Commission for its overall planning.
+Consequently, the quality of the information on which management decisions as well as
+assessments of long-term profitability are based is not satisfactory.
+5.02        It is, therefore, very difficult to estimate to what degree the historical financial
+statements of SPT-Bratislava reflect the economic reality of the company. The situation is
+aggravated by the fact that separate accounts for the postal and telecom services within SPT-
+Bratislava were not implemented until January 1, 1992. In addition, there are a large
+number of units supplying the operating units with services, e.g. (a) construction, principally
+of the network and exchanges; (b) supply of goods, and central purchasing; (c) computing;
+and (d) training. Since the effects of this intra-company trading have not been eliminated, the
+historical revenues from the TC-sector have consistently been over-valued. Furthermore, its
+own work has not been capitalized, which means that the operating expenses (salaries and
+wages) have been far too high.
+
+
+
+- 24 -
+5.03        In addition to the weaknesses of the accounting system which have already
+been mentioned, it is important to note that neither ST's tariffs, nor its input prices, have
+been determined by markets; instead they have been set by the central planners. Seen from a
+market economy viewpoint, the figures showing revenues, operating expenses, assets, etc.,
+are distorted.
+5.04        One conclusion that must be drawn from the above is that SPT-Bratislava's
+accounts for 1992 contain weaknesses which make them less useful as a base for financial
+projections. Therefore, beginning with the most recent financial information available,
+Coopers and Lybrand were engaged to assess the estimates for 1992. The result of this
+assessment has been a reduction of revenues as well as expenses by 1 billion Kcs. between
+1991 and 1992.
+5.05        A second conclusion is that the Financial Department of ST must be
+strengthened in all areas, i.e. budgeting, finance, tariffs, and accounting. Moreover, because
+the company has difficulties in recruiting and then keeping experienced staff, routines must
+be established for training, career planning, salary levels, bonuses, and other financial
+incentives. The IDP provides for ST to obtain expert assistance to improve their systems and
+routines in each one of these areas.
+B. Past Performance
+5.06        The Financial Statements for telecom operations of SPT-Bratislava for the five
+years 1988 through 1992 are shown in Annex 12. These statements have been assembled
+through close cooperation between the financial management and accounting staff from SPT-
+Bratislava and the World Bank. A summary of the most important entries and key ratios is
+given in Table 5.1.
+
+
+
+- 25 -
+Table 5.1: Past Financial Performance 1988-1992
+(Current Prices - Kcs Millions)
+SPT-Bratislava
+1988       1989        1990        1991        1992
+Consumer Price Index (1985 = 100)         100.9       102.2      112.8        181.8       200.2
+Operating revenue                         3,063       3,274      3,667       5,283        4,813
+Net Operating income                       1,712      1,855      1,584        1,114       1,171
+Net income                                  208        214         231         498          433
+Operating Ratio                          44.1%       43.3%      56.8%        78.9%       75.7%
+Operating Ratio
+(including profit tax)                   91.9%      92.2%      91.4%        89.1%        88.4%
+Rate of return on
+net fixed assets                        20.9%      21.9%       17.7%        12.7%       13.1%
+(before tax)
+Net internal cash generation as % of
+investment                               73.6%       96.9%      54.4%       114.2%       84.1%
+Operating Revenue/DEL (USS)                 347        333         294         252          217
+Operting Expenses/DEL (USS)                 153        144         167         198          164
+Operating Income/DEL (USS)                  194        189         127          53           53
+Employees/1000 DEL'                         16.4       15.9       15.4        19.2'        18.2
+Including coaniction sff.
+5.07           During most of the past five years, SPT-Bratislava's profits have been very
+high. For example, during the period 1988-89, the rate of return on net fixed assets was
+21 - 22%, which was fairly high, and operating ratios were low, at approximately 44%
+(before taxes in both cases). The rate of inflation during this period was negligible.
+
+
+
+- 26 -
+5.08         However, SPT-generated profits were not primarily used for developing the
+TC sector. The major portion of the TC surplus was used to subsidize postal services and to
+otherwise finance the public sector, while expansion of new DELs was restricted to 3-4% per
+year, far less than the demonstrated demand.
+5.09         During the period 1990-92, profits were substantially reduced because inflation
+of 80% was greatly increasing costs, but SPT-Bratislava could not raise its tariffs. In 1990,
+the nominal rates of return on net fixed assets were still high, but a high rate of inflation
+reduced the rates in real terms. The results were, however, still acceptable. In 1991 and
+1992 the nominal rates of return dropped to approximately 13% at the same time as inflation
+for this two year period was approximately 75%, thus resulting in an unacceptably low level
+of real profitability.
+5.10         The operating ratios (excluding taxes) for the period 1988-90 were good, but
+when the extremely high corporate income tax is included, the ratio was 92%. In June 1989,
+the 1970 decrees on economic planning were relaxed, thus reducing SPT-Bratislava's
+corporate income tax to 55%. This tax change came into effect in 1991. Even so, the
+operating ratio (including taxes) did not improve, because the benefits of the tax reduction
+were outweighed by cost increases due to inflation.
+5.11         Internal cash generation as a percentage of investments amounted to 97% in
+1989. To understand why this figure is so high, it must be remembered that the size of
+investments was adjusted to meet available cash. This consisted of the little that was left out
+of profits after taxes, as well as the artificially low depreciations (4% depreciation rate).
+External financing has been negligible.
+5.12         During the period 1988 to 1992, the operating revenue per DEL increased
+from Kcs 4,976 to 6,180. These figures do not, however, reflect the fact that during the
+same period inflation was almost 100%, which means that in real terms the operating
+revenues per DEL actually decreased from Kcs 4,976 to 3,140, i.e. by 36%. This trend can
+also be seen in the fact that the operating revenue per DEL decreased from US$347 to 217,
+i.e. by 37%. Our projections indicate that these figures are far too low to sustain the 1992-
+1995 investment program (see paras. 5.19 and 5.27).
+5.13         Performance measured as number of employees per 1,000 DEL improved
+slightly. The present level is, however, still far too high. In the past, the ST reported level
+of employees per 1,000 DEL seemed good in comparison to other Central and Eastern
+European countries (see Annex 13). The figures were not comparable, however, since ST's
+staff figures were exclusive of construction staff. ST has now retroactively included these
+employees from 1991, thereby increasing the number of employees per 1000 DEL from 14.9
+to 19.2. Taking this, together with the long waiting list, and the poor accessibility of the
+network into account, the overall performance has not been good.
+
+
+
+- 27 -
+C. Projected Financial Performance
+5.14        The Projected Financial Statements for the period 1993-96, which have been
+prepared in close consultation with SPT-Bratislava/ST are based upon Coopers and Lybrand's
+assessment of the result for 1992 (see para. 5.04). These financial statements are attached as
+Annex 12.
+5.15        The following table summarizes these projections for 1993-96:
+Table 5.2: Projected Financial Performance for ST, 1993-1996
+(Constant Jan 1993 Prices - Kcs Millions)
+1993      1994         1995         1996
+Operating Revenue                    5,839      7,071        7,967        8,920
+Net Operating Income                 2,045      2,721        2,966       3,384
+Net Income                            1,051      1,423       1,497        1,656
+Operating Ratio                      65.0%      61.5%       62.8%        62.1%
+Operating Ratio
+(including profit tax)              79.7%      78.0%       78.1%        77.3%
+Rate of return on net fixed assets
+(before tax)                         23.0%     28.0%        26.8%         27.4
+Net internal cash generation as % of
+investment                           35.6%     69.9%        68.3%         68.2
+Debt Service Coverage                  18.2       9.5          7.9         6.8
+Operating Revenues/DEL (US$)           248        281          296         309
+Operating Expenses/DEL (US$)           161        173          186         192
+Operating Income/DEL (US$)              87        108          110         117
+Employees/1000 DEL'                    17.1       16.0        15.0         14.0
+Including construction staff.
+
+
+
+- 28 -
+5.16         The projections are based on a number of assumptions, which are described in
+detail in Annex 122. The most important of these is the assumption that a 25% tariff
+increase will be implemented on July 1, 1993 and that tariffs thereafter will be tied to the
+rate of inflation. This increase is a necessary first adjustment of the tariffs, expressed in real
+terms, to a level sustainable with the investment program. Further tariff adjustments will be
+necessary if the rate implementation proves to be considerably faster than has been assumed.
+ST will otherwise be unable to manage its self-financing (net cash generation as a percentage
+of investments). Sensitivity analyses show that changes in the rate implementation would
+greatly affect the level of self-financing. This possibility, combined with insufficient
+information about price-elasticity, could mean that a further adjustment of the tariff level
+might be necessary from April 1, 1994 (see para. 5.19).
+5.17         The projections have resulted in the following changes of some important key
+ratios between 1992 and 1996:
+a)    the operating revenue would increase from the present level of US$217 to
+US$309 per DEL;
+b)    the operating ratio (excluding taxes) would decline from 75.7%  to 62.1 %;
+c)    the net internal cash generation as a percentage of investments would increase
+from 35.6% (1993) to 68.2%; and
+d)    the debt service coverage would decrease from 9.2 to 6.8.
+5.18         If ST is to manage its domestic financing within the current credit ceiling of
+the country's banking system, the net internal cash generation, as a percentage of
+investments, must not fall below 55%. For the same reason, the operating ratio must not
+exceed 65%. The debt service ratio must not fall below 2.5.
+5.19         In order to fulfill these financial covenants the average operating revenue per
+DEL should be increased from the present level of US$217 per DEL to at least US$300 per
+DEL. As mentioned above (para. 5.16), additional revenue increases might prove necessary,
+depending upon how rapidly the investment program can be implemented. At the present
+2     It has not been possible to take the recent merger of ST and SR into consideration in these projections
+since the required analysis of the effect of this merger has not yet been carried out. This has very little
+significance for the reliability of the projections, however, since SR is considerably smaller than ST.
+SR's operating revenues for 1992 amounted to 9% of ST's revenue, and the corresponding shares for
+costs and assets amounted to 10% and 13% respectively.
+
+
+
+- 29 -
+time, tariff increases are the only means available to achieve the required operating income.
+The proposed Loan and Guarantee Agreements will therefore stipulate that tariffs be
+increased by at least the amount required to ensure the Borrower's compliance with the
+financial covenants of the Loan Agreement.
+5.20          For ST to manage the financial strain involved in extending the telephone
+network, it is, however, important to make sure that the proportion of business subscribers is
+kept as high as possible during this developmental period. The reason for this is that
+business subscribers usually generate revenues many times higher than those generated by
+household subscribers. Otherwise, it could prove necessary to raise tariffs to a level higher
+than the average subscriber (business as well as residential) is willing to pay.
+D. Financing Plan
+5.21          ST will need approximately US$57 million per annum in the period 1993-96 in
+external financing. The amount of foreign financing needed is primarily determined by the
+cost of the foreign component in the investment program, and not by a company policy
+decision which determines to what extent the company should be leveraged.
+5.22          A summary of the cash flow statements for the program period 1993-96 shows
+in detail how ST plans to finance its program.
+3      Two other ways exist to increase operating income. The first is to increase the proportion of business
+subscribers. Apart from low tariffs, the main reason for low revenues per DEL in Eastern European
+countries is that the proportion of business subscribers is far too low. Currently only 30% of
+Slovakia's subscribers are business subscribers. When the Japanese telephone network had the same
+level of penetration as the Slovakian network has today (i.e. 10-15 DEL per 100 inhabitants), business
+subscribers constituted 70% of the total number of subscribers. The second method is to increase
+productivity, i.e. lower the expenses per DEL. The number of employees per 1000 DEL is far too
+high in comparison to the corresponding ratio for developed countries. These two issues can, however,
+not be solved in the short run, and will be addressed under 'Corporate Planning' in the IDP.
+
+
+
+- 30 -
+Table 5.3: Financing Plan 1993-1996
+(Constant January 1993 Prices - Kcs millions)
+1993     1994      1995      1996  Total Kcs          USS
+Mill.           Mill.
+Cash from Operation         3,317    4,125     4,532     5,119    17,093           600
+Compulsory Outflows:
+-Repaym. of Loans             0       177       177       177       531            19
+-Interest Expenses           135      133       244       373       886           31
+-Taxation                    860     1,164     1,225     1,355     4,603          162
+Cbange in Working Capital   1,444      333       296       310     2,382           84
+Net Internal Cash
+Generation:                  878    2,317      2,590     2,905     8,691           305
+Investments                 2,500    3,600     3,840     3,940    13,880           487
+External Financing:
+IBRD                          57       428       542       542      1,569           55
+EIB, EBRD Loans              228       855     1,026     1,026     3,135           110
+Supplier's and
+Export Credits              1,026      613       128         0     1,767            62
+Change in Cash:             -311       613       447       533     1,282            45
+5.23     Sixty-three percent (US$305 million) of investments is being financed internally by ST.
+5.24          The foreign financing sources the ST plans to use are loans from the IBRD, EIB
+and EBRD, as well as supplier and export credits. ST projects using total bank loans of
+US$165 million and obtaining the remaining US$62 million in supplier credits, which are
+projected to cover total requirements. External borrowing will finance the foreign costs of the
+program.
+E. Tariffs
+5.25           Domestic telephone tariffs have not been raised since 1979. In that year, the rates
+were increased by 25% with the intention of subsidizing the loss-making postal system as well as
+providing funds for the state through large tax revenues. Slovak tariffs are currently among the
+lowest in Europe (see Annex 14).
+5.26           In 1992, the former FMPT made a proposal to the former Federal Ministry of
+Finance (FMOF) for tariff increases totalling about 70%, including selected structural changes.
+In the version of the proposal which was before the FMOF on February 7, 1992, the most
+important new structural feature was the introduction of metered local calls and the concept of
+
+
+
+- 31 -
+peak and off-peak tariffs for long distance calls. Since it was later decided that the company
+would not invest in metering equipment needed to measure local calls in analogue exchanges, the
+proposed increases would not generate the calculated revenues. At best, only between 20 to
+25% additional revenues would be generated.
+5.27         Although the proposed tariff increases described above represent a necessary and
+valuable first step, they will neither be sufficient in level nor structure over the medium and long
+run. There is significant uncertainty about how traffic will respond to the changes, and about
+the revenue impact of the DON.
+5.28         Therefore, in addition to the above-mentioned tariff increase, the Loan and
+Guarantee Agreements will require that:
+(a)   The effects of any 1993 tariff increases on revenues be monitored, and a
+study of the results undertaken (for which consultant assistance shall be
+obtained). This study will analyze both structure and level of tariffs from
+the view point of both financial viability and economic efficiency;
+(b)   On or before September 30, 1993, a report giving the conclusions of this
+study will be submitted to the three banks. This report will analyze both
+level and structure of tariffs and will make recommendations regarding:
+(i) the real level of tariffs necessary to sustain financial viability, and the
+agreed investment program; and (ii) structural changes to improve
+economic efficiency; and
+(c)   The report shall propose a timetable of actions to: (i) improve the tariff
+structure; and (ii) achieve the tariff level required to fulfill the covenant,
+by January 1, 1994.
+5.29         The IDP includes provision for the ST to obtain expert assistance in upgrading its
+tariff setting capability with respect to considerations of demand, cost, competitive environment
+and regulatory imperatives. This activity should be integrated in a major study of tariff structure
+which would provide the basis for a general rebalancing of tariffs (see para. 7.01).
+F. Accounting and Finance
+5.30         A new accounting law will come into force in 1993. This text of the law conforms
+to EC practice and the ST's present accounting system will be hard pressed to cope with the
+change. A new and modem accounting system will, therefore, be implemented as soon as
+possible as one of the components of the Institutional Development Program4 (see Annex 6).
+G. Cash management
+4     The IBRD and EIB will finance the accounting, financial analysis and corporate finance components while
+the remainder of the IDP (Corporate Strategy, Service Planning, Organizational Development, HRD, Audit,
+Technical and Project Implementation) will be financed by EBRD.
+
+
+
+- 32 -
+5.31         ST feels that its billing system works well because it experiences few problems
+with late payments and bad debts. Larger companies are billed through an automatic debiting of
+their bank accounts. Prompt payments are the rule rather than the exception for smaller
+companies and residential subscribers, because defaulting would mean risking being
+disconnected.
+5.32         Despite ST's high ability to collect cash, there is, nonetheless, a pronounced cash
+deficit problem. ST's revenues are, in fact, taxed and paid before they are collected. This results
+in monthly cash deficits that have to be bridged by short term loans.
+5.33        ST is now considering introducing subscriber pre-payments as well as spreading
+out meter reading and billing over the entire month. Billing is carried out by regional offices,
+which means that headquarters does not have access to information about the regions' cash
+situation. Furthermore, there is no joint liquidity plan for the entire corporation, i.e., for regions
+and subsidiary companies. The regions, for example, are very independent and borrow from
+local banks on their own initiative without there being any consultation about the overall cash
+situation of the corporation. It is usually not taken into account that certain regions could well
+have a cash surplus at the same time that other regions need to borrow.
+5.34         Another important aspect of cash management control is that no one seems to have
+the responsibility for calling into question decisions tying up cash, such as building-up over-
+dimensioned stores, etc.
+5.35        The cash management issue will be dealt with in the IDP program (particularly in
+the accounting and finance package as well as associated technical assistance) with a view to
+expressing recommendations to the ST management and to relevant government authorities
+(para. 5.29).
+H. Auditing
+5.36        Annual audits of the ST will be carried out by an external auditor acceptable to
+the Bank for fiscal year 1993 and thereafter. For fiscal years 1993-94, annual financial
+statements and the related auditor's report must be submitted to the Bank within six months of
+the end of the fiscal year. By 1995, however, the ST should move to international norms and
+submit audit reports within four months after the end of the fiscal year.
+I. Reports
+5.37          For the third and fourth quarter of 1993, ST will submit an income statement
+within two months of the end of the quarter. Beginning in 1994, ST shall, in addition, submit a
+cash flow statement and a balance sheet. The format of these reports was agreed during
+negotiations.
+
+
+
+- 33 -
+J. Financial Covenants
+5.38        IBRD, and EIB have agreed to use the same financial covenants in their Loan
+Agreement. It was agreed that: internal generation of funds will not fall below 55 % of the three-
+year moving average (previous year, current year and projected following year) of investment;
+and that the ratio of operating expenses to operating revenues (excluding taxes) will be no higher
+than 65%; and also that the debt service ratio, i.e. the ratio of internally generated funds to
+total debt-service obligations, will be maintained at a level not less than 2.5:1 (para 5.18).
+VI. ECONOMIC ANALYSIS
+A. Rate of Return
+6.01        Financial Rate of Return (FRR): The financial internal rate of return (FRR) for
+the investment program is 41.3% for ST (see Annex 15). This figure is based on the following
+assumptions: (a) there will be additional traffic from new subscribers who will be connected to
+the local network in the four-year program period; (b) there will be additional traffic from
+existing subscribers who formerly could not get through but whose traffic the overlay network
+will be able to handle; and (c) there will be an additional increase by 50% for trunk and
+international traffic in 1996, and increases will continue thereafter by 5% per year through 2001.
+6.02        The following sensitivity tests were carried out on the FRR:
+Case                                   FRR
+Base                                  41.3%
+Delay of one year                     31.7%
+Investment cost higher by 20%         34.4%
+Maintenance cost higher by 50%        34.6%
+6.03        Economic Rate of Return (ERR): The financial rate of retum, though high, still
+does not fully reflect the net economic benefit from the project. The actual value of improved
+telecommunications service to customers is much greater than indicated by the tariffs charged,
+and this amount can be estimated in a number of ways. For instance, in similar countries,
+where a market for private housing and office space has now developed, the "consumer surplus"
+is indicated by the significant difference in rental costs for similar premises between those with
+and those without a telephone line. Although a well developed real estate market does not yet
+exist in Slovakia, one would expect that similar results will occur when it does. There are also
+black and grey markets for telephone access in Slovakia, as are found elsewhere in CEE.
+Another indicator can be found in the price that new customers are willing to pay for cellular
+service. Although the existing cellular franchise may have overshot the mark on pricing, there
+is no doubt (especially given experience in neighboring countries) that a substantial number of
+customers are willing to pay substantially more for cellular service and be connected to the
+network immediately, rather than wait for fixed service at the lower price. This is particularly
+valid since in most cases cellular service is not much better in quality (since cellular phones must
+transmit through the normal network) and since most cellular phones in CEE are purchased
+simply to get a phone--any phone--and not in order to obtain mobile service, per se.
+
+
+
+- 34 -
+6.04        Revaluing telecommunications connections at these implied prices would yield an
+estimate of benefits (and ERR) several percentage points higher than the FRR. However, this
+factor will not be as important as it might seem in the case of this particular lending project.
+The higher, indirect value of a connection implied by the higher price of premises with a
+connection applies mainly to residential or small business users, where obtaining any connection
+is a major problem. For large businesses (all of which have at least one connection) the problem
+is rather one of obtaining sufficient connections and service of sufficiently high quality to
+conduct business efficiently. This lending project focuses heavily on business customers,
+especially larger businesses, and its main benefits and revenues will come from the increased
+traffic and quality of service provided to business customers. It is only in the long run that these
+profits will form the basis for extending and improving service to the nation as a whole, an
+important economic benefit not included in the FRR.
+6.05        Project Benefits: The proposed project would: (a) greatly improve the quantity
+and quality of traditional TC services and permit new services for key sectors of the population
+(especially business) by providing direct access to a modern, internationally integrated digital
+network in a short period of time (by the end of the 1996); and (b) significantly improve service
+to all subscribers by decongesting the existing long-distance and international network and
+thereby improving its performance. In addition the project would facilitate network expansion
+and modernization by: (a) creating a soundly engineered digital skeleton upon which to build the
+future modern network; and (b) by increasing the revenue generating capacity of the system in
+order to finance rapid growth. Taken together, these benefits would significantly improve the
+capacity of the Slovak Republic to sustain its economic reform and development program.
+6.06        Risks: The principal risks relate to: (a) the financial strength of the ST and its
+ability to sustain high investment; (b) the implementation capacity of the ST; and (c) the limited
+experience of the new Slovak Government institutions. These risks are acceptable because it is
+the Government policy to promote self-financing infrastructure investment, which means that the
+Government must set such tariff levels which will permit the implementation of the agreed
+development project. Furthermore, the Government gives highest priority to investments in
+telecommunications where the customers are willing to pay higher rates for services rendered
+and the tariffs are relatively low.
+6.07        Moreover, to increase the capacity of ST to manage these risks, a number of
+provisions have been made. Measures to strengthen the financial management of the ST are
+included in the project, such as the creation of a strong financial department and training of its
+staff, tariff studies leading to reform and rebalancing, and the design and implementation of
+commercial accounting systems and related MIS. A series of financial covenants (tied to internal
+cash generation and operating ratio) will be required to ensure adequate financial performance of
+the Borrower. A strong Project Implementation Unit (PIU) was created in the ST prior to
+negotiation. Initially, this unit will deal with procurement preparation; later, it will be
+responsible for project execution. The project will contain technical assistance for the PIU.
+Finally, the Government's policy and regulatory function is being developed with the assistance
+of qualified consultants.
+
+
+
+- 35 -
+B. Environmental and Health Aspects
+6.08        The project is expected to have no adverse environmental or health impacts.
+Indeed, to the extent that it facilitates substitution of TC services for transportation, the project
+will have a net positive environmental and health impact.
+VH. AGREEMENTS REACHED
+7.01        During loan negotiations, the following agreements were reached:
+a.    With the Borrower:
+Financial Covenants
+By November 30, 1993:
+(i)   ST shall submit an income statement for the third quarter of 1993 and
+thereafter on a quarterly basis within two months from the end of the
+quarter. Beginning in 1994, ST shall, in addition, submit a cash flow
+statement and a balance sheet (para 5.37).
+From January 1, 1994 on:
+(ii)  Internally generated investible funds (operating income plus depreciation
+minus taxes, debt service and increases in working capital) for any one
+year shall not be less than 55 % of a three-year moving average of
+investment (para. 5.38).
+(iii) The ratio of operating expenses (including depreciation) to operating
+revenues shall not exceed 65% (para. 5.38).
+(iv)   The debt service ratio shall not fall below 2.5 (para. 5.38).
+(v)   A study of tariffs is to be undertaken by the ST and a report submitted to
+the MTCP, the Ministry of Finance, and the World Bank by Sept 30,
+1993. This study will address, inter alia, what further adjustments may be
+needed in the level and structure of tariffs (including provision for
+differential charges for direct subscribers to the DON). The study shall
+make recommendations regarding the real level of tariffs and shall propose
+a timetable for adjustments by January 1, 1994 (para. 5.28).
+
+
+
+- 36 -
+b.    With the Guarantor:
+(i)    The Guarantor shall increase, or cause to be increased, tariff levels as
+necessary in order to ensure that the Borrower is able to comply with these
+Financial Covenants (para. 5.28).
+(ii)   The Guarantor shall review the existing distribution of tariff responsibilities
+and any studies undertaken by the Guarantor and/or the Borrower, and, by
+January 1, 1994, shall propose an action plan for implementing a program
+for a regulatory regime, methodology and procedures covering
+telecommunications tariffs. This will be discussed with the Bank and, by
+April 1, 1994, actions will be taken to implement the resulting program
+(para. 5.28).
+c.    Additional conditions of effectiveness:
+(i)    Effectiveness of the EIB and EBRD loan agreements; and
+(ii)   The Bororower shall provide a financing plan satisfactory to the Bank for
+the suppliers credits through 1995.
+7.02 Subject to the above conditions and agreements, the project is suitable for a Bank loan of
+US$55 million equivalent for a period of seventeen years, including a five year grace period, at
+the Bank's standard variable interest rate.
+
+
+
+-37-
+ANNEX 1
+SLOVAK REPUBLIC
+SLOVAK TELECOMMUNICATIONS
+ORGANIZATION CHART
+(As of 1-1-93)
+Z                                       | General Director
+z
+4J
+Capital                       Human        Strategical       Network         Operation
+Constructlon    Flnance        Resources                                            and
+Development    Marketing        Development    Malntenance
+4                                  -
+Bratislava        Western Slovakia         Middle Slovkla          Eastern Slovakla
+U
+a
+U           _________________________________._________   __
+______ _ _ ___
+H
+Storage and SuppIy  Tralning and Educatlows                                 Constructlon
+and Supply  Training and Educations    Computatlons centra
+o      centre/ Logistic            centre                                            Works
+0
+IL_                          _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+L.
+
+
+
+Slovakia / ST
+Basic Telecommunications Data, 1986 - 1991
+1986        1987       1988       1989       1990       1991       1992
+LOCAL TELEPHONY
+total no. of main exchanges    1,380       1.381      1,341      1.336      1.337      1.341      1,357
+manual                           8           5           5         --        --          --         --
+automatic                     1,342       1,376      1,336      1.336      1,387      1,341      1.357
+total capacity (x 1.000 lines)  713.7      736.8      763.2      785.5        809        870        936
+net change in lines (x 1.000)    --         23.1       26.4       22.3       23.5        61          66
+total connected telephones
+(x 1,000)                       --          --          --      1,254      1,254      1.305         --
+number of DELs
+total (x 1,000)               567.1        598       634.1      676.6      717.2        757         --
+business                      162.1       168.3      175.2      181.2      185.9        187         --
+residential                   401.5       425.5      454.3      487.7      524.9        563         --
+pay phones                      3.6         4.2          5        5.7        6.4        6.6         --
+numberotDEL1s00pop.            10.8        11.3         12       12.6       13.4       14.4         --
+main exchange fill ratio (%)    79.5        81.2       83.1       85.9       88.7         87         --
+no. of registered waiters     47.811      57.570     73,444     90,644    109,357    124,844         --
+INTERURBAN
+no. interurban exchanges         --          --          --          7          7          7          7
+capacity (lines xl)                                      --        --          --     29.468     30,583
+INTERNATIONAL
+no. countries (automatic)        --          --           4          6          6          6          8
+total no. international                                                                  200        300
+circults (out & in)              --         --          --         --         --         --         --
+TELEGRAPHY, DATA, AND CELLULAR
+no. of telex exchanges           --          --          --          2          2          2         --
+capacity of telex exchanges
+(lines xi)                      --          --          --      4,000      5,000      5.698         --
+connected telex subsribers       --          --          --      3,240      3,232      3,729         --
+connected data terminals (tot.)   --          --         --         --      1,066      1.546         --
+mobile subscribers                --         --          --         --         --        350        700
+
+
+
+-39-                               ANNEX 3
+SLOVAK REPUBLIC TELEPHONE NEIWORK ARCHITECTUR
+I N T E R N ATI ON AL
+transit exchanges
+In 7  zones
+70 nodal                              -----.     .------------------------|
+exchanges
+Approx. 1357
+local exchanges
+Small
+exchanges
+
+
+
+-40-
+ANNEX 4
+Page 1 of 3
+SLOVAK REPUBLIC
+FIRST TELECOMMUNICATIONS PROJECT
+TELECOMMUNICATIONS MANUFACTURING INDUSTRY
+Like most other CEE countries, Czechoslovakia has a large, full-range TCMI
+which, in the past made the country practically self-sufficient in TC equipment. Prior to the
+revolution in late 1989, the Czechoslovak TCMI supplied 90% of the equipment required by
+the domestic TC sector as well as exporting a significant amount--primarily to the USSR. At
+that time, virtually all TC manufacturing was in the hands of a single conglomerate, TESLA.
+Today, the TCMI is composed of a number of factories, all of which were formerly part of
+TESLA, but have now been broken off. All still retain the first name, TESLA, followed by
+the name of the town or suburb in which they are located.
+The relationship between the industry and its main customer, the SPTs of the
+two Republics, was that of centralized monopoly/monopsony--as was typical of CEE
+centrally planned economies. The two SPTs would receive annual quantitative investment
+targets from the Federal Ministry, virtually all the equipment for which had to be obtained
+from the designated source. Even the choice of technology was (and, to a degree, still is)
+the prerogative of the Ministry. Similarly, the TCMI would receive annual production
+targets together with the destination to which the products would be shipped. "Buyers"
+(SPTs) and "sellers" (the TCMI) then merely arranged the details of transfers, shipments,
+dates, etc.
+The strong pressure to accomplish yearly production and investment plans in
+quantitative terms together with the absence of either competition or "hard budget
+constraints" resulted in lax quality standards and little incentive to invest aggressively in
+R&D. These domestic tendencies were reinforced by the Soviet export market which was
+both large and undemanding on either qualitative or technical/innovative grounds. CoCom
+restrictions exacerbated these tendencies since they both: (a) prevented access to the best
+technology available in the world; and, (b) protected CMEA TCMI from competition from
+western companies. Faced with little incentive to improve performance, the CSFR TCMI,
+SPTs, and research community drifted apart and made little effort to co-ordinate or co-
+operate. (This situation, it should be said, was virtually identical to that in all the CEE
+countries prior to the 1989/90 revolutions).
+Up until the late 1970's and early 1980's the effect on technology was not so
+great. The basic technology of electro-mechanical analogue switching and analogue
+transmission were well established and widely known. CoCom restrictions had not yet been
+aggressively targeted on TC technology and equipment. In this environment CMEA TCMIs
+were able to obtain licenses from leading western firms as well as develop their own
+
+
+
+-41-
+ANNEX 4
+Page 2 of 3
+equipment more or less in line with world standards. Quality, cost, and delivery times, were
+not on world levels, but the gap was not enormous. Indeed, one CMEA country (Hungary)
+was able to establish a fairly successful program of TC equipment exports to the west
+(primarily to the third world) using price discounts to make up for the relatively small gap in
+quality and technology between them and the best western suppliers. While the CSFR TCMI
+exported very little to the west, the equipment it produced was very similar in quality and
+technology to that produced in Hungary (and in Poland, Romania and Bulgaria).
+By the early 1980's, however, the digital electronic revolution was in full
+swing in the world TCMI. This is a totally different technology from the electro-mechanical
+analogue technology which proceeded it--as different as mechanical typewriters are from
+computer-based word processing. Since this new technology had enormous significance for
+military applications, capability, intelligence, CoCom restrictions were aggressively applied
+and the CSFR, like the rest of the CMEA, was effectively locked out. (Even today, when
+CoCom restrictions are being rapidly relaxed, TC technology remains one of the two or three
+most sensitive issues and one of the last to be relaxed. Experience in the Gulf war has only
+heightened and reinforced the importance and sensitivity of this technology.) An attempt was
+made by the CMEA to develop modern electronic digital switching and transmission
+capability but was abandoned as impossible or impractical within a realistic time frame and
+realistic cost. From then on the gap between CMEA (including CSFR) TCMIs and their
+westem counterparts widened dramatically.
+Today all the CEE countries (including the former CSFR) and their TCMIs
+face a similar situation and a similar set of dilemmas the main features of which are:
+* The domestic TCMI is large, politically and economically important but also
+hopelessly obsolete. The equipment produced and the facilities for producing it are,
+in terms of what the market now demands, virtually useless;
+* Nevertheless, the TCMI is not the worst industry in the country: it faces a large and
+rapidly growing domestic demand and has a strong base of skilled workers,
+technicians, engineers etc.;
+* Given that many other industries will have to be closed because they are both
+obsolete and have no market, CMEA govemments are loathe to see their TCMIs,
+which are relatively less badly off, closed as well;
+*   Modemizing and expanding the TC network will require modem electronic equipment
+starting immediately. There is no economic or technological justification for
+continuing to install obsolete analogue equipment now that CoCom relaxation permits
+purchase of digital equipment. If such equipment cannot be obtained domestically, it
+can and should be imported. On the other hand, hard currency is scarce; if CEE
+
+
+
+-42-                              ANNEX 4
+Page 3 of 3
+countries are forced to import the bulk of their required TC equipment it will almost
+certainly slow down the rate of TC network expansion and modernization;
+* The domestic TCMI cannot be modernized entirely from within quickly enough to
+meet this demand so association of some form with foreign firms is essential;
+* Each CEE country (including the former CSFR) has a domestic market which is too
+small to sustain efficient production of the main types of TC equipment. Further: (a)
+there is overcapacity in the world TCMI, hence foreign firms will attempt to restrict
+their CMEA partners from re-exporting licensed products into the parent company's
+world markets; and, (b) neither the mechanisms nor the will yet exists to attempt to
+co-ordinate TCMI investment between CEE countries so as to build a larger and
+(potentially) more viable market base.
+In the face of this set of circumstances and dilemmas, each CEE country,
+including the former CSFR, is attempting to implement the same strategy, i.e: use guaranteed
+and protected access to the domestic market to induce foreign firms to enter into JVs with
+domestic TCMI firms to upgrade and maintain all lines of domestic TC manufacturing
+capacity. All countries seem to be still counting on continuing to export substantial amounts
+to the USSR. There are, obviously, major questions whether this strategy can succeed.
+Most questionable is the likelihood of major exports to the USSR. The same western
+manufacturers who are entering into JVs in CEE are doing the same in the USSR--not to
+mention seeking direct exports there. There is no obvious reason why the USSR should
+prefer to import from CEE rather than build its own JVs and/or import direct from the West.
+The only possible incentive would have been hard currency savings but trade between former
+CMEA countries is now on a hard currency basis as well. If CEE TCMIs attempted to
+retain USSR markets by price discounts (or "soft-currency" options, barter etc.) they would
+probably lose money since: (a) it is unlikely that they will be low-cost producers compared
+to their best, most efficient western competitors; and (b) an extremely high proportion of
+their own costs (initially 70 - 80% and probably never less than 50%) will be in hard
+currency for components, material etc. It is highly likely, in fact, that the TCMI strategy
+being followed in all CEE countries will fail in one or more of its objectives; either: (a) the
+new JVs will succeed in delivering high quality products at competitive prices but will not
+produce much value-added in the CEE country; or (b) they will produce substantial value-
+added domestically but the equipment will not be the most modern, cheapest or best possible.
+
+
+
+-43-
+ANNEX 5
+SLOVAK REPUBLIC
+Telecommunications Project
+Physical Investment Data, 1993 - 1995
+ITEM                        UN1T       QTY.              MUSS
+local   foreign    total
+Buildings                  site           89      24.0        ..      24.0
+Transit switching          1000 trunk    20        2.1       8.6      10.7
+Local switching
+Analog                    1000 line      33       6.9       ..        6.9
+Digital                   1000 line     410      32.4     92.7    125.1
+Transmission
+Optical Cable             km          2,820      20.5     30.8      51.3
+Microwave                 system         35       2.5       9.8     12.3
+Coax. Cable               km            150       0.4       1.4       1.8
+Copper Cable               1000 pair   690        99.7      26.7     126.4
+Operation Support                                  1.0       9.0      10.0
+System
+TA & Training                                      6.9       6.9      13.8
+Other                                             17.0       2.7      19.7
+BASE COST                                        213.4    188.6    402.0
+Contingencies
+Physical                                          5.8      14.3     20.1
+Price                                            11.6      28.6      40.2
+TOTAL                                       t   230.8    231.5    462.3
+
+
+
+-44-
+ANNEX 6
+Page 1 of 7
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+INSTITUTIONAL DEVELOPMENT PROGRAM
+PROGRAM OBJECTIVE AND SCOPE
+1.          The main objective of the Institutional Development Program (IDP) is to assist
+Slovak's ST in a restructuring process which will involve: (i) the transition from analog to
+digital systems and the introduction of modern technology; (ii) the separation of posts and
+telecommunications; (iii) the transition from a centrally planned system to a market economy;
+(iv) the introduction of competition and the reduction of the basic telephone monopoly; and
+(v) the eventual privatization and transformation of ST into a joint stock company. In
+summary, the IDP will enable the transformation of ST from a government agency into an
+independent and autonomous company run in a commercial fashion. The IDP will include
+direct assistance for the execution of the Project as well as for the overall institutional
+development of ST.
+2.          The IDP will be executed by way of technical assistance which will focus on
+the design, development and implementation aspects of management systems, as well as in-
+house training involving the transfer of technology, know-how and hands-on skills. In
+house-training will consist of both on-the-job training and classroom lecturing, and may
+include study visits abroad.
+The IDP is comprised of six main components:
+-     Corporate Strategy, Service Planning and Organizational Development
+-     Human Resources Development
+-     Accounting and Finance
+-     Auditing
+-     Technical Expertise
+-     Project Implementation
+
+
+
+-45-
+ANNEX 6
+Page 2 of 7
+3.    Detailed Terms of Reference for each component are described below.
+I.    Corporate Strategy, Service Planning and Organizational Development
+Component
+This component will cover all aspects of assistance for ST related to undertaking the
+privatization process. It includes designing and implementing a business plan and an
+operating approach, and developing a market plan to meet new marketing and sales
+objectives. The responsibilities of the technical assistance component is as follows:
+(i)    Conduct a strategic and organizational diagnostic study with the aim of
+defining a global corporate strategy and recommending a new organizational
+structure for ST.
+(ii)   Assist ST in chosing the most desirable option(s) for its transformation into a
+commercially-oriented organization.
+(iii)   Assist ST in any bidding process, negotiations, definition of roles and
+responsibilities, business/financial agreements and selection of eventual private
+sector participants.
+(iv)   Assist ST in developing an operating vision, including: translating business
+into key functional strategies and priorities, detailing key operating processes
+and decisions, setting attainable and measurable goals.
+(v)   Assist ST in formulating a Business Plan, including: market analysis,
+investment program, asset utilization targets, revenue/profit target and tariff
+policies, and quality of service performance targets.
+(vi)   Assist ST in the design and implementation of service planning activities,
+including:
+demand forecasting techniques and models
+market/service segmentation techniques
+user needs assessment techniques (quantitative surveys).
+
+
+
+-46-
+ANNEX 6
+Page 3 of 7
+II.   Human Resources Development Component
+This component will cover all aspects of assistance to ST in designing and
+implementing a human resource development system and procedure to meet its needs
+and respond to its new strategic direction. Specific tasks include:
+Diagnose ST's existing capabilities as compared with required capabilities,
+especially in the areas of managerial and technical capabilities, in order to
+identify any gaps.
+Prepare a Human Resources Master Plan.
+Assist ST in the design and implementation of a capabilities-based
+organization, including productivity enhancement measures, performance-
+related incentives and rewards, empowerment down to the lowest levels in the
+organization, measures contributing to required changes to corporate culture,
+desired skill mix, manpower/human resources development plan, training
+requirements, and design and implementation of a human resources databank.
+Provide ST with technical assistance in designing and implementing personnel
+management systems related to recruitment and placement, training,
+compensation and motivation, appraisal and career management, and social
+policy.
+III.   Accounting and Finance Component
+This component will cover all aspects of assistance for ST in the design and
+implementation of accounting and financial systems and procedures and of
+management information systems, in order to meet changing needs and respond to
+new strategic approaches. Responsibilities include:
+-     Assist ST staff in designing, developing and implementing West European
+accounting standards and procedures.
+-     Assist ST staff in designing, developing and implementing cost analysis
+techniques and in establishing financial ratios.
+-     Provide ST staff with debt management and cash flow planning and monitoring
+tools and systems.
+-     Assist ST staff in preparing a 3-year Financial Plan, to be incorporated in the
+annually updated Business Plan.
+
+
+
+-47-
+ANNEX 6
+Page 4 of 7
+IV.   Audit Component
+The audit must cover all aspects of performing an external audit based on generally
+accepted accounting principles and standards (GAAP/GAAS). The prime objective
+being to ensure that all Fiscal 1993 opening Balance Sheet items (i.e., assets and
+liabilities) have been subjected to a thorough audit based on West European standards.
+Related spinoff benefits may include helping ST: (i) to meet its accounting and
+finance responsibilities; (ii) to satisfy the requirements of institutional lenders; (iii) to
+help prepare for eventual joint stock company privatization; and (iv) to move
+progressively towards West European standards.
+Auditing activities to be performed include:
+A review of the financial and management information systems and controls
+within ST as compared to best practice in the industry.
+A review of the accounting policies and principles followed by ST as
+compared with those generally accepted in the industry.
+A long form report including a discussion of the main issues is to be presented
+to ST management at the end of the audit.
+V.   Technical Component
+The Technical Component will actually be made up of three related areas of training
+and assistance related to the following:
+Network Planning and Engineering
+Project Planning and Management
+Operations and Maintenance
+A.   Network Planning and Engineering
+This area will cover all aspects of assistance to ST in the design and implementation
+of network planning and engineering tools and techniques, and related training. The
+assistance should be of such a nature as to enable ST's staff to prepare a network
+plan, including: provisioning forecasts, forecast monitoring and analysis, planning
+stage. This assistance should cover the following areas;
+-     capacity planning
+-     network routing
+-     facilities assignment (switch, trunk, plant)
+-     intemational network planning
+
+
+
+-48-
+ANNEX 6
+Page 5 of 7
+direction of CCITT Working Groups
+international affairs issues
+assistance in establishing a Traffic Engineering Unit and a Systems
+Engineering Unit.
+B.    Project Planning/Management
+This component will cover all aspects of assistance to ST in the area of project
+planning and management, and related training. The assistance should be of such a
+nature as to enable to ST staff to prepare a Project Plan and Procedures Manual
+covering the following generic areas, and to implement these procedures thereafter:
+-     capital budgeting
+-     project planning/sequencing/monitoring techniques
+-     project appropriation
+-     tendering and evaluation of bids
+-     installation/testing/commissioning logistics and procedures.
+C.    Operations and Maintenance
+This area will cover all aspects of training and assistance to ST in implementing an
+Operations and Maintenance (OAM) system, excluding those aspects already covered
+by the telephone switching systems vendors and foreign operators (if any). The
+training will cover the following areas:
+-     customer-oriented objectives and performance standards
+-     OAM managerial and technical supervision systems
+-     traffic management system
+-     preventive and corrective maintenance procedures
+-     network simulation models
+-     customer trouble report and inquiry handling procedures
+-     design of a network status and service quality database
+-     emergency fault intervention/repair procedures
+-     OAM training related to operations with West European standards.
+VI.   Project Implementation Component
+A Project Implementation Unit (PIU) will be established in order to coordinate,
+monitor, evaluate and manage all aspects of the Development Program, including the
+physical investment program and the IDP. This component of the IDP will assist ST
+with the overall project implementation by providing the following services:
+detailed project planning
+
+
+
+-49-
+ANNEX 6
+Page 6 of 7
+-     preparation of technical specifications and tender documents, issuing bidding
+documents, evaluation of proposals and contracts negotiations.
+-     supervision of contracts execution
+-     definition of acceptance tests
+-     coordination of procurement activities
+-     synchronization of activities of ST and suppliers
+-     project implementation scheduling using PERTCPM computer techniques
+-     ensuring continuous cost control and time schedule adherence
+-     coordination and supervision of installation by local companies, foreign
+suppliers and own staff
+-     project benefit, monitoring and evaluation (PBME)
+-     day-to-day management
+-     project reports and project financial statements.
+Program Costs and Fnancing Plan
+The total cost of the IDP is estimated at 4,725,000 ECU, as detailed in the following
+table:
+
+
+
+-50-
+ANNEX 6
+Page 7 of 7
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+PROGRAM COSTS
+IDP Cost (ECU 000)
+Program Component           Person        ST
+Months
+Corporate Strategy, Service          32            480
+Planning and Organizational
+Development
+Human Resource Development            18           270
+Accounting and Finance*              54            810
+Audit                                40            480
+Technical -Total                     54            810
+-Network Planning                    30            450
+-Project Planning                     9            135
+-u&M                                  15           225
+Project Implementation               70            840
+Sub-Total                           322          4,500
+Contingencies (5.0%)                               225
+TOTAL                                            4,725
+*Tentative amount subject to further evaluation.
+
+
+
+-51-
+ANNEX 7
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+TRAINING AND TECHNICAL ASSISTANCE REQUIREMENS
+Person    Cost/Day      Total     Foreign      Local       Total
+Days       (KCs)    (MKCs)         (M $)       (M $)      (M $)
+Training      15,200       8,000         121.6         1.9        1.9         3.8
+Tech. Asst.                                           6.5         6.5        13.0
+Total                                                 8.4         8.4        16.8
+Notes:
+Training
+The investment requirements for training are based on the number of person days of training,
+calculated by the ST as being necessary to meet the requirements of the program. The costs have
+been allocated equally between local and foreign currency as a best estimate of where the costs will
+occur.
+Technical Assistance
+It was considered and agreed during technical discussions between the banks and the ST that it
+would be prudent for the ST to match in local currency the financing provided by the banks for
+technical assistance.
+
+
+
+Slovak Republic
+Slovak Telecommunications Project
+Total Project Cost, 1993 - 1995
+(in millions of US$)
+1993                        1994                        1995        TOTAL 1993-95
+Item                       LOC      FOR       TOT       LOC      FOR      TOT       LOC      FOR       LOC      FOR      TOT
+Bulidings                  9.9       0.0      9.9       7.2      0.0      7.2       6.9      0.0      24.0      0.0     24.0
+Transit switching          1.2       4.8      6.0       0.1      0.4      0.5       0.8      3.4       2.1      8.6      10.7
+Local's'iltbhing          15.2      35.8     51.0      12.9     30:5     43.4      11.2     26.4      39.3     92.7    132.0
+LlDTransmisslon           11.1      20.0     31.1       5.7     10.2     15.9       6.6     11.8      23.4     42.0     65.4
+Local network             25.9       6.9     32.8      36.9      9.9     46.8      36.9      9.9      99.7     26.7    126.4
+T.A and Tralning           2.1       2.1      4.2       2.4      2.4      4.8       2.4      2.4       6.9      6.9      13.8
+Miscellaneots              6.4      10.8     17.2       4.0      9.4     13.4       2.4      7.7      12.7     27.9     40.6
+TOTAL BASE COST            71.8      80.4    152.2      69.2     62.8    132.0      67.2     61.6    2081      204.8    412.9
+CONTINGENCIES
+Physlcal                   4.5       6.8     11.3       4.1      5.1      9.2       3.9      5.2      12.6     17.0     29.6
+Price                      1.4       1.7      3.1       3.5      3.2      6.8       5.1      4.8      10.1      9.7     19.8
+TOTAL                      6.0       8.4     14.4       7.6      83      16.0       9.1     10.0      22.7     26.7     49.4
+PROJECT COST               77.7      88.8    166.5      76.8     71.1    147.9      76.3     71.6    230.8    231.5    462.3
+I.
+
+
+
+-53-
+ANNEX 9
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+Schedule of Disbursements
+(US$ millions)
+PROJECTED SCHEDULE
+IBRD Fiscal Year                  Disbursement Per              Cumulative
+Semester                          Semester                  Through Semester
+FY 1994
+December 1993                                 2                            2
+June 1994                                     2                            4
+FY 1995
+December 1994                                 5                           9
+June 1995                                     6                           15
+FY 1996
+December 1995                                 7                           22
+June 1996                                     7                           29
+FY 1997
+December 1996                                 6                           35
+June 1997                                     6                           41
+FY 1998
+December 1997                                 4                           45
+June 1998                                     4                           49
+FY 1999
+December 1998                                 3                           52
+June 1999                                     3                           55
+
+
+
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+Implementation Schedule
+Bid Packages                   1993              1994              1995             1996        1997
+1  2  3  4   1  2   3  4   1  2          3  4   1    2   3  4   1  2
+1.  Local Digital               B  O       -   --  -1             -   -  -    2   -  -  -  CC
+Exchanges (94-95)
+2.   Optical                    B  O   C    -   1---              --   2    -   -  -  -  CC
+Transmission
+3.  Microwave                   B  0   C   -   1  -  -  2         -   -  CC
+Transmission
+4.  Digitalization of           B  0   C   -   1  -  -  CC
+cax. cables
+5.  Local Copper                B   O  C    -   I  -  -  -        2  -  -      -3--            CC
+Networks
+6.   Operational                    B   0   C  -   1  -  -        -  -  -    -   -  -  -   CC
+Support Systems
+7.   PCN2, PCM4,                    BO C-   1--                   -  -  -    -   -  -  -  CC
+Dig. Con.
+8.  Tech. Assist.               BOC-   -  -  -  -                 -  -  -    -  -   -  -  CC
+and Training
+Abbreviations:
+B   =   Bid Invitation
+0   =   Opening of Bids
+C   =   6Contract Signature
+1   =   First Commissioning
+2,3   =   Second, Third Commissioning
+CC   =   Contract Completion
+
+
+
+Slovak Republic
+Slovak Telecommunications
+Performance Indicators, 1989 - 1995
+1989         1990            1991            1992         1993          1994           1995
+(actual)     (actual)        (actual)        (actual)   (projected)    (projected)  (projected)
+CAPACITY
+local switching cap. (total)
+(linesx 1,000)                               785.5          809            870              935         1056        1136.9           1231
+no. DEL(x 1,000)                             676.6           717            757             800           864           955          1046
+exchange fill ratio                             --          88.7             87             85.6          81.8           84            85
+no.businesswaiters                          90,644       109,400         125,000         146,000       155,000      141,000        132,000
+DELs per 100 pop.                              12.6         13.6            14.4            15.2          16.3           18           19.7
+no. internat. circuits                         100           130            150             300          1,200        1,600          1,800
+no. interurban trunks                           --        33,000          33,500          42,000       51,000        55,000         61,000
+no. oflocal exchanges                         1,336        1,337           1,337           1,357         1,365        1,335          1,300
+no. of transit exchanges                        --             7              7                8           11            11             11
+digital exch.                                                 0              0                1            4             4             4
+telex subscribers                               --         3,250           3,200           3,100         3,000        2,800          2,700
+packet aw. netwk. subscribers                   --             0             80              160          320           640          1,280  1-n
+cellular mobile subs.                           --           150            350              700         1,400        2,800          5,600
+OUALITY OF SERVICE
+No. faults/100 DELsWmonth                       --             6              6               6             6           5.5             5
+avg. dur. of faults (days)                      --           3.1            3.05             3.2            3           2.7            2.4
+downtime
+(hours/DEUyear)                                --           2.2             2.2             2.2           2.2            2            1.8
+call completion rates (9)
+analogue transit                               --            36             35               35           36            37            38
+analogue International                         --            37             35               35           36            37            38
+digital local                                                - -             _               35           37            39             41
+digital transit                                --            --                              40           43            46            49
+digital International                          --            --                              40           43            46             49
+EFFICIENCY
+no. staff/1,000 DELs                            --           13.9            14             14.7          14.3         13.5           12.4
+revenue per DEL (Kcs)                           --          3,649          3,821           4,125         5,067        5,537          5,953
+operational costs per
+DEL (Kcs)                                      --          2,309          2,708           2,861         3,089        3,130          3,130
+
+
+
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+Slovak Telecoms
+107-ce Esitinad FIgue.; 10N- I NO Proledid fgures      Income Statements
+1967 - 02 Curnt Pce.; 1003 - 1990 Consant Jan 93 Prie
+Kcs. MI.                            1987      1988     1989      1990     1991      1992     1993      1994     1995     1996
+Revenue:
+Connectlon Charges                 70       81        87       85       133      189      220       243      258       259
+Telephone Rental Revenue          275      291       308      327       351      379       399      426      467       500
+Telephone Call Revenue          1,739     1.888    1.997    2,224    2,857      3,262    4.234    5.411     6,248    7,168
+Leased Unes                       398      399       408      401      375       353      357       361      364       364
+Other Services                      0        0         0        0        0         0        0         0        0         0
+Telegraph &Telex                  138      138       160      160       131       94        94       94       94        94
+NewServices                        71       71       115      213       72       130       130      130      130       130
+PABXandolhertermlnalequlpm.       183      195       199      257      223       221      221       221      221       221
+BuIldIngNAKUS                                                          832       860      860       860      860       860
+Intra-company ellminationstadjustments                                 309      (675)    (675)    (675)    (675)    (675)
+Tolal Operating Revenue             2,874    3.063     3.274    3.667    5,283    4,813    5.839    7,071    7,967    8,920
+Operatlng Expensew
+Salarles & Soclal Costs           427      450       482      725    1.126      1.248    1,48     1.672    1.931    2,036
+MaterIals                         385      420       424      464    1,236      1,469    1,668    1.817    1.988    2.172 4
+SubsidytoPost                      92       96        35      167      625       500        0         0        0         0
+Overhead                           15       15        18      167       44         0       80       119      167       234
+Marketing                           0        0         0        0        0         0       61        74       84        94
+Intra-company elimination           0        0         0        0        0      -675     -675      -675     -675      -675
+Postal Costs Incurred by Telecrom  0         0         0        0        0       -60      -60       -60      -60       -60
+Depreciation                       360       370      460       560    1.138     1.160    1.271     1,404    1.566    1.736
+Total Operallng Expenses            1.279    1.351     1.419    2,083    4.169     3,642    3,794    4,350    5.001    5,537
+Net Operallng Income                1.594    1,712     1,855    1.584    1.114     1.171    2.045    2,721     2,966    3.384
+Interest Charges                      39       41        43        86      132       127      135      133       244      373
+0        0         0        0        0         0        0         a        0         0
+Income Before Tax                   1,555    1,670     1,812    1,499      982     1.044    1,910    2,581    2.722    3.010
+Taxation                            1.319    1,462     1,598    1,268      536       611      860     1.164    1,225    1,355
+Others                                 0         0        0         0       52         0        0        0         0        0
+Net Income                           236       208      214       231      498       433    1.051     1,423    1,497    1,656
+(At~
+
+
+
+SLOVAK REPLIUC
+TELECOMMUNICATIONS PROJECT
+Slovak Telboonm
+Balance Shoot
+1S - a E_dmad FRae Irn - IM Pt r_ 
+S7- a MCa  rw;    low - 1i     cnsC _im  a Pdmg.
+Kos M.
+1967     1968     1989     1990     1991      1992     1993     1994      1995     1996
+Fixed Assets:
+Gross Fbted Assets            14.307   14.893   15.626   16.377   16.156   18.163   19,788   22,128   24.624   27.185
+Accumulated Dpreclation       (6.523)  (6.893)  (7.353)  (7.913)  (9.051)  (10,211)  (11.482)  (12,887)  (14.453)  (16.188)
+Net Fixed Assets               7.784    8.000    8,273    8.464    7.705    7.952    8.306    9.241   10.171   10.997
+Work In Progress                459       524      606      689    1,492    1,598    2.473    3.733    5,077    6.456
+Othems                            0        0         0        0      213         0        0        0        0         0
+Total                          8.243    8.524    8,878    9.153    9.410    9.550   10,779   12,974   15,248   17.453
+Cunenl1'Asts:
+Receivables                     350       446      465      720      705       911      993    1.202    1,354    1.516
+Inventories                     538       589      650      790      858       793    2.001    2.180    2.386    2,606
+Cash and Bank Balances          388       255      273      306      377       533      222      835    1,281    1.813
+Other Current Assets              0         0        0        0        0         0        0        0        0        0
+Total                          1,276    1.290    1,388    1.816    1,940    2.237    3,216    4,217    5.022    5,936
+ul
+Total assets                      9,519    9.814   10.266   10.969   11,350   11.787   13.995   17,191   20,270   23,388
+Currend Uabtllles:
+Accounts Payable                160       176      217      229      442       129      497      553      616      687
+Shou Term Debt                   78       135      243      387        0       264       (0)       0        (0)      0
+Current Posltlon of Long Term De  0         0        0        0      145         0        0        0        0        0
+Other                             0         0        0        0        0       258        0        0        0        0
+Total                            238      311      460      616     .587       651      497      553      615       688
+Long-Term IabIlMlles
+LongTerm Debt                   608       622      711    1.027      938       879    2.190    3.909    5,427    6.818
+Prowvsions                        0         0        0        0        0         0        0        0        0        0
+Tobl                             608      622      711    1.027       938      879    2.190    3.909    5.427    6.818
+Shareholders' Funds
+State Equity                   8,239    8.239    8.239    8.239    8.239    8,239    823        823      B.239    8.239
+Foreign CapHal                     0        0        0        0        0         0        0        0        0        0
+Revaluatlon Reserve                0        0        0        0        0         0        0        0        0         0
+BalanclngReserve                  0         0        0        0        0         0        0        0        0         0
+Retained Earnings                434      642      856    1,087    1.585    2.018    3,068    4.491    5.988    7,644
+Soclal Reserve                     -        -        -        -        -         0        0        0        0        0                ii
+Total                          8.673    8.881     9.095    9.326    9,824   10.257   11.307   12,730   14,227   15.883                 0
+Total liabilitles and equlty       9,519    9,814   10.266   10,969   11,349   11.787   13,995   17,191   20,270   23,388
+
+
+
+SLOVAK REPUBUC
+TELECOMMUNICATIONS PROJECT
+Slovak Telecoms
+1967 - 2 E_ma.d Figum; 1913 -66 Prnoad FigumeR         Changes In Financial Position
+1907 -  Gurre. Pd..; 103 - S CaauV Jau. 03 Pd..
+Kau M.
+1987     1988      1989     1990     1991      1992     1993      1994     1995      1996
+Sources:
+Ilernm Sources:
+TotalOperatingIncome          1.594    1.712     1.855     1,584    1.114    1,171    2,045      2,721    2.966    3,384
+DeprecIatIn                     360      370       460      560    1.138      1,160    1,271     1.404    1.566    1.736
+Total                         1,954   2082      2.315   2144    2,252    2331       3.317    4.125    4,532    5.119
+UcencaEurdoel                     0        0         0        0         0        0        0         0        0         0
+Long Term Debt                   0        14        89      316       69         0     1.311    1,896    1,696    1.568
+DomnutkcDebt                      0        0         0        0         0        0        0         0        0         0
+Equity
+Total                             0       14        89      316        69        0     1.311     1,896    1,696    1.568
+Total Sources                 1.954    2.096    2.404    2.460    2,321       2,331    4.628    6,020    6.228    6,687
+Appilatons
+Caplla Expendiures:
+Core Program                    587      651       814      835    1.182      1S513    2,500    3.600    3,840    3.940
+Other Program                    0         0         0        0      213      (213)       0         0        0         0
+CapltallsedInterest               0        0         0        0        0         0        0         0        0         0
+Total                           587      651       814      835    1,395      1.300    2,500    3,600    3,840    3,940
+RepaymentofLongTermLoans         13        0         0        0       158       59        0       177       177      177
+Interest Costs                   39       41        43       86       132      127       135      133      244       373
+Taxation                      1.319    1,462     1,598     1.268      536      611       860     1,164    1,225    1.355
+Working Capital                  28       74       (69)     239        82       77    1.444       333       296      310
+Others                            0        0         0        0       -52        0        0         0        0         0
+Total Uses                    1,986    2.229     2,387    2.428    2.251      2,174    4.938    5,407    5,782    6,155
+ChangeinCash                    (32)    (133)       18       33       70       157      (311)     613      446       532
+o w
+
+
+
+TELECOMMUNICATIONS PROJECT
+Slovak Telecoms
+Key Ratios
+1087 - 92 Eedmated Fla.ur; INS - 996 Projeed FRguro
+1987 - 92 Cufwnt Proes:, 1993- 190 Condant Jan 93 Pdces
+Kcs Mill.                           1987     1988     1989      1990     1991      1992     1993     1994      1995     1998
+Key Covenants
+Operating Ratio (nci Taxes)    90.4%    91.9%     92.2%    91.4%    89.1%    88.4%    79.7%      78.0%    78.1%    77.3%
+Operaling Ratio (Exci Taxes)    44.5%    44.1%    43.3%    56.8%    78.9%    75.7%    65.0%      61.5%    62.8%    62.1%
+Internal Generatlon Funds (3yr av    95.9%    73.6%  96.9%    54.4%   114.2%    84.1%    35.6%    69.9%    68.3%    68.2%
+Debt Service Ratio              12.1      15.0     16.6      10.2      5.9      9.2      18.2      9.5      7.9       6.8
+Other Key Ratlos
+Operating Revenue per DEL (Kcs    4.929    4,976  5.014    5,276    7.168    6.180    7,073    8,022    8.422    8.806
+Operailno Expenses per DEL (Kc    2,194    2,195  2,173    2,997    5,657    4.677    4.595      4,935    5,287    5.466
+Operating income per DEL (Kcs)    2,735    2,781  2.841     2,280    1,512    1,504    2.478     3.086    3,135    3.340
+Operating Revenue per DEL (US    360      347       333      294       252      217      248       281      296      309
+Operating Expenses per DEL (US   160      153       144      167       198      164      161       173      186       192
+OperatinglncomeperDEL(US$)       200      194       189      127        53       53       87       108      110       117
+Exchange Rate 0(cs per DEL)    13.68    14.36     15.05    17.95      28.5     28.5      28.5     28.5     28.5      28.5
+Return on Net Fixed Assets      20.0%    20.9%    21.9%    17.7%    12.7%    13.1%    23.0%    28.0%    26.8%    27.4%
+Return on Total Assets (ROA)    17.0%    17.7%    18.5%    14.9%    10.0%    10.1%    15.9%      17.4%    15.8%    15.5%
+Return on Debt (ROD)            4.7%      4.7%     4.1%      6.1%     8.3%      8.3%     6.4%     3.7%      4.6%     5.5%
+DebtVEqulty (D/E)               0.10      0.10     0.12     0.15      0.17     0.15      0.20     0.30     0.39      0.45
+RelumonCommonEqulty(ROE)        2.8%      2.4%     2.4%      2.5%     4.7%      4.3%     9.7%    11.8%    11.1%    11.0%
+[ROE - (1-t) * (ROA . (ROA - ROD)'D/E)j
+co
+LA tsj
+
+
+
+-60-
+ANNEX 12
+Page 5 of 5
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECT
+Slovak Telecoms
+Assumptions
+Main assumptions used in the Financial Projections
+1.    Call charges are projected to be raised on July 1, 1993 by 50% to Kcs 1.50.
+2.    Increase in number of pulses per DEL: 4% per year.
+3.    Exchange rate: US$1 = 28.50 Kcs.
+4.    Annual salary increase: 20% in 1993; 15% in 1994/95; thereafter 5%. Salaries
+include basic salaries plus 38% social costs.
+5.    Increase in material cost per DEL: 2% per year.
+6.    No subsides to POST after 1992.
+7.    Depreciation rate as percent at Gross Fixed Assets: 6.7%
+
+
+
+SLOVAK REPUBUC
+SLOVAK TI-LECOMMUNICATIONS
+INTERNATIONAL COMPARISON:
+Number of Employees per 1000 Del
+1980    1981    1982    1983    1984      1985      1986     1987     1988      1989
+ST/Slovakia      -       -       -       -        -        -       16.9      16.4     15.9     15.4
+Poland         30.4    29.7    28.4    27.7    26.5       25.3     24.1      23.0     21.8       -
+Hungary          -       -       -       -        -        -         -        -        -       22.9
+Greece         13.3    13.2    12.3    11.1    10.5       9.8       9.0      8.5      8.4       7.5
+Spain           9.8    10.5    8.9      8.5      8.0      7.7       6.4      6.2      6.0       6.0
+Portugal       23.1    21.7    20.7    19.1    17.6       16.6     15.4      13.8     12.7     11.1
+Turkey           -       -       -       -        -        -         -       20.4     17.5     15.2
+Ireland        40.8    33.6    32.6    29.7    26.2       23.0     20.4      18.3     17.0     15.2
+Germany         9.5     9.2     8.9     8.7      8.4      8.3       8.1      7.9      7.7        -
+France         10.1    9.1      8.5     8.0      7.6      7.2       6.9      6.6      6.2       5.8
+U.K.             -      13.3    12.9    12.6    12.0      11.2     10.5      10.1      -        -
+Netherlands     5.7     5.5     5.2     5.1      4.9      4.9       4.9      4.8      4.5       -
+Finland        11.7    11.4    10.9    10.4      9.9      9.6       9.2      8.8      8.4      8.0
+Sweden          8.3     8.2     8.1     8.0      7.8      8.0       8.1      7.9      7.7      7.3
+Canada         10.8    10.5   .10.7    10.9      8.8      8.4       8.1  .   7.8      7.5      7.4
+USA            10.1    10.2      -       -        -        -         -        -        -        -
+Japan            -      8.3     8.1     7.8      7.4      7.1       6.9      6.6      6.2       5.7
+Source: Yearbook of Common Carrier, ITU (18th E-dition).
+
+
+
+-62-
+SLOVAK RiUWBLIC                                                  ANNEX 14
+SLOVAK TELECOMUNICATIONS
+TARI:FF SCEEDULE
+Existina Tariffs        Procosed Tariffs
+Local Calls:                              1 Kcs per call           Peak           1.50 Crown per 6 minutes
+Off-Peak      1.50 Crown per 6 minutes
+Payphones:                            1 Kc.s per call                        2 Crown per 6 minutes
+Long Distance:
+Area 1:                               1 Kcs per minute         Peak          1.50 Kcs per minute
+(within node)                                                  Off-Peak      0.75 Kcs per minute
+Area 2:                               2 Kcs per minute         Peak:         3.00 Kcs per minute
+(neighbouring node)                                            Off-Peak      1.50 Kcs per minute
+Area 3:                               3 K_s per minute         Peak:         4.50 Kcs per minute
+(non-neighbouring node)                                        Off-Peak:     2.25 Kcs per minute
+Area 4:                               4 Kcs per minute
+(ncn-neighbouring over 300 km)
+Rentals:
+DEL                                   50 Kcs per month                        50 Kcs per month
+Partyline                             30 Kcs per month                        30 Kcs per month
+(for 2 phones)
+Partyline                             30 Kcs per month                        30 Kcs per month
+(for 5 phones)
+Connection Charges:
+Business subscribers:                 5,000 Kcs                               5000 Kcs
+Residential subscribers:              2,0C0 Kcs                               2,000 Kcs
+c D,,,,,,' . --  4 .
+
+
+
+-63-
+Annex 15
+SLOVAK REPUBUC
+TELECOMMUNICATIONS PROJECT
+Slovak Telecom
+Calculation of Intemal Rate of Retum
+(Total Investment Program, 1993 - 1996)
+Conint Januny 30, 193 Prices
+Year nvestrn. Maint.    Conn    Rental    Call Net Cash    Disc.      Disc.
+Fee      Fee   Charge      Flow    Factor  Net Cash
+Flow
+1993  2,500     250    220        36      377   (2,117)  0.7080      (1,499)
+1994  3,600     610    243        74    1,438   (2,454)  0.5013      (1,230)
+1995  3,840     994    258       112    2,308   (2,156)  0.3549       (765)
+1996  3,940    1,388    259      149    5,506      586   0.2513        147
+1997           1,388             149    5,926    4,687   0.1779        834
+1998           1,388             149    6,367    5,128   0.1260        646
+1999           1,388             149    6,829    5,590   0.0892        499
+2000           1,388             149    7,314    6,075   0.0631        384
+2001           1,388             149    7,446    6,207   0.0447        277
+2002           1,388             149    7,583    6,344   0.0317        201
+2003           1,388             149    7,727    6,488   0.0224        145
+2004           1,388             149    7,878    6,639   0.0159        105
+2005           1,388             149    8,036    6,797   0.0112         76
+2006           1,388             149    8,202    6,962   0.0080         55
+2007           1,388             149    8,375    7,136   0.0056         40
+2008           1,388             149    8,556    7,317   0.0040         29
+2009           1,388             149    8,746    7,507   0.0028         21
+2010           1,388             149    8,945    7,706   0.0020         15
+2011           1,388             149    9,154    7,915   0.0014         11
+2012           2,317             149    9,372    7,204   0.0010          7
+(0)
+....    ....  1.24
+
+
+
+-64-                           ANNEX 16
+Page 1 of 3
+SLOVAK REPUBLIC
+TELECOMMUNICATIONS PROJECTS
+PA CONSULTANTS
+ABSTRACT OF KEY FINDINGS AND RECOMMENDATIONS
+We list below the most important recommendations from the study on
+telecommunications Sector Structure, Regulatory Framework and Tarification, carried out
+during 1992 by PA and its team of subcontractors for the Federal Ministry of Posts and
+Telecommunications of the Czech and Slovak Federal Republic. The Study was funded by
+the PHARE program of the European Community.
+The recommendations from this study need to actioned as soon as possible. Issues of
+competences, and more recently constitutional change, have already significantly delayed
+planned improvements. For telecommunications to provide effective support for the
+continuing transition to a market economy, further delay should be kept to an absolute
+minimum.
+Sector Structure
+Competition in provision of telecommunications services and equipment should be
+considered the normal state. Competition should therefore be allowed as soon as possible in
+all areas of equipment supply and in provision of value added services.
+However, we recommend that competition in the provision of network infrastructure
+and voice telephony services should be deferred in each Republic for five years (i.e. until the
+end of 1997). Exclusive licenses should be granted for this period to new main network
+operators evolved from the present SPTs and the telecommunications activities of the SRs,
+subject to the safeguards below.
+These new main network operators should be constituted as soon as possible. We
+recommend that this is done as part of the separation of posts and telecommunications prior
+to de-statistician and privatization. The new operators could be called, for example, 'Czech
+Telecom' and 'Slovak Telecom'.
+The deferral of competition is necessary because of the need to attract external
+investment funding for network development more rapidly than would occur otherwise.
+Introduction of competition too early would slow down the process of attracting such
+funding. Open competition should be permitted after this five year period.
+A range of safeguards should be implemented to ensure performance of the new main
+network operators. These are:
+
+
+
+-65-                             ANNEX 16
+Page 2 of 3
+*     negotiation of 'Service Obligation Agreements' with the operators to provide
+incentives and sanctions against agreed performance targets;
+*     organization and management changes to move the business cultures of the
+operators from their present positions towards that appropriate to modem,
+highly efficient telecommunications operators; and
+*     change programs to improve the performance of the operators in a number of
+functional areas.
+Involvement on a partnership basis of foreign telecommunications operators with the
+future operators should be sought as soon as possible. Such partnership, based on substantial
+equity participation (at the 30-40% level), is needed to ensure commitment of appropriate
+management and technical skills to the development of the operators. Such commitment will
+be essential.
+Entrepreneurial initiatives to speed up network development should be encouraged.
+These should be undertaken jointly with the future operators, under their licenses. Such
+initiatives could include rapid roll-out of business services (building on work already done by
+the SRs) and a variety of initiatives to speed up local loop development in particular areas
+(e.g. with cable television companies).
+Iegislative and Regulatory Framework
+In the light of the new constitutional position since the June General Elections, new
+Republican laws for telecommunications should be developed, based on existing Federal law.
+Generally binding regulations should be issued in each Republic by Ministerial decree
+as soon as possible. These regulations should cover key areas such as licensing and type
+approval procedures.
+A regulatory body should be established for telecommunications in each Republic.
+Each body should be headed by a Director General, who will be the telecommunications
+Regulator for the Republic. The Regulator should act so as to support govemment policy but
+should not be unduly influenced by day-to-day Ministerial concerns. The Regulator should
+be independent and should derive this independence from the terms of his or her
+appointment. He or she should be appointed for a fixed term of 5 years, renewable for 3
+years once only and should not be removable by Ministerial decree alone.
+The Directors General should be supported by small regulatory units, initially of 15-
+20 senior staff plus appropriate supporting staffs (perhaps 50-75 staff in total in each
+Republic). These units could be within or outside the competent Ministries. The regulatory
+bodies should be funded by license fees. The activities of the Directors General should
+follow 'due process', with appropriate accountability to Parliament.
+
+
+
+-66-                              ANNEX 16
+Page 3 of 3
+Regulation of the radio frequency spectrum should be carried out by a separate body,
+with a remit covering all users of spectrum, not just telecommunications operators.
+Type approval should be organized at two levels. Type approval policies should be
+set by the Regulators. Equipment certification should be organized via appropriate test
+laboratories. Advantage should be taken of opportunities for mutual recognition, so as to
+minimize the cost of such test laboratories.
+Major licenses for operators should be granted by the competent Ministers on the
+advice of the respective Regulators (who may in practice, with their staffs, carry out much of
+the work of drafting and issuing the licenses). 'General' licenses should be used where
+appropriate to minimize the need for individual licensing. General licenses should be issued
+by the Regulators under delegated authority from their respective Ministers. Licenses should
+be granted to legitimize existing network operators as soon as possible.
+Tarification
+Current tariffs are a long way from being cost-based and are too low to attract
+necessary investment into the telecommunications sector. The currently proposed tariff
+changes should be implemented as soon as possible. These proposals are at a level
+appropriate to attract foreign investment.
+Price control on telecommunications tariffs to end-users should be on a 'price cap'
+basis applied to 'baskets' of services using the widely accepted 'CPI-X' formula. Price
+controls should be applied and regulated by the Regulators in each Republic. The SPTs
+themselves should set their own prices on a service by service basis within the overall
+controls.
+The future operators should develop programs of tariff rebalancing to move towards
+cost oriented tariffs. Leased line rentals should be reduced as quickly as possible, as part of
+this program, to encourage the development of value added services.
+The future operators should set up internal procedures for tariff setting and approval
+of tariff changes. For such procedures to be effective, better cost data will be needed and
+this will require improved management accounting systems, which should be a priority.
+Improved billing and collection systems are also needed urgently to allow sufficient
+flexibility for the future operators in tariff setting, and to improve cash flows.
+
+
+
+IBRD 24626
+20                                22
+SLOVAK  RE PUB LI C
+FIRST TELECOMMUNICATIONS PROJECT
+Proposed Backbone Network, 1 995
+PROPOSED BACKBONE         EXISTING
+NETWORK INCLUDED          AS OF 1992:
+IN THE PROJECT:
+OPTICAL FIBER CABLES
+% _tZ                                                 ~~~~~~~~~~~~~~~~MICROWAVE LINKS
+f        ¢)      Og                     *~~~~ EXCHANGES
+0      50          100         15'IV0
+_                                   ~~~~~~~~~~~~INTERNATIO NAL BO UN DARI ES
+ETSRIVERS
+C Z E C H                                   Pf-J   9
+RE  ~              Zilin L I C~~                                                         r. X;
+-   ,9slavo                 C      ~~~~    rONtro     4z
+50            1 00        1 50,',,  ","                                            ''
+1 8202
+JUNE I1993
+
+
+

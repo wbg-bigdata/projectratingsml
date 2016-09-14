@@ -1,0 +1,173 @@
+                                                                                   62895
+  BANK NAME: STATE BANK
+  PROCUREMENT PLAN OF GOODS
+
+  Date:11th February 2011
+
+                                                                                                           Implementation Scheduling /Month/Year/
+                                                                                                                   Procurement process
+                                                                                          Bank
+Cont                                                         Estimated    Procurement                                                        Expected
+        Description of Contract      Required   Estimated                                Review:      Expected Date of   Expected Date of
+ract                                                         Total Cost     Method                                                            Date of
+                                     number      Cost per                                Prior or      Inviting Bids      Receiving Bids
+ ID                                                            MNT                                                                           Contract
+                                                  Unit                                    Post           /Proposals         /Proposals
+                                                                                                                                              Award
+         Supply & installation of
+                                                40,000,000
+  1     fiber channel storage area      1                    40,000,000       Shopping    Prior         2011-03-15         2011-04-01       2011-04-06
+           network equipment.
+        Supply and installation of
+  2                                     1       40,000,000   40,000,000       Shopping    Prior         2011-03-15         2011-04-01       2011-04-06
+        data archiving equipment
+            Supply of network
+  3                                     2       15,000,000
+           security equipment                                44,000,000       Shopping    Prior         2011-03-01         2011-03-15       2011-03-21
+                                        1       14,000,000
+             (firewall, router)
+                                        4       6,000,000
+       Supply of communication
+  4                                     3       5,000,000    43,000,000       Shopping    Prior         2011-03-01         2011-03-15       2011-03-21
+              equipment
+                                       20        200,000
+       Supply & implementation
+  5      of camera surviellance         1       40,000,000   40,000,000       Shopping    Prior         2011-03-01         2011-03-15       2011-03-21
+            system at the HO
+        Supply & installation of
+                                        1       36,000,000
+  6    cameras in rural branches                             46,000,000       Shopping    Prior         2011-03-15         2011-04-01       2011-04-06
+                                        1       10,000,000
+                 and HO
+        Supply & installation of
+             equipments and
+                                       32        250,000
+        connections for backup
+                                        1       6,000,000
+        services (USB modems,
+  7                                     4       1,000,000    39,000,000       Shopping    Prior         2011-03-15         2011-04-01       2011-04-06
+         UPS APC 8000V, ISP
+                                        1       5,000,000
+         connections and DELL
+                                        4       4,000,000
+           server,rack mount
+                consoles)
+                                       MNT292,000,000                                               USD232,913
+                  Total
+
+                                                                          1
+      Requirement of above equipments: Since its establishment in November 2011, State Bank has taken over most of the assets of Zoos Bank some of which
+      are obsolete. Also a Disaster recovery site has been set up ready for the required equipment. The items listed above will help with this and improve security,
+      efficiency and business continuity when operations are effected by external influences. The IT equipment of rural branches will also be upgraded to improve
+      their efficiency in the regions.
+
+
+
+      Goods Description
+
+                         Co
+ID        Name                    Price     Total price      Description                 Purpose                    Features                    Value added benefit
+                         unt
+                                                           Fiber channel                                   Advanced         data
+                                                           storage area        A sophisticated backup      management features
+1    Storage system       1    40,000,000    40,000,000
+                                                           network                system should be
+                                                           equipment                                                                        Improved performance and
+                                                                                implemented for the
+                                                                                                                                         scalability – reliable archiving &
+                                                           Data archiving       Bank’s continuous &
+       Archiving                                                                                                                                   backup system
+2                         1    40,000,000    40,000,000    equipment-            reliable operation.
+        system
+                                                           tape library
+                                                           Cisco 3800                                      To check the data             The data transmission between
+                                                                               To provide security of      packet for its               Primary and Backup sites will be
+                                                           series
+                          1    14,000,000                                       entire network of the      destination address and         more secure. Also they will
+        Network                                            integrated
+                                                                               Bank’s backup center.       protocol format details.     provide network security with the
+        security                                           services router
+3                                            44,000,000                        Will be installed at the                                       provider companies.
+       equipment                                                                                           To block unauthorized
+                                                           Cisco              Backup center, and one
+                                                                              firewall for the Primary     access while permitting
+                          2    15,000,000                  ASA 5540
+                                                                                         site.             authorized
+                                                           firewall
+                                                                                                           communications.
+                                                                                                           Connect different types       3 will be installed at the Disaster
+                                                           Cisco Catalyst
+                                                                                                           of networks at the             recovery site, 1 for Telecom to
+                          4     6,000,000                  3750-E series
+                                                                                                           Backup center and             connect different ISP companies,
+                                                           switches              For more secure &         Telecom company                   application and DB servers
+                                                                                 reliable connection       Redundant switches            If one fails during business hours
+4    Communication                           43,000,000    Cisco Catalyst
+       equipment          3     5,000,000                  3560G                                           will be used at the            a redundant backup switch will
+                                                           switches                                        Primary site as backup                provide continuity
+                                                           CTC                    To create backup                                        Ensure reliable and continous
+                                                                                                           Purpose made                   business of the Bank using the
+                         20      200,000                   Media                connections via fiber
+                                                                                                           connection modems                    connection units.
+                                                           converters               optic links.
+
+                                                                                     2
+    Improvement of                                      Centralised
+                                                                           To provide centralised
+        Camera                                          camera                                         HO based equipment
+                                                                           monitoring system for
+5     surveillance      1    40,000,000   40,000,000    monitoring                                     for purpose – built
+                                                                              the HO and UB
+     system at the                                      system                                         monitoring room.
+                                                                                 branches
+          HO
+                                                                              To provide secure                                 Protection of Bank assets and
+                                                        Install security                               Branch based
+      Installation &                                                         camera surveillance                                         operations.
+                        1    36,000,000                 cameras at                                     equipment to observe
+     improvement of                                                           system at the rural
+                                                        rural branches                                 branch activities.
+6     camera system                       46,000,000                              branches.
+    in rural branches                                   Install security
+                                                                           To improve HO camera        HO based equipment to
+         and HO         1    10,000,000                 cameras at the
+                                                                                  system.              observe HO activities
+                                                        HO
+                                                         USB Internet      For backup connection
+                        32    250,000                      modem             during connection
+                                                                                  failures.
+                                                                           For backup connection
+                        4    1,000,000                  ISP connection      during disaster at the
+                                                                                Primary site.          Allows continuity
+                                                                                                                                    Seamless operations during
+                                                                                                       when there are
+        Backup                                                                                                                          problems/failures.
+7                                                       UPS APC             Power support for the      connection problems.
+      connections       1    6,000,000    39,000,000
+        4,000,000
+                                                        8000V                 connection server
+
+                                                        DELL Power
+                                                                           Server for connection of
+                        1    5,000,000                  edge R210
+                                                                               the backup lines
+                                                        server
+                                                                            For easy management         Every rack will have
+                                                         Rack mount        of the servers located at                            More efficient management of
+                        4    4,000,000                                                                 mounting consoles
+                                                        consoles               different racks .                                    the servers 4,000,000
+                                                                                                       separately.
+
+                                          MNT           TOTAL AMOUNT:                  USD232,913
+          TOTAL AMOUNT
+                                          292,000,000   EXCHANGE RATE:                  MNT1253.69
+
+
+
+
+     Prepared by: Manager of the ITDivision                                                                        D.Erdenechimeg
+
+     Reviewed by: Chief Operational Officer                                                                        Anthony Storrow
+                                                                                 3
+4
+

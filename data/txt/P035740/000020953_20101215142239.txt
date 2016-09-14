@@ -1,0 +1,2848 @@
+58468
+                                     ESTUDIO DE MANEJO DE TRAFICO
+                                          DE DOS DISTRITOS DE LIMA
+
+
+                                            TERCER INFORME
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                      Distrito de Barranco
+                                                                                  TERCER INFORME
+                    ESTUDIO DE MANEJO DE TRAFICO DE DOS DISTRITOS DE LIMA
+                                      TERCER INFORME
+
+                                                                   I N D I C E
+
+1.        INTRODUCCION                                                                                                             1
+
+
+2.        ANTECEDENTES, ESTUDIOS PREVIOS RECIENTES Y CONDICIONAMIENTOS DEL                                                         4
+          ESTUDIO
+          2.1              Aspectos Generales                                                                                      5
+          2.2              Estudios Previos Recientes                                                                              6
+                           2.2.1       El Informe TARYET                                                                           6
+                           2.2.2       El Informe de EGM                                                                           11
+          2.3              Condicionamientos                                                                                       12
+
+
+3.        DIAGNOSTICO DE SITUACION ACTUAL                                                                                          13
+          3.1               El Distrito de Barranco                                                                                14
+          3.2               Diagnóstico sobre la Situación del Tráfico en Barranco                                                 17
+
+
+4.        PRESENTACION DE ALTERNATIVAS DE PLANES DE MANEJO DEL TRAFICO EN EL                                                       23
+          CORTO PLAZO
+          4.1             Objetivos del Plan de Manejo de Tráfico                                                                  24
+                          4.1.1       Distribución funcional del Espacio Vial                                                      24
+                          4.1.2       Políticas de Movilidad para el Distrito de Barranco                                          25
+                          4.1.3       Objetivos de calidad por alcanzar                                                            26
+          4.2             Definición de Planes Alternativos por Evaluar                                                            28
+          4.3             Descripción de los Planes de Manejo de Tráfico                                                           29
+                          4.3.1       Alternativa 1: Escenario de Línea de Base                                                    29
+                          4.3.2       Alternativa 2: Propuesta de la Mesa de Diálogo de Comunidad de                               30
+                                      Barranco
+                          4.3.3       Alternativa 3: Propuesta del Consultor                                                       35
+          4.4             Micromodelación                                                                                          43
+                          4.4.1       Microsimulaciones analizadas                                                                 43
+                          4.4.2       Asignaciones de tráfico para las alternativas                                                44
+
+
+
+
+     CLIENTE:               FINANCIMENTO:             CONSULTOR:                 Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                           Centro Histórico de Lima y el
+                                                                                      Distrito de Barranco
+                                                                                                                  TERCER INFORME
+          4.5             Resultados de Modelación                                                                                 46
+                          4.5.1       Situación Actual - Alternativa 1                                                             46
+                          4.5.2       Alternativa 2 de la Comunidad                                                                46
+                          4.5.3       Alternativa 3 del Consultor                                                                  46
+
+
+5.        EVALUACION COMPARATIVA ENTRE ALTERNATIVAS Y SU CALIFICACION                                                              48
+          PRELIMINAR
+          5.1             Metodología para el Análisis                                                                             50
+                          5.1.1       Definir objetivo                                                                             50
+                          5.1.2       Designación del equipo técnico                                                               51
+                          5.1.3       Bases para la elaboración delos crit3rios                                                    51
+                          5.1.4       Conceptualización y selección de los criterios                                               52
+                          5.1.5       Determinación de los pesos de los criterios                                                  54
+                          5.1.6       Calificación                                                                                 54
+                          5.1.7       Evaluación de las alternativas                                                               55
+                          5.1.8       Homologación de la calificación de los criterios                                             55
+          5.2             Evaluación de las Alternativas                                                                           57
+                          5.2.1       Evaluación de las Alternativas según políticas de movilidad                                  57
+                          5.2.2       Evaluación de medidas de gestión de tráfico                                                  58
+                          5.2.3       Evaluación de medidas de gestión de demanda                                                  59
+                          5.2.4       Beneficios Sociales                                                                          59
+          5.3             Evaluación Multicriterio de Alternativas                                                                 62
+                          5.3.1       Ponderación de los criterios                                                                 62
+                          5.3.2       Evaluación final de las alternativas                                                         63
+
+
+6.        CONCLUSIONES                                                                                                             66
+
+
+
+ANEXO 1:                    PLANOS
+
+
+ANEXO 2:                    PROPUESTA INFORME DE LA MESA DE DIALOGO
+
+
+ANEXO 3:                    TRAFICO
+
+
+
+
+     CLIENTE:               FINANCIMENTO:                CONSULTOR:               Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                           Centro Histórico de Lima y el
+                                                                                      Distrito de Barranco
+                                                                                                                  TERCER INFORME
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                      Distrito de Barranco
+                                                                                  TERCER INFORME
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                      Distrito de Barranco
+                                                                                  TERCER INFORME
+                                                                                  Capítulo 1
+
+
+                                                                     Introducción
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   1
+                                                      Distrito de Barranco
+         Capítulo 1
+
+
+         1.             INTRODUCCION
+
+101.      Este Tercer Informe del "Estudio de Manejo de Tráfico de dos Distritos de Lima"
+          contiene los resultados preliminares del Plan de Manejo de Tráfico en el distrito de
+          Barranco que el Consultor Barriga ­ Dall'Orto S.A. ha elaborado con el objetivo de
+          mejorar, mediante la aplicación de medidas de corto plazo, las condiciones de la
+          circulación peatonal y vehicular en el distrito de Barranco, que en el contexto actual,
+          incluye la operación del sistema del Metropolitano en el eje vial Av. Panamá-Av.
+          Bolognesi.
+
+102.      El estudio incluye la toma de datos y la elaboración de un plan de manejo de tráfico a
+          implementarse en un corto plazo (un año) a partir de un análisis multicriterio de
+          selección de alternativas. Esta Etapa del estudio proporcionará resultados preliminares
+          de la comparación de alternativas de tres propuestas de planes de manejo de tráfico
+          para el distrito de Barranco.
+
+103.      Los Términos de Referencia del Estudio (TDR) también establecen que las tres
+          propuestas de planes de manejo por comparar son las siguientes:
+
+         Primera:                   Escenario de Línea Base, correspondiente a la situación actual;
+
+         Segunda:                   Propuesta de la comunidad, a implementarse en el corto plazo; y
+
+         Tercera:                   Alternativa Propuesta del Consultor.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:          CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                                 Centro Histórico de Lima y el
+                                                                                                      TERCER INFORME
+                                                                                                                       2
+                                                                          Distrito de Barranco
+104.      Estando determinado en los TDR que el Plan de Manejo de Tráfico que se seleccione,
+          debe corresponder a metas a implementarse en el corto plazo.
+
+105.      Las intervenciones de manejo de tráfico a proponer, se refieren a medidas de
+          planificación del uso de las calles por el tráfico peatonal y vehicular; es decir:
+          planificación de los sentidos del tráfico; peatonalización de calles total o parcialmente, o
+          por períodos; uso de las calles para estacionamientos de vehículos; prohibiciones de la
+          operación de determinados tipos de vehículos; y eventualmente propuestas de obras
+          que puedan ser planeadas, diseñadas y construidas en un año.
+
+106.      Debemos precisar que en este estudio de planificación del manejo de tráfico, no
+          corresponde elaborar diseños ejecutivos, ni estudios básicos destinados a diseños
+          ejecutivos, como son: suelos, topografía, interferencia con servicios públicos, etc.
+
+107.      También debemos precisar que en la última etapa del Estudio del Manejo de Tráfico
+          para Dos Distritos de Lima, los Consultores formularán lineamientos metodológicos para
+          mejorar algunos aspectos de la administración de tráfico.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             3
+                                                                Distrito de Barranco
+                                                                                  Capítulo 2
+
+
+                            Antecedentes, Estudios Previos
+                            Recientes y Condicionamientos
+                                               del Informe
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   4
+                                                      Distrito de Barranco
+         Capítulo 2
+
+         2.             ANTECEDENTES ESTUDIOS PREVIOS                                       RECIENTES        Y
+                        CONDICIONAMIENTOS DEL INFORME
+
+         2.1            ASPECTOS GENERALES
+
+201.      La elaboración de este informe toma en consideración el contexto del distrito de
+          Barranco con el Corredor Segregado de Alta Capacidad (COSAC) en operación regular;
+          y la manera en que su inserción en la red vial urbana impacta, en el manejo del tráfico.
+
+202.      El plan de manejo del tráfico incluirá en el análisis, los aspectos normalmente
+          involucrados para configurar un manejo eficiente de la circulación vial de peatones y de
+          vehículos.
+
+203.      En el presente estudio el Consultor ha analizado la situación existente con sus
+          problemas y revisado los estudios que se han realizando en los proyectos en el área del
+          distrito de Barranco como son: la infraestructura de transporte del sistema Metropolitano
+          del COSAC I y la semaforización para el control del tráfico en el corredor del
+          Metropolitano. Ambos proyectos destinados a resolver los problemas de tráfico
+          existentes y perfeccionar la operación del sistema del COSAC I que proporciona una
+          alternativa de transporte masivo que significa sustituir el uso de otros tipos de vehículos
+          automotores menos eficientes.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                                 5
+                                                                Distrito de Barranco
+         2.2            ESTUDIOS PREVIOS RECIENTES
+
+204.      Con el interés de incluir todo lo tratado por quienes han venido estudiando el tema del
+          manejo del tráfico en el periodo recientemente pasado relacionado al proyecto del
+          Metropolitano, hemos revisado dos estudios que permiten interpretar el proceso que ha
+          devenido en la situación actual del Tráfico en Barranco. Ellos son: a) el Informe del
+          Estudio de Tránsito del Área Sur de Lima realizado por empresa TARYET S.L. que
+          realizó en el periodo 2004-2005 de cuatro planteamientos de manejo del tráfico
+          nominadas como: Alternativa "A". Planteamiento de la Municipalidad, Alternativa "B"
+          planteamiento de la Comunidad; Alternativa "C" y Alternativa "D" planteadas por
+          TARYET S.L.; y b) el Estudio de Adecuación del Sistema de Semaforización del COSAC
+          I desarrollado por EGM.
+
+         2.2.1 El Informe TARYET
+
+205.      Brevemente resumimos el Informe TARYET que analiza las cuatro alternativas de
+          manejo de tráfico mencionadas como A, B, C y D, y que consideramos muy necesario
+          de tener en cuenta en razón que todas ellas aportan puntos de vista y planteamientos
+          que pueden formar parte de soluciones a incorporarse en temas a tratar en el presente
+          estudio.
+
+         Alternativa "A"
+206.     Corresponde al planteamiento original del estudio para la implantación del COSAC I,
+         elaborado en el año 2003 que finalmente fue llevado a la práctica en Barranco a lo largo
+         de las avenidas Panamá y Bolognesi y que ha sido luego materia de diversos ajustes
+         para darle más seguridad al tráfico vehicular y peatonal en este corredor vial.
+
+         Alternativa "B"
+207.     La Alternativa "B" se basa en planteamientos de la Municipalidad de Barranco, del año
+         2004 incorporando el proyecto del Corredor COSAC I localizado en el eje vial Panamá-
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:       Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                     Centro Histórico de Lima y el
+                                                                                          TERCER INFORME
+                                                                                                           6
+                                                              Distrito de Barranco
+          Bolognesi. La propuesta promueve la renovación urbana de avenidas y plazas con la
+          finalidad de sustentar los proyectos de renovación urbana, rescatar el ambiente
+          tradicional e impulsar la actividad turística y recreativa.
+
+208.      La propuesta de la Municipalidad de Barranco consolida el sistema de ejes viales
+          principales de la zona Oeste (Zona Monumental), con un carácter abierto para su uso
+          por vehículos de transporte público y vehículos de uso privado. En el caso de los ejes
+          viales transversales se les da principalmente un carácter local y turístico,
+          complementados con facilidades peatonales y ciclovías en el lado de la ciudad que
+          bordea el área litoral. También define áreas y calles peatonales en zonas de acceso
+          (bajadas) a las playas y en los principales áreas verdes y monumentales urbanas.
+
+209.      La propuesta se refiere también a la incorporación al sistema vial de jirones y calles del
+          sector Este de Barranco, y establece los ejes viales Norte-Sur y viceversa, para su uso
+          por el transporte público, utilizando avenidas como: Lima y Manuel de la Fuente
+          Chávez; que se plantean "potencialmente como la segunda vía de circunvalación que
+          podría tener el distrito", siendo la primera la Vía Costa Verde adyacente al litoral marino.
+
+210.      Como comentario, el Consultor del presente Estudio de Manejo de Tráfico discrepa del
+          concepto expresado, sólo en el sentido que utilizar los ejes viales del lado Este de
+          Barranco no constituye una circunvalación de Barranco, sino una mejora en la
+          accesibilidad a esta zona que bien estructurada y reglamentada en el manejo del
+          tránsito traerá múltiples beneficios urbanísticos, económicos y sociales a ese sector de
+          la ciudad.
+
+         Alternativa "C"
+211.     La Alternativa "C" propuesta por TARYET S.L, se desarrolla en el contexto que incluye
+         la operación del COSAC I como servicio de transporte público masivo. La propuesta se
+         orienta a la utilización complementaria de la vialidad tanto del lado Este como Oeste del
+         distrito de Barranco, particularmente para facilitar el transporte público en servicios
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             7
+                                                                Distrito de Barranco
+          convencionales, que denomina servicios "remanentes"en referencia a los cambios que
+          se han introducido en las rutas del servicio público para no competir con el COSAC I. En
+          este sentido mantienen para el uso de los servicios "remanentes" la Av. Grau
+          proponiendo modificaciones de los sentidos del tráfico tanto en la Av. Grau como en, la
+          Av. Lima y en la Av. Manuel de la Fuente Chávez, localizadas estas dos últimas en la
+          zona Este de Barranco.
+
+212.      Complementariamente el Informe TARYET S.L. hace notar que la Av. Manuel de la
+          Fuente Chávez no tiene continuidad hacia el Norte en el sector de la Av. Surco (antes
+          Roosevelt) lo que obliga a hacer una pequeña variante de la ruta que rodea la zona.
+
+213.      Proyectándose a un periodo de mayor alcance TARYET S.L. plantea que se considere
+          las acciones necesarias de adquisición de los pocos predios que interrumpen el trazado
+          más directo de la Av. Manuel de la Fuente Chávez.
+
+214.      Como comentario, en opinión del Consultor del Estudio de Manejo de Tráfico la
+          adquisición de predios propuesta por TARYET S.L. es necesaria en cualquier escenario
+          de soluciones, por lo que considerando esta necesidad, es oportuno que las autoridades
+          realicen la adquisición parcial de los predios que serían afectados con el proyecto de
+          darle continuidad a la Av. De la Fuente Chávez. Se trata de un trazado de tipo
+          curvilíneo en un sector vial de aproximadamente 80 m. de longitud y posiblemente 12-14
+          m de ancho. En este sentido el Consultor del presente Estudio de Manejo de Tráfico
+          recomienda seguir el trámite correspondiente que debe empezar por aprobar un
+          anteproyecto y señalar recursos económicos en el presupuesto municipal de Lima, o de
+          Barranco para la adquisición ó expropiación, para la ejecución de la obra de ser
+          posible en el año 2011 o a mas tardar el 2012.
+
+215.      El Consultor recomienda que los planes municipales del distrito y de la provincia
+          establezcan la reserva de los predios necesarios de adquisición ó expropiación y
+          mientras tanto, se limite por un periodo precautorio, el uso de los predios sólo con la
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                     Centro Histórico de Lima y el
+                                                                                          TERCER INFORME
+                                                                                                           8
+                                                              Distrito de Barranco
+          posibilidad de autorizar a los propietarios la ejecución de obras de tipo ligero, sin
+          permitirse hacer nuevas edificaciones de alto costo.
+
+216.      En otros aspectos, la Alternativa "C" plantea para la zona Monumental de Barranco,
+          que, en días feriados con fuerte actividad recreativa, se cierren las calles de un sector
+          urbano adyacente al Parque Central de Barranco para cortar parcialmente la circulación
+          vehicular en sentidos Norte-Sur o viceversa; y en compensación propone establecer en
+          esas horas un servicio de transporte local denominado "urbanito", que es de suponer se
+          realizaría en vehículos de pequeña o mediana capacidad, para facilitar el traslado de
+          turistas y visitantes en general, a lo largo de la zona monumental.
+
+217.      También la Alternativa "C" analiza el tema del impacto vial del COSAC I respecto a la
+          integración entre sí de las dos zonas urbanas al Este y al Oeste del COSAC I y plantea
+          la implementación de más intersecciones semaforizadas a través de la ruta del COSAC
+          en Barranco; lo que ha venido siendo implantado, incluyendo obras de mejoramiento de
+          la seguridad vial, como también lo propone el Informe EGM.
+
+218.      Como comentario colateral, el Consultor del presente Estudio de Manejo de Tráfico ha
+          observado recientemente que las intersecciones más importantes del COSAC I,
+          particularmente en la Av. Panamá en Barranco tienen problemas de capacidad y que
+          otras tienen un déficit en el equipamientos de la semaforización, o en el ancho de los
+          separadores laterales entre distintos flujos de tránsito, o problemas de barandas de
+          canalización del tráfico peatonal. Lo cual lleva a recomendar que la autoridad
+          responsable continúe haciendo mejoras a la infraestructura de las intersecciones del
+          COSAC I.
+
+219.      Lamentablemente en algunos casos se realizan obras que traerán más problemas que
+          beneficios, como posiblemente resulte con el reciente cierre de la intersección entre la
+          Av. Militar y el jirón Independencia, lo que implica limitar la capacidad necesaria en el
+          sector Sur de la red vial; y agravar más la situación creada de inseguridad cuando se
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            9
+                                                               Distrito de Barranco
+          eliminó el puente peatonal que existía sobre la Av. Militar en la cuadra del Colegio
+          Indacochea.
+
+         Alternativa D
+220.     La Alternativa "D" tal como la propone el Informe TARYET S.L. es similar a la Alternativa
+         "C", con la diferencia que contiene una solución de mediano plazo, como es la
+         prolongación de la Av. Manuel de la Fuente Chávez, previamente advertida en la
+         Alternativa "C", en un pequeño sector que cruza la Av. Surco, necesario de empalmar
+         para mejorar el alineamiento de la Av. De la Fuente Chávez. Criterio que el Consultor
+         del presente Informe reitera comparte como necesario en el mediano plazo.
+
+221.      Ambas Alternativas "C" y "D" consideran finalmente conveniente restringir el impacto
+          del paso del transporte público convencional por la zona Monumental; y para lograrlo
+          plantean que sea sólo la Av. Grau como eje longitudinal en la zona Oeste de Barranco,
+          la que se utilice para la circulación del transporte público, "remanente" haciendo un
+          cambio en la dirección tradicional de su sentido de tráfico, utilizando Av. Grau sólo en la
+          dirección del tráfico Norte - Sur a partir de la intersección con la Av. Piérola hasta
+          encontrar en su extremo Sur la Av. 28 de Julio, proponiendo formar un par vial con la
+          Av. Manuel de la Fuente, en la zona Este que continua por la Av. Lima que viene
+          siendo utilizada, actualmente en el sentido Sur - Norte, hasta la Av. Catalino Miranda.
+
+222.      Las Alternativas "C" y "D" complementan el sistema vial principal utilizando como parte
+          de las rutas de transporte público convencional, tramos viales de los ejes transversales
+          como son Piérola - Balta y Heraud - El Sol.
+
+223.      TARYET S.L. finalmente analiza los escenarios B, C y D descritos, como sigue:
+
+         a.             Descarta el escenario B por apartarse de la realidad del tráfico; y
+
+
+
+
+   CLIENTE:              FINANCIMENTO:       CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                               Centro Histórico de Lima y el
+                                                                                                    TERCER INFORME
+                                                                                                                     10
+                                                                        Distrito de Barranco
+         b.             Modela y evalúa los otros tres escenarios Alternativas A, C y D, para llegar a la
+                        recomendación dada en su informe, seleccionando la propuesta de la Alternativa
+                        C, que es la que se puede aplicar en el corto plazo, porque en su opinión, genera
+                        soluciones a los puntos de conflictos, exponiendo finalmente que con los cambios
+                        de tráfico propuestos la propuesta C es la que dá los mejores resultados de la
+                        modelación en la hora pico de las principales intersecciones, con niveles de
+                        servicio B y C del tráfico vehicular. De otro lado la propuesta C (y
+                        consecuentemente la D) mantiene parcialmente el tráfico del transporte público
+                        masivo utilizando la Av. San Martín; y similarmente mantienen el tráfico de
+                        automóviles de paso (privados, taxis y colectivos), con origen o con destino fuera
+                        del distrito de Barranco, cruzando la Zona Monumental de Barranco.
+
+224.      Como comentario del Consultor del presente Estudio de Manejo de Tráfico, nos parece
+          que, si bien TARYET S.L. utiliza mejor el sistema vial existente en la zona Este y mejora
+          la accesibilidad al localizar las rutas del transporte público en ejes viales longitudinales y
+          transversales de esta zona, la estructura propuesta para estos servicios, separa
+          geográficamente en forma excesiva la ruta o el itinerario de "ida" y de "vuelta", para
+          todos los servicios o líneas o empresas de transporte público. Lo cual a los Consultores
+          del presente estudio nos parece poco práctico. Ver Plano N° 4.15 del Informe TARYET
+          S.L.
+
+         2.2.2 El Informe de EGM
+
+225.      Se trata de un estudio de semaforización realizado en el año 2009, que tiene por objeto
+          elaborar un estudio de complementación y adecuación del sistema de semaforización
+          del COSAC I, de manera que se garantice el mejoramiento de los niveles de servicio de
+          la red vial, en este caso troncal del COSAC I, para facilitar la movilidad de los usuarios y
+          favorezca la accesibilidad a las principales áreas de generación y atracción de viajes del
+          COSAC I, definiendo los diseños para el control semáforico de las intersecciones
+
+
+
+
+   CLIENTE:              FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                             Centro Histórico de Lima y el
+                                                                                                  TERCER INFORME
+                                                                                                                   11
+                                                                      Distrito de Barranco
+          identificadas en el corredor vial, cubriendo 72 intersecciones a lo largo de los
+          denominados Corredores Norte, Centro y Sur del COSAC I.
+
+226.      El estudio comprendió el análisis de la programación de la semaforización mediante un
+          trabajo de simulación física y operativa del COSAC I, para establecer el grado de
+          saturación y demoras del tráfico en las intersecciones a lo largo de los ejes viales del
+          COSAC I, lo cual ha sido utilizado en el diseño del sistema de semaforización
+          centralizado en el Centro de Control del Tráfico (CCT) del Metropolitano, que permitirá
+          optimizar la programación en concordancia con la evolución de la demanda del tráfico.
+
+         2.3            CONDICIONAMIENTOS
+
+227.      Como parte de la información a ser utilizada en el análisis y en la evaluación de los
+          problemas y de sus soluciones, el Consultor realizó gestiones para contar con la
+          información de la Base de Datos de Origen y Destino de los viajes metropolitanos, que
+          posee PROTRANSPORTE, información que ha actualizado y consolidado en el
+          presente año. La posibilidad de contar con esta información para el estudio significa
+          poder hacer hipótesis de eventuales reasignaciones del tránsito en razón de la
+          implantación de nuevos proyectos de vialidad como podría ser la prolongación del
+          Paseo de la República.
+
+228.      Nuestro pedido aún no ha sido atendido favorablemente por la "Oficina de Planeamiento
+          y Sistemas de Información" de PROTRANSPORTE. Para la elaboración del Informe se
+          ha utilizado información de fuentes secundarias de relativa reciente elaboración,
+          complementada con nueva información de campo levantada por el Consultor entre junio
+          y octubre del 2010 referente a la demanda de tráfico y secciones transversales viales
+          típicas. Para las propuestas esquemáticas de mejoramiento de algunas intersecciones
+          o sectores viales, se utiliza en algunos casos información topográfica de fuente
+          secundaria y en otras imágenes satelitales publicadas en internet.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                     Centro Histórico de Lima y el
+                                                                                          TERCER INFORME
+                                                                                                           12
+                                                              Distrito de Barranco
+                                                                                  Capítulo 3
+
+
+                           Diagnóstico de Situación Actual
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   13
+                                                      Distrito de Barranco
+         Capítulo 3
+
+
+         3.             DIAGNOSTICO DE LA SITUACION ACTUAL
+
+          3.1           EL DISTRITO DE BARRANCO
+
+301.      La ciudad de Lima en la que se ubica el Distrito de Barranco, tiene una población de
+          aproximadamente ocho (8) millones de habitantes, y es administrada por un Gobierno
+          Municipal denominado Municipalidad Metropolitana de Lima (MML), que tiene a su
+          cargo el área de la Provincia de Lima como jurisdicción geográfica. En la jurisdicción de
+          la Municipalidad Metropolitana de Lima se encuentran 43 municipalidades distritales. La
+          Municipalidad Metropolitana de Lima tiene a su cargo las funciones provinciales de
+          gobierno, entre ellas la vialidad y el transporte metropolitano; y las municipalidades
+          distritales las funciones de carácter local.
+
+302.      Barranco que es el distrito más pequeño de la provincia ocupa sólo 333 Ha. de
+          extensión en el continuo urbano de la ciudad de Lima, y tiene una población de
+          aproximadamente 34,000 habitantes, es decir tiene menos del medio por ciento (0.5%)
+          de la población de Lima. Barranco se ubica a siete (7) km al Sur del Centro Histórico de
+          la ciudad de Lima. El distrito se localiza al borde del mar, sobre un estrato superficial de
+          tierra agrícola y estratos de material conglomerado, típicos del subsuelo del valle del Río
+          Rímac. Ver Plano N° 3.1.1 - Vialidad Metropolitana y Localización de Barranco.
+
+303.      Hace cerca de 150 años, por iniciativa privada se creó en el lado sur de la bahía de
+          Miraflores, el núcleo urbano del distrito de Barranco, como un lujoso y apartado
+          balneario; el Distrito aún mantiene, en un sector importante, sus características
+          originales. De allí que la parte antigua de este villorrio, ha sido declarada Patrimonio
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             14
+                                                                Distrito de Barranco
+          Monumental de la Nación, por la calidad, estilo y belleza de sus antiguas edificaciones y
+          calles, que pertenecen en parte al periodo inicial "Republicano" y que se localizan en la
+          denominada Zona Monumental.
+
+304.      El área urbana de Barranco frente al mar, está limitada por un acantilado de
+          aproximadamente 50 a 65 m de altura. En la parte baja, la ciudad ha venido durante los
+          últimos 70 años, ganando áreas de playas marinas y construyendo instalaciones de
+          recreación a lo largo de la bahía de Miraflores que conforma un territorio de 15 kms de
+          longitud de playas en proceso de habilitación. En la franja costera se ha construido una
+          avenida de carácter metropolitano, que la ciudad viene progresivamente ampliando en
+          capacidad, ganando terrenos al mar, en la medida en que crece la demanda de tráfico.
+
+305.      Durante el siglo XX en el área rural al Este del distrito se desarrollaron instalaciones
+          militares, principalmente las escuelas del Ejército y de la Fuerza Aérea, esta última fue
+          dotada de un aeródromo. Así la zona urbana de Barranco resultó limitada a una
+          angosta franja urbana entre la parte superior del acantilado y las instalaciones militares.
+          En esta franja se localizaba la antigua carretera Panamericana única carretera nacional
+          que integraba Lima con el Sur del país y con todas las playas del litoral, hoy
+          mayormente urbanizadas a lo largo de 120 km. Hace 50 años se construyó un nuevo
+          trazo de la Carretera Panamericana, como cinturón periférico de la ciudad de Lima. La
+          antigua carretera, a través de Barranco sirve a una parte importante de las demandas
+          de tráfico urbano, entre los distritos de Lima localizados a lo largo del litoral al Sur y al
+          Norte de Barranco. Tráfico que en su mayor parte origina un "tráfico de paso", el mismo
+          que lamentablemente ha venido produciendo permanentemente un fuerte impacto
+          sobre el distrito de Barranco.
+
+306.      Para los fines del estudio de Manejo de Tráfico distinguiremos dos zonas urbanas de
+          características diferentes en Barranco: el lado Oeste cercano al litoral marino y el lado
+          Este más alejado del litoral. El desarrollo urbano del distrito está normado en el contexto
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:           Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                        Centro Histórico de Lima y el
+                                                                                             TERCER INFORME
+                                                                                                              15
+                                                                 Distrito de Barranco
+          metropolitano, mediante los planos de Zonificación Urbana de Barranco que se muestra
+          en el Plano N° 3.1.2 y el Plano N° 3.1.3 Zona Monumental de Barranco.
+
+307.      El lado Oeste, que permanentemente ha tenido una mejor accesibilidad e
+          implementación de servicios públicos, contiene la Zona Monumental (Ver Plano N°
+          3.1.3) que se caracteriza por ser un área con ambientes, viviendas antiguas y nuevas,
+          de calidad; y edificaciones con fines culturales e institucionales, que lo hacen poseedor
+          de atractivos turísticos. Lamentablemente su funcionalidad urbana se ve afectada
+          fuertemente por factores externos de carácter metropolitano relacionados al tráfico
+          vehicular de paso que desde hace muchas décadas viene deteriorando su ambientación
+          urbana y su patrimonio monumental.
+
+308.      El lado Este, debido a su deficiente estructura vial y accesibilidad metropolitana, ha
+          tenido un desarrollo urbano, improvisado e incompleto. Este territorio tiene vocación de
+          uso más variado; residencial principalmente, con presencia de zonas locales de
+          actividades de carácter comercial e industrial de moderado tamaño, así como de
+          servicios técnicos y sociales de las fuerzas armadas.
+
+309.      Claramente se aprecia que esta zona urbana deficitaria, en aspectos viales y de
+          transporte público no ha tenido a través del tiempo buena accesibilidad, lo que ha
+          constituido un factor que ha trabado la posibilidad de tener un desarrollo urbano, social y
+          económico armónico y de calidad. Situación esta que puede revertirse si se mejora su
+          accesibilidad a nivel distrital y metropolitano.
+
+310.      En esta situación, la presencia del nuevo sistema COSAC I como servicio de transporte
+          urbano masivo de pasajeros ha producido impactos sobre el medio ambiente que en
+          algunos casos la comunidad de Barranco viene apreciando favorablemente por la
+          calidad del servicio, y en otros, esa misma comunidad ha venido cuestionando por
+          algunas características de la vialidad del sistema por considerarlas con deficiencias;
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             16
+                                                                Distrito de Barranco
+          aspecto que afortunadamente es factible de ser perfeccionado por las autoridades
+          competentes.
+
+         3.2            DIAGNÓSTICO SOBRE LA SITUACIÓN DEL TRÁFICO EN BARRANCO
+
+         Inventarios y Análisis de la Situación Actual.
+311.     La situación actual es descrita en Planos temáticos que se expresan por si mismos y
+         que dan la visión concreta de la situación.
+
+         Descripción de la Situación Actual
+312.     El Plano N° 3.2.1 muestra la Red Vial Principal es decir aquellas arterias que
+         actualmente son utilizadas por el tráfico de mediana y de larga distancia con
+         proyecciones fuera del distrito. En todas ellas actualmente circulan vehículos de
+         transporte público, con excepción de la Av. Costa Verde que bordea el litoral marino y
+         del ramal que enlaza ésta vía del litoral con la Vía Expresa del Paseo de la República.
+         El Plano muestra también los límites de la Zona Monumental.
+
+313.      El Plano N° 3.2.2.1 presenta las secciones transversales de la Red Vial Principal
+          tomadas en ubicaciones significativas para el análisis del manejo del tráfico y los
+          Planos N° 3.2.2.1.1 y 3.2.2.1.2 las secciones transversales propiamente dichas.
+
+314.      El Plano N° 3.2.3.1 presenta los aforos de la demanda de tráfico en la hora punta de la
+          mañana sobre las arterias principales; del lado Oeste de Barranco al mes de junio 2010;
+          y el Plano N° 3.2.3.2 presenta información complementaria tanto de la Zona Este
+          como Oeste. El Plano incluye la localización de los aforos de 16 horas realizados con
+          un carácter de "cortina" que permiten el análisis de los posibles cambios de ruta que
+          podrán generarse como consecuencia de los planteamientos que se realizan en cada
+          alternativa de manejo de tráfico evaluada más adelante en el presente estudio. El
+          detalle de esta información se presenta en el Anexo 3: Tráfico en Barranco.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             17
+                                                                Distrito de Barranco
+315.      El Plano N° 3.2.4 presenta un inventario de accidentes de tránsito elaborado para este
+          estudio, mostrando el número y la severidad de los accidentes ocurridos en un periodo
+          de dos (2) meses del presente año. Este plano corrobora el alto nivel de riesgo que se
+          apreció en el informe de la Secretaría Técnica Lima-Callao que muestra cifras anuales e
+          identificación de puntos críticos de la accidentalidad, en las arterias principales y en
+          algunas intersecciones en el distrito. De continuarse con esta forma de inventario se
+          podrá tener una buena referencia de los puntos críticos para analizar e identificar luego
+          las deficiencias existentes en la infraestructura, que pudieran estar contribuyendo a la
+          causa de la accidentalidad, para proceder a su corrección y contiene un monitoreo en
+          cada punto crítico específico.
+
+316.      El Plano N° 3.2.5 resume las velocidades de circulación en horas punta que tiene la red
+          vial principal. Puede apreciarse que en general la circulación es rápida por la
+          preeminencia de los ejes viales de Barranco, frente a las calles secundarias, pero se
+          identifican zonas de congestión, puntual de congestión que se presentan asociadas a
+          las intersecciones semaforizadas particularmente en las intersecciones de la Av.
+          Panamá, en las intersecciones principales de la Av. San Martín y Grau, Pedro de Osma,
+          El Sol y Piérola.
+
+317.      En la Av. Panamá al inicio de la Av. Bolognesi se presenta períodos de congestión en el
+          denominado "Ovalo Balta", que ha sido diseñado deficientemente; situación que viene
+          constituyendo públicamente una preocupación vecinal.
+
+318.      La causa de estas situaciones es normalmente o un exceso de la demanda del tráfico
+          respecto de la capacidad vial proporcionada por la vía y la localización o programación
+          de los semáforos, empeorada por el desorden en el uso de las vías causado por
+          conductores de vehículos y por peatones; lo que también está agravado por la
+          señalización vial. La situación se complica por la presencia de un flujo de autos de paso
+          que atraviesan el distrito innecesariamente.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            18
+                                                               Distrito de Barranco
+319.      En ese sentido en la actualidad la vía Costa Verde constituye potencialmente un by
+          pass natural de Barranco; pero precisamente se está congestionando en las horas pico
+          de la tarde y en días feriados a medio día, cuando el día es soleado y cálido lo que
+          origina una mayor afluencia de tráficos con fines recreacionales. La causa es la
+          estrechez de la sección transversal de la vía Costa Verde que tiene dos carriles de
+          circulación; coincidiendo con un volteo en U en el punto crítico, localizado precisamente
+          en la jurisdicción de Barranco.
+
+320.      En este punto se produce una conjunción de demanda de tráficos cruzados que vienen
+          del Norte, uno bajando la Quebrada de Armendáriz rumbo al Sur y otro viniendo de
+          Miraflores por la Costa Verde, que da la vuelta en U hacia la izquierda para subir por la
+          quebrada con destinos u orígenes variados, como son el propio Barranco, Surco, San
+          Juan de Miraflores y el sector Este de Miraflores etc. Un mejoramiento en las
+          características y capacidad del sector ha sido apreciado por el Consultor como viable de
+          ejecutar en el corto plazo para eliminar este cuello de botella actual de la vialidad. Este
+          planteamiento de solución que se presenta más adelante como parte de la propuesta
+          del Consultor.
+
+321.      Respecto a las velocidades altas del tráfico, particularmente encontradas en horas valle
+          en las avenidas Grau y San Martín, en opinión del Consultor, constituyen aspectos
+          negativos que deterioran el ambiente de tranquilidad que se requiere en cualquier zona
+          urbana y particularmente también en una Zona Monumental, en la que se concentran
+          muchas instituciones públicas, comunales y sociales, como escuelas, centros de
+          cultura, o de recreación, etc.
+
+322.      Es por ello conveniente, que cualquiera sea la solución de manejo de tráfico que se
+          adopte, el objetivo de ordenar y de dar seguridad al tráfico, debe alcanzarse en el caso
+          del plan de manejo, cuidando que la progresión del tráfico se establezca velocidades
+          moderadas, asociadas a volúmenes de tráfico que no sobrepasen las capacidades del
+          sistema para no sólo dar tranquilidad al ambiente, sino además prevenir que ocurran
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             19
+                                                                Distrito de Barranco
+          accidentes y con mayor razón los accidentes severos asociados a velocidades
+          relativamente altas en tráficos desordenados como el actual, que en muchas horas del
+          día presentan niveles de servicio que se advierten se ubican en la clasificación E y F, en
+          razón que no es posible para el conductor cambiar el carril en que está circulando; o si
+          lo hace es realizando maniobras temerarias, que configura la característica principal del
+          tráfico de Lima, con su altísimo nivel de riesgo.
+
+323.      El Plano N° 3.2.6 muestra la localización actual de las líneas o rutas de transporte
+          identificadas en las arterias viales de Barranco. Como parte de un Plan de Manejo de
+          Tráfico, deberá plantearse una estructura de que proporcione un mejor servicio al
+          distrito de Barranco, especialmente para mejorar la accesibilidad metropolitana al sector
+          Este, que crónicamente se encuentra deprimido social y económicamente por haber
+          tenido poca accesibilidad.
+
+324.      El Plano N° 3.2.7 presenta el aspecto de la demanda de tráfico de peatones asociado a
+          la operación de las Estaciones del COSAC I. La información presentada corresponde a
+          la demanda horaria máxima en Barranco de usuarios en operación comercial de toda la
+          ruta troncal del COSAC I en servicio pagado por los usuarios.
+
+325.      En Barranco operan cuatro Estaciones del COSAC I, y se cuenta con estadística
+          detallada de su movimiento de ingresos de pasajeros. Ellas son: Unión, Bulevar, Balta y
+          Plaza Flores.
+
+326.      Esta estadística corresponde a un período en que el COSAC I cubre toda su extensión
+          con operación comercial, y puede en consecuencia tomarse como una referente válida
+          para las magnitudes de la demanda de usuarios actuales.
+
+327.      Para los fines del estudio del Plan de Manejo de Tráfico del Distrito, el Consultor ha
+          estudiado las demandas de usuarios de carácter máximo de los ingresos horarios
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            20
+                                                               Distrito de Barranco
+          registrados, para analizar su impacto sobre las capacidades del sistema peatonal que
+          cruza las intersecciones semaforizadas en las que se ubican las Estaciones.
+
+328.      La demanda diaria detectada de todo el sistema COSAC I, ha sido de aproximadamente
+          200,000 pasajeros en un día viernes 15.10.2010.
+
+         Frente a esta demanda, los movimientos horarios máximos detectados han sido:
+
+         ·              Plaza Flores            236 Ingresos/h
+         ·              Balta                   761 Ingresos/h
+         ·              Bulevar                 s/i        *
+         ·              Unión                   326 Ingresos/h
+                        (*)      Esta estación ha venido trabajando intermitentemente
+
+329.      Actualmente la demanda de usuarios indicada en la hora punta, extraída de las
+          estadísticas diaria y horaria del COSAC I circula holgadamente en las rutas de acceso a
+          través de las intersecciones; y lo previsible es que en el futuro no aumentará
+          significativamente porque el COSAC I en este sector está cerca de su área de influencia
+          extrema; y el crecimiento poblacional no es mayor al 2% anual.
+
+330.      El Consultor cree sin embargo que la proyección de la demanda de usuarios del
+          COSAC I no llevará a cambios significativos en el ancho de los senderos peatonales en
+          las áreas peatonales actuales, que tienen capacidad holgada.
+
+331.      El Plano N° 3.2.8 las zonas críticas de la operación del tráfico, cuya solución son la
+          materia a resolver en los planes de manejo de tráfico que se tratan en el Capítulo 4.
+          Prácticamente todas las zonas críticas han sido identificadas en estudios previos y en
+          planteamientos de los vecinos de Barranco, que diariamente han venido sufriendo de la
+          situación del tráfico y de la vialidad.
+
+
+
+
+   CLIENTE:              FINANCIMENTO:      CONSULTOR:           Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                            Centro Histórico de Lima y el
+                                                                                                 TERCER INFORME
+                                                                                                                  21
+                                                                     Distrito de Barranco
+332.      Las Láminas de inventarios del tráfico en las vías principales y la apreciación que se ha
+          realizado de la situación, permiten afirmar que el tráfico en Barranco es muy
+          desordenado y de alto riesgo para los peatones y para la circulación vehicular. El
+          calificativo es dramático pero es real. Lamentablemente las personas están
+          acostumbradas a esta situación, tanto en su condición de usuarios de la vialidad como
+          de autoridades y normalmente a convivir con esta situación, salvo en esta oportunidad
+          en que vienen reclamando, insistentemente que se adopten medidas correctivas.
+
+333.      Esta grave situación tiene causas muy variadas, pero en esta ocasión sólo nos
+          referiremos a las causales que podrán se corregidas con la aplicación de un plan de
+          manejo del tráfico dentro de lo señalado en los TDR del presente estudio, es decir, con
+          medidas a implementarse en el corto plazo.
+
+334.      En este Tercer Informe, se analiza la situación existente desde el punto de vista del
+          manejo del tráfico en el distrito de Barranco, se identifican los antecedentes de estudios
+          previos, los problemas existentes, se elaboran y definen propuestas de alternativas de
+          planes de manejo del tráfico de corto plazo de implementación; y finalmente se evalúan
+          estos planes y se formula la selección del plan de manejo del tráfico de corto plazo, que
+          en opinión del Consultor beneficia más al distrito de Barranco.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            22
+                                                               Distrito de Barranco
+                                                                                  Capítulo 4
+
+
+                            Presentación de Alternativas de
+                            Planes de Manejo del Tráfico en
+                                             el Corto Plazo
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   23
+                                                      Distrito de Barranco
+         Capítulo 4
+
+
+         4.             PRESENTACION DE ALTERNATIVAS DE MANEJO DEL
+                        TRÁFICO EN EL CORTO PLAZO
+
+         4.1            OBJETIVOS DEL PLAN DE MANEJO DE TRÁFICO
+
+401.      La identificación de los problemas realizada en el Capítulo 3 permite establecer que un
+          plan de manejo de tráfico para Distrito de Barranco, aunque sea de corto plazo debe
+          tener los siguientes objetivos:
+
+         1.             Utilizar mejor el espacio vial disponible, para facilitar el nivel de la accesibilidad
+                        de las personas que acuden al distrito, en concordancia con las funciones
+                        urbanas que presta.
+
+         2.             Implementar medidas de manejo de tráfico para lograr un tráfico fluido y seguro.
+
+         3.             Mejoramiento de la Calidad Ambiental y Urbana
+
+402.      A continuación se analizan los criterios que orientan el desarrollo del Plan.
+
+         4.1.1 Distribución Funcional del Espacio Vial
+
+403.      Frente a las necesidades funcionales del distrito, el espacio es un recurso limitado que
+          debe ser utilizado con esmero y preservando o recuperando en su caso, el ambiente
+          monumental y el nivel de vida de la población que vive y/o trabaja en la zona.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:       CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                               Centro Histórico de Lima y el
+                                                                                                    TERCER INFORME
+                                                                                                                     24
+                                                                        Distrito de Barranco
+404.      La elaboración del Plan de Manejo de Tráfico deberá para ello sujetarse a las políticas
+          de movilidad que están expuestas claramente en los términos de referencia del Estudio;
+          que llevan a establecer los requerimientos del sistema de "manejo", cuidando obtener
+          un ordenamiento saludable entre la circulación de los tráficos de paso que utilizan la
+          vialidad principal, con la demanda de viajes de corta distancia, entre el distrito y los
+          barrios adyacentes a él; y con las demandas de viajes de visitantes y turistas, atraídos
+          por el distrito. Demanda que finalmente se traduce a dos modalidades de viajes:
+          peatonales y vehiculares, entre las que deberá distribuirse el espacio de las calles con
+          la mayor eficiencia funcional posible.
+
+405.      Para cubrir objetivos de movilidad el Plan de Manejo del Tráfico requiere: establecer
+          parámetros básicos mínimos referidos a la infraestructura vial, sus características
+          operativas y el manejo del tráfico vehicular y peatonal propiamente dicho; distinguiendo
+          dos tipos de vialidad como sigue:
+
+
+         · El sistema vial arterial principal que cruza el distrito; y
+         · La estructura vial de las calles locales en el interior del distrito.
+
+         4.1.2 Políticas de Movilidad para el Distrito de Barranco
+
+406.      Para establecer un Plan de Manejo del Tráfico para el Distrito de Barranco, es necesario
+          fijar como parámetro básico las velocidades promedios de circulación que se desean
+          alcanzar de conformidad a la estructura vial que tienen las dos redes viales que sirven el
+          Distrito de Barranco; y a la naturaleza de los flujos vehiculares.
+
+407.      Se propone las siguientes velocidades "deseables", consideradas como posibles de
+          alcanzar con medidas de mas largo plazo cuando se resuelvan todos los problemas de
+          magnitud que afectan el ordenamiento y seguridad en la vialidad. En esta oportunidad
+          sin embargo, el Consultor considera que con un Plan de Manejo de Tráfico de corto
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:           Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                        Centro Histórico de Lima y el
+                                                                                             TERCER INFORME
+                                                                                                              25
+                                                                 Distrito de Barranco
+          plazo las velocidades operativas seguras que deberán establecerse aproximadamente
+          2/3 de las deseables que se mencionan a continuación:
+
+
+         · En las vías arteriales que crucen el distrito, con servicios de transporte público, es
+           deseable mantener en horas punta en aproximadamente 20 kph de velocidad
+           promedio operativa, esto es, incluyendo los tiempos de detención vehicular;
+
+
+         · En la red vial local caracterizada por sus calles muy estrechas: la velocidad deseable
+           es de aproximadamente 15 kph de velocidad promedio.
+
+408.      El sistema de control del tráfico debe ofrecer sincronismo entre todas las intersecciones
+          semaforizadas, para que se pueda planificar el fijar el régimen de velocidad; y es muy
+          recomendable que se tenga la posibilidad de establecer dentro de las áreas locales
+          ciclos medios en relación a los ciclos en las intersecciones con las vías arteriales
+          principales, así como preferencias al sistema de transporte público masivo; y
+          preferencias nocturnas a las vías arteriales.
+
+         4.1.3 Objetivos de calidad por alcanzar
+
+409.      El plan de manejo de tráfico de corto alcance implica la posibilidad de reformular la
+          estructura de los sentidos del tráfico y la sección transversal de las calles, adoptando
+          políticas de movilidad que mejoren sustancialmente la situación actual. Estas políticas
+          son:
+
+
+         · Dar comodidad y seguridad al peatón
+         · Dar comodidad y seguridad al conductor de vehículos y a sus pasajeros;
+         · Minimizar las perdidas de tiempo en la circulación peatonal y vehicular;
+         · Minimizar los ruidos en las calles, causados por el tráfico;
+         · Minimizar la contaminación ambiental por gases del tráfico automotor
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            26
+                                                               Distrito de Barranco
+         · Minimizar los riesgos de accidentes en el tráfico, que en este caso requiere un
+           conjunto de medidas, como las que se mencionan a continuación; utilizando
+           inteligentemente soluciones de "tráfico calmado" en las calles locales, en zonas
+           educativas y similares; y en zonas monumentales específicas.
+
+                 i)     Maximizar que todos los protagonistas de la circulación, tengan la posibilidad de
+                        observar bien los semáforos y las señales del tráfico; y que las señales sean de
+                        conocimiento pleno de la población;
+
+                 ii)    Minimizar el efecto de distracción de conductores y peatones, causado por la
+                        publicidad en las calles, que debilitan el efecto de la señalización y de la
+                        semaforización de control del tránsito;
+
+                 iii) Evitar la colocación del mobiliario y equipamientos urbanos, en áreas necesarias
+                      para la circulación del tránsito; o removerlo en su caso; y en el caso del
+                      equipamiento de los semáforos y sus soportes, en las vías locales se utilicen
+                      postes o soportes en general, que no causen impactos negativos por sus
+                      dimensiones respecto de las veredas, ni por sus colores, respecto a la
+                      ambientación propia de una zona Monumental.
+
+                 iv) Maximizar el buen uso de la mejor tecnología por las autoridades especializadas
+                     del manejo del tráfico, mediante su capacitación especializada;
+
+410.      El objetivo específico será: alcanzar un buen nivel de accesibilidad en todo el distrito;
+          tener un tráfico más seguro y más ordenado; y recuperar el ambiente que propicie la
+          preservación de la zona Monumental.
+
+411.      Teniendo presente el corto plazo, estamos fijando como objetivos del plan de manejo
+          de tráfico un conjunto de logros, que intrínsecamente tienen que ser complementarios
+          entre sí como sigue: alcanzar un buen nivel de accesibilidad en todo el distrito; tener un
+
+
+
+
+   CLIENTE:             FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                            Centro Histórico de Lima y el
+                                                                                                 TERCER INFORME
+                                                                                                                  27
+                                                                     Distrito de Barranco
+          tráfico claramente más ordenado y más seguro; y recuperar el ambiente que propicie la
+          preservación de la Zona Monumental de Barranco.
+
+412.      Para alcanzar estos objetivos creemos que es necesario alcanzar claramente y
+          concretamente las siguientes metas en el corto plazo:
+
+         a.             Mejorar la accesibilidad metropolitana y del transporte en la zona Este del distrito;
+         b.             Distribuir las demandas del tráfico en la red vial principal del distrito, de manera de
+                        lograr un régimen cómodo y seguro acorde con la clasificación funcional de la vía;
+                        en todo el distrito en beneficio de sus habitantes;
+         c.             Minimizar que el tráfico de automóviles de paso circule a través del distrito;
+         d.             Proponer reponer la infraestructura vial que operaba anteriormente con eficiencia,
+                        que pudiera haber sido eliminada equivocadamente;
+         e.             Proponer mejoramientos en el sistema de intersecciones para aumentar la
+                        capacidad y la seguridad vial y superar problemas existentes;
+         f.             Hacer recomendaciones para mejorar la programación del control del tráfico.
+         g.             Posteriormente en la parte final de este estudio, se harán recomendaciones
+                        referentes a mejoramientos en aspectos administrativos y técnicos de la gestión
+                        del tráfico.
+
+
+
+         4.2             DEFINICIÓN DE PLANES ALTERNATIVOS POR EVALUAR
+
+413.      Para alcanzar los objetivos de mejoramientos, los Consultores han procedido a
+          identificar las "intervenciones" que configuran las tres alternativas de Plan de Manejo de
+          Tráfico de corto plazo, de conformidad a los Términos de Referencia del presente
+          Estudio. Entre las cuales el consultor hará su recomendación final.
+
+414.      Ellas han sido nominadas como:
+
+
+
+
+   CLIENTE:              FINANCIMENTO:       CONSULTOR:              Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                                Centro Histórico de Lima y el
+                                                                                                     TERCER INFORME
+                                                                                                                      28
+                                                                         Distrito de Barranco
+         · Alternativa 1                Escenario de Línea de Base:                       Situación      actual con el
+                                        Metropolitano operando;
+         · Alternativa 2                Propuesta presentada por la comunidad: Específicamente la
+                                        propuesta para corto plazo presentada por SALVEMOS
+                                        BARRANCO; y
+         · Alternativa 3                Propuesta del Consultor.
+
+415.      Debemos remarcar que las soluciones planteadas se refieren a intervenciones a
+          realizarse en el corto plazo; y que consecuentemente no se hace mención de otras
+          acciones, que constituyen parte de los procesos de largo plazo, que las autoridades
+          deben ejecutar como parte de las actividades de servicios viales, como son: iluminación
+          de calles, mantenimientos viales, señalización vial, equipamiento urbanos diversos,
+          protección del ambiente contra la publicidad dentro del derecho de vía que por ser un
+          factor que distrae a los conductores, aumentar el riesgo en las vías, etc. etc.
+
+
+
+         4.3            DESCRIPCIONES DE LOS PLANES DE MANEJO DE TRÁFICO
+
+         4.3.1 Alternativa 1: Escenario de Línea de Base
+
+         Formulación
+416.     Para la formulación de la Línea Base se ha adoptado la situación actual, descrita en el
+         Capítulo 3. El Plano N° 4.3.1.1 muestra la Red Vial Alternativa 1, Línea Base; el Plano
+         N° 4.3.1.2 presenta los sentidos del tráfico; y el Diagrama 4.1 el tráfico asignado a esta
+         Línea Base de volúmenes de la demanda actual.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:       CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                              Centro Histórico de Lima y el
+                                                                                                   TERCER INFORME
+                                                                                                                     29
+                                                                       Distrito de Barranco
+         4.3.2 Alternativa 2: Propuesta de la Mesa de Diálogo de Comunidad de Barranco.
+
+         Antecedentes
+417.     Durante la construcción del Metropolitano localizado en las avenidas República de
+         Panamá y Coronel Bolognesi, los vecinos del distrito, previendo la mitigación de los
+         impactos que podrían derivarse de la operación del Metropolitano, se organizaron en un
+         colectivo multidisciplinario denominado SALVEMOS BARRANCO, de manera tal de
+         poder elaborar un diagnóstico con una visión plural del distrito para elaborar una
+         propuesta de proyecto denominado "Metropolitano en búsqueda de soluciones".
+         Propuesta que luego de sometida a consideración de la población, en una asamblea,
+         fue aprobada por unanimidad; según expresan en su Informe final. Que se adjunta
+         como Anexo 2 de éste Tercer Informe.
+
+418.      El documento conceptúa los principales aspectos involucrados en el tema de
+          planificación urbana del distrito de Barranco desde el punto de vista de su organización
+          física y funcional respecto de: el uso del suelo, la accesibilidad metropolitana y la
+          integración interna del distrito, la vialidad , los transportes, el carácter del distrito y su
+          atractivo turístico, su patrimonio monumental y cultural, los problemas del medio
+          ambiente en relación al tráfico vehicular, la seguridad vial, la calidad de vida y la
+          economía de la población, etc. Finalmente desarrollan un planteamiento con una visión
+          bastante integral del tema materia de la preocupación de la población, que se resume a
+          continuación.
+
+         Diagnóstico de la situación actual (2008-2009)
+419.     La comunidad se refirió a la situación actual a través de las siguientes apreciaciones
+         sobre la situación en Barranco al cerrarse la Av. Bolognesi por la construcción de las
+         obras para la implantación del COSAC I:
+
+         ·              El transporte privado se encuentra derivado por calles y jirones;
+
+
+
+
+   CLIENTE:              FINANCIMENTO:       CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                               Centro Histórico de Lima y el
+                                                                                                    TERCER INFORME
+                                                                                                                     30
+                                                                        Distrito de Barranco
+      ·              Se ha generado la aparición de semáforos en la Av. San Martín y en la Av. Grau
+                     demorando el tráfico;
+      ·              Desde hace años se ha generado en los fines de semana un incremento notable
+                     de visitantes en locales de recreación, lo que es molesto para el orden y
+                     tranquilidad de los vecinos;
+      ·              Desde la implantación del COSAC I se han incrementado los problemas de
+                     transitabilidad en las Avenidas San Martín, Pedro de Osma , 28 de Julio y
+                     alrededores del Parque Municipal;
+      ·              Se tiene el hecho que el tránsito se ha derivado hacia el Circuito de Playas (Vía
+                     Costa Verde) lo que es sólo un paliativo temporal, porque esta vía será en el futuro
+                     sólo recreacional;
+      ·              Los vecinos gustan de caminar por las calles de Barranco y existe una gran
+                     demanda por vivir en Barranco y muchos turistas lo escogen como lugar de
+                     alojamiento. Pero en este tema se pueden apreciar los impactos más graves ya
+                     que las condiciones del tránsito han convertido las calles en espacios riesgosos,
+                     bulliciosos y desordenados, produciéndose la alteración de una forma de vida , ya
+                     que no resulta grato ahora caminar en esas condiciones;
+      ·              El desorden en el tránsito, causado por el COSAC I se convierte de esta manera
+                     en un atentado contra la forma de vida y la organización de un distrito que
+                     pudiendo ser ejemplo para el resto de la ciudad, corre el riesgo de deteriorarse
+                     inexorablemente. Dentro de este punto es importante mencionar de manera
+                     especial el retiro del puente peatonal del Colegio Mercedes Indacochea (sobre la
+                     Av. Militar) acción que ha generado el incrementado del riesgo de ocurrencia de
+                     accidentes, entre otros, para cientos de alumnas que diariamente se ven
+                     obligadas a cruzar (a nivel) la Av. Bolognesi; y
+      ·              El transporte pesado que antes pasaba por la Av. Bolognesi ahora atraviesa zonas
+                     de carácter residencial y Monumental, creando riesgos a los vecinos y quitándoles
+                     tranquilidad y seguridad.
+
+
+
+
+CLIENTE:              FINANCIMENTO:       CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                              Centro Histórico de Lima y el
+                                                                                                TERCER INFORME
+                                                                                                                 31
+                                                                    Distrito de Barranco
+420.      Para corregir estas situaciones que resultan contrarias al interés de los vecinos de
+          Barranco, según se expresa en el documento, la representación vecinal para solucionar
+          los problemas descritos, se proponen como objetivo articular el Distrito mediante la
+          recuperación de la Red Vial del Distrito que proporcione un sistema vial ordenado de
+          vías principales; considerando para ello las siguientes avenidas:
+
+         ·              La Av. Bolognesi y la Av. San Martín, en sentido Norte-Sur;
+         ·              La Av. Bolognesi y Av. Grau y la Av. Lima en sentido Sur-Norte;
+         ·              La Av. Piérola en sentido Oeste-Este; y la Av. El Sol en sentido Este-Oeste
+
+421.      Respecto del transporte público, la Mesa de Diálogo considera que Barranco deberá
+          estar servido sólo por el COSAC I circulando en el eje Bolognesi-Panamá;
+
+422.      La Mesa de Diálogo estableció, las siguientes metas para el corto plazo:
+
+         ·              Replantear el COSAC I, para que este sistema utilice las pistas de la Av.
+                        Bolognesi junto con el tráfico privado, en dos sentidos, como vía de carácter
+                        metropolitano, Ver sección transversal en el documento de la Propuesta de la
+                        Comunidad, adjunto como Anexo 2.
+         ·              Recuperar la red vial del distrito, articulando un sistema ordenado e integrador
+                        conformado por las principales vías: Av. Bolognesi, Av. San Martín, Av. Grau, Av.
+                        Lima, Av. Piérola y Av. El Sol;
+         ·              Como objetivo específico, diseñar un sistema de transporte de acuerdo a las
+                        características particulares del distrito.
+
+423.      En este sentido distinguimos como propuesta de la comunidad, utilizar para el
+          transporte público la Av. Bolognesi en dos sentidos; y para el transporte privado,
+          también la Av. Bolognesi y hacia el Este, la Av. Lima; y hacia el lado Oeste, la Av. San
+          Martín. Dejando la Av. Grau con un carácter comercial importante.
+
+
+
+
+   CLIENTE:              FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                              Centro Histórico de Lima y el
+                                                                                                   TERCER INFORME
+                                                                                                                    32
+                                                                       Distrito de Barranco
+424.      Los servicios de transporte serían:
+
+         ·              Servicio masivo: el COSAC I en el eje vial: Av. Bolognesi - Av. Panamá;
+         ·              Servicio local de transporte: "Urbanito", tranvía, etc (no mototaxis); que
+                        entendemos daría un servicio local de transporte para facilitar la actividad social y
+                        económica en el distrito, entre ellas apoyaría la movilidad de los turistas y
+                        visitantes. El documento no da mas detalles de este subproyecto.
+         ·              Recuperar el Ovalo Balta, (el documento no presenta un esquema que interprete
+                        geométricamente esta propuesta);
+         ·              Reponer el puente peatonal del Colegio Mercedes Indacochea sobre la Av. Militar;
+         ·              Creación de Circuitos peatonales; y de Circuitos de Ciclovías. Circuitos que en el
+                        documento analizado no figuran en ningún plano. Pero que el Consultor entiende
+                        que se relacionan principalmente a viajes de integración inter distrital; y circuitos
+                        turísticos y recreativos.
+
+425.      Para el mediano plazo la Mesa de Diálogo propone que: "En el caso de que se
+          considere la necesidad de mantener el concepto COSAC I, se puede mientras tanto,
+          desarrollar estudios y buscar las fuentes de financiamiento para implementar el COSAC
+          I en subterráneo debajo de las Avenidas Panamá y Bolognesi". Ver Anexo 2.
+
+426.      Para el largo plazo la Mesa de Diálogo propone la culminación de la Vía Expresa del
+          Paseo de la República, que se localiza aproximadamente en el límite entre Barranco y el
+          distrito de Surco; que entendemos que en la intención de la comunidad servirá para que
+          alguna parte importante de la demanda de tráfico de autos que hoy atraviesa la Zona
+          Histórica o la vía Costa Verde, encuentre una alternativa de ruta más conveniente para
+          demandas que hoy pasan a través de Barranco.
+
+427.      Hacemos un comentario adicional relativo a la imposibilidad que hemos encontrado al
+          hacer la simulación en el computador de la propuesta de la comunidad, con sólo tener el
+          COSAC I como sistema masivo de transporte en Barranco. La razón es que el COSAC
+
+
+
+
+   CLIENTE:              FINANCIMENTO:       CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                               Centro Histórico de Lima y el
+                                                                                                    TERCER INFORME
+                                                                                                                     33
+                                                                        Distrito de Barranco
+          I sirve sólo las demandas de la ruta del Paseo de la República que sigue una ruta
+          directa hacia el Centro Histórico de Lima y su prolongación hacia el distrito de Comas.
+          Pero no se puede desconocer que existen otras dos corrientes de demandas, una a lo
+          largo del litoral de la bahía hacia los distritos al Oeste y Nor-Oeste de Barranco y otro a
+          lo largo del eje de la Av. Panamá hacia los distritos al Norte y Noreste de Barranco. Por
+          lo que no es posible dejar de plantear soluciones de la vialidad que utilizarán estas
+          otras demandas de transporte masivo. Por lo que consideramos que en el
+          planteamiento de la Comunidad hubo una omisión involuntaria, que debemos salvar.
+          Para ello estamos señalando en el plano de las vías principales de la propuesta de la
+          comunidad, que la Av. San Martín será la ruta para los transportes públicos en dirección
+          al Sur y que la Av. Lima será la ruta para esos mismos servicios en dirección Norte; lo
+          que es asimilable dentro de los conceptos expuestos en el Informe de la Mesa de
+          Diálogo que se plasmaron en su plano original presentado en este informe como
+          4.3.2.0.
+
+428.      El Consultor ha adaptado la propuesta de la Mesa de Diálogo a las condiciones
+          actuales, y a la necesidad de darle un nivel adecuado de accesibilidad a todo Barranco,
+          origina el Plano N° 4.3.2.1 - Red Vial, Alternativa 2, Mesa de Diálogo; que finalmente ha
+          sido modelada incorporando la red principal presentada en la propuesta de la Mesa de
+          Dialogo. La simulación utilizada para servir estas otras demandas, las avenidas San
+          Martín y Lima y transversalmente las avenidas Piérola y El Sol; y no se ha considerado
+          utilizar la Av. Bolognesi para otras línea de transporte porque el COSAC I ha sido
+          localizado y concesionado con la condición de dar el servicio público de transporte en el
+          eje vial Panamá - Bolognesi, con carácter exclusivo, como la forma de cubrir su costo
+          operativo con las tarifas fijadas. Lo que no deja de lado que la Av. Bolognesi pueda ser
+          mejorada, eliminando la pista para vehículos que tiene actualmente para ampliar el área
+          peatonal y tener una alameda que sólo incluya al COSAC I. Esta solución podrá
+          adoptarse cuando se construya la prolongación de la Vía Expresa del Paseo de la
+          República, por donde podrán derivarse el tráfico privado de paso.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             34
+                                                                Distrito de Barranco
+429.      La Alternativa 2 se completa el Plano N° 4.3.2.2 y el Diagrama 4.2, de sentidos de
+          tráfico y de asignación de Tráfico respectivamente.
+
+         4.3.3 Alternativa 3: Propuesta del Consultor
+
+430.      La propuesta de la Alternativa 3 desarrollada por el Consultor del presente Estudio de
+          Manejo de Tráfico pone en práctica los criterios planteados en el acápite 4.1.3 de este
+          Informe; con los que se establecen políticas y metas de esta propuesta.
+
+         4.3.3.1 Políticas de Mejoramiento de la Accesibilidad y de Protección del Ambiente
+431.     Respecto del mejoramiento de la accesibilidad e integración distrital y metropolitana, la
+         red vial debe configurar un medio para facilitar su uso por el transporte público y por el
+         transporte privado. Particularmente la zona crítica en accesibilidad es la zona Este del
+         distrito. Para cumplir con el objetivo la red principal del distrito debe tener simpleza y ser
+         fácil de señalizar y controlar en un nivel de eficiencia en el manejo del tráfico, para
+         lograr la meta de romper el aislamiento de la zona Este de Barranco; y promover su
+         desarrollo urbanístico, social y económico.
+
+432.      En este sentido se tiene la necesidad de fortalecer la vialidad principal de la zona Este.
+          En el sentido Norte - Sur y Sur - Norte, se cuenta para este efecto con las Avenidas
+          Lima y Manuel de la Fuente Chávez.
+
+433.      En el sentido transversal se tienen las avenidas Catalino Miranda, Aurelio Souza,
+          Pedro Heraud y el eje vial Av. Balta - Jorge Chávez, que se integran con el eje vial Av.
+          Panamá y hacia el Oeste con El eje vial Av. Heraud - Av. El Sol, y el eje vial Av. Piérola
+          - Av. Balta - Av. Jorge Chávez; ambas interconectadas al sistema de transporte que
+          ingresa a Barranco por el puente de la Av. Reducto sobre la quebrada de Armendáriz
+          con los ejes viales transversales se mejora la integración distrital entre los distritos de
+          Barranco y de Surco y con las importantes áreas militares adyacentes. A lo largo de
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                        Centro Histórico de Lima y el
+                                                                                             TERCER INFORME
+                                                                                                              35
+                                                                 Distrito de Barranco
+          este Informe, se podrá apreciar como se plantea un manejo del tránsito que abre toda
+          clase de posibilidades para el desarrollo armónico de esta zona Este.
+
+         Política de Manejo y de Restricción de Tráficos
+434.     En el lado Oeste, la Propuesta del Consultor se orienta hacia una restricción moderada
+         del acceso del transporte público, en dos formas: Con el sistema del COSAC I que sirve
+         ambos sectores de Barranco; y una restricción de la circulación vehicular en la Zona
+         Monumental para limitar el acceso por sólo las avenidas que se localizan
+         tangencialmente a la Zona Monumental. De esta manera se logrará alcanzar una de las
+         metas necesarias para la protección de este importante Patrimonio Monumental del
+         distrito y del país.
+
+435.      Para evitar que por razones de debilidad institucional en la práctica se frustre el logro de
+          esta meta de proteger la zona monumental, la Propuesta incluye la solución de
+          configurar una zona peatonal alrededor del Parque Municipal, con la habilitación en ella
+          de una zona de "tráfico calmado restringido", para su uso por los vecinos del lugar que
+          requieren acceder a sus hogares y para los vehículos de servicios. La zona peatonal se
+          configura con los siguientes tramos viales: la cuadra N° 1 de la Av. Grau; la cuadra
+          limitada entre la Av. Pedro de Osma y la Av. Grau de la Av. 28. de Julio; y la Av. Pedro
+          de Osma en toda su extensión hasta el límite con la Av. Chorrillos.
+
+436.      Para guardar armonía y balance en el tráfico al cerrarse el paso por la Zona
+          Monumental, se propone, como ruta alternativa para el tráfico de automóviles que ahora
+          cruzan Barranco, que éste se derive por simple señalización, hacia la Vía de la Costa
+          Verde. Como actualmente esta vía Costa Verde tiene solo dos carriles por sentido, que
+          resultan insuficientes en el sector de la Jurisdicción de Barranco a las horas pico, será
+          necesario mejorar la capacidad vial en este sector crítico.
+
+437.      El plan de manejo del tráfico del Consultor, asigna a las avenidas San Martín y Grau
+          funciones de vías arteriales locales, formando un par vial a partir de la Av. El Sol hasta
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             36
+                                                                Distrito de Barranco
+          el Parque Municipal, formando un conjunto que deberá ser cuidadosamente diseñado y
+          reglamentado por la Municipalidad Distrital, porque ambas avenidas juegan una función
+          importante en cualquier proyecto de recuperación del ambiente para tener una
+          circulación ordenada y segura. Muy importante será tener un sistema de control de
+          tráfico que permita un eficiente manejo coordinado; incluyendo el diseño de las áreas a
+          ser utilizadas para los estacionamientos que se califiquen como viables de localizarse
+          en áreas públicas en esta zona monumental.
+
+438.      Es conocido que la localización de las zonas comerciales sobre vías principales,
+          originan deficiencias en el tráfico, sino se prevén soluciones adecuadas. En
+          consecuencia se hace necesario recomendar que la Municipalidad revise y reglamente
+          los usos del suelo y las normas de construcción y de apertura de negocios según los
+          sectores urbanos. Queremos en ese sentido destacar que en el en el plan de Manejo de
+          Tráfico propuesto por el Consultor, el Sector más comercial de la Av. Grau quedaría
+          localizado, en un tramo vial ideal para un desarrollo de calidad; y la intención del plan es
+          convertirlo en un destino y no en un lugar de paso.
+
+439.      El aspecto de integración del distrito contemplado en la propuesta se orienta a lograr
+          que las calles locales del distrito, tanto en las zonas Este como Oeste alcancen un
+          régimen de circulación vehicular controlado en un nivel de ordenamiento y seguridad del
+          tráfico. Este aspecto es sumamente importante para que la tranquilidad en las calles
+          locales, fortalezca la integración transversal lo que por las distancias moderadas dentro
+          del distrito, incentivará el uso del modo peatonal de viajar. Es decir se logrará así la
+          recuperación del antiguo ambiente de Barranco tan apreciado por el turismo local e
+          internacional. Adicionalmente y complementariamente se logrará un mayor uso de la
+          bicicleta como respuesta natural, especialmente relacionada a las actividades de
+          recreación de verano.
+
+440.      La propuesta del Consultor se resume en los siguientes documentos gráficos:
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             37
+                                                                Distrito de Barranco
+         ·              Plano N° 4.3.3.1.1       Red Vial. Alternativa 3. Consultor
+         ·              Plano N° 4.3.3.1.2       Sentidos de Tráfico. Alternativa 3. Consultor
+
+         4.3.3.2 Propuesta del Consultor
+441.     La Propuesta del Consultor conforma un plan de manejo del tráfico, con diversas
+         intervenciones y obras, necesarias para alcanzar lo que constituyen las metas de corto
+         plazo. Las intervenciones son en general de carácter vial y de control del tráfico, tales
+         como: mejoramientos de intersecciones, ampliando capacidades o reponiendo
+         soluciones previas que han sido eliminas, etc; como se enumera y/o explica a
+         continuación:
+
+442.     Mejoramiento de Intersecciones en la Av. Panamá
+         ·    Mejorar la Intersección Catalino Miranda (Ver Esquema N° 1)
+         ·    Remodelar para crear la intersección Aurelio Souza (Ver Esquema N° 2)
+         ·    Mejorar la intersección Prol. El Sol - Calle Heraud (Ver Esquema N° 3)
+         ·    Remodelar la intersección con Av. Piérola - Ovalo Balta (Ver Esquema N° 4)
+
+443.     Mejoramiento de la capacidad en la Vía Costa Verde.
+         ·    El Esquema N° 6 muestra un anteproyecto preliminar que permitirá resolver el
+              sector crítico de la Vía Costa Verde.
+
+444.      Peatonalización del área adyacente al Parque Municipales
+         Este proyecto comprende la peatonalización de una cuadra de la Av. Grau, adyacente al
+         Parque Municipal, de una cuadra de la Av. 28 de Julio entre Grau y Pedro de Osma y
+         de una cuadra de la Av. Pedro de Osma, entre 28 de Julio y la Av. San Martín; y
+         adicionalmente implantar un proyecto de "tráfico calmado" en las restantes 6 cuadras de
+         la Av. Pedro de Osma.
+
+
+
+
+   CLIENTE:              FINANCIMENTO:       CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                               Centro Histórico de Lima y el
+                                                                                                    TERCER INFORME
+                                                                                                                     38
+                                                                        Distrito de Barranco
+445.     Mejoramientos en la Av. Militar (Ver Esquema N° 5)
+         ·    Reabrir la intersección Independencia, recientemente cerrada;
+         ·    Construir un nuevo puente peatonal frente al colegio Indacochea
+
+446.      La construcción del puente es de necesidad ineludible y corresponde una acertada
+          propuesta de la Mesa de Diálogo entre la Comunidad de Barranco y Protransporte con
+          la que coincidimos totalmente. Se trata de la reposición del puente a la altura del
+          Colegio Mercedes Indacochea, sobre la Av. Bolognesi o sobre la Av. Militar, según sea
+          su mejor ubicación. De otro lado, la reapertura de la intersección entre las Avs.
+          Independencia y Militar, resuelve los problemas de los flujos de tráfico en un amplio
+          sector vial de los distritos de Barranco y de Chorrillos.
+
+447.      Es necesario también detallar que el diseño de un nuevo puente peatonal sobre la Av.
+          Militar, deberá tener rampas de acceso en cumplimiento de las normas, y en
+          consecuencia se requerirá que los accesos al nuevo puente dispongan de mayor área
+          para el desarrollo de un buen diseño. Esta necesidad solo podrá cubrirse si los
+          interesados directos en los beneficios que genera el proyecto, esto es la Escuela o la
+          Villa Militar, y del otro lado, el Colegio Indacochea; proporcionan dentro de sus territorios
+          interiores, las áreas necesarias. Estás deberán tener acceso desde las veredas para
+          mejorarlas porque actualmente son extremadamente angostas.
+
+448.      Servicio de Transporte "Urbanito"
+         Siendo Barranco un distrito de gran número de visitantes el Consultor coincide con la
+         propuesta de la Mesa de Diálogo y de TARYET S. L., para la implantación de un servicio
+         de transporte local. Consideramos que este servicio podría darse con 4 ó 6 vehículos de
+         tipo Coaster, en la ruta consignada en el Plano N° 4.3.3.2.C que muestra el Programa
+         de Intervenciones y Obras del Plan de Manejo de Tráfico de corto plazo propuesto por el
+         Consultor. El "Urbanito" tendrá por objetivo facilitar el acceso a los visitantes dentro de
+         la zona monumental; y facilitar el acceso hacia los transportes públicos.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:           Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                        Centro Histórico de Lima y el
+                                                                                             TERCER INFORME
+                                                                                                              39
+                                                                 Distrito de Barranco
+           4.3.3.3 Estimado de Costo de las Obras
+449.       El Cuadro N° 4.3.3.3.1 presenta el Costo Estimado de cada una de la intervenciones
+           conformantes del Plan de Manejo del Tráfico.
+
+                                                      Cuadro N° 4.3.3.3.1
+
+                                                                                                       P. Unitario           Sub Total
+                                 Descripción                       m        Cantidad
+                                                                                                           S/.                  S/-
+1.       Intersecciones por mejorar infraestructura y
+         semaforización:
+·        Av. Panamá                                                u             3                      250,000               750,000
+·        Ovalo Balta                                               u             1                      600,000               600,000
+·        Av. Escuela Militar                                       u             1                      150,000               150,000
+2.       Nuevas semaforizaciones (equipamiento y                   u             15                     150,000              2,250,000
+         canalización)
+3.       Puente y ampliación de veredas Av. Escuela                u              1                                          2,000,000
+         Militar y Colegio M. Indacochea
+4.       Ampliación Vial en Costa Verde                           u            1                       3,000,000             3,000,000
+5.       Ampliación de Zona Peatonalizada y Tráfico               m2         22,500                       100                2,225,000
+         Calmado (Parque Municipal)
+6.       Vehículos para transporte "Urbanito"                      u              6                     200,000          1,200,000
+         Total Estimado                                                                                                  12,275,000
+
+
+           4.3.3.4 Calendario estimado para la ejecución de las obras
+450.       Previendo que por la naturaleza de los temas, el programa deberá ser sometido a
+           consideración de varias entidades públicas, el calendario de ejecución ha sido diseñado
+           a partir de la aprobación del Plan y de la asignación de los recursos necesarios para su
+           implantación. Su configuración es la siguiente:
+
+
+                                          Descripción                                     Programación (meses)
+                                                                            1       2      3       4      5    6     7   8     9 10 11
+            1.            Elaboración de Estudios
+            2.            Contratación de las Obras (*)
+            3.            Ejecución de las obras
+            4.            Recepción y liquidación de obras
+           (*) Bajo la modalidad de concurso oferta o similar, basados en un anteproyecto constructivo oficial.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:          CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                Centro Histórico de Lima y el
+                                                                                                              TERCER INFORME
+                                                                                                                                         40
+                                                                           Distrito de Barranco
+         4.3.3.5 Políticas con acciones de mayor alcance
+451.     Todo plan de manejo de tráfico como el presentado, independientemente de la magnitud
+         o alcances de su programa, conceptualmente tiene como denominador común lograr
+         beneficios para la comunidad que signifiquen un mejoramiento de las condiciones del
+         tráfico y contribuir al mejoramiento y preservación del ambiente, como un medio que
+         contribuye al mejoramiento del nivel de vida y del desarrollo social y económico de la
+         población.
+
+452.      El Consultor quiere por ello señalar que un Plan de Manejo de Tráfico, con medidas de
+          sólo corto plazo, en cualquiera de las alternativas presentadas en este estudio, debe
+          considerarse como un primer paso necesario que no sustituye la necesidad permanente
+          que se tiene de realizar las otras acciones que corresponden a los planes y programas
+          de mayor alcance y trascendencia a implementarse en un mediano y largo plazo.
+
+453.      Nos referimos a programas de carácter más integral como podrían ser los que se
+          elaboren en un contexto metropolitano, como son: la estructuración de los sistemas de
+          transporte; la transformación del parque automotor de los transportes públicos para
+          darles eficiencia y seguridad; la configuración de una red de semaforización
+          sincronizada en el distrito; el mejoramiento del comportamiento de los conductores,
+          autoridades y de los usuarios en general, mediante políticas de educación y un eficiente
+          cumplimiento de las normas y reglamentos, con acciones punitivas eficaces en su
+          acción preventiva particularmente, etc.: y en el caso concreto de un distrito como
+          Barranco, con políticas de desarrollo urbano bien estructuradas con respuestas
+          concretas en el lado Oeste, para la preservación de su ambiente monumental y de
+          balneario de alta calidad; y del lado Oeste de promoción de un desarrollo urbano
+          armonioso y de calidad, con usos del suelo urbano mas variados, lo que requiere de
+          políticas y controles urbanos muy eficaces también.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                     Centro Histórico de Lima y el
+                                                                                          TERCER INFORME
+                                                                                                           41
+                                                              Distrito de Barranco
+454.      Estas acciones de mayor alcance, no forman parte de ninguna de las alternativas
+          presentadas que son materia de análisis y de evaluación comparativa en el presente
+          estudio.
+
+455.      Sin embargo, queremos en este informe llamar la atención sobre algunas acciones que
+          proponemos relacionadas fuertemente a soluciones de problema del tráfico, que
+          recomendamos para que la administración municipal las priorice como acciones
+          urgentes de mediano plazo a estudiarse de inmediato, que describimos brevemente a
+          continuación:
+
+         1.             Construcción de un puente peatonal y ciclovía que cruce sobre la quebrada de
+                        Armendáriz para integrar la vialidad de Barranco, en el nivel del malecón de la
+                        ciudad a lo largo del litoral; y la integración de ese puente con una o dos bajadas
+                        a las playas, para salvar a desnivel el cruce de la Vía Costa Verde en el que
+                        diariamente se aprecia que miles de personas a pie y en bicicleta arriesgan sus
+                        vidas salvando el desordenado tráfico vehicular de este sector de las playas,
+                        ante la indiferencia de las autoridades.
+
+         2.             En este mismo sector de las playas que parece ser muy valioso comercialmente
+                        se ha venido estrangulando la potencial capacidad del circuito de playas sin
+                        prever adecuadamente las necesidades del futuro y se ha logrado además
+                        destruir la belleza paisajista del ambiente marino que percibían los que bajaban
+                        por la quebrada de Armendáriz, en cualquier modo de viaje, con todo tipo de
+                        edificaciones; y hoy quienes por allí circulan tienen la impresión que circulan por
+                        un callejón incalificable que es la negación cualquier satisfacción paisajista.
+
+                        Creemos que se trata de un grave deterioro paisajista que las autoridades
+                        debieran considerar recuperar lo antes posible.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:      CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                             Centro Histórico de Lima y el
+                                                                                                  TERCER INFORME
+                                                                                                                   42
+                                                                      Distrito de Barranco
+         3.             Para culminar este acápite de proyectos de mediano plazo de ejecución
+                        queremos expresar nuestra coincidencia con el Informe TARYET y para contribuir
+                        con el desarrollo de la zona Este de Barranco, estamos adjuntando el Plano N°
+                        4.3.3.5.1 que presenta una propuesta de trazado para el realineamiento y
+                        empalme de la Av. De la Fuente Chávez, para que pueda empalmar
+                        directamente con el Jr. Venegas en el cruce con la Av. Surco (antes Roosvelt).
+                        El Plano muestra dos alternativas de trazo, para que la Municipalidad evalúe y
+                        defina, si coinciden con esta propuesta; y puedan proceder a la adquisición del
+                        derecho de vía necesario para su ejecución.
+
+
+
+         4.4            MICROMODELACIÓN
+
+         4.4.1 Microsimulaciones analizadas
+
+456.      Para la evaluación de las alternativas, se ha utilizado la información de aforos
+          vehiculares realizados por el Consultor del presente estudio en el mes de junio del
+          presente año.
+
+457.      Los principales resultados del modelo de microsimulación son:
+
+458.      Para la evaluación de tránsito de cada una de las alternativas, se empleó el software
+          Synchro 7.0. Se creó una red vial para el Distrito de Barranco compuesta por más de 80
+          intersecciones, identificándose tanto las intersecciones semaforizadas como las no
+          semaforizadas, ingresándose el sentido de tráfico de las vías y su sección de calzada.
+          En las intersecciones semaforizadas se introdujo los tiempos del ciclo semafórico y su
+          número de fases. Cuando las alternativas evaluadas comprendían cambios en el
+          sentido del tráfico, se volvieron a calcular los tiempos del ciclo en las intersecciones
+          implicadas.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:     CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                           Centro Histórico de Lima y el
+                                                                                                TERCER INFORME
+                                                                                                                 43
+                                                                    Distrito de Barranco
+459.      La evaluación se realizó para la hora punta de la mañana de un día laborable, por ser
+          este período, el de mayor tráfico en el día. Se introdujeron los flujos vehiculares
+          direccionales diferenciando los vehículos ligeros de los pesados. Entre estos están los
+          buses de transporte público urbano de pasajeros y el transporte de carga. En las
+          intersecciones en donde se producen los puntos de parada de los vehículos de
+          transporte público, se ingresó en el software el factor de paradero.
+
+460.      Para los resultados de evaluación de las alternativas se empleó los reportes del modelo
+          Simtraffic del software Synchro, dado que sus valores se asemejan de manera muy
+          aproximada con las características del tráfico de Barranco observadas en campo. Los
+          reportes muestran el promedio de 5 corridas del modelo y se incluyeron como
+          indicadores: tiempos de viaje, demoras, velocidades, consumo de combustible y
+          emisiones.
+
+         4.4.2 Asignaciones de tráfico para las alternativas.
+
+461.      Se evaluaron dos alternativas diferentes al año base: la primera denominada Alternativa
+          de la Comunidad (Alternativa 2) y la segunda, Alternativas del Consultor (Alternativa 3).
+          A continuación se describen los supuestos empleados en la asignación del tráfico y,
+          finalmente, el resultado de la modelación.
+
+         4.4.2.1 Alternativa 2 de la comunidad
+462.     Esta alternativa consiste primordialmente en trasladar las rutas de transporte público de
+         pasajeros que atraviesan Barranco de sur a norte, (hacia Miraflores), derivándolas de su
+         actual recorrido por la Av. Grau, hacia la Av. Lima. Luego retoman su itinerario actual
+         hacia la Av. Grau por la Av. El Sol. Otras rutas continuarán por la Av. República de
+         Panamá. Siendo 170 vehículos de transporte público en la hora punta pertenecientes a
+         14 rutas, que serían derivados de la Av. Grau hacia la Av. Lima. El transporte particular
+         no tendrá ninguna variación respecto a la situación actual.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            44
+                                                               Distrito de Barranco
+         4.4.2.2 Alternativa 3 del Consultor
+463.     En esta propuesta, se eliminan las rutas de transporte público de las Avenidas San
+         Martín y Grau. Las rutas que discurren de norte a sur, hacia Chorrillos, por la Av. San
+         Martín son retiradas hacia la Av. Lima, para lo cual se le cambia el sentido de
+         circulación a esta vía. Este cambio involucra a 18 rutas que tienen una frecuencia de
+         230 vehículos en la hora punta. Las 14 rutas que transitan de sur a norte (hacia
+         Miraflores) por la Av. Grau, serían trasladadas hacia la Av. Manuel de la Fuente.
+
+464.      En cuanto al transporte particular, esta alternativa plantea que la zona central de
+          Barranco, no sea utilizada por los conductores que tienen como destino los distritos del
+          sur y Chorrillos. Para esto se propone, restringir la circulación de vehículos motorizados
+          en las Avenidas San Martín y Grau, únicamente para residentes y visitantes.
+
+465.      Los conductores particulares que actualmente transitan por la Av. Grau, hacia el norte,
+          podrán continuar por la Av .Bolognesi para luego volver a ingresar a la Av. Grau por la
+          Calle Santa Rosa. Este flujo es de aproximadamente 450 vehículos por hora, de los
+          cuales el 80% optará por seguir por la Av. Bolognesi y el 20%, optará por tomar la Costa
+          Verde.
+
+466.      Los conductores particulares que actualmente circulan de norte a sur por la Av. San
+          Martín con destino a Chorrillos, se asume que mayoritariamente podrán optar por tomar
+          el Circuito de Playas de la Costa Verde. Actualmente circulan en hora punta por la Av.
+          San Martín 1,100 vehículos en promedio en hora punta. Se asumió que
+          aproximadamente 300 de estos vehículos serán de residentes o visitantes y seguirán
+          circulando por las Avenidas San Martín y Grau. Del tráfico restante se estimó que
+          aproximadamente 600 vehículos opten por la Costa Verde y 200 vehículos se derivarán
+          hacia otras vías urbanas diferente de las anteriores (por ejemplo las vías de Surco o la
+          Panamericana Sur).
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            45
+                                                               Distrito de Barranco
+         4.5            RESULTADOS DE MODELACIÓN
+
+         4.5.1 Situación Actual ­ Alternativa 1
+
+467.      La red vial actual en general de Barranco tiene una fluidez del tránsito aceptable con
+          una velocidad promedio en la hora punta de 25 km/h. Esto debido a que el tráfico mayor
+          del Distrito se concentra en algunas avenidas principales longitudinales y el resto de la
+          vialidad se compone por vías locales de poco o mediano tráfico. Reflejo de esto, es la
+          baja densidad de intersecciones semaforizadas en el Distrito. Las avenidas principales
+          tienen velocidades promedio de 22 km/h, en tanto las vías locales llegan en promedio a
+          27 km/h.
+
+         4.5.2 Alternativa 2 de la Comunidad
+
+468.      Esta alternativa, tiene un desempeño del tráfico muy similar a la situación actual,
+          incrementando ligeramente los tiempos de viaje, pero sin variar significativamente la
+          velocidad promedio que se mantiene en 25 km/h para toda la red evaluada.
+
+         4.5.3 Alternativa 3 del Consultor
+
+469.      Con esta alternativa se propone distribuir de mejor manera el recorrido de las rutas de
+          transporte público hacia la zona Este del distrito que cuenta con población con menos
+          recursos económicos y que actualmente tienen una pobre cobertura de rutas. Si bien
+          esto, traerá que en esta zona se incremente el tráfico respecto a la situación actual,
+          pero sin llegar a deteriorar sus niveles de servicio. En general, esta zona tendrá
+          velocidades promedio de 24 km/h (contra 27 km/h actualmente) que corresponden a un
+          buen nivel de servicio C para arterias urbanas. La velocidad promedio para toda la red
+          vial evaluada será de 21 km/h.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            46
+                                                               Distrito de Barranco
+470.      Los Diagramas 4.1, 4.2 y 4.3 presentan la información modelada para la comparación
+          entre las Alternativas propuestas Modeladas.
+
+471.      A continuación se resume los indicadores de tránsito para la situación actual y las dos
+          alternativas evaluadas.
+
+                                        Indicadores de Microsimulación
+
+
+                                                                Indicadores
+                        Descripción
+                                           Alternativa Base     Alternativa 2                    Alternativa 3
+              Total delay (H)                      58                 63                              72
+              Delay/veh (Seg)                     86                 94                               94
+              Travel distance (Km)               2781               2815                             2473
+              Travel time (H)                    123                 128                              130
+              Avg speed (Kph)                     25                 25                               21
+              Fuel used (L)                       308                315                              297
+              CO emission                       55575               59538                            60744
+
+
+
+
+   CLIENTE:             FINANCIMENTO:     CONSULTOR:          Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                         Centro Histórico de Lima y el
+                                                                                              TERCER INFORME
+                                                                                                                 47
+                                                                  Distrito de Barranco
+                                                                                  Capítulo 5
+
+
+                                     Evaluación de Alternativas
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   48
+                                                      Distrito de Barranco
+         Capítulo 5
+
+
+         5.             EVALUACION DE ALTERNATIVAS
+
+501.      La evaluación multicriterio es una metodología ampliamente utilizada para apoyar el
+          proceso de toma de decisiones, la cual permite combinar las distintas dimensiones,
+          objetivos, actores y escalas que se hallan envueltas en un proceso decisorio sin
+          sacrificar la calidad, confiabilidad y consenso de los resultados.
+
+502.      El proceso de decisión implica la comparación entre proyectos, estrategias y/o
+          alternativas. Para ello se realizan mediciones y/o identifican indicadores que permitan
+          aplicar los criterios de comparación, de tal forma que se puedan establecer preferencias
+          entre ellos. Las alternativas se comparan bajo una escala de evaluación común y
+          estándar.
+
+503.      Para la valoración, se utilizará el método de criterio múltiple para la toma de decisiones
+          que permite la evaluación y priorización de las alternativas. Este método permite
+          analizar y vincular datos de tipo cualitativo y cuantitativo y posee la ventaja de dar una
+          visión más precisa y adquirir un mayor grado de comprensión del fenómeno en estudio.
+          La posibilidad de una multiplicidad de observaciones permite un análisis más acabado
+          del problema y una mayor variedad de perspectivas de análisis.
+
+504.      Este método ofrece una categorización de ellos con base en un conjunto de criterios
+          identificados. La ecuación que se presenta a continuación muestra la fórmula en la que
+          se basa el método.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            49
+                                                               Distrito de Barranco
+                                                         nk
+                                                Aj =    w n
+                                                         k =1
+                                                                k kj
+
+
+
+         Donde:
+         Aj     =                   Puntaje de la alternativa j.
+         Wk     =                   Ponderación o peso del criterio k-ésimo
+          kj    =                   valor normalizado de criterio k, asignado a la alternativa j, respecto al
+                                    objetivo.
+
+         5.1            METODOLOGÍA PARA EL ANÁLISIS
+
+505.      La metodología consiste en aplicar los siguientes pasos:
+
+         ·          Definir el objetivo e identificar la secuencia de intervención en ambos distritos.
+         ·          Designar el grupo o equipo técnico que interviene en la definición de los criterios.
+         ·          Elaboración de los criterios que se incluirán en el análisis multicriterio y la forma de
+                    agruparse.
+         ·          Conceptuar y seleccionar los atributos o criterios y la forma de cuantificarlo o
+                    calificarlo.
+         ·          Determinar el peso relativo de cada criterio.
+         ·          Evaluación de cada alternativa.
+
+506.      A continuación se explica con mayor detalle, los diferentes pasos:
+
+         5.1.1 Definir objetivo
+
+507.      La definición del objetivo constituye el aspecto más importante durante esta etapa del
+          análisis multicriterio. Este debe ser conceptuado y definido de forma que todos los que
+
+
+
+
+   CLIENTE:             FINANCIMENTO:            CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                                  Centro Histórico de Lima y el
+                                                                                                       TERCER INFORME
+                                                                                                                        50
+                                                                           Distrito de Barranco
+          participa tengan una idea clara de su comprensión. Identificando la secuencia en que se
+          espera será abordado el problema del Plan de Manejo de Tráfico en el Centro de Lima y
+          el Distrito de Barranco, como consecuencia de la entrada en operación del COSAC I.
+
+         5.1.2 Designación del equipo técnico
+
+508.      El análisis multicriterio puede ser elaborado por un grupo multidisciplinario, el cual
+          orientado por un facilitador, desarrollará las diversas etapas de definición de objetivos y
+          escenarios, así como la asignación de pesos específicos para cada uno de los atributos
+          o criterio.
+
+509.      El grupo multidisciplinario que participó en este proceso, fueron los que corresponde al
+          equipo Consultor en particular Cal y Mayor y Asociados, Los expertos han participado
+          en proyectos similares en diferentes proyectos de Plan de Manejo de Tráfico tanto la
+          ciudad de Bogotá (Colombia), Ciudad de México (México) y en Panamá (Panamá)
+
+         5.1.3 Base para elaboración de los criterios
+
+510.      Para la elaboración de los criterios, se debe considerar los siguientes aspectos:
+
+         ·              Los criterios deben definirse a partir del conocimiento del tema que está siendo
+                        tratado y el objetivo a ser alcanzado.
+         ·              Deben contemplar todos los puntos de vista expresados por los miembros de
+                        cada grupo.
+         ·              No deben ser redundantes entre sí (criterios correlacionados).
+         ·              Deben formar un conjunto coherente que conduzca a resultados plausibles e
+                        indiscutibles.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:     CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                            Centro Histórico de Lima y el
+                                                                                                 TERCER INFORME
+                                                                                                                  51
+                                                                     Distrito de Barranco
+          5.1.4 Conceptualización y selección de los criterios
+
+511.       Una vez que se hayan definido los criterios; estos son expuestas y conceptualizados
+           adecuadamente. Esto debe pasar por identificar como estos criterios impactan en la
+           toma de decisión de las alternativas a analizarse, en lo posible debe ser un criterio no
+           tan correlacionado1 con los otros criterios, en todo caso debe ser discutido y
+           consensuado entre el grupo de trabajo.
+
+512.       En tal sentido los criterios que se considera son los siguientes:
+
+513.       Políticas de Movilidad.- El punto de partida consiste en fijar un conjunto de políticas,
+           en este caso relacionado con la movilidad para el área involucrada.
+
+          ·              Accesibilidad al transporte público dentro de la reconfiguración de la red vial y
+                         restructuración de las rutas de transporte público convencional local y de paso.
+          ·              Mejor articulación entre la zona Este y Oeste del Distrito de Barranco mediante
+                         el diseño de rutas de transporte público tipo urbanito que mejora dicha
+                         conectividad, también mejora la accesibilidad a las estaciones del Sistema
+                         COSAC I.
+          ·              Descongestión de tráfico vehicular: desvío de viajes que no tienen como Origen
+                         o Destino el Distrito de Barranco, mediante la mejora de vías circundantes que
+                         permitan esta reorientación del flujo.
+          ·              Reducción/Eliminación de conflictos peatón ­ vehículos en el área monumental
+                         de Barranco mediante el planteamiento de zonas exclusivas peatonales y la
+                         instalación de nuevos semáforos.
+          ·              Incremento/mejoramiento de la seguridad vial en el recorrido por la reducción de
+                         la cantidad de vehículos en el Distrito de Barranco.
+
+1
+ Dentro de los criterios de correlación entre variables, si el índice de coeficiente de correlación de
+Pearson es mayor de 0.9 como correlación severa y que se puede elegir una de las dos variables
+correlacionadas. Sin embargo, si es menor a 0.9 es considerada una correlación moderada o "no tan
+correlacionada" y se puede considerar ambas variables.
+
+
+
+
+    CLIENTE:             FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+               Banco
+               Mundial                                            Centro Histórico de Lima y el
+                                                                                                  TERCER INFORME
+                                                                                                                   52
+                                                                      Distrito de Barranco
+         ·              Promoción de la circulación peatonal y sistemas alternativos al vehículo
+                        privado/bicicletas y transporte público.
+         ·              Protección/valoración del patrimonio histórico /Urbano ­ Arquitectónico y
+                        Monumental
+
+514.      Medidas de Gestión del Tráfico.- Tiene por objeto optimizar la red vial, tomando en
+          cuenta la jerarquía vial y alternativa urbanística óptima (circulación e intersecciones).
+
+         ·              Mejora de capacidad vial al mejorar las intersecciones.
+         ·              Moderación de velocidad se refiere a incorporar más intersecciones
+                        semaforizadas y medir la velocidad media en la red de análisis.
+
+515.      Medidas en Impacto en la demanda.- Considera el impacto de la reducción del tráfico
+          vehicular de paso por el Distrito de Barranco. Se refiere al desvío de los vehículos
+          ligeros (auto privado, taxis y colectivos), mientras que el transporte público sólo se
+          reordena dentro del mismo distrito para mejorar la accesibilidad.
+
+516.      Beneficios Sociales.- se refieren a:
+
+         ·              Ahorro en reducción de accidentes de tráfico (vehículos-kilómetros).
+         ·              Ahorro en tiempos de viajes (tiempo total de viajes).
+         ·              Ahorro en costos de operación (consumo de combustible)
+         ·              Beneficios ambientales (Emisión de CO, CO2 y Pb).
+
+517.      Inversión.- Es la estimación del costo de inversión de las intervenciones físicas en las
+          alternativas.
+
+         ·              Ampliación de circuitos peatonales y ciclovías.
+         ·              Implementación del Urbanito.
+         ·              Vías de evitamiento.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                             Centro Histórico de Lima y el
+                                                                                                  TERCER INFORME
+                                                                                                                   53
+                                                                      Distrito de Barranco
+         ·              Obras viales varios (mejoramiento de la Av. Costa Verde, 4 intersecciones,
+                        puentes peatonales).
+
+         5.1.5 Determinación de los pesos de los criterios
+
+518.      Para la determinación de los pesos de los criterios, se recurrió a los especialistas dentro
+          del grupo consultor, quienes de acuerdo a su experiencia en este tema realizaron la
+          evaluación y aportaron su percepción de la valoración de cada criterio.
+
+         5.1.6 Calificación
+
+519.      Los criterios definidos de calificación son aplicados por el grupo evaluador aplicándolos
+          personalmente a las tres propuestas alternativas, tomándolos en consideración bajo
+          conceptos integrales como son:
+
+         a.             Seguridad/Confort en la movilidad peatonal.
+         b.             Permeabilidad y accesibilidad peatonal en el área.
+         c.             Permeabilidad y accesibilidad vehicular en el área.
+         d.             Protección/Valoración patrimonial: reducción de contaminaciones diversas.
+         e.             Calidad estética/espacial en el recorrido.
+         f.             Articulación/integración proyectos/iniciativas en curso.
+         g.             Medidas de gestión de tráfico en la red vial.
+         h.             Mejoramiento de intersecciones críticas.
+         i.             Implementación de peatonalización de calles
+         j.             Optimización del diseño geométrico de intersecciones críticas.
+         k.             Cambio de sentido de jirones congestionados.
+         l.             Optimización del sistema peatonal, consiste en: reducir un carril vehicular
+         m.             Intervención en gestión de la demanda:
+                        · Restricción de ingresos al Distrito de Barranco.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:      CONSULTOR:            Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                            Centro Histórico de Lima y el
+                                                                                                 TERCER INFORME
+                                                                                                                  54
+                                                                     Distrito de Barranco
+         n.             Economías sociales que incluyen la evaluación de:
+                        · Reducción de tiempos de viaje
+                        · Reducciones en los costos de accidentes de tránsito
+
+         5.1.7 Evaluación de las alternativas
+
+520.      La valoración de los criterios, puede ser cuantitativa o cualitativa. Entonces, para poder
+          aplicar la metodología es necesario homogenizar y efectuar la sumatoria por lo que es
+          pertinente la normalización de la calificación de cada criterio.
+
+521.      Obtenidos los pesos de cada criterio y la calificación normalizada, el paso siguiente
+          consiste en comparar para cada escenario con el "valor de cada alternativa" que se
+          obtiene.
+
+522.      Las alternativas a considerar para el Distrito de Barranco son:
+
+
+         · Alternativa 1                Escenario de Línea de Base:                       Situación      actual con el
+                                        Metropolitano operando;
+         · Alternativa 2                Propuesta presentada por la comunidad: Específicamente la
+                                        propuesta para corto plazo presentada por SALVEMOS
+                                        BARRANCO; y
+         · Alternativa 3                Propuesta del Consultor.
+
+
+
+         5.1.8 Homologación de la calificación de los criterios
+
+523.      Cada uno de los criterios, son calificados en diferentes magnitudes. Cuantitativo o
+          escalar que luego no se pueden sumar. Entonces, será necesario estandarizar estos
+          valores y sumarlos para tener una medida única.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:       CONSULTOR:             Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                              Centro Histórico de Lima y el
+                                                                                                   TERCER INFORME
+                                                                                                                     55
+                                                                       Distrito de Barranco
+524.      Esto es posible por medio de una normalización de los valores de cada criterio a través
+          de medidas de tendencia central, de este modo los datos serán comparables.
+
+525.      Para las variables cualitativas, la calificación se realizará de la siguiente manera: Muy
+          alta (5), Alta (4), Normal (3), Baja (2) y Muy baja (1). Esto se refiere a qué tanto esta
+          variable contribuye en lograr el objetivo. Es decir, Muy alta (5) contribuye mucho en el
+          logro del objetivo y Muy baja (1) contribuye muy poco con el objetivo.
+
+526.      Para esto se debe calcular la media y la desviación estándar de cada criterio. Es
+          importante recordar que estamos trabajando con la población y no con una muestra de
+          proyectos.
+
+527.          Las formulas para la media y la desviación estándar son las siguientes:
+
+
+
+                xj =
+                        x          j ,i
+                                                               Sj =
+                                                                       (x   j ,i   - xj   )
+                                                                                          2
+
+
+                               n                                              n
+
+
+
+         Donde:
+         xj  =                             Es la media aritmética del criterio j-ésimo.
+              x j ,i =                     Es el i-esimo dato del criterio j-ésimo.
+              Sj        =                  Es la desviación estándar del criterio j-ésimo.
+         n      =                           Es el número de alternativas.
+         j=1,...,m                        Donde m es el m-ésimo criterio, que dispone de información de una
+                                          alternativa.
+         i=1,...,n.
+
+
+
+
+   CLIENTE:                 FINANCIMENTO:              CONSULTOR:                    Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                                                Centro Histórico de Lima y el
+                                                                                                                     TERCER INFORME
+                                                                                                                                      56
+                                                                                         Distrito de Barranco
+           5.2              EVALUACIÓN DE LAS ALTERNATIVAS
+
+528.        Las alternativas de análisis, fueron analizadas y explicadas en el acápite 4.3. Para la
+            valoración de las alternativas, estas se realizarán respecto a cuanto aporta al objetivo
+            del proyecto.
+
+529.        En cada criterio de evaluación, también se acompañará su evaluación normalizada para
+            la comparación final.
+
+           5.2.1 Evaluación de alternativas según políticas de movilidad.
+
+530.        Este criterio se califica mediante un valor cualitativo, que está relacionado con los
+            objetivos del estudio. Es decir, a mayor valor está más relacionado con el logro del
+            objetivo.
+
+531.        Esta calificación cualitativa es realizada por el grupo consultor y que se resume en la
+            tabla siguiente:
+
+                          Tabla 5.2.1.1 Calificación de los criterios de Políticas de Movilidad
+
+Nro. Criterios                                                  Calificación   Alternativa Base Alternativa 2 Alternativa 3         Promedio   Desv.Standard
+ 1.1 Accesibilidad al transporte público                         Cualitativo         2.50           3.00          4.00                 3.17        0.76
+ 1.2 Mejor articulación entre la zona Este y Oeste               Cualitativo         3.00           4.00          5.00                 4.00        1.00
+     Descongestión del tráfico vehicular: desvío  de viajes 
+ 1.3 que no tienen como Origen o Destino el Distrito de          Cualitativo        1.00                 3.00              5.00       3.00         2.00
+     Barranco.
+     Reducción/eliminación de conflictos peatón ­ vehículos 
+ 1.4                                                             Cualitativo        2.00                 3.00              5.00       3.33         1.53
+     en el área monumental de Barranco.
+     Incremento / mejoramiento de la seguridad vial en el 
+ 1.5                                                             Cualitativo        1.00                 2.50              5.00       2.83         2.02
+     recorrido.
+     Promoción de la circulación peatonal y sistemas 
+ 1.6 alternativos al vehículo privado/ bicicletas y transporte  Cualitativo         1.00                 3.00              5.00       3.00         2.00
+     público.
+     Protección/ valoración del patrimonio histórico / Urbano 
+ 1.7                                                             Cualitativo        1.00                 2.00              5.00       2.67         2.08
+     ­ Arquitectónico y Monumental.
+Fuente: Elaboración del consultor.
+
+
+
+
+     CLIENTE:               FINANCIMENTO:             CONSULTOR:                           Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                                    Centro Histórico de Lima y el
+                                                                                                                              TERCER INFORME
+                                                                                                                                                          57
+                                                                                               Distrito de Barranco
+          Tabla 5.2.1.2 Valores normalizados de los criterios de Políticas de Movilidad.
+
+Nro. Criterios                                                  Calificación               Linea Base             Alternativa 2 Alternativa 3
+ 1.1 Accesibilidad al transporte público                         Cualitativo                  0.88                    0.22          1.09
+ 1.2 Mejor articulación entre la zona Este y Oeste               Cualitativo                  1.00                    0.00          1.00
+     Descongestión del tráfico vehicular: desvío  de viajes 
+ 1.3 que no tienen como Origen o Destino el Distrito de          Cualitativo                  1.00                    0.00          1.00
+     Barranco.
+     Reducción/eliminación de conflictos peatón ­ vehículos 
+ 1.4                                                             Cualitativo                  0.87                   0.22           1.09
+     en el área monumental de Barranco.
+     Incremento / mejoramiento de la seguridad vial en el 
+ 1.5                                                             Cualitativo                  0.91                   0.16           1.07
+     recorrido.
+     Promoción de la circulación peatonal y sistemas 
+ 1.6 alternativos al vehículo privado/ bicicletas y transporte  Cualitativo                   1.00                    0.00          1.00
+     público.
+     Protección/ valoración del patrimonio histórico / Urbano 
+ 1.7                                                             Cualitativo                  0.80                   0.32           1.12
+     ­ Arquitectónico y Monumental.
+Fuente: Elaboración del consultor.
+
+
+
+           5.2.2 Evaluación de medidas de gestión de tráfico
+
+532.        Para la evaluación de este criterio, se utiliza la siguiente forma de calificación:
+
+           ·         Mejora de la capacidad vial, que son ampliaciones de vialidades y mejora de intersecciones
+                     (de infraestructura), explícitamente esto no está microsimulado siendo su calificación en
+                     forma cualitativa a cargo del grupo Consultor.
+           ·         Moderación de velocidad (Velocidad promedio - km/hr), es obtenido a partir de los
+                     resultados de la velocidad promedio del Simtraffic.
+
+
+                   Tabla 5.2.2.1 Calificación del criterio de medidas de gestión de tráfico.
+
+Medidas de gestión de tráfico                       Calificación   Linea Base   Alternativa 2 Alternativa 3           Promedio   Desv.Standard
+Mejora de capacidad vial                            Cualitativo        1              2            5                    2.67         2.08
+Moderación de velocidad (Velocidad promedio  km/hr) Cuantitativo      25              25                  21            23.67        2.31
+Mejora de capacidad  vial Normalizado                                0.80           0.32                1.12
+Velocidad promedio Normalizado                                       0.58           0.58                1.16
+
+Fuente: Elaboración del consultor.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:            CONSULTOR:                    Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                           Centro Histórico de Lima y el
+                                                                                                                       TERCER INFORME
+                                                                                                                                                 58
+                                                                                      Distrito de Barranco
+           5.2.3 Evaluación de medidas de gestión de demanda
+
+533.        Tráfico Desviado que se espera como resultado de las alternativas planteadas, este
+            desvío está orientado mayormente al flujo de paso que actualmente utiliza las vías del
+            Distrito de Barranco y que van hacia el Sur o vienen desde el Sur.
+
+534.        Para la calificación de esta medida, se ha seleccionado mediante estimaciones
+            manuales que se han realizado respecto al tráfico desviado de los observados en el
+            trabajo de campo.
+
+                 Tabla 5.2.3.1 Calificación del criterio de medidas de gestión de demanda
+
+Medias de gestión de demanda                    Calificación   Linea Base     Alternativa 2 Alternativa 3      Promedio    Desv.Standard
+Tráfico Desviado (Flujo desviado  vehículos)    Cuantitativo              0                0          690           230.00         398.37
+Tráfico Desviado Normalizado                                           0.58           0.58           1.15
+
+Fuente: Elaboración del consultor
+
+
+           5.2.4 Beneficios sociales
+
+535.        Para medir los beneficios sociales como en los casos precedentes, se utiliza reportes
+            finales de la microsimulación en Simtraffic de cada alternativa y una variable proxi
+            respectivamente.
+
+           5.2.4.1. Ahorro por reducción de accidentes de tráfico
+536.       Para medir el impacto en los accidentes de tráfico se ha considerado la variable
+            "distancia total viajada (vehículos*km)", es decir los kilometrajes recorridos de todos los
+            vehículos, dentro de la zona de estudio.
+
+
+           Los resultados se muestran a continuación.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:        CONSULTOR:                      Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                        Centro Histórico de Lima y el
+                                                                                                               TERCER INFORME
+                                                                                                                                            59
+                                                                                   Distrito de Barranco
+                  Tabla 5.2.4.1 Calificación del criterio reducción de accidentes de tráfico
+
+Ahorro en reducción de accidentes de tránsito       Calificación   Linea Base    Alternativa 2 Alternativa 3       Promedio     Desv.Standard
+Vehiculos * kilómetros (Base  Calibrado) kms        Cuantitativo        2,780.70      2,780.70      2,780.70
+Vehiculos * kilómetros por alternativa (Kms)        Cuantitativo        2,780.70      2,815.80      2,472.50
+Ahorro en Vehiculos*Kilómetros (kms)                Cuantitativo            0.00         35.10       308.20             91.03          188.89
+Reducción de accidentes de tránsito Normalizado                            0.48          0.67           1.15
+
+Fuente: Elaboración del consultor.
+
+
+           5.2.4.2.       Ahorro en tiempo de viaje.
+537.       Para medir este impacto, realizaremos la comparación de "tiempos de viaje total (hr)" de
+           todos los vehículos dentro del área de estudio.
+
+538.        La comparación se realiza respecto al año base calibrada y las alternativas que se
+            evalúan.
+
+                                            Tabla 5.2.4.2 Ahorro en tiempos de viajes
+
+ Ahorro en tiempo de viajes                         Calificación   Linea Base    Alternativa 2 Alternativa 3       Promedio     Desv.Standard
+Tiempo de viaje total(Calibrado Hr)                 Cuantitativo          122.50        122.50        122.50
+Tiempo de viaje total(por alternativa Hr)           Cuantitativo          122.50        127.60        130.30
+Ahorro en tiempos de viajes (hr)                    Cuantitativo            0.00          5.10          7.80             4.30             3.96
+Ahorro en tiempos de viajes Normalizado                                     1.09          0.20         0.88
+
+Fuente: Elaboración del consultor.
+
+
+           5.2.4.3.      Ahorro en costos de operación.
+539.       El ahorro de costos de operación, se utilizará una variable proxi, que viene hacer el
+           "consumo de combustible (lts)" de todos los vehículos dentro de la zona de estudio.
+
+540.        Este cálculo se realiza mediante las siguientes ecuaciones:
+
+           F          = (Distancia de viaje)*k1 + (Demora total)*k2 + (Paradas)*k3
+
+
+
+
+     CLIENTE:             FINANCIMENTO:            CONSULTOR:                     Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                            Centro Histórico de Lima y el
+                                                                                                                   TERCER INFORME
+                                                                                                                                                 60
+                                                                                       Distrito de Barranco
+           k1 = 0.075283 ­ 0.0015892*(Velocidad) + 0.000015066*(Velocidad)2
+           k2 = 0.7329
+           k3 = 0.0000061411*(Velocidad)2
+
+           Donde:
+
+           F                  =                    Consumo de combustible en galones.
+           Distancia de viaje =                    Distancia total de viaje de todos los vehículos de la red
+                                                   (millas).
+           Paradas                          =      Demora total de todos los vehículos en la red (hrs)
+           Velocidad                        =      Velocidad de recorrido en millas/hora
+
+541.        En la tabla siguiente, se muestra el consumo de combustible en litros.
+
+                                          Tabla 5.2.4.3 Ahorro en costos de operación
+
+Ahorro en combustible (Costo de Operación)         Calificación   Linea Base    Alternativa 2 Alternativa 3       Promedio   Desv.Standard
+Consumo de combustibe (Calibrado) (Lts)            Cuantitativo          307.70        307.70        307.70
+Consumo de combustibe (por alternativa) (Lts)      Cuantitativo          307.70        314.80        296.60
+Ahorro en consumo de combustibe (Lts)              Cuantitativo            0.00          7.10        11.10         1.33          9.17
+Ahorro en consumo de combustibe Normalizado                               0.15          0.92           1.07
+
+Fuente: Elaboración del consultor.
+
+
+           5.2.4.4.       Ahorro en Emisiones de CO
+542.       Las emisiones de gases y partículas que expulsan los vehículos motorizados, son una
+           de las externalidades que genera el sistema de transportes en el medio ambiente.
+
+543.        Gases como SOx, el NOx y el CO generan múltiples complicaciones en la salud
+            humana, si su concentración en la atmósfera alcanza ciertos niveles.
+
+544.        El CO2 es responsable del efecto invernadero. En la tabla siguiente se considera estas
+            emisiones para medir el impacto en el medio ambiente.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:           CONSULTOR:                     Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                           Centro Histórico de Lima y el
+                                                                                                                  TERCER INFORME
+                                                                                                                                             61
+                                                                                      Distrito de Barranco
+                                          Tabla 5.2.4.4 Ahorro en emisiones de CO
+
+Ahorro en Emisiones de CO                              Calificación   Linea Base    Alternativa 2 Alternativa 3       Promedio    Desv.Standard
+Emisiones de CO (Calibrado) (gr)                       Cuantitativo       55,575.00     55,575.00     55,575.00
+Emisiones de CO (por alternativa) (gr)                 Cuantitativo       55,575.00     59,538.00     60,744.00
+Ahorro en Emisiones de CO (gr)                         Cuantitativo            0.00      3,963.00      5,169.00       3,044.00       2,704.27
+Ahorro en Emisiones de CO Normalizado                  Cuantitativo            1.13         0.34          0.79
+
+Fuente: Elaboración del consultor.
+
+
+           5.2.4.5.      Inversiones
+545.       Las inversiones, fueron cuantificadas para cada alternativa de acuerdo al capítulo 4.3
+           "Estimación de costos de las alternativas".
+
+           Los resultados se muestran en la siguiente tabla
+
+                                           Tabla 5.2.4.5 Inversión por alternativa
+
+Inversión                                              Calificación   Linea Base    Alternativa 2 Alternativa 3       Promedio     Desv.Standard
+Ampliación de circuitos peatonales.                    Cualitativo             0.00              0    2,225,000            741,667      1,284,604
+Implementación del Urbanito                            Cualitativo             0.00     1,200,000     1,200,000            800,000        692,820
+Vías de Evitamiento                                    Cualitativo             0.00              0    3,000,000          1,000,000      1,732,051
+Mejora de intersecciones semaforizadas y otros         Cualitativo             0.00     2,000,000     8,200,000          3,400,000      4,275,512
+Ampliación de circuitos peatonales  Normalizado                                0.58          0.58         1.15
+Implementación del Urbanito  Normalizado                                       1.15         0.58           0.58
+Vías de Evitamiento  Normalizado                                               0.58          0.58          1.15
+Mejora de intersecciones semaforizadas  Normalizado                            0.80          0.33          1.12
+
+Fuente: Elaboración del consultor.
+
+
+
+           5.3            EVALUACIÓN MULTICRITERIO DE ALTERNATIVAS
+
+546.        Para continuar con la evaluación, se considerar únicamente los valores normalizados y
+            se presentan para la evaluación final de las alternativas.
+
+           5.3.1 Ponderación de los criterios
+
+547.        Para la realización de la ponderación, se realizó mediante el aporte de varios expertos
+            de la firma Consultora y cuyos resultados se muestran a continuación.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:               CONSULTOR:                     Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                               Centro Histórico de Lima y el
+                                                                                                                      TERCER INFORME
+                                                                                                                                                    62
+                                                                                          Distrito de Barranco
+                                                    Tabla 5.3.1.1 Pesos de los criterios
+
+   Nro. Criterios                                                                 Calificación Experto1 Experto2 Experto3 Experto4 Experto5 Experto6 Experto7
+ 1. POLITICAS DE MOVILIDAD                                                            22%        15%      30%      21%      20%      25%      25%      20%
+      1.1 Accesibilidad al transporte público                                     Cualitativo
+
+      1.2 Mejor articulación entre la zona Este y Oeste                           Cualitativo
+          Descongestión del tráfico vehicular: desvío  de viajes que no tienen 
+      1.3                                                                         Cualitativo
+          como Origen o Destino el Distrito de Barranco.
+          Reducción/eliminación de conflictos peatón ­ vehículos en el área 
+      1.4                                                                         Cualitativo
+          monumental de Barranco.
+      1.5 Incremento / mejoramiento de la seguridad vial en el recorrido.         Cualitativo
+
+        Promoción de la circulación peatonal y sistemas alternativos al 
+    1.6                                                                           Cualitativo
+        vehículo privado/ bicicletas y transporte público.
+        Protección/ valoración del patrimonio histórico / Urbano ­ 
+    1.7                                                                           Cualitativo
+        Arquitectónico y Monumental.
+ 2. MEDIDAS DE GESTIÓN DEL TRÁFICO                                                    20%        20.0%        20.0%       17.0%         28.0%     17.5%    20.0%    20.0%
+      2.1 Mejora de capacidad vial                                                Cuantitativo
+
+      2.2 Moderación de velocidad                                                 Cuantitativo
+ 3. MEDIDAS EN IMPACTO EN LA DEMANDA                                                  18%        30.0%        5.0%        10.0%         15.0%     17.5%    20.0%    30.0%
+      3.1 Reducción de tráfico vehicular de paso                                  Cuantitativo
+
+ 4. BENEFICIOS SOCIALES                                                               22%        30.0%        20.0%       27.0%         25.0%     20.0%    20.0%    15.0%
+
+      4.1 Ahorro en reducción de accidentes de tráfico (Vehiculos  Kilometros) Cuantitativo
+
+      4.2 Ahorro en tiempos de viajes (Tiempo total de viajes)                    Cuantitativo
+
+      4.3 Ahorro en costos de operación (consumo de combustibles)                 Cuantitativo
+
+      4.4 Beneficios ambientales (Emisión de CO)                                  Cuantitativo
+
+ 5. INVERSIÓN                                                                         17%        5.0%         25.0%       25.0%         12.0%     20.0%    15.0%    15.0%
+
+      5.1 Ampliación de circuitos peatonales.                                     Cuantitativo
+
+      5.2 Implementación del Urbanito                                             Cuantitativo
+
+      5.3 Vías de Evitamiento                                                     Cuantitativo
+
+      5.4 Mejora de intersecciones semaforizadas                                  Cuantitativo
+                                                                                       100.0%    100.0%        100.0%       100.0%      100.0%    100.0%   100.0%   100.0%
+
+Fuente: Elaboración del consultor.
+
+
+            5.3.2 Evaluación final de las alternativas
+
+548.         La evaluación final, se sigue el método explicado al inicio de este capítulo y se realiza la
+             suma de cada valor normalizado multiplicado por su respectivo peso según cada
+             criterio. Dentro de cada criterio, se realiza una suma directa de los valores
+             normalizados.
+
+
+
+
+     CLIENTE:             FINANCIMENTO:                       CONSULTOR:                             Estudio de Manejo de Tráfico de Dos Distritos
+                Banco
+                Mundial                                                                                 Centro Histórico de Lima y el
+                                                                                                                                                TERCER INFORME
+                                                                                                                                                                             63
+                                                                                                            Distrito de Barranco
+549.         La Alternativa 3 ha sido preferida respecto de las otras dos alternativas, en el
+             cumplimiento de los objetivos del estudio.
+
+                                         Tabla 5.3.2.1 Evaluación final de alternativas
+
+    Nro. Criterios                                                                 Calificación Alternativa Base Alternativa 2 Alternativa 3
+  1. POLITICAS DE MOVILIDAD                                                            22%                   6.46         0.92           7.38
+
+       1.1 Accesibilidad al transporte público                                     Cualitativo
+                                                                                                                    0.88      0.22      1.09
+
+       1.2 Mejor articulación entre la zona Este y Oeste                           Cualitativo
+                                                                                                                    1.00      0.00      1.00
+           Descongestión del tráfico vehicular: desvío  de viajes que no tienen 
+       1.3                                                                         Cualitativo
+           como Origen o Destino el Distrito de Barranco.                                                           1.00      0.00      1.00
+           Reducción/eliminación de conflictos peatón ­ vehículos en el área 
+       1.4                                                                         Cualitativo
+           monumental de Barranco.                                                                                  0.87      0.22      1.09
+
+       1.5 Incremento / mejoramiento de la seguridad vial en el recorrido.         Cualitativo
+                                                                                                                    0.91      0.16      1.07
+         Promoción de la circulación peatonal y sistemas alternativos al 
+       1.6                                                                         Cualitativo
+         vehículo privado/ bicicletas y transporte público.                                                         1.00      0.00      1.00
+         Protección/ valoración del patrimonio histórico / Urbano ­ 
+     1.7                                                                           Cualitativo
+         Arquitectónico y Monumental.                                                                               0.80      0.32      1.12
+  2. MEDIDAS DE GESTIÓN DEL TRÁFICO                                                    20%                          1.38      0.90      2.28
+       2.1 Mejora de capacidad vial                                                Cualitativo                      0.80      0.32      1.12
+       2.2 Moderación de velocidad                                                 Cuantitativo
+                                                                                                                    0.58      0.58      1.16
+  3. MEDIDAS EN IMPACTO EN LA DEMANDA                                                  18%                          0.58      0.58      1.15
+       3.1 Reducción de tráfico vehicular de paso                                  Cuantitativo
+                                                                                                                    0.58      0.58      1.15
+  4. BENEFICIOS SOCIALES                                                               22%                          1.58      2.13      0.55
+       4.1 Ahorro en reducción de accidentes de tráfico (Vehiculos  Kilometros) Cuantitativo
+                                                                                                                    0.48      0.67      1.15
+       4.2 Ahorro en tiempos de viajes (Tiempo total de viajes)                    Cuantitativo
+                                                                                                                    1.09      0.20      0.88
+       4.3 Ahorro en costos de operación (consumo de combustibles)                 Cuantitativo
+                                                                                                                    0.15      0.92      1.07
+       4.4 Beneficios ambientales (Emisión de CO)                                  Cuantitativo
+                                                                                                                    1.13      0.34      0.79
+  5. INVERSIÓN                                                                         17%                          3.10      0.90      4.01
+
+       5.1 Ampliación de circuitos peatonales.                                     Cuantitativo
+                                                                                                                    0.58      0.58      1.15
+       5.2 Implementación del Urbanito                                             Cuantitativo
+                                                                                                                    1.15      0.58      0.58
+       5.3 Vías de Evitamiento                                                     Cuantitativo
+                                                                                                                    0.58      0.58      1.15
+       5.4 Mejora de intersecciones semaforizadas                                  Cuantitativo
+                                                                                                                    0.80      0.33      1.12
+                                                                                         100.0%                     0.95      0.82      1.77
+
+Fuente: Elaboración del consultor.
+
+
+
+
+    CLIENTE:             FINANCIMENTO:              CONSULTOR:                      Estudio de Manejo de Tráfico de Dos Distritos
+               Banco
+               Mundial                                                              Centro Histórico de Lima y el
+                                                                                                                       TERCER INFORME
+                                                                                                                                                64
+                                                                                        Distrito de Barranco
+                                                                                  Capítulo 6
+
+
+                                                               Conclusiones
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   65
+                                                      Distrito de Barranco
+         Capítulo 6
+
+
+         6.             CONCLUSIONES
+
+601.      El estudio para definir un Plan de Manejo de Tráfico para el Distrito de Barranco ha
+          concluido recomendando la alternativa propuesta por el Consultor. Para llegar a esta
+          conclusión se elaboraron estudios de inventarios y diagnósticos de la situación actual
+          que establecieron que existe una situación crítica en la circulación peatonal y vehicular
+          en el sistema vial principal en el distrito, que permite caracterizarlo como de mucho
+          riesgo para todos los usuarios, en la que los sistemas de transporte público tienen
+          participación muy importante.
+
+602.      Esta situación alimenta un proceso de deterioro del medio ambiente, que se contrapone
+          a la continua preocupación de la población residente en el distrito, que
+          permanentemente realizan esfuerzos y gestiones ante sus autoridades reclamando lo
+          que podría resumirse como un mejor manejo del tráfico que contribuya al mejoramiento
+          del distrito y del nivel de vida de su población.
+
+603.      Para lograrlo el estudio ha analizado res alternativas de plan de manejo del tráfico,
+          ellas son: 1. La situación actual como Línea Base de comparación; 2. La propuesta de
+          la Mesa de Dialogo de la Comunidad de Barranco; y 3. Una propuesta por el Consultor.
+          En los dos casos, las propuestas se están necesariamente limitadas respecto a que los
+          planteamientos deben sujetarse a la realización de acciones en el periodo de un corto
+          plazo de un año.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:        Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                      Centro Histórico de Lima y el
+                                                                                           TERCER INFORME
+                                                                                                            66
+                                                               Distrito de Barranco
+604.      Es de entenderse que aunque los Planes 2 y 3 tienen los mismos objetivos en beneficio
+          de la comunidad, sus planteamientos difieren técnicamente en algunas soluciones y
+          metas por lograrse.
+
+605.      El estudio analiza las tres situaciones planteada, y al evaluarlas establece que aunque
+          los costos o inversiones del plan de corto plazo que se generan son menores en el caso
+          de la Alternativa N° 2 que es la propuesta por la Mesa de Diálogo de la Comunidad; en
+          la Alternativa 3 se logran mejor los objetivos de revalorar todo el distrito mejorando los
+          niveles de servicio del sistema de transporte, especialmente respecto al ordenamiento
+          del tránsito, la estructuración del sistema vial y mejoramiento de la accesibilidad en
+          beneficio de la zona Este del Distrito; y de la protección de la Zona Monumental de
+          Barranco.
+
+606.      La alternativa N° 2 reestructura las rutas de transporte, para lo que utiliza en el sentido
+          Norte-Sur la Av. Grau y relocaliza las rutas del sentido Sur-Norte en la Zona Este de
+          Barranco. Este planteamiento separa demasiado físicamente las rutas de ida y de
+          vuelta, lo que resultará muy incomodo para los usuarios del sistema en el distrito, lo
+          induciría a la generación de otros servicios de transporte informal.
+
+607.      En este sentido hay que destacar que la solución de protección de la Zona Monumental
+          de la propuesta del Consultor, establece un par vial para ambos sentidos en la Zona
+          Este, es operativamente lo correcto, y está garantizada en su implantación al
+          establecerse una zona peatonal ampliada a lo largo de la Av. Pedro de Osma y en la
+          cuadra de la Av. Grau adyacente al Parque Municipal.
+
+608.      Los planteamientos de soluciones en ambas propuestas N° 2 y N° 3 recomiendan
+          hacer obras de mejoramientos en las intersecciones entre el Sistema Vial Principal con
+          el eje vial del COSAC I; y en este esfuerzo en la propuesta del Consultor, Plan N° 3, se
+          presentan soluciones de Ingeniería concretas. Entre ellas la de reponer el puente
+          peatonal sobre la Av. Escuela Militar, que integra peatonalmente ambos lados de esta
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:         Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                       Centro Histórico de Lima y el
+                                                                                            TERCER INFORME
+                                                                                                             67
+                                                                Distrito de Barranco
+          avenida a la altura del Colegio Mercedes Indacochea. Respecto al cual se plantea un
+          puente de mejores características que el que existía anteriormente, en beneficio de los
+          usuarios que en este proyecto corresponden principalmente a los que estudian y
+          trabajan en los institutos educativos escolares y de instrucción militar.
+
+609.      Por todas estas razones, los Consultores recomiendan se implemente la Propuesta del
+          Plan de Manejo del Tráfico correspondiente a la Alternativa N° 3.
+
+
+
+
+   CLIENTE:             FINANCIMENTO:   CONSULTOR:       Estudio de Manejo de Tráfico de Dos Distritos
+              Banco
+              Mundial                                     Centro Histórico de Lima y el
+                                                                                          TERCER INFORME
+                                                                                                           68
+                                                              Distrito de Barranco
+                                                                                    Anexo 1
+
+
+                                                                                      Planos
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   69
+                                                      Distrito de Barranco
+               ESTUDIO DE MANEJO DE TRAFICO DE DOS DISTRITOS DE LIMA
+                                 TERCER INFORME
+
+                                                   INDICE DE PLANOS
+
+3.     DIAGNOSTICO DE SITUACION ACTUAL
+       Plano N° 3.1.1                 Vialidad Metropolitana y Localización de Barranco
+       Plano N° 3. 1.2                Zonificación Urbana
+       Plano N° 3.1.3                 Zona Monumental. Identificación de Inmuebles
+       Plano N° 3.2.1                 Red Vial Principal
+       Plano N° 3.2.2.1               Secciones Transversales - Plano Clave
+       Plano N° 3.2.2.1.1             Secciones Típicas
+       Plano N° 3.2.2.1.2             Secciones Típicas
+       Plano N° 3.2.3.1               Demanda de Tráfico. Zona Oeste. Junio 2010 (am)
+       Plano N° 3.2.3.2                  Aforos Complementarios de Tráfico. Zona Oeste y Este, Octubre 2010 (am)
+       Plano N° 3.2.4                 Accidentes de Tráfico
+       Plano N° 3.2.5                 Velocidades de Circulación en Hora Pico
+       Plano N° 3.2.6                 Localización Actual de Rutas de Transporte Público
+       Plano N° 3.2.7                 Estaciones del COSAC y Demanda Horaria máxima de ingresos
+       Plano N° 3.2.8                 Zonas Críticas del Tráfico
+
+
+4.     PRESENTACION DE ALTERNATIVAS DE MANEJO DEL TRAFICO EN EL CORTO PLAZO
+       Plano N° 4.3.1.1               Red Vial. Alternativa 1. Situación Actual. Línea Base
+       Plano N° 4.3.1.2               Sentidos de Tráfico. Alternativa 1. Línea Base
+       Plano N° 4.3.2.0               Propuesta Vial de la Mesa de Diálogo (original)
+       Plano N° 4.3.2.1               Red Vial. Alternativa 2. Mesa de Diálogo (adaptada)
+       Plano N° 4.3.2.2               Sentidos de Tráfico. Alternativa 2. Mesa de Diálogo
+       Plano N° 4.3.3.1.1             Red Vial Principal. Alternativa 3. Consultor
+       Plano N° 4.3.3.1.2             Sentidos de Tráfico. Alternativa 3. Consultor
+       Plano N° 4.3.3.2.C             Intervenciones en la Alternativa 3.
+       Plano N° 4.3.3.5.1             Propuestas de trazado para el realineamiento y empalme del Jr. Venegas y Jr.
+                                      M. De la Fuente Chávez
+
+
+
+
+ CLIENTE:             FINANCIMENTO:            CONSULTOR:               Estudio de Manejo de Tráfico de Dos Distritos
+            Banco
+            Mundial                                                     Centro Histórico de Lima y el
+                                                                                                        TERCER INFORME
+                                                                            Distrito de Barranco
+                                                                                    Anexo 2
+
+
+                        Propuesta de la Mesa de Diálogo
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   1
+                                                      Distrito de Barranco
+                                                                                    Anexo 3
+
+
+                                                                                      Tráfico
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                  TERCER INFORME
+                                                                                                   2
+                                                      Distrito de Barranco
+                                                                                     Anexo 4
+
+
+                                                                                  Esquemas
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                   TERCER INFORME
+                                                                                                    3
+                                                      Distrito de Barranco
+               ESTUDIO DE MANEJO DE TRAFICO DE DOS DISTRITOS DE LIMA
+                                 TERCER INFORME
+
+                                                  INDICE DE ESQUEMAS
+
+
+
+
+4.     PRESENTACION DE ALTERNATIVAS DE MANEJO DEL TRAFICO EN EL CORTO PLAZO
+       Esquema N° 1                   Mejoramiento de la Intersección Av. Panamá - Vía Expresa - Calle C. Miranda
+       Esquema N° 2                   Nueva Intersección y Jardín Paisajista Av. Panamá - Calle Souza
+       Esquema N° 3                   Mejoramiento de la Intersección Av. Panamá - Av. El Sol
+       Esquema N° 4                   Mejoramiento de la Intersección Ovalo Balta
+       Esquema N° 5                   Reposición de un Puente Peatonal en Av. Escuela Militar
+       Esquema N° 6                   Mejoramiento de la Intersección Ovalo Balta
+
+
+
+
+ CLIENTE:             FINANCIMENTO:             CONSULTOR:               Estudio de Manejo de Tráfico de Dos Distritos
+            Banco
+            Mundial                                                       Centro Histórico de Lima y el
+                                                                                                          TERCER INFORME
+                                                                                                                           4
+                                                                              Distrito de Barranco
+                                                                                     Anexo 5
+
+
+                                                                                  Diagramas
+
+
+
+
+CLIENTE:             FINANCIMENTO:   CONSULTOR:   Estudio de Manejo de Tráfico de Dos Distritos
+           Banco
+           Mundial                                Centro Histórico de Lima y el
+                                                                                   TERCER INFORME
+                                                                                                    1
+                                                      Distrito de Barranco
+               ESTUDIO DE MANEJO DE TRAFICO DE DOS DISTRITOS DE LIMA
+                                 TERCER INFORME
+
+                                                 INDICE DE DIAGRAMA
+
+
+
+
+4.     PRESENTACION DE ALTERNATIVAS DE MANEJO DEL TRAFICO EN EL CORTO PLAZO
+       Diagrama N° 1                  Alternativa Comunidad
+       Diagrama N° 2                  Alternativa Consultor
+       Diagrama N° 3                  Barranco Actual
+
+
+
+
+ CLIENTE:             FINANCIMENTO:            CONSULTOR:       Estudio de Manejo de Tráfico de Dos Distritos
+            Banco
+            Mundial                                             Centro Histórico de Lima y el
+                                                                                                TERCER INFORME
+                                                                    Distrito de Barranco
+

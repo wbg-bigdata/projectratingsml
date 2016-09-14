@@ -1,0 +1,1640 @@
+                                                                                                           94004
+
+
+The Social Impact of Social Funds in Jamaica: A Mixed-Methods Analysis of Participation, Targeting
+                       and Collective Action in Community Driven Development
+
+
+
+
+                            Vijayendra Rao, The World Bank, Washington DC
+                                Ana María Ibáñez, Fedessarollo, Columbia
+
+
+                                              December 2002
+
+
+
+
+We are grateful to Ruel Cooke and George Campbell for excellent fieldwork. This paper is the result of a
+joint OED-DEC data collection effort and we thank the OED team Soniya Carvalho, Anju Gupta Kapoor,
+Susan Razzaz and Howard White for their participation. We are grateful to Grace Imani Duncan for her
+input, and to Gershon Feder, Emmanuella Galasso, Errol George Graham, Martin Ravallion, Judith Tendler,
+Michael Woolcock and our colleagues in the Development Research Group for valuable comments and
+support, both moral and intellectual. The project was partially financed by Dutch and Norwegian Trust
+Funds. Please direct any correspondence to vrao@worldbank.org. The findings, interpretations and
+conclusions of this paper are those of the authors and should not be attributed to the World Bank Group, its
+Executive Directors or its member countries.
+
+
+                                                                                                           1
+                                                ABSTRACT
+
+The Social Impact of Social Funds in Jamaica: A Mixed-Methods Analysis of Participation, Targeting
+                        and Collective Action in Community Driven Development
+
+                                   Vijayendra Rao and Ana Maria Ibáñez
+
+
+This paper develops an evaluation method that combines qualitative evidence with quantitative survey data
+analyzed with propensity score methods, on matched samples, to study the impact of a participatory
+community driven Social Fund on preference targeting, collective action, and community decision making.
+The data are from a case-study of five pairs of communities in Jamaica where one community in the pair has
+received funds from the Jamaica Social Investment Fund while the other has not – but has been picked to
+match the funded community in its social and economic characteristics. The qualitative data reveal that the
+social fund process is elite-driven and decision making tends to be dominated by a small group of motivated
+individuals. However, by the end of the project there is broad based satisfaction with the outcome. The
+quantitative data from 500 households mirror these findings by showing that ex-ante the social fund does not
+address the expressed needs of the majority of individuals in the majority of communities. By the end of the
+construction process, however, 80 per cent of the community expresses satisfaction with the outcome. An
+analysis of the determinants of participation demonstrates that better educated and better networked
+individuals dominate the process. Propensity score analysis reveals that JSIF has had a causal impact on
+improvements in trust and the capacity for collective action, but these gains are greater for elites within the
+community. Both JSIF and non-JSIF communities are more likely now to make decisions that affect their
+lives which is indicative of a broad based effort to promote participatory development in the country, but
+JSIF communities do not show higher levels of community driven decisions than non-JSIF communities.
+The evidence in this paper sheds light on the complex ways in which community driven development works
+inside communities -- a process that is deeply imbedded within Jamaica’s socio-cultural and political
+context.
+
+
+
+
+                                                                                                             2
+Introduction:
+
+         Development assistance is becoming increasingly community-driven but there are still more
+questions than clear answers on how community driven development (CDD) really works. Does it improve
+participation and targeting? What kind of impact does it have? Does it build the capacity for collective
+action1? One effective way on answering these important questions is by analyzing how the CDD process
+works inside communities, within their particular political, social and cultural systems. Previous research on
+CDD has tended to either use survey data from large samples or qualitative information from beneficiary
+assessments of communities that received projects. Both are limited in their ability to answer the questions
+posed above. Quantitative analysis can establish broad patterns of the impact of an intervention on poverty
+and well-being, but is less useful in understanding the institutional context within which CDD operates.
+Beneficiary assessments, on the other hand, can be very helpful in probing the social aspects of CDD but are
+subject to problems of selection bias, lack of generalizabilty, and are limited in their ability to establish the
+average causal impact of a project.
+         This paper will attempt to provide some answers to these questions by integrating quantitative and
+qualitative methods to conduct an in-depth analysis of data from five pairs of randomly selected
+communities in Jamaica. In each pair, one community has received assistance from the Jamaica Social
+Investment Fund (JSIF) a community driven project assisted by the World Bank, while its very similar
+matched counterpart has not received any assistance. Qualitative evidence from focus group discussions and
+in-depth interviews will draw out the institutional and cultural context within which the Social Fund process
+operates. It will sketch the various agents in the community, how leaders interacted with the community,
+and how the community perceived its gains from the project. Quantitative data will then be analyzed to
+evaluate the impact of social funds on measures of participation and collective action capacity using
+propensity score matching methods and regression analysis. This mixed method approach will permit a
+nuanced and contextualized understanding of the social fund process in Jamaica, while providing some
+evidence of the causal impact of the social fund on the social, political and economic life of individuals
+within the community. The in-depth data on social fund communities, however, is traded off with the size
+and representativeness of the sample and our findings should not be read as an evaluation of the JSIF
+portfolio of projects, but as an in-depth case study.
+         Social Investment Funds (SIFs) are perhaps the most visible mechanisms of CDD assistance, and a
+fast growing part of the World Bank’s portfolio. A Social Fund is both an organization and a process.
+
+
+1
+ The capacity for collective action is a widely used definition of social capital (Woolcock and Narayan, 2001).
+However, social capital has so many other definitions that, for the sake of clarity, we will avoid using the term in this
+paper.
+
+
+
+                                                                                                                            3
+Typically, it is a government agency that is set up as semi-independent institution reporting directly to the
+President or Prime Minister. Its role is to disburse grants directly to communities in order to fund the
+construction of a public good, with the communities contributing a small proportion of the costs (varying
+from 5 to 20 per cent), in cash, labor or materials. The key idea behind SIFs, and other mechanisms of
+community driven development, is that because communities participate in choosing projects themselves,
+the match between what a community needs and the project it receives is much better than in a traditional
+“top-down” development project. Several authors have also speculated that the process of applying and
+obtaining funds, and constructing and managing a facility, will improve the community’s capacity for
+collective action (e.g.: Narayan and Ebbe 1997, Rao 2001). The belief is that this will in turn result in
+greater social cohesion, improve the community’s ability to manage its own future and set it on a sustainable
+path towards poverty reduction
+        In recent months the literature on Community Driven Development, and Social Funds more
+specifically, has seen a spurt of growth. Conning and Kevane (2000) review the theoretical and empirical
+literature related to community based targeting (CBT), a specific type of CDD where the community assists
+in targeting poor families in order to transfer cash or food. They show that CBT possesses both positive and
+negative characteristics – the benefits include utilizing local information and the consequent potential
+improvement in targeting, but the risks are the increased opportunity of capture by elites within the
+community and the possibility that local preferences may not be egalitarian. Galasso and Ravallion (2001),
+look at this within the context of a CBT program in Bangladesh. They find that power within the
+community matters in how the funds are disbursed, but that targeting within the village improves with
+program size, lower inequality, proximity to the program office, among other things. Khwaja (2001) moves
+away from community based targeting to look at the community based provision of public goods in the
+Agha Khan Rural Support Project in Northern Pakistan. He finds that community participation in non-
+technical decisions improves project maintenance, but that when communities get involved in technical
+decisions it results in worse projects. Repeating a theme emphasized in several papers (e.g. Abraham and
+Platteau 2001, Alesina et. al.) he finds that more heterogeneous communities are worse off, though better
+leadership seems to have a positive effect.
+        The literature that focuses more specifically on Social Funds is both critical and favorable. A
+quantitative impact evaluation (The Social Funds 2000 study) was recently conducted by the World Bank’s
+Social Protection Unit using micro-data from several different countries (Van Domelen, 2001). Some
+highlights of the findings are as follows: An analysis of data based upon randomized trials in Bolivia found
+that SIFs had a positive impact on educational infrastructure but did not improve educational outcomes.
+However, health outcomes were improved with substantial declines in child mortality. Water projects also
+tended to improve access and quantity of water, but did not have an impact on water quality (Newman et. al.
+
+
+
+                                                                                                                4
+2001). Similarly an impact evaluation conducted in Zambia (Chase and Sherburne-Benz, 2001) found a
+positive impact on education and health. An extensive impact evaluation study conducted in Nicaragua also
+found a pro-poor bias with significant education and water-sanitation improvements (World Bank, 2000).
+Thus, the consensus view from Social Funds 2000 is that Social Funds are generally pro-poor both on the
+household level as well as geographically. Social Funds 2000 also reports that they are generally welfare
+improving. However, these quantitative studies do not have much to say on the impact of social funds on
+participation and collective action.
+        Evidence on these questions, to date, comes largely from Beneficiary Assessments, which are
+reports based usually upon Participatory Rural Appraisals (PRA) and Participatory Learning and Action
+tools (PLA) (Chambers, 1997), usually commissioned by the headquarters of a Social Fund, on targeted
+communities. They are not “impact evaluations” in the sense that they almost never include a control group
+or counter-factual to calculate the causal impact of the intervention. In a survey of Social Fund Beneficiary
+Assessments Owen and Von Domelen (1998) report that they were “uniform in their finding that
+beneficiaries consistently felt that social fund projects reflected priority needs of the community, confirming
+the essentially demand-driven nature of social funds.” Owen and Von Domelen also report that the
+Beneficiary Assessments revealed a high degree of participation in the execution of projects. The
+Beneficiary Assessment for Jamaica provides a more complex picture of the relationship of the Jamaican
+Social Investment Fund (JSIF) to the communities it targets. Its overall findings, however, also are that JSIF
+has “succeeded to a large extent in its efforts to reduce poverty and increase social capital in targeted
+communities.” Thus, the Bank’s evaluations and assessments of Social Funds, on the whole, leave a
+favorable impression of an innovative process that not only is targeted to the poor, but is truly participatory
+with the capacity to build a community’s capacity for collective action. This has led to sharp increases in
+lending to Social Fund and CDD projects, with a strong belief that CDD represents the future of
+development assistance.
+        Scholars outside the World Bank have tended to be more critical of SIFs and of the CDD process –
+usually at the level of theory or by analyzing secondary data sources rather than examining survey data on
+CDD projects. Cornia (2001), focussing on the role of Social Funds as mechanisms to offset the anti-poor
+effects of structural adjustment programs, argues that they play only a minor role in assisting the
+“adjustment poor” and the “chronic poor.” Tendler (1999, 2000), reviewing evidence from beneficiary
+assessment and project reports also argues that Social Funds tend to work better for communities that are
+less poor, and that they are vulnerable to mismanagement and political manipulation. She points out that the
+SIF model functions under a set of assumptions that have not been empirical tested – viz. that they are more
+responsive to consumer needs and preferences, and better tailored to local conditions. Importantly, she
+claims that many SIFs are actually supply driven rather than demand driven because choices of communities
+
+
+
+                                                                                                                  5
+are not actually made by them. This claim is echoed by Abraham and Platteau (2001) who argue that CDD
+processes substantially privilege local elites over the less advantaged which leads to a “serious risk that
+development efforts are hijacked by unaccountable members of the elite.” Abraham and Platteau focus on
+the structures of power and information within communities, arguing that the socio-cultural, political and
+economic context of the community within which the CDD project is being implemented is extremely
+important in determining its success or failure.
+        Community Driven Development and Social Investment Funds are, clearly, contentious topics with
+their advocates and detractors. While the evidence seems to indicate that Social Funds reach the poor and
+are relatively successful at improving service delivery, the assumptions under which they operate have still
+not been put to test. We do not know if SIFs are participatory: Do projects generated by SIFs meet the
+expressed preferences of the members of the community? Does the involvement of the community improve
+the community’s capacity for collective action? Does the possibility of greater community involvement and
+ownership result in more sustainable facilities? These questions are best understood within the political,
+social and cultural life of communities within which CDD processes are deeply imbedded.
+        The Jamaican case-study analyzed in this paper will attempt to provide some answers to these
+questions, while providing an example of the use of mixed-method techniques to conduct an ex-post impact
+evaluation. The paper is organized as follows: In section 2 we will provide a brief history of Jamaica and
+its involvement in community led development, this will be followed in Section 3 with a an overview of the
+qualitative evidence from the five sets of communities. The findings from the qualitative evidence will then
+be tested for their generalizability with survey data, Section 4 will outline the methods used to analyze the
+survey data and the sampling methodology, section 5 will present the quantitative results, and section 6 will
+briefly review the qualitative and quantitative evidence to provide an integrated perspective and conclude
+the paper by summarizing the policy implications of the evidence. We should emphasize the paper should
+not be viewed as an evaluation of the Jamaica Social Investment Fund in its entirety. As a case study it
+benefits from the ability to examine five projects in some depth, but it also suffers from having a limited
+sample that lacks the scope to give a broad sense of JSIF’s full portfolio of projects.
+
+
+
+
+The Historical Context:
+
+
+        To understand how JSIF works, and how it is perceived in Jamaica, it helps to place within the
+context of Jamaican political history and culture. Modern Jamaican history is dominated by two cousins
+Norman Manley and Alexander Bustamante. Manley founded the People’s National Party (PNP) in 1938 in
+an organized effort to end British rule. The PNP was closely associated with Bustamante’s Industrial Trade
+
+
+
+                                                                                                                6
+Union (BITU). Bustamante broke away from the PNP in 1943 to form the Jamaica Labor Party (JLP)
+which, along with the PNP, would come to dominate Jamaica in the post-independence years.
+        The history of Community Driven Development in Jamaica is closely tied to Norman Manley and
+the PNP. The cooperative movement in Jamaica, which is the precursor to what is now called CDD, was
+pioneered by the Jamaica Welfare Society which Manley founded in 1937 with funds from a settlement over
+a labor dispute that he negotiated with multinational banana companies (Keith and Keith, 1992). The annual
+funds were to be used “not for charitable purposes.... but for real help in the cultural development of the
+island and its peasants (p 7, Girvan, 1993).2” The organization first focussed on building community centers
+to serve as “catalysts for rural development (Girvan, 1993).” By 1939 it had expanded its goals to foster
+“cooperation and self-help activities among the rural poor.” The organization, over time, was considered
+extremely successful and has been called one of “Norman Manley’s truly lasting contributions" (Keith and
+Keith, 1992). The Jamaican cooperative movement withered away in the 70’s and 80’s with the death of
+some of its prime movers like Norman Manley and D.T.M. Girvan – whom Manley had appointed as the
+head of the Jamaican Welfare Society in 1939. This paralleled the worldwide trend away from the
+cooperative movement towards development policies focussed more on top-down infrastructure and human
+capital projects, and the liberalization of internal markets and trade. By the early 1990’s, however, interest
+in CDD had revived in Latin America as an antidote to the structural adjustment programs that characterized
+the 1980’s with several countries establishing Social Funds.
+        In 1996, The Jamaican Social Investment Fund (JSIF) was instituted by the PNP government, now
+led by Percival James Patterson, and is perceived in Jamaica as the successor to the Jamaica Welfare
+Society. Its methods and objectives closely parallel those of the Welfare Society, and several (now quite
+elderly) participants in projects instituted by the Welfare Society play a key role in JSIF projects at the
+community level. JSIF stated goal is in “improving living standards for the poor and vulnerable.” It has
+four key objectives -
+        -To establish an efficient, demand, driven and complementary mechanism to deliver basic services
+to the poor.
+        -To mobilize and channel additional resources to the areas of social assistance and basic social and
+economic infrastructure.
+        - To increase the institutional capacity of governmental and non-governmental entities to design,
+implement and manage small scale community based projects
+        - To empower communities by seeking to ensure greater levels of community involvement in
+development programs and community participation in decisions affecting their lives.
+
+
+2
+ Clearly “cultural” here was meant to include social and economic development.
+
+
+                                                                                                                 7
+        As one of the Social Funds in the Latin America and Caribbean region it has been clearly influenced
+in its methods and practices by experiences with Social Funds in countries such as Nicaragua, Ecuador and
+Zambia. JSIF should, however, also be seen within the context of Jamaica’s history with the cooperative
+movement. The writings of D.T.M. Girvan, who led the Jamaica Welfare Society during most of its active
+years, and then advised the cooperative movement in Ecuador and Chile, provide an instructive window into
+the historical context of the CDD processes. One of the key foundations of his view was to “work together
+in groups to do those things which we as individuals cannot do.” An excerpt from a paper he wrote in 1941
+(Girvan 1993) on “The Better Community Approach to Community Development,” shows how deeply
+embedded contemporary social fund practice is within the cooperative movement:
+        Building a Better Community depends first and foremost on the desire for citizens for self-
+improvement. This desire may be found in most communities in varying degrees; in all it can be aroused
+and stimulated.
+        Care must, however, be taken before arousing this desire in any community to secure the
+cooperation of local “key” people and to gather basic information about the community. Key people would
+be individuals such as teachers and other public officers, ministers and clergy, and the voluntary leaders of
+existing community organizations as well as, perhaps, some of the citizens who wish to help or who possess
+influence that can be of service.
+        If a temporary Community Committee can be immediately formed from among these leaders, this
+would be an excellent start, as the objective is to have all community activities planned and coordinated by a
+Community Council comprised of representatives from existing community groups with co-opted members
+from amongst the citizens.
+        In any case, with the help of local leaders, a Social Survey should be undertaken which will provide
+salient facts about social and economic conditions, and existing community structures. Based on this,
+decisions will be taken about what can be done to encourage and to extend existing community
+organisations, and to help in arranging training for their leaders and in planning their programme along
+concrete lines, including the formation of practical projects.
+        These sixty year old guidelines seem to have had a clear influence in the manner in which the
+Jamaican Social Investment Fund (JSIF) currently operates. JSIF is an autonomous government agency that
+reports directly to the Ministry of Finance. It solicits proposals from communities by widely disseminating
+information via radio and television. NGOs, community based organizations (CBOs), and central
+government agencies facilitate the applications by helping key actors organize the community to decide on
+and apply for a project. These NGO, CBOs and key actors within communities often have a past association
+with the Jamaica Welfare Society and follow similar procedures. The proposal usually includes a social
+appraisal outlining the problems faced by the community, how this intersects with social and economic
+
+
+
+                                                                                                                8
+constraints within the community, and the role that a sub-project can play in improving living standards.
+JSIF screens the applications on the basis of its target criteria which mandate a focus on the poorest
+communities, and then undertakes a series of field visits to identify through research (e.g: PPAs, animation,
+sample surveys) a realistic sense of the needs of the community.
+         Like other Social Funds, communities are usually required to make a contribution to construction
+costs either in cash or in kind. Projects are supposed to be decided in broad consultation with the
+community and must fall within a menu of projects that JSIF will support. There are however, notable
+exceptions to this menu-based restriction as we will demonstrate below. The projects are generally executed
+by contractors employed by JSIF, and then managed by the appropriate ministry (e.g. Education, Health). It
+is expected that the community, having a greater sense of ownership of the project, will participate in its
+maintenance and management thus improving project sustainability.
+        Having seen a bit of the history and background of CDD in Jamaica and looked at JSIF’s guidelines,
+let us now turn to an examination of how these guidelines work in practice.
+2. Qualitative Analysis3
+
+
+        The qualitative data is based upon semi-structured in-depth interviews with several key players in
+each community: JSIF project coordinators, community leaders (elected officials, community elders,
+pastors, etc.), and members of the JSIF committee in each community who helped organize and manage the
+project. Three extended focus group discussions were also conducted in each community with groups of
+people who were, as far as possible, selected to represent the entire community. Data from these interviews
+is supplemented with observations from field visits by Ruel Cooke, one of the consultants who supervised
+the data collection, and Rao who conducted field visits in six of the ten communities in the sample. The
+report on Arnett Gardens is also supplemented by a report by Duncan (2001) commissioned for this paper,
+based upon several additional interviews with “Dons,” politicians, and other men and women who live in the
+community.
+        We should note that the focus groups, in-depth interviews were not conducted on a random sample.
+Moreover, despite efforts to avoid the problem, it is possible that members of the community who
+participated in the focus group discussions were more likely to have participated actively in the social fund
+process. This could, potentially, result in biased findings. Therefore, the qualitative findings should not be
+examined on their own, but in conjunction with the survey results that are based upon a representative
+
+
+3
+  The names of three of the five communities have been changed. Two communities, Port Royal and Arnett Gardens,
+are extremely well known and difficult to disguise. Furthermore, understanding the impact of JSIF project in them
+requires an understanding of their history. For these reasons we have retained their real names. The names of all the
+individuals quoted have also been changed with the exception of prominent people who would be difficult to disguise.
+
+
+
+                                                                                                                        9
+random sample. The qualitative information is useful, however, to sketch a narrative of participation and
+collective action in the JSIF and non-JSIF communities. We will outline the key players, the manner in
+which community mobilization occurred, and the perceived impact of the project the in community. The
+non-JSIF community will also be very briefly sketched to provide a sense of the difference between the
+matched pairs.
+
+
+
+
+Community Pair A:
+Port Royal and Rennock Lodge
+
+
+        Port Royal is an old and historic town that was the capital of Jamaica when it was under Spanish
+rule. It subsequently became a haven for pirates and buccaneers. Most of the old Spanish town was
+submerged after a series of hurricanes and earthquakes in the 19th century. The town also has a large fort
+dating from the 18th century and has significant but underdeveloped potential as a tourist site. It is also a
+community that has over the years, through generations of inter-marriage, become extremely tight knit, but
+with clear divisions based upon class, status, religion, and political affiliation. The community is dominated
+by the Port Royal Brotherhood, a semi-governmental authority, which owns most of the public infrastructure
+and housing, and is considered akin to a local planning authority. Interestingly, the Port Royal Brotherhood
+was founded by D.T.M Girvan in 1952 as an arm of the Jamaican Welfare Society, but its foundations in the
+cooperative movement seem to have evolved into a more political function.
+        There is a clear split in the community between those loyal to the Brotherhood and those opposed to
+it. In the last few years an arm of the local citizens association, functioning as an alternative to the
+Brotherhood, formed a development group known as the Port Royal Environmental Management Trust
+(PREMT) that has been spearheading an effort to bring in more developmental investment into the town. In
+particular they plan to develop the town as a port for cruise ships like the large tourist ports of Montego Bay
+and Ocho Rios. This has the potential to transform the town into an important tourist site.
+        PREMT were also responsible for initiating the JSIF proposal. They hired a consultancy firm called
+EduTech to develop the proposal and submit it to JSIF. The proposal, which was developed with limited
+community consultation, asked to have a computer center in the local school. The idea was that this center
+would benefit students during school hours but would also be used to instruct adults. PREMT works
+independently of, and perhaps even in opposition to the Brotherhood. In the words of a PREMT leader, “Us
+and them (the Brotherhood) don’t get along.” This indicates that the social fund application process may be
+at the center of the internal politics of the community. Contrary to the predictions of theories of
+participation, the divisions within the community are not a result of its heterogeneity – but a consequence of
+
+
+
+                                                                                                                10
+how tightly bound it is. Everyone seems to be everyone elses kin and, over the years, personal animosities
+and family conflicts appear to have spilled over into the community’s internal decision making process. It is
+possible that PREMT’s efforts at eliciting JSIF funds is an attempt to rival the Brotherhood’s historical
+association with the Jamaican Welfare Society.
+        The Port Royal project provided a computer center for the school. The project was not participatory
+in the sense that a computer center was not a priority with most the members of the community who would
+have preferred a project that generated more employment. As described above, PREMT seems to have
+made the decision almost unilaterally, and the technical orientation of the project seems to have been
+influenced by the consultants (EDUTECH) chosen to help with writing the JSIF proposal. PREMT sees the
+center as part of an overall development plan for Port Royal and envisages a day when computer- trained
+members of the community will be able to get jobs at the resorts and other offices that they believe will
+come with the tourist influx. In this sense PREMT is acting as a local social planner - and the notion that
+community input and participation led to the choice of project is clearly not true in this case. Also, it is
+clear that the "traditional leadership" i.e.: The Brotherhood, was bypassed in the JSIF application. While
+this goes against JSIF guidelines, it seemed inevitable that in a community with deep divisions it would be
+very difficult for all factions to come to a common agreement on a project. Respondents in Port Royal,
+however, claim that other projects in the community - notably one conducted by "New Horizons," were
+much more participatory. In JSIF's favor they also say that JSIF, while less participatory, was also more
+transparent in keeping all transactions above board and communicating information about the project clearly
+to the community.
+        Note that despite the lack of widespread participation in the choice of project, there seems to be a lot
+of pride and support for the computer center within the community. Respondents said that this was the first
+concrete example of the much-vaunted changes that had been promised for many years by PREMT. There
+was also a general perception that school children were benefiting from the center, and in a visit that we
+made it was clear that there was excess demand for the use of the computers with children intently working
+and trying to maximize their time on them. The success of the project has caused some resentment among
+the adults in the community who believe that they too should be allowed to use the computers under an adult
+education program. Adults claimed that when the project was first proposed, they were told that adults
+would also be able to benefit from it. The fact that this has not happened has caused some resentment.
+        The project did seem to have a clear but limited impact on the community's ability to work together
+for common goals. This is a deeply fragmented community, but respondents said that they "managed to
+work together" even though "disputes are too deep." In visiting the community it was clear that those
+members who were not followers of the Brotherhood were more likely to express enthusiasm about the
+project and to express interest in mobilizing more projects in the community. One of the bases for the
+
+
+
+                                                                                                               11
+division was an inherent difference of opinion on whether the community should open up and widely
+embrace the tourist trade or whether it should attempt to resist the disruptive changes in social and
+community life that this would cause. The computer center had widespread support partly because it
+represented a positive, modern, change in a manner that did not lead to outside encroachment and thus had
+support from both groups.
+        It is difficult to find a community that is a close match with Port Royal, but Rennock Lodge comes
+reasonably close in that it is also is located on the sea and is an old community with many long term
+residents. However, Port Royal’s unique history makes it different from every other community in Jamaica
+including Rennock Lodge. Rennock Lodge is also more “urban” than Port Royal in the sense that it is much
+closer to the capital city – Kingston and has some of the attendant social problems with gangs and youth
+unemployment.
+        Rennock Lodge is also different in that there seem to be no organizations or institutions providing
+leadership within it and no group appears to be making efforts to mobilize resources on behalf of the
+community. The leadership that exists does not seem to have wide support - respondents described resource
+allocation within the community as being characterized by the "paternalistic distribution of political
+patronage." Most community activities center around the football (soccer) club and the local Anglican
+Church. Like Port Royal, the community is socially and politically homogenous but it does not exhibit Port
+Royal's deep kin-based divisions.
+        To summarize, it is clear that the JSIF project brought a sense of common purpose to the Port Royal
+– many members of the community were able to see a concrete example of progress that was a signal of
+changes to come, though some were apprehensive of the impact those changes. There is also a feeling,
+however, that the benefits of the project have not been equitably distributed. Moreover, the sense of
+common purpose has not erased old divisions and in some ways the JSIF project may have even reinforced
+them.
+
+
+Community Pair B:
+Virginia and Downing
+
+
+        The second community we examine is Virginia, where JSIF funded the construction of a basic
+school (pre-school from ages 3-6). Virginia is a rural community where most residents are either small
+farmers or workers in the local sugar cane fields and coffee plantations. Community life is centered around
+the local Anglican Church, where one of the church elders Mr. Larry Jordan was the central player in
+mobilizing the community towards accessing development projects. Mr. Jordan is a deeply religious man
+who, many years ago, was associated with the Jamaica Welfare Society.
+
+
+
+                                                                                                              12
+        Mr. Jordan is also the pivotal figure behind Virginia's JSIF assisted basic school project. Virginia
+had a school whose structure was severely damaged by Hurricane Gilbert in 1988. When Mr. Jordan came
+to hear about JSIF nine years later, he used the church and its leadership to mobilize the community to apply
+for funds to renovate the school. The community seems to have readily agreed to this, since the lack of a
+good school structure was obviously a pressing need. The fact that a good structure once existed, but had
+been damaged without any real repairs for several years was a motivating factor. The project seems to have
+been thoroughly cooperative and participatory - the community provided labor services and were given
+training to help with construction skills and management.
+        Teenagers and men and women in their 20's do, however, seem disengaged from these processes.
+They express resentment against the church and its central role in community life. Some wish to have a
+"youth center" that they would like to mobilize JSIF funds towards. Some of the resentment against the JSIF
+school project is a level of unhappiness that JSIF changed the management of the school, replacing an old,
+revered school principal with a new person who most in the community do not seem to like. This suggested
+that the greater sense of ownership that participation engineers may also lead to a greater desire to control
+the project after it is created with a greater say over its management. It is unclear that the same level of
+resentment would have been expressed with an old style development project.
+        Virginia has been matched with Downing – a community that is about a twenty minute drive away
+from Virginia – similar in its demographic characteristics and its church-centered social life. Downing has
+its own history with JSIF. It also has a school, which is in reasonably good shape, but suffers from constant
+vandalism by "disaffected youth." Teenagers tend to congregate in its grounds, play loud music, games,
+harass students and teachers, and throw rocks at windows. The teachers also expressed a fear of crime and
+violence because of this, but we were not able to detect any actual incidents of crime or violence around the
+premises of the school. Because of the vandalism, residents of Downing had applied to JSIF for some funds
+to build a gated fence around the school. JSIF rejected the proposal for reasons that are unclear.
+        In summary, JSIF seems to have had a largely positive impact in Virginia. There was a clearly a
+pressing need to renovate the basic school and the community was easily mobilized towards this end by a
+respected elder with experience in community-based development. The JSIF project seems to have created
+hope in the community for further projects and motivated them to seek further assistance.
+
+
+Community Pair C
+New Valley/Orange - Shadow/California
+
+
+        JSIF funded a road that connected the communities of New Valley and Orange to a highway. Once
+again this project demonstrates the importance of the church in rural Jamaica, and its important role in
+
+
+
+                                                                                                                13
+community driven development. The project was initiated by the pastor Rev. Williams of New Valley who
+read about JSIF in the newspaper and mobilized church and community leaders to harness community
+support to apply for funds. Both communities, New Valley and Orange were involved in writing the
+application, and the project has benefited both communities – though arguably it has benefited New Valley
+more than Orange.
+        The "pastor was the leader" here. It was initially difficult to mobilize the community but Rev.
+Williams worked hard to get the process moving. Ultimately "no (monetary) contribution was required in
+the project so everyone participated" and voluntarily provided services like free labor and food. Despite the
+projects obvious benefits, residents of New Valley expressed some dissatisfaction with JSIF saying that the
+contractors did "shoddy work" and that employment on the project was not fairly distributed. On the choice
+of contractor they said, "because we are beggars we have to accept what JSIF gives us." The community
+was often consulted with several meetings held during the initial stages. This generated complaints of "too
+many meetings." But there was no consultation about the choice of contractor. Some resentment was also
+directed at Rev. Williams who, according to a focus group, "was thinking of his own convenience" by
+making sure that the road was extended till it "ended at the church." Once again we hear reports that youth
+are disaffected, and do not participate in community activities.
+        However, the project has had a "tremendously positive" impact on the life of the community. The
+road is a "lifeline" that allows residents to take their produce to the market, access taxis and other
+transportation to connect to the main arteries. It seems obvious that the road has had a transforming effect
+on the community's economic and social life. Residents told us that participating in the project developed a
+sense of "ecumenism" in the community. It has energized various local community associations that were
+lying dormant for several years. The community is enthused enough that they want to apply for more funds
+to extent the road even further. They also wish to look for funds for a school or a clinic.
+        Shadow/California is the matching pair of communities for New Valley/Orange. It is located in the
+same county as New Valley/Orange and has similar problems in that it suffers from the lack of a road, which
+cuts it off from the main Jamaican highways. This leads to several problems – high prices for water, lack of
+access to schools, and difficulty transporting cash crops. The community seems to have a sense that it is
+overlooked by its political representatives, a focus group discussion described themselves as a “rejected
+community.”
+        Yet, the community, also deeply religious and centered around the church, has a high degree of
+social cohesion and is eager to participate in collective action for the common good. A focus group
+discussion on their work towards maintaining the unpaved road that now exists reveals this succinctly, “We
+work together for the good maintenance of the road because all of us need it. We filled it with cement and
+other materials. We worked on it by ourselves.” “We had a benefit from the experience. We learned to
+
+
+
+                                                                                                            14
+work together.” In fact, we recently received reports that the community had organized itself into protesting
+the lack of funds for a road by blocking one of Jamaica’s main highways to bring attention to their plight.
+While not everyone would see this is as a constructive activity, it does indeed demonstrate a great deal of
+collective action capacity.
+        The data from these two sets of communities reveals that the social fund has clearly had a positive
+impact on New Valley/Orange by providing a desperately needed resource. While there was some
+resentment expressed against the project, this experience with collective action seems to have left the
+community thirsting for more.
+
+
+Community Pair D
+Arnett Gardens - Union Gardens4
+
+
+        Arnett Gardens and Union Gardens are located in inner-city Kingston, Jamaica’s capital city and
+also its largest with almost half the country’s population. Arnett Gardens where the JSIF project is located is
+known as a “garrison community.” These are communities in Kingston that were founded and controlled by
+the PNP and the JLP. Arnett is a stronghold of the PNP. In order to understand the role of the JSIF project
+in these communities, it will help to briefly recount the history of violence and political conflict in inner-city
+Kingston.
+        Towards the end of the 1960’s the first garrison community, Tivoli Gardens, was established by the
+JLP as part of what was called a “slum clearance project.” Arnett Gardens was established in 1972-74 by
+the PNP to counter the influence of Tivoli Gardens. Partly as a result of political mobilization within Tivoli
+and Arnett Gardens, the 1970’s saw a sharp increase in politically driven violence which prompted the then
+PNP Prime Minister Michael Manley to declare a State of Emergency in 1976. In 1978 Bob Marley, the
+reggae icon, attempted to bring the political parties together with the One Love Peace Concert, where
+Edward Seaga, the JLP leader, and Manley went on-stage with Marley and held hands together to
+symbolically mark a new era.
+         The One Love concert represents an important marker in Jamaican history, but was not associated
+with a reduction in political violence which peaked in the early 1980’s. As the 80’s progressed, however,
+the garrison communities became central locations for the drug trade primarily as a conduit for transporting
+marijuana and cocaine to the United States. Thus, the drug economy supplanted politics as the driving force
+behind violence and rival gangs, organized around the same boundaries as the garrisons, competed over the
+
+
+4
+  The Arnett Gardens report is based upon fieldwork conducted by Ruel Cooke for the JSIF evaluation, and a separate
+study by Grace Imani Duncan (2001) commissioned for this paper followed up by work by Duncan and Woolcock
+(2002).
+
+
+                                                                                                                  15
+trade. By 1996-97, violence had reached the highest point in Jamaican history with homicides showing a 33
+per cent increase between 1995 and 1997.
+        In 1996 a proposal was floated to reconstruct the Kingston Public Hospital, which is located close to
+the garrison communities and services people from inner-city Kingston. To facilitate the construction of the
+hospital, two of the most powerful Dons in Jamaica, Dudus (JLP) and Zekes (PNP) orchestrated a peace
+agreement in 1996. The agreement is better characterized as a strategic alliance carefully demarcating areas
+of control. Preliminary fieldwork seems to suggests that Zekes was allowed to control the areas bordering
+greater Kingston and thus access to jobs and other economic opportunities, while Dudus was granted control
+over the wharfs and therefore to the drug and gun trade (Duncan, 2001). The JSIF sponsored renovation of
+the Tony Spaulding Stadium in Arnett Gardens should be viewed within this context.
+        The JSIF effort began in 1996 when JSIF commissioned a study by a team of anthropologists to
+understand how public assistance could help alleviate the violence (Moser and Holland, 1997). On the basis
+of several in-depth interviews, PRA exercises and focus groups discussions, the anthropologists attempted to
+identify the complex socio-cultural, political and economic bases for the violence. Underlying all these
+factors, they said were two key causes -- the lack of jobs and the lack of cooperation and communication
+across communities. They, therefore suggested, as a priority, that JSIF assist in “rehabilitating and
+equipping integrated community spaces such as sports facilities, teen centers and training facilities,”
+claiming that this would provide “a modest entry point to break contextually specific cycles of poverty and
+violence..” Given that JSIF typically sponsors projects related to schools, health clinics, roads, and water,
+constructing a sports facility was a radical departure from practice. Taking account of Moser and Holland’s
+recommendations, Vision Development – a local NGO – applied to JSIF for funds to assist the rehabilitation
+of the Tony Spaulding Stadium which was an existing facility that was used primarily as a football field for
+the area teams. JSIF funded in the construction of bleachers, and in renovating locker rooms and training
+facilities. The goal was to make the Complex a center of inter-community sports activity.
+        There is little evidence that this was done in a participatory manner. Unlike Virginia or New Valley
+there was almost no direct community participation, aside from the social analysis, or community
+contribution and almost all the costs, planning and construction was borne by JSIF. There was a clear lack
+of information about the JSIF process in Arnett Gardens, and in fact almost no one we spoke was aware that
+the project was sponsored by JSIF. We were told that there was a lot of support for the project, about which
+the "community got together as a family,” but, “nobody from the community worked on the project." There
+was some resentment expressed about this - a belief that the work was done by workers from outside when it
+was an obvious source of employment in a community that desperately needed jobs. All of this is clear
+evidence that JSIF had essentially given up following its participation guidelines here. This does not mean
+
+
+
+
+                                                                                                                16
+that JSIF made the wrong decision. Given the nature of the project and what it was trying to accomplish,
+one can imagine that it would have been particularly difficult to get the community to make contributions.
+        When this field work was conducted in March 2000, the sense we got was that the project had
+accomplished wonders. A focus group said, "the complex is a showpiece and offers a fantastic view of the
+community. It is a sign of progress as it adds to the overall development of the community and removes
+some of the stigma attached to it." Rao spent a day going from house to house asking questions about
+people's perceptions about the project and without exception, and without prompting, he was told that there
+was a huge drop in violence that residents directly attributed to the new stadium. "The kids play football
+instead of killing each other." "If there are more sporting activities the youths will have less time to think
+about guns." While Arnett Gardens, in March 2000, was still not a neighborhood where residents of
+Kingston would feel safe to roam around in, it no longer seemed like the war zone it used to be. Elderly men
+and women sat on their porches or gardens, children played cricket or soccer on the street. Contrast this
+with another nearby area - a few miles away - when one felt a clear sense of danger. Young men were
+roaming the streets with unsheathed knives stuck in their belts, guns were carried freely. Outsiders were
+stared at and were treated with suspicion.
+        Figure 1 which presents time series data on crime from Western Kingston, where the oldest and best
+established garrison communities are located, provides dramatic evidence of the decline in crime and
+violence. All types of crime have shown a decline here since 1996. This was prior to the JSIF intervention.
+Note however, that after 1997 crime violence declined at a steeper rate suggesting that JSIF may have
+provided some additional impetus to the process. Figure 2 provides evidence to show that the decline in
+violence in Western Jamaica is in sharp contrast to the rest of Jamaica where murder rates have remained
+relatively stable. Nevertheless it is important to not attribute all the declines in violence to the Tony
+Spaulding renovation but to see it as part of a concerted effort to reduce violence in the garrison
+communities.
+        Arnett Gardens remains one of the poorest neighborhoods in Kingston. A focus group discussion
+revealed, for instance that, "We are saddened by the fact that the community is mostly brought together by
+death, along with dances and sporting activities." Teenage pregnancy, unemployment, and the youth
+discontentment remain serious problems. It is still difficult to get the community to work together for the
+common good and political parties continue to define the neighborhoods. A community leader told us, "We
+need a community system, not a party system." “Leadership is dispersed between ...(various leaders).
+Some take care of security, and others take care of neighborhood needs."
+        Much of our findings from March 2000 need to be rethought in the wake of the events of July 2001,
+when intense violence flared up again in the garrison communities. While the annual murder rate is still not
+in, it is likely to soar again to the levels of the 90’s indicating that the abatement in violence was more a lull
+
+
+
+                                                                                                                 17
+than a cessation. As Jamaica drew closer to a general election in 2002, it appeared that traditional politically
+driven tensions were once again causing conflict. Therefore, the possible impact that the Tony Spaulding
+stadium project had on the community does not seem to have been sustained over the long term.
+Furthermore, to the extent that the peace process caused a lull in the violence, it does not seem to have been
+a direct result of the stadium renovation as much as part of a broad peace initiative instituted between the
+two main warring factions in Kingston. Yet, there is also no question that the stadium has had a large and
+positive impact on the community in the sense that it is a symbol or pride and provides a valuable public
+service.
+           The matching community - Union Gardens is similar to Arnett gardens in its occupational structure
+and levels of poverty. Patterns of violence in Union Gardens mirror those in Arnett gardens indicating the
+lack of a causal link between the Tony Spaulding stadium initiative and the cessation of violence in the two
+communities. However, we were told in 2000 that Union Gardens is "as united as can be expected." They
+have a citizens association where most community-wide decisions are made. A leader told us that they "are
+the only community in the western belt (of Kingston) not warring against a neighboring one." He also told
+us that "Union Gardens in rejected by all." Thus, there is a clear sense that they have been abandoned -
+perhaps amplified by the high profile interventions they see in places like Arnett Gardens.
+           To summarize, the Tony Spaulding stadium has had an impact on Arnett Gardens that is both
+symbolic and real. It represents an intervention that was preceded by some thought and analysis by JSIF,
+and participatory aspects seem to have been given up in favor of the more larger goal of doing something
+that would dramatically reduce violence. As a part of the peace initiatives instituted at the time of its
+conclusion, it seems to have played a part in the reduction in violence between 1999 and 2001 but its impact
+must be seen in the context of the extraordinary peace agreement arrived at between the two Dons, Zekes
+and Dudus, in 1996. However, the recent increase in politically driven violence in these communities
+suggests that peace was not sustainable over the long term. Long term peace would require a basic change
+in Jamaica’s political culture which is, perhaps, an elusive goal (Keith and Keith, 1992).
+
+
+Community Pair E:
+Rock Creek/Creighton
+
+
+           Rock Creek is located at the west end of Jamaica, close to the resort town of Negril and many of its
+residents commute to Negril to work in the tourist industry. Rock Creek had a basic school that was housed
+in a church building with a roof that was damaged by a hurricane. In 1997, even this dilapidated structure
+was destroyed by a fire. The fire motivated the community to seek JSIF funds to renovate the school
+building. The school principal instigated efforts to start the renovation under the auspices of the Sports
+
+
+
+                                                                                                               18
+Club, an organization largely consisting of younger members of the community. The Sports Club leadership
+then attempted to widen the base of support in the community enlisting the help of the church and by
+forming a Citizens Association with a group of interested parents. The Sports club leader says that the
+process of galvanizing the community around the project was not easy and “to ensure broad support for
+participation the community had to be educated about the project.” “It was a difficult process, but through
+public education (the sports club) was able to the community totally involved.” Ultimately, according the
+Sports Club leader, “the Church was not as actively involved as it was hoped.”
+        The Citizens Association, on the other hand, raised a substantial amount of money from the
+community, even prior to the JSIF intervention. Once JSIF approved the project, it helped organized work-
+days, dug the foundation and built a driveway and parking area. It also played a key role in assisting the
+contractor to acquire building materials on credit from local hardware merchants. The community was,
+therefore, very actively involved in the project in all its phases. Their contribution far exceeded the
+minimum 5 per cent required by JSIF. This allowed enough funds to be left over a canteen to be constructed
+entirely out of community funds after the school was constructed.
+        The impact of the project on the community has been favorable though the prognosis is mixed.
+Focus group discussions seem to echo the rhetoric of participation. They say that have learned the “idea of a
+community learning to work together for the good of the entire community.” They add that the project
+motivated “the community to work together for the good of everyone,” and that “Team work is necessary to
+accomplish goals. The local Councilor tells us that “successful conclusion of the project served to
+strengthen the sense of community.” However, the councilor also says that it has led to “rivalries” between
+the Sports Club, the church and the PTA. Furthermore, he is “not sure who is responsible for ongoing
+maintenance and operation.” The Principal does not know whom to turn to for this and there is no school
+board in place and project committee’s present role needs to be clarified. This leads to questions about how
+sustainable the project is. The Sports Club leader reiterates this point saying, “Currently there is confusion
+about who is responsible for the sustainability of the school.” There is a “need for more community effort
+now that the project is completed to ensure that the building and grounds are properly maintained. Support
+can only be gotten if the community sees the benefits.”
+        From all of this one gets the sense that the community was very well organized in obtaining funds
+for the project. There was a commonly felt need when the school was destroyed. One also gets the sense
+that the traditional leadership in the community did not make enough efforts to restore the school and this
+created space for the Sports Club to exercise leadership and mobilize the community. The JSIF process was
+clearly well suited to this purpose and Rock Creek, as a motivated, well-organized community obtained the
+funds easily. However, once the project was completed, there was clearly some confusion as to who is
+responsible for the facilities operation and maintenance. The normal procedure is for the School Board to
+
+
+
+                                                                                                              19
+take over these functions, but no such body was formed. Consequently there were some tensions between
+the Church – representing the traditional authority figures in the community, and the Sports Club, despite
+their central role in getting the project started, may be losing power in the eyes of the community back to
+Church.
+          The matching community for Rock Creek is Creighton which is located a few miles and has similar
+socio-economic characteristics. The community is said to be fairly united with two very active youth clubs.
+They have recently helped form a District Development Committee consisting of participants from the youth
+clubs and other individuals active in community activities. The church, however, is not involved in these
+activities and does not seem to play an active role in the development of the village. Focus group
+discussions explained that while the “Community is minimally involved,” “those that attend meetings are
+mostly young people because they have time on their hands.” Some also felt that the “Community not very
+united, politics divide the community during elections.” Others believed that despite strong political
+divisions, the village was relatively harmonious.
+          Some of this lack of collective action capacity has affected the community’s ability to apply for JSIF
+funds. We were told that the “community did not apply for JSIF because there was no consensus on which
+project was a priority....” On the other hand community members have worked together on a road
+construction project and are presently providing voluntary labor excavating land from the hillside to build a
+play field.
+          Perhaps the most important distinguishing factor between Rock Creek and Creighton is that
+Creighton does not have a single important problem, like the school destroyed by fire, that is able to unite
+the community in an effort to deal with it. In Rock Creek the lack of a school motivated young people in the
+Sports Club to work hard to galvanize the community to organize itself and apply for JSIF funds. Creighton
+on the hand, suffers from several problems, the lack of adequate water, poor roads, the lack of a school
+building, and there is no clear sense of which of these is a priority. The multiple problems serve to divide
+the community rather than unite it.
+
+
+Summarizing the Qualitative Evidence:
+
+
+          In interpreting the qualitative evidence it helps to reiterate the point that the information is based
+upon interviews with a few key informants in each community, and focus group discussions. Since the
+focus groups were not selected on the basis of a probability sample, it is possible that the views they present
+may not be representative. The qualitative evidence therefore should be evaluated in conjunction with the
+quantitative evidence, which is based on a random sample, to get a comprehensive sense of the impact of the
+project on the community.
+
+
+
+                                                                                                                   20
+          The qualitative data indicate that the Social Fund had, overall, a positive impact on each of the five
+communities in our sample. JSIF generally follows a procedure where careful social analysis precedes the
+design of a project. While the community is generally well informed about the project, participation for the
+sake of participation does not seem to be the highest priority. In the case of Arnett Gardens and Port Royal,
+for instance, levels of participation were very low. Community members were given the opportunity to
+attend meetings where they were given information about the project, but this does not mean that they had a
+voice in the choice of the project. The focus group interviews seem to indicate that many would have
+preferred a different type of project – usually one that generates private goods like more jobs.
+          However, Jamaica’s political culture, and the many divisions that exist within its communities may
+make the participatory process difficult to implement in a manner that is truly inclusive. Typically a leader
+within the community receives support from one faction within the community and not with another. This
+creates a situation where the project tends to incorporate the interests of one sub-group of the population
+while ignoring the others. This in turn has the potential to both generate a project that benefits many
+members of the community, but simultaneously reinforce divisions within it, as we saw in Port Royal and
+Virginia. The question that should be asked is whether participation within a heterogeneous, divided,
+community is possible or even desirable. A truly participatory process was perhaps impossible in a
+community such as Arnett Gardens. Participation in this case was substituted by careful social analysis that
+helped inform the development of a project that, at least for a while, had a positive effect on the community.
+This suggests that what really seems to matter is a deep knowledge of the social, political and economic
+forces underlying a community – whether this comes from “participation” or social analysis. Thoughtful
+investigation – whether done by “listening” to the community or by simply listening to good social scientists
+can result in effective project design.
+          Divided communities also create the pre-conditions for capture. However, despite the lack of full
+participation, what we see in each of these cases is not capture but what one World Bank official5 calls
+“benevolent capture.” This describes a situation where influential individuals within a community push
+through a project and dominate its progress, but do it with communitarian motives which have the effect of
+having a generally positive impact. The point of Community Driven Development is to involve the
+community in a development intervention so to create a better match between the community’s needs and
+the project it obtains. How this is achieved is perhaps of secondary importance. It helps to have a wide
+menu from which to choose from which, JSIF, to its, credit, seems to allow for. The Tony Spaulding
+stadium, the Virginia basic school, and the New Valley road project are cases in point. Participation, as in
+the case of Virginia and New Valley by having communities send applications which are then vetted and
+
+
+5
+    Aniruddha Dasgupta who manages urban CDD projects in Indonesia.
+
+
+                                                                                                               21
+checked – is one way to achieve this goal. But, as the Tony Spaulding stadium demonstrates, this may not
+always make sense in communities that are more difficult to work in because of severe social disruption.
+        To summarize, we have learned from the qualitative analysis that the CDD process is often
+dominated by a sub-set of the population mobilized by a local leader who may or may not be a politician.
+The process of project selection is not generally participatory but is driven by the opinions of this small
+motivated group. Once construction commences, however, we see that this group is often able to motivate a
+larger group in the community to participate by making contributions to the project. Once the facility has
+been completed, it is generally positively viewed and seen as something that belongs to the community –
+that was constructed with the community’s active support and participation. Given that the process of
+project selection is dominated by a small group, it would be interesting to see if participation was selective
+and exclusionary. Note that this general pattern does not apply to Arnett Gardens, which is essentially an
+“informed” top-down project where carefully social analysis preceded the design and implementation of the
+facility. Arnett Gardens also reminds us that the positive social externalities that arise from a community
+based intervention – however well designed – may be difficult to sustain in the long term in communities
+that are beset by deep divisions. We will now turn to the quantitative data explore these issues greater detail.
+We will examine the determinants of participation, and see the extent to which community interactions and
+the capacity for collective action have been affected by the social fund. We will therefore understand the
+extent to which our qualitative findings can be generalized to the population. We will also attempt to
+examine the causal impact of the social fund process on the community’s capacity for collective action and
+participation.
+
+
+3. Quantitative Data and Methodology
+
+
+        Each of the five pairs of communities described above have been matched on the basis of observable
+characteristics such as the availability of public services and levels of poverty, but the field visits also helped
+match them on “unobservables” such as their geography, political culture and social structure. Within each
+community, fifty households were selected at random to be administered the questionnaire. Within each
+household an attempt was made to interview two adults: the head of the household and one another
+randomly chosen member of the opposite sex to the household head. In practice, Jamaica’s family
+structure, which tends to be have a large proportion of single parent households, made it difficult to locate
+the second adult in many households. Therefore we have a sample of about 500 households with 684
+individuals, spread evenly between social fund and non social fund communities.
+        The questionnaires that were administered to these households covered issues that ranged from
+socio-economic characteristics, experience with community based activities and participation in projects
+
+
+
+                                                                                                                22
+prior to the introduction of the social fund, sources of information prior, networks, perceptions of problems
+in the community, information and knowledge about the social fund, level of participation in community and
+social activities, and a series of questions that asked respondents to evaluate changes from five years ago to
+the present on a series of outcome variables (the social funds started operating in these communities in
+1997). The questionnaires for the social fund and non-social fund communities were similar, the only
+difference being that social fund communities were asked an additional set of questions that were unique to
+the social fund process. The analysis will focus on two sets of dependent variables – one set will analyze
+targeting and participation focussing on data from the social fund communities, the second set will compare
+social fund to non-social fund communities in order to tease out the impact of the social fund on changes in
+various indicators of the capacity for collective action.
+        Our data suffers from two important problems, common to many impact evaluations, that affect our
+ability to determine the causal impact of the social fund program:
+A) Since the access to the social fund was not randomly assigned we are not able to observe what would
+have happened to a community had it not received assistance from JSIF.
+B) We do not have direct observations on the communities prior to the introduction of the social fund.
+        To elaborate on these concerns and to outline how we attempt to find solutions to them we will
+briefly sketch the elements of the impact evaluation problem using Ravallion’s (2000) notation:
+        Let Ii be the impact of the Social Fund on individual i. Then, Ii = Y1i – Y0i | Pi =1 . Where Y1i is the
+outcome of interest for individual i when that individual belongs to a community that received treatment 1.
+Y0i is the outcome when the same individual belongs to a community that did not receive the treatment. This
+is conditional on Pi =1, i.e. the probability that the individual belongs to a community that received the
+treatment is 1. In other words, the true impact of the social fund is measured by looking at the difference
+between the outcome with the social fund intervention and the outcome without the social fund intervention,
+for the same individual in the same community. Obviously, till cloning technologies become more cost
+effective, this is never observable. That is, we can never observe Y0i when Pi =1; the outcome of what
+would have happened had the treatment not been received in a community that received the treatment. This
+is crux of the problem with program evaluation.
+        The ideal solution to this problem is to do a random assignment which, on average, will give us the
+correct answer. If we define the expected value of the impact as:
+        I = E(Y1i – Y0i | Pi =1) = E(Y1i | Pi =1) – E( Y0i | Pi =1).
+Then, if the social fund was assigned randomly to a group of communities which constituted the treatment
+group, while the rest were left as controls, so long as the sample was randomly drawn we can assume
+E(Y0i | Pi =1) = E( Y0i | Pi =0). The expected value of the outcome without a social fund in the treatment
+group would be the same as the expected value of the outcome without a social fund in the experimental
+
+
+
+                                                                                                               23
+group. We would then get an unbiased estimate of the average treatment effect. However, we know that
+Social Funds were not randomly assigned. In fact, JSIF explicitly states that they have a pro-poor bias. One
+way around this is to select matched pairs of communities which are very similar so that we can assume
+E(Y0i | Pi =1) = E( Y0i | Pi =0) with some degree of comfort.
+        This, however, is imperfect. For example, looking at the qualitative work we see that while Port
+Royal is similar to its matched community Rennock Lodge, Rennock Lodge does not share Port Royal’s
+unique history and social structure. This problem has a solution if we assume that the differences between
+the matched pairs are time invariant. In other words, we can assume that the kinds of things that make
+Rennock Lodge different from Port Royal do not change over time – a safe assumption since much of what
+makes them different is related to their uniqueness as communities which is unlikely to change rapidly over
+time. If the source of bias is time invariant, and if we have observations on these communities over time
+preferably before and after the introduction of the social fund in the experimental community, we can take
+the difference between two time periods in each community to eliminate time-invariant sources of bias. We
+can then take another difference across the experimental and control matched pairs to get a better estimate of
+the causal impact of the social fund. This gives us the difference in difference estimate:
+
+ˆ = E(Y1it − Y1it −1 | Pi = 1) − E(Y0 it − Y0 it −1 | Pi = 0) = E(∆Yi | Pi = 1) − E(∆Yi | Pi = 0)
+I
+        In our data we do not have direct observations of these communities before the introduction of JSIF
+but we asked respondents a series of retrospective questions about life five years before March 2000, which
+takes us to a period the year before JSIF was introduced to get a sense of initial conditions. We also asked
+them to directly assess how their lives have changed for a series of outcome variables from five years ago to
+the present and therefore provide a direct measure of ∆Yi in both pairs of communities. This is an imperfect
+solution since memories are sometimes poor, but it in the absence of panel data it provides one way of
+deriving estimates of change.
+        This method, however, does not allow to assess how different individuals are differentially affected
+by the change. While it may be safe to assume that the differences in the two matched pairs of communities
+are time invariant, it may be more difficult to assume the same for individuals in those communities. We
+know that if unobservable characteristics change over time our difference in difference estimates will still be
+biased. Also, it may be interesting to examine how particular characteristics of individuals affect changes in
+outcomes, and how those characteristics may be affected by the social fund process. For instance we may
+interested in know if better educated individuals are more likely to participate in group meetings, and if the
+social fund process has a greater impact on better educated people.
+        In order to find a solution to the problem of bias due to time-variant unobserved heterogeneity and
+to get a better sense of how the program effects varied across individual we will employ propensity score
+
+
+
+                                                                                                             24
+matching methods. The idea behind the propensity score (Rubin 1973, Rosenbaum and Rubin 1983) is to
+create an index that summarizes the exogenous observable attributes of an individual. When this index is
+generated for the individuals in both the experimental and control groups, individuals in the experimental
+group can be paired with their statistical clones in the control group. If the observational and control
+samples are very different the propensity score will also identify individuals who have no corresponding
+match – that this they will lie outside the common support of the propensity score in the experimental and
+control samples. These individuals outside the common support are dropped to reduce bias in the estimate
+of the impact. To summarize we will calculate a propensity score on the basis of the following equation:
+        (1)    Pi = f ( H i , X i , Ci )
+Where Pi is the probability that the individual belongs to a social fund community. H is a vector of
+exogenous household characteristics, X is a vector of exogenous measures of behavior of the household
+related to participation prior to the introduction of the social fund, and C is a dummy variable for each pair
+of communities to control for regional differences. The vector H includes the sex of the respondent, his/her
+age and its square, whether the respondent is less than 25 years old, the household size, the number of
+earning members of the family, the highest level of education in the family, the number of children of school
+going age, whether the individual is Rastafarian, whether s/he is Protestant, whether s/he is a permanent
+resident of the community who has not migrated from elsewhere, whether the respondent is married or
+unemployed, and the household’s economic status. Economic status is a principal component measure of a
+set of asset based variables using the method suggested by Filmer and Pritchett (2001), since the surveys did
+not ask questions on income or expenditure. The method for calculating the economic status variable is
+outlined in Appendix A.
+        In the vector X we include: the level of participation in community activities prior to JSIF, their
+primary method of socialization – whether they meet other members of the community primarily in
+community activities like PTA meetings, or whether they meet them through traditional activities such as
+weddings and funerals, the number of influential people they knew within the community prior to JSIF, and
+the number of influential people they knew outside the community prior to JSIF. C includes dummy
+variables for each pair of communities analyzed in the qualitative section.
+                                                                                            ˆi calculated from
+        Equation (1) is estimated with a logistic regression, and the predicted probability P
+
+the estimated logit regression is the propensity score. As explained above, it can be viewed as a summary
+measure of all the exogenous variables in equation (1). As we will see below, because the pairs of
+communities have been matched closely during the sampling process the overlap between observations in
+the social fund and non-social fund samples is quite large which means that only a small percentage needs to
+
+
+
+
+                                                                                                              25
+be trimmed. However, dropping these extreme observations substantially reduces the bias in the estimated
+impact of the program (Heckman et.al., 1998).
+        We will analyze the impact of the intervention using nearest neighbor matching. Each observation
+in the social fund sample will be matched on the basis of the propensity score with its “nearest neighbor” in
+the non-social fund sample. Since the sample size is rather small, in practice, it is difficult to find an exact
+match and we therefore take the average of the five nearest neighbors from the control sample. The
+difference between the observation in the treatment sample and its matched (averaged) nearest neighbor in
+the control sample provides an estimate of Ii . The average of all the Ii provides an estimate of I the average
+treatment effect. Studies have shown that this average treatment effect provides results that are close to
+those obtained from a randomized trial (Dehejia and Wahba, 1998). We will also examine the impact of the
+impact on the social fund on intervening variables by calculating the nearest neighbor I for sub-groups of the
+population divided by education, age, economic status, and gender. We calculate bootstrapped standards
+errors for the nearest neighbor estimates to test whether the estimates of I are significantly different from
+zero. The nearest neighbor method provides the closest approximation to results from a random assignment
+and, unlike regression based methods, does not make any assumptions about the parametric relationship
+between the intervention and the outcome variables. In our view, it is therefore the preferred method to
+assess the impact of the social fund. Thus we employ two methods – difference in difference with matched
+samples of difference in difference with propensity score nearest neighbor matching to provide estimates of
+the impact of the social fund. This in combination with the qualitative evidence will provide an in-depth and
+comprehensive examination of the relationship between social funds and outcomes of interest.
+        The outcome variables we examine include: Have respondents heard of JSIF, Compared to five
+years ago whether it is easier now to work with groups and associations of people outside the immediate
+household, compared to five ago has there been a change in the level of trust in the community, compared to
+five years ago is it more easy to get the entire community to agree on a decision, five years ago were you
+more or less likely to be fined or penalized for not participating in community activities, compared to five
+years ago is the government more responsive to your needs, compared to five years ago is the local
+leadership more responsive to your needs, compared to five years ago are community decisions made more
+or less often by community leaders, and compared to five years ago are community decisions made more or
+less often by community meetings with a vote.
+        In addition to measuring the impact of the social fund, we are also interested in studying the
+determinants of participation within the social fund process. To examine this we focus on the entire social
+fund sample, without trimming. We will first begin by examining how close the project that each
+community obtained was to the expressed preferences of members. Each individual in the social fund
+sample was asked to rank order the three most important problems that they faced prior to the introduction
+
+
+
+                                                                                                                26
+of the project. The question was relatively open-ended allowing for a whole range or responses. These
+responses were then coded into categories that could be associated with interventions – such as education,
+roads, income generation, etc. We then focus on the problem that was listed as the most important by the
+respondents and rank orders the categories by the number of “votes” they receive6. The sample is then split
+into high and low levels of education, economic status, age and gender to see if the “votes” change for
+different types of individuals.
+         Finally, we run reduced form regressions on a variety of indicators of participation in the Social
+Fund process with the same set of exogenous variables as in equation (1). The indicators of participation we
+use include : Whether they had a meeting to decide about the project, whether they participated in any
+meetings during the course of the construction, and whether the JSIF project addressed the problem that was
+ranked as the most important by the respondent.
+
+
+Quantitative Results
+       Table 1 provides summary statistics for the exogenous variables for the social fund and non-social
+fund communities. We see that the two samples are quite similar – none of the variables in the samples
+significantly different from each other - indicating that the quality of the match in the pairs of communities
+is good. The average age of a respondent is 45.3 (46.8 in the non social fund sample). The mean highest
+level of education in a household is 10.14 years (9.97 in the non social fund sample). Interestingly a little
+more than 50% of the sample consists of female headed households, which is consistent with demographic
+patterns in Jamaica. Prior to the inception of the social fund, participation in development projects was
+slightly higher in non-social fund communities, where the average household had participated in 1.87
+projects prior to JSIF compared to 1.76 projects in JSIF communities. Non-JSIF communities had more
+frequent contact with their local leaders than JSIF communities. On average, JSIF communities are
+acquainted with 1.42 influential people within the community while this average is 1.06 for matched
+communities. Non-JSIF communities, on average, knew 1.35 influential people outside their community
+compared to 1.21 for JSIF communities7.
+       Table 8 reports the results from the propensity score regression – equation (1). Smaller households
+and migrants are more likely to belong to social fund communities. Individuals with higher levels of
+participation are less likely to belong to social fund communities, as are those who have participated in non-
+
+6
+  We also tried a “proportional voting” system by using all three responses and calculating a weighted vote with the
+highest weight given to the first problem, the second problem received 50% of the weight of the first problem and the
+third problem receiving 33% of the weight. This produced very similar results to the “majority vote” system and is
+therefore not reported for the sake of brevity.
+7
+  The variable “Influential people” is constructed by asking respondents whether they had frequent contact with a series
+of people such as the Mayor, pastor, extension worker, etc. It is, therefore, not self-defined.
+
+
+
+                                                                                                                      27
+JSIF projects. Individuals well connected to leaders within the community are more likely to be in a social
+fund community, while those who have daily or weekly access to local leaders or connections to VIPs
+outside the community, are less likely to receive JSIF funds. Since the amount of community level variation
+is small, it difficult to read much into this regression but it does seem to suggest that individuals who have
+more experience with CDD projects are less likely to be in communities that receive social funds. To
+compare the JSIF and non-JSIF communities, Kernel densities for the propensity scores for both
+communities were plotted (Figure 1). Their curvature is similar, again indicating a good quality match.
+When the observations are trimmed to drop those outside the common support, we lose about 10 per cent of
+the sample in both the JSIF and non-JSIF samples and, as expected, differences between them substantially
+decrease (Table 1).
+        Before working with the trimmed sample, we will analyze the complete JSIF community sample to
+investigate how well targeted the projects were and to examine the determinants of participation in the JSIF
+process. One of the important potential benefits of community driven development is its demand-
+drivenness. The perception that by allowing a community to be in the driver’s seat, there will be a good
+match between what the community needs and the project that it obtains. The qualitative work, however,
+indicated that because communities were divided – usually because of politics but also for other reasons -
+projects were not really “participatory.” They were driven by local leaders who, via a process of
+“benevolent capture,” mobilized a few members of the community to obtain JSIF funding and, in the case of
+Arnett Gardens, the project was initiated entirely by outsiders.
+        To examine how close the project matched the expressed preferences of the community we
+construct a targeting indicator based on a question in the survey questionnaire that asked respondents to list
+the three most important problems they faced prior five years before the survey. While the responses were
+quite diverse, we categorized them to approximate a type of intervention. For instance, whether the problem
+was “the school does not have a roof,” or that “the teachers in the school are not good,” they were both
+categorized as “school” problems. These categorized responses were then tabulated to reflect a “majority
+vote” process, and a “weighted vote” process as described above.
+        Table 2 reports the results. The JSIF process resulted in a relatively imperfect match between the
+community’s expressed needs and the project that was obtained – the category of needs that match with the
+project that was obtained are in bold. Two communities, Arnett Gardens and New Valley/Orange received
+their top priority project, as suggested by the qualitative evidence, while the other three did not.
+Furthermore, communities that did not receive their most preferred project received projects that were
+ranked relatively low in their list of initial priorities. This is true whether one assumes that group decisions
+were made by majority vote which counts the most important problem, or whether the top three needs were
+counted in weighted proportional vote. On explanation for this could be that most important problems were
+
+
+
+                                                                                                                 28
+often private goods – lack of credit and income generation for instance – which the social fund was unable to
+sponsor. But, even if we focus on public goods such as lack of water, health, poor roads, etc, we still see
+that the facility that was obtained is ranked very low. This is partly because of the menu that JSIF offers is
+usually restricted to health clinics, schools, water and road projects. However, even focussing on this
+narrow menu we still see that in three out five cases priorities that could have been addressed under the JSIF
+menu were ranked higher than the project that was obtained. Thus the evidence for community drivenness is
+rather poor. The preferences of the majority of the community did not seem to play a part in determining the
+project in the majority of the communities.
+        Moving to Table 5 we see a pattern as to whose votes count by examining if an individual’s
+preferences matched with the project that was obtained. Looking at all three expressed needs we see that, in
+a cross-tab, people of higher education were more likely to have expressed a need that was associated with
+the facility that was obtained. This pattern is even clearer if we focus only on the most important need. In
+the estimates reported in Table 6 we see that better off families with lower family size who were permanent
+residents were more likely to have their priority needs satisfied. Networks also seem to matter as people
+with greater access to local leaders who were more sociable were also more likely to obtain their highest
+priority project.
+        However, even if a project does not address the priority needs of a majority in the community, it still
+may be a successful intervention if, via a process of benevolent capture, the community is ultimately
+mobilized and satisfied by the project. This is suggested by Table 7 which analyzes whether respondents
+said that they would have ultimately preferred another project. The table shows that 82 per cent would not
+have preferred another project. The regression results here do not show a significant relationship with
+almost all the variables indicating that there is no clear socio-economic group that was more satisfied with
+the project. Networks, and proximity to community leaders also does not seem to matter. Contrasting Table
+7 with the targeting tables, one gets the sense that while the projects did not meet the ex-ante expressed
+preferences of the community, ultimately most people were satisfied with the choice. Therefore, the CDD
+process suggests a process of information transmission and persuasion by a small group of individuals who
+are associated with the leadership. While ex-ante targeting is poor, and the participation process relatively
+exclusionary, most in the community seem satisfied with the end result.
+        Table 3 provides estimates of a regression of whether the community had a meeting to decide about
+the project. Since four of the communities had at least one meeting about the project, this is as much an
+indicator of an individual’s information about the role of JSIF in the community as it is an indicator of
+participation. Note that only 53% of respondents gave a positive response to the question. We see that age
+has a quadratic effect on this with a negative sign at the mean. Thus younger people are better informed on
+average but the very young are as ill informed as the old. As expected, individuals in Arnett Gardens are the
+
+
+
+                                                                                                               29
+least likely to have had a meeting. Families with more earners, more experience with participation, and with
+better connections to leaders within the community on the other hand are more likely to have heard about the
+project. This suggests that there is a small core group of people in the community who tend to participate in
+development activities, who also may be well connected with the local leadership.
+        Having examined the extent of knowledge about JSIF meetings and the congruence between
+people’s preferences and the project that they obtained, we turn to studying the determinants of participation
+in the JSIF decision making process. First we will look at who participated in Social Fund meetings. Table
+4 provides some insights into this (with 27 per cent of the sample reporting that they had participated in at
+least one meeting) Here we see that individual socio-economic characteristics do not seem to matter as
+much as experience with participation. Non-Migrants, people who participated in projects prior to JSIF, and
+those who are well connected with leaders within and outside the community are more likely to have
+attended a meeting. Note, once again that Arnett Gardens has the lowest level of participation. This once
+again suggests that active participants tend to be a small groups of motivated people who tend to be active in
+community politics. But this variable, in conjunction with the targeting results, suggests that while the poor
+participate they do not necessarily obtain their priority projects. This raises the possibility that the non-poor
+may benefit more from participation than the poor.
+        The picture that emerges about targeting and participation in the JSIF process is, therefore, quite
+clear. Participation seems to have been restricted to a small group of active individuals who were close to
+the community leaders and were highly motivated. The entire process is best characterized as benevolent
+capture. It was not a broad based community driven process but pushed and activated by a few local leaders
+who nevertheless seemed to be doing it for reasons that benefited the community. Their private reasons for
+doing so are unclear, but obtaining the JSIF project clearly enhanced their stature within the community. In
+Arnett Gardens, we have a special case where participation was practically non-existent and the entire
+process was driven by outsiders – in that sense it could be called informed top down. Arnett Gardens was
+also the best targeted of the projects in that it attempted to address the most important concern of the vast
+majority of community members. New Valley/Orange, as shown in the qualitative section, was also well
+targeted in that the community received a project that addressed its most pressing need – a good road. The
+other projects in our sample, on the other hand, were extremely poorly targeted and would have performed
+abysmally in a vote. Moreover, targeting also seems to have not been pro-poor with better educated and
+better networked individuals much more likely to receive their preferred project. One reason for the
+education effect, however, was that three of the five projects in our sample are school renovations which are
+likely to have been favored by more educated members of the community. However, ex-ante only 20 per
+cent of respondents would have preferred another project. Therefore, while the CDD process may have been
+
+
+
+
+                                                                                                                30
+exclusionary with poor ex-ante targeting, once the project had been completed and was functioning most in
+the community seemed satisfied by the choice.
+        We now shift focus to examining the impact of the social fund project on the community. We will
+use data from both the JSIF and non-JSIF communities trimming observations outside the common support
+of the propensity score from both samples. Each outcome variable that we look at will be examined in two
+different ways – cross-tabs (which provide a difference in difference estimator with matched samples when
+the outcome variable is a retrospective question on changes over time) and difference in difference with
+propensity-score nearest neighbor matching. We first begin examining the set of outcome variables
+expressed in terms of changes from five years ago, prior to the introduction of JSIF. Table 9 examines if
+respondents find it more easy or more difficult to participate in groups or associations of people outside their
+immediate households. The cross-tabs show a clear JSIF impact, as do the nearest neighbor estimates. The
+JSIF process clearly seems to make it easier for people to work with other members of the community.
+However, the nearest neighbor estimates show a significant wealth effect suggesting that JSIF may have
+created more collective action capacity among the rich than among the poor which against suggests an
+element of “elite capture.” A Social Fund project within the community is more likely to enhance the
+capacity of the relatively well off to engage in collective action.
+        Table 10 reports results from an analysis of changes in levels of trust. Trust is not an easy concept
+to define or measure. The question did not attempt any explanation of the word but simply asked if “levels
+of trust and community cooperation” changed, before and after the JSIF, between people from different
+backgrounds in the community. This is relatively vague, and the results should be interpreted with caution
+and examined in conjunction with the other outcome variables. However, since English is Jamaica’s official
+language and is widely spoken and understood, the English word “trust” is likely to have been understood in
+similar ways by all the respondents in the five pairs of communities. The cross-tab results tell us that trust
+has slightly increased in the JSIF community, a finding that is confirmed by the propensity score results.
+The nearest neighbor estimates also present evidence to suggest that the increases in trust may have been
+significantly higher for those who identified themselves as Protestant emphasizing the important role of the
+church in Jamaica’s communities.
+        Table 11 examines a related question – compared to five years ago is it now more difficult or easy to
+get the entire community to agree on a decision. The difference in difference cross-tabs show a slightly
+positive JSIF effect, but the nearest-neighbor estimates show a small but insignificant effect. The nearest
+neighbor estimates, moreover, also suggest that any improvements in the ability to reach collective decisions
+were more likely to have been realized by better networked and employed individuals. Thus, we can infer
+that while JSIF did not have much of an impact on improving the ability of individuals to reach collective
+
+
+
+
+                                                                                                              31
+agreements, these changes were more likely to have been realized by economically more stable and better
+networked individuals.
+        Examining these collective action variables as a group, it does suggest that the JSIF process has built
+the community’s capacity for collective action by enabling the community to work together as a group
+across people of different backgrounds, and by increasing trust. How sustainable this will be is less clear.
+The projects are new and the community’s experience with collective action in the construction and
+management process is still fresh in their minds. But, we have already seen warning signs in Rock Creek
+and Arnett Gardens that this improvement in collective action may not be sustainable. This lack of
+sustainability has a historical precedent in Jamaica’s history with the Jamaica Welfare Society, where
+interest and support in the cooperative movement withered away as fashions changed and prime movers
+passed on. The vestiges of the Society either died or became entrenched as part of the elite – as in the case
+of the Port Royal Brotherhood. Therefore a question still remains whether the burst in enthusiasm for
+collective action generated by the social fund will prove resilient over the long term. It should be kept in
+minded that any new innovation within a community is likely to generate some enthusiasm and “a spirit of
+ecumenism” to quote the New Valley focus group. Furthermore, if the capacity for collective action that is
+generated by social fund process is not kept aflame with opportunities and funding for further development
+initiatives, it is likely to turn very quickly to disillusionment. JSIF, like most Social Funds, is financially
+constrained and potentially unlikely to have the resources to permit a community to apply for a second
+project. Unless this is rectified, the CDD process may have the potential to result in a level of
+disillusionment that is perhaps even greater than in regular top-down projects because of the level of hope
+that CDD engineers within activist groups in a community.
+        We now turn to perceptions of how the process of decision making within the community has
+changed, and the effectiveness of leadership and governance. Table 12 asks if respondents believe that
+community leaders are more responsive to their needs. Since the qualitative data revealed that the CDD
+process was often driven by local leaders – both formal and informal - this question checks to see if their
+efforts have resulted in a perception of greater responsiveness. The data show no JSIF effect either in the
+cross-tabs or the nearest neighbor estimates. The nearest neighbor estimates show, however, that JSIF
+effect is stronger for younger individuals, those who are married and those who are better networked outside
+the community. Therefore, while JSIF does not seem to have increased overall perceptions of community
+leader effectiveness, it was more likely to have done so with younger, married and better networked
+individuals.
+        Table 13 provides an interesting contrast – examining whether community decisions are now more
+likely to be made by community leaders. Here we see a positive JSIF effect both in the cross-tabs and the
+propensity score nearest neighbor estimates. The nearest neighbor results also reveal that less educated and
+
+
+
+                                                                                                                  32
+older individuals are more likely to report that decisions are made more by community leaders. Also notice
+that non-JSIF communities have also seen an increase in the role of the community leader, suggesting that
+there is a decentralization process at work in Jamaica that seems to be affecting communities regardless of
+their contact with JSIF. Tables 12 and 13 together indicate that the power of community leaders has
+increased in all communities, but particularly so in JSIF communities. However, this increased power is not
+perceived by the community to have increased the community leader’s responsiveness and effectiveness.
+They do not seem to be getting credit for JSIF initiatives despite the fact that they are so strongly driven by
+community leaders.
+         Table 14 focuses on changes in the role of the community in making decisions – on issues of
+“voice” by reporting results on changes in decisions made by community vote. The variable does not show
+a JSIF impact – there is no discernable difference between JSIF and non-JSIF communities on community
+decisions with vote. However, perceptions of improvements in democratic decision making are more likely
+to have been reported by younger individuals. Respondents with access to important people within the
+community are also more likely to perceive an improvement, again indicating that better networked people
+are more likely to have been consulted about community decisions in this process. Note again, that both
+JSIF and non-JSIF show an increase in democratic decision making over the period suggesting that
+community driven mechanisms may be making inroads in Jamaica outside the JSIF initiative as well as
+within it.
+
+
+Conclusion and Policy Implications
+
+
+         The overall sense that we get of the impact of JSIF on the capacity for collective action is consistent
+across both the qualitative and quantitative data. JSIF does seem to have had a social impact – trust has
+increased, and people from JSIF communities are more likely now to be able to work with strangers in
+making community-based decisions. However, the JSIF process does not seem to have been very
+democratic with community leaders dominating decision- making. The data suggest that JSIF may have
+strengthened the hand of community leaders. When leaders are benevolent this could be a good thing, but if
+they are corrupt then this could result in bad outcomes. In these communities – overall - they seem to have
+been leaders who had the best interests of the community at heart. While it seems that respondents are for
+the most part happy with the project and with JSIF, and that JSIF has built good feelings within the
+community, it is not clear that the JSIF process has democratized decision making, any more than other
+processes present in Jamaica. It also seems to have improved the capacity for collective action, but whether
+these improvements will be sustained over the long run is unclear.
+
+
+
+
+                                                                                                              33
+        Community Driven Development does not seem to have succeeded in doing what is touted to be one
+of its main advantages – to improve the match between what the community needs and the projects that it
+obtains. We see that perhaps because the CDD process is dominated by small group of motivated
+individuals mobilized by a leader, targeting is very poor with three of the five communities not obtaining the
+project that would have been preferred by a majority. Ironically, one of the two cases where the match
+between community preferences and the project was well done was essentially a top-down project – the
+stadium in Arnett Gardens. However, this could be characterized as “informed top-down.” Extensive social
+analysis led to a project designed to address the most compelling need of the community – its plague of
+violence. Since the community was so fragmented and conflict ridden, participation would have been very
+difficult to achieve. Thus project implementation was entirely top-down with JSIF and an local NGO hiring
+the contractor, supervising the construction, with the community not making any contributions.
+Consultations with the community were the result of PPA and focus group discussions conducted by a team
+of anthropologists – no one was mobilized or had to attend any meetings. This suggests that good social
+analysis could substitute for a community driven participatory process, particularly in complex,
+heterogeneous communities. The other alternative could be to simply subject a project menu to a secret
+ballot within the community or to conduct a needs assessment. However, by the end of the JSIF process,
+people seem to be satisfied with the choice of project , a contrary finding which suggests that CDD is
+primarily a process of persuasion and learning.
+        One potentially worrying finding indicated by the quantitative data is that better off, better
+networked individuals seem to dominate the participation process and receive their preferred projects.
+Moreover, they are also more likely to develop collective action skills. This suggests that the CDD process
+in Jamaica may compound existing inequities and even perpetuate them by enhancing the ability of the
+better educated and better off to work more effectively as a group. The fact that community leaders are not
+perceived to be more effective but are perceived to have a greater say in decisions as a result of the JSIF
+process, particularly by less educated individuals, also provides some evidence of a bias against the poor.
+This may not be intentional, but is the result of a process that requires a high level of literacy and political
+awareness to obtain a successful outcome. One open question that remains is whether the collective action
+skills built within a section of the community results in more sustainable projects. Since none of the
+facilities are more than three years old, and it is difficult to find a comparable counterfactual for them, it is
+difficult to tell if facilities assisted by the social fund are better run and better managed.
+        Community Driven Development is clearly no panacea. In societies that are sharply divided, it is
+difficult to achieve consensus on projects that meet the priority needs of the majority of the community.
+This may increase the possibility of “capture.” A few educated, motivated, individuals led by effective
+leaders may be able to obtain funds for project that are relatively more beneficial for them. Yet, this capture
+
+
+
+                                                                                                                   34
+may be “benevolent” in the sense that such projects may serve to benefit the entire community in the long
+run with the vast majority of individuals in the community ultimately expressing satisfaction with it. Does
+this compare well with a traditional top-down project? It is difficult to say with these data, but participation
+does seem to create a greater sense of accomplishment and ownership within the community. On the other
+hand, targeting could be improved by the simple act of instituting a needs assessment or having the
+community vote by secret ballot for a project. But again, if a project was better targeted, say by a secret
+ballot, would we see a group of motivated people work hard to keep it going with a spirit of “ecumenism?”
+In other words, if CDD has the potential to provide a community with a school to which everyone has
+access, and which is constructed and managed by a group of educated and motivated individuals this is not
+such a bad thing. On the other hand, the argument that CDD “empowers the poor” is clearly not indicated
+by these data. There is more evidence in support of the belief that it improves the capacity for collective
+action, but these data are unable to provide unambiguous answers to whether this results in more sustainable
+projects. To answer the sustainability we would require data that has a clear counterfactual – evidence on
+similar facilities provided by a CDD and a non-CDD process, and that are tracked over an extended period
+to see how the relationship between participation and sustainability evolves over time. Such data are, at the
+moment, unavailable.
+
+
+
+
+                                                                                                              35
+APPENDIX A
+                                  Principal Components – Economic Status
+
+         Economic status or household “wealth” can be approximated by an index of assets. Four approaches
+can be used to create an index of economic status. First, assume equal weights for all the assets. Second,
+impose weights for each asset, like price of the assets. Third, include the assets directly in the regression.
+The first two procedures are arbitrary because they assume weight for each asset. The third procedure does
+not allow us to differentiate from the coefficients the impact of wealth on the final outcome (Filmer and
+Pritchett, 2000). The fourth approach is to use principal components to determine an index of wealth.
+Principal components is a procedure for extracting common information from a number of variables by
+calculating the orthogonal linear combinations of the variables which describes better the common
+information. The assumption is that common variation in the variables included in the principal components
+procedure is caused by wealth.
+         The asset index that approximates economic status for household i is defined as
+       Wi=f1*(wi1-w1)/σ1 +…+ fn*(win-wn)/σn,
+where f1 is the scoring factor, wi1 is the ith household value for the first asset, w1 is the mean for the first
+asset and σ1 is the standard deviation of the first asset.
+       For Jamaica, two sets of variables were considered. The first set, defines characteristics of the house
+such as roof of concrete or tile and connection to electricity and water. The second set of variables
+represents assets owned by the household.
+
+Table 1. Scoring Factors for Jamaica
+
+
+                             Scoring
+                             Factor
+Tile Roof                        0.1096
+Electricity connection           0.3610
+Flush Toilet                     0.3623
+Water Connection                 0.3722
+Own a car                        0.1164
+Own other home                   0.0550
+Own a motorcycle                 0.0405
+Own a bicycle                    0.1599
+Own a fan                        0.3589
+Own a radio                      0.2259
+Own gold or silver jewelry       0.2763
+Own television                   0.3498
+Own refrigerator                 0.3804
+Own major furniture              0.1444
+
+
+
+
+                                                                                                             36
+References
+
+Abraham, Anita and Jean-Philippe Platteau, “The Dilemma of Participation with Endogenous Community
+Imperfections,” mimeo, Department of Economics and CRED, University of Namur, 2001
+
+Chase, Robert S. and Lynne Sherburne –Benz, “Household Effects of Community Education and Health
+Initiatives : Evaluating the Impact of the Zambia Social Fund,” mimeo, January 2001
+
+Conning, Jonathan and Michael Kevane, “Community Based Targeting Mechanisms for Social Safety Nets,”
+mimeo, December 2000
+
+Cornia, Giovanni Andrea, “Social Funds in Stabilization and Adjustment Programmes: A Critique,”
+Development and Change, Volume 32, Pp: 1-32, 2001
+
+Dehejia, Rajiv H. and Sadek Wahba, “Propensity Score Matching Methods for Non-Experimental Causal
+Studies,” NBER Working Paper No. W6829, December 1998
+
+Duncan, Grace Imani, “Arrested Development: Building Peace in the Inner-City of Kingston, Jamaica,
+mimeo, Harvard University, March 2001
+
+Duncan, Grace Imani and Michael Woolcock, “Arrested Development: The Political Origins of Common
+Violence in Jamaica,” mimeo, 2001
+
+Filmer, Deon and Lant Pritchett, “Estimating Wealth Effects Without Expenditure Data – Or Tears: An
+Application to Educational Enrollment in States of India,” Demography, Vol. 38 #1, Pp: 115-132, 2000
+
+Galasso, Emanuela and Martin Ravallion, “Decentralized Targeting of an Anti-Poverty Program,” mimeo,
+Development Research Group, The World Bank, February 2001
+
+Girvan, D.T.M, Working Together for Development: D.T.M. Girvan on Cooperatives and Community
+Development 1939-1968, (Compiled and Edited by Norman Girvan), Institute of Jamaica Publications
+Limited, 1993
+
+Heckman, James, Hidehiko Ichimura, Jeffrey Smith and Petra Todd, “Characterizing Selection Bias Using
+Experimental Data,” NBER Working Paper Series #6699, August 1998
+
+Jamaica Constabulary Force, “Citizens Charter,” January 2001
+
+Keith, Nelson W. and Novella Z. Keith, The Social Origins of Democratic Socialism in Jamaica, Temple
+University Press, Philadelphia, 1992
+
+Khwaja, Asim Ijaz, “Can Good Projects Succeed in Bad Communities: Collective Action in the Himalayas,”
+mimeo, Harvard University, March 2001
+
+Moser, Caroline and Jeremy Holland, Urban Poverty and Violence in Jamaica, World Bank Latin American
+and Caribbean Studies, The World Bank, 1997
+
+Narayan, Deepa and Katrinka Ebbe, “Design of Social Funds: Participation, Demand Orientation and Local
+Organizational Capacity,” World Bank Discussion Paper # 375, The World Bank, December 1997
+
+
+
+
+                                                                                                       37
+Newman, John, Menno Pradhan, Laura Rawlings, Geert Ridder, Ramiro Coa and Jose Luis Evia, “An
+Impact Evaluation of Education, Health and Water Supply Investments of the Bolivian Social Investment
+Fund,” mimeo, The World Bank, December 2000
+
+Owen, Daniel and Julie Van Domelen, “Getting an Earful: A Review of Beneficiary Assessments of Social
+Funds,” Social Protection Discussion Paper #9816, The World Bank, December 1998
+
+Rao, Vijayendra, “Poverty and Public Celebrations in Rural India,” Annals of the American Academy of
+Political and Social Science, Volume 573, Pp: 85-104, January 2001
+
+Ravallion, Martin, “The Mystery of the Vanishing Benefits: Ms. Speedy Analyst’s Introduction to
+Evaluation,” Policy Research Working Paper #2153, The World Bank Development Research Group, July
+1999
+
+Rosenbaum, Paul. R. and Donald B. Rubin, “The Central Role of the Propensity Score in Observational
+Studies for Causal Effects,” Biometrika, Vol. 70, Pp: 41-55, 1983
+
+Rubin, Donald B., “The Use of Matched Sampling and Regression Adjustment to Remove Bias in
+Observational Studies,” Biometrics, Vol. 29, # 1, Pp: 185-203, 1973
+
+Tendler, Judith with Rodrigo Serrano, “The Rise of Social Funds: What are they a Model Of?,” mimeo,
+Department of Urban Studies and Planning, Massachusetts Institute of Technology, January 1999
+
+Tendler, Judith, “Why are Social Funds So Popular?,” Chapter 14, Local Dynamics in an Era of
+Globalization : 21st Century Catalysts for Development , edited by Shahid Yusuf, Weiping Wu and Simon
+Evenett, World Bank and Oxford University Press, 2000
+
+Van Domelen, Juile “Do Social Funds Reach the Poor? A Review of Targeting Performance in Six
+Countries,” Social Funds 2000 Study, Seminar Presentation, March 2001
+
+Woolcock, Michael and Deepa Narayan, “Social Capital: Implications for Development Theory, Research
+and Policy,” World Bank Research Observer, Volume 15, #2, Pp: 225-249, 2000
+
+World Bank, “Nicaragua: Ex-Post Impact Evaluation of the Emergency Social Investment Fund (FISE),”
+Human Development Sector Management Unit, Latin America and Caribbean Region, The World Bank,
+December 2000
+
+
+
+
+                                                                                                        38
+                                                                                                      Figure 1
+
+
+                                                     Major Crimes Committed in the Kingston Western Division 1990-2000
+
+
+                                             450
+                                             400
+                                             350
+                         Reported Offences
+
+
+
+
+                                             300
+                                                                                                                                                    Murder
+                                             250                                                                                                    Shooting
+                                             200                                                                                                    Rape
+                                                                                                                                                    Robbery
+                                             150
+                                             100
+                                               50
+                                                0
+                                                      1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+                                                                                                  Years
+
+
+From Duncan (2001) based upon data from the Jamaica Constabulary Force, “Citizens Charter,” January
+2001
+
+                                                                                                      Figure 2
+
+                                             Total Murders in Jamaica less Kingston Western versus Total Murders in
+                                                               Kingston Western Division 1990-2000
+
+
+                       250                                                                                          1000
+                                                                                                                    900
+   Number of Murders
+
+
+
+
+                                                                                                                           Number of Murders
+
+
+
+
+                       200                                                                                          800
+                                                                                                                    700
+                       150                                                                                          600                        Murder West
+                                                                                                                    500                        Kingston
+                       100                                                                                          400
+                                                                                                                                               Murder
+                                                                                                                    300
+                                                                                                                                               Jamaica less
+                       50                                                                                           200                        West Kingston
+                                                                                                                    100
+                        0                                                                                           0
+                                      0
+
+                                                1
+
+                                                       2
+
+                                                              3
+
+                                                                     4
+
+                                                                            5
+
+                                                                                   6
+
+                                                                                          7
+
+                                                                                                 8
+
+                                                                                                        9
+
+                                                                                                               0
+                           9
+
+                                                 9
+
+                                                        9
+
+                                                               9
+
+                                                                      9
+
+                                                                             9
+
+                                                                                    9
+
+                                                                                           9
+
+                                                                                                  9
+
+                                                                                                         9
+
+                                                                                                                0
+                        19
+
+                                              19
+
+                                                     19
+
+                                                            19
+
+                                                                   19
+
+                                                                          19
+
+                                                                                 19
+
+                                                                                        19
+
+                                                                                               19
+
+                                                                                                      19
+
+                                                                                                             20
+
+
+
+
+                                                                            Years
+From Duncan (2001) based upon data from the Jamaica Constabulary Force, “Citizens Charter,” January
+2001
+
+
+
+
+                                                                                                                                                               39
+                            Figure 1
+               Propensity Score Before Trimming
+
+
+
+
+    Non-Social Fund Community         Social Fund Community
+
+
+2
+
+
+
+
+1
+
+
+
+
+0
+    0                              .5                         1
+                                Pr(DSF)
+
+
+
+
+                                                                  40
+

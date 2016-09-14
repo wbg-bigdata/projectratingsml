@@ -1,0 +1,147 @@
+
+
+
+
+    
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content=""/>
+<meta name="description" content=""/>
+<title>error</title>
+<link href="/resources/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="/resources/js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="/resources/js/header_footer.js"></script>
+<script type="text/javascript" src="/resources/js/fontdetect.js"></script>
+<script type="text/javascript" src="/resources/js/script.js"></script>
+<script type="text/javascript" src="/resources/js/wds.js"></script>
+<script type="text/javascript">
+if(navigator.appVersion.indexOf("Mac")!=-1) {
+	document.write('<link href="/resources/css/mac.css" rel="stylesheet" type="text/css" />');
+}
+$(function() {
+		$( "#dialog" ).dialog();
+	});
+	
+		
+	
+	
+</script>
+
+
+</head>
+<body>
+
+<div class="doc-container">
+	<div class="doc-inner-container">
+    <script type="text/javascript">
+    if (top.frames.length!=0)
+		top.location=self.document.location;
+		
+			document.write(header("en"));activeNavigation("nav_publications");
+		</script>
+		<noscript>
+        <!-- Global Header & Search Start -->
+            <div class="global-header">
+                <div class="wb-logo">
+                    <a href="http://www.worldbank.org/" title="The World Bank" class="logo_en">The World Bank</a>
+                </div>
+                <div id="topLinks">
+                	<a href="http://www.worldbank.org/">Home</a><span>&bull;</span>
+                    <a href="http://www.worldbank.org/sitemap">Site Map</a><span>&bull;</span>
+                    <a href="http://www.worldbank.org/siteindex/">Index</a><span>&bull;</span>
+                    <a href="http://www.worldbank.org/faqs">FAQ</a><span>&bull;</span>
+                    <a href="http://www.worldbank.org/contacts/">Contact Us</a>
+                </div>
+            </div>
+            <!-- Global Header & Search End -->
+            <!-- Global Navigation Start -->
+            <div class="g03v1-global-navigation">
+                <ul class="nav-mid">
+                    <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,pagePK:50004410~piPK:36602~theSitePK:29708,00.html" id="nav_about">ABOUT</a></li>
+                    <li><a href="http://data.worldbank.org/" id="nav_data">DATA</a></li>
+                    <li><a href="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:476823~pagePK:64165236~piPK:64165141~theSitePK:469372,00.html" id="nav_research">RESEARCH</a></li>
+                    <li><a href="http://www.worldbank.org/wbi" id="nav_learning">LEARNING</a></li>
+                    <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,pagePK:34382%7EpiPK:34439%7EtheSitePK:4607,00.html" id="nav_new">NEWS</a></li>
+                    <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/0,,menuPK:115635%7EpagePK:64020917%7EpiPK:64021009%7EtheSitePK:40941,00.html" id="nav_projects">PROJECTS &amp; OPERATIONS</a></li>
+                    <li class="active"><a href="http://www.worldbank.org/reference" id="nav_publications">PUBLICATIONS</a></li>
+                    <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/0,,pagePK:180619%7EtheSitePK:136917,00.html" id="nav_countries">COUNTRIES</a></li>
+                    <li><a href="http://www.worldbank.org/html/extdr/thematic.htm" id="nav_topics">TOPICS</a></li>
+                </ul>
+            </div>
+            <!-- Global Navigation End -->
+        </noscript>
+		
+        <!-- Banner Start -->
+        <div class="c01v1-banner">
+        	<h1 onclick="javascript:window.location='/curated/en/home'">Documents & Reports</h1>
+        </div>
+        <!-- Banner End -->
+        <br/>
+        <div>
+   		 This document is being processed or is not available.
+        <br/>
+        
+        </div><br/><br/>
+        <script type="text/javascript">
+        footer("en");
+			
+		</script>
+		<noscript>
+		
+		<!-- Global Footer Start -->
+            <div class="g02v1-global-footer">
+                <div class="footer-breadcrumb">
+                    <div class="breadcrumb-home"><h4>You are here</h4></div>
+                    <div class="breadcrumb-sep">&nbsp;</div>
+                    <div class="breadcrumb-slash">/</div>
+                    <div class="breadcrumb-link">
+                    <a href="http://www.worldbank.org/">Home</a>
+                    </div>
+                    <div class="breadcrumb-slash">/</div>
+                     <div class="breadcrumb-link">
+                    <a href="http://www.worldbank.org/reference/">Publications</a>
+                    </div>
+                    <div class="breadcrumb-slash">/</div>
+                    <div class="breadcrumb-link">
+                    <a href="/curated//home">Documents & Reports</a>
+                    </div>
+                    <div class="breadcrumb-slash">/</div>   
+                     <div class="breadcrumb-link">
+                    	Documents & Reports - All Documents
+                    </div>   
+                        <div title="Expand" id="footer_ec" class="breadcrumb-expand">&nbsp;</div>
+                </div> 
+                <div class="footer-bottom">
+                <div class="footerlogo"><a href="http://www.worldbank.org/"></a></div>
+                    <div class="footer-bottom-left">
+                        <p>
+                            <a href="http://www.worldbank.org/legalinfo">Legal</a> |
+                            <a href="http://go.worldbank.org/TRCDVYJ440">Access to Information</a> |
+                            <a href="http://go.worldbank.org/NLCQMY3UZ0">Jobs</a> |
+                            <a href="http://www.worldbank.org/sitemap">Site Map</a> |
+                            <a href="http://www.worldbank.org/contacts">Contact</a>
+                        </p>
+                        <p>
+                            <span>&copy; 2011 </span><a href="http://www.worldbank.org/">The World Bank Group</a><span>, All Rights Reserved</span>.
+                        </p>
+                    </div>
+                    <div class="footer-bottom-right">
+                        <p>
+                            <a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html"><strong>Fraud &amp; Corruption Hotline</strong><br />1-202-458-7677</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Global Footer End -->
+        	</noscript>
+		
+		
+    </div>
+    <div class="doc-bottom-bg"></div>
+</div>
+
+</body>
+</html>

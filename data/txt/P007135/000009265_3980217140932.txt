@@ -1,0 +1,2780 @@
+Document of
+The World Bank
+Report No.: T-7212-EC
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+TECHNICAL ANNEX
+DECEMBER 12, 1997
+Environmentally and Socially Sustainable Development
+Colombia, Ecuador and Venezuela Country Management Unit
+Latin America and the Caribbean Region
+
+
+
+CURRENCY EQUIVALENTS
+(September 1997)
+Currency Unit = Sucre (S/)
+Exchange Rate
+USS1.00 = S/4085.5
+WEIGHTS AND MEASURES
+Metric System
+FISCAL YEAR
+January 1 to December 31
+ABBREVIATIONS AND ACRONYMS
+AFPS          Agricultural Farm Production Survey
+AS            Ad hoc Survey
+ASC           Agricultural Sample Census
+ASP           Agricultural Sector Program (Interamerican Development Bank)
+ASRP          Agricultural Sector Reorientation Project (United States Agency for
+International Development)
+DURS          Data Users' Requirements Survey
+FISE          Social Emergency Investment Fund
+FES           Farm Expenditure Survey
+GIS           Geographic Information System
+GOE           Government of Ecuador
+ICR           Implementation Completion Report
+IMPS          Integrated Microcomputer Processing System (United States Bureau of
+the Census, BUCEN)
+INANIHI       National Meteorology and Hydrology Institute (Instituto Nacional de
+Meteorologia e Hidrologia)
+IsEC          National Statistics and Census Institute (Instituto Nacional de
+Estadisticasy Censos)
+IT           Information Technology
+LAN           Local Area Network
+LSMS          Living Standard Measurement Survey
+MAG           Ministry of Agriculture
+MTR           Mid-Term Review
+PIS           Planting Intention Survey
+PIU           Project Implementation Unit
+SEAN          National System of Agricultural Statistics (Sistema de Estadistica
+Agricola Nacional)
+SICA          Agricultural Census and Information Service (Servicio de Informaci6ny
+Censo Agropecutario)
+SOE           Statement of Expenditures
+SPIS          Sector Policy and Investment Undersecretariat (Subsecretaria de
+Politicas e Inversi6n Sectorial) (MAG)
+TA            Technical Assistance
+TOR           Terms of Reference
+TS            Technical Secretariat
+UPA           Agricultural Production Unit (Unidad de Producci6n Agropecuaria)
+
+
+
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM TECHNICAL
+ASSISTANCE PROJECT
+TECHNICAL ANNEX
+Table of Contents
+Page No.
+1. DETAIL PROJECT DESCRIPTION ...........                                         1
+BACKGROUND .1
+Need for Good Analysis and Reliable Information             .1
+Rationale for Bank Involvement                      .2
+Participatory Approach                          .3
+Project Objectives                            .3
+Project Components ..........................................:.3
+2. PROJECT COST, ADMINISTRATION, AND BENEFITS .15
+COST AND FINANCING .15
+Cost.15
+Financing .16
+Financial Implications for the Government .16
+Procurement .17
+Disbursement .19
+PROJECT ADMINISTRATION .21
+Project Management .21
+Project Inplementation .23
+Accounting and Auditing .23
+Monitoring and Supervision .24
+PROJECT BENEFITS AND RISKS .25
+Project Benefits .25
+Project Risks .27
+Environmental Category .27
+3. AGREEMENTS AND RECOMMENDATIONS .28
+Vice President:                   Mr. Shahid Javed Burki
+Director, Country Management Unit Mr. Andres Solimano
+Director, Sector Management Unit  Ms. Maritta Koch-Weser
+Task Manager                      Mr. Surajit Goswami
+This report is based on the findings of two World Bank appraisal missions visiting Ecuador in April
+1995 and August, 1997. The mission comprised Messrs. /Mmes. S. Goswami, M. Guadagni, D.
+Hoyle. Peer reviewers are Ms. K. Scott (PRDPH), and Mr. R. Kocharekar (ITSCS).
+
+
+
+Page No.
+ATTACHMENTS
+1.    - Data Collection Activities ................................,. ,. 29
+2.    - Implementing Institutions ...............................                             32
+3.    - Data User R equirements Study ............................... . ,40
+4.  - Planned Meteorological Stations .44
+5.  - Technical Assistance and Consulting Services .45
+6.    - Project Costs Tables ........................                                         49
+7. - Disbursment Profile .63
+8.    - Monitoring and Evalution Indicators ........................                          64
+9. - Project Implementation Schedule .69
+TABLES
+1.    - Cost Comparison Among Recent Agricultural Censuses in the Region .10
+2.  - Project Costs Summary by Components .15
+3.    - Annual Estimated Inflation Rate (%) ........................                          15
+4. - Financing Plan .,                                                                        16
+5 - Procurement Methods .17
+6.    - Thresholds for Procurement Methods and Prior Review (US$) .19
+7. - Estimated IBRD Disburseents .19
+8. - Summary of Disbursement Schedule .20
+9. - Number of Interviews .25
+FIGURES
+1. - Project Management Structure .22
+3. - MAG Organizational Chart .33
+4. - INEC Organizational Chart .38
+MAP IBRD MAP No. 28022
+
+
+
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SERVICE TA PROJECT
+TECHNICAL ANNEX
+1. DETAILED PROJECT DESCRIPTION
+BACKGROUND
+1.1   In 1996, the agricultural sector (comprising crops, livestock, forestry, and fisheries)
+contributed 17 percent of Ecuador's GDP, 47 percent of total exports and provided
+employment for 31 percent of the economically active population. Sector growth responded
+well to the major efforts of the eighties to reform the economy. The abandonment of import-
+substitution industrialization and the liberalization of the exchange rate help explain why
+agricultural GDP grew at 4.0 percent annually from 1982-93, up from only 2.5 percent p.a.
+from 1973-81. However in recent years growth has slowed. The average growth rate for
+1993-1996 was 3.4 percent p a., ranging from -1.7 percent in 1992-93 to 3.9 percent in 1993-
+94. The years of strong growth are associated with booms in banana and shrimp. Increasing
+domestic production problems and external market difficulties cloud the outlook for both.
+Sector growth is currently falling short of its potential. Productivity growth has remained low,
+and production increases are largely derived from an expansion of area under cultivation. The
+key to addressing this broad problem of unrealized sector growth lies in improving
+productivity.
+1.2   Improvements in sector productivity require a sound policy environment. In this
+context, parallel to the Government's stabilization program, which commenced in 1992, a
+reform program was initiated in the agricultural sector. This has advanced satisfactorily: the
+Agricultural Development Law was passed, price controls on all agricultural products were
+eliminated, entrance to the OMC was approved, import restrictions on agricultural
+commodities were reduced and rationalized, and the Ministry of Agriculture was restructured
+and reduced in size. While these measures tend to provide the correct incentives for the
+adoption of productivity increasing technologies by the private agricultural sector, a widespread
+improvement in productivity requires the government provide key public goods. One of these
+vital public goods is information, upon which farmers, traders, processors, and financial agents,
+and the government itself can make decisions. This becomes particularly important as the
+Government moves away from its past broad programs of investments to more targeted
+interventions aimed at helping poor and indigenous people. Unfortunately, the information
+base for public policy and investment decision making in the agricultural sector in Ecuador is
+out-of-date, not disaggregated, and frequently inaccurate. For private decision- makers the
+situation, if anything, is even worse. Sound, basic information for establishing price
+expectations is practically nonexistent.
+1.3    Need for Good Analysis and Reliable Information. While there has always been a
+need for reliable data on which to base decisions, this need is much stronger in today's global
+economy. In a system of open trade, economies become more vulnerable to external shocks
+from, say, an appreciation of the exchange rate or a sharp fall in commodity prices. Based on
+the experiences of other countries, such as Colombia and more recently Peru and Chile,
+Governments in newly opened economies can face enormous pressures, especially in the
+agricultural sector, to reinstate protection and backslide on reforms following shifts in the terms
+
+
+
+2
+of trade. Even though all sections of the agricultural community are not affected adversely, one
+needs to avoid the buildup of potential pressure that can lead to backtracking by initiating a
+program of highly targeted interventions, and implementing policies directed at the affected
+groups. This requires accurate pinpointing of the problem for a certain region and/or
+commodity and presupposes the existence of reliable disaggregated data. Data available in
+Ecuador are not up to this task.
+1.4   Poverty alleviation interventions by Government also require such targeting. In spite of
+the substantial progress in macroeconomic and sector policies, underperformance of the
+economy in recent years has worsened the structural problems of rural poverty. Preliminary
+results from the recent poverty assessment mnission indicate that reduction in aggregate
+spending has involved cutbacks to the poor. Moreover, studies also show that the indigenous
+people continue to derive fewer benefits from govemment programs. Although some changes
+in the pattem of public spending have been introduced to protect the vulnerable poor, mainly in
+the from of matching grants such as through FISE, public funds have not been systematically
+directed at poverty and the needs of the indigenous people. One of the reasons behind
+inefficient targeting and formulation of public sector strategy is the lack of reliable information
+necessary for effective interventions.
+1.5    The last Agricultural Census was conducted in 1974 and the data set no longer
+provides a sound basis for decision making. Currently, many public programs rely on small-
+surveys but the quality of all small-surveys, including LSMS, depends on the frames upon
+which their sampling is based. Existing frames render most of these surveys unreliable at best.
+Large-surveys and censuses are required to improve the quality of the frames so that
+subsequent small-samples can be representative of the "population"(the group of households,
+farms, or individuals from which samples are drawn for statistical measurement). To retain the
+efficiency of small surveys in their representation, even in a stable environment, information on
+the structure of the population has to be updated every five to ten years. As such, the
+Government is unable to plan targeted interventions or to develop policies to benefit selected
+group in society. As Ecuador's economy becomes more sophisticated, targeted interventions,
+as opposed to subsidies to large groups, will become more important. Finally, the weak data
+on rural areas adversely affects private sector decision making as well. The lack of reliable
+data on planting intentions and agro-climatic trends leads to wrong decisions and higher costs
+of operation than would be the case with improved information.
+RATIONALE FOR BANK INVOLVEMENT
+1.6    The project would be the first Bank project to strengthen the rural information systems
+in Ecuador. Because of the Bank's long experience in helping developing countries in
+economic policy making, including agriculture and rural poverty alleviation in countries
+opening their economies, it is uniquely positioned to help Ecuador develop its capability. The
+Bank is particularly concerned about protectionist interests undoing reforms. Similarly, it is in
+the Bank's interest to target public interventions efficiently. The proposed project would
+provide the data, analyses, and the framework for further inquiry on agricultural policy issues
+and issues involving the disenfranchised rural poor.
+1.7    The proposed project is also consistent with the 1996 Bank Poverty Report and the
+1993 Bank Agricultural Sector Review. They recommended: (i) redesigning public programs
+to focus on the needs of the marginal population, particularly the rural poor, and indigenous
+peoples, and (ii) developing an information service to irnprove the public sector's strategy
+formulation, sector plan development, and investrnent planning and execution.
+
+
+
+3
+1.8    The private agricultural sector is embarking on a period of uncertainty. Trade
+liberalization and the reduction in government intervention in agricultural markets make the
+sector more vulnerable to conditions on the international and regional markets, fluctuations in
+the exchange rate, and trade policies. Private sector uncertainty is increased by a general lack
+of information on variables of interest to it. Information distribution is biased toward large
+producers and agroindustrialists. The project would significantly increase the dissemination of
+timely and accurate information targeted to the private sector.
+1.9    Participatory Approach. The preparation effort used a " Data User's Requirement
+Study" which helped define the needs of the potential users of the data (see Attachment 3).
+During this study, the challenge was to help the participants--from both the public and private
+sectors-translate their business understanding into articulated information requirements.
+Direct interviews were used over questiomaires since they tend to be passed down to staff
+assistants. These interviews focused upon critical success factors: existing priority information,
+enhancements to existing information, and unmet requirements.
+PROJECT OBJECTIVES
+1.10   The proposed technical assistance project aims to improve availability, consistency,
+validity, and timeliness of agricultural information to facilitate the decision-making process in
+both the public and private sectors. Information quality and accessibility would be improved
+through: (i) the standardization of collection and processing methodologies to allow
+comparability, cross-examination and verification; (ii) an efficient and user-friendly
+dissemination network, and, (iii) production of demand-driven data analysis.
+1.11   Reliable and up-to-date information would provide a solid base for Government's
+policies by improving (i) policy analysis capacity; (ii) the formulation of sector strategies; (iii)
+programs implementation through a better planning, monitoring and evaluation system; and,
+(iv) the estimation of behavioral relationships in the agricultural sector. Inter-institutional
+coordination is also an important project objective.
+1.12   Timely and accurate relevant information would develop the private sector by (i)
+promoting competition; (ii) reducing bias generated by powerful groups; (iii) lowering
+transaction costs; and, (iv) improving resource allocation
+PROJECT COMPONENTS
+1.13   The project will provide technical and financial support to two governmental
+institutions- the Ministry of Agriculture (MAG) and the National Statistics and Census
+institute (INEC). The project will support the conceptualization, collection, processing,
+analysis and dissemination of agricultural and rural information through activities under five
+project components:
+(a)    Agricultural Policy Process (MAG, US$3.2 million,14% of base costs). This
+component will: (i) strengthen sector policy analysis capacity; and, (ii)
+strengthen the budget analysis and investment monitoring and evaluation
+process at MAG.
+(b)    Agricultural Information and Dissemination Service (MAG, US$3.0
+million, 13% of base costs). This component will improve: (i) information
+
+
+
+4
+services on crops and livestock; (ii) market prices and news services of MAG,
+(iii) agroclimatic impact evaluations; and (iv) MAG Computer Center services.
+(c)   Agricultural Sample Census (INEC, US$11.6 million, 50% of base costs).
+This component will support the design, preparation, and execution of the
+national ASC and strengthen INEC's data processing capacity.
+(d)   Agricultural Farm Production Survey (INEC, US$1.6 million, 7% of base
+costs). This component will improve the national agricultural production
+survey methodologically, speed processing turn-around, conduct two
+production surveys per year to improve relevance for decision making, and
+execute two farm expenditure surveys during the life of the project.
+(e)    Project Management (US$3.8 million, 16% of base costs). This component
+will design and implement the overall information service and establish and
+operate the project management and implementation units, responsible for
+coordination, planning, financial administration, monitoring, and evaluation.
+1.14   The combined output of these separate components leads to a sector information
+service for policy analysis and decision making. The information requirements for policy
+analysis and decision making are largely determined from economic theory, country
+experience, and the Data-User's Requirements. The primary classes of data and information
+required are:
+*  Dynamic Economic Variables. These include economic variables that can change
+in the very short-term. Prices are the main element, and include macroeconomic
+prices such as exchange and interest rates, and sector prices such as border prices,
+international prices, domestic prices at the farm, wholesale, processor, consumer
+levels, input prices. These are collected from secondary sources and by direct
+observation, processed and organized by the Price and Market News Service,
+under Component B.
+*  Stock Variables. Changes in quantities are primary factors for explaining price
+changes These include macroeconomic variables such as intemational reserves,
+balance of payments, and monetary emission, and sector variables such as
+commodity production and stock levels, area planted and harvested, yields,
+commodity imports and exports in volume and value, fertilizer use, supply of
+credit, area under irrigation, livestock numbers, etc. Intemational and regional
+production and stocks of relevant commodities are also important. Changes in
+weather conditions are an important factor in explaining commodity production and
+yield changes. This data and information is collected from secondary sources and
+from surveys, processed and organized, under Components B and D.
+*  Structural Variables. These variables change but slowly overtime and describe the
+characteristics of the production and marketing systems. They include such
+variables as average farm size, number of farms by farm size, technology levels by
+farm size, tenure characteristics, social and educational characteristics of farm
+families, number and capacity of processors, sources of rural income, marketing
+channels, income and expenditure pattems. This sort of data is provided by
+relatively large sample surveys or census. Much of this data and information will
+be supplied by the ASC, Component C of the project.
+
+
+
+5
+1.15   The above classes of information, well organized and timely, provide analysts and
+decision makers with the data required to describe and understand a problem, forecast
+alternative scenarios, and evaluate the impact of alternative interventions on target groups.
+Public and private decision-makers rarely use data; they use the analysis of data. Data is
+transformed into useful information by analysis. Thus, the project will strengthen the technical
+capacity of the analytical units in the MAG, under Component A, as an essential feature of an
+effective and useful information service.
+COMPONENT A: AGRICULTURAL POLICY PROCESS
+(US$3.24 million, 14 percent of base costs)
+1.16   This component will finance equipment, technical assistance, training and incremental
+operating costs for three MAG directorates: (i) Policy Analysis, (ii) Intemal and Extemal
+Trade, and (iii) Planning, Investment and Budgeting. The component will strengthen the
+capacity of MAG to appraise and evaluate the impact of sector policies and to disseminate the
+results of these analyses. It will comprise the following two sub-components.
+SUB-COMPONENT:                    A1-Sectoral and Trade Policy
+IMPLEMENTING UNITS:               SICA/MAG and Policy Undersecretary
+BASE COST:                        US$2.7 million
+1.17   The sub-component will strengthen the capacity of the Policy Undersecretary to
+evaluate, analyze, and provide the public and private agricultural sectors with information
+relevant to the market situation and agricultural policies. The analyses and mformation will
+include (i) market situation and outlook, (ii) macroeconomic, including exchange rate policy,
+related to agriculture, (iii) sector, such as price and trade policy, and (iv) sub-sector and
+product-specific policies related to market efficiency. It will produce and disseminate various
+types of products, including situation and outlook, sector reviews, policy memoranda and
+market analyses. These reports and analytical documents will be distributed to a wide audience
+in the public and private sectors through publications, seminars, the press, and Internet.
+1.18   This sub-component will be user oriented and will promote a dialogue between the
+public and private sectors. The Data User's Requirements Study (see Attachment 3) indicates
+that the private sector needs, in addition to data, the interpretative analysis of the same. Data
+must be accompanied by a descriptive analysis that helps decision-makers understand the
+impact of a policy or of market changes. Although the existing information system covers
+some of these requirements, it is incomplete. The chief technical limitation is the capacity of
+the team responsible for preparing policy memoranda and sector and sub-sector reviews. A
+higher level of economic reasoning and application of analytical techniques is required. The
+methodologies needed for policy memoranda include a policy analysis matrix, linear
+programming, and analysis of single and multiple markets. Specifically, it is important to
+understand the limitations of these techniques, to decide which is appropriate in each case, and
+interpret the results. The project will provide training and technical assistance to the staff of the
+Project to develop this capacity.
+1.19   Similarly, dissemination of information will be significantly improved. Private
+institutions (such as associations of producers, agroindustrialists, agricultural centers and
+boards) will be used to distribute the reports among their members and a continuing and
+systematic series of seminars will be held with these institutions. In addition to being venues
+for providing the private sector with information and analysis, seminars also provide analysts
+with feedback from the private sector, allowing an improved dialog between analysts and
+clients. The demand for seminars, particularly by agricultural associations on the coast, on
+
+
+
+6
+topics related to the market oudook for products and trade liberalization, now outstrips the
+response capacity of MAG.
+1.20  The sub-component requirements include: (i) 34 person months of short-tem tecmical
+assistance in economic trade policy, economic modeling and analysis, and extension
+economics; (ii) short-term training courses; (iii) incremental staff and salaries; (iv) upgraded
+1T facilities, including the purchase of 30 micro-computers and network installation; (v)
+funding for seminars, publications, and information disseminaion to the private sector; (vi)
+incremental operating costs; and (vii) support to extemal MS degree training in agricultural
+economics.
+SUB-COMPONENT:                   Sector Public Investment
+IMPLEMENTATION UNITS             SICA/MAG, Sector InvestmentlMAG
+Budget and Public Credit, Ministry of Finance
+BASE COST:                       US$0.53 million
+1.21   The purposes of this sub-component are to provide the GOE with the information and
+analysis required to: (i) increase the capacity of MAG and the Finance Ministry to effecfively
+monitor and evaluate the performance of MAG investments in programs, projects, and
+services; (ii) link investment policy more closely to sector policies and priorities, (iii) target
+policy and investments to vulnerable groups that require public support, and (iv) make greater
+use of nongovenmnental agencies in agricultural and rura services. To attain these goals, the
+project will set up a small budget analysis unit with staff capable of conducting the required
+analysis.
+1.22  The main products of this unit will be (i) annual analysis of the investment budget,
+monitored according to sub-sector, region, target group, and type of investment; (ii) anmual and
+semiannual analysis of MAG's budget (programming versus execution, region and beneficiary
+groups); (ii) periodic reports on the cost-effectiveness of programs and projects; and, (iv)
+periodic evaluations of the impact of programs and projects.
+1.23   The sub-component requirements include: (i) 96 person months of long-term technical
+assistance (national); (iii) short-term training; (iv) upgrading of IT facilities and purchase of 4
+microcomputers; and (v) assistance with incremental operating costs; and (vi) incremental
+salaries.
+COMPONENT B: AGRICULTURAL INFORMATION AND DISSEMINATION
+SERVICE
+(USS2.99 million, 13 percent of base costs)
+1.24  This component will provide support for the collection, processing, and organtion of
+the basic agricultural statistics regarding crop and livestock production, area, yield, market
+prices, production costs and weather. Four divisions of the MAG's Agricultural Information
+Directorate are involved in the collection and processing of this information: (i) Agricultural
+Statistics; (ii) Price and Market News Service; (ini) Agroclimatic Impact Evaluation; and, (iv)
+Computer Center. The project will provide technical assistance, incremental staff and salaries,
+training, logistical support 1T up-grading, and incremental operating cost support.
+
+
+
+7
+SUB-COMPONENT:            B 1: Agricultural Statistics
+IMPLEMENTING UNIT:  SICA/MAG and Agicultural Infrnation Directorate
+BASE COST:                US$0.66 million
+1.25 The Project will support the Agricultural Stafistics Division (ASD) in the design,
+implementation, and maintenance of the sector database. The database will be composed
+largely from secondary sources: macroeconomic data from the Central Bank; agricultural
+production data from INEC; price and weadter data from other sections of the MAG, etc. The
+data and infonnation from the sector database will be diseminaed through vaious means,
+including Intemet, publications, and statistical buletins.
+1.26 The ASD will organize and disseminate this information through periodic statistical
+buletins and reports. In addition, funding is provided for three specialized surveys for needs to
+be determined during project implementatiorL
+1.27 The sub-component requirements include: (i) 36 person months of a long-term
+statistical advisor (national); (ii) 7 person months of short-term Technical Assistance; (iii)
+incremental staff and salaries; (iv) support for the operating costs of data collection, processing
+and dissemination; (v) upgrading of 1T facilities, including the purchase of 8 micro-computers;
+and, (vi) short-term training.
+SUB-COMPONENT:            B2: Market Price and News Service
+IMPLEMENTING UNIT:  SICA/MAG and Agricultural Information Directorate
+BASE COST:                USS0.58 million
+1.28 The Market Price and News Service will provide relevant and timely informafion
+services including the following: (i) summary reports of daily prices for a selected group of
+important products; (ii) summary of weekly and monthly process for a full range of products;
+and, (iii) a price consultation service that allows users to specify the markets and products in
+which they are interested. Price information will also be provided through the Intemret
+1.29 To improve the quality and timing of the information provided by the Market Prices
+and News Service, the project will provide support in the following areas:
+* Supervision and training of field personnel to improve the quality of the data.
+* Standardization of methodologies and criteria for weights and measures of farm
+produce to improve comparability.
+* Collection and dissemination of non-price news that is relevant for understanding
+the market situation. For example, weather conditions, strikes and communicatons
+problems can affect the flow of produce to the market
+* Improved dissemination of information through the use of radio and mass media to
+reach small farmers. Radio is the most cost-effective dissemination method,
+particularly in remote and mountainous areas.
+* Upgrading of computer and communications equipment most of which has not
+been upgraded since 1987, particularly in the field offices.
+
+
+
+8
+1.30  The sub-component requirements include: (i) 6 person months of short-term twhnical
+assnce in market news services; (ii) 24 person morns of long-term national tecical
+sstace; (ii) upgrading the 1T system and isaing a network to link headquarters and fidd
+offices and purchase of 10 computers; (iv) procurmet of 1 vehicle for field work and
+supernsin; and, (v) assistance with incremenal costs of operation, supervision and
+dissemnmation
+SUB-COMNPONENT:                  B3: Agroclimatic Impact Evaluation
+IMPLEMENTING UNfT:               Agroclimatic impact Evaluation Division
+BASE COST:                       US$1.37 million
+1.31 This division receives weather data, principally precipitation and temperature, from the
+National Meteorology and Hydrology Institute (INAMI, and organizes and analyzes the data
+in conjunction with crop phenology to determine the likely impact of weather anomalies and
+variability on crop production. Because of the relatively low use of modern production inputs
+and the small area under irrigation, weather and rainfall are primary determinants of crop
+yields. The project will provide support to improve the collection, processing, analysis and
+dissemination of this information. Specifically the project will:
+*  Analyze, plan, and design the expansion and upgrading of the network of
+meteorological stations in a cost-effective manner to increase geographical
+coverage, accuracy and tifeliness. In a phased manner, up to 30 additional agro-
+meteorological stations may be brought into the network. Initial installations would
+take place in pnority agricultural areas, and expansion will depend upon the
+evaluation of the effectiveness of the new system and the demonstrated capacity of
+INAMH to maintain and operate the installations.
+* Evaluate the purchase of a new satellite receiver system, which will permit the
+transmission of data automatically collected by the meteorological stations through
+the GOES-8 satellite.
+*  Data elaboration with modem technologies, such as thematic maps.
+* Implementation of an early warning service on climatic phenomena, such as frosts,
+floods, or pests.
+*  Monitoring and evaluation of information related to climatic anomalies, such as
+droughts and El Ninlo.
+*  Timely dissemination of results that are relevant to users' requirements.
+1.32  The sub-component requirements include: (i) 8 person months of short-term technical
+assistance in ago-meteorology; (ii) 36 person months of long-term technical assistance
+(national); (iii) 4 short-term training courses in agro-meteorology; (iv) installation of up to
+additional 35 automatic meteorological stations and a satellite antenna; and, (v) assistance with
+incremental operating costs.
+
+
+
+9 .
+SUB-COMPONENT:             B4: Computer Center
+IMLEENTING UNITS: SICA/MAG and Agricultural nformation Directorate
+BASE COST:                 USSO.38 million
+1.33   The computer center will provide tecmical asistnce, traiing, data processing
+systems development and maintenance and repair services. Presenty, the lack of appropriae
+equipment and technical capacty impede the effective accomplishment of these sevices. lhe
+project uill help the Computer Center to improve the following services:
+*  Mainace and repair. The division will maintain a reserve of the basic parts th
+are needed to reduce equipment downtime.
+* Training for computer users. A small and adequately equipped training center will
+offer courses in standard software packages such as Windows, Excel, Word,
+graphical packages, databases, network, and other special applications. Advanced
+courses will also become available.
+* Technical assistance for users. Direct support for all PC users in solving specific
+hardware and software problems is a key factor to help MAG staff perform their
+functions.
+*  Systems development. The Computer Center has programmers able to devlop
+and install specific systems. The project will provide technical assistance to update
+the Center's capability to respond to the new demands that will arise with the new
+equipment, software, and particularly with networks.
+* Publications production. This service will graphically format and edit reports and
+publications. By doing so, the technical staff of other divisions wiU be discharged
+from these responsibilities, allowing them to dedicate more attention to the
+technical detail of their tasks.
+1.34   For technological modernization, the installation of Intemet and Intranet is paramount
+Its justifications include lowered costs due to: (i) shared peripheral equipment; (ii) shared
+software and reduction of license requirements and costs; and, (iii) an efficient multi-user
+system for transferring ffles and information sharing. The project will provide equipment and
+haning to install and operate this technology.
+1.35   The sub-component requirements include: (i) 3 person/months of short-term technical
+assstance in information admiation tion and management; (ii) 8 short-term training courses on
+infomation management, survey processing, and information services; (ini) purchase of 13 new
+computers, network facilities, desktop publishing facilities and specialized software; and, (iv)
+assistance with operating costs.
+
+
+
+10
+COMPONENT C: AGRICULTURAL SAMPLE CENSUS
+(US$11.6 million, 50 percent of base costs)
+1.36  This component will provide technical and financial support for the Agricultural
+Sample Census in all its stages, from design and preparation, through implementation and data
+processing, to result dissemination. The component is divided into two sub-components: (CI)
+Agricultural Sample Census, which covers preparation, implementation and result
+dissemination and (C2) Data Processing, to strengthen and modernize the data processing
+capabilities of INEC's computer center.
+TABLE 1. COST COMPARISON AMONG RECENT AGRICULTURAL CENSUSES
+IN THE REGION
+TYPE OF      INTERVIEWS    TOTAL          COST PER
+COUNTRY         YEAR         CENSUS         (FARMS)    COST (US$)  INTERVIEW
+_ _ _ _ _ _ _ _        _ _ _ _ _ _ == _ _              U SS
+USA                 1990    Mail Sample        2,100,000      63,000          30
+ECUADOR             1999    Area Sample         250,000       10,660          43
+Complete
+MEXICO              1991    Enumeration        4,491,295      204,371         46
+PUERTO RICO         1987     Complete
+__________________ ___=====_L__ Enumeration      18,745        1,387          74
+PUERTO RICO         1991    I Sample        1    2,550         479           188
+SUB-COMPONENT                     Cl-Agricultural Sample Census
+IMPLEMENTING UNIT:               Economic Statistics Directorate of INEC
+BASE COST:                        US$10.66 million
+1.37  The purpose of this sub-component is to support the collection of structural data on
+Ecuadorian agriculture. These data include (i) production systems; (ii) on-farm resource use
+(land, labor, capital, technology, and infrastructure), (iii) land tenancy; and, (iv) socio-economic
+characteristics of the farm household.
+1.38  The major preparation activity under this component is updating and completing the
+Area Sampling Frame for the whole country. Satellite imagery will be used to update areas of
+the country for which aerial photography is not available or not current, particularly the eastern
+lowlands. Aerial photographs will be required for selected areas to complement the satellite
+image. For cities and towns, cartographic information from the recent population and housing
+census will be used to locate segments in these strata. Moreover, the use of a multiple
+sampling frame that takes into consideration lists of producers will provide adequate coverage
+of special products and/or producers.
+1.39 The sample census will compile information from approximately 250,000
+questionnaires administered throughout the country, out of a total of approximately 897,000
+farms or Agricultural Production Units (UPAs) in Ecuador. The sample size has been
+designed to optirnize data significance and mmimize costs by balancing sampling and non-
+sampling error.
+
+
+
+11
+1.40   To reduce sampling errors, the information already available will be used to stratify the
+sample. Accordingly, the sampling methodology will be based on a multiple sampling frame.
+This methodology is a combination of the area sampling frame (where the population is
+grouped in geographical units or strata) with a list of population (where the grouping is based
+on different criteria, such as farm area, or type of land ownership). The use of the lists of
+population is necessary when the sampling errors with the area frame are too large. This is the
+case, for example, when one individual accounts for a large percentage of the total population,
+or when the surveyed product is specialized, such as flowers, mangos, etc. The list of
+population will be kept as short as possible to be manageable. The frame will be designed so
+that it could also be used for other surveys. In fact, an important project objective is to unify
+the methodologies used in all agricultural surveys.
+1.41   The main results expected from the sub-component are: (i) an updated and complete
+area sampling frame to be used for all agricultural surveys; (ii) data on agricultural production,
+practices and farm structure, desegregated at canton level; (iii) documentation on surveying
+methodology and execution; (iv) publication and dissemination of the results; (v) wide
+availability of data series in electronic formats; (vi) seminars for policy analysts and other data
+users to explain how to use the data sets; and, (vii) seminars for the general public and
+farmers.
+1.42   The project will provide technical assistance to INEC in the following areas: (i)
+updating the sampling frame and designing and selecting the sample; (ii) design the
+questionnaire and tabulation formats; (iii) pilot test of questionnaires, field procedures and data
+entry process; (iv) data collection; and, (v) dissemination of results through publication of
+reports as well as through electronic media. The technical assistance requirements in data
+processing (C2) and for AFPS (D) are included under the Census Component because of the
+interrelationships among the components.
+1.43   The sub-component requirements include: (i) 42 person months of short-term technical
+assistance in survey planning and management, mathematical statistics, survey statistics, and
+systems analysis and data processing; (ii) 12 short-term training courses in survey design,
+sampling, and survey statistics; (iii) incremental staff and salaries; (iv) 3 5 vehicles; (v) 45
+micro computers; (vi) service contracts to procure temporary cartographers for updating maps
+and area frame; (vii) service contracts to procure interviewers, enumerators, and transport to
+the field (car rental); and, (viii) logistical support in the field and other operating costs.
+
+
+
+12
+SUB-COMPONENT:                  C2- Data Processing
+IMPLEMENTING UNIT:              Computer Division (INEC)
+BASE COST:                      US$0.920 million
+1.44   Processing the information collected from the Agricultural Sample Census will require
+substantial effort from INEC. Presently, INEC's processing capability is weak. This sub-
+component will boost INEC's processing capacity, to the benefit of the entire institution, not
+just for the project activities. The project will also support the efforts underway to decentralize
+INEC, particularly in the data processing area.
+1.45   The project will significantly improve the operations of INEC's data processing unit to
+provide the following services: (i) data processing,; (ii) training and technical assistance for
+computer users; (iii) systems development for survey processing; (iv) maintenance and repair;
+(v) information technology monitoring; and, (vi) publications production. The main
+characteristics of this sub-component are similar to those described for the support of MAG's
+computer center. To avoid the high employee turnover due to the attractive salaries paid by the
+private sector to computer technicians, young professionals fresh from universities and
+technical schools will be hired.
+1.46   The sub-component requirements include: (i) 30 computers and software; (ii)
+equipment for the installation of a network; (iii) 6 short-term training courses; (iv) assistance
+with operating costs,; and, (v) incremental salaries.
+COMPONENT D: AGRICULTURAL FARM PRODUCTION SURVEY (AFPS)
+(US$1.6 million, 7 percent of base costs)
+Implementing Unit: INEC
+1.47   This component will provide technical and financial support to incorporate the results
+of the Agricultural Sample Census in the area frame of the Agricultural Farm Production
+Survey (AFPS), which is carried out annually by MEC. The AFPS provides estimates of
+production for a wide array of agncultural products, including livestock. INEC has been
+implementing this survey since 1981. Approximately 70,000 UPAs are surveyed each year
+between September and November. The results, which are available the following March,
+estimate national production, yields and area for 33 crop and livestock products during the
+previous year.
+1.48   The Agricultural Farm Production Survey (AFPS) is particularly important for the
+MAG and the agricultural sector, as the survey provides the only objective annual data on crop
+production, area and yields. However, its usefulness is significantly limited because the results
+only become available eight months after the major winter harvest. In recent years the MAG
+has conducted a survey of Coastal agricultural production in the July-August period,
+immediately following the harvest, to estimate the winter harvest of principal commodities
+(rice, corn, soybeans, coffee, cacao, and banana), however this survey has suffered from major
+difficulties due to the MAG's human resource constraints for survey work and supervision.
+Therefore, under the project, NEC will conduct a small Coastal Production survey each July-
+August during the project.
+
+
+
+13
+1.49 A recent evaluation of the AFPS survey has identified the following additional
+shortcomings:
+*  Incomplete sampling frame. The frame in use was created in 1981. Since its
+creation, the agricultural frontier has expanded significantly around roads and
+urban areas. Moreover, the sampling frame methodology is of limited use for
+specialized products such as flowers, mangos, etc. Additionally there has been
+inadequate sample rotation.
+*  Excessively prolonged process. The 8-9 weeks presently used for data collection,
+plus the 10-11 weeks for data processing, are excessive.
+*  Insufficient use of sampling frame. The construction and maintenance of the frame
+represents a significant investment, yet it is used for but one survey per year and
+for only one class of data, agricultural production data.
+1.50  The project will address these limitations by providing technical assistance and
+financial support to obtain:
+*  An improved sampling frame that will incorporate new areas and specialized crops,
+using the updated area sampling frame that will be created in the Agricultural
+Sample Census component.
+*  More timely data. The time elapsed for fieldwork and processing will be reduced
+through improved survey design and stratification and through the improvement of
+data processing systems (described in sub-component C2).
+*  Improved utilization of the sampling frame. In addition to improvements in the
+AFPS, the AFPS unit in INEC will design and execute an annual survey of Coastal
+production following the winter harvest, based upon a sub-sample of the AFPS
+sample and will design and execute every two years a survey to determine farm
+expenditures and costs of production.
+1.51   The sub-component requirements include: (i) 8 person months of short-term technical
+assistance in mathematical statistics, sampling, and area frame construction (included under the
+Census component); (ii) service contracts to construct the frame, including satellite imagery,
+aerial photography, and data collection; and, (iii) 4 short courses in statistical sampling and
+survey design.
+
+
+
+14
+COMPONENT E: PROJECT MANAGEMENT
+(US$3.8 million, 16 percent of base costs)
+Implementing Units:    Technical Secretariat and INEC Implementation Unit
+1.52 The purpose of this component is to establish the management structures responsible
+for the direction, coordination, planiing, financial administration, and monitoring and
+evaluation of the project (see next chapter on Project Management). A Technical Secretariat,
+headed by a Director, International Technical Advisor and a small managerial and financial
+staff will be responsible for overall project management and guidance, including direct
+management and administration of the activities in the MAG. A small Implementation Unit in
+INEC will administer implementation of the INEC components, under the direction of the
+Director of Economic Studies/Director of Census. In addition, this component will develop
+managerial slills within the government essential for the implementation of any kind of activity;
+and further develop the inter-institutional collaboration between MAG and INEC.
+1.53   The component requirements include: (i) 48 person months of a Project Director,
+managerial, administrative and financial staff of the Technical Secretariat and the INEC
+Implementation Unit; (ii) 48 person months of an Intemational Technical Advisor in
+agricultural economics, statistics and project management assigned to the Technical
+Secretariat; (iii) 4 vehicles; (iv) funds for monitoring, evaluation, and audits; and, (v) support
+for operating costs. The Technical Secretariat will be funded entirely by Loan funds.
+
+
+
+15
+2. PROJECT COST, ADMINISTRATION AND BENEFITS
+COST AND FINANCING
+Cost
+2.1      The total cost of the project is estimated at US$25.3 million equivalent, of which about
+31 percent represents foreign exchange costs. Duties and taxes amount to US$765,000. The
+breakdown of costs by component is shown in Table 2. Physical and price contingencies (on
+the basis of inflation showed in Table 3 below) are estimated to be US$2.1 million. Project
+costs are estimated at May 1997 prices and include a Project Preparation Facility (PPF)
+advance of US$750,000, which has been signed. Detailed costs tables are presented in
+Attachment 6.
+Table 2 - Project Costs Summary by Components
+(US$)
+%     % Total.
+Foreign   Base
+Local       Foreign       Total    Exchange Costs
+Agricultural Policy Process
+Sectoral Policy                                            1,525,200    1,188,200    2,713,400       44       12
+Sectoral Public Investments                                  231,440     299,360       530,800       56        2
+Subtotal Agricultural Policy Process                         1,756,640    1,487,560     3,244,200      46       14
+Agr. lnf. & Dissemination Service
+Agricultural Information Service                             559,600      98,400       658,000        15       3
+Market Price & News                                         340,200      240,000       580,200       41        2
+Agroclimatic Evaluation                                      562,000      808,800     1,370,800      59        6
+Computer Center                                              212,720     167,680       380,400       44        2
+Subtotal Agr. Inf. & Dissemination Service                   1,674,520    1,314,880     2,989,400      44       13
+Agricultural Sample Census (ASC)
+Agricultural Sample Census (ASC)                           7.546,980    3,117,920    10,664,900      29       46
+ASC Data Processing                                          519,360     400,840       920,200       44        4
+Subtotal Agricultural Sample Census (ASC)                    8,066,340    3,518,760    11,585,100       30      50
+National System of Agricultural Statistics (SEAN)
+Agric. Farm Production Survey (AFPS)                       1,277,380     319,220      1,596,600      20        7
+Subtotal National System of Agricultural Statistics (SEAN)   1,277,380      319,220     1,596,600      20        7
+Project Administration
+Technical Secretariat                                      2,040,800    1,008,000     3,048,800      33       13
+INEC PIU                                                     696,000            -      696,000         -       3
+MAG PIU                                                       84,000            .       84,000         -        -
+Subtotal Project Administration                              2,820,800    1,008,000     3,828,800      26       16
+Total BASELINE COSTS                                         15,595,680    7,648,420    23,244,100      33      100
+Physical Contingencies                                        56,580      84,870       141,450       60        1
+Price Contingencies                                        1,739,448     209,904      1,949,352      11        8
+Total PROJECT COSTS                                          17,391,708    7,943,194    25,334,902      31      109
+Table 3 - Annual Estimated Inflation Rate (%)
+1998                1999               2000               2001
+Local                                         27.3                24.3                23.1               22.1
+Foreign                                        2.5                 2.8                 2.6                2.5
+Exchange rate US$1 = Sucre                   5,372                6,436              7,688              9,122
+
+
+
+*                           ~~~~~~~~~16
+Fiacing
+2.2    A Bank loan of USS20.0 million is proposed to finm    79 percent of project costs (see
+Table 4). The proposed LiBOR based USS single-currency loan will be provided to the
+Government for a term of 20 years, including 5 years of gace. Contribution by the
+Govment will amount to USS5.3 million or 21 pecent of project costs.
+Table 4 - Financing Plan
+(USS '000)
+The Government    The World Bulk          Total
+Amount    %       Amount       %      Anmont 
+1. Foreign                675    85         7,267   91.5       7.943   31.4
+II. Local (E-xd. Taxes)  3.888   23.4      12,737   76.6       16.6Z6   65.6
+111. Taxes                765  100.0            -      -         765    3o
+otml Project              5,329   21.0      20.005   79.0       25,334  100.0
+FMnancial Implications for the Government
+2.3   Recurrent Costs. During implementation the Government will contribute US$5.3
+million of which US$18 million are salaries of permanent state employees peforming project
+related activities. US$0.6 million will be covered through recuperatio of income and sales
+taxes. At completimo, the project is expected to geneate incremental recufrent costs totling
+approximately US$75,000 for INEC and US$50,000 for MAG per year.
+
+
+
+17
+Procurement
+2.4   The Bank loan will finamc procurement of consulting services, vehidcs and
+equpment, trazing, servce conacts, civil works, and incremental recurt costs. The
+procuremen methods for dierent prcument accoumts are summized in Table 5 and
+discussed below.
+Table 5 - Procurement Methods
+(Amounts in parenthesis are Bank financed)
+(USS '000)
+ICB      NCB    Other       NBF        Total
+Chxil Work                                       23                  23
+(20)                (20)
+Eaulumean                                      700                  700
+(600)               (600)
+Vehilesz                   1,670                 87                1,757
+(1,513)              (87)               (1,800)
+Service Contracts                    4,878    3,533                8,411
+(4,000)  (3,500)              (7,500)
+Consulnts=
+Technical Assistance                        5,197                5,197
+(4,800)              (4,800)
+Training                                     907                  907
+(500)               (500)
+Mlise nnous
+Salaries                                              2,015      2,015
+Incr. Recurrent Costs                       4,212                4,212
+(2,900)             (2.900)
+PPF                                          850                  850
+(850)               (850)
+Unallocated                                  1,263                1.283
+(1,230)             (1,230)
+Total            1,670    4,878   16,772      2,015     25,335
+(1,513)   (4,000)  (14,487)            (20,000)
+2.5    All procureme   xcept salaries and incremental rcurrmnt costs, will follow
+proceduressatisfacoiy to tho Bank MAG and INEC, both public institutions, will implemet
+and be held rep ble for dteir respective procurements.  Erienced consultants wil be
+hired under the project t support the instti  in the implementatim of tee assiments.
+2.6    Consulig Services (US$6.1 million). Consulting services will be procured to provide
+tedhmical assstance and kaiins tD MAO and INEC. Training consists of workshops, stud
+tours, and (degree) courses, induding th cost of trainers' fees and trainees' scholarships and
+per diems, trainng facilites rentals, and matenals required for traimng acvites. The
+institios will follow Bank's gdelines to recruit private consulting firms, oher institutions,
+mdividual consultants and specialists. Consultng services would be procured in accorde
+
+
+
+18
+with the 1997 Bank Guidelines for the Use of Consultants. Moreover, QCBS would be used
+in all cases except where individual consultants would provide the type of services indicated in
+Section 5.1 of the above Guidelines, including work on surveys and post-survey work. During
+negotiations, it was agreed that MAG and INEC will use standard Letters of Invitation and
+Contracts for simple assignments and the Bank's standard form of Contract for complex time-
+based assignments.
+2.7   Service Contracts (US$8.4 million). Service contracts will be used to procure
+temporary workers for implementing the surveys. These services will be procured through
+NCB when a firm or an organization can supply them. For instance, the filling of
+questionnaires for a certain area could be contracted to a private firm or NGO that will train
+and supervise temporary interviewers. In other cases, INEC and MAG will directly contract,
+train and supervise the temporary interviewers. The services of survey work and post-survey
+work in Components C and D would be procured in accordance with the 1996 Bank
+Guidelines for Procurement of Goods and Works.
+2.8   Equipment (US$0.7 mnillion). Procurement procedures would be applied according to
+the following thresholds: (i) contracts costing less than US$50,000 (aggregate US$500,000):
+local shopping through direct invitation of at least three suppliers; and (i) contracts costing
+above US$50,000 (aggregate US$3,500,000): national competitive bidding (NCB). NCB
+procedures would use the Bank's standard bidding documents, modified as necessary to meet
+project requirements.
+2.9   Vehicles (US$1.7 million). ICB will be normally used for the procurement of this
+category. In most cases, procurement will be grouped in packages costing above US$250,000.
+Only during the start up phase will the project be allowed to purchase through national
+shopping of a maximum of 5 vehicles for a total value of US$114,000 or less.
+2.10 Civil Works (US$23,000). Only small works (all estimated to be below US$30,000
+per contract) are expected to be financed under lump sum contracts awarded on the basis of
+quotations from at least three qualified domestic contractors.
+2.11   Reviewing Procedures. Procedures, documents, procurement evaluation, and award of
+contracts are subject to prior review by the Bank according to the following thresholds: (i) all
+procurement through ICB; (ii) NCB for contracts costing above US$50,000; (iii) procurement
+of consulting firms for contracts costing above US$100,000 (above US$200,000 would also
+require an additional review of Evaluation Report); and, (iv) procurement of individual
+consultants for contracts costing above US$25,000. Total prior review by the Bank will cover
+at least 80 percent of procurement. The terms of reference for the auditing services will
+require the auditors to certify that procurements have been made using bid documents agreed
+upon with the Bank, and that the documents submitted to the Bank for prior review are
+representative. Moreover, the Bank will review local procurements and tendering procedures
+on the basis of an ex post sample. If it is found that the procedures agreed upon have not been
+followed, the Bank will not finance the purchase in question and will cancel the amount from
+the loan.
+
+
+
+19
+Table 6: Thresholds for Procurement Methods and Prior Review (US$)
+Expenditure          Contract Value     Procurement       Contracts Subject to
+Category            (Threshold)          Method            Prior Review
+1. Works                    30,000 and less    Three quotations     First two contracts
+a/
+2. Goods and Equipment        Vehicles b/           ICB                           All
+50,000 and less   National Shopping    First two contracts
+over 50,000          NCB                           All
+3. Consulting Services                        Selection according
+to '97 Guidelines
+- Firms/NGOs/Universities    100,000 and less                              TORs only
+100,001 to                                         All
+200,000
+over 200,000                        Additional Review of
+Evaluation Report
+- Individual                 25,000 and less                               TORs only
+over 25,000                                         All
+a/ No works above USS30,000 is expected to be financed under the loan.
+hI- During the starting phase national shopping for a max of 5 vehicles for a total value of US$I 14,000 will be allowed.
+Disbursement
+2.12   The loan of US$20.0 million is expected to be disbursed over a period of four years,
+beginning the first quarter of CY 1998 through the end of the first quarter of CY2002. The
+project completion data will be March 31, 2002 and the closing date will be September 30,
+2002. The disbursement profile presented below (and in attachment 7) is consistent with the
+Bank's standard disbursement profile for technical assistance projects.
+TABLE 7. ESTIMATED IBRD DISBURSEMENTS
+(US$ MILLION)
+Calendar Year         1998       1999        2000          2001      2002
+Disbursements         2.7        4.1          3.4          6.4        3.4
+Cumulative          2.7        6.8          10.2         16.6       20.0
+
+
+
+20
+2.13   The loan will cover 100 percent-- except duties and taxes-of the following costs:
+technical assistance, vehicles and equipment, training, and service contracts. The loan will
+contribute to finance incremental recurrent costs such as incremental salaies and incremental
+operation and maintenance costs which would progressively decrease during project
+implementation.
+Table 8 - Summary of Disbursements Schedule
+Category            Amount Allocated                M1RD Financed
+(US$'000)                         (%)
+Foreign             Local
+I Cons. Services & Training      5,300                 100                  85
+2 Vehicles                       1,570                 100                   85
+3 Equipment                      630                   100                   85
+4 Service Contracts              7,500                 100                   85
+5 Civil Works                     20                   90                    90
+6 Increm. Recurrent Cost         2,900            80, 60, 60, 20*       80, 60,60, 20*
+7 Refumding of PPF                850
+8 Unallocated                    1,230
+TOTAL                20,000
+* Percentage declining during the four years of implementation
+2.14   Special Account. A Special Account (SA) in US dollars will be opened at a qualified
+commercial bank. The SA will have one sub-account, for INEC. The total initial deposit will
+be US$1.5 million, corresponding to about four months of average disbursement. The
+Technical Secretariat (as part of MAG) will prepare and submit requests for withdrawals on
+account of eligible expenditures for the Borrower. The TS Director will be responsible for
+preparing replenishment applications.
+2.15   Statement of Expenditure. Withdrawal applications will normally be supported by full
+documentation. However, all expenditures for a contract value below the prior review, will be
+made on the basis of Statement of Expenditures (SOE). The related supporting documents will
+be maintained by the TS and will be available for Bank staff and auditors review. All other
+expenditures would require full documentation.
+2.16   Retroactive Financing. Reimbursement of up to US$1.5 million-less than eight
+percent of loan amount-will be permitted for eligible expenditures and that follow Bank
+procedures for procurement, processing and clearance. The period to be covered under
+retroactive financing starts on September 1, 1997. If the Loan Agreement is signed after
+September 1, 1998, the initial date for eligibility of expenditures for retroactive financing will
+be modified so that the period covered by retroactive financing will be no more than 12 months
+before date of loan signing. Retroactive financing is recommended to ensure the technical
+assistance necessary for those activities already undertaken by the implementing agencies.
+
+
+
+21
+PROJECT ADMINISTRATION
+Project Management
+2.17   The Project will be implemented by two public sector institutions, the Policy and
+Sector Investment Under-Secretariat of the Ministry of Agriculture and the National Statistics
+and Census Institute. While MAG is responsible for agricultural policy, INEC is in charge of
+the national statistics system (Ley de Estadistica No. 323, Mayo 7, 1976). In Attachment 2
+there is a comprehensive description of the two implementing institutions.
+2.18   To ensure collaboration between the two institutions, the project management structure
+(see Figure 1) will be composed of the following: a Technical Secretariat (TS), a Consultative
+Council, and a Project Implementation Unit (PIU) in INEC. The Technical Secretariat, located
+in the MAG, will also manage the implementation of the MAG components. A detailed
+agreement between the Technical Secretariat and INEC describing project management
+functions and responsibilities under the PPF has been signed. The agreement defines (i)
+functions, responsibilities, and organization of the INEC/PIU; (ii) procurement responsibilities
+for consultants, goods, and services; (iii) responsibilities for monitoring; (iv) accounting and
+disbursement responsibilities; and, (v) auditing arrangements. The signing of a similar
+agreement between the TS and the INEC describing project management functions and
+responsibilities under the Loan Agreement would be a condition of effectiveness of
+Components C and D.
+2.19   The Consultative Council will be composed of the Minister of Agriculture, the
+Director General of INEC, a representative from the Ministry of Finance, and representatives
+from the private agricultural sector. The Council must approve any changes in the Directorship
+of the Technical Secretariat that may be requested by Minister of Agriculture, as well as review
+project annual plans and strategies.
+2.20   The Technical Secretariat will be responsible for overall project management,
+including: (i) establishment of planning, monitoring, evaluation, and auditing activities; (ii)
+establishment of project strategies and implementation guidelines; (iii) facilitating coordination
+between project institutions; (iv) contracting extemal technical assistance and offshore
+procurement of goods in accordance with Bank guidelines; (v) establishment of administrative
+and financial systems and procedures; (vi) management and administration of the MAG
+components; (vii) management and technical support to the institutions; (viii) documentation
+and reporting to the Consultative Council and to the World Bank regarding project status; and
+(ix) project accounting, disbursements, and reporting to the World Bank. The Technical
+Secretariat has been established and the TS director has taken office.
+2.21   The INEC Project Implementation Unit (INEC/PIU) will be responsible for the
+implementation of Components C and D of the project, including: (i) administration and
+accounting of local expenditures and local procurement; (ii) planning, monitoring, and
+supervising the implementation of Components C and D; (iii) reporting technical and financial
+documentation to INEC management and to the Technical Secretariat; (iv) local procurement
+of consultants, goods, and services in accordance with Bank guidelines and TS instructions;
+and (v) internal auditing. Establishment of the INEC/PIU is a condition of effectiveness.
+
+
+
+22
+2.22   The project components are tailored to the existing institutional structure (see Figure
+1). By doing so, responsibilities for implementation of individual components are clearly
+demarcated among the existing institutional units.
+Figure 1. Project Management Structure
+Conaultative Council 
+M.n-st=v of                T e  hm. _Techr,ical.           Nat.ional Statistl Cs
+[ t.wri^ - -e JSecr-eta=iat                                & Census Tns-tituze
+Yanagemer.t &
+Financial
+:NEC/SICA
+________________ ~ ~ ~      zncleme n   a
+_ o I               .            =ion Ur,_.
+I~ ~~ _.~----~
+I tc nor, 4-. c
+_______________~ ~ ~ ~              Sz5Hies_ .
+_|    icu -:Ural  L                          |g Ce-.s s & .g
+_   _cesI&      J                            Sa  tistcs
+A :g rocl -L.....at t C                          Dat a ?rocess-ing
+Ev-al u_tion._
+Cornnuter 
+C Cene          I
+
+
+
+23
+Project Implementation
+2.23  Implementation Plan. An implementation plan and schedule have been jointly prepared
+during appraisal (see Attachment 8 and Attachment 9), and was agreed upon during
+negotiations. During negotiations it was also agreed that TS and INEC-PIU will annually
+present a detailed implementation schedule for the following year for Bank review. The
+detailed implementation schedule of the first year (with particular care on ASC preparation),
+has already been review during appraisal.
+2.24   Operations Manual. The TS will prepare a detailed project Operations Manual. This
+manual will contain: (i) internal procedures for procurement of civil works, goods, services,
+and for recruitment of consultants; (ii) terms of reference for the consultants, sample
+consulting contracts, and samnple bidding documents; (iii) disbursement procedures. The Bank
+will review the manual. A draft Operations Manual was prepared before negotiations and the
+adoption of the agreed manual will be a condition of project effectiveness.
+2.25 Agricultural Sample Census. The ambitious plan to implement this activity in 1998
+requires a special implementation effort from INEC. The PPF is necessary to further proceed
+in the preparation of the ASC and to have access to the required technical assistance.
+Therefore, the preparation and submission to the Bank of the terms of reference estimated
+budget, and draft contract for contracting Technical Assistance is a condition of effectiveness.
+Accounting and Auditing
+2.26   The Technical Secretariat and INEC/PIU will establish and maintain separate project
+accounts to record all project transactions from the commencement of project execution. Each
+institution will be responsible for establishing the accounts. The TS will consolidate all project
+accounts. Such accounts shall be maintained in accordance with internationally and locally
+recognized accounting principles and practices satisfactory to the Bank. The accounting
+system will be divided by sub-component, expenditure category, disbursement account,
+implementing institution, and will consolidate these accounts to prepare financial reports. The
+supporting documentation will be kept in the INEC/PIU and TS and will be available at any
+time for review by the Government, Bank Missions, and/or independent auditors.
+2.27 The TS will ensure that the INEC/PIU uses standard operating, administrative and
+accounting procedures (set out in the Operations Manual) on: accounting, accounting plan,
+budgeting, administrative and financial reports. The TS will provide-within three months
+after the close of the fiscal year-annual financial statements to reflect the financial
+performance of the project. An independent auditor satisfactory to the Bank will be
+competitively selected by the TS and hired to provide an opinion on such statements. The
+auditor's report will be provided within four months of the close of the fiscal year and will
+include a statement on the adequacy of the accounting system and intemal controls, the
+reliability of financial statements and SOEs as a basis for loan disbursements. The auditing and
+accounting arrangements was agreed upon during negotiations.
+
+
+
+24
+Monitoring and Supervision
+2.28  Project implementation will be monitored by the TS. The Government and the Bank
+will monitor project progress during joint supervision missions. A Mid-Term Review and an
+Implementation Completion Review will be held at appropriate times during the life of the
+project. Project monitoring and supervision arrangements was agreed upon during
+negotiations.
+2.29  Monitoring. The TS will provide semester reports to the Minister of Agriculture, the
+Director of INEC, and the Bank. The reports will contain information on progress, collection,
+processing, analysis, and distribution of information and an evaluation of the effects on
+decision-makers. The semester reports will be furnished to the Bank no later than two months
+after the completion of each semester. The key monitoring indicators are detailed in
+Attachment 8 and described in the Operations Manual.
+2.30 Regular Supervision. Twice a year, the Bank and the Government will organize joint
+supervision missions. Before each mission, the Government and the Bank will agree on the
+major substantive issues to be dealt with. These missions will always include an evaluation of
+project progress based on the monitoring indicators, compliance with legal covenants, and
+procurement and financial management supervision. At the end of each mission, the
+Government and the Bank will sign an Aide Memoir that will contain the major agreements
+reached during the mission.
+2.31  Mid-Term Review (MTR). Two years after the effectiveness date the Government and
+the Bank will carry out a Mid-Term Review. Three months before this review the Government
+and the Bank will agree upon the detailed terms of reference and staffing of the MTR team. In
+particular, the MTR will evaluate: (i) the quality of surveys carried-out; (ii) use of data and
+information by the private sector; (iii) institutional strengthening and financing by the
+Government of MAG and INEC operating costs; and, (iv) procurement, disbursement and
+financial aspects. The Mid-Term Review arrangements was agreed upon during negotiations.
+2.32  Implementation Completion Report (ICR). Within six months after project completion,
+the Government and the Bank will carry out a joint project completion review and produce an
+Implementation Report. A team composed of project staff, Bank-representatives and
+independent specialists will carry out this review.
+
+
+
+25
+PROJECT BENEFITS AND RISKS
+Project Benefits
+2.33   Measurable benefits/outputs would be in the form of improvements in rural data
+consistency, validity, timeliness, and availability. This would encompass:
+* Increase in data collection activities. The project will finance 11 data collection
+activities for a total of 626 thousand questionnaires, including one Agricultural
+Sample Census (ASC), four Planting Intention Surveys (PIS), three annual
+Agricultural Farm Production Surveys (AFPS), one Farm Expenditure Survey
+(FES), and three Ad Hoc Surveys.
+*  Reduced elapsed time for processing and dissemination. For example, the 1974
+Agricultural Census Results were first available three years after the data was
+collected. For the Agricultural Sample Census, data processing and publication is
+expected to take only eight months. For the AFPS, the time needed for processing
+data will fall from 11 -.13 weeks to 8 weeks (see Attachment 8),
+-  Increased quality, number, circulation of statistical abstracts, descriptive and
+analytic reports, bulletins, and studies produced. Utilization of local languages,
+user-friendly publications and data.
+-  Implementation of a series of seminars and media broadcasts. The project will
+support 8 national seminars to present the key findings of the surveys and 18
+regional seminars to present the results of the sample census.
+Table 9. Number of Interviews
+Surve               1998     1999     2000       2001     TOTAL
+Planting Int. & Winter Harvest  18       18       18         18        76
+Farm Expenditures                                 18                   36
+Ad Hoc                                   18       18        18         54
+Annual Prod. Survey            70                 70        70        210
+Census                                  250                           250
+TOTAL                          106      286       124       106        626
+2.34   The benefits would come not only from the activities financed under the project, such
+as the Agricultural Sample Census (ASC), but also from improvements in the quality of other
+small-sample surveys, such as the LSMS, whose sampling frames are based on the ASC. (In
+the recent past, the results from such small-sample surveys were questionable since the basic
+sampling frame was based on dated information, and, consequently, the samples were
+unrepresentative.)
+2.35   The improvement in rural data consistency, validity, timeliness, and availability is
+expected to cause a rnore sound decision-making process in both the public and private sector.
+The project will improve the efficiency of both MAG and INEC. Both institutions will receive
+
+
+
+26
+technical assistance and training in data collection, processing, analysis and dissemination.
+Through improved access to quality information, better public policies can be designed leading
+to improved rural productivity and hence to higher overall growth. Public sector decision
+making and the formulation of sector policies would benefit from: (i) a clear description and
+understanding of a problem situation; (ii) projections of alternative scenarios; and (iii) estimates
+of responses of consumers and producers to interventions and changes in external parameters.
+Furthermore, improved infornation would lead to better targeting of government's programs
+thereby helping the rural poor and the indigenous people. Finally, in the event of a shift in the
+terms of trade against agriculture, it will be possible to design and implement policies that can
+impact positively on those most affected thereby reducing political pressure to introduce
+protection (measured by nominal protection rates for major commodities) and hence undermine
+reform efforts.
+2.36   The provision of quality mformation and analysis would improve private sector
+decision making as well. This is all the more important today as Ecuador moves away from the
+certainty that used to accompany fixed prices established by the Government to prices that
+reflect day-to-day market conditions. Farmers, traders, and agro-businesses should benefit
+from the project through: (i) reduction in transactions costs by accessing to up-to-date and
+relevant information on production, stocks, prices, and weather; and (ii) reduction in risk by
+having the data for reliable cost and price projections. Furthermore, market efficiency would
+be improved from (i) greater price stability (for example, from stock adjustments made in
+response to future expectations); and (ii) reduction in asymmetrical information between rich,
+well-informed traders and their poorer counterparts (who cannot invest in the search for data).
+For example, in the past, rice traders operated with prices set by the state. Now, post-
+liberalization of the sector, traders need to know both the domestic and international price and
+supply situation, the exchange rate, tariffs, and the interest rate. If many people have this
+information better sectoral investment and trading decisions will be made benefiting both
+producers and consumers.
+2.37   Quantitative economic analysis for the project is attempted only for the calculation of
+benefits from higher sectoral growth, and not of benefits from improved targeting of
+Government programs which would lead to poverty reduction. Given the difficulties in
+measuring the benefits of policy reforms in advance, it is necessary to examnine the break-even
+point to determine the minimum benefits required to justify expenditures under the project and
+examine the probability that project activities would attain that level of benefits. In 1995, value
+added in the Ecuadoran agricultural sector was around US$2.0 billion. Assumng a discount
+rate of 10 percent, and a 1 0-year benefit horizon, an increase of just 0.25 percent in value
+added in the sector would justify the project. It is expected that the contribution from measures
+included in the sectoral reform would be much larger particularly because benefits would
+accrue to non-agricultural activities as well.
+
+
+
+27
+2.38   Beneficiaries. Project beneficiaries could be separated in two groups: the first group
+encompasses those who will participate in project implementation, such as staff of MAG and
+INEC, as well as the staff of contracted companies, who will benefit from the institutional
+development, technical assistance, and training provided by the project. The second group
+encompasses those decision-makers that will use project outputs such as data, information,
+analysis, etc. They could be further divided in the following five sub-groups: (i) economic
+analysts within the central Government, sector ministries, and public agencies, such as
+decision-makers in the Ministry of Agriculture, the Fund for Social Emergency Investments
+(FISE), or the Banco de Fomento; (ii) managers of projects and public enterprises, such as
+managers of rural development projects, or the National Organization for Agricultural
+Marketing (ENAC); (iii) researchers and analyst in universities and research institutions; (iv)
+private sector institutions, private enterprises, and farmers, such as private banks, or producer
+associations; and, (v) external multilateral and bilateral institutions, such as external donors,
+development institutions, etc.
+Project Risks
+2.39   Ecuador's increasing fiscal deficit could reduce financial support for project activities
+leading to a reduction of capabilities in both MAG and INEC. Even if funding and capabilities
+remain, the political environment may derail the reforms. The risk of reduced public funding is
+addressed by a modular project design that will retain considerable flexibility in project
+implementation, whereas, the risk of diminished political support is addressed with specific
+design measures to improve information service to high-level public officials and private sector
+interests. Moreover, it should be noted that the proposed project is largely built on a base of
+activities that have been and are continuing to be carried out. This is particularly true in MAG,
+where the project will expand, improve, and strengthen activities already being carried out by
+the SSPI. In INEC, both the Agricultural Sample Census and the Rural Income and
+Expenditure Survey will be new activities, although the institution has a long and effective
+professional history of conducting surveys.
+Environmental Category
+2.40   The project's environmental category is B. The project will contribute to providing
+information to environmental and social policy makers, promoting a sound policy process.
+Among social policies, the Government of Ecuador is recently paying increasing attention to
+indigenous people issues, and the Census should contribute significant information on issues
+relevant to the rural indigenous people. To ensure this, the project will finance technical
+assistance of experts in this field.
+
+
+
+28
+3. AGREEMENTS AND RECOMMENDATIONS
+3.1   The following agreements have been reached during appraisal, and post-appraisal:
+* Costs and financing of the project (para 2.1 and 2.2),
+* Structure of project management ( para 2.17),
+* Signing of agreement between MAG and INEC on project management functions
+and responsibilities under PPF (para 2.18),
+* Establishment of the Technical Secretariat (para 2.20)
+* Project implementation plan and schedule (para 2.23, Attachment 8, and
+Attachment 9),
+* Detailed project schedule for the first year ( para 2.23),
+* Detailed schedule of the Agricultural Sample Census preparation (para 2.23),
+*  Project benefits and beneficiaries (para 2.33 and 2.38), and
+* List of key monitoring indicators (Attachment 8).
+3.2   The following condition for negotiations was fulfilled:
+* Preparation of a draft Operations Manual (para 2.24).
+3.3   The following agreements were reached during negotiations:
+*  MAG and INEC will use standard Letters of Invitation and Contracts for simple
+assignments and the Bank's standard form of Contract for complex time-based
+assignments (para 2.6),
+* Auditing and accounting arrangements (para 2.27)
+- Project monitoring and supervision arrangements (para 2.28), and
+-  MIid-Term Review arrangements (para 2.31).
+3.4   The following will be conditions of effectiveness:
+* Signing of agreement between MAG and INEC on project management functions
+and responsibilities under Loan Agreement (para 2.18),
+* Establishment of INEC-PLIJ (para 2.21), and
+* Conclusion and adoption of the Operations Manual by TS and INEC-PIU (para
+2.24).
+
+
+
+29
+ATTACHIENT I
+ECUIADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Data Collection Activities
+1.    A series of data collection activities are contemplated under the present project.
+Each of these activities, while complementing the others in a variety of ways, is designed
+for a distinct purpose and would collect different data. The purpose of this annex is to
+clarify the differences as well as demonstrate the connections that exist among the
+activities.
+2.    Overview of Usual National Data Collection Structure. Most countries carry
+out two main census activities: a Population Census and an Agricultural Census. The
+purpose of any census, in general termns, is to measure specific characteristics of the total
+population. In a Population Census, the population is all persons living in the country,
+therefore the individual is the unit of observation. In an Agricultural Census, the
+population is all farms or Agricultural Production Units (UPAs), and the farm or UTPA is
+the unit of observation
+3n.    Due to the extremely expensive and logistically complex nature of a census, such
+exercises are usually carried out once a decade and the types of data collected are very
+limited. Surveys are carried out in the interim period to satisfy the need for more frequent
+and/or more in-depth data. Samples or subsets of the population are created based on the
+sample frames of the census. Researchers then interview only those units of observation in
+the sample and extrapolate the findings to the national level or total population. While
+surveys suffer from greater sampling error, the small size and the ability to increase
+supervision and training help to lower non-sampling error. Also, it is possible to collect
+more in-depth data or cover more categories in a survey.
+Project Data Collection Activities
+4.    There are six separate data collection activities that would be carried out under the
+project (see Table 9):
+(a)   Agricultural Sample Census (ASC);
+(b)   Agricultural Farm Production Survey (AFPS);
+(c)   Planting Intention Survey (PIS);
+(d)   Farm Expenditure Survey (FES); and
+(e)   Ad hoc Surveys (AS).
+
+
+
+30
+5.    In addition, a sixth survey--the LSMS--is included in Table 9. This survey is
+financed under a different World Bank project (3425-EC) and, as of 1995, will also be
+implemented by INEC. The main relationships and differences among these surveys are
+described below.
+6.    Sample Unit: Given that the sample frames created for the Population Census
+(carried out in 1991) and the Agricultural Sample Census (ASC, to be carried as part of
+the proposed project) are different, the frame to be used for the individual surveys is a
+function of the unit of observation and the type of data required. For all surveys where the
+unit of observation is the UJPA, the ASC sample frame would be used. The data collection
+activities under this project that would be included here are: the Agricultural Farm
+Production Survey (AFPS), the Planting Intention Survey (PIS) and the Farm Expenditure
+Survey (FES).
+7.    Purpose and Types of Data Collected. The ASC would collect data on overall
+agricultural land use and production. The geographic coverage of the ASC would allow
+data to be disaggregated to the canton level (196 cantons in Ecuador). To provide data on
+the agricultural production of each year, the AFPS would be carried out. This survey
+would use a smaller sample of UPAs (see Table 9) and would provide data at the
+provincial level (20 provinces in Ecuador).
+8.    The PIS collects similar data to that in the AFPS with two important distinctions.
+First, the survey is designed to provide data on which to make projections of agricultural
+production. This is a key tool for agricultural planning and forms part of the MAG analysis
+program. The other difference is that the PIS is geared solely to the large export crops of
+the coastal region. Given the large size of the UPAs in this region and the predominance
+of a few export crops it is possible, with a fairly small sample, to make reasonably accurate
+projections of agricultural production in the region and, hence, potential exports.
+9.    The FES, while also using the UPA as the unit of analysis, has very distinct aims.
+Unlike the other surveys that address the characteristics of the agricultural sector and
+overall production, the FES would gather data on how this production is achieved. The
+data collected in this survey would provide information on prices, costs of different
+technologies and the overall cost structures in the agricultural sector.
+10.   The Living Standards Measurement Survey (LSMS) is a different data collection
+activity which has been carried out in 1994 and 1995 under another project (3425-EC).
+The LSMS provides data on all facets of individual and household welfare and allows: (i)
+the measurement of poverty; (ii) policy relevant data on the characteristics of the poor and
+non-poor; and (iii) the analysis of the determinants of poverty and other social sector
+outcomes. None of the other surveys would provide the amount of data on different
+topics, nor the same social sector data and analysis capabilities.
+
+
+
+Tablc 9 - Sumnnary of Data Collection Activities
+ample  Ullit                              I                       IteltltioII ttl Otler Surveys
+Activity           Covcrage                Purpose                                      Sanple Size              Frequency
+(1)           National        )ctenninc agricultural land nse, Agricultural     *   10,000 sample         Evcry 10 years        *  Creates sample frame for all
+Agricultuiril Sample                   aPnd type ofownciship,          Iloduction Unit        segments (230,000                              other agricultural surveys
+Ccnstis (ASC)                          agriculitiral piodution          (UI'A)                UI'As)                Last doIe in 1974    *   lmprovc the AFPS sampic by
+(Liiniitcd Agricltlural                (quantities anidI prcc), usC and                       all Ul'As gr"titer                         , updating frame and including
+Ccnsus based on Arca                   av ilability of inputs, labor,                         than 100 licctares                              (lie Oricntal Rcgion
+Framelc)                               crdit technical ssistan.c'   (17  000                                    ..s..
+(2)           National       Nationail AgiLtiltli .kl        Agitculetilal     3,700 sample seginalis  Aiuiial                 *  Actual lroduction data
+Agricultural Farm                      Prodtiction: livestock, dairy,   Production Unit                                                 ,*  National level'
+Production Survey                      pennanent and annual crops       (UPA)             (apJi 70,000 UPAs)       Last done in 1994    *   Depends on ASC for sample
+(AFPS)                                                                                                                                       frame
+(Part of System of
+National Agricultural
+Statistics, S     .N)                                                                                       ............ ....... .
+(3)           Coastal        AgriciltLural production        Agriculltiral      18,000 UPAs              Aininial (June)      .*  Only survey providing
+Planting Inticntioll    Region, rural cstiinittes for main rural crops  lProductioll Units.   production cstiinates of
+Survey (PIS)                           based on planting intentions    (UPAs)                                                                major export crops
+.   AFPS cross-check
+..   Depends on ASC for sample
+.  I   .                                   ~~~~~~~~~~~~~fraine
+..........................            . ..   .......... .......... .. ........ .............  ..... ..               .    ..................... . ....  .... ........ . ... . ............ ;,
+Activity                Covcrag'c      P~urposc| Saiiinpl  Unit    I Saple..                     Size             I ......ic..cy         RelatjioI tO Other Suirveys
+(4)           National       Costs of agricultumal           Agricultural       18 ,000 UlAs             lBiannual             *  Only source ofdetailed
+Fin in Expenditure                                                     l' (     t * iol Un it 'i                  ,igricmlturiil cost infonnation
+Sturvey (FES)         ..~(UI'A).*Dlepends oni ASC for frame
+~~~~~~~~~~~~~~~~~~~~~~~~. .............              I . ..   .. ......I .....  ..................
+(5)           National       Poverty Measurcinenta d         I louseholds      6,000                     Anmtal                *  Only national lcvel data
+Living Standards                       identification of characiteristics               .                                                    designed to measure poverty
+Mcasurireiicit Survey                 i of xoor: collecis datta oii                                                I amst dIone 111 1994  *  Only multi-topic survey that
+(LSMS)2                                e expenditures, honsilng, hlcalth,                                                                    a allows anaxlysis or
+educationt, cimploymeit,                                                                              deterninants of social sector
+agricultural and non-                            .                                                    outcomes
+agricultural hshiold businesses,                                                                  *  Uses Population Census as
+labor and non-labor income,                      ,                                                    Sample Frame
+______________ _ .migration, nutrition.
+The Planting Intention Survey collcct data to forccast tlc agricultural production in tlhe coastal region. The AFPS iieasurcs the actual production in all the
+country.
+2  The Living Standards Mcasurencnt Survey (LSMS) is finanaced under another project (3425-EC).
+
+
+
+32
+ATTACHMENT 2
+ECUADOR
+AGRICULTURAL CENSUS AND INFOREMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Implementing Institutions
+1.    The project implementing institutions are the Ministry of Agriculture and
+Livestock (MAG) and the National Statistics and Census Institute (INEC). INEC
+concentrated on data collection, processing, and dissemination, and MAG concentrated on
+the analysis and dissemination of data and policies. This annex describes the two
+institutions and their relationships.
+TE MINISTRY OF AGRICULTURE AN) LIVESTOCK (MAG)
+2.    MAG is responsible for sector policies and advice on macroeconomic and
+multisectoral policies that affect the agricultural sector. It is also responsible for providing
+objective information to the private sector and other public sector agencies fitted to meet
+of their decision making requirements. The recent restructuring of MAG (see Figure 3
+page 3 3)provides an institutional focus for the analysis of agricultural policies and
+information. Other MAG offices and other public agencies also compile, process, and
+analyze information that can make a positive contribution to the informnation system.
+3 .    The recently-created Office of the Under-Secretary for Sector Policy and
+Investment (SPIS) replaced the Office of the Under-Secretary for Marketing. SPIS is
+composed of four directorates: (i) Policy Analysis, (ii) Internal and External Trade,
+(iii) Agricultural Information, and (iv) Planning, Investments and Budgeting The
+Agricultural Sector Program of the Inter-American Development Bank works closely with
+SPIS Objective of this program is the agricultural sector adjustment and includes a
+component of institutional support for MAG. However, this component does not cover
+the information system The main functions and responsibility of SPIS's directorates are
+described below.
+4.    Directorate General Of Policy Analysis. This directorate is responsible for
+monitoring and evaluating sector performance, identifying sector problems, conducting
+economic analysis of policy problems, evaluating policy altematives for decisionmakers,
+and informing the private sector about the situation and prospects for the main staple
+crops. It publishes a monthly report on the "Situation and Outlook for Staple Crops",
+which is widely distributed in the public and private sectors. It is distributed to MAG staff
+for use in their analysis reports (policy memoranda), which deal with a wide variety of
+policy problems ranging from the impact of the European Economic Community
+restrictions on bananas, to the impact of rnilk imports on domestic prices and production.
+The Directorate of Policy Analysis also compiles, organizes, and analyzes macroeconomic
+and trade data, using secondary sources. The reports on the "Situation and Outlook for
+Staple Crops" are more directly oriented to monitoring the dynamic variables (prices,
+trade, production, etc.)
+
+
+
+33
+Figure 3 - MAG Organizational Chart
+Ministry of Agriculture
+(MAG)
+(1,460+6,9231
+Administration
+[171]
+Sector Policies &          Tehial&          
+Invetormlicents &ATehnicrate &              Sierra & Amazonas      South & Galapagos          Regional
+Under-Sectrentari       AndmeniSertariati     Regional Under-       Regional Under-       Under-Secretariat
+U 7      td  [130]                       Secretariat [502]      Secretariat [2191    Northern Cost [144]
+|Policy Analyss I           |Institutional           Special Programs               Autonomous
+Dlirectorante               Development          (livestock, coffee, etc.)         Institutions
+Directorate                [222]                       [6,923]
+Internal &
+External Trade  _                 Legal                                  INEFAN                     CRM
+Directorate                  Directorate                              (Forestacion)   _       (Reconstr. of
+[647]              Manavi) [921]
+Agricultural                    Social
+Infonnation             -  Commumcation                                  INIAP                 PREDESUR
+Directorate                  Directorate                               (Reserch)     -        (South Region
+[429]               Planning) [900]
+Planning, nv.                   Human
+and Budgeting            -    Resources                                 ENPROVIT                   CREA
+Directorate                  Directorate                            (Vital Products           (East Region
+.                                      g Market.) [350] |       |~~~~~~ Planning) [513]|
+Administration
+- m    Directorate                               ENADE                    ENDES
+NaturalFiacl
+Resources                 DFinancialte                              INCRAE                     INERI
+DiectoraDirDirectorate                                              (Regional      -         (Irrigation)
+Planning) [74]              [285]
+|Smnall-Fanmer |         |Agiculture & |           
+|Development           -   Livestock    |                               EN AC                    Banco de
+Directorate                Directorate                           (Marketing) [47]             F
+|INCCA (Small |           iReaserch & |
+|Farmers'                   Extension                 ||INDA 
+Training)                 Directorate                             (Land Titling)   -
+[212]
+Notes: in [paranthesisl the number of permanent staff
+I Project supported units >
+5.       Internal And External Trade Directorate. This directorate is responsible
+internally for grain marketing policies related to the National Marketing Corporation, and
+externally for the price range policy, tariffs, and problems related to entry into GATT,
+
+
+
+34
+NAFTA, and the Andean Free Trade Zone. In the near future, external trade problems
+would dominate the work of this directorate, which also provides continuous monitoring
+of international prices and market conditions through a computerized international
+network.
+6.    Agricultural Information Directorate. This directorate is divided in the
+following four divisions:
+(a)   Agricultural Statistics Division. This division conducts small surveys,
+based on a sub-sample of the national agricultural frame managed by
+INEC. It conducts two types of surveys: (i) the Agricultural Farm
+Production Survey (AFPS), and the Planting Intention Survey. It also
+conducts one or two targeted surveys a year, such as the survey to
+determine livestock parameters. AFPS is highly important for decision
+making. Other activities performed by this directorate include: estimates of
+livestock slaughtered, estimates of balanced feed, and compilation of
+secondary data from the Central Bank. The division has learned how to
+design and conduct surveys, but still suffers from some shortcomings in
+statistical methods, use of descriptive statistics, and sampling.
+(b)   Market Prices and News Service. The main responsibility of this division
+is the operation of an information system on wholesale market prices for
+staple farm crops and dissemination of the results. It systematically
+compiles, processes, and disseminates wholesale prices from the country's
+20 largest markets, including border markets with Peru and Colombia.
+This system alerts analysts to changes in prices on the main wholesale and
+border markets. Price reports are produced daily, weekly, and monthly.
+With the reorganization, this area would also be responsible for providing
+price information on the farm level (or the first purchaser). The operation
+is based on a chain of computerized telex machines, supplemented with fax
+communications with the markets. Inadequate supervision and training for
+personnel in the field has been causing problems in controlling the quality
+of the data.
+(c)   Agroclimatic Impact Evaluation Unit. Ecuador's farming area suffers
+serious climatic risks, ranging from low precipitation in the sierra to flood
+in the coastal region. The climate is an important factor in making
+decisions on planting, crop development, yield, and production. This unit
+monitors rainfall and other weather variables, through 50 stations, to enable
+it to evaluate the possible impact of climate factors on planting, crop
+maturity, and projected yield. This information is used by policy makers to
+decide when a climate phenomena has to be considered a natural disaster.
+These activities are carried out in cooperation with the National
+Meteorology and Hydrology Institute (INAMHI).
+(d)   Computer Center. The computer center is organized as a service center
+for PC users in MAG. It processes surveys, carries out basic repairs and
+maintenance, provides training in software applications and technical
+assistance for users, and develops user-ready systems.
+
+
+
+35
+7.    The Directorate General Of Planning, Investment, and Budgeting. This
+directorate is responsible for preparing the annual budget for the entire sector and fnr
+monitoring and evaluating sector programs and projects. The current budgeting process is
+apparently a mere exercise in adjusting the past budget to an inflation factor, within the
+widespread budgetary constraints. Investment planning is not linked to budget priorities.
+Monitoring is based on inputs, and solid evaluations have been scarce There is very little
+real analysis of cost effectiveness, distribution, or the impact of public spending and
+investments in the sector.
+8.    One major problem that has become apparent in MAG is its lack of capacity to
+monitor its main programs and investments. This can be put down to the absence of a
+formal budgeting system that includes the establishment of objectives, priorities,
+programming, and budget execution and monitoring. It is also necessary to institute
+organized and structured planning of activities with the formal participation and support of
+all areas in MAG. In this process MAG's budget should be framed in the context of the
+objectives and goals of a program tailored to its institutional realities and limitations,
+which should form part of a long-term strategy. Another crucial area where support is
+needed in MAG is for more effective monitoring of agricultural programs and projects, to
+determine whether the Ministry's different programs and investments are achieving the
+expected impact Other countries have made similar efforts and their applicability to
+MAG should be evaluated.
+NATIONAL STATISTIC AND CENSUS LINSTITUTJE (INEC)
+9.    The National Statistics and Census Institute (INEC) is the other main institution
+that would participate in the compilation, processing, analysis, and dissemination of
+agricultural information under the proposed project INEC has also been reorganized to
+gear its structure to policies for modernization of the State and decentralize it
+administratively to enable it to carry out its responsibilities in a more efficient and timely
+manner
+
+
+
+36
+Table 10 - INEC Data Collection Activities
+Sample
+Activity                Topic                Unit       Coverage Frequency
+Agricultural Farm    National agricultural     Agricultural    National    Annual
+Production Survey    production-quantities &    Production
+(AFPS)               prices- soil use, cattle and  Unit (UPA)
+dairy production, use and
+availability of inputs
+Urban Consumer       Price Data                Good/services   12 cities:   Monthly
+Price index, IPCU                              in consumer    (6 sierra,
+basket          6 costa)
+Construction Material, Price Data              Material,       National   Monthly
+Equipment and                                  equipment,
+Machinery. Price                               machinery
+Index
+National Sample      Wages. labor,             Establishment   National    Annual
+Survey of Industrial   consumption, value added,
+Production (ENPRIN) capital formation, assets,
+I stock
+Survey of Mining &    Inputs, outputs, costs,  Establishment   National    Annual
+Manufacturing        labor
+Survey of Domestic   Wages, labor,            Establishment   National    Annual
+Commerce             consumption, value added,
+capital formation, assets,
+stock                                         __      _
+Survey of            Wages, labor,             Establishment   National    Annual
+Restaurants, Hotels   consumption, value added,
+and Services         capital formation, assets,
+stock
+Employment &         Employment and wages    Establishment   National  Trimestral
+Remuneration Index   for employees
+Buildings Survey     Data on all building size,  All permits   National    Annual
+(Construction        materials, use, value
+Permits)
+Transport Statistics    Registration of all    Various         National    Annual
+transport, cargo, accidents                 ._
+International        Cross border movement   Travelers         National    Annual
+Migration Statistics   foreign & Ecuadorian
+Vital Statistics     Birth and death data      All such events  National    Annual
+(Births, Deaths)
+Vital Statistics     Marriages, divorces,      All such events  National    Annual
+(Marriages, divorces)  adoptions
+Source. "INEC: Plan Operativo, 1995", Instituto Nacional de Estadistica y Censo, Quito, Ecuador,
+December, 1994
+
+
+
+37
+| Hospital Statistics  Hospital use, hospital  Hospital       J National 1  Annual]
+[los~ital Statistics   service statistics (beds,               l          l
+etc )
+Health Resources and  Health facilities and    Health           National    Annual
+Activities            services                 facilities
+Urban Under-, Un- &   Labor force              Households        Urban      2x year
+Employment                                                   ._._._ _
+Income and            Income and Expenditure   Housing Unit   16 cities  Occasional
+Expenditure survey,
+Urban ENIGHU          _________ ..                       _                  __
+10    INEC's mandate is to direct the national statistics system (NSS), and to produce
+and disseminate, with high quality standards, national statistical information that can be
+used to gain an adequate understanding of the economic and social situation Its main
+activities that are relevant for the agricultural sector stem from the studies and surxeys it
+conducts They include periodic surveys of manufacturers, industries and the service
+sector, the national population and housing census (1990), the monthly survey of the
+consumer price index, the Agricultural Farm Production Survey (part of the National
+Agricultural Statistics System) performed at the end of the year using a relatively large
+area sample INEC is currently making a significant effort to provide data, information,
+and analysis of the problem of poverty in the country, the distribution of public
+investment, regional standards of living, and a survey to identify and locate the very poor.
+11    INEC has made important headway, including a complex series of survey and
+census operations that produce crucial information for the agricultural sector This
+progress has been made through intensive work and complex national logistical systems
+for data collection However, the strategy has led to very long elapsed time between data
+collection, processing, tabulation, publication, and distribution. Moreover, the work has
+been done despite the typical problems afflicting the public sector which include the need
+for better quality, reliability, and timeliness, the lack of adequate experience and technical
+know-how on the part of the agents responsible for collecting and processing data,
+analysis methodologies, and commitment by individuals to the information for which they
+are responsible, including such things as quality control, descriptive analysis,
+understanding of user requirements, etc Improvement in these areas would require
+further training and technical assistance  NTEC also suffers from traditional public-sector
+problems with regard to shortages of resources and logistical support, and inadequate
+salaries and incentives for technical personnel in the field and at the provincial and central
+levels
+12    In the past, period of one or two years in rNEC's processing of surveys were
+traditional and even acceptable. With the revolution in data-processing technologies, user
+expectations have become more demanding and less tolerant of delays in both the
+processing and publication of results Although INEC has improved its elapsed time, it
+has been very difficult for it to step up its already intensive processing activities The state
+of the art in information processing has undergone revolutionary changes in the last few
+years INEC's information technologies have rapidly become obsolete, as for example its
+dependence on a UNISYS system which operates with COBOL
+
+
+
+38
+13.   INEC is organized in the following five directorates (see Figure page 38):
+(i) Statistical Development And Planning, (ii) Economic Statistics, (iii) Socio-demographic
+Statistics, (iv) Computer Systems, and (v) Statistics Distribution.
+Figure 4 - INEC Organizational Chart
+National Statistics
+& Census Institute
+(EN-EC)
+Statistical   Economc          Socio-Computer               Stastcs
+Developmern &   E              demogxaphic                                Directorate
+I I  Statistics                    Systems      Distnbution
+Flanni     I                  Statistics
+14    Statistical Development And Planning Directorate This directorate regulates
+the national statistics system and encourages the use of statistical-mathematical algorithms
+to improve the quality and usefulness of statistical information It includes the National
+Statistics System Planning and Coordination Department (annual programming and
+reports), the Sample Design and Statistical Analysis Department (application of
+algorithms), and the Research and Development Department (development of the system
+of socioeconomic accounts).
+15    Economic Statistics Directorate This directorate provides annual and multi-
+annual economic statistics based on surveys, censuses, and administrative records, which it
+uses to study the country's productive activities and their impact on the environment It
+has the follov;ing departments. Current Statistics Department (urban consumer price
+index, price index for construction materials, equipment and machinery), Natural Resource
+and Agricultural Statistics Department (agricultural and production censuses and statistics,
+inventory of strategic natural resources), and the Industrial Statistics Department
+(processing and services sectors, informal sector)
+16    Socio-demographic Statistics Directorate This directorate is responsible for
+demographic and social aspects in Ecuador, and it obtains its data through censuses,
+surveys, and administrative records It has three departments the Household Statistics
+Department (household surveys), the Social Statistics Department (studies on the nature
+of communit- assistance), and the Population Statistics Department (population, housing,
+and habitat in general)
+17    Computer Systems Directorate. It is responsible for the development, regulation,
+and productive use of computerized information on the institutional level, under the
+framework of computerized information policies. It includes the following departments:
+Systems Development Department (creation and maintenance of computer systems),
+Operations and Production Department (productive use of computerized information
+through good service to the users of computer systems and equipment, completeness of
+data and information files), and the Expansion and Maintenance Section (maintenance of
+equipment and planned growth of computer equipment and communications)
+
+
+
+39
+18.   Statistics Distribution Directorate. This directorate is responsible for creating a
+statistical culture in the country, formulating dissemination policies, and maintaining the
+institutional image through communication of the results of the different investigations and
+studies. It has a Promotions, Communications, and Protocol Department (applies
+dissemination policies through magnetic, optical, and mechanical media, and programs
+actions for the communication and promotion of national statistical activities), and a
+Technical Services Department (provides institutions, national and international agencies,
+and general users with information and data using magnetic, optical, and mechanical
+means, either free of charge or at cost).
+19.   Other agencies also play a role in generating and processing information of
+relevance for sector policies. They must be taken into account (although not for financing
+under this project). They include institutions reporting to MAG, other public sector
+agencies (Central Bank, Ministry of Social Welfare, etc.), certain intemational projects,
+and different private sector entities. Efforts would be made to include them all in the
+process of disseminating agricultural information. As a minimum, the efforts by these
+agencies to generate, process, and analyze agricultural information should be coordinated
+to reduce the likelihood of redundancy and improve the compatibility and consistency of
+their information.
+
+
+
+40
+ATTACHMENT 3
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Data User Requirements Study
+1.    A Data User Requirements Study (DIURS) was undertaken in Ecuador during
+February, 1993. Purpose of this study was to identify data needs of users, such as
+decisionmakers, policy analysts, producers associations, etc., in both public and private
+agricultural sector.
+Methodology
+2.    The study was conducted through a double phased unstructured interview to 74
+data users from 19 public and private institutions. The results of the fist phase of
+interviews was reviewed by the same interviewees to: (i) allow to double check their
+responses and consider the questions more thoroughly; and (ii) review responses of other
+data users.
+3 .    One objective of the DURS was to train MAG and INEC personnel to continue
+the interviewing process. These institutions are prepared to conduct additional interviews
+as required. Future interviews should also contact again initial interviewees in order to
+confirm data requirements which have been revealed in this study. The users' answers
+have been counted treating each response equally. Further analysis should weigh
+responses according to the importance of the data user.
+The interviewed sample
+4.    A total of 74 persons were interviewed. They were staff of the following 19
+institutions: (i) Public Sector. Thirty-two high level staff of fifteen different institutions in
+MAG, four persons in The Ministry of Social Welfare, two persons in the Instituto
+Nacional de Empleo (INEM), three persons in CONADE, and four persons in the Banco
+Nacional de Fomento. Three persons from INEC and the Statistics Division of MAG
+reported for institutions that wish to generate data; (ii) Private Sector. Sixteen people
+from the Camara de Agricultura de la Primera Zona, the Association of Livestock in the
+Sierra and the Oriente, and Banco del Pacifico. Five staff of Fundaci6n IDEA reported
+for private institutions that analyze data generated by themselves or by others;
+(iii) Projects/Programs. Five staff from the Rural Development Project (PRONADER),
+CEDEGE, and PROTECA. Two persons from the project of Rural Household Surveys
+(USAID) reported for institutions that wish to generate data.
+
+
+
+41
+Results
+5.    The result of the study shows that there is a multitude of data requirements in
+Ecuador. The diversity is impressive given the variability of the agricultural activities that
+are of concern: they range from rural poverty alleviation to environmental protection, from
+investment selections to marketing decisions. The DUJRS pointed out that raw data is not
+as helpful for the majority of the users, who require an analysis providing alternative
+decisions and possible impacts of their choices.
+6.    Twenty-one different items were identified as data requirements. Some contained
+multiple elements. For example, "livestock requirement" contains: (i) type of livestock,
+(ii) time between births; (iii) culling rates; (iv) death rates; (v) age at weaning,
+(vi) weight at weaning; (vii) age sold; (viii) weight sold; (ix) diseases; and (x) vaccines.
+Other items were simply identified. For example, "land tenure" was the first item identified
+by the Sub-secretary of Technology/MAG to be of critical importance.
+7.    The summary of interviews result is as follows (see Table 1):
+(a)    Farm Production Expenses was identified most frequently. 68.4 % gave
+high priority reflecting the need for cost of production analyses;
+(b)   Rural Income was identified by 52.6 % as high priority. Rural income is
+difficult to obtain from farmers who feel this is private information.
+Therefore, data are obtained on related items, and an extensive analysis is
+required;
+(c)   Land Tenure was identified by 47.4 % as high priority.
+(d)   Crop Yields/Production was identified by 42.1 % as high priority. Much of
+this requirement is being satisfied by current data.
+(e)    Rural Ernployment was identified by 42.1 % as high priority. Employment
+is a critical element in the analysis of determining rural income.
+(f)    Farm Management was identified by 36.8 % as high priority. Many projects
+have farm management as a key component.
+(g)   Crop Hectares was identified as high priority by 31.6 %. Crop hectares
+like yields are provided by both SEAN and the Division of Statistics/ MAG
+sub-sample surveys.
+(h)    Small Grains were identified as high priority by 31.6 %. Presently, 95 % of
+the small grain used in Ecuador is imported. This may increase to 100 %.
+Social and economic information on the native small grain producers was
+one highlighted area of interest.
+(i)    Mechanization was identified as high priority by 31.6 %. Mechanization is
+a means to increase production in projects and programs.
+(j)    Soils/Conservation was identified as high priority by 26.3 %. Soils
+conservation is paramount to the future of sustainable agriculture in
+
+
+
+42
+Ecuador. The interviewees of this DURS were interested primarily in
+commercial agriculture.
+(k)    Social Data were identified as high priority by 26.3 %. Social issues are
+important to projects and programs which educate to change behavior.
+(1)    Credit was identified as high priority by 26.3 %, as it is thought to be
+critical to increase productivity of the land.
+Table 11 - Results of the Data Users Requirement Study
+Farm Production Expenditures      13       68.4         1       5.3       13      68.4
+Rural Income                      10       52.6        0o        0        10      52.6
+Land Tenure                        9       47.4         0        0         8      42.1
+Crop Yields/Production             8       42.1         11      5.3        7      36.8
+Rural Employment                   8       42.1         01       0         8      42.1
+Farm Management                    7       36.8         0,       0         7      36.8
+Crop Hectares                      6       31.6         1       5. 3       6      31.6
+Sm. Grains-W7heat                  6       31.6        01        0         6      31.6
+Mechanization                      6       31.6        01        0         61     31.6
+Soils/Conservation                 5       26.3        01        0         51     26.3
+Social Data                        5       26.3         01       0         5      26.3
+Credit (General)                   5       26.3         01       0         5      26.3
+Dairy: Milk Production             4       21.1         Oj       0         4      21.1
+Irrigation                         4       21.1        01        0         4      21.1
+Deforestation                      4       21.1         01       0         4      21.1
+Training                           3       15.8         01       0         2      10.5
+HealthData                         3       15.8         01       0         0         0
+Livestock Management               3       15.8         01       0         3      15.8
+Livestock Vaccines                 3       15.8        or        0         3      15.8
+T. A.: Livestock                   3       15 8        ol        0         3      15.8
+Livestock Credit                   3       15 8         Oj       0         3      15.8
+Age Livestock Sold         |       2       10.5        01        0         2      10.5
+Weight Livestock Sold              2       10.5        0[        0         2       10.5
+Culling Rates                      2       10.5        0l        0         2      10.5
+Time Between Livestock birth       2       10.5        01        0         2[     10.5
+Weight Livestock weaned            2       10.5         ol       0         21     10.5
+Age Livestock Weaned               2       10.5         0l       0         2       10.5
+Livestock Death Rates              2       10.5         01       0         2      10.5
+Market News                        2       10.5         0l       0:        2      10.5
+Pasture Land                       1        5.3        01        0|        1       5.3
+Livestock Demographics              1       5.3 _        l       ol        1       5.3
+Full-fledged Census                0          0         1-i     5.31       0         0
+Note: the total sample comprises 19 public and private institutions
+8.     The level of data disaggregation was another important question: are national,
+provincial, cantons or parochial level data required? The consequences of this are
+
+
+
+43
+fundamental for the design of data collection activities. On one hand, MAG and other
+public institutions do not require data below the provincial level. On the other hand, the
+private sector, projects and programs required a lower level of data disaggregation, such
+as the canton and parochial levels. CONADE also indicates the need for accurate data at
+these levels.
+9.    From the 19 institutions, projects, and programs there were 113 different
+infornation needs mentioned. Of these 113 information requirements, there were four
+that did not require an analysis of the raw data. The remaining 109 data requirements
+need some type of analysis in order for the decision makers to interpret data for
+applications in decision-making.
+
+
+
+44
+ATTACHMENT 4
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Planned Meteorological Stations
+Identification                Localization                                             Interested Crops
+# Code        Name        Latitude Lougit. AMUtde PfuaDea  Pea N oilt Hard C              mm Ce.Ri e  Pq hm  Wee CumBa .   P"  FrWE il   uarl Tota
+_____________              m.e~~~o6od             Corn Cuein                 Det   Ieeuas  res V.Sctt Caue   N
+1   m44i INGUINCHO          00 1537  782410o  3185   X                                 X-                                    X                3
+2  94432 SAN`rA ISABEL      03 16 28  791846   1500         X          X    X                                X                     X    X    6~
+3   is-wa LAGO AGRIO DAC  00 06 00  765300o   297                           X                           X    X              Ix                4
+4   *e,o- TENA              00 59 57  77 49 30    665                       X                X               Xx                               4
+944-73 TAUPA DAC          02 16 00  79 40 50   1 7        x                                                                      x 
+6   i.s-o  SUCUA DAC        02 291:  78 09 45    995                        X                                x    X         Ix                4
+7   Mo,  BOLIVAR.CARCHI  00 3201l  77 54 05  2640           X    X    X                x                                                      4
+8   94432 SALINAS-INB       00 32 00  78 08 00   1730       X               X                                                 X    X    X    5
+9   M4r08  MLALO             004635 7834 20 3040   X           F       X  __           X                                      X               4
+10  9443_ PUJ1LI(4 ESQUINAS 00 57 12  78042 20   3230   X         X    X  ___           X                                   I X 
+I1 3I m0' EL CARMELO         00 40 40  77,3658s  2856   X              x  ___           X                                     X_____  4
+12  94104 MIRA-FAO           00 32 00  78 0200o  2270        x    x xX                                                                         3
+_ 3__r  CAOOLASQUI-FAG   00 31 057812 40 2335   X    X                  x                                                                      S  
+1    -   LITA                 0050 10  70 2857    70                                                                                           6
+1 5  m4.11o S PABLO DEL LAO  001252  7810 40   2700               x    x          __x  __                                                      3
+16  94.1i0 MALCOItNOU      103 20  7009546  2840   X                   X          __ x  _                                                      3
+17  94.1i0 SAN ANTO7NIO PIC  00 00 37  78 26 13   2430                 X          __ X  __                                                     2
+18 I4.11  MACHACHOI          00 30 00  784601I  2944   X               X                X                                     x X              4
+19  94.1:4 SAN JUANM.ANOA   0035703  7919 00    223                          XX                               x    x    x   x            X    7
+20  m120 PATATE              011801  78 3000o  2360   X    X           X                X             Ix                                       5
+2 1  94.i20 CALUMA           013712  7915 35    350          xj              x                     x          X                          X    6
+22  94.134  L'A.MOTE         01 5000  78 4300o  3020   X        I       x               x                                   IX                 4
+23  94-6o EL CAR.MEN         00 19 04  7916 47    250           Ix                    Ix    xix                                                4
+24  94n8  BOYACA             00 34 07 801220    370                          x                                 x…
+25  94.i60 OLMEUOMAXABI 01 23 29  8301257         so0        X               x                                x    x        J                  4
+26  m4-163 PEDERNALES        00 03 30  80 03 20   20            1x                    I                                       x                2
+2794.1-2 PUEBLO VOIEJO       013202 7931045       32         1X    X                                                     X   X                 4
+28  m4.17! EL PROGRESO-O   0200907  80 2052       80                               X                                                           1
+29  m 4l- BOLICHE            02 15006  79 38 35    100       xj              x    x          X    X                         I       X          6
+30  94.13  GUALAQUIZA        03 24 00  78 34 00    750                       x                                X               x          X    4_
+31  m mg  YA\ZA.TZA          03 50 0   78 4500    830                        x                                X              IX                3
+32  94207, ZAMORA            04 0S37  78057 00    970                        x                                x              Ix                3
+33  94.23  CH4ONTAM,ARCA    02 25010  79 25 07   2271   X       Ix                                                 ___   x                     3
+34  M*o3 PUNGALES            00 3500  78 32 45   2550   X               X               x                                                      3
+35  mio-ss SALrrP2E                                                     x_   Xx__                                          _  x    _ ___3
+36  m4.20i AYCHAPICHO        00 27 30  733      291 X                   x               x                                    IX                4
+371 umoz  ESTANCILLA         00 49 00  801300W                               x    xL                                           X               3
+381 94-2  UROBNA             0128359  78 42 37   3619   X                               X                                                      2
+39  m.AiV COTOPMLALO         00 4000  78 42 00   3250   X                               X                                      X   ___         3
+40  ic.oxT T04A2.ON                      -              XX                              X                                                      3
+41    A   SIOCHOS            00 40 S   7910W    2900   X                x               x                                      X               4
+42    s   PTrO QUITO         OOOS3N  17853 W     150                         x                                                 x              
+43    c    JIPIJAPA         10020S  18035 W       50                         x                                   xx3
+44    0 D ULMON INDAS4ZA   020         85         0                                                                                    
+
+
+
+45
+ATTACHMENT S
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Technical Assistance and Consulting Services
+Introduction
+I1.    The Agricultural Census and Information System Technical Assistance Project (the
+Project) contains several information systems components. The Information Systems
+Adviser (the IT Adviser) uxill provide advice on all matters concerning these components
+to the Technical Secretariat and to the two governmental agencies: INEC and MAG.
+Objective and Scope of Wi ork
+2.    The scope of the IT Adviser includes all information systems components of the
+Project. These include, but are not limited to, consulting with appropriate parties in INEC
+and MAG to accomplish the following:
+(a)   working with INEC and MAG colleges to develop the requisite
+procurement documents for purchasing hardware, software, and
+communications for the Project. This would include defining computer
+configurations and related information systems components to be
+purchased, and it would include devising selection methodologies for
+selecting vendors to fulfill information systems procurement actions;
+(b)   assisting, where possible, INEC and MAG in the process of receiving
+procured information systems components and verifying that they are
+consistent writh procurement requirements;
+(c)   working with INEC and MAG colleges to develop terms of references for
+information systems consultants that are contracted to assist INEC and/or
+MAG;
+(d)   advising INEC and MAG on directions they should go in terms of
+hardware, software, and communications. This would include, for
+example, advice on implementing an agricultural database for MAG;
+(e)   working with colleges in INEC and MAG to develop strategies and plans
+for carrying out information systems components of the Project.
+Monitoring and reporting to the Technical Secretariat and the management
+of INEC and MAG on the status of information systems plans; and
+providing on-the-job transfer of information systems knowledge to relevant staff in
+INEC and MAG. This should result, to the extent possible, in information
+systems staff in INEC and MAG being self sufficient in information
+
+
+
+46
+technology in two years or less. That is, the IT Adviser should strive to
+work him/herself out of a job in two years or less.
+Qualifications and Experience
+3.    The Information Systems Adviser should have the following experience:
+(a)   a working, in-depth knowledge of modern client/server application
+systems. This includes microcomputers, local area networks (LANs), LAN
+and database servers, communications systems, and the software that make
+these components operate efficiently and effectively;
+(b)   a working knowledge of databases, data administration and database
+administration. This should include experience with one of the leading
+database systems: Oracle, Sybase, or Informix;
+(c)   experience developing procurement documents (e.g., Request for
+Information and Request for Proposal) and selecting vendors that respond;
+(d)   the ability to think strategically and to see the big picture with respect to
+information systems; and
+(e)   the ability to work well with others, and especially the ability to help others
+understand complex information systems matters.
+Technical Secretariat Director
+Terms of Reference (draft)
+Introduction
+1.    The Agricultural Census and Information System Technical Assistance Project (the
+Project) intends to hire a Director which would have overall responsibility for heading the
+project Technical Secretariat (TS). The TS would manage the Project for a specific
+period of three years, with authority for general coordination, international procurement of
+products, operation of bank accounts, preparing and maintaining accounts, arranging
+external auditing, and monitoring project accomplishments. The project Directive Council
+would select the TS director, with Bank agreement, and will delegate necessary authority
+to enable him to carry out its functions satisfactorily through line management fiunctions.
+Objective and Scope of Work
+2.    The main objective of hiring the director is to provide leadership to TS in
+accomplishing the following functions: to coordinate MAG and INEC PIUs, to prepare
+and maintain accurate and up to date accounts, to arrange timely external auditing, and to
+monitor project accomplishments. He will also be responsible to report the physical and
+financial progress of the activities to the Government, project Directive Council, and the
+Bank. The director's scope of work will include, but not lirnited to, the following:
+
+
+
+47
+(i)    General
+(a)   head and organize the Technical Secretariat, preparing job specifications,
+responsibilities, and qualifications for each position in the TS;
+(b)   support and coordinate MAG and INEC Project Implementation Units;
+(c)   ensure implementation of loan agreement with the Bank; and
+(d)   maintain a dialogue with the users of project information to ensure
+congruity;
+(ii)   Administration
+(a)   review and develop PIU's general financial activities and accounting
+applications. Evaluate the system of internal controls, degree of integration
+and functionality;
+(b)   review the existing systems and develop a financial information base and
+reporting system to support effective planning and control at various
+operational and managerial levels;
+(c)   review the allocation of responsibilities for the accounting functions and
+disbursement applications. Control that administrative rules and
+procedures are applied; and
+(d)   prepare a program for systematic and timely external auditing of all PlU's
+accounts and make available audited reports to Government and the Bank;
+(iii)  Procurement
+(a)   conduct, with the assistance of the procurement adviser, negotiations for
+concluding international contractual agreements; and
+(b)   support the two PIUs in procurement of goods and services;
+(iv)   Monitoring
+(a)   prepare a statistical information collection program to monitor project
+performances and utilization of data and reports produced by the project;
+(b)   prepare financial and physical progress report of the project for
+presentation to Government and the Bank;
+(c)   translate the functional specifications, stated above, into an integrated
+computerized financial and Management Information System. Assist the
+two PIUs in the acquisition development and implementation of above
+software applications;
+Qualifications and Experience
+3.    The candidate should be qualified in management fields with a minimum of 15
+years of experience (complementing each other) in management of internationally financed
+
+
+
+48
+development projects (preferably with significant technical assistance components);
+procurement of international consultants; financial management and banking
+arrangements. Past experience in project management with internationally known
+companies is essential.
+
+
+
+49
+Attachment 6
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+PROJECT COST TABLES
+Project Cost Summary by Component
+(US$)
+%     % Total
+Foreign   Base
+Local      Forelgn      Total    Exchange Costs
+Agricultural Policy Process
+Sectoral Policy                                        1,525,200    1,188,200    2,713,400     44      12
+Sectoral Public Investments                              231,440     299,360     530,800       56       2
+Subtotal Agricultural Policy Process                     1,756,640   1,487,560    3,244,200      46      14
+Agr. lnf. & Dissemination Sercle
+Agricultural Information SerCe                           559,600      98,400      658,000      15       3
+Market Price & News                                      340,200     240,000     580,200       41       2
+Agroclimatc Evaluation                                   562,000     808,800    1,370,800      59       6
+Computer Center                                          212,720     167,680     380,400       44       2
+Subtotal Agr. nf. & Dissemination Servce                 1,674,520    1,314,880    2,989,400     44      13
+Agricultural Sample Census (ASC)
+Agricultural Sample Census (ASC)                       7,548,980   3,117,920   10,664,900      29      46
+ASC Data Processng                                       519,360     400,840      920,200      44       4
+Subtotal Agricultural Sample Census (ASC)                8,066,340   3,518,760   11,585,100      30      S0
+National System of Agricultural Statistics (SEAN)
+Agric. Farm Production Survey (AFPS)                   1,277,380     319,220    1,596,600      20       7
+Subtotal National System otAgricultural Statistics (SEAN)  1,277.380   319,220    1,596,600      20       7
+Project Administration
+Technical Secretariat                                  2,040,800    1,008,000    3,048,800     33      13
+INEC PIU                                                 696,000          -      696,000        -       3
+MAG PIU                                                   84,000          -       84,000        -       -
+Subtotal Project Administration                          2,820,800    1,008,000    3,828,800     26      16
+Total BASELINE COSTS                                     15,595,680   7,648,420   23,244,100     33      100
+Physical Contingencies                                    56,580      84,870      141,450      60       1
+Price Contingencies                                    1,739,448     209,904    1,949,352      11       8
+Total PROJECT COSTS                                      17.391,708   7,943,194   25,334,902     31      109
+
+
+
+50
+Project Cost Summary by Expenditure Account
+(US$)
+%     % Total
+Foreign   Base
+Local      Foreign       Total    Exchange Costs
+Investment Costs
+Civil Works                                19,000       1,000       20,000        5       -
+Vehicles & Equipment
+Computers                               134,700     538,800      673,500       80       3
+Vehicles                                157,000     628,000      785,000       80       3
+Fumiture                                316,800      35,200      352,000       10       2
+Other Equipment                         107,600     430,400      538,000       80       2
+Subtotal Vehicles & Equipment             716,100    1,632,400    2,348,500      70      10
+Technical Assistance
+Local Consultants                     2,346,800           -    2,346,800        -      10
+Foreign Consultants                           -   2,492,000     2,492,000     100      11
+Subtotal Technical Assistance            2,346,800    2,492,000   4,838,800      52      21
+Training                                  172,800     691,200      864,000       80       4
+Service Contracts                        6,916,500    768,500     7,685,000      10      33
+Total Investment Costs                    10,171,200    5,585,100    15,756,300    35      68
+Recurrent Costs
+Incremental Recurrent Costs
+Incremental Salaries                   2,467,200          -    2,467,200        -      I1
+Allowances                              362,000           -      362,000        -       2
+O&M                                    1,131,600    1,697,400   2,829,000      60      12
+Subtotal Incremental Recurrent Costs     3,960,800    1,697,400   5,658,200      30      24
+Salaries                                 1,463,680    365,920     1,829,600       -       8
+Total Recurrent Costs                      5,424,480    2,063,320    7,487,800     28      32
+Total BASEUNE COSTS                       15,595,680    7,648,420    23,244,100    33    100
+Physical Contingencies                     56,580      84,870      141,450       60       1
+Price Contingencies                      1,739,448    209,904     1,949,352      11       8
+Total PROJECT COSTS                       17,391,708    7,943,194    25,334,902    31    109
+
+
+
+51
+Disbursements by Semesters
+(US$ '000)
+Semester     IBRD          GOE       Total Project
+Cost
+1                -           750          750
+2             1,256          304         1,560
+3             1,645          346         1,991
+4             3,912          928         4,840
+5             3,621          875         4,496
+6             2,978          724         3,702
+7             2,972          635         3,607
+8             1,908          407         2,315
+9             1,713          360         2,073
+Total         20,005          5,329      25,334
+
+
+
+52
+Summary of Disbursements Schedule
+(US$ '000)
+Category              Amount
+Allocated
+Consultant Services and Training     5,300
+Vehicles and Equipment               2,200
+Service Contracts                    7,500
+Civil Works                             20
+Incremental Recurrent Costs          2,900
+Refunding of PPF                       850
+Unallocated                          1,230
+Total                               20,000
+
+
+
+53
+Ecuador
+Agricultural Census and Information System TA Project
+Table 1. Project Administration
+Detailed Costs
+(US$)
+Base Cost
+1998      1999       2000      2001       Total
+Investment Costs
+Technical Secretariat
+Director                         66,000    66,000    66,000    66,000   264,000
+Technical Adviser               108,000   108,000   108,000   108,000   432,000
+Financial Administrator          30,000    30,000    30,000    30,000   120,000
+Procurement Expert               36,000    36,000    36,000    36,000   144,000
+Technical Expert                 24,000    24,000    24,000    24,000    96,000
+Administration Assistant         31,200    31,200    31,200    31,200   124,800
+Subdirector                      42,000    42,000    42,000    42,000   168,000
+Internal Auditor                 18,000    18,000    18,000    18,000    72,000
+Adm. Finance & Legal Officer    18,000    18,000    18,000    18,000    72,000
+Subtotal Technical Secretaxiat   373,200   373,200   373,200   373,200 1,492,800
+HAG pIU
+Guayaquil coordinator            12,000    24,000    24,000    24,000    84,000
+_NEC PIU
+Director                         30,000    30,000    30,000    30,000   120,000
+Finance & legal officer          72,000    72,000    72,000    72,000   288,000
+Technical adviser                72,000    72,000    72,000    72,000   288,000
+Subtotal INEC PIU                 174,000   174,000   174,000   174,000   696,000
+Planning workshops                 10,000    10,000    10,000    10,000    40,000
+Seminars                           20,000    20,000    20,000    20,000    80,000
+Vehicles                           50,000    50,000           -          -   100,000
+Office Equipment
+Furniture                        80,000    80,000           -         -   160,000
+Computers                        60,000          -    40,000          -   100,000
+Communication eq.                 8,000          -     4,000          -    12,000
+Copiers                          10,000          -    10, 000         -    20,000
+Subtotal Office EquipFmnt         158,000    80,000    54,000           -   292,000
+Evaluation                              -    50,000           -    50,000   100,000
+External audits                    50,000    50,000    50,000    50,000   200,000
+Total Investment Costs              847,200   831,200   705,200   701,200 3,084,800
+Recurrent Costs
+O & M                             120,000   120,000   120,000   120,000   480,000
+Salaries to incremental staff      66,000    66,000    66,000    66,000   264,000
+Total Recurrent Costs               186,000   186,000   186,000   186,000   744,000
+rotal                              1,033,200 1,017,200   891,200   887,200 3,828,800
+
+
+
+54
+Ecuador
+Agricultural Census and Information System TA Project
+Table 2. Policy Analysis
+Detailed Costs
+(US$)
+3ase Cost
+1998       1999      2000       2001      Total
+Investment Costs
+Long Term TA                           72,000    72,000    72,000    72,000   288,000
+Short Term TA                         160,000   200,000   160,000   160,000   680,000
+Long Term Training                           -   150,000   150,000           -   300,000
+Short Term Training                    22,500    37,500    37,500    22,500   120,000
+Private sector workshops /a                  -    16,000    16,000    16,000    48,000
+Computers                                    -    45,000    45,000           -    90,000
+Total Investment Costs                  254,500   520,500   480,500   270,500 1,526,000
+Recurrent Costs
+0 & M                                  30,000    39,000    45,000    45,000   159,000
+Salaries to MAG Incremental Staff    54,000    60,000    72,000    78,000   264,000
+Incremental Salaries                  156,000   202,800   202,800   202,800   764,400
+Total Recurrent Costs                   240,000   301,800   319,800   325,800 1,187,400
+Total                                     494,500   822,300   800,300   596,300 2,713,400
+\a 30 local participants per workshop
+
+
+
+55
+Ecuador
+Agricultural Census and Information System TA Project
+Table 3. Sectoral Investments
+Detailed Costs
+(US$)
+Base Cost
+1998    1999    2000    2001    Total
+Investment Costs
+Long Term TA                    30,000  30,000  30,000  30,000 120,000
+Short Term Training                   -  15,000        -  15,000  30,000
+Project Evaluation              20,000  20,000  20,000  20,000  80,000
+Computers                        6,000        -   6,000        -  12,000
+Total Investment Costs            56,000  65,000  56,000  65,000 242,000
+Recurrent Costs
+0 & M                            5,000   5,000   5,000   5,000  20,000
+Salaries to Incremental Staff  48,000  48,000  48,000  48,000 192,000
+Salaries to Incremental Staff  19,200  19,200  19,200  19,200  76,800
+Total Recurrent Costs             72,200  72,200  72,200  72,200 288,800
+Total                             128,200 137,200 128,200 137,200 530,800
+
+
+
+56
+Ecuador
+Agricultural Census and Information System TA Project
+Table 4. Agricultural Statistics
+Detailed Costs
+(US$)
+Base Cost
+1998    1999    2000    2001    Total
+Investment Costs
+Long Term TA                          30,000  30,000  30,000         -  90,000
+Short Term TA                          4,000   4,000   4,000   2,000  14,000
+Short Term Training                    7,500   7,500   7,500   7,500  30,000
+Computers                             12,000        -  12,000        -  24,000
+Dissemination Workshops                6,000   6,000   6,000   6,000  24,000
+Total Investment Costs                  59,500  47,500  59,500  15,500 182,000
+Recurrent Costs
+O&M /a                                15,000  15,000  15,000  15,000  60,000
+Salaries for Incremental MAG Staff  48,000  48,000  48,000  48,000 192,000
+Salaries for Incremental Staff        36,000  36,000  36,000  36,000 144,000
+Survey Contracts                      20,000  20,000  20,000  20,000  80,000
+Total Recurrent Costs                  119,000 119,000 119,000 119,000 476,000
+Total                                   178,500 166,500 178,500 134,500 658,000
+\a Printing, stationery, etc.
+
+
+
+57
+Ecuador
+Agricultural Census and Information System TA Project
+Table 5. Market Price & News
+Detailed Costs
+(US$)
+Base Cost
+1998    1999    2000    2001    Total
+Investment Costs
+LongTerm TA                          30,000        -  30,000         -  60,000
+Short Term TA                        40,000  40,000  20,000  20,000 120,000
+Short Term Training                   7,500   7,500   7,500   7,500  30,000
+Dissemination Workshops               6,000   6,000   6,000   6,000  24,000
+Computers                                  -  30,000        -        -  30,000
+Vehicles                             15,000        -        -        -  15,000
+Total Investmnet Costs                 98,500  83,500  63,500  33,500 279,000
+Recurrent Costs
+O & M                                24,000  24,000  24,000  24,000  96,000
+Salaries of Incremental MAG Staff  18,000  24,000  24,000  24,000  90,000
+Salaries of Incremental Staff        28,800  28,800  28,800  28,800 115,200
+Total Recurrent Costs                  70,800  76,800  76,800  76,800 301,200
+Total                                  169,300 160,300 140,300 110,300 580,200
+
+
+
+58
+Ecuador
+Agricultural Census and Information System TA Project
+Table 6. Agroclimatic Evaluation
+Detailed Costs
+(US$)
+Base Cost
+1998      1999       2000       2001      Total
+Investment Costs
+Long Term TA                           18,000    18,000    18,000            -    54,000
+Short Term TA                          60,000    60,000    40,000            -   160,000
+Short Term training                    15,000      7,500      7,500          -    30,000
+Workshops /a                             2,000      2,000     2,000      2,000      8,000
+Computers                              18,000           -    12,000          -    30,000
+Vehicles                                40,000          -          -         -    40,000
+Metereological Equipment
+Meteo Stations                      350,000           -          -         -   350,000
+Satellite Receiver                  150,000           -         -          -   150,000
+Subtotal Meteseological Equipznent   500,000            -          -         -   500,000
+Total Investment Costs                   653,000    87,500    79,500       2,000   822,000
+Recurrent Costs
+0 & M /b                                70,000    70,000    70,000    70,000   280,000
+Salaries of Incremental MAG Staff    48,000    48,000    48,000    48,000   192,000
+Incremental Salaries                   19,200    19,200    19,200    19,200    76,800
+Total Recurrent Costs                    137,200   137,200   137,200   137,200   548,800
+Total                                     790,200   224,700   216,700   139,200 1,370,800
+\a 100 participants per workshop
+\b Maintainence of 41 Meteo Stations & Operation of MAG Directorate
+
+
+
+59
+Ecuador
+Agricultural Census and Information System TA Project
+Table 7. Computer Center
+Detailed Costs
+(US$)
+Base Cost
+1998    1999    2000    2001    Total
+Investment Costs
+Short Term TA                        40,000  20,000         -        -  60,000
+Short Term Training                   7,500   7,500         -        -  15,000
+Computers                            24,000        -  15,000         -  39,000
+Software & Special Equip.            12,000  12,000  12,000  12,000  48,000
+Total Investment Costs                 83,500  39,500  27,000  12,000 162,000
+Recurrent Costs
+0 & M /a                             10,000  10,000  10,000  10,000  40,000
+Salaries of Incremental MAG Staff  42,000  42,000  42,000  42,000 168,000
+Salaries of Incremental Staff         2,600   2,600   2,600   2,600  10,400
+Total Recurrent Costs                  54,600  54,600  54,600  54,600 218,400
+Total                                  138,100  94,100  81,600  66,600 380,400
+\a For all the project computers in MAG
+
+
+
+60
+Ecuador
+Agricultural Census and Information System TA Project
+Table 8. Agricultural Sample Census (ASC)
+Detailed Costs
+(US$)
+Base Cost
+1998       1999        2000        2001      Total
+Investment Costs
+Short Term TA                           360,000    360,000    120,000            -    840,000
+Short Term Training                      30,000      30,000      30,000          -      90,000
+Computers                               202,500           -           -          -    202,500
+Offset Printer and Furniture             60,000           -           -           -     60,000
+Vehicles                                630,000           -           -           -    630,000
+Census Service Contracts
+Data Collection & Input               540,000  3,000,000  1,020,000            -  4,560,OOC
+Car Rental                             50,000  1,350,000    300,000            -  1,700,00C
+Subtotal Census Servioe Contracts       590,000  4,350,000  1,320,000             -  6,260,00C
+Total Investment Costs                  1,872,500  4,740,000  1,470,000             -  8,082,50C
+Recurrent Costs
+o & M
+Stationery                            150,000    150,000    150,000            -    450,OC
+Tickets & Allowances                   30,000      30,000      30,000          -      90,OOC
+other Operational Costs               200,000    600,000    100,000            -    900,00C
+Subtotal 0 & M                          380,000    780,000    280,000             -  1,440,OOC
+Salaries of Incremental INEC Staff    163,200    163,200    163,200               -    489,60(
+Incremental Salaries                    163,200    163,200    163,200    163,200    652,80C
+Total Recurrent Costs                     706,400  1,106,400    606,400    163,200  2,582,40C
+Total                                    2,578,900  5,846,400  2,076,400    163,200 10,664,90(
+
+
+
+61
+Ecuador
+Agricultural Census and Information System TA Project
+Table 9. Data Processing
+Detailed Costs
+(US$)
+Base Cost
+1998    1999    2000    2001    Total
+Investment Costs
+Short Term Training                   15,000  15,000  15,000          -  45,000
+Computers                             90,000        -        -        -  90,000
+Software                              12,000  12,000  12,000  12,000  48,000
+Other equipment                       18,000        -        -        -  18,000
+Building repair                       20,000        -        -       -  20,000
+Total Investment Costa                 155,000  27,000  27,000  12,000 221,000
+Recurrent Costs
+O & M                                 27,000  27,000  27,000  27,000 108,000
+Salaries of Incremental INEC Staff  86,400  86,400  86,400  86,400 345,600
+Salaries of Incremental Staff         28,800  28,800  28,800  19,200 105,600
+Stock Maintenance                     35,000  35,000  35,000  35,000 140,000
+Total Recurrent Coats                  177,200 177,200 177,200 167,600 699,200
+Total                                   332,200 204,200 204,200 179,600 920,200
+
+
+
+62
+Ecuador
+Agricultural Census and Information System TA Project
+Table 10. National System of Agricultural Statistics (SEAN)
+Detailed Costs
+(US$)
+Base Cost
+1998      1999       2000       2001      Total
+Investment Costs
+Short Term Training                            -    15,000    15,000           -    30,000
+Computers                                 60,000          -          -         -    60,000
+Aerial Photography                             -    45,000           -         -    45,000
+Equipment                                      -    10,000    10,000           -    20,000
+Data Collection & Input                 200,000   100,000   200,000   200,000   700,000
+Car Rental                                     -   100,000   100,000   100,000   300,000
+Total Investment Costs                     260,000   270,000   325,000   300,000 1,155,000
+Recurrent Costs
+0 & M                                    24,000    24,000    24,000    24,00 v    96,000
+Salaries for Incremental INEC Staff    57,600    57,600    57,600    57,600   230,400
+Salaries for Incremental Staff           28,800    28,800    28,800    28,800   115,200
+Total Recurrent Costs                      110,400   110,400   110,400   110,400   441,600
+Total                                       370,400   380,400   435,400   410,400 1,596,600
+
+
+
+63
+ATIrACEMENT 7
+ECUADOR
+AGRICULTURAL CENSUS AND INFORMATION SYSTEM
+TECHNICAL ASSISTANCE PROJECT
+Disbursement Profile
+Calendar Year  Disbursement by   Cumulative        Cumulative        Standard       Cumulative
+and Semester      Semester       Disbursement  Disbursement as  Disbursement         Standard
+% of Credit     Profile (%)    Disbursement
+1998  I                 1.0             1.0               5               6              1.2
+II               1.7              2.7             14               14             2.8
+1999  I                 1.8             4.5             23               22              4.4
+II               2.3              6.8             34               34             6.8
+2000  I                 1.8             8.6              43              42              8.4
+II               1.6             10.2             51               54             10.8
+2001  I                 3.0            13.2              66              70             14.0
+II               3.4             16.6             83               82             16.4
+2002  I                2.5             19.1              96              98             19.6
+II               0.9             20.0            100              100            20.0
+TOTAL                   20.0
+- Loan effectiveness, completion and closing dates assumed to be March 31, 1998, March 31, 2002,
+and September 30, 2002 respectively.
+- Standard disbursement profile is derived from Financial Database Report Utility, June 30, 1994
+and refers to technical assistance projects only.
+- The Loan comprises a PPF of US$750,000.
+
+
+
+ECUADOR
+INFORMATION SERVICE AND AGRICULTURAL CENSUS
+TECHNICAL ASSISTANCE
+Monitoring anld Evaluation Indicators
+Component 1: Agricultural Policy Process
+Sub-component Activity       Imp. Agency  Start/End      Impact Indicators         Monitoring Indicators
+Trade Policy                 MAG            1/98-12/01    Trade Policy Harmonized   Trade Negotiations        6      6       6      4
+Trade Barriers Reduced   Trade Policy Seminars      6      6       6      4
+Increascd Regional Tradc   Tradc Negotiation Memos    18   18      18     12
+Protection Rates         Trade Policy Papers        3      4       3      2
+Sector Situation Analysis    MAG            1/98-12/01    Private Sector Demand    Commodity Reports          54     54      54     54
+Improved Decisions       Special Reports            4      6       6      4
+Policy Clianges               ec
+AnalysisofCompelilivcness    MAG            1/98-12/01    PrivateoSector Demand SAMb-sector RepoAns           9      9       11     11
+Improved Decisions       Special RMporis            4      4       4      4
+Policy Changes           Semiinars                  4      4       4      4
+Policy Infornmation Service  MAG            1/98-12/01    Private Sector Dcmand    Publications               98     101    102    91
+Improved Decisions       Seminars                   10     10      10     8
+Policy Clianges          InlerNet Use (% chlange)          25      20     20
+Budg,et Analysis             MAG            1/')X-12/01    Imiproved Budgct Alloc.    MAG Budget Anailyses    1      2       2      1
+Scctor Budget Analysis            I      I
+Project Moniiioring Reports   8   8      8       6
+Pfoject Evaluialions       I      I      I     I
+Training Received            MAG            1/98-12/01    Increased Tech. Capacity   Short-courses            1      2       2      1
+MS Degrees                        3      3
+
+
+
+ECUADOR
+INFORMATION SERVICE AND AGRICULTURAL CENSUS
+TECHNICAL ASSISTANCE
+Monitoring and Evaluation Indicators
+Component II: Agricultural Statistics
+Sub-component Activity      Imp). Agency  Start/End    Impact Indicators         Monitoring Indicators
+Evaluate Current Data Sets  MAG            1/98-3/99    Improved Data            Data Sct Evaluationis      3      3
+More Complete Data Sets
+I iiiprovc(l Aauilysis
+Improve Data Quality        MAG            1/98-12/01    Private Sector Demanid    Imnp. Mcthodlology-Stocks  1           54     54
+Improved Decisions      Imp. Method-Farm Prices     1             6      4
+Imp. Method-Regional Trade  I
+Imp. Method-Others                3
+Operationalize Imp. Methlods      6
+Farm Priees                    I
+Stocks                        1
+Regional Trade                 I
+Others                        3
+Design & Imp. Data-Inf. Sets    MAO        1/98-12/01    Private Sector Demand   Publications               18    30    30       24
+Accessible, Refevant Data  Statistical Bulletins    12    12    12       9
+lniprovcd Dccisions     Scuiinars                  2      4      4      2
+InterNet Use (% change)           25     20     20
+Training Reccived            MAG           1/98-12Aol    Increased Teclh. Capacity   Short-Courscs          3      6      4      2
+
+
+
+ECUADOR
+INFORMATION SERVICE AND AGRICULTURAL CENSUS
+TECHNICAL ASSISTANCE
+Monitoring and Evaluation Indicators
+Component III: Agricultural Census
+Sub-component Activity       Imp. Agency  Start/End    Impact Indicators          Monitoring Indicators       1      2      3      4
+Prepare Ag. Census           INEC          01/98-08/99   Sampling methodology     New sample frame            I
+Reliable information     Canography updated         I
+Stratification             I
+Questionnaire              1
+Output Tables              1
+Sample Selected            1
+Training                          2
+Ficld test                        2
+Data Collection              INEC          09/99-12/99   Quality Data             No. Interviews (000)               250
+Reliable Information
+Data proccssing and anialysis   IN I-.( lC  01/)0-0)A/)0  Qualily Processing      Flapsed illic                     4m11
+Reliable information     Non-sainplinag crrors             sm
+Result dissemination         INEC          04/00-        Availability of ccnsus data  Circulation (000)              1     2       1
+Usc of census data       Electroniic databasc              I      I
+R liablc Iinforinationi
+Training                     INEC          1/98-12/01    Computing skill increase   No. of trained staff     15    12    12
+of INEC staff            No. of IMPS trainees       9             4
+No. of LAN trainees        3             3
+
+
+
+ECUADOR
+INFORMATION SERVICE AND AGRICULTURAL CENSUS
+TECHNICAL ASSISTANCE
+Monitoring and Evaluation Indicators
+Component IV: Agricultural Farms Surveys
+Sub-component Activity       Imp. Agency  Start/End    Impact Indicators         Monitoring Indicators      1       2      3      4
+Prepare Prod. Survey-Coast   INEC          02/98-05/98   Efficient & Rapid Survey   Sample Selection        I              1
+02/00-05/00                           Questionnaire              1              1
+Training Manuals           1              1
+Implement Prod. Survey-Coast  INEC        06/98-09/98   Reliable data on major   Elapsed Processing time    4 wks.         3 wks
+06/00-09/()0  harvest                 Non-sampling crrors
+Implcuient Nat'l Prod. Survey   INEC      09/98-03/99   Reliable National Data   Elapsed Processing Tinie   2m Inm 1
+09/00-03/00                           Non-Sampling errors
+Prepare Farm Exp. Survey     INEC         02/98-05/98   Efficient & Rapid Survey   Sample Selection         1              1
+(subsample Coast survey)                  02/00-00/00                            Questionnaire              1              1
+Training Manuals           1              1
+
+
+
+ECUADOR
+INFORMATION SERVICE AND AGRICULTURAL CENSUS
+TECHNICAL ASSISTANCE
+- Monitorng and Evaluation lndicators
+Component V: Prject Management
+Sub-component Activity       Imnp. Agency  Start/End    hupact Indiaktors        Monitoring indicators      1        2     3      4   -
+ManagIenCnt and              TS l'JU       01/98-12/01   Projcct pCrfonikuacc    DisburseCIicIIt (USS il;lionI)   3  6     6      3
+AdministraCion                                                                   inlernal a1dtling          2        2     2 -     I
+Ext.Cnal auditi;g         I       1      1      3
+ProcurcI1icIIt               1S I'lU      (0)1/98-12/OI   Avilability or requrirCd  Pufchasc contputcrs     125                    125
+conisultanit and cquipmcnt  Purcihase velhicies     3 1                   31
+Contract Tech. Assistance    25    30    25      10
+oo
+
+
+
+LCIiADOIt
+INf-OI tMA roN SERVICE AND AGIICULTURAL CENSUS
+TECHNICAL ASSISTANCE PROJECT
+Project Imnplementation Schedule
+Calondar Year 1991        1990                1999       1      7000               2001
+Quarter   4    1   2   3   4   1   7   3   4   I   2   3   4   1   2    3   4
+IUI)I Fiscal Year    1998              1999               210               200 f         2002
+Negotlations
+Board Approval
+Effecliveness
+PROJECT MANAGEMENT
+Technical Socretariat Set-up
+PIU/INEC Set-up
+Operations Manual Adopted
+Obtain GOE Dudgot Allot
+Tech Assist Bid P'ropared                                                                                                                                     0a
+Tech Assist Contract Signed
+Manage TA Provision              -*
+Dev IT EqulpmonlTech Specs
+tr Did Prepared
+IT Contrad Signed
+IT Equipment Installed
+Dev Vehide Toch Specs
+Vehicle (lid Prepased
+Vohiclo Conlract Signod
+Vohkclos In-Counbry
+Annual Plan&Budget Proparod
+Inilial IBRD Disbursoment
+Initiate LT Training                                                                   ..†
+MS Training in US/Ag Econ                   __              . ..    - :                           I
+Graduates flelurn & Work                    _                                   I
+Develop Ino Sorvice
+Contract Audit                                              1
+Conitact Evaluation                                                                                                ls*.
+
+
+
+Pbroled Irnplementation Schedule
+Calendlar Yeau 1997         1990                1999        1       2000               7U01 I
+(tUJ(t't  4  |I    2   3   4     t    2    3   Ft[I   ?   3   4   i  2    3   4 !..
+11i1-t) Fiscal Yp0I   1998       i       1999        1       2000               2001           2002
+AGRICULTURAL STATISTIC,_
+Evalunte Ag S5alislics
+Ptoduclon.
+Pticos
+Weather
+Trade
+Consurnplion
+Slocks
+Improve Ag Dula Quality
+1roluductionl
+Prfices
+Wealhe,
+Trdce
+Consumplton
+Stocks
+Design Info-Gata Sevioe                                                                                                                                                 C
+Impim Info-Data Scivice-
+IN I IRNET Suivice
+Publications Servico
+Markot Pricos & Nows Service
+tEvaluallon (above)
+Farm-gato Pri" Molhodology
+Imnpim Farm-1palo lPrice Moltu_d
+Wlholesale ilrce Mritihodoiogy
+ilm1pin, WA/ofosafn Plrico   thil_
+IBl(JII 'iil(.0 Motlhod ol(ty 
+lillnpir l](iliM Ir 1w1ice Methliod-
+l11rpmln I'cur ';I!Ivl O  -
+IN I IlNA    T mrvk                                                _
+Publications SCOrvlc1o
+,hodttrIcnn Tramn_n-
+
+
+
+I      I                    III
+Projed Itnplomenlalion Scheduln
+Calenidur Year 1997 |         19I3                -1999                 2000                 2001
+Quarlor   4      1    2' 3   4    1    2    3    4    1   2    3   4    1    2    3    4
+lBfl) Fiscal Y   .ar    1991                1999                 2000                2001  --   t  7002
+AG POLICY PROCESS
+Sector Policy
+Trade Policy Agerulas                            . .w1 
+Tradc Policy Analysis|-                                                        ,
+I ralc Ncgolihons                               ;    m          m         ' '                 -          . '*
+An.ly.s of Cortip Adv(.    ,                                     .
+IrriliiiCrDeill ['oll y inlo  ,(o,I VUA                           ,
+IN I LlNF I ';oiv                                                                               .                            .;
+P'ublications S'ciVicc                                    ..-.-,                                                                t
+'m'miIirri arid I)lalogalm,.
+Moriitor Lffo.ts 1--1 Nd)o               '
+Soctor Investment
+Increm. Staff Contract
+Analysis MAO Invest Budget                                   -
+AnnlysIs Sector Invest liudget                                                  -
+Design Project Monil Sysir                          . ..         .
+Imp lPfoi Mouiiioritig Sysloni                                 -   -
+Project Evaluallons                                        : , ____'____m.m                    m                m
+
+
+
+Prooclt IamplementalloA Schedule
+Calondoa Year 1997         1998               1999               2000               2001
+astaler 4   1  2  3 4,L   2341234*   1  234
+lBRD Fiscal Yeaf     1998               1909              2000               201        i2002
+AGRICULTUkAL C'2NSUS
+Dosign & Preparalion
+Fiold Test
+Train & ilre Interviewers
+Field Colletion
+Dals PNooessing
+Dissemination & Publication
+INTERNET Sorvice
+IT Equipment Installod (above)
+Vehicles In-country (above)
+Oata Procosaing
+IT Equipment Installed (at"s '
+Softwaro Installallon L T;anoing
+Ptogruliis Prepared & Tested
+Census Processed                                                                   _                                                                              _
+Shoal-mimn 1raining
+AGRICULTURAL FARM SURVEYS
+AU ProducIlon Survey/Coast
+Ag Produdion SuiveylNataonal
+Farm Expendiltue Survoy/Coast sub sanmplo
+:I
+
+
+
+_,         Pro ccl I ~moeitr)naIon SclI4Ie           _______
+calen(tljr YnArtte          t r9                   1999g                JM ?01               0111
+_ _l__ _ar    |        2         4 4    2  4   24 |              2    3    4    1 t        1   4
+llflfl 1ixcd    l      utearu u    nu I            I                     1       01I  2002
+Agrocilmatik Evalatilon
+Evaluallon (above)                                        MK . 
+MnnAor El NHfo                                12
+Detfne System Tech Expanslon Palh
+Procwuemon Tecdi Specs
+Procurer,eait Process & Wil
+hIst alation & Operalk)n                                    .                                        k.i::
+Sho,t-tegrn Trahigm
+Coulracl TA (nalional)                             -
+Design Agcilma Into Servicc e.
+Impirn Aocimna Iilo SoAice-
+INTERNET Scrvice                                      !*
+Puilicatiotis Service 1 Sr-z -2 ............ :'
+Compuiter Cen_.er
+IT Eqpnlctsi Installed (above)                                  .y
+Makietionwa 8 TA Soivices                 E- Z                                                                  c;$            Y
+Trrinilg Courses                                                                                                .........., -
+Systems Devekipmeri-
+Price Service Syutcnl                                    zi.4.   :K
+AgcCama Setvice sy.Aem:ni
+
+
+
+
+
+
+IBRD 28022
+g        - 804       -          -    ~~~~~~           ~          ~~~79°  R<  780            7                          76                ^     -
+Son Loren fG      '
+ESMERAD                      0 g >                                                     C O  L O  M B I A
+PA C I-   c f  .MERALDASV                                                       A
+a C F Ai N                                                               I'  O                                      "' -, s
+)  a'   _                                           a>~~~~~~~~~~~~~~~~~~~~1  Lcsgo Ario S&
+g~~~~~~~at Domingo                                                                          Sh.i e md-tR  i7Do -S 
+i M AL   B I                                          g                                        wf /t< 8 -'  a  erto Francisco'  i,-, .
+Bahia de Car6quePt                                                                                           N)A    P_^0 4X) vo     rlaa.oO 
+-~~~~~~~~~~OO'(  /''~                                           'Y          §      '                              tao   RoCcTsX}-N fNuevo 
+r                           rEg vNGA gArchidona                                  R. 'ei;
+VqLa~cotfIbarrO            ~          ~         ~         ~         ' -
+,.           (i~~~~j?~~ ~AdB~ATO                                                                 Conou,uco /-
+:~~~~~~~~~~~~~~~~~~~~~~HA                                 M7                          % .*  
+SalinX ~  ~    ~    ~ ~ ~ - G U~              0d                                                                                         '   MCS-tJ f    ;    '  °
+'.:~~~~~~,                  B                                                        P A C 4  T Ag IZ ''A
+MBA Poloro
+2'                                                                                        "~'N~A,0     >   "g Ito                                               2
+G Ao2 .U A Y4                                    ),                 J1                                 
+Salinas,                                       Naro   a                  '. ;*"
+GUAYAWULI 5mq                        ~-
+CA-t'    ,        --s      A R54 // SGANAPAGO -
+\-/NaroniA <AN  I A                                          G                                       6 A
+0'5   -Gen'eraCt L                                    -
+JE A/ Piata Gutierrez3-
+Gulf of                                      U  
+C uaya 9                                                                                                       I
+MACH LA                   oquiZaECUADOR
+-k,~~~~ ~ ~ C5                                                     7             h  ondre,clos7eom'sln
+0 ~  25    s0i  775   10                                                                       77'Bx,. ItAACIT5A   himpOofliriairho
+GALAPAGOS ISLANDS                              PE ROADS
+1'  (ARCHIP16LAGO DE COL6N)                --~OTHER ALL-WEATHER ROADS
+ILA Nk41A                                       -i-'-RAiLROADS
+ZAORA                              '~~~~~~~ISLA GENOVESA       ' AROT
+~~  /\1~~~LOJA)    (779                                                      *~~~~~~~~II ~PORTS
+PROVINCE BOUNDARIES
+0 25S0 5  100  SANTA~                   SALVADOR 15iAschvINTERNATIONAL BOUNDARIES
+P  E  R  U                                 KILO A             9 
+a.  ISMLA SANTA CRUZ
+'ISLA                                               The boundaries, colors, denominations
+-5'                                              5                         SABELA                                               andl any other information shown on
+0    25    S0   75   1DO                                                          ISLA SAN CRisT68AL               this map do not imply, on the por of
+I   I                                                                      1         ~~~~~~~~~~~~~~~~~~~~~~~~~~~The World Banks Group, any 1udmer
+KILOMETERS                                                     ISAon the legal status of any territory, or
+0   25  5D  75  1 OD SANTA MARfA-'.             ISLA ESPAt;OLA           any endorsement or acceptance of
+______________such boundaries
+81'                      SD~~~~~~~~0              KILOMETERS        91'                   90'
+MAY 1996
+
+
+

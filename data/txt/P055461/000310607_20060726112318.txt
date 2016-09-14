@@ -1,0 +1,2235 @@
+                   Document of
+                 The World Bank
+
+
+
+
+                                              Report No: 36160-AR
+
+       IMPLEMENTATION COMPLETION REPORT
+          (SCL-44590 PPFB-P3370 TF-25306)
+
+                      ON AN
+
+        ADAPTABLE PROGRAM LOAN (APL I)
+
+         IN THE AMOUNT OF US$10 MILLION
+
+                     TO THE
+
+              ARGENTINE REPUBLIC
+
+                      FOR A
+
+SOCIAL AND FISCAL NATIONAL IDENTIFICATION SYSTEM
+                    PROGRAM
+
+
+
+
+                   June 30, 2006
+
+                             CURRENCY EQUIVALENTS
+
+                               (Exchange Rate Effective )
+
+                              Currency Unit = Argentine Peso
+                              ARS .3274662 = US$ 1
+
+                                      US$ 1 = .3274662
+
+
+
+                                    FISCAL YEAR
+                               January 1     December 31
+
+                       ABBREVIATIONS AND ACRONYMS
+
+AFIP       Federal Public Revenue Administration
+ANSES      National Social Security Administration
+APN        Public Service Administration
+APL        Adaptable Program Loan
+APN        Public Service Administration
+CAS        Country Assistance Strategy
+CUIL       Unique Labor Identification Number
+CUIT       Unique Tax Identification Number
+DNI        National Identification Number
+EDAPS      Data Standards for the APN
+GOA        Government of Argentina
+ICR        Implementation Completion Report
+ISP        Internet Service Provider
+INTERNET   Inter-networking protocol for transmission of data through packets;
+MdJ        Ministry of Justice
+MdT        Ministry of Labor
+PAD        Project Appraisal Document
+PCU        Project Coordination Unit
+PPF        Project Preparation Facility
+RNP        National Registry of People
+SDS        Secretariat of Social Development
+SFE        Secretariat of Fiscal Equity in the Office of the Chief of Cabinet of Ministers
+SIEMPRO    Social Program Management System in the Secretariat of Social Development
+SINTyS     Social and Fiscal National Identification System
+SISFAM     Socioeconomic Demographics Family Registry System
+VPN        Virtual Private Network - a telecommunications network with a closed users group
+
+                             Vice President:      Pamela Cox
+                           Country Director       Axel van Trotsenburg
+                            Sector Manager        Ronald E. Myers
+          Task Team Leader/Task Manager:          Miguel Mercado Diaz
+
+                                        ARGENTINA
+                                AR SOC&FISC NTL ID SYS
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         2
+4. Achievement of Objective and Outputs                                            8
+5. Major Factors Affecting Implementation and Outcome                            25
+6. Sustainability                                                                26
+7. Bank and Borrower Performance                                                 27
+8. Lessons Learned                                                               30
+9. Partner Comments                                                              30
+10. Additional Information                                                       34
+Annex 1. Key Performance Indicators/Log Frame Matrix                             35
+Annex 2. Project Costs and Financing                                             36
+Annex 3. Economic Costs and Benefits                                             38
+Annex 4. Bank Inputs                                                             39
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components             41
+Annex 6. Ratings of Bank and Borrower Performance                                42
+Annex 7. List of Supporting Documents                                            43
+
+Project ID: P055461                                                  Project Name: AR SOC&FISC NTL ID SYS
+Team Leader: Miguel Mercado-Diaz                                     TL Unit: LCSPS
+ICR Type: Core ICR                                                   Report Date: June 29, 2006
+
+
+1. Project Data
+                   Name: AR SOC&FISC NTL ID SYS                                   L/C/TF Number: SCL-44590; PPFB-P3370;
+                                                                                                     TF-25306
+   Country/Department: ARGENTINA                                                          Region: Latin America and the
+                                                                                                     Caribbean Region
+
+        Sector/subsector: Central government administration (57%); Other social services (43%)
+                  Theme: Social safety nets (P); Tax policy and administration (P); Law reform (S)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 01/15/1998                                     Effective: 07/01/1999                07/29/1999
+     Appraisal: 03/09/1998                                         MTR: 02/11/2000                  11/06/2000
+      Approval: 04/20/1999                                      Closing: 09/30/2001                 12/31/2005
+
+
+
+    Borrower/Implementing Agency:          REPUBLIC OF ARGENTINA/SECRETARIAT OF FISCAL EQUITY (OFFICE
+                                           OF CABINET OF MINISTERS)
+                      Other Partners:
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Pamela Cox                                     Shahid Javed Burki
+Country Director:               Axel van Trotsenburg                           Myrna L. Alexander
+Sector Manager:                 Ronald E. Myers                                Guillermo Perry
+Team Leader at ICR:             Miguel Mercado-Diaz                            Luis Mejia
+ICR Primary Author:             Wolfgang Koehling
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        HS
+                      Sustainability:      L
+   Institutional Development Impact:       SU
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry:                                  HS
+                     Project at Risk at Any Time: No
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+
+The ICR analyzed and assessed the performance of the first phase of the Social and Fiscal National
+Identification System (SINTyS) Adjustable Program Loan, for which the Bank approved a US$10 million
+loan to the Argentine Republic in March 1999.
+
+Following 1989, Argentina successfully implemented a series of major structural reforms that brought
+hyperinflation, economic stagnation and high public sector deficits under control. These reforms focused on
+the macro aspects of the economy, with special emphases on the privatization of public enterprises,
+monetary and fiscal systems, and trade and capital market policies. Subsequently, in order to consolidate
+the renewed macro-economic stability and to address persistently high unemployment and poverty rates and
+skewed income distribution, the government moved in the mid 1990's to a second generation of public
+sector reforms. It placed priorities on restoring effectiveness and efficiency in social services and installing
+greater equity in them.
+
+The government committed itself to improving the allocation of funds in social programs to increase their
+efficiency and equity alongside of improving and expanding their outreach to needy citizens. It established a
+Social Cabinet in the Office of the Chief of Cabinet of Ministers (Jefatura de Gabinete de Ministros) to
+improve coordination among the various social agencies, and also it created a system to change the
+management and focus of the social programs (SIEMPRO - the Social Program Management System) in
+the Social Development Secretariat.
+
+At the same time, however, the government found that its social sector expenditures then consumed seventy
+eight percent of all national and provincial public spending. Moreover, the Federal budget financed sixty
+percent of the sizeable provincial social expenditures. Accordingly, the administration was very concerned
+about the efficiency of the social programs. There was widespread concern and some evidence of fraud and
+corruption in these programs, as well as duplication of benefits, particularly in the extensive system of
+social programs providing free services. Furthermore, the probable attendant wastage of public funds was
+compounded by many associated opportunities for tax evasion, which the Bank estimated to be forty five
+percent of potential VAT collections.
+
+The government determined that an underlying factor of these problems was the decision makers' lack of
+reliable information on the beneficiaries of and contributors to the programs. It found that federal and
+provincial agencies were unable, and some even unwilling, to communicate information among themselves
+for a number of reasons, including the following:
+
+l Federal agencies were decidedly autonomous and considered their decision- making and the ownership
+    rights to their data to be strictly proprietary;
+l Privacy concerns were paramount in Argentina;
+l Provincial agencies often were independent of their national counterparts and averse to "upward
+    accountability";
+l National and provincial data sets were incomplete or of poor quality;
+l No constitutional framework existed for inter-provincial cooperation in data sharing; and
+l There was no coordination with the independent social programs, some of which were explicitly
+    chartered to help individuals not covered by Argentina's overall safety net.
+
+As a result, there was no single consistent process to positively identify individuals, legal entities, their
+
+
+
+                                                      - 2 -
+
+assets or their relationships to each other. This absence impeded accurate assessments of the incidence and
+impact of the social programs ­ and even controls over their payments and other services. Thus, individuals
+could file for bankruptcy and collect benefits in one province while holding significant assets in another
+province. Similarly, some pension and other benefit programs continued payments to long deceased
+individuals.
+
+In mid-1998, therefore, the government initiated the Social and Fiscal National Identification System
+(SINTyS) in order to provide its decision makers better, more reliable information about the social program
+beneficiaries and taxpayers. The idea was to assemble and permit agencies access to data for more effective
+determinations of potential contributors to and beneficiaries of entitlements, payments and contributions.
+The government subsequently requested Bank assistance to help develop SINTyS, for which the subject
+loan was provided. Its objective was to improve the efficiency, effectiveness and impact of social services
+and tax administrations through an institutionalized information exchange. It was designed as a
+three-phased APL. The loan provided to support the first phase aimed at obtaining demonstrable results
+with a limited number of participating institutions and programs through a progressive and
+consensus-building approach, and to initiate the related cultural changes. This was focused on the data
+ownership aspects of the program while also limiting entry costs into the system. The goal of the projected
+second phase was to expand the coverage of SINTyS to all provinces and increase its efficiency, while the
+goal of the projected third phase was SINTyS' consolidation and institutionalization.
+
+The objective of Phase I entailed identifying the social and/or fiscal attributes of physical and legal persons
+in Argentina through sustainable information exchange in order to improve social services and fiscal
+programs at all levels of government. It was expected to provide enabling conditions and tools for
+participating agencies to realize savings and provide additional benefits to newly identified eligible
+households through exchange mechanisms capable of data reconciliation. The vision was that, at the end of
+the program, barriers to information exchange among participating agencies would have disappeared as
+data gathered separately became legally available, when and where needed. The longer-term vision was a
+shared information exchange network, enabling the government to offer "one-stop" delivery of multiple
+value added services.
+
+During the first phase, the scheme called for SINTyS to develop common database standards and
+standardized variables. This was intended to make them compatible and to develop a technical solution for
+data sharing, without infringing on the integrity of the participating agencies' databases or beneficiaries'
+privacy.
+
+The strategy was to originally concentrate on the National Pension Administration (ANSES), which had the
+largest database and was performing limited data reconciliation with the National Tax Administration
+(AFIP), but which did not have a system to build on, along with Mendoza, one of the biggest provinces
+with relatively high quality data. The plan was to obtain agreements with both entities to provide for
+information sharing, and to identify the steps needed to reconcile their databases. The first action was to
+normalize these databases and adjust them to permit regular data reconciliation. In parallel, SINTyS was to
+develop a system for more automated comparisons of datasets with a greater number of entities.
+
+The project plan recognized that SINTyS' needed to build a reasonable consensus among Argentina's
+agencies in order to achieve a significant critical mass for the desired demonstration effect, and a
+foundation for the program's sustainability. To achieve this mass, once the initial data reconciliation was in
+place and potential monetary impact demonstrated, the system was to be extended to other institutions,
+including the AFIP, National Registry of People (RENAPeR) and the Secretariat of Social Development
+(SDS). Also, four more provinces were initially expected to join Mendoza in the program.
+
+
+                                                     - 3 -
+
+For the first phase, the Project Appraisal Document specified the following performance indicators to be
+used for monitoring its progress, as well as to demonstrate the potential benefits, which were expected to
+convince others to participate in the program.
+
+Box 1 Indicators (Phase I)
+
+
+ Overall:
+           The number of agencies using consistent common processes to identify
+           entities and assets;
+           Percentage of the population uniquely identified and with family
+           relationship data
+ For Social Services:
+           Effectiveness: number of identified, entitled beneficiary households
+           previously not receiving services
+           Efficiency: Number of beneficiary households incorrectly receiving
+           benefits;
+           Savings: amount of incorrect benefits not awarded
+ For Fiscal Programs:
+           Effectiveness: increase in the number of registered taxpayers
+           Efficiency: increase in collections
+
+
+
+In addition, the government and the Bank agreed on the following institutional triggers to be in place prior
+to the initiation of Phase II:
+
+Box 2 Triggers for Phase II
+
+
+      · Completion of the analysis of local Internet Service Providers
+      · Completion of the technology model
+      · Definition of data coding standards
+      · Definition of access methodology
+      · Definition of security standards, including encryption
+      · Definition of data quality standards and validation methods
+      · Design of institutional framework
+      · Design of legal framework, particularly for information privacy and
+           confidentiality
+      · Design of infrastructure architecture
+      · Agreements with additional entities to participate in SINTyS
+
+
+
+
+                                                  - 4 -
+
+3.2 Revised Objective:
+
+The Project Objectives were not revised.
+
+3.3 Original Components:
+
+The Project was structured around five components including two substantive components, one enabling
+component and two management components. The substantive components consisted of a large number of
+relatively independent activities. Because of the somewhat exploratory nature of the first phase, some of its
+activities were not detailed very precisely, especially in the area of system development and institutional
+strengthening. This was considered necessary for the effort to develop new technological approaches, and in
+order to advance incrementally on the institutional side.
+
+Component A: Improvement of Social Services (US$ 4.1 million)
+
+This component aimed to improve the targeting and delivery of social services through better identification
+of individuals, entities and their relationships. This was to be accomplished by facilitating the interchange
+of information among participating agencies and improving the completeness, accuracy and reliability of
+agency data through cross-validation. This component called for the development of uniform database
+structures, review and enhancement of different agencies' information structures, development of
+standardized social sector variables, definitions of tombstone data (unchangeable data over the life of an
+entity) of individuals and firms and their characteristics, definitions of uniform beneficiary criteria,
+definitions of contributors' characteristics, and an identification of the types of databases to be used for
+information reconciliation.
+
+Component B: Improved Fiscal Efficiency (US$ 3.4 million)
+
+This component aimed at reducing the number of unregistered potential taxpayers, tax evasion, and tax
+underreporting, while increasing tax compliance through an increased perception of the risk of discovery.
+It addressed the specific requirements for tax databases to communicate among themselves as well as with
+social sector and assets databases. Here too, the main tasks included assisting participating agencies in
+upgrading their databases to a standard that conformed to SINTyS' requirements. In this connection,
+confidentiality concerns were more serious in the tax area than in the social sector, requiring greater
+attention to database security.
+
+As in the previous component, the objective was to be accomplished by facilitating the interchange of
+information among the agencies and improving the completeness, accuracy and quality of their data
+through cross-validation. This was to enable the agencies to improve their controls over different fiscal and
+social security obligations. The tax component relied in principle on the same identifiers as the social
+component.
+
+Component C: Institutional Framework, Infrastructure and Common Services (US$ 2.1 million)
+
+Because of the inadequate institutional and legal framework for the program at the beginning
+(e.g., no data privacy laws or mechanisms for data sharing), SINTyS needed to establish a
+comprehensive set of rules for a trustworthy environment. Therefore, this component was designed to put in
+place laws and norms for the institutional backbone of SINTyS. It called for creating a legal and
+technology infrastructure within a comprehensive institutional framework. This, together with the technical
+
+
+
+                                                      - 5 -
+
+support from the social and fiscal components, was also aimed at building consensus and trust among the
+participating agencies.
+
+Its provisions included developing agreements between SINTyS and the participating agencies, user
+guidelines, privacy rules, access mechanisms, types of data sharing, remedies for contract breaches, and
+technical criteria for the databases. The agreements were to need modification over time as the system
+grew, and access and data reconciliation methodology changed. There were also plans for advancing the
+program's legal and institutional underpinning through such measures as privacy legislation, data
+standards, data security protocols and intellectual property rights laws. In addition, during project
+implementation, this component was to finance security activities in SINTyS and the participating agencies
+for ensuring database integrity, and monitoring the quality of data reconciliation, specifically for estimating
+the potential monetary impact of the program.
+
+Component D: Management of the System (US$ 0.2 million)
+
+This component was to finance system development, management of data reconciliation and system
+operations. The system management entity was in charge of the technical strategy and project operation.
+
+Component E: Project Administration (US$ 0.6 million)
+
+This component was to provide the administrative, accounting and other services for the execution of the
+Project.
+
+3.4 Revised Components:
+
+The Components were not revised. However, during the progress of the project, additional activities were
+added to the substantive components. In particular, in 2004 SINTyS expanded its mission to provide
+technical assistance and capacity building and installation of equipment in the provinces for their
+development of their databases.
+
+3.5 Quality at Entry:
+
+No QAG review was carried out.
+
+The Quality at entry is assessed as highly satisfactory.
+
+The project proposal was consistent with the goals of the then current CAS, which was discussed with the
+Board on November 10, 1998. The CAS had underscored the need for reducing Argentina's significant
+levels of poverty and highly skewed distribution of income, which were then exacerbated by growing
+unemployment. It cited the imperatives of restoring quality social services and instilling greater equity in
+them. By supporting the development of better information on social and fiscal programs, the proposed
+project was fully supportive of these goals.
+
+In preparing the Project, the government and the Bank confronted difficult conditions. These included the
+following:
+
+a. The goal required winning the support of a new information-sharing mechanism from many institutions
+    in numerous jurisdictions ­ which were not accountable to or supporting each other ­ whose combined
+    efforts would be necessary to achieve lasting benefits.
+
+
+
+                                                    - 6 -
+
+b. The main targeted participants would have to include important and very autonomous national and
+    provincial agencies. Each owned its own information and felt strongly responsible for its life-cycle
+    management and controlling access to it. They and the partial information registries then existing
+    shared data imperfectly. Furthermore, following Argentina's then relatively recent return to
+    constitutional government, these agencies felt it imperative to ensure strong controls on information
+    privacy and security. Protecting the integrity of their data therefore ranked high in their concerns.
+c. The Bank had ongoing program relationships with several of the agencies participating in the project.
+    Some of these activities had not been very successful, particularly regarding these organizations'
+    implementation capabilities and the efforts to change some of the same practices which were at issue in
+    SINTyS' creation. Therefore, the possibilities of improving their information management were
+    uncertain.
+d. For SINTyS to achieve its goals, Argentina would need a uniform standard-based approach for
+    gathering and comparing information. This in turn would have to entail its agencies being motivated to
+    voluntarily participate in the system and comply with its provisions.
+e. Past Bank-supported public sector reform activities in Argentina had frequently been large,
+    comprehensive schemes, sometimes involving numerous organizations, agencies, and provinces.
+    Experience had shown the complexity of implementing them, especially with the country's federal
+    structure.
+
+The government and the Bank responded to these and related problems in a very proactive manner, partly
+by installing several important principles at the outset. These were, among others, that: (a) participating
+agencies would continue to regulate access to their information; (b) instead of a single central database
+system, the approach would rest on interconnecting existing databases; c) SINTyS would focus on
+providing a technical, legal and institutional framework and coordinating national institutions for ensuring
+overall data consistency by developing a system for data exchange and analysis; (d) it would also
+concentrate on bringing about institutional and cultural changes through encouragement and operational
+support; and (e) results would have to be accomplished early on to mobilize sufficient buy-in for creating
+the critical mass needed to sustain the program.
+
+Alongside of these, the project preparation work was technically valuable in sponsoring a "systems
+management" rather than mainframe approach. It proposed extensive use of Internet facilities as a more
+evolutionary, less costly and proven scalable medium for providing access to shared information. Its
+recommendation of this technological platform was very appropriate as well for providing a reliable tool
+for validating information and rectifying errors that was very suitable for trying to reduce the reported
+widespread instances of fraud and inefficiencies. The platform was also readily compatible with Argentina's
+technology/telecommunications environment, which was then relatively advanced -- but not yet well
+applied in government operations.
+
+In these and other respects, the project preparation was conceptually novel and creative, which were
+important factors for the changes which the government sought. The Loan components to be financed were
+well designed and presented an effective approach to obtaining the desired results. They were also probably
+unique in the intention to combine social data with tax data as a way to increase tax compliance. The
+provisions for flexibility provided to be quite useful, for example, when SINTyS learned that information
+on legal entities and land properties was insufficient to permit exchanges.
+
+In addition, the preparation teams' work was quite comprehensive. For example, they examined correlations
+among social sector expenditures, information sharing, fiscal revenues, and poverty and unemployment
+levels. They sought to identify which of these factors should be aligned through linking databases in order
+to best determine how to highlight fraudulent beneficiaries and tax avoidance.
+
+
+                                                     - 7 -
+
+Some of the other commendable elements of the project's design usefully drew on previous experience with
+proposed public sector management reforms in Argentina. These dealt with such problems as inadequate
+legal frameworks, differences among competing factions, and weak and outdated technical capabilities in
+some bureaucracies, and resistance to change. The project accordingly had a sensible strategy of gradual
+change, and rejected the possibility of seeking one new central database in favor of a more politically
+acceptable approach. It did not necessitate long-term investments and it provided flexibility for risk
+management.
+
+In addition to these, the project preparation team identified a number of measures to mitigate the
+foreseeable and other plausible risks. These included plans for: (a) the support of a policy committee to
+help obtain the critical participation mass and sustain managerial continuity, as well as provide political
+coordination; (b) timely information dissemination to quell public fears of privacy and confidentiality
+incursions; and    (c) the introduction of a quality assurance function to deter or eliminate service
+deficiencies.
+
+Furthermore, the separation of both "administrative" components in the Loan's structure proved to be very
+forward-looking when the project administration and SINTyS' management needed to be separated. By
+treating them as two different entities, the Project gained protection from political obstructionism and won
+trust from the participating agencies.
+
+On the basis of all these, the Project's Quality at Entry is rated highly satisfactory. Its design might be
+considered appropriate for inclusion in the Bank's judgments on and selections of "best practices" in public
+sector reform. It ranked well with respect to consistency of objectives with the CAS, the quality of its
+design, the demonstrated capacity of the implementing agency, and the reasonableness of the scheme's
+assumptions. Moreover, the PAD documented these and defined appropriate performance indicators
+succinctly and well.
+
+To be sure, while the scheduled time for the implementation of Phase I was two years, its actual
+implementation period was five years. However, this was not a deficiency of project design. The longer
+period was mostly attributable to the impact of the financial crisis in 2001/2002 and other factors discussed
+below. Moreover, the basic scheme called for a trial and demonstration period of a technologically
+moderately challenging activity, which (if successful) would be followed by additional work, cumulatively
+totaling eight years. There was thus no unexpected or unfortunate slippage since some of the originally
+planned Phase II activities were effectively launched during this initial period. On the other hand, the
+preparation team appeared to have underestimated the time needed for institutional changes.
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+
+The outcome of the project is assessed as Highly Satisfactory, as measured against the objectives of APL
+Phase I, which were limited to demonstration purposes. The project is now well into the implementation of
+Phase II.
+
+The first phase of the APL was scheduled to be completed in FY 2002 (September 2001). However the
+project was extended until the end of calendar year 2005, as were its benchmarks. Review of the project's
+accomplishments indicates that most of the benchmarks set for the first phase were actually met during the
+initial implementation time frame. This report reflects these achievements.
+
+
+
+                                                     - 8 -
+
+Phase I of the SINTyS program was aimed at improving the efficiency and effectiveness of social sector
+programs and fiscal administrations, despite the fact that SINTyS only provides the tools for these
+improvements and the actual steps ­ corrections of databases and terminations or initiations of benefits ­
+had to be implemented by the participating agencies. But by demonstrating a large potential monetary
+impact, SINTyS created the incentives for the agencies to take the steps required to realize that monetary
+impact voluntarily. Monetary impact includes (1) savings due to termination of benefits to ineligible
+beneficiaries of social programs, including deceased individuals and individuals excluded due to income or
+wealth; (2) additional tax revenues due to identification of new tax payers or detection of tax
+underreporting; and (3) additional payments to newly identified eligible beneficiaries. The reason to lump
+these three together is that in general a reduction of payments to non-eligible beneficiaries (by definition not
+needy) and payments to new beneficiaries (by definition needy) both increase the overall social welfare.
+Additionally, tax collection increases the equity of the tax system and thus also increases the social welfare
+of government activities, as taxation is principally build on the ability to pay, or progressive, and taxing
+higher income with a higher tax rate.
+
+The Project's goal was to establish a system for data matching, provide a framework to link social and
+fiscal data bases, to demonstrate the potential impact of SINTyS' use, and develop an institutional
+framework capable of accommodating more provinces and agencies in the network. Its accomplishments,
+which substantially exceeded expectations in most areas, included the following:
+
+l Development of a hub and spoke technological model for data reconciliation across several databases
+    simultaneously
+l Exceeded the originally targeted critical mass of participating agencies
+l Measured the potential and actual impact of the data sharing
+l Initiated valuable institutional changes
+l Verified social and fiscal monetary impact directly attributable to the Project
+l Increased the agencies' efficiency and effectiveness beyond the initially forecast levels
+
+
+Table 1 shows that the majority of the benchmarks of the first phase were met during the first few years of
+the operation. The indicators for 2001 are cumulative potential monetary impact, additional revenues, and
+identified beneficiaries, from the beginning of the project estimated by SINTyS through the average
+payments per individual in the respective program multiplied by the errors detected:
+
+Table 1 Benchmarks
+
+                    Benchmark                               Anticipated Project       By December 2001
+                                                           Target at Appraisal
+Total Potential Monetary Impact as of May
+2001 in US$ (US$1 = AR$1)
+No. of newly identified beneficiaries:                   150,000                  224,000
+No. of households not eligible                           100,000                  129,000
+No. of new taxpayers                                     3,000                    600
+No. of Participating Provinces                           1 + 4 (maximum)          5
+No. of Participating Agencies                            20                       25
+Total additional revenues                                $25 million              $74.5 million
+Total monetary impact in the social services             $16 million              $59.5million
+Total potential monetary impact                          $41 million              $134.5 million
+
+
+                                                       - 9 -
+
+The Project required extensions of the loan's closing date after the national fiscal crisis in the beginning of
+2001. Because of its severity and the attendant difficulties in Argentina's economy, questions arose about
+continued financing for the program. But following the good initial outcome, it was agreed to permit the
+extension of the Project beyond FY 2002 and to expand the goals of Phase I with the help of the remaining
+loan proceeds. This was also facilitated by the fact that the subsequent Argentine peso devaluation (January
+6, 2002) effectively freed up additional resources.
+
+As a result of these factors, this report includes broader achievements than those which had been solely
+planned for Phase I. These were also substantial as shown in Table 2; the indicators represent the
+estimated actual cumulative monetary impact from the beginning of the project as verified by the
+participating agencies. Prior to 2004 the agencies did not verify the monetary impact. However for the
+period 1999 to 2003, SINTyS calculated the estimated actual impact by multiplying the potential impact of
+that period, by the average verification rate (as seen in Table 3) of the respective provinces. The monetary
+amounts are US$ at the present exchange rate:
+
+Table 2 Estimated Actual Monetary impact
+
+                   Benchmark                        Anticipated Project Target             By 2006
+                                                           at Appraisal
+Total Actual Monetary Impact as of
+January 1, 2006 in US$ (US$1 = AR$3)
+  No. of newly identified beneficiaries:            150,000                    759,766*
+No. of households not eligible                      100,000                    302,539
+No. of new taxpayers                                3,000                      226,146**
+No. of Participating Provinces                      1+4                        23
+No. of Participating Agencies                       20                         155
+Total monetary impact in the social services        $16 million                $91 million
+Total additional revenues                           $25 million                $39.5 million***
+  Total Monetary impact                              $41 million (potential)   $130.5 million (actual)****
+* Actual number of data discrepancies identified by SINTyS
+** Total verified by the agencies over project period
+*** Actual additional revenue collected
+**** Actual monetary impact over project period
+
+The figures above reflect SINTyS' significant development in 2003 of a new monitoring tool to measure the
+full impact of its system. Prior to December 2003, SINTyS had estimated the potential monetary impact
+from data reconciliation by identifying detected errors. But since 2004, it has been possible to verify the
+actual monetary impact realized compared to potential ones, thanks to SINTyS' advancement. Following
+some changes, the actual monetary impact is now identified and monitored through the agencies' new
+reporting systems. Through this the agencies report back on all individual cases the monetary impact of the
+data reconciliation. This step was highly beneficial for SINTyS to demonstrate its value to participants in
+rectifying information inaccuracies.
+
+In addition SINTyS calculated the ratio of realized actual monetary impact to total potential monetary
+impact. This allows establishing the additional marginal impact SINTyS can have if all monetary impact
+were realized.
+
+
+
+                                                       - 10 -
+
+Thereby too, SINTyS is now able to determine the provinces' data verification rates. Certain provinces, as
+well as national agencies, have consistently reconciled seventy percent (or more than the national average)
+of the data inconsistencies. On the other hand, after initial success, the data verification rates dropped. The
+reasons for their divergences are unclear. Some of the provinces have only recently joined in the program
+and the actions needed to convert potential monetary impact into actual ones are complex and
+time-consuming. Others such as the Province of La Pampa are reported to have encountered administrative
+and capacity constraint.
+
+To date all provinces but one have signed agreements with SINTyS and started to implement them
+gradually in all their agencies. However due to the gradual implementation and disparity in the capacity to
+integrate SINTyS in the agencies' procedures, regional differences exist, although significant additional
+efficiency and effectiveness gains can be expected. Table 3 displays the differences among the provinces in
+being able to rectify inconsistencies. This table gives an overview over the accomplishments by province,
+both with respect to the monetary value ­ as the percentage of provincial monetary impact to the total
+impact.
+
+Column one of each year (percentage of monetary impact) indicates the relative monetary impact of the
+relevant province in relation to the total monetary impact generated by SINTyS in Argentina. This measure
+is a proxy for how extensively SINTyS is implemented in a province. The second column indicates the
+accomplishment of the agencies to eradicate reported errors. This measure is a proxy for the quality of
+implementation in a province and the agencies' capacity to act on reported errors and translate them into
+monetary impact. Initially, the majority of participating provinces were able to rectify more than two-thirds
+of them. In 2004, the bulk of actual monetary impact was realized at the national level (thirty seven
+percent) and the Province of Buenos Aires (twenty three percent) followed by Cordoba (twenty percent).
+This reflects SINTyS' strategy to focus on a small set of agencies in selected provinces with the highest
+potential. The only other province with meaningful actual monetary impact was the Province of Mendoza,
+which was the first to enlist in the program. In 2005 the situation changed substantially and SINTyS
+expanded more rapidly. Provinces like Rioja and Santa Cruz managed to fully reconcile their data. Even
+though their actual monetary impact was relatively small, and only a few agencies affected, they were
+significant accomplishments for these entities. Simultaneously, as well, within a half a year after joining
+SINTyS, the Rio Negro province was able to rectify nearly half of its of the inconsistencies. The drop in
+verification rates in some Provinces can be attributed to the time lag to build the capacity within the
+agencies to reconcile the data. Overall the high verification rates indicate the high quality of data SINTyS is
+providing.
+
+Table 3 Regional Differences
+
+                          2004               2004                                  2005              2005
+     Province          Percentage         Verification        Province         Percentage        Verification
+                        of Total           Rate**                                 of Total          Rate**
+                       Monetary                                                 Monetary
+                       impact in                                                 impact in
+                       Argentina*                                              Argentina*
+                         Total          Total Detected                             Total        Total Detected
+                    US$20,633,983       Errors: 341,776                       US$26,508,521 Errors: 946,670
+La Rioja                 0,1%                73%          La Rioja                 0,2%             100%
+Misiones                 0,1%                73%          Santa Cruz               0,4%             100%
+
+
+
+                                                     - 11 -
+
+Jujuy                        0,5%                  73%            Jujuy                     11,8%                 99%
+Salta                        0,1%                  73%            Bs. As.                   30,6%                 72%
+St. del Estero               0,3%                  73%            Mendoza                   12,8%                 71%
+ Tucumán                      0,4%                 73%             National                 20,5%                 65%
+ Mendoza                      8,7%                 73%              AVERAGE                   NA                  61%
+ Santa Fe                     0,6%                 73%             Córdoba                   5,1%                 57%
+La Pampa                     0,2%                  71%            Tucumán                    0,2%                 54%
+Córdoba                     20,3%                  69%            Río Negro                  0,2%                 46%
+Bs. As.                     22,7%                  67%            Salta                      0,9%                 38%
+ National                   37,0%                  65%             Entre Ríos                0,2%                 37%
+ AVERAGE                      NA                   63%              Santa Fe                 6,9%                 5%
+ Santa Cruz                   2,3%                 24%             Catamarca                 0,8%                 0%
+Entre Ríos                   4,2%                  23%            Chaco                      0,5%                 0%
+Chaco                        0,0%                   0%            Chubut                     0,2%                 0%
+Chubut                       0,0%                   0%            Corrientes                 0,3%                 0%
+Formosa                      1,3%                   0%            Formosa                    1,4%                 0%
+GCBA                         1,1%                   0%            GCBA                       1,5%                 0%
+Catamarca                     NA                                  La Pampa                   0,1%                 0%
+Corrientes                    NA                                  Misiones                   0,3%                 0%
+Río Negro                     NA                                  San Juan                   2,9%                 0%
+San Juan                      NA                                  San Luis                   2,2%                 0%
+ San Luis                     NA                                    St. del Estero           0,2%                 0%
+* Percentage of Monetary Impact: Percentage of the possible savings, new benefits, and additional revenues actually
+terminated, paid or collected.
+**Verification Rate shows the percentage of data sets corrected following data matching with SINTyS.
+
+
+The details of Project accomplishments of institutional and technical triggers and developments are
+discussed below.
+
+l Analysis of the use of the local Internet Service Providers (ISP)
+
+
+The initial review of the local ISP was completed in May 2003, which met the trigger for Phase II, except
+in a few regional cases where ISP coverage and quality were still insufficient for full expansion of the
+program.     Following the review, SINTyS worked closely with the provinces and organizations in
+conjunction with the Public Investment Secretariat to improve the quality of service, which has been judged
+to be at levels comparable to the standards in Europe. This achievement exceeded the requirements of the
+trigger. As a result, SINTyS began to develop programs using web-based technologies.
+
+l Technology model
+
+
+The Project's goal was to produce a functional data reconciliation model to allow participating agencies to
+submit their data, together with a data verification request for an accurate audit of the system. SINTyS was
+then able to compare the data with that available from the participating agencies, and to provide an analysis
+based on a probability scale to identify duplications. In October 2003, the technological architecture of
+SINTyS was completed, both on the methodological side as well as with respect to the capability to
+up-scale the program. However, the project did not then have an ICT strategy for internal development and
+external linkages and integration with national, subnational and agency-level ICT strategies and platforms.
+
+
+
+                                                            - 12 -
+
+Moreover, SINTyS did not have a disaster and recovery plan with a redundant site. However, the
+redundant plans are now completed and the site would be fully operational after needed equipment is
+purchased.
+
+During phase I, security remained in SINTyS´care because of the need for development of planning and
+assembly of expertise. Then, during the last two years of implementation, SINTyS developed an ICT
+strategy for the Project that included security, auditing and data privacy which have permitted such
+advances as bringing about a prototype for an on-line SINTyS with search capabilities within participants'
+databases. The size and number of the linked databases were limited only by restrictions on equipment
+purchasing for expansion. The technology model thus exceeded the trigger.
+
+l Access methodology
+
+
+The access methodology was defined and has been improved in the area of database integrity and
+monitoring since 2004. Furthermore, the scope of this work has been broadened. With the development of
+the web- based system, access methodology has been further improved and refined to accommodate
+decentralized access to SINTyS. This allows participating agencies to initiate requests automatically from
+remote locations instead of sending the data to SINTyS´ headquaters. Since 2002, a new dynamic remote
+service facility allows for immediate turnaround of any data required.
+
+An access protocol is in effect after being tested for the web-based system. It allows centralized data
+management with remote access to provide security during data up- and downloads, server integrity, system
+redundancies, integrated hard and software design, user certification, and SINTyS' review of the
+participating agencies' standards.
+
+l Security standards, including encryption
+
+
+After October 2003, the project focused on network security, especially data security, privacy,
+advancement of the technological model and preparation of the architecture for further advances. The issue
+of physical security was addressed by creating several certification barriers for people accessing the
+SINTyS environment, such as password, fingerprinting and "smart cards" for the doors. Presently, there
+are plans to transfer the production environment to a more secure location. In addition, as a result of a
+security review of all participating agencies, SINTyS' provincial units follow the same security standards,
+both virtual and physical, as the headquarters.
+
+At the end of Phase I, the Korean Computerization Agency reviewed SINTyS extensively and confirmed
+that the legal framework for the security (including passive) standards was more than adequate, subject to
+some areas of improvement in the area of passive security. Passive security has since been improved
+further and its unit now has multiple physical barriers. It presently plans to transfer to an even more secure
+location in a separate building exclusively for SINTyS. In addition, SINTyS also carried out an upgrading
+of the provincial units housing the web-based accesses. The security component is proposed to be moved
+outside SINTyS Phase II for objectivity purposes.
+
+l Data quality standards and validation methods
+
+
+In December 2004, SINTyS incorporated the development and implementation of functional analyses of
+databases and the methodology for quality controls of their information. The basis for the data standards is
+the new Estándares de Datos para la APN (EDAPS), which defines the quality of the data. It provides the
+foundation for one of the biggest social and fiscal databases in the country, the Public Service
+
+
+                                                    - 13 -
+
+Administration (APN). AFIP, ANSES and RENAPeR have already applied this standard. It has been
+implemented gradually in all other participating agencies, and so is very likely to be sustained. It was found
+to be more efficient to review, validate and approve an existing standard satisfactory to the Project's
+requirements rather than to develop individual standards and impose significant costs on APN.
+
+l Institutional framework particularly regarding privacy of information and confidentiality
+
+
+The government passed the regulations and laws needed to support the activities of SINTyS,
+complementing other national legal provisions governing security and data privacy. The agreements which
+SINTyS entered into with the provincial and national agencies also provided backing. These met the
+requirements for continuing information exchange within the framework and the confidentiality agreements
+at provincial levels. At the national level, all participating agencies are represented in the policy
+coordination committee of SINTyS.
+
+l Design of infrastructure architecture
+
+
+The architectural design of the SINTyS infrastructure has been evolving throughout the Project. The
+continuous change of the architecture was part of the original project design, intended to provide flexibility
+and to show early results on a small scale. With the expansion of the Project, the architecture was modified.
+At present, the web-based access has developed to a level which can be implemented in all agencies. With
+its development, new features were integrated and user access can be controlled centrally while providing
+the same template for all users. It assigns access rights by user log-ins. This architecture is far more
+advanced than originally anticipated. In the future, a fully operable web-based platform available to all
+agencies should be the main goal.
+
+l Agreements of further entities to participate in SINTyS
+
+
+The number of agreements reached exceeds the benchmark for the commencement of Phase II. To date, a
+total of twenty-two Provinces, the City of Buenos Aires, seven municipalities and seventeen national
+agencies are using SINTyS to improve the quality of their data. The project now covers 675 databases.
+
+
+4.2 Outputs by components:
+
+The impacts of the components' implementation and their monitoring improved over time. The monetary
+impact is measured by the one-time periodic (monthly, quarterly etc.) benefits paid through social services
+or the total amount of taxes owed due to underreporting or tax evasion. The amounts are reported by the
+year the inconsistency of the data was identified by SINTyS, not by the collection / payment date. New
+social benefits or the termination of ineligible benefits are effective with a minimal time lag due to more
+transparent criteria, whereas tax collection has to undergo a new assessment of the tax payer, which creates
+a time lag between identification and collection.
+
+The numbers reported do not included the impact of SINTyS on all social and fiscal programs that use
+SINTyS, as some programs do not report back their achievements.
+
+Component A: Improvement of Social Services
+
+The Project's performance in this component is rated Satisfactory.
+
+The objective of this component and its outcomes were defined as: "This component aims to improve the
+
+
+
+                                                     - 14 -
+
+targeting and delivery of social services in Argentina by a better identification of individuals, entities
+and relationships. This would be accomplished by facilitating the interchange of information among
+participating agencies and improving the completeness, accuracy and reliability of agency data through
+cross-validation. As quantity and quality of information available increase, better-targeted social
+programs can be designed and the delivery of benefits can be controlled effectively."
+
+Component A developed a system that allowed national and provincial social service agencies to improve
+their information flows and information management through a verification of their own data against the
+universe of all databases of participating agencies. Through the correction of data, which differs between
+data sets, the agencies are able to adjust the benefits to the individuals or households; increase, decrease or
+eliminate payments; and incorporate new beneficiaries. SINTyS allows agencies to verify data, and report
+back actual monetary impact in their programs due to changes in information.
+
+Outcome of Component A:
+
+Within the social component, the objective was to demonstrate the potential effects of SINTyS on the
+management of social programs. The Component is measured in three areas:
+
+l Effectiveness: Number of newly identified households eligible for social services and transfers.
+l Efficiency: Number of household ineligible for social services or transfers (deceased, multiple benefits,
+    undisclosed financial sources)
+l Amounts saved or additional benefits allocated
+
+
+The impact of this component was substantial. Both the absolute numbers of beneficiaries identified and the
+monetary impact of the efficiency gains (outreach to new beneficiaries) and effectiveness (identification of
+ineligible beneficiaries) in the social sector are multiples of the defined benchmarks and appear to be
+sustainable. In the future, these gains might be expanded if SINTyS published the results of its data
+matching to address the significant variations in the provincial agencies' performance.
+
+Tables 4 and 5 present the development of the actual impact from 2004 to 2005. They differ from Table 2,
+which shows the impact of the years prior to the reporting of the actual monetary impact. The Tables
+consists of four categories of social programs: social transfers and monetary benefits; non-monetary
+transfers and benefits; payments to public employees; and pension and retirement payments. Each category
+is reported on the grounds of changes in: newly identified household / individual; deceased beneficiary;
+recipient of multiple benefits; ineligible because of income, and (v) ineligibility because of wealth.
+
+Effectiveness
+
+The effectiveness assessment measured the number of new households defined through data matching who
+were eligible for social services or transfers but did not receive them. With the steady growth of
+participating agencies and improvement of the algorithm, this benefit can be expected to increase, as this
+passive method relies on input from a large number of databases.
+
+In 2004, 176,523 new eligible households and new beneficiaries of benefits and transfers were defined.
+This number more than tripled in the following year, while the number of participating agencies rose by
+only 25 to 155. This indicates more efficient data matching in 2005. The monetary impact for the new
+beneficiaries increased from US$5.5 million to US$8.6 million in the same period. This relatively small
+increase indicates that the processes to actually change benefits payment requires a certain level of capacity
+in the agencies which needs to be built over time. Table 4 shows the social outcomes.
+
+
+                                                      - 15 -
+
+Moreover, the importance of the impact in the effectiveness in the social sector far is greater than that
+shown in the information generated by SINTyS. One useful example was the integration of SINTyS in the
+monitoring and targeting of several social programs. A total of 17 special social programs use SINTyS
+data to identify and track beneficiaries. However the impact reported does not include the impact of Jefes y
+Jefas de Hogar, which uses SINTyS to cross-check eligibility and to identify conditions that were
+incompatible with receipt of the benefit as the Ministry of Labor does not report back the results. Thus the
+numbers are underreporting the impact of SINTyS.
+
+Table 4 illustrates the development of effectiveness gains over 2004-2005 by different types of data base
+reconciliations. In the area of social transfers and benefits, the number of newly identified households grew
+from 176,000 to 583,000 in this period. Similarly, the number of identified deceased, for whom payments
+were made, grew from just over 2,000 in 2004 to nearly 10,000 in 2005. These increases reflect the
+expanding numbers of participating agencies and continuing improvements in SINTyS' methodology and
+monitoring.
+
+Table 4 Social Outcomes by number of instances (Effectiveness)
+
+                             No., of              No. of              No. of      Percentage of Percentage
+                          Households /         Households /        Households /        total         of total
+                           Individuals          Individuals         Individuals     Monetary        Monetary
+                                                                                      Impact         Impact
+                               2004                2005              Change            2004          2005
+ Social Transfers
+ and Benefits
+New Households               176,523              583,243             330%             36%            33%
+Deceased                      2,378                9,756              410%              4%             6%
+Multiple benefits             11,062              15,860              143%             17%           12%
+Excess income                 11,864              18,305              154%             18%           13%
+Excess wealth                 4,758               14,488              304%              4%           11%
+Subtotal                     206,585              641,652             311%             79%           73%
+Social Services
+New Households                   -                   -
+Deceased                      77,827              125,572             161%              8%            8%
+Multiple benefits               15                 2,400             16000%             0%            0%
+Subtotal                      77,842              127,972             164%             8%             8%
+Public Employees
+Deceased                       152                  26                 17%              1%             0%
+Excess income                   60                  321               535%              0%            1%
+Excess wealth                   189                 10                 5%               0%            0%
+Subtotal                        401                 357               89%              1%             1%
+Pensions
+New Households                   -                   -
+Deceased                        592                2,839              480%              7%            7%
+Excess income                   767                1,040              136%              6%            8%
+Excess wealth                   68                 2,185              3213%             0%            2%
+
+
+
+                                                      - 16 -
+
+Subtotal                        1,427             6,064             425%                14%           16%
+TOTAL                         286,255            776,045            271%               100%          100%
+
+Efficiency
+
+The efficiency of SINTyS was measured in three areas, both with respect to the number of users and the
+impacts of the database updates initiated by SINTyS. Absolute efficiency was measured in terms of the
+total number of underreported deceased, recipients of multiple benefits, and ineligible households. These
+were translated into monetary efficiency through reductions in benefits paid. During the last semester of
+2004, the number of ineligible recipients totaled 109,732 who received unwarranted social benefits
+payments of US$9.8 million. Payments to deceased persons alone amounted to thirty percent of this
+amount.
+
+The proportional increase of the efficiency gains, both in the number of households as well as the monetary
+impact, indicates that the monetary impact is recurrent and correlated to the coverage of the databases
+linked to SINTyS. If the monetary impact were only one-time, with the improvement of the database, the
+average monetary impact would go down, as only new databases would provide the high returns of the first
+year. The number of households identified as ineligible increased by seventy-eight percent in 2005. The
+corresponding monetary impact, shown in Table 5, grew proportionately by seventy-five percent to
+US$17.6 million, while savings attributable to the newly deceased remained at thirty percent. The average
+savings for each identified ineligible household were US$ 91.50, nearly the same as in 2004 (US$ 89.80).
+The absolute amount per household is this low as SINTyS only measured the one-time impact and not the
+cumulative impact over the remaining periods. The underlying reason for the more or less constant level of
+the monetary impact is the dynamics of the relevant data, i.e., due to live events, such as marriage,
+birthdays, and eligibility changes in programs. However the data is not updated automatically, due to the
+independence of the agencies. Thus, a certain percentage of errors is likely to persist.
+
+The analysis in the area of social transfers showed that monetary impact per household fell by fifty percent
+from US$31 to US$14.80. In the area of heads of household, it can be attributed to the significant increase
+in data quality after the first number of data reconciliations, which clarify family relationships. The present
+numbers seem to be associated with recurrent data discrepancies due to real household changes, which are
+only reported to a few agencies.
+
+Table 5 below shows the efficiency outcomes. It shows the actual monetary impact (in US$ terms) directly
+attributable to SINTyS. As noted in the beginning of paragraph 4.1, SINTyS changed its monitoring
+methodology and obtained agreements with the participating agencies to report actual monetary impact
+realized on the basis of database corrections. These changes went beyond the modifications anticipated
+under the Project and have significantly expanded the scope of SINTyS' program benefits. By being able to
+measure actual impacts, SINTyS can now validate effective monetary impact in both the provinces and
+other participating entities. In 2004, the savings obtained from deleting deceased pensioners from payrolls
+exceeded US$1 million. According to SINTyS' figures, this increased in 2005 to US$ 1.76 million. Savings
+of discretionary pension plan payments realized through the discoveries of pensioners' supplemental
+incomes more than doubled from US$937 thousand in 2004 to US$ 1.9 million in 2005.
+
+
+
+
+                                                    - 17 -
+
+Table 5 Social Outcomes by monetary impact (Efficiency)
+
+                                    Monetary Impact in      Monetary Impact in        Monetary Impact in
+                                            US$                      US$                     US$
+                                   January ­ December      January ­ December        Year to Year Change
+                                           2004                      2005
+ Social Transfers and
+ Benefits
+ New Households                                 5,456,132                8,659,276                  159%
+Deceased                                           544,377               1,692,621                  311%
+Multiple benefits                                2,527,869               3,217,644                  127%
+Excess income                                    2,704,519               3,353,022                  124%
+Excess wealth                                      558,226               2,844,850                  510%
+ Subtotal                                      11,791,123              19,767,413                   168%
+ Social Services
+ New Households                                           -                       -
+Deceased                                         1,213,903               2,006,927                  165%
+Multiple benefits                                      716                  77,654                10846%
+ Subtotal                                       1,214,619                2,084,581                  172%
+ Public Employees
+ Deceased                                           77,346                  14,307                   18%
+Excess income                                       49,840                 155,926                  313%
+Excess wealth                                       44,962                   9,567                   21%
+ Subtotal                                         172,148                  179,800                  104%
+ Pensions
+ New Households                                           -                       -
+Deceased                                         1,147,697               1,760,399                  153%
+Excess income                                      937,777               1,997,122                  213%
+Excess wealth                                       51,587                 517,212                 1003%
+Subtotal                                         2,137,061               4,274,733                  200%
+TOTAL SOCIAL                                  15,314,951              26,306,527                   172%
+SECTOR
+
+
+
+In reviewing the Project's accomplishments, it is also important to note that, in addition to the above;
+SINTyS produced other results, which should contribute to increased efficiency and effectiveness in the
+social and fiscal sectors. But it also encountered some limitations, which are discussed below.
+
+l Identification of persons and their family relationships
+
+
+The Ministry of the Interior through the Registro National de Personas (RENAPeR) is maintaining the
+vital records of the country. However the database is not complete due to the reporting mechanism of the
+provinces to the national agencies. The other major databases maintained by AFIP, ANSES and the
+National Electoral Roll each cover a significant subset of the population. However, even when combined,
+
+
+
+                                                     - 18 -
+
+gaps remain. This deficit has been overcome by SINTyS through a sophisticated data validation algorithm
+which uses five unique identifiers (Box 1) and was used to build a consolidated database of persons, which
+is send to RENAPeR for final verification:
+
+Box 1 Unique Identifiers
+
+                   Identifier                                             Source
+ Surname and Given Name                              National Election Registry
+Date of Birth                                      AFIP/ ANSES / National Election Registry
+Gender                                             National Election Registry
+ID number                                          National Election Registry
+CUIT                                               AFIP
+CUIL                                               ANSES
+
+Through the continuous updating of the data, SINTyS was able to build a data collection covering
+thirty-three million individuals as of December 31, 2005. As SINTyS was expected to cover seven million
+(twenty percent of the population) during its first phase and twenty-eight million (eighty percent of the
+population) by the end of the program, it has exceeded its targets. There are still some gaps, though,
+especially about citizens' family relationships in the provinces. Once both databases match, SINTyS will
+be able to rely on RENAPeR's database as the unique identifier of individuals.
+
+l Medical Insurance Coverage
+
+
+Through the verification of information in the integrated social services registry, it is now possible to
+identify duplicate insurance coverage of individuals in public programs. However, the system is not
+designed to identify multiple coverage under private health insurance plans, whose databases are not
+integrated in SINTyS.
+
+l Improvement of Provincial Hospital Services
+
+
+One of the Project's assumptions was that the savings in the health sector would benefit the Provincial
+Hospitals directly, either through increased procedures or increases in quality. The Province of Mendoza
+attempted to collect this data but was unable to use it for this purpose. Reportedly, the provincial hospitals
+financial management database infrastructure proved ineffectual for the task and did not support this effort.
+In general the problem is that these monies were fungible. While the level of service was below demand,
+any savings might be channeled into non-productive investment operations rather than improvement of
+services. Thus any additional resources might not be used in the most important areas. Moreover, to
+monitor the desired improvements, the accounting and database infrastructure of the hospitals would have
+to be upgraded significantly.
+
+l Pension and other Retirement Payments
+
+
+The impact of the reconciliation of pension data and contributions has been far greater than anticipated.
+Underreporting of income or wealth detected through SINTyS was calculated to have amounted to
+excessive pension payments of US$3.5 million from June 2004 to June 2005, much larger than earlier
+estimations suggested. Pensioners' additional payment obligations to compensate for this underreporting are
+calculated to have grown from just under US$1 million to over US$2.5 million within the year, while the
+number of responsible households detected grew from 835 to 3,225. There is some basis for belief,
+
+
+
+                                                    - 19 -
+
+however, that the underreporting was not always fraudulent, partly because of employers' (rather than
+pensioners') failures to report incomes and some persistent systemic errors in the reporting of incomes and
+wages.
+
+l Households Lacking Social Security Coverage
+
+
+The socioeconomic and demographic family registry SISFAM (Sistema Socioeconómico y Demográfico
+de Familias) has been fully integrated into SINTyS and consequently all its beneficiaries are identified.
+SISFAM is a registry to identify individuals and households living below the poverty line through a census
+system. Even though it is a comprehensive system to register all relevant individuals, it is based on the
+voluntary contribution of information from individuals and created manually. Thus it is not complete and
+requires permanent updating.
+
+The system's provisions for reverse reconciliation (persons missing in SISFAM) are imperfect as the other
+databases are even more incomplete and there are still only a limited number of databases available to
+identify non-covered individuals or households. For example, if individuals are not registered in the
+Ministry of Labor's Heads of Household database or capacity building programs, SINTyS cannot detect
+them through SISFAM if they were missed during the census.
+
+SINTyS and SISFMA are working together to improve the data coverage especially though the
+implementation of the social inclusion card in conjunction with the CNCPS to make the process more
+dynamic.
+
+l Benefits to Deceased
+
+
+The problem of continuing payments to the deceased was one of the major reasons for creating SINTyS.
+However, it was recognized that the financial sector would need considerable time before it could report
+dormant pension accounts or identify accounts maintained by survivors. Nonetheless, SINTyS directly
+impacted these unwarranted expenditures by identifying individuals reported to be deceased in other
+registries, enabling agencies to terminate their payments.
+
+l Recipients of multiple social services for the same purposes
+
+
+Due to the considerable autonomy of the provinces and agencies, along with complex guidelines for
+receiving individual benefits, it had been impossible to prevent multiple coverage. With the standardization
+of the various social service categories and benefits, together with standardized data sets and automatic
+data reconciliation, a nearly complete verification is now possible. Also, it is now clear which agency is
+responsible for the continuation of payment and can terminate benefits.
+
+l Social Programs Expansion
+
+
+Since the beginning of the Bank-supported Jefes de Hogar project, it was possible to identify 300,000 out
+of an average 2 million individuals who were paid the benefit at least once. Of 40,000 new applications in
+2004 for other social programs, SINTyS was able to identify seventy-seven percent as ineligible for a
+variety of reasons. This collaboration is significant as it indicates the potential of the government to
+improve the targeting of social programs and prevent payments to ineligible beneficiaries.
+
+Component B: Improved Fiscal Efficiency
+
+
+
+
+                                                    - 20 -
+
+This component's performance is rated as Satisfactory.
+
+The objective of this component and its outcomes were defined as: "This component aims to decrease the
+number of unregistered potential taxpayers and the level of evasions through incorrect tax returns,
+increasing voluntary compliance through an increased perception of risk of evasion detection. As in the
+previous component, this would be accomplished by facilitating the interchange of information from
+participating agencies and improving the completeness, accuracy and quality of agency data through
+cross-validation."
+
+SINTyS has enabled national and provincial tax administrations to access property and employment
+databases across the nation to verify taxpayer information. Through the identification of employment
+reported in other provinces or through the social security contributors' databases, and the identification of
+moveable and immovable assets and income from self-employment in other parts of the country, significant
+numbers of new taxpayers were identified and tax payments increased.
+
+Outcome of Component B:
+
+Within the fiscal component, the objective was to demonstrate the potential effects of SINTyS on
+increasing tax compliance and identifying new taxpayers, through identifying assets and income in different
+states in significant numbers and over a significant period.
+
+Effectiveness
+
+The effectiveness of SINTyS was measured by the number of newly identified taxpayers, most of which
+concerned motor vehicle taxes. The previous imperfect vehicle registration systems did not automatically
+verify the status of tax obligation payments. By contrast, SINTyS has enabled linking motor vehicle
+registration agencies with revenue data to verify payments and registrations. Another area of success was
+the detection of underreporting of income taxes in cases of multiple income sources.
+
+The number of individuals and firms underreporting income was found to be far greater than expected. In
+2004, a total of 55,521 new taxpayers were identified. This number increased considerably to 170,625 in
+2005. However, the verification of new taxpayers by the agencies and the subsequent collection of
+additional revenues had the opposite trend and dropped from 40,250 in 2004 to just 1,442 in 2005. This
+decline can be attributed to the due diligence in the area of tax audits, which is much higher and requires
+significantly more time than in the area of social services. Thus the additional revenues will most likely
+only be realized with a natural lag of up to one year.
+
+Additional Revenues (Efficiency)
+
+In contrast with the monetary impact realized in the social sector, where monetary impact freed resources in
+approved budgets, additional revenues obtained from the fiscal component provide real additional resources
+for ongoing budgets. These funds had not been budgeted for and reduced fiscal burdens through additional
+revenues. In 2004, the total additional revenues from newly identified taxpayers amounted to US$5.7
+million (ref. Table 6). The following year, it fell to US$1.9 million; a still substantial sum, but only likely
+to be realized during 2006. It should be noted, in this connection, that the figures in Table 6 differ from
+those in Tables 1 and 2 because of coverages of different periods. Also, detailed breakdowns the different
+social programs have only been available for 2004/2005.
+
+
+
+
+                                                     - 21 -
+
+Table 6 Fiscal Outcomes
+
+                Benchmark                       2004            2004            2005             2005
+ Potential Total Additional Tax Revenues        New          Additional         New           Additional
+                                             Taxpayers Revenues in US$ Taxpayers Revenues in US$
+ New Taxpayers                                  55,521            5,732,406    *170,625           1,990,003
+Underreporting                                                                                    1,368,509
+Outstanding Taxes                                                                11,785             348,095
+ Total Fiscal Sector                            55,521            5,732,406     182,410           3,706,607
+ Actual Total Additional Tax Revenues**         New          Additional         New           Additional
+                                             Taxpayers Revenues in US$ Taxpayers Revenues in US$
+ New Taxpayers                                  40,250            5,319,032      *1,422             103,076
+Underreporting                                                                                        74,215
+Outstanding Taxes                                                                 1,065               24,703
+ Total Fiscal Sector                            40,250       ***5,319,032 ***2,487                 201,994
+* Numbers of new taxpayers vary from the figures shown in Table 2 because of the time lag in agencies
+reporting on fiscal outcomes
+** Tax revenues shown here are smaller than those shown in Table 2 because of the same lag.
+*** Temporary estimates, pending verification of the number of identified taxpayers, also reflecting the
+reporting lag.
+
+The identification of underreporting of taxes and taxpayers in default was made possible in 2004, through a
+broadened classification system and improved quality in identifying individuals in the unified database. In
+2005 the combined potential monetary impact of both (row two and three) reached US$1.7 million. It is
+expected that these numbers will be rather stable as underreporting of taxes and defaulting on tax payments
+are recurrent systemic problems.
+
+Component C: Institutional Framework, Infrastructure and Common Services
+
+This component's performance is rated as Satisfactory.
+
+The objective of this component and the outcomes were defined as: "This component will provide the
+enabling legal and technology infrastructure within a comprehensive institutional framework to address
+the need for a sustainable, systematic and efficient information interchange environment. It will also
+provide the certification necessary for the identification of people and legal entities to establish a
+framework that guarantees information confidentiality and privacy. Existing institutional arrangements
+and technology will be used, including current data formats and protocols, so as to demonstrate benefits
+readily and to retain the main purposes of these arrangements.
+
+SINTyS developed a technical infrastructure capable of reliably verifying and reconciliation databases
+across agencies. The present stage of development is a fully functional version of a web based system to
+allow real time access to SINTyS. In developing the system, SINTyS provided technical assistance to
+participating agencies in order to upgrade their database standards and security to ensure the integrity of
+
+
+
+                                                   - 22 -
+
+the databases and data transmission as well as investments in information technology. Part of this activity
+was the creation of a technical advisory committee integrated by SINTyS, with ANSES, AFIP and
+RENAPeR representatives to improve data and security standards and avoid duplication of efforts.
+
+Outcome of Component C:
+
+In the course of the implementation of SINTyS, it was possible to transform the project from an ad hoc
+data management tool to a fully integrated, automated system with high standards in data transmission
+security. Especially in the last phase of the Project, security, access to data, and operational continuity were
+improved. With the assistance of the Public Investment Secretariat, the Project helped strengthening the
+overall coverage and quality of the ISP in the country.
+
+The institutional framework activities have had an especially important impact in addressing problems of
+fraud in the country. Mendoza Province and a number of the national agencies are seen to be more strictly
+monitoring their programs, thanks to SINTyS and the improved ability to better target their programs. One
+of the milestones was the new requirement that all provinces participating in the fiscal responsibility pact
+had to adhere to SINTyS.
+
+Component D: Management of the System
+
+This component's performance is rated as Satisfactory.
+
+The objective of this component and its outcomes were defined as: "This component will develop and
+implement the structure and processes which will be used initially to control the execution of the project
+and eventually to manage the on-going SINTyS program which will ensure that the benefits from the two
+substantive components will continue to be derived. This would include inter-jurisdictional coordination
+and legal agreements."
+
+Significant developments included the negotiation of agreements entered into with participating agencies to
+allow SINTyS to manage the data reconciliation and defining access rights of the various agencies. In
+addition to the original goal, the SINTyS management enhanced the agreements by requiring the agencies to
+verify the administrative steps performed following data crossing and reporting of the actual monetary
+impact generated due to the correction of the data. Also, SINTyS management worked together with the
+project administration to ensure the "ownership" of the participating agencies and the Project's
+responsiveness to provincial and national concerns.
+
+Outcome of Component D:
+
+The system management team implemented the first functioning of SINTyS during the first two years, and
+improved it thereafter. Most important, it managed to develop a system that fit and was successfully
+adapted with the institutional framework, and helped shape it within a secure environment. One of the
+largest efforts, and probably the most important one for the desired impact, was the data coding exercise.
+This allowed the communication of databases without compromising their integrity.
+
+It proved, not to be possible to create the "master-database" which some in the government was proposed
+that would have contained all tax and social data. Fortunately, this idea was dropped since it hurt SINTyS'
+credibility. Even though the data codes were standardized at one point, eligibility criteria differed and the
+agencies insisted on their ownerships of the data. Another error was the proposed reconciliation with the
+ANSES database, which would have caused the cancellation of all benefits of individuals in the dataset for
+
+
+                                                      - 23 -
+
+a short period. SINTyS' quality management detected this potential problem and rectified it immediately.
+
+Component E: Project Administration
+
+This component is rated as satisfactory.
+
+The objective of this component and its outcomes were defined in the PAD as: "This component will
+provide the administrative, accounting and other services that will support the execution of the project."
+
+In addition to the overall relatively successful administration of the Project and its accounting, the project
+administration contributed significant value by garnering the necessary political support for SINTyS.
+
+Outcome of Component E:
+
+In the first years, the project administration performed generally satisfactorily and activities were
+implemented in line with the agreed execution plan. However, capacity problems later caused slight delays,
+which fortunately were not significant, enabling the Project to achieve the majority of its targets on a timely
+basis. During the Project's later stages, it was adversely affected by several shocks, notably the Argentine
+fiscal crisis in 2001/2002. This caused government wide restrictions on spending, which slowed the
+implementation of many activities in the country. Subsequently, though, there were renewed energetic
+leadership and stronger government support. This and SINTyS' dedicated team enabled the Project to make
+further progress.
+
+Summary
+
+Phase I of SINTyS exceeded its objectives. It successfully demonstrated the benefits of comprehensive
+information exchange based on relatively advanced modern technology. It thereby won the participation of
+a sufficiently substantial number of entities to establish consensus for widespread buy-in to the concepts
+and benefits. National and provincial agencies now actively seek SINTyS' support to monitor their social
+spending and rationalize their beneficiaries. They still remain in command of the ultimate decisions about
+the efficiency, effectiveness and impacts of their social services. But, by demonstrating the considerable
+potential monetary impact in these activities, SINTyS has created incentives for them to take the steps
+needed to realize the monetary impact. The Project also demonstrated a useful mechanism for improving
+the efficiency and effectiveness of social sector programs and fiscal administrations, which can be used to
+strengthen their managers' tools and decision-making.
+
+There were substantial accomplishments on the institutional side as well as on the technical aspects. The
+Project promoted and helped effect the basis for institutional changes, most prominently the integration of
+monitoring and evaluation into social policy making and perhaps set landmarks for data privacy.
+Inter-agency collaboration was boosted, notably crossing federal-provincial boundaries. The Project also
+demonstrated useful opportunities for and methods of improving the transparency of and accountability for
+costly and wide-ranging public services.
+
+In addition, SINTyS received a commendation at the United Nations World Summit on the Information
+Society in November 2005, in the e-government category.
+
+4.3 Net Present Value/Economic rate of return:
+It is rather unusual for a technical assistance operation in the public sector to achieve verifiable, monetary
+results. However, since its change in methodology, SINTyS is able to verify actual monetary impact in the
+
+
+
+                                                    - 24 -
+
+participating agencies. The agencies now monitor the actions taken due to discrepancies in their databases
+highlighted by the SINTyS data reconciliations. This enables the checking of errors and reconciliation of
+data discussed in paragraph 4.1, which can identify their consequences in monetary terms.
+
+Based on the data provided, the total verified monetary impact of Phase I through December 2005 were
+US$130.5 million. Taking into account a moderate six percent interest rate, the net present value of the
+operation to date would then be US$106 million, an impressive result.
+
+The economic rate of return is not possible to calculate.
+
+4.4 Financial rate of return:
+In 2001, when the Project was scheduled to have closed, its financial rate of return already exceeded the
+benchmark significantly. Loan disbursements at the end of 2001 amounted to US$6.54 million. The
+potential monetary impact was US$134 million. These results would provide a potential rate of return of
+1472% for the first three years of operation.
+
+Calculating the rate of return over the total span of project implementation, the results are similarly
+impressive, even when using the verified monetary impact and not the potential ones. In the years following
+the initiallly targeted completion date, the Project invested the remaining US$3.46 million of the Loan.
+During the following years, the estimated actual monetary impact totaled US$130.5 million (ref. Table 2).
+This results in an estimated internal rate of return of 1713%.
+
+4.5 Institutional development impact:
+The Project's institutional development impact was Substantial in its contribution to the improvement of
+the government's ability to make more effective use of its human and financial resources. Moreover, it did
+so with respect to several different institutions, in addition to the program's own organization.
+
+SINTyS can be perceived of as a system since, it provides a framework and methodology for information
+sharing, verification and their applications. However, it also developed into an institution per se which,
+with the Project's assistance, was created, tested and became viable and strong. Its work and the wide range
+of its influence on other entities in Argentina's public sector, have provided new, valuable instruments for
+upgrading the country's uses of its manpower and financial resources, These originated with the
+government's decrees creating SINTyS and requiring legal asset transactions to be identified through the
+Unique Labor Identification Number (CUIT), Unique Tax Identification Number (CUIL), or Individual
+Identification Number (DNI).
+
+The Project's institutional development impact also directly affected the now 17 major national social sector
+and fiscal agencies, which elected to participate in SINTyS. This resulted from the SINTyS­agency
+agreements defined under this Project. The resulting arrangement has significantly improved the
+performance of their core tasks: providing country-wide services and managing revenue collection functions
+potential for better with very important benefits for their public finance responsibilities. The Project can be
+credited with enriching these program's data mechanisms, security provisions, user guidelines, privacy
+rules, database norms, etc.
+
+Furthermore, the previous paragraph's contents also apply to 22 provinces and their agencies and others
+who are participating in the program, thanks to the numerous inter-governmental collaboration and
+SINTyS' technical assistance arrangements.
+
+5. Major Factors Affecting Implementation and Outcome
+
+
+
+                                                       - 25 -
+
+5.1 Factors outside the control of government or implementing agency:
+Financial crisis: The financial crisis at the end of 2001 created difficulties which limited the resources
+needed for the project's implementation.
+
+5.2 Factors generally subject to government control:
+Political and macroeconomic instability: Argentina's unstable political and macroeconomic environment in
+the early years of implementation was a negative factor. Political instability caused frequent changes in the
+Project's administration.
+
+Lack of continuity in project management Project implementation was affected by frequent managerial
+changes. In addition to the changes in the project administration's leadership, the Project was transferred
+from the Jefatura de Gabinete de Ministros to the Consejo Nacional de Policías Sociales, which had
+mixed results. Towards the end of the implementation period, this change caused SINTyS lo lose some
+political support.
+
+Absense of budget: During 2001, there were political quarrels resulting in the government's not allocating a
+budget for the Project's implementation, which raised concerns about its operations.
+
+5.3 Factors generally subject to implementing agency control:
+Lack of continuity of the administration: During frequent changes of leadership, the strategy of the Project
+administration changed with every administrator. This caused some disruption in implementation. Some of
+the changes, however, were beneficial with the fresh ideas of the new administrations, often constructive in
+nature.
+
+Uneven political support: The project administration's main task was to ensure political support for the
+project. This required consensus building, and good presentation of the project to the relevant interest
+groups and players. The administrators were not uniformly good at building this support, and especially in
+the early stages, this part of the job was neglected, resulting in a slow pace of consensus building.
+
+Continuity of the Program: The program went through a number of stages in which its continuity was
+threatened (e.g., by the financial crisis, political changes, difficulties in maintaining consensus, data sharing
+issues.) But with the help of Bank intervention, this problem was solved.
+
+5.4 Costs and financing:
+Phase I of SINTyS was supported by a US$10 million loan from the Bank and the government was
+expected to contribute US$2 million. Ultimately, the Project was financed with US$ 10.44 million,
+including US$0.44 million from the Borrower. Under the agreed arrangements, the Bank transferred its
+disbursements into special accounts of the UNOPS, which acted as an agent for the government on all
+procurement actions.
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+The sustainability of SINTyS is deemed likely.
+
+The benefits of information exchanges have been demonstrated to potential stakeholders, who have clearly
+moved to install and draw on its methods in order to derive the aforementioned gains. In addition, the
+"demonstration" phase of the program has also clearly won the participation of enough provincial as well
+as national entities to establish broad national consensus and momentum for even wider buy-in to SINTyS'
+concept and benefits. As indicated, participating agencies are already generating substantial actual
+
+
+
+                                                       - 26 -
+
+monetary impact or additional revenues through the system. The Province of Mendoza has requested the
+full implementation of SINTyS in all provincial and municipal agencies. Virtually all provinces have
+entered into operating agreement with SINTyS, far more than the forecast number. The government, after
+the fiscal crisis, obligated all provinces participating in the fiscal responsibility pact to adhere to SINTyS.
+
+Moreover, the program's legal framework has been bolstered; its access rights issues are resolved, and its
+initial ad hoc, basic methodology has been fortified and raised to higher standards with the move to the
+Internet-enabled technology infrastructure. These advances provide strong signs of further demand for the
+program.
+
+In addition, it appears evident that the SINTyS organization itself is mature and here to stay. To be sure, it
+still needs to be institutionalized even though it is a fully on-going, and relatively independent entity.
+SINTyS has not yet been given a firm place in the government structure or assurance of solid political
+backing, continuing budget support and career staff. However, the present administration has indicated that
+it expects to incorporate the organization into the government's framework, absorb a portion of its
+personnel in the government's regular staff, and to lessen its dependence on external financing. These
+signals are considered to be supportive.
+
+The Bank's CAS for 2006-2008 includes provisions for a followup APL second phase to help support this
+development. Originally, SINTyS institutionalization was to be achieved in the third phase of its program.
+But now the government intends to advance this process. It has informed the Bank that it will start
+financing 30 percent of the staff with its own resources.
+
+6.2 Transition arrangement to regular operations:
+The Borrower has already moved SINTyS' implementation into the expansion phase. It began this, as
+noted, with funds available from the APL first phase. Now, it is advancing that process under the existing
+State Modernization Program loan (AR-4423). This will permit the partial utilization of some of the
+savings that were generated as a combined result of the reduction of the scope of the State Modernization
+Project and the impact of the Argentine peso devaluation. This will provide an estimated US$8 million,
+which should ensure SINTyS the necessary funds to proceed with the inmediate priorities of the second
+phase, which the government is eager to more forward, without implementation interruptions.
+
+The measures to be taken are intended to make substantial strides towards inserting SINTyS permanently
+in Argentina's public sector at national and provincial levels, an objective that will be consolidated during
+Phase III. On this account, an APL II has been included in the lending program for the new 2006-2008
+CAS.
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+The Bank's performance in lending is assessed as satisfactory.
+
+Its work during the loan preparation stage was of very high quality. As a result, the Project strategy and the
+selection of lending instruments were very appropriate for addressing the issues. The assessment of
+different project alternatives was balanced and its conclusions well justified. Technical, financial and
+economic aspects were properly analyzed. The fiduciary elements and implementation provisions were
+adequate. The different risks were properly identified and the mitigation measures were appropriate for the
+circumstances.
+
+
+
+
+                                                       - 27 -
+
+These were important factors for addressing the types of changes which the government sought in order to
+attain the Project's objectives. It also was instrumental in enabling the newly created SINTyS organization
+to successfully overcome in large part the numerous impediments which it faced in mobilizing and initiating
+its program, that are elaborated in Section 3.5 of this Report. This assistance proved to be critical for this
+fledgling unit's accomplishments. It also was salutary in the avoidance of large, long-term investments and
+providing flexibility for containing possible risks.
+
+The Bank's assistance helped the government initiate the Project on a timely basis in response to its priority
+needs. This was especially useful as, notwithstanding the widespread concerns about fraudulent social
+sector practices and tax evasion, support in Argentina for addressing these problems was limited.
+Moreover, the lack of appropriate local or international technological models and legal and institutional
+foundations complicated the design of a workable, durable mechanism. In addition, the Bank's assistance
+was somewhat distinctive in departing from some relatively standard Bank practices in technical assistance
+projects. This applied particularly to the Project's sequencing and the relationships of national and
+provincial entities.
+
+7.2 Supervision:
+Overall the Bank's supervision of this operation is rated satisfactory.
+
+Initial project supervision was characterized by very intensive technical assistance. This was necessary as
+the government did not have the required capacities for mobilizing the national and provincial agencies to
+participate in SINTyS and to engage in its collaboration requirements. The Bank team was able to lay out a
+broadly acceptable vision and goal for potential users during the negotiations carried on over the first year.
+The Project was launched satisfactorily on the technical side during this period as well, considerably thanks
+to the Bank's technological and communication skills.
+
+Over the implementation period, the Bank supervised the Project at least once every year with suitable
+teams. They identified project issues and difficulties on time, and kept both Bank management and key
+agencies such as the Ministry on Economy and Production and the Chief of Cabinet properly informed. It
+was a very good practice of the Bank team during most of the implementation period to reflect the project's
+ratings in the Aide Memoires, which also alerted the implementing as well as other key agencies on the
+Project's progress and issues. With such quality effort, problems were identified in time and dealt with
+constructively. On this and other occasions, the Bank team obtained the support of Bank managers, the
+CMU and the procurement staff. In addition, every time problems arose, the Bank team agreed with the
+Borrower on remedial action plans with clear targets and time frames. This made it much easier to resolve
+these issues.
+
+The Bank team's flexibility in dealing with the requests for Closing Date extensions was particularly
+beneficial. New project targets were defined for each extension. With these actions, the Bank team played
+a key role in keeping this project moving forward, even during the period in which Argentina was going
+through very difficult times.
+
+In addition, the Bank's team's successful agreement with the government on coordinating the task
+management of this project and ANSES-I (Loan No. 4131-AR) was a key factor during project supervision
+in obtaining support from ANSES in providing access to its data bases. This was significant since ANSES
+manages up to 40% of Argentina's social sector budget and is responsible for paying pension and other
+social benefits. This coordination was also helpful for the Social Protection IV Project.
+
+7.3 Overall Bank performance:
+
+
+
+                                                    - 28 -
+
+The Bank's overall performance was satisfactory.
+
+ During project preparation, highly qualified teams were put together, good assessments were made of key
+issues, proper risks were identified and appropriate measures set to mitigate them.
+
+Following a Bank team leadership change, its focus turned to improving the institutional framework and
+advancing the system beyond the demonstration point. When political support for the project was waning,
+the team managed to help reignite interest in SINTyS.
+
+Throughout the Project's implementation, the Bank's teams provided timely and effective interventions to
+assist the Borrower. Simultaneously, they were also very good at building and maintaining a positive
+partnership with the client, although there were some very difficult issues that had to be dealt with. One
+was SINTyS' use of a large number of individual consultants, which was particularly troubling since it
+caused problems of supervision (and other factors which the presence of a firm might have eliminated).
+Fortunately, however, an agreement has now been reached. This is important since it involves a substantive
+issue ­ the role and size of PIUs ­ on which Bank and government policy are both moving towards a major
+change from past practices.
+
+Overall, however, there were collaborative relationships, which reflected the Bank team's effective dialogue
+with the authorities. It was also instrumental in helping to build the consensus that was necessary to keep
+the Project on target and the overall program moving. That was very important in enabling the government
+to fully implement a politically charged activity and achieve significant progress in the social and fiscal
+sectors.
+
+Borrower
+7.4 Preparation:
+The Borrower's performance during preparation was satisfactory.
+
+It helpfully contributed from the outset by its 1998 act, which established SINTyS and its decree in the
+same year which required all legal asset transactions to identify their participants through the CUITS,
+CUIL and CDI numbers. It also provided for the creation of a SINTyS manager in the national Social
+Security Administration.
+
+The government secured the support of a major province (Mendoza) and assisted in the engagement of the
+participation of the major national social sector agencies. Moreover the government identified synergies
+between ANSES and SINTyS and advanced both projects concurrently.
+
+The government team which helped prepare the project was of high quality and technically very competent.
+With these skills, it actively participated in the definition of the strategy of sharpening information sharing
+as a key step towards improvements in the social and fiscal sectors. It fully grasped SINTyS' potential and
+possibilities.
+
+7.5 Government implementation performance:
+The government's performance was uneven, but satisfactory as a whole.
+
+Over the course of project implementation, the several administrations in office displayed waning degrees
+of support for its advancement. This was true at a particularly low level in 2001-2003, when, as in the case
+of other Bank-supported projects, Argentina's economic, social and political conditions were not conducive
+for external investments for reforms. At one point, the SINTyS budget was basically eliminated in the
+
+
+
+                                                      - 29 -
+
+wake of the financial crisis, which caused resource shortages.
+
+Fortunately, these problems did not derail or deter the satisfactory completion of the Phase I objectives,
+thanks to progressive improvements in a number of areas, and dedicated managerial and technical support
+by the implementing agency. Moreover, during the past few years, the newly elected administration
+strengthened SINTyS' role and incorporated it in the current State Modernization agenda. It directly
+bolstered its support of the program, partly thanks to the efforts of the policy committee coordinating the
+program and the adoption of several new national rules regarding SINTyS' activities. Also, the authorities
+backed SINTyS' advancement with a number of key legal and institutional changes. Particularly valuable
+was its request that the provinces' signing the fiscal sustainability pact adhere to SINTyS.
+
+7.6 Implementing Agency:
+The Implementing Agency's performance is assessed as satisfactory. Throughout Phase I, its commitment
+to the program's objectives was strong, and its participation in project preparation was spirited and of good
+quality. SINTyS' staff consistently understood the basic problems, and showed considerable skill and high
+professional capacity in helping to resolve them.
+
+The Bank and SINTyS agreed on detailed indicators for all additional activities throughout Project
+implementation. For every activity, a baseline was determined and a problem analysis carried out. In
+addition, benchmarks for the next six months were determined, as well as a review conducted of the
+previous six months progress.
+
+Unfortunately, SINTyS had five different coordinators, whose contributions were uneven but generally
+helpful because of their varied skills. The organization tended to be overly cautious and reluctant to use
+simplified procurement procedures, opting instead for ICB methods. During the later phase of project
+implementation, SINTyS installed a good monitoring system, a new methodology to evaluate "real impact"
+and a strategic plan for expansion, which were agreed with the Bank. SINTyS also displayed good
+initiatives during project implementation. In addition to its change in methodology on calculating benefits,
+after SINTyS learned that the provinces were unable to exchange information on legal entities and land
+properties, it provided for technical assistance to help improve the provinces' databases.
+
+7.7 Overall Borrower performance:
+The overall performance of the government during Phase I is rated satisfactory on balance.
+
+8. Lessons Learned
+
+1.       Previous Bank-supported projects in Argentina had indicated potentially high benefits from
+crosschecking information contained in assorted government databases, resulting in significant monetary
+impact by detection of fraud and misallocations. SINTyS built on these earlier successes by generalizing
+data exchanges across levels of government in a sustainable manner.
+
+2.       The Project was successful in obtaining working agreements and cooperation among entities
+generally unaccustomed to working together at technical levels.              This was abetted by SINTyS'
+demonstration that it could provide a helpful information "trading platform," require only minimally
+invasive changes, and involve low transaction costs. By documenting measurable and real results, SINTyS
+also generated interest in its function and the support of the participating agencies and others. The Bank's
+performance of the role of an "honest broker" among the agencies also facilitated the inter-institutional
+collaboration.
+
+
+
+
+                                                     - 30 -
+
+3.       In an unclear, exploratory situation, it is useful to start small, focusing first on demonstrating early
+wins, establishing the credibility of the overall program, and preparing the groundwork for later, more
+substantial investments. The design for this initial activity should also provide sufficient flexibility to deal
+with unexpected developments and/or permit pursuing unanticipated benefits.
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+The following is a summary of the statement provided by SINTyS in its assessment of the results
+of the Project:
+
+SINTyS has been a very valuable decision-making tool for various government agencies,
+facilitating more efficient management, creating a culture of openness and information exchange,
+and building the foundation for cooperation among national, provincial and municipal agencies.
+
+The first stage of the APL exceeded significantly the planned goals. During this first phase, a
+normative and technological framework was designed to overcome the disparities and
+fragmentation of social and fiscal information in Argentina. With it, the protectionism of the
+agencies' databases was opened up once the gradual introduction of information exchange
+established the need for information sharing between the various jurisdictions to ensure quality
+information.
+
+During the project implementation, it was beneficial to separate the two administrative
+components of the project: the project administration and the technical implementation and
+operation of SINTyS.
+
+Exceptional results were made possible among others by:
+
+·        Strong political support from the authorities of the National Council of Coordination of
+Social Policies and of the highest national authorities
+·        The strong acceptance of the concept of information exchange by all levels of the public
+sector, technical experts and the participating national and provincial agencies
+·        The proactive development and implementation of a strategy of problem diagnosis in the
+areas of access and information exchange and quality of information, as well as demonstrating the
+benefits of the progressive use of the system.
+·        The protection of privacy principles and confidentiality of information
+
+During the next phase of operations, it is expected that the results achieved thus far will increase
+through the implementation of a virtual network of the participating agencies, allowing a complete
+elimination of the barriers to information exchange. SINTyS will continue the strategy of
+decentralization into the provincial and municipal levels through the creation of Regional
+Coordination units functioning as nods between the provinces and municipalities, and as an
+intermediary to the central SINTyS. Finally, SINTyS will be integrated in the overall public sector
+as an independent agency.
+
+Comments in Spanish
+
+
+
+                                                      - 31 -
+
+El SINTyS ha sido una herramienta muy valiosa para la toma de decisiones de los distintos organismos que
+conforman el Estado Argentino, facilitando una gestión más eficiente, creando una cultura del intercambio y
+sentando las bases para una interoperabilidad entre organismos nacionales, provinciales y municipales.
+
+Surgió en el año 1998 como una iniciativa del Estado, para superar la desarticulación y fragmentación
+existente entre las distintas bases de datos de los organismos públicos de las distintas jurisdicciones del país,
+y bajo la premisa que sin un sistema adecuado de identificación de personas y sus atributos sociales y
+fiscales, los organismos encargados de la administración de las políticas públicas, no contaban con
+información suficiente para realizar evaluaciones, con los consiguientes riesgos de otorgar beneficios a
+aquellos que, en realidad, no lo necesitaban y que no tributen quienes deberían hacerlo.
+
+De esta forma el SINTyS se pensó como una herramienta del Estado Nacional, Provincial y Municipal para
+favorecer la gestión de los organismos, proporcionando el marco (tecnológico y normativo) para que los
+organismos colaboren en la formación y mantenimiento de una red de intercambio de información
+compartida que sustente la administración de información confiable y oportuna, con herramientas y métodos
+para asegurar niveles de seguridad de acceso, privilegiando la confidencialidad y privacidad de los datos
+administrados.
+
+La meta específica del SINTyS­ a partir de la coordinación del intercambio de información de personas y
+sus atributos sociales y fiscales entre los distintos organismos- es lograr que los datos registrados en las
+distintas bases nacionales, provinciales y municipales existentes, provean una identificación uniforme y
+homogénea de las personas físicas y jurídicas con sus atributos tributarios y sociales, a los fines del
+intercambio.
+
+Su diseño fue bien concebido en tres etapas - demostración, expansión y consolidación -. Durante la fase de
+demostración (Fase I) el proyecto debía probar que el intercambio de información entre organismos del
+Estado era factible, es decir que el concepto por el que fue concebido era válido.
+
+Este desarrollo paulatino le ha dado flexibilidad, permitiendo que el proyecto no fracase, teniendo en cuenta
+la inexistencia en el país de una cultura del intercambio de información.
+
+La primer etapa que concluye ha sido significativa superando ampliamente las metas establecidas.
+
+En el desarrollo de esta fase se diseñó un abordaje normativo y tecnológico, teniendo en cuenta las
+disparidades y fragmentación de la información en la Argentina.          A su vez se venció la cultura de
+organismos con base de datos estancas, ya que el intercambio paulatino derivó en que éstos se dieran cuenta
+que es necesaria la comunicación entre las diferentes jurisdicciones para obtener calidad en la información.
+
+Fue necesario consolidar internamente entre los ejecutores del proyecto y hacia afuera -- - entre los
+funcionarios involucrados -, las bondades y efectos de las herramientas ofrecidas por el proyecto. De esta
+forma ha sido necesario ir ganando apoyo progresivo de cada uno de los organismos mediante la
+demostración de los resultados que podrían obtener a partir del acceso a un sistema de intercambio de
+información de personas.
+
+Progresos Destacados durante Fase I
+
+Se ha creado una masa critica de actividad y se han demostrados beneficios sustanciales de la participación
+en el programa por parte de los organismos del Estado. Durante la Fase I, los beneficios de SINTyS han
+
+
+                                                      - 32 -
+
+excedido en forma significativa las expectativas originales, ascendiendo a aproximadamente US$130
+millones con un costo de implementación de sólo US$10 millones.
+
+Entre los principales resultados destacamos:
+
+l Diseño de un marco normativo idóneo para su más eficiente y eficaz desenvolvimiento, teniendo en
+    cuenta su desarrollo a nivel federal y el carácter privado de la información y la confidencialidad.
+l Diseño e implementación de un marco tecnológico acorde, sobrecumpliendo las metas previstas en este
+    sentido para la Fase I y las condicionalidades para comenzar la fase II ­ de hecho, se llevó a cabo la
+    primera interconexión en línea con las provincias de Mendoza, Salta, Santa Fe y Jujuy, concretando la
+    primera descentralización territorial de los servicios de intercambio de información- .
+l Reconocimiento de los principales problemas para un intercambio fluido de datos en el plano
+    tecnológico y de competencias entre organismos. Esto incluye el establecimiento de estándares de datos
+    y algoritmos para el intercambio, definición de niveles de acceso de acuerdo con la competencia de cada
+    organismo y de pautas de seguridad para el acceso a la información.
+l Consolidación de una base de datos de registración de personas ­ 33 millones -, que toma los registros
+    más confiables de las personas de los principales padrones del país (AFIP/ANSES/ Padrón Electoral),
+    validando cada dato de indicación con el padrón más confiable para el origen del mismo, a fin de
+    superar la restricción de contar con información unívoca de personas para el sistema de intercambio.
+l Desarrollo de un aplicativo denominado Ventanilla Unica de Organismos (VUO), a fin de permitir la
+    consulta en línea de las personas identificadas unívocamente y sus atributos, con un esquema de
+    seguridad idóneo para garantizar su correcto funcionamiento.- .
+l Adhesión de 22 provincias y el Gobierno de la Ciudad Autónoma de Buenos Aires. 22 Acuerdos con
+    Organismos Nacionales y 7 Municipios a lo largo del país.
+l 155 entidades gubernamentales que participan del SINTyS, entre las que se encuentran 35 entidades a
+    nivel nacional (incluyendo AFIP, ANSES y RENAPER) y 120 entidades a nivel provincial - de las
+    cuales 7 corresponden a entidades de nivel municipal -.
+l 4 provincias (Mendoza, Salta, Santa Fe y Jujuy) ya tienen establecidas unidades coordinadoras
+    provinciales (UCPs) para comenzar con el proceso de descentralización del SINTyS a realizarse durante
+    la Fase II. Asimismo, se celebró el primer acuerdo con un organismo nacional, la Secretaria de Políticas
+    Sociales y Desarrollo Humano de la Presidencia, para permitir la interconexión en línea entre las partes
+    prevista en la próxima fase de operación.
+l Integración de 659 Bases de Datos de Organismos Nacionales, Provinciales y Municipales acumuladas
+    a diciembre de 2005, que posibilitan la colaboración con el Poder Judicial, dando respuesta a 274
+    oficios judiciales solicitando solicitan información de personas y la realización de 1.202 servicios de
+    intercambio de información acumulados al mes de diciembre de 2005, relacionados con:
+
+l Validación de Personas y del CUIT/CUIL/CDI
+l Supervivencia;
+l Pluricobertura de Programas Sociales y Jubilaciones y Pensiones;
+l Elegibilidad de Beneficiarios para Programas Sociales y Jubilaciones y Pensiones;
+l Localización Geográfica y Domicilios;
+l Cobertura y Pluricobertura de Salud;
+l Verificación de Situación Laboral (Empleo Público y Privado) y Pluriempleo;
+l Detección de Actividad Económica, Chequeo de Base Imponible y Segmentación de Contribuyentes
+    según Capacidad Contributiva
+l Implementación de 15 proyectos especiales relacionados con la realización de acciones para permitir que
+    el sistema se alimente y provea más y mejor calidad de información de las personas, a partir de la
+    asistencia técnica y metodológica para desarrollar, poner en marcha y/o mejorar registros de datos, de
+    acorde a estándares de información gubernamental.
+
+
+                                                      - 33 -
+
+l Registros de Propiedad Inmueble: asistencia los Registros del país para la conformación de la base de
+    datos de titulares de dominio.
+l Inspecciones Generales de Justicia: actividades de colaboración para llevar a cabo la actualización de
+    los registros de las Inspecciones,
+l Legajo Unico de Alumnos: asistencia para la conformación del legajo en el marco del programa
+    PREGASE del Ministerio de Educación de la Nación.
+
+
+Es de destacar que los logros mencionados fueron posibles como consecuencia de:
+
+l el fuerte apoyo político desde las autoridades del Consejo Nacional de Coordinación de Políticas
+    Sociales y de las máximas autoridades nacionales.
+l la alta receptividad del concepto de intercambio de información entre funcionarios y técnicos de los
+    organismos nacionales, provinciales y municipales.
+l el desarrollo e implementación por parte de la unidad de una estrategia proactiva consistente en
+    diagnosticar los problemas en cuanto al acceso, intercambio y calidad de información entre las distintas
+    bases de datos de los organismos y demostrar los beneficios de utilización progresiva del sistema.
+l La protección de los principios de privacidad y confidencialidad de la información.
+
+
+Durante la próxima fase de operación, se espera que los resultados obtenidos hasta el presente se expandan,
+a partir de la implementación de una red virtual compartida entre las distintas jurisdicciones, que facilite la
+completa desaparición de las barreras para el intercambio de información entre los organismos participantes.
+Se continuará con la descentralización territorial a nivel provincial y municipal, mediante la implementación
+de las Unidades Coordinadoras que operen como nodos con las pautas y competencias para el intercambio
+de información dadas por SINTyS a nivel centralizado. Por último se propiciará la inserción del SINTyS en
+la estructura de la administración pública nacional.
+
+ (b) Cofinanciers:
+ N/A
+
+ (c) Other partners (NGOs/private sector):
+ N/A
+
+ 10. Additional Information
+
+          A. The Bank's ICR Team consisted of the following members:
+
+          Miguel Mercado-Diaz, Senior Operations Officer, Task Team Leader
+          Wolfgang K.C. Koehling, Economist/ICR Primary Author
+          Herman J. Nissenbaum , Consultant
+          Georgio Valentini, ET Consultant
+          Karla Lopez Flores, Program Assistant
+          Ramiro Lopez Ghio, Consultant
+
+          B.      List of Task Team Leaders of the Project
+
+          Luís-José Mejía
+          Raul Benitez
+          Miguel Mercado-Diaz
+
+          C.      Persons interviewed for the preparation of the ICR:
+
+
+
+                                                      - 34 -
+
+Theresa Jones, Lead Operations Officer, The World Bank
+Miguel Mercado-Diaz, Senior Operations Officer, The World Bank
+Vanina Conporiale, SINTyS
+Ramiro Lopez Ghio, Consultant, The World Bank
+Gustavo Butteri, Infrastructure Coordinator, SINTyS
+Luís-José Mejía, Previous Task Team Leader, The World Bank
+
+
+
+
+                                         - 35 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+
+
+Outcome / Impact Indicators:
+
+                                 Indicator/Matrix                                    Projected in last PSR Actual/Latest Estimate
+                                                                                               1
+
+
+Overall:                                                                             a) 8 agencies b) 7    155 Agencies
+a) Number of agencies using consistent common processes to identify entities and million residents         32 million Persons covered
+assets.                                                                                                    (95 % of Population
+b) Percentage of the population uniquely identified and with family relationship data
+For Social Services:                                                                 150,000               759,766
+a) Effectiveness: number of identified, entitled beneficiary households previously
+not receiving services: 150,000
+For Social Services:                                                                 b) 100,000  c)        302,539 Individuals Identified
+a) Efficiency: Number of beneficiary households incorrectly receiving benefits       US$16 million         Total actual Savings in 2006
+(100,000); b) amount of incorrect benefits not awarded (savings of US$16 million).                         US$ 91 million
+For Fiscal Programs:                                                                 a) 3,000 b) US$25     226,146 new Taxpayers
+a) Effectiveness: increase of 3,000 in the number of registered taxpayers or         million               Total actual savings in 2006
+taxpayers identified as making insufficient payments                                                       US$ 39.47 million
+b) Efficiency: increase of US$25 million in collections
+
+
+
+Output Indicators:
+                                                                                              1
+                          Indicator/Matrix                                Projected in last PSR    Actual/Latest Estimate
+Number of agencies using consistent common processes to              11 (6 agencies; 5 provinces) 155 agencies, 675 databases, and 23
+identify entities and assets                                                                       Provinces
+Percentage of the population uniquely identified and with family     Phase I: 20% of population (7 95 % (32 million)
+relationships                                                        million)
+
+
+
+
+                                                                   - 36 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                           Appraisal    Actual/Latest  Percentage of
+                                                           Estimate      Estimate       Appraisal
+                       Component                           US$ million   US$ million
+A. Improvement of Social Service Delivery                     4.10            1.27           0.31
+
+B. Improvement of Fiscal Efficiency                           3.40            0.76           0.22
+
+C. Institutional Framework, Infrastructure and Common         2.10            4.37           2.08
+Services
+
+D. Program Management                                         0.20            0.71           3.55
+
+E. Project Administration                                     0.60            1.38            2.3
+
+PPF Refinancing                                               1.50            1.55           1.03
+Phase 1
+
+General Coordination Project                                                  0.30
+
+
+Total Baseline Cost                                          11.90          10.34
+                         Total Project Costs                 11.90          10.34
+                                          Front-end fee       0.10            0.10           1.00
+                   Total Financing Required                  12.00          10.44
+
+
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+                                                                     1
+                                                 Procurement Method
+    Expenditure Category             ICB             NCB               2       N.B.F.    Total Cost
+                                                                Other
+1. Works                            0.00             0.00         0.00         0.00         0.00
+                                    (0.00)          (0.00)      (0.00)         (0.00)      (0.00)
+2. Goods                            0.00             1.00         0.40         0.00         1.40
+                                    (0.00)          (1.00)      (0.40)         (0.00)      (1.40)
+3. Services                         0.00             0.00         7.70         0.00         7.70
+                                    (0.00)          (0.00)      (6.20)         (0.00)      (6.20)
+4. Miscellaneous                    0.00             0.00         1.30         0.00         1.30
+                                    (0.00)          (0.00)      (0.80)         (0.00)      (0.80)
+5. Front-end Fee                    0.00             0.00         0.10         0.00         0.10
+                                    (0.00)          (0.00)      (0.10)         (0.00)      (0.10)
+6. PPF Refinancing                  0.00             0.00         1.50         0.00         1.50
+                                    (0.00)          (0.00)      (1.50)         (0.00)      (1.50)
+   Total                            0.00             1.00        11.00         0.00        12.00
+                                    (0.00)          (1.00)      (9.00)         (0.00)     (10.00)
+
+
+
+                                                 - 37 -
+
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                               1
+                                                     Procurement Method
+    Expenditure Category               ICB               NCB                      2         N.B.F.         Total Cost
+                                                                           Other
+1. Works                               0.00               0.00              0.00             0.00              0.00
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+2. Goods                               0.00               3.02              0.00             0.00              3.02
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+3. Services                            0.00               0.00              5.05             0.00              5.05
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+4. Miscellaneous                       0.00               0.00              0.28             0.00              0.28
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+5. Front-end Fee                       0.00               0.00              0.10             0.00              0.10
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+6. PPF Refinancing                     0.00               0.00              1.55             0.00              1.55
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+   Total                               0.00               3.02              6.98             0.00             10.00
+                                      (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+
+1/Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+
+2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+  of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+  managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+
+                                                      - 38 -
+
+Annex 3. Economic Costs and Benefits
+
+Unlike other public sector reform programs the National Social and fiscal Identification Program lends
+itself for a straight forward economic analysis.
+
+
+
+Cost to Date            Potential Savings    Actual Savings      IRR                   NPV
+USD 6.54 Million        USD 134 million      NA                  1472% (potential)     USD 43.8 million
+(2001)                  (aggregated in                                                 (until end of 2001,
+                        2001)                                                          at 6% interest rate)
+USD 10.4 million        USD 187 million      USD 130.5 million   1713% (actual)        USD 106 million
+(2006)                  (estimated aggregate (verified aggregate                       (until end of 2006 at
+                        in 2006)             in 2006)                                  6% interest rate)
+
+
+
+
+                                                     - 39 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle               No. of Persons and Specialty            Performance Rating
+                                    (e.g. 2 Economists, 1 FMS, etc.)    Implementation Development
+                  Month/Year  Count           Specialty                   Progress       Objective
+
+
+ Appraisal/Negotiation
+              03/09/1998               4    TASK MANAGER (1);
+                                            PROJECT MANAGER (1);
+                                            CONSULTANT (2)
+
+
+ Supervision
+
+              06/02/1999               3    TASK MANAGER (1);                S               S
+                                            PROJECT MANAGER (1);
+                                            PROJECT ACCOUNTING (1)
+              06/02/1999               2    TASK MANAGER (1);                S              HS
+                                            CONSULTANT (1)
+              06/02/1999               4    TEAM LEADER (1);                 S              HS
+                                            PROCUREMENT SPECIALIST
+                                            (1); FINANCIAL
+                                            MANAGEMENT S (1);
+                                            ASSISTANT (1)
+              03/09/2001               2    TASK MANAGER (1);                S              HS
+                                            CONSULTANT (1)
+              03/09/2001               2    TASK MANAGER (1);                S              HS
+                                            CONSULTANT (1)
+              03/05/2002               3    TASK MANAGER (1);                HS              S
+                                            STRATEGIC PLANNING (1);
+                                            OPERATIONS (1)
+              10/21/2002               2    TASK MANAGER (1);                S               S
+                                            OPERATIONS (1)
+              05/16/2003               4    TASK MANAGER (1);                S               S
+                                            OPERATIONS (1);
+                                            PROCUREMENT (1);
+                                            FINANCIAL MANAGEMENT
+                                            (1)
+              10/24/2003               4    TASK MANAGER (1);                S               S
+                                            OPERATIONS (1); PS/IMPACT
+                                            CONSULTANT (1);
+                                            IT/E-GOV'T CONSULTANT (1)
+              05/10/2004               5    TASK MANAGER (1);                S               S
+                                            OPERATIONS (1); PS/IMPACT
+                                            CONSULTANT (1);
+                                            IT/E-GOV'T CONSULTANT (1)
+              12/09/2004               4    TASK MANAGER (1);                HS             HS
+                                            OPERATIONS (1); PS/IMPACT
+                                            CONSULTANT (1);
+                                            IT/E-GOV'T CONSULTANT (1)
+              07/08/2005               4    TASK MANAGER (1);                HS             HS
+                                            OPERATIONS (1); PS/IMPACT
+
+
+
+                                             - 40 -
+
+                                            CONSULTANT (1);
+                                            IT/E-GOV'T CONSULTANT (1)
+
+
+
+ ICR
+               03/16/2006             5     TASK MANAGER (1);                HS    HS
+                                            OPERATIONS (1);
+                                            PS/IMPACT
+                                            CONSULTANT (1);
+                                            IT/E-GOV'T
+                                            CONSULTANT (1);
+                                            LEGAL CONSULTANT (1)
+
+
+
+(b) Staff:
+
+       Stage of Project Cycle                Actual/Latest Estimate
+                                 No. Staff weeks                 US$ ('000)
+  Appraisal/Negotiation                    16                          34.6
+  Supervision                              80                       377.53
+  ICR                                  11.19                           24.5
+  Total                                112.3                        447.13
+
+
+
+
+                                            - 41 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+        Fiscal
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 42 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 43 -
+
+Annex 7. List of Supporting Documents
+
+World Bank (1999), Project Appraisal Document, Social and Fiscal National Identification       System
+Program, Report No.19110-AR, March 31, 1999, Washington D.C.
+
+World Bank(2000), Implementation Completion Report for the Argentina National Pension Administration
+Technical Project, Report No.34639-AR, December 22, 2005, Washington DC
+
+Project Files (1999-2006), Supervision Missions, Aide Memoires, PRSs, ISRs and periodic progress
+reports/assessments - Social and Fiscal National Identification System Program, Washington D.C.
+
+World Bank (1999), Loan Agreement Social and Fiscal National Identification System Program,
+Washington D.C.
+
+World Bank (1998) Project Appraisal Document Argentina - State Modernization Project, Washington
+D.C.
+
+Presidencia de la Nacion Aregntina (various years) Informe al Banco Mundial para la Evaluacion
+Semestral (SINTyS)
+
+
+
+
+                                                   - 44 -
+
+- 45 -
+

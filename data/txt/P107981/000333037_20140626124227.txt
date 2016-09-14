@@ -1,0 +1,2347 @@
+                                    Document of
+                                The World Bank
+
+
+
+
+                                                   Report No: ICR00003034
+
+
+
+          IMPLEMENTATION COMPLETION AND RESULTS REPORT
+                           (IDA-43930)
+
+
+
+                                         ON A
+
+                                     CREDIT
+
+                    IN THE AMOUNT OF SDR 4.90 MILLION
+                       (US$ 7.7 MILLION EQUIVALENT)
+
+                                     TO THE
+
+                            REPUBLIC OF MALDIVES
+
+                                         FOR A
+
+                MALDIVES MOBILE PHONE BANKING PROJECT
+
+
+
+                                   June 10, 2014
+
+
+
+
+Finance and Private Sector Development
+South Asia Region
+                         CURRENCY EQUIVALENTS
+
+                    (Exchange Rate Effective March 20, 2014)
+
+                     Currency Unit = Maldivian Rufiyaa (Rf)
+                              Rf 1.00 = US$0.065
+                              US$1.00 = Rf 15.35
+
+                                FISCAL YEAR
+                            January 1–December 31
+
+                     ABBREVIATIONS AND ACRONYMS
+
+ACH        Automated Clearing House
+AML        Anti-Money Laundering
+API        Application Programming Interfaces
+APL        Adaptable Program Loan
+ARCS       Audit Report Compliant Systems
+ATM        Automated Teller Machine
+BML        Bank of Maldives
+CAS        Country Assistance Strategy
+C2P        Clear2Pay
+CBSL       Central Bank of Sri Lanka
+CFAA       Country Financial Accountability Assessment
+CFT        Combating the Financing of Terrorism
+CGAP       Consultative Group to Assist the Poor
+CMDA       Capital Market Development Authority
+CPI        Consumer Price Index
+CRIB       Credit Information Bureau
+CTI        Cheque Truncation and Imaging
+Dhiraagu   Dhivehi Raajjeyge Gulhun Pvt Ltd
+DO         Development Objective
+DR         Disaster Recovery
+EDGE       Enhanced Data Rates for GSM Evolution
+EFT        Electronic Funds Transfer
+EIRR       Economic Internal Rate of Return
+EMD        Emerging Markets Digital
+EOI        Expression of Interest
+FIRR       Financial Internal Rate of Return
+FIU        Financial Intelligence Unit
+FM         Financial Management
+GDP        Gross Domestic Product
+GOM        Government of Maldives
+GSM        Global Systems for Mobile Communication
+HSBC       Hong Kong and Shanghai Banking Corporation
+IBRD    International Bank for Reconstruction and Development
+ICA     Investment Climate Assessment
+ICB     International Competitive Bidding
+ICR     Implementation Completion Report
+IDA     International Development Association
+IFC     International Finance Corporation
+IFR     International Financial Reporting
+IMF     International Monetary Fund
+IP      Implementation Progress
+KIS     Keep it Simple
+LIL     Learning and Innovation Loan
+LOA     Loans Department
+LVFT    Large-Value Funds Transfer
+M&E     Monitoring and Evaluation
+MDG     Millennium Development Goals
+MFLC    Maldives Finance Leasing Company
+MFS     Mobile Financial Systems
+MIC     Middle Income Status
+MIPS    Maldives Interoperable Payments System
+MMA     Maldives Monetary Authority
+MNO     Mobile Network Operators
+MOFT    Ministry of Finance and Treasury
+MPBP    Mobile Phone Banking Project
+MRTGS   Maldives Real Time Gross Settlement
+MOU     Memorandum of Understanding
+MPS     Mobile Payment System
+NDB     National Development Bank
+NDP     National Development Plan
+NPV     Net Present Value
+O&M     Operation and Maintenance
+PAC     Project Advisory Committee
+PAD     Project Appraisal Document
+PAS     Public Accounting System
+PCI     Payment Card Industry
+PDO     Project Development Objectives
+PFMS    Public Financial Management System
+PIN     Personal Identification Number
+POS     Point of Sale
+PPF     Project Preparation Facility
+PRSP    Poverty Reduction Strategy Paper
+PSC     Policy Steering Committee
+Rf      Maldivian Rufiyaas
+RTGS    Real Time Gross Settlement
+SBD     Standard Bidding Document
+SIL     Specific Investment Loan
+SIM     Subscriber Identity Modules
+SME     Small and Medium Enterprises
+SMS     Short Message Services
+SOE     State-Owned Enterprise
+SOV     Store-Of-Value
+SWIFT   Society for Worldwide Interbank Financial Telecommunication
+TAM     Telecom Authority of Maldives
+TEB     Tender Evaluation Board
+TEC     Technical Evaluation Committee
+TTL     Task Team Leader
+UAT     User Acceptance Testing
+USSD    Unstructured Supplementary Service Data
+WAP     Wireless Applications Protocol
+
+
+
+
+                        Vice President: Philippe H. Le Houerou
+                      Country Director: Francoise Clottes
+                       Sector Manager: Henry K. Bagazonzya
+                  Project Team Leader: Sriyani M. Hulugalle, Stephen Rasmussen
+                     ICR Team Leader: Thyra A. Riley
+                  ICR Primary Author: Shamsuddin Ahmad
+                                           REPUBLIC OF MALDIVES
+                                           Mobile Phone Banking Project
+
+
+                                                          CONTENTS
+Data Sheet
+       A. Basic Information
+       B. Key Dates
+       C. Ratings Summary
+       D. Sector and Theme Codes
+       E. Bank Staff
+       F. Results Framework Analysis
+       G. Ratings of Project Performance in ISRs
+       H. Restructuring
+       I. Disbursement Graph
+
+1.  Project Context, Development Objectives, and Design .............................................. 1 
+2.  Key Factors Affecting Implementation and Outcomes ............................................... 5 
+3.  Assessment of Outcomes ........................................................................................... 13 
+4.  Assessment of Risk-to-Development Outcome ......................................................... 18 
+5.  Assessment of Bank and Borrower Performance ...................................................... 18 
+6.  Lessons Learned ........................................................................................................ 23 
+7.  Comments on Issues Raised by Borrower/Implementing Agencies/Partners ........... 25 
+Annex 1. Project Costs and Financing .............................................................................. 26 
+Annex 2. Outputs by Component...................................................................................... 27 
+Annex 3. Economic and Financial Analysis ..................................................................... 28 
+Annex 4. Bank Lending and Implementation Support/Supervision Processes................. 30 
+Annex 5. Beneficiary Survey Results ............................................................................... 32 
+Annex 6. Stakeholder Workshop Report and Results ....................................................... 33 
+Annex 7. Summary of Borrower's ICR and/or Comments on Draft ICR ......................... 34 
+Annex 8. Comments of Cofinanciers and Other Partners/Stakeholders ........................... 40 
+Annex 9. List of Supporting Documents .......................................................................... 41 
+MAP .................................................................................................................................. 42 
+A. Basic Information
+                                                                       Maldives Mobile Phone
+Country:                Maldives                Project Name:
+                                                                       Banking Project
+Project ID:             P107981                 L/C/TF Number(s):      IDA-43930
+ICR Date:               04/28/2014              ICR Type:              Core ICR
+Lending Instrument:     SIL                     Borrower:
+Original Total
+                        XDR 4.90M               Disbursed Amount:      XDR 3.92M
+Commitment:
+Revised Amount:         XDR 3.92M
+Environmental Category: C
+Implementing Agencies:
+ Maldives Monetary Authority
+Cofinanciers and Other External Partners:
+
+B. Key Dates
+                                                                            Revised / Actual
+     Process             Date             Process           Original Date
+                                                                                Date(s)
+Concept Review:       07/12/2007     Effectiveness:          09/26/2008       09/26/2008
+                                                                              05/08/2012
+Appraisal:            12/03/2007     Restructuring(s):
+                                                                              12/23/2013
+Approval:             04/17/2008     Mid-term Review:        04/15/2010       10/26/2010
+                                     Closing:                06/30/2012       12/31/2013
+
+C. Ratings Summary
+C.1 Performance Rating by ICR
+Outcomes:                                       Unsatisfactory
+Risk to Development Outcome:                    High
+Bank Performance:                               Moderately Unsatisfactory
+Borrower Performance:                           Unsatisfactory
+
+C.2 Detailed Ratings of Bank and Borrower Performance (by ICR)
+         Bank                   Ratings          Borrower              Ratings
+Quality at Entry:       Unsatisfactory     Government:         Unsatisfactory
+                        Moderately         Implementing
+Quality of Supervision:                                        Unsatisfactory
+                        Unsatisfactory     Agency/Agencies:
+Overall Bank            Moderately         Overall Borrower
+                                                               Unsatisfactory
+Performance:            Unsatisfactory     Performance:
+C.3 Quality at Entry and Implementation Performance Indicators
+    Implementation                           QAG Assessments
+                             Indicators                                          Rating
+     Performance                                 (if any)
+ Potential Problem Project                        Quality at Entry
+                           No                                             None
+at any time (Yes/No):                             (QEA):
+ Problem Project at any                           Quality of
+                           Yes                                            None
+time (Yes/No):                                    Supervision (QSA):
+DO rating before
+                           Unsatisfactory
+Closing/Inactive status:
+
+D. Sector and Theme Codes
+                                                                 Original              Actual
+Sector Code (as % of total Bank financing)
+Banking                                                              7                   12
+Central government administration                                     7                  10
+Payments, settlements, and remittance systems                        86                  78
+
+
+Theme Code (as % of total Bank financing)
+Other Financial Sector Development                                   67                  64
+Regulation and competition policy                                    33                  36
+
+E. Bank Staff
+        Positions                       At ICR                             At Approval
+Vice President:            Philippe H. Le Houerou              Praful C. Patel
+Country Director:          Francoise Clottes                   Alastair J. McKechnie
+Sector Manager:            Henry K Bagazonzya                  Simon C. Bell
+Project Team Leader:       Sriyani M. Hulugalle                Sriyani M. Hulugalle
+ICR Team Leader:           Thyra A. Riley
+ICR Primary Author:        Shamsuddin Ahmad
+
+
+F. Results Framework Analysis
+
+Project Development Objectives (from Project Appraisal Document)
+The objective of the project is to significantly increase the use of banking system
+transactions for effecting or receiving payments for labor, goods and services nationwide
+through the implementation of a national inter-operable payments system that facilitates
+access to financial services and allows users access to their bank account using any
+mobile phone operator and cashing through any banking agent.
+Revised Project Development Objectives (as approved by original approving authority)
+
+None
+
+
+(a) PDO Indicator(s)
+
+                                              Original Target      Formally       Actual Value
+                                               Values (from         Revised        Achieved at
+   Indicator           Baseline Value
+                                                  approval          Target        Completion or
+                                                documents)          Values        Target Years
+                  A large proportion of the adult population will have a phone account (more than
+Indicator 1 :
+                  75% of adults will have a phone account by the end of the project period.)
+Value
+quantitative or   0 percent                 75 percent                        0 percent
+Qualitative)
+Date achieved     12/31/2007                12/31/2013                        03/20/2014
+Comments
+                  Not achieved. Nobody has a phone account as the Mobile Payment System could
+(incl. %
+                  not be operationalized.
+achievement)
+                A large proportion of the adult population will have a regular bank account that
+Indicator 2 :   can be accessed from their mobile phone account (more than 70% of adults will
+                have a regular bank account by the end of the project period).
+                                                                               Only those
+                                                                               customers of the
+                                                                               Bank of Maldives
+                                                                               that have a smart
+Value
+                                                                               phone can access
+quantitative or 40 percent                 70 percent
+                                                                               their Bank of
+Qualitative)
+                                                                               Maldives account
+                                                                               from their mobile
+                                                                               phone using the
+                                                                               internet.
+Date achieved 12/31/2007                   12/31/2013                          03/20/2014
+                Not achieved. The baseline figure represents the percentage of the population
+Comments
+                with bank accounts in December 2007, which were to be linked automatically to
+(incl. %
+                the MPS. As the MPS could not be operationlized, these accounts could not be
+achievement)
+                linked.
+                A large share of salary and supply chain payments will be effected electronically
+                directly into people's bank accounts that in turn can be accessed through mobile
+Indicator 3 :
+                phone accounts (more than 50% of fishing boat-load purchases by processing
+                plants).
+                                                                               All government
+                                                                               salaries and pension
+Value                                                                          payments are made
+quantitative or 40 percent                 70 percent                          electronically
+Qualitative)                                                                   directly into the
+                                                                               beneficiaries’ bank
+                                                                               accounts through
+                                                                              the Automated
+                                                                              Clearing House.
+                                                                              However, most of
+                                                                              these accounts
+                                                                              cannot be accessed
+                                                                              through mobile
+                                                                              phones.
+Date achieved 12/31/2007                    12/31/2013                        03/20/2014
+Comments
+(incl. %        Not achieved. The Mobile Payment System could not be operationalized.
+achievement)
+                The total amount of cash in circulation (M1) will decline as more transactions are
+Indicator 4 : made electronically (the amount of cash in circulation will begin to decline in the
+                second year after the mobile payments system becomes fully functional).
+Value                                                                           MVR 3,151.3
+                                            MVR 1,000
+quantitative or MVR 1,049 million                                               million as in
+                                            million
+Qualitative)                                                                    January 2014.
+Date achieved 12/31/2007                    12/31/2013                          03/20/2014
+Comments
+                Not achieved. Cash in circulation has not declined as the Mobile Payment
+(incl. %
+                System is not operational.
+achievement)
+                An appropriate legal and regulatory system will be in place for mobile phone
+Indicator 5 : transactions (a general framework regulation covering all necessary topics will
+                be in place by the time transactions in the system begin).
+                                            Payments System
+                                            Law;
+                                            Anti-Money                          Payment System
+Value                                       Laundering Law;                     Regulation; Anti-
+quantitative or No regulation in place. Electronic Fund                         Money Laundering
+Qualitative)                                Transfer Act; and                   Regulation;
+                                            Consumer                            issued.
+                                            Protection Act, are
+                                            in effect.
+Date achieved 12/31/2007                    12/31/2013                          03/20/2014
+Comments
+                Not achieved. None of the planned and drafted laws have been passed. MMA
+(incl. %
+                has issued only two regulations.
+achievement)
+                Everyone with a phone account will be able to deposit and withdraw reasonable
+                amounts of cash from their accounts anywhere in the country (all populated
+Indicator 6 :
+                islands will have at least one agent with cash in/cash out facilities by the end of
+                the project.)
+                0 percent of the
+Value
+                population can deposit
+quantitative or                             100 percent.                        0 percent.
+                and withdraw cash from
+Qualitative)
+                their phone accounts.
+Date achieved 12/31/2007                    12/31/2013                          03/20/2014
+Comments
+                Not achieved. Nobody can cash in/cash out using mobile phones as the Mobile
+(incl. %
+                Payment System is not operational.
+achievement)
+(b) Intermediate Outcome Indicator(s)
+
+                                           Original Target                     Actual Value
+                                                               Formally
+                                            Values (from                        Achieved at
+   Indicator         Baseline Value                             Revised
+                                               approval                        Completion or
+                                                            Target Values
+                                             documents)                        Target Years
+Indicator 1 :   Percentage of population with a mobile phone account.
+Value
+(quantitative   0 percent.                75 percent                        0 percent
+or Qualitative)
+Date achieved 12/31/2007                   12/31/2013                       03/20/2014
+Comments
+(incl. %        Not achieved. The Mobile Payment System could not be operationalized.
+achievement)
+                Percentage of populated island with a local agent at which mobile phone
+Indicator 2 :
+                accounts can be opened.
+Value
+(quantitative   0 percent.                100 percent.                      0 percent.
+or Qualitative)
+Date achieved 12/31/2007                   12/31/2013                       03/20/2014
+Comments
+                Not achieved. Local agents could not be appointed as the MPS could not be
+(incl. %
+                operationalized.
+achievement)
+Indicator 3 : Percentage of adult population with a regular bank account.
+Value
+                                                                            Almost 100
+(quantitative   40 percent.               70 percent.
+                                                                            percent.
+or Qualitative)
+Date achieved 12/31/2007                   12/31/2013                       03/20/2014
+Comments
+                Achieved. The Bank of Maldives has 211,457 bank accounts of individual
+(incl. %
+                Maldivians, which is more than 100% of the adult population.
+achievement)
+Indicator 4 : Percentage of salaries paid by resort owners electronically.
+Value
+(quantitative   20 percent                70 percent                        0 percent.
+or Qualitative)
+Date achieved 12/31/2007                   12/31/2013                       03/20/2014
+Comments
+                Not achieved. The baseline figure represents the percentage of resort owners that
+(incl. %
+                would have automatically moved to MPS. However, it did not happen.
+achievement)
+                Percentage of fishing boat-load purchases by processing plants and official
+Indicator 5 :
+                trading companies paid for electronically.
+Value
+(quantitative   Less than 5 percent       60 percent                        Less than 5 percent.
+or Qualitative)
+Date achieved 12/31/2007                   12/31/2013                       03/20/2014
+Comments
+(incl. %        Not achieved. No payments can be effected through mobile phones.
+achievement)
+Indicator 6 :     Amount of cash in circulation.
+Value                                                                        MVR 3, 151.3
+(quantitative     MVR1,049 million          MVR1,000 million                 million as on
+or Qualitative)                                                              January 31, 2014.
+Date achieved     12/31/2007                12/31/2013                       03/20/2014
+Comments
+(incl. %          Not achieved as the MPS could not be operationalized.
+achievement)
+                A general framework regulation covering all necessary topics is developed and
+Indicator 7 :
+                adopted.
+                                                                              Two out of four
+                                                                              regulations were
+                                                                              issued in 2011:
+                                                                              Payments system
+                                                                              regulation; and
+Value
+                                        Framework in                          AML/CFT
+(quantitative   Does not exist
+                                        place.                                regulation. The
+or Qualitative)
+                                                                              other two on
+                                                                              Consumer
+                                                                              Protection and
+                                                                              Agent network have
+                                                                              not been issued.
+Date achieved 12/31/2007                12/31/2013                            03/20/2014
+Comments
+(incl. %        Partially achieved.
+achievement)
+Indicator 8 : Detailed implementing regulations are completed.
+                                                                              Four regulations
+Value
+                                        Completed and in                      were drafted and
+(quantitative   Do not exist.
+                                        use.                                  two have been
+or Qualitative)
+                                                                              issued.
+Date achieved 12/31/2007                12/31/2013                            03/20/2014
+Comments
+(incl. %        Partially achieved.
+achievement)
+Indicator 9 : Percentage of populated islands with a local agent with cash in/cash out facilities.
+Value
+(quantitative   0 percent.              100 percent.                          0 percent.
+or Qualitative)
+Date achieved 12/31/2007                12/31/2013                            03/20/2014
+Comments
+(incl. %        Not achieved.
+achievement)
+                Number of customers who report that they often cannot deposit/withdraw the
+Indicator 10 :
+                amounts they need when they are at their local agent's store.
+Value                                   Less than 100
+(quantitative   0                       complaints per                        0
+or Qualitative)                         month.
+Date achieved     12/31/2007               12/31/2013                        03/20/2014
+Comments
+(incl. %          Not achieved.
+achievement)
+Indicator 11 :    A promotion/public education campaign is designed and implemented.
+Value
+                                                                             Not completed and
+(quantitative     Does not exist           Completed.
+                                                                             not implemented.
+or Qualitative)
+Date achieved     12/31/2007               12/31/2013                        03/20/2014
+Comments
+(incl. %          Not achieved.
+achievement)
+
+G. Ratings of Project Performance in ISRs
+
+                                                                                  Actual
+         Date ISR
+ No.                               DO                        IP               Disbursements
+         Archived
+                                                                              (USD millions)
+  1     06/25/2008           Satisfactory              Satisfactory                      0.00
+  2     12/22/2008           Satisfactory              Satisfactory                      0.30
+  3     03/04/2009           Satisfactory              Satisfactory                      0.30
+                              Moderately                Moderately
+  4     06/30/2009                                                                        0.30
+                            Unsatisfactory            Unsatisfactory
+  5     11/09/2009           Satisfactory              Satisfactory                       2.60
+  6     03/08/2010           Satisfactory              Satisfactory                       2.60
+  7     12/04/2010           Satisfactory          Moderately Satisfactory                4.51
+  8     07/11/2011           Satisfactory          Moderately Satisfactory                5.83
+  9     02/11/2012           Satisfactory          Moderately Satisfactory                6.39
+ 10     07/22/2012       Moderately Satisfactory   Moderately Satisfactory                6.39
+                              Moderately                Moderately
+ 11     12/22/2012                                                                        7.60
+                            Unsatisfactory            Unsatisfactory
+ 12     04/08/2013          Unsatisfactory            Unsatisfactory                      7.60
+ 13     11/01/2013          Unsatisfactory            Unsatisfactory                      7.60
+
+
+H. Restructuring (if any)
+
+                        ISR Ratings at   Amount
+                Board   Restructuring Disbursed at
+Restructuring                                          Reason for Restructuring &
+               Approved                Restructuring
+   Date(s)                                                 Key Changes Made
+              PDO Change DO      IP       in USD
+                                         millions
+                                                     Extension of Closing Date to
+ 05/08/2012               S      MS           6.39
+                                                     December 31, 2013.
+                                                     Cancellation of an amount of
+ 12/23/2013               U      U            6.10   the Credit equal to US Dollars
+                                                     1.50 million.
+I. Disbursement Profile
+1.    Project Context, Development Objectives, and Design
+
+1.1    Context at Appraisal
+
+Country and Sector Background:
+
+1.1.1. The 2006 Investment Climate Assessment (ICA) of Maldives identified the lack
+of access to finance as the single largest impediment to private-sector development,
+followed by cost of financing. This was different from the case of other South Asian
+countries, where a lack of infrastructure is usually the main obstacle to development in
+this sector. Access to finance poses challenges in the Maldives given the country’s
+geographical dispersion over an area of 90,000 square kilometers, 99.5 percent of which
+is water; 300,000 residents live on 198 scattered islands in 26 atolls, and 60 percent of the
+inhabited islands have fewer than 1,000 residents. In this context, covering such a vast
+territory with traditional branch networks of banks poses a particular challenge. Moreover,
+only one domestic bank provided commercial banking services to the entire nation
+through its 25 branches, eight mobile units, and 36 active ATMs, of which only 20 were
+located outside the capital, Male. The branches of three South Asian state-owned
+commercial banks as well as that of an international bank operated out of Male. As a
+result, only 40 percent of Maldivians had a bank account, with most customers located in
+Male (65 percent). At that time, government salaries and social transfers were all made in
+cash, and the universal use of cash meant that citizens’ basic earnings were vulnerable to
+loss, theft, and natural disasters such as the tsunami that struck Maldives in December
+2004. Moreover, sending money from one island to another was expensive, time
+consuming, and risky.
+
+1.1.2. Project Background: The Mobile Phone Banking Project was designed primarily
+to benefit the common people living and working in the atolls by sparing them the burden
+of traveling great distances, facing security risks, and waiting in long queues at bank
+branches to collect payments (salaries, pensions, social transfers or sales proceeds), pay
+bills, or transfer payments to relatives, friends, or suppliers. Moreover, the project aimed
+to: (i) reduce the number and amounts of cash transactions made by individuals,
+businesses, and industries; (ii) enable banks to extend the outreach of their services,
+provide more products, and reduce transactions costs; and (iii) reduce the cost to
+government and to the banking system of printing, storing, and distributing cash.
+
+1.1.3. To achieve these aims, the Consultative Group to Assist the Poor (CGAP) and the
+World Bank ambitiously designed a totally unique, interoperable Mobile Payment
+System (MPS) that connected all the banks and all the mobile network operators to the
+Real Time Gross Settlement (RTGS) system, as well as to the retail small value
+settlement system (through the Automated Clearing House – ACH). Further, the system
+was to be managed by the banking regulator that would also have had to manage the
+country-wide network of cash-in/cash-out agents. Given the numerous both bank and
+non-bank institutions that would have to successfully interoperate, the huge differences in
+their technology platforms, capacities, and knowledge capabilities, as well as in the
+regulatory and legal sophistication of their respective owners, this project appears, with
+
+                                             1
+hindsight, to have been a very high risk pilot. Furthermore, to date, no country in the
+world has implemented such a complex system.
+
+1.1.4. A principal risk of successful implementation lay in the need for the diverse group
+of participants to remain steadfast in their commitment to the project’s and the country’s
+overall objectives and to carefully coordinate and cooperate under the leadership of the
+Maldives Monetary Authority.
+
+Rationale for World Bank assistance:
+
+1.1.5. The government of Maldives requested that the World Bank design a project
+extending financial services to all the people in Maldives in a cost-effective manner. The
+idea was proposed by the government representatives who attended a regional
+microfinance workshop sponsored by the World Bank in December 2005, in which they
+were exposed for the first time to mobile banking systems in use in other parts of the
+world. The government’s request was first taken up by CGAP, which in 2006 began to
+work with the Maldives Monetary Authority (MMA) to develop a concept and proposal
+that formed the basis for the project. Moreover, CGAP came forward to design the
+project using the experience and expertise of its technology team, which had carried out
+considerable work on branchless banking and mobile phone banking. As a result, in 2006,
+CGAP and MMA developed a vision document and project framework entitled
+“Developing a National Banking and Payment System with Mobile Phones.” That
+document provided a basis for the design and development of this project.1
+
+1.1.6. Since the request was in line with the 2007 Country Assistance Strategy (CAS),
+which highlighted the importance of improving access to finance as part of an effort to
+enhance private-sector development, this project was considered appropriate for
+International Development Association (IDA) funding. It was furthermore seen to
+contribute to the goals described under CAS pillar 1 on economic governance and
+investment, specifically with respect to creating an environment conducive for growth,
+generating employment, enhancing trade, supporting businesses, and building
+competitive industries.
+
+1.2   Original Project Development Objectives (PDO) and Key Indicators (as
+approved)
+
+1.2.1. The objective of the project was to significantly increase the use of banking
+system transactions for effecting or receiving payments for labor, goods, and services
+nationwide through the implementation of a national, interoperable payment system that
+
+
+
+1
+  “Developing a National Banking and Payment System with Mobile Phones – Vision Document and
+Project Framework,” CGAP and MMA, Maldives, December 2006. Authored by Gautam Ivatury (CGAP
+technology specialist), Bill Donges (Payment Systems and Banking Technology- CGAP consultant), Peter
+Goldfinch (Mobile Phone Payment Systems - CGAP consultant), Keith Smith (Banking and Payment
+Systems Regulations - CGAP consultant), and Jenny Hoffman (Mobile Phone Banking - CGAP
+consultant). Ibraheem Naeem (MMA) made important contributions.
+
+                                                  2
+facilitates access to financial services and allows users access to their bank account using
+any mobile phone operator and receiving cash (cashing out) through any banking agent.
+
+Key Indicators
+
+1.2.2. The key indicators were:
+     A large proportion of the adult population will have a phone account (>75 percent
+       of adults will have a phone account by the end of the project period).
+     A large proportion of the adult population will have a regular bank account that
+       can be accessed from their mobile phone account (>70 percent of adults will have
+       a regular bank account by the end of the project period).
+     A large share of salary and supply chain payments will be effected electronically,
+       directly into customers’ bank accounts, which in turn can be accessed through
+       mobile phone accounts.
+     The amount of cash in circulation (M1) will decline as more transactions are
+       made electronically (the amount of cash in circulation will begin to decline in the
+       second year after the MPS becomes fully functional).
+     An appropriate legal and regulatory system will be in place for mobile phone
+       transactions (a general framework regulation covering all necessary topics will be
+       in place by the time transactions in the system begin).
+     Everyone with a phone account will be able to deposit and withdraw reasonable
+       amounts of cash from their accounts anywhere in the country.
+
+1.3    Revised PDO (as approved by original approving authority) and Key
+Indicators, and reasons/justification
+
+1.3.1. The Project Development Objective was not revised.
+
+1.4    Main Beneficiaries
+
+1.4.1. The group that was intended to benefit the most from this project was the general
+population living and working in the atolls. The population’s remoteness from formal
+bank retail outlets (branches or ATMs) forced people to carry, hold, and exchange
+significant amounts of cash. They needed to travel large distances and subsequently
+withstand long queues at bank branches to collect payments (including salaries and
+proceeds of fish stock sales), pay bills, or transfer payments to relatives, friends, or
+suppliers. Beyond the transportation costs and the time involved, there were safety and
+security concerns. This situation also reduced financial savings, as people were more
+likely to bring their entire value of wages earned home and carry larger precautionary
+cash balances with them. As such, the main expected benefit of the project was that
+universal access to financial services would be provided. This would reduce the
+vulnerability of people living on remote islands, especially women in fragile
+environments with limited access to financial services.
+
+1.4.2. A second group that was expected to benefit from the project were businesses and
+industries—especially the main industries of tourism and fishing on which the economy
+
+                                             3
+depends—through a reduction in the costs and risks of the prevailing cash-based system.
+Moreover, financial institutions (particularly banks), were projected to be in a position to
+extend the outreach of their services to remote islands in every atoll, provide more
+products, and reduce transaction costs for the ultimate benefit of their clients.
+
+1.4.3. Finally, the government and the banking system were expected to benefit from a
+reduction in the costs of printing, storing, and distributing cash.
+
+1.5    Original Components (as approved)
+The project had two main components:
+
+1.5.1. Component 1 – Create, establish, and operationalize the Maldives
+Interoperable Payments System (MIPS): (US$6.00 million). The payment system is a
+single-currency system operating in Maldivian Rufiyaas (Rf) that will be capable of
+interoperating with all local mobile network operators and integrating all the banks. The
+system will offer a set of mobile telephone-based accounts that include: (i) mobile
+payment accounts; (ii) mobile agent accounts; (ii) mobile card accounts; (iii) mobile
+loyalty; (iv) mobile airtime reseller accounts; and (iv) a customized account type, for
+introduction of new banking/payment products in the future.
+
+1.5.2. The payment system would enable subscribers to transfer funds to and from bank
+accounts held in any bank both to and from the telephone-based accounts. The telephone
+accounts were to be accessible from the handset. New customers would be able to enroll
+through the mobile handset and withdrawal and deposit functions would be performed by
+a network of agents. The project aimed at having at least one agent in each of the 200
+inhabited islands, 89 resorts, 30 to 40 industrial/agricultural islands, and in Male. Each
+agent would have a direct contractual relationship with the bank for which he/she
+performed cash functions. For the purpose of supporting the “Know Your Customer”
+qualification, the system would be integrated with the National Registration System for
+validation of subscriber identity during the enrolment process.
+
+1.5.3. The main elements of the MIPS would be the Mobile Payment System (MPS), an
+RTGS system, an image-enabled ACH system, and an Electronic Funds Transfer
+(EFT)/Point of Sale (POS) /Automated Teller Machine (ATM) front-end processing
+system. These elements would be integrated into one single system backed up by a
+disaster recovery system. This technical solution was intended to provide the simplest
+possible interface to the banks’ existing core banking systems.
+
+1.5.4. Component 2 – Building an enabling environment and the capacity to
+support successful mobile phone banking systems – (US$1.00 million) Capacity must
+be built in several areas to ensure that the system would be properly regulated, work for
+clients, and be well managed. It would be necessary to develop and implement
+regulations to cover all aspects of the system, as well as build the capacity of regulators
+to supervise it. To help ensure that people and businesses understood the benefits of the
+system and adopted and trusted it, a promotion/public education campaign would be
+conducted. Finally, a mobile phone banking unit would be established under the MMA
+
+                                             4
+that would have the capability to implement and manage MIPS. This unit would be
+established keeping in mind the longer-term objective of transitioning into a competent,
+viable MIPS Business Unit after transaction volumes reached a reasonable level.
+
+1.6     Revised Components
+
+1.6.1. The components were not revised.
+
+1.7     Other significant changes
+
+1.7.1. The project was restructured twice during the implementation period:
+    (i)   Extension of Closing Date: The project was restructured on May 8, 2012, to
+          extend the closing date from June 30, 2012, to December 31, 2013, to
+          overcome implementation delays due to political turmoil in the country over
+          the previous few years. The extension was proposed to allow the completion
+          of critical components of the MPS and of the ACH. However, the
+          implementation of both the MPS and the Direct Debit part of the ACH remain
+          incomplete as of March 31, 2014.
+    (ii)  Partial Cancellation of Proceeds: The second restructuring letter was sent to
+          the government on December 23, 2013, to cancel US$1.5 million in un-
+          utilized funds. The project, therefore, closed after disbursing SDR 3.92
+          million out of SDR 4.90 million (80 percent.)
+
+2.     Key Factors Affecting Implementation and Outcomes
+
+2.1.    Project Preparation, Design, and Quality at Entry
+(including whether lessons of earlier operations were taken into account, whether risks and their
+mitigations were identified, and the adequacy of participatory processes, as applicable)
+
+2.1.1. Quality at Entry: The Minutes of the Quality at Entry Review (QER) indicate
+that two principal issues were addressed with the project team. First, the peer reviewers
+and management wanted to be convinced that there is buy in not only from the Maldives
+Monetary Authority (MMA) but also from other stakeholders including the Ministry of
+Finance. In addition, some of the participants reiterated that the private sector and the
+other stakeholders need to be involved in the process from the inception. Second, the
+project team was requested to update the RIW and also to identify indicators which can
+be properly measured. In addition, the team was requested to have baseline data at least
+before going to Board. Risks in the regulatory framework as well as sustainability beyond
+the project period were highlighted as high risk. The team was requested not to have a
+new component for monitoring and evaluation (M & E) but to ensure that data is
+adequately collected to measure outputs and outcomes.
+
+2.1.2. The ICR team’s judgment on quality at entry is based on the advice provided by
+the QER, on a full review of project preparation and appraisal documents that provided
+the analytical basis for the project design, as well as on the findings from a field visit and
+interviews and discussions with all project stakeholders.
+
+
+                                                5
+2.1.3. Responding to the PDO to increase banking system transactions through mobile
+phones, the design of the project focused on developing and implementing a single
+interoperable payment system, ensuring the participation of banks and mobile network
+operators, establishing agent networks, and putting in place an appropriate legal and
+regulatory framework. The single interoperable payment system consisted of: (i) an
+RTGS system; (ii) an image-enabled ACH system; (iii) an EFT/POS/ATM front-end
+processing system; and (iv) a MPS. The broader scope of the project components - that
+included establishment of a single interoperable system consisting of the RTGS, ACH,
+EFT/POS - does not seem to be linked to the PDO nor to the performance indicators
+provided in the Results Framework. Further, the ICR review does not find in the
+preparation and appraisal documents, adequate explanations to assess the role that the
+RTGS/ACH components play in fulfilling the stated PDO. In addition, there are no
+indicators to measure any of these components, except the MIPS component. As a result,
+even though the RTGS and parts of the ACH were successfully implemented, it was
+difficult for the ICR team to accurately assess these components’ contribution to
+achievement of the PDO.
+
+2.1.4. Further, it is not clear why such a complex system integrating the settlement of
+gross and retail value payments with an MPS was necessary to achieve the PDO. While
+acknowledging that, if successfully achieved, the project would have represented the first
+time a country managed to create a single, national interoperable payment and banking
+system in which mobile phones and local banking agents were the main payment
+instruments and devices, the Project Appraisal Document (PAD) justified this choice on
+the grounds that such an approach was “the best and most cost-effective way for financial
+services to reach all the people in Maldives, given the country’s challenging geography,
+thin financial sector, and relatively high mobile telephone penetration.”
+
+
+2.1.5. Despite the assertion that the project design was the “best and most cost-
+effective”, absent from the project preparation and appraisal documents was the type of
+economic and financial analysis to justify the heavy investment in the RTGS to fulfill the
+more limited project objective to expand financial inclusion through the use of mobile
+phones. Also not found was an analysis of the costs and benefits to the commercial banks
+to upgrade their core banking systems to be able to interoperate with the Interoperable
+Payment System platform being developed under the project. Further, fee structures to
+justify the Bank of the Maldives Ltd (the largest participating bank) sharing its ATM and
+branching infrastructure and card acceptance business -- if analyzed, negotiated, and
+agreed at an early stage -- might have provided the framework for an arrangement that
+ensured all parties’ full participation in the project.
+
+2.1.6. Because a simple mobile phone banking platform was all that was needed to reach
+population groups in the outer atolls, a more modest Mobile Network Operator (MNO)-
+led Mobile Financial System (MFS) model,2 or even a commercial bank-led MFS model3
+
+
+2
+  In a Telecom-led MFS model, the telecom company is the issuer of the product and handles all activities,
+including responsibility for customer funds.
+
+                                                    6
+similar to those operating successfully in many other countries, would have been a more
+appropriate design for achieving the project objectives. The Bank project team provided
+assurances that they followed a consultative process and “conducted lengthy sessions
+during missions where various options; Bank-led model, MNO led model, MMA led
+model etc. were discussed”. The Bank project team, nevertheless acknowledges that these
+discussions are not recorded in detail in any of the Aide Memoires. Hence the project
+team asserts that the design was agreed upon in a democratic manner and was not a top
+down approach. However, because the project did not succeed, banking and payment
+services are still not available—especially to people in the atolls—even after 80 percent
+of the project funds were utilized.
+
+
+2.1.7. Soundness of background analysis:             A Vision Document and Project
+Framework for “Developing a National Banking and Payment System with Mobile
+Phones” developed jointly by CGAP and MMA in December 2006, found that a retail
+payment system that relies primarily on mobile phones is feasible in Maldives, given
+sufficient commitment by the government, banks, and mobile operators. However,
+neither this study nor any other study conducted a cost-benefit analysis for the
+participants. In fact, both the Bank of Maldives (BML) and Dhiraagu (the largest mobile
+network operator) informed the ICR mission team that they had repeatedly requested
+such an analysis over the implementation period, but none was supplied. If such a study
+were carried out, the concerns of BML (such as cost and revenue-sharing arrangements)
+may have been addressed upfront, thereby ensuring their participation when the MPS was
+ready to be launched. This study also noted that “a Large Value Funds Transfer (LVFT)
+system” or “an appropriately scaled Real Time Gross Settlement (RTGS) system” was
+“somewhat outside the scope of this project,” although it could be implemented by MMA
+to facilitate business-to-business, government-to-government, and bank-to-bank payment.
+This advice was not taken into account during the project’s design phase, thereby
+resulting in a highly complex undertaking. Furthermore, no analysis was done to justify
+the need to implement an RTGS system as an essential part of this project in achieving
+the PDO. Even the outcome indicators do not reflect statistics on large-value transactions
+or impact.
+
+2.1.8. Lessons learned from previous World Bank Group-assisted projects: During
+the preparation of this project, the World Bank admitted that it had not funded a
+branchless banking project of any kind. The World Bank also admitted that no country
+has yet developed a retail payment system that relies primarily on mobile phones, that is
+open to all mobile phone operators and financial institutions, and that delivers basic
+banking services to all citizens. However, the World Bank has considerable experience in
+implementing payments system projects, including installation of ACH and RTGS
+systems in many countries, which is perhaps one reason why those systems were added to
+
+3
+  In a Commercial Bank-led MFS model, the bank is the primary driver of the product or service, typically
+taking the lead in marketing, branding, and managing the customer relationship. The customer has a
+contractual relationship with the bank, which often outsources certain activities to one or more service
+providers (such as a Mobile Network Operator – MNO) for the transmission of transaction details and
+sometimes even the maintenance of clients’ sub-accounts.
+
+                                                    7
+the MPS in this case, albeit without a justification as to why RTGS was needed to
+achieve the PDO under this project. The preparation team drew more on CGAP’s
+experience. The work CGAP’s technology team had carried out on branchless banking
+and on mobile phone banking in particular underscored the following key success factors:
+(i) ease of use of the user interface; (ii) communicating clear benefits from the service to
+potential users, especially as regards savings products (where take-up generally has
+lagged behind bill payment and remittance services); (iii) ensuring security of
+communications and transactions, and allaying public concerns in this regard; (iv)
+providing clarity to agents on the economics of agent service provision and ensuring
+adequate returns for them, to avoid undue turnover of agents; and (v) making account
+opening requirements work for the poor.
+
+2.1.9. While the preparation team carefully considered these aspects through the design
+stage of this project, it could have done more to communicate with the main
+participants—the banks and the Mobile Network Operators (MNOs)—about the costs and
+benefits of participation so that BML could not withdraw on the reason that it never
+received a concrete analysis of the benefits that would accrue to BML by participating.
+The implementation reports for the project indicate that the lion’s share of blame falls on
+BMLs shoulders for putting its commercial self-interest and its dominant market position
+ahead of the legitimate objectives of the country to enhance financial inclusion in the
+atolls. While this may be true, it can also be said - as a lesson learned with hindsight -
+that the importance of BML’s participation and the potential of these constraining issues
+could have been anticipated at an earlier stage and mitigation measures implemented to
+address those risks.
+
+2.1.10. In response to the second lesson, which clearly pointed to the lack of required
+expertise to implement projects in Maldives, the proposal included a provision for
+technical assistance, assigning competent international experts to MMA. However, in
+spite of repeated requests by participating banks and MNOs, these experts failed to
+provide them with a cost-benefit analysis. In addition, the need to include RTGS (or the
+role it plays) in the planned mobile retail payment system was similarly neither justified
+nor explained in an appropriate manner.
+
+2.1.11. Risk Assessment: The overall risk of the project was rated as Moderate in the
+Project Appraisal Document (PAD). The Implementation Completion Report (ICR) team
+does not agree with this rating. Lack of Government of Maldives (GOM)/MMA
+ownership was rated low and lack of ownership by key stakeholders was rated Moderate.
+Clearly, both should have been rated high so that appropriate mitigation measures could
+have been anticipated and applied from the very beginning, even before BML refused to
+participate in the project, given that BML’s participation was critical to operationalizing
+the project as it has been designed. Even at the QER, the peer reviewers and management
+“wanted to be convinced that there is buy-in not only from the Maldives Monetary
+Authority (MMA) but also from other stakeholders including the Ministry of Finance and
+the private sector”.
+
+
+
+
+                                             8
+2.1.12. The project envisioned a single interoperable payment system that would have
+combined the services of all the banks and mobile network operators operating in the
+country. Such a total interoperable system, if fully implemented, would indeed have been
+“an exemplar for other South Asian and Sub-Saharan African countries with some of the
+same characteristics” as recorded in the PAD. However, what was overlooked was the
+unusual situation proper to the financial sector of Maldives, with its unique geographical
+dispersion of 300,000 people across 200 scattered islands in 26 atolls. Here, one locally
+owned commercial bank—with more than 62 percent of the market share and the only
+network of branches among the atolls—remains unwilling to share its core banking
+system and card platform with the other banks and cellular companies operating in the
+country. This apparent critical risk was not properly recognized at the outset, and no
+mitigating action was planned or taken during the entire implementation period.
+
+2.1.13. While mobile phone banking in general is not considered high risk, the project as
+designed – with high levels of interdependency and interoperability between different
+bank and telco business interests – represented a high aspiration. Interoperability is still a
+subject of contentious debate today. Thus the design made the project higher risk than
+would normally be expected of a simple mobile banking solution. More important,
+because the project aimed to develop a solution that had not been possible anywhere else
+in the world, it was explicitly described as a pilot. In the case of pilot projects, it would
+have been prudent for the project team to consider putting in place, even at the design
+stage a Plan B – i.e. alternative plans in case critical risks triggered remedial actions.
+However, no Plan B was ever developed for this project.
+
+2.1.14. Adequacy of participatory processes: Although the World Bank and MMA
+teams held several discussions with the banks, MNOs, and other stakeholders, these
+discussions did not succeed in building the necessary ownership and interest within the
+largest domestic bank and MNO. Without a clear participation signal from BML, the
+other banks had no incentive to participate in the project, as BML’s branch network is
+critical for liquidity management purposes. Nor is it clear that BML’s expressed concerns
+with respect to recovering its investment in its ATM network and ensuring a protection
+period for its profitable card acceptance business were addressed in the design of fee
+structures, revenue sharing, or in the terms and conditions of the Memorandum of
+Understanding (MOU). Perhaps greater background work on various issues—including a
+schedule of charges by which participants must abide and cost implications for customers,
+banks, and MNOs of the entire operation—could have led to more fruitful discussions
+and elicited greater enthusiasm among the critically important participants. Again as
+noted, the issue of adequate participatory processes was raised at the QER.
+
+2.1.15. Adequacy of government commitment: Although the government initially
+showed keen interest in the project, the level of interest appeared to wane after changes in
+country leadership occurred during the presidential and parliamentary elections of 2009
+which changed the leaders who had been the initial champions of the project and its
+objectives. Thus, when the issue of non-participation by the government-owned bank
+(BML) surfaced later on, it appears that the government was no longer keen to resolve
+matters by perhaps enforcing BML’s participation for the sake of the country, and
+
+                                              9
+thereby bringing the project to operation. The project documents also show that the award
+of the contract was delayed substantially after the change of the government and until the
+Bank received written confirmation of the borrowers’ commitment to the project.
+Accordingly, on July 6, 2009 the Deputy Governor of MMA informed the World Bank
+that they had signed a Memorandum of Understanding with BML on July 2, 2009 and
+MMA’s commitment to the project was reconfirmed. On the same day, the Minister of
+Finance and Treasury (MOFT) also confirmed to the World Bank in writing that they
+consider the project to be a top priority.
+
+
+2.2.   Implementation
+(including any project changes/restructuring, mid-term review, Project-at-Risk status, and
+actions taken, as applicable)
+
+2.2.1. The implementation of the project has not been easy, not least because the
+implementing agency—the MMA—had no prior knowledge, preparatory study exposure
+to, nor experience in implementing such a novel and complex project. The project itself
+was pioneering in the field of mobile financial services, with no instance at that time of
+any other country having designed or implemented such a “Regulator-led model” of
+mobile phone banking or mobile financial services in which all banks, as well as MNOs,
+would interoperate, and whose system would additionally be linked to the RTGS and the
+ACH. The then Governor, along with the Ministry of Finance and Treasury (MOFT),
+strongly supported this initiative and the leadership of implementation was given to a
+Policy Steering Committee (PSC) and a Project Advisory Committee (PAC), both headed
+by the Governor. The PAC consisted of representatives from the MMA, banks, MNOs,
+and a representative from the Department of National Registration. Actual
+implementation was carried out by a newly established Mobile Phone Banking Unit
+(MPBU) at MMA, headed by a Senior Executive Director and supported by a Technical
+Advisor recruited under the project. Although implementation could not be completed
+according to the original schedule, due to various delays, most of the hardware and
+software was ultimately procured and installed by the extended project closing date. As a
+result, two of the subcomponents went live and are functioning successfully. The RTGS
+went live in 2011, and one part of the ACH—i.e., Direct Credit payments—went live in
+2012, after adequate user testing and training. However, the other two sub-systems of
+ACH—the Direct Debit system and the electronic presentment of checks (check imaging
+and truncation system)—are yet to be implemented. The Direct Debit system was delayed
+due to the holdup in finalizing the Operational Guidelines, while the general setbacks in
+operationalizing the project have meanwhile rendered obsolete the original scanners for
+the check imaging system that were to be procured. Moreover, the two main
+subcomponents, which are the MPS and the Interoperable EFT Switch, could not be
+operationalized when the largest bank in Maldives (BML) refused to join the
+interoperable system on the pretext that the system would erode its market share, allow
+other banks to compete for its credit and debit card acceptance business, and access its
+ATM and branch networks without a fee structure that it considered adequate to
+compensate for its significant investment. Therefore, although BML had endorsed the
+project concept at the consultations held in December 2007, and had further expressed its
+willingness to support the project by signing, with the approval of its Board, the MOU
+                                           10
+with the MMA in November 2009 securing its participation in the interoperable system, it
+nevertheless reneged on the MOU when the system was on the verge of being
+operationalized.
+
+2.2.2. As a result, the MPS could not be launched, and the expected outcomes of the
+project could not be achieved. The project rating was downgraded to Moderately
+Unsatisfactory in June 2009, for a brief period of five months, and then upgraded to
+Satisfactory again in November 2009 after BML signed the MOU. Subsequently, the
+project was again downgraded to Moderately Unsatisfactory in December 2010, and
+eventually further downgraded to Unsatisfactory in April 2013. This rating held until the
+closing date.
+
+2.3.   Monitoring and Evaluation (M&E) Design, Implementation, and Utilization
+
+2.3.1. The design of the project included a transaction reporting capability, so that the
+nature, volume, and purpose of electronic m-banking transactions could be recorded
+automatically and reported regularly. This system would produce most of the required
+monitoring data. However, the system could not be put to use, as there have been no
+electronic m-banking transactions to date in the absence of an operational MPS. Although
+MMA planned to collect information from banks on savings and credit balances by atoll
+and by island size, as well as by type of account holder and by sector of economic
+activity, the data collection process appears to be at a standstill, which has made it
+difficult to ascertain the validity of such data produced by BML.
+
+2.4.   Safeguard and Fiduciary Compliance
+
+2.4.1. No social safeguard policies were triggered by the project. However, the project
+did consider the need to ensure customer protection through a proper legal and regulatory
+framework. Awareness campaigns to help users understand and value the proposed
+system were planned and executed during the implementation period. The Safeguard
+Compliance is rated as Satisfactory.
+
+2.4.2. The project complied with most of the fiduciary covenants during implementation.
+The MPBU maintained adequate records and accounts and furnished the interim
+unaudited financial reports for the project within 45 days of each quarter and the audited
+accounts within six months of the end of each year. However, the government failed to
+call regular meetings of the PSC and the PAC, especially towards the end of the project.
+Fiduciary Compliance is rated as Moderately Satisfactory.
+
+
+2.5.   Post-Completion Operation/Next Phase
+(including transition arrangement to post-completion operation of investments financed by
+present operation, Operation & Maintenance (O&M) arrangements, sustaining reforms and
+institutional capacity, and next phase/follow-up operation, if applicable)
+
+2.5.1. An MPBU was set up in MMA in January 2008 to implement the project. This
+unit was set up as a separate cost center to ensure that it functioned independently of the
+
+                                             11
+mainstream MMA. It was assumed that, as transaction volumes began to increase, this
+unit would have generated more than enough revenues to meet its operating costs, thus
+making it a sustainable business unit. At that time, a transition was planned from the
+MPBU structure to a MIPS Business Unit structure. However, since the MIPS—
+including the MPS and the EFT Switch—could not be operationalized due to the non-
+participation by the largest bank in Maldives, the planned transition became redundant.
+
+2.5.2. However, when the MPS could not be operationalized due to non-participation of
+BML, MMA obtained its Board’s approval to sell the tested and ready MPS, called Keesa,
+to an interested eligible party through a public bidding process. Although the largest
+MNO, called Dhiraagu, initially showed interest in buying the MPS, the company later
+informed MMA that it would not bid on the system, as it did not see a viable business
+case for the MPS. As such, when bidding was opened, not a single bid was received. One
+reason for this lack of interest is the absence of a regulatory framework within which an
+MNO could operate the system as a non-bank institution.
+
+2.5.3. The MPS platform called Keesa is technologically outdated4 and obsolete. Given
+the major market innovations over the past seven years, there are low-cost, nearly
+standardized, off-the-shelf platforms that are now available. The vendor’s opinion is that
+the country should choose a less costly and more sophisticated, user-friendly, newer
+solution rather than try to upgrade the older software.
+
+2.5.4. MMA can consider opting for an MNO-led model and, specifically, an “MNO-led
+custodial bank-based model,” as successfully launched in some countries provided that:
+     Interoperability with banks is not made a precondition;
+     The MNO platform is not linked to MMA’s RTGS or ACH switches in real time;
+     A Tier-II banking license for either the MNO or for its agents is not made
+       mandatory and MMA enables an MNO to operate the MFS system as a non-bank
+       model; and
+     A custodial bank arrangement is put in place to provide for the necessary
+       supervisory, risk management, and consumer protections.
+
+2.5.5. The MNO would have various options with respect to the technology platform.
+    (i)   One option would be to use Keesa, invest in the necessary upgrades, and
+          transform the codes to operate it as an MNO-led model. As described earlier,
+          this option raises issues of cost and technological efficiency. Since the
+          operating license would need to be transferred from MMA to an MNO, the
+          pricing of the transfer would have to be negotiated, taking into account that
+          the platform is now obsolete. Moreover, in order to operate this model, the
+          MNO will have to obtain a banking license, a prospect that is not attractive to
+          an MNO.
+    (ii)  Another possible avenue would be to allow the MNO to develop its own
+          platform.
+
+4
+ Keesa runs on the Enterprise Application platform version 5.6 and needs to be upgraded to at least the
+5.12 version, with each version requiring over 30 patches for the upgrade.
+
+                                                    12
+     (iii)   Finally, a third option would be to obtain a multi-operator platform from a
+             tried and tested solution provider.
+
+2.5.6. In order to enable an MNO-led MFS model, MMA would need to create an
+appropriate enabling regulatory environment, including the immediate enactment of the
+Payment Systems Law. If an MNO-led MFS model is to be examined as a viable option,
+MMA will have to issue regulations enabling non-bank providers to own and operate
+MFS. The prudential regulations to govern non-bank mobile money providers would give
+MMA the authority to issue guidelines and to effectively mitigate the risk of mobile
+money customers losing the money they have stored in the system.
+
+2.5.7. With regard to ACH operations, it is prudent to issue the finalized regulations and
+start Direct Debit operations. With regard to check imaging, MMA should go ahead with
+procuring new scanners, as planned.
+
+2.5.8. With regard to the EFT Switch, MMA has not incurred any additional expenses
+for the national switch. It may be prudent at this stage to evaluate this separately as a
+longer-term payment reform option.
+
+3.      Assessment of Outcomes
+
+3.1.     Relevance of Objectives, Design, and Implementation
+(to current country and global priorities, and Bank assistance strategy)
+
+3.1.1. The project’s objective clearly remains highly relevant to the development of the
+Maldivian economy. It also remains relevant to the World Bank’s sector assistance
+strategy of improving access to finance as part of an effort to enhance private-sector
+development. Therefore, both Bank Management and MMA/MOFT are eager to find a
+way to achieve the goal of reaching the unbanked by using mobile phones to carry out
+banking and other financial transactions. It is, therefore, critical to find a way out of this
+stalemate. The ICR team had provided some options for MMA and MOFT to consider in
+this respect, along the lines suggested in the Next Phase section presented above (Section
+2.5).
+
+3.1.2. Design and Scope: Both the design and scope of this project may no longer be
+relevant and must be changed along the lines discussed in the Next Phase section
+presented above.
+
+3.1.3. Implementation: The PDO and contribution to the CAS clearly focused on the
+goal of reaching the unbanked and improving access to finance using mobile phone
+banking as a retail payment platform and a lower-cost access channel to outlying atolls
+than is normally provided by traditional banks. However, the rationale is not clearly
+articulated in the PAD for complicating the project design to include implementation of
+an RTGS and an ACH—major technical and implementation challenges by themselves—
+that might have justified a free-standing technical assistance grant. An added layer of
+complexity was inherent in the design requirement that the MIPS be managed by MMA
+to interoperate with all banks and all MNOs, with their respective agents, as well as with
+                                                13
+the gross settlement and ACH systems. The two diagrams below display the complex
+management process that MMA faced, having no precedent in the world from which to
+borrow, replicate, or even mimic.
+
+
+
+
+         MIP S - The Maldives Inter-operable P ayment S ys tem
+                                                                                               MIPS
+                                                                         Multilateral
+                   Paying Bank                                              NSI
+                  Collecting Bank
+                       Value        High Value
+                                                    RTGS     Reserves/
+                    Customer        Payments
+                         •Paying                              pledges
+                       •Receiving
+                                                                                        High Value
+                                                                                        Payments
+                                                            Settlement
+                                    High Value               Accounts
+                   Bank A           Payments                                                 Bank B
+                                                                                 Intra and
+                                                          Net                   Inter Bank
+                                                                                Payments
+                                                      Settlement
+                                                      Instruction
+                                                                                              Low Value
+                                                          and
+                                                                                               Payment
+                                       Low Value       response
+                                                                                                Files
+                                        Payment
+                                         Files      ACH
+                                                                                         Refusals
+                                                                                        for debits
+                                        Refusals
+                                       for debits
+                                                     A B C D E F
+
+
+        Page 10
+
+
+
+
+3.1.4. Indeed, at the time of appraisal through the first stages of project implementation,
+detailed operating guidelines and procedures for MIPS, associated staff training plans,
+and an assessment of staff capacity within MMA to manage and operate such a
+
+                                                     14
+complicated back office were not provided to guide implementation of the centrally
+important project element, without which the PDO could not be achieved.
+
+3.1.5. In effect, MMA lacked the skills and expertise to implement a complex payment
+system, which was further exacerbated by the changes in the leadership of MMA during
+the implementation period. Although this risk was recognized in the Critical Risks
+section, it was nonetheless rated as Moderate and mitigation measures consisted of
+recruiting experienced consultants, building the cadre of staff for the MIPS, insisting on
+close supervision by a technical working group, and training by international experts of
+local staff in MMA. However, not even a study tour was planned to expose the
+inexperienced MMA management and staff to a country that was successfully managing
+non-interoperable systems at that time, such as Kenya and the Philippines.
+
+3.1.6. If a future opportunity arises to support implementation of an MNO-led model,
+MMA’s involvement as the regulator would be necessary with the authorities to issue e-
+Money and mobile money regulatory guidelines under a Payment Systems Law. Hence,
+capacity building within MMA would continue to be a crucial element for successful
+implementation.
+
+3.1.7. As the country’s monetary authority, MMA is de facto responsible for anything
+having to do with the payment system, whether it be retail or large value, as it has a direct
+impact on the money supply and monetary policy.
+
+
+3.2.    Achievement of Project Development Objectives (PDOs)
+(including brief discussion of causal linkages between outputs and outcomes, with details on
+outputs in Annex 2)
+
+3.2.1. Unsatisfactory. The project was unsuccessful in achieving the PDOs. Almost
+none of the Outcome and Output Indicators could be achieved as the MPS could not be
+operationalized, even after the planned hardware and software systems were procured and
+installed.5 Thus, 80 percent of the project funds amounting to US$6 million were utilized
+to install and commission the three systems: the RTGS, the ACH, and the MIPS.
+However, only the RTGS and the Direct Credit function of the ACH are in operation now.
+Although these two systems are generating some benefits, they are unable to contribute to
+increasing the use of banking system transactions via any mobile phone operator and
+cashing out through any banking agent. Therefore, the population residing in remote
+atolls is still forced to carry, hold, and exchange significant amounts of cash and have to
+travel to Male to withdraw cash, collect payments, pay bills, or transfer payments. The
+goal of expanding access to financial services through mobile telephones remains
+unfulfilled as the MPS could not be operationalized.
+
+
+5
+ Already noted is the fact that output and outcome indicators relating directly to the RTGS and ACH were
+never developed for the project. Given that expenditures on these two major software and hardware
+systems represented the major portion of actual project expenditure, this can be considered a flaw in the
+project results monitoring framework.
+
+                                                   15
+3.3.    Efficiency
+(Net Present Value/Economic Rate of Return, cost effectiveness, e.g., unit rate norms, least cost,
+and comparisons; and Financial Rate of Return)
+
+3.3.1. Since the main subcomponent, the MIPS, could not be operationalized, the
+principal benefits envisaged during project design, and planned to be assessed through
+the listed project outcome and output indicators, have not been achieved. Although most
+of the systems were procured and installed and 80 percent of the funds (US$6 million)
+were utilized for this purpose, the project has yet to achieve any of the benefits that could
+be measured through the listed indicators. However, the fact that the benefits listed under
+the indicators have not been achieved should not be construed to mean that no benefits
+have accrued under the project. The benefits that have accrued so far include: (i) a fully
+functioning RTGS system that is processing 100 transactions on an average per business
+day. In 2013, a total of 22,059 transactions in Rf and 13,118 transactions in U.S. dollars
+have been processed. The value of transactions processed are Rf 351.43 billion and
+US$2.18 billion, respectively.
+
+3.3.2. While it is tempting to calculate the per transaction or per unit of currency value
+to determine the efficiency of the system, the current basis for determining the viability
+of RTGS has shifted from such estimates to assessing the benefits of mitigating
+settlement and systemic risk of interbank settlement process, and thereby avoiding
+stresses to the system arising from a default of a large-value payment. Since such a
+default could potentially trigger a financial crisis affecting the growth of the economy,
+RTGS plays a major role in preventing such defaults, with substantial benefits; (ii) a fully
+functioning Direct Credit service under the ACH that is processing 225 transactions on an
+average business day. A total of 75,533 Maldivian rufiyaa transactions and 34,974 U.S.
+dollar transactions have been processed since the system went “live” on February 2, 2012.
+Moreover, the Cheque Truncation and Imaging system is expected to go “live” by June
+30, 2014 and the Direct Debit service under the ACH is also expected to go “live” by
+December 31, 2014, thereby adding further to the existing benefits. An additional benefit
+is accruing by way of electronic transfer of pension payments of all retired government
+officials directly to their bank accounts. These pensioners appreciate this benefit, which
+spares them the trouble of traveling to Male from their resident islands to collect their
+pensions.
+
+3.4.    Justification of Overall Outcome Rating
+(combining relevance, achievement of PDOs, and efficiency)
+Rating: Unsatisfactory
+
+3.4.1. Relevance: As explained above, while the project objectives remain highly
+relevant to Maldives, the design, scope, and implementation framework would need to be
+changed going forward. Therefore, this is rated as Low.
+
+3.4.2. Achievement of PDOs: As explained above, the PDOs were not achieved, as the
+MIPS—including the MPS—could not be operationalized. The achievement of PDOs is
+rated as Unsatisfactory.
+
+                                               16
+3.4.3. Efficiency: While some benefits have accrued from the project so far, the main
+goal of expanding access to financial services through mobile phones has not been
+achieved. Efficiency is rated as Minimal.
+
+3.4.4. Based on the above factors and the discussion in Section 3 above, the overall
+outcome is rated Unsatisfactory.
+
+
+3.5.    Overarching Themes, Other Outcomes and Impacts
+(if any, where not previously covered or to amplify discussion above)
+
+(a) Poverty Impacts, Gender Aspects, and Social Development
+
+3.5.1. Poverty Impact: The project’s aim was to improve efficiency in the banking and
+payment system and to make the financial services more cost-effective, thereby
+increasing access to financial services by the unbanked and the poor. Therefore, the
+project was intended to contribute to poverty reduction through: reduction in the cost of
+banking transactions, especially for the poor and unbanked; reduction in the need to hold
+cash, thereby increasing investable funds for industries as well as individuals; reduction
+in cost and travel time to access banking services; and reduction in regional disparities
+that affect the poor adversely. None of these benefits could be achieved, as the MPS
+could not be operationalized. Nonetheless, the project has had some positive impact on
+poverty reduction by operationalizing the payment of pensions and social transfers
+electronically. Pensioners now have more time to engage in other productive pursuits,
+rather than spending time pursuing and collecting pension payments. In addition, the
+RTGS ensures real-time, large-value transfers that improve liquidity management for
+businesses and industries. In addition, the RTGS system offers a powerful mechanism for
+limiting settlement and systemic risks in the interbank settlement process.
+
+3.5.2. Gender Aspects: While the project did not have a specific focus on gender, the
+benefits accruing under the project would have been proportionately higher for women
+than men, simply because it would have brought greater convenience to them. It is,
+therefore, still very important to strive to achieve this project’s development objectives.
+
+3.5.3. Social Development: The project did not have any social development objectives.
+However, it could be surmised that increased financial access would have a development
+impact, especially for the poor.
+
+
+
+
+                                               17
+(b) Institutional Change/Strengthening
+(particularly with reference to impacts on longer-term capacity and institutional
+development)
+
+3.5.4. The project resulted in substantial development and strengthening of MMA’s
+capacity and skills through technological process-related interventions. By implementing
+the RTGS, MMA has been able to limit settlement and systemic risk in the interbank
+settlement process. It has also enhanced efficiency of the settlement process through the
+installation of the ACH. MMA is planning to install the EFT Switch, which will increase
+the efficiency of card payments in Maldives. Moreover, the project implementation
+experience has been a huge learning-by-doing for MMA staff. They are now
+concentrating on further increasing the availability and efficiency of banking transactions
+in Maldives and focusing on expanding access to the poor and unbanked.
+
+(c) Other Unintended Outcomes and Impacts (positive or negative)
+None.
+
+3.6.   Summary of Findings of Beneficiary Survey and/or Stakeholder Workshops
+(optional for Core ICR, required for ILI, details in annexes)
+N/A
+
+4.   Assessment of Risk-to-Development Outcome
+Rating: High
+
+4.1.   The ICR team considers that the risk-to-development outcome is high, as long as
+the design, scope, and implementation arrangements are not changed to suit the current
+circumstances.
+
+5.    Assessment of Bank and Borrower Performance
+(relating to design, implementation and outcome issues)
+
+5.1.   Bank Performance
+
+(a) Bank Performance in Ensuring Quality at Entry
+Rating: Unsatisfactory
+
+5.1.1. The World Bank’s performance in the identification, preparation, and appraisal of
+the project was Unsatisfactory. The World Bank responded to a request by the
+MMA/government after they were encouraged to try mobile phone banking, having heard
+about it at the regional microfinance workshop in December 2005. With no knowledge of
+or experience in mobile phone banking, the government relied completely on the World
+Bank Group to provide the best advice to successfully design and implement such system.
+MMA invited CGAP to explore the viability of the project, undertake a situational
+analysis, and compile a plan to drive the project forward to completion. CGAP responded
+
+
+
+
+                                            18
+enthusiastically and completed the study in December 2006 6 in conjunction with the
+MMA, which found that a retail payment system that relies primarily on mobile phones is
+feasible in Maldives, given sufficient commitment by the government, banks, and mobile
+operators. During preparation and appraisal, the World Bank along with CGAP appeared
+to be more focused on designing a project that would be the first of its kind in the world,
+and hence an “exemplar for other South Asian countries with some of the same
+characteristics, as well as countries in Sub-Saharan Africa and other parts of the world,”
+rather than assessing the applicability and acceptance of such a project in Maldives,
+which is characterized by a single domestic bank that controls more than 62 percent of
+the market share. A deeper discussion with BML management and customers would have
+revealed that this bank had its own grand designs and targets that did not align with the
+interoperable MPS offered under the project. For example, while the project was being
+implemented, BML was, in parallel, investing heavily in its own brand of credit and debit
+card systems and in the 26 ATMs outside Male, in addition to the 21 ATMs in Male itself,
+which they did not plan to share with any of the competing banks operating in Maldives.
+BML’s commitment to participating in an interoperable payment system was clearly
+lukewarm from the very beginning. Moreover, a review of the MMA Act and the
+Banking Act would have indicated that the MMA did not have the legal jurisdiction to
+mandate that BMA join the interoperable system for the overall growth and development
+of the country.7 Moreover, MMA did not have a Payments Systems law that would have
+given them explicit and enhanced legal and regulatory powers to effect such action.
+
+5.1.2. The two alternatives that were considered were both narrowly focused on other
+sources of funds, such as trust funds, institutional development funds, a Learning and
+Innovation Loan (LIL), or an Adaptable Program Loan (APL). Alternative designs—such
+as a simple MNO-led MFS model or a commercial bank-led MFS model that would have
+been more suitable for a small economy such as that of Maldives and which were gaining
+popularity in Kenya and the Philippines—were not considered, and no reasons were
+offered for this oversight.
+
+5.1.3. In addition, the broader scope of the project’s components—to establish a single
+interoperable system consisting of RTGS, ACH, EFT/POS was not adequately linked to
+the PDO or the performance indicators. The rationale for including an RTGS system and
+interlinking it to such a highly complex, ambitious, and interoperable MPS is similarly
+not discussed; and none of the project outcome and output indicators even reflect the
+contributions of the large-value payment system or the ACH components. As a result, it
+was difficult to accurately assess project achievements and ratings (even though the
+RTGS and parts of the ACH were successfully implemented).
+
+
+6
+  “Developing a National Banking and Payment System with Mobile Phones – Vision Document and
+Project Framework,” CGAP and MMA, Maldives, December 2006. Authored by Gautam Ivatury (CGAP
+technology specialist), Bill Donges (Payment Systems and Banking Technology- CGAP consultant), Peter
+Goldfinch (Mobile Phone Payment Systems - CGAP consultant), Keith Smith (Banking and Payment
+Systems Regulations - CGAP consultant), and Jenny Hoffman (Mobile Phone Banking - CGAP
+consultant). Ibraheem Naeem (MMA) made important contributions
+7
+  Under the Banking Act, Section 37, MMA could ask the banks to participate in such schemes however,
+enforcement is questionable.
+
+                                                 19
+(b) Quality of Supervision
+(including of fiduciary and safeguards policies)
+Rating: Moderately Unsatisfactory
+
+5.1.4. The World Bank team included experienced staff with expertise in relevant areas,
+including payments systems, legal and Anti-Money Laundering (AML)/Combating the
+Financing of Terrorism (CFT), environment, procurement, and financial management.
+There was considerable continuity in the project team; particularly the Task Team Leader
+(TTL) and the Lead Counsel remained involved from the beginning to the end of the
+protracted implementation period. Moreover, CGAP technical specialists (consultants)
+were on board for the entirety of the project; they designed and wrote the technical
+documents, as well as handled the regulatory and operational aspects of banking and
+mobile payments. The strong legal expertise in the team spotted the need for MMA’s
+legal mandate and suggested amendments to the MMA Act to mandate that all banks
+participate in nationally important projects. Furthermore, the legal team drafted the
+payment systems law that would have given MMA broad explicit powers in all matters
+pertaining to payment systems. However, this was stuck in the political turmoil even to
+date. Moreover, even the draft payments regulations were drastically revised by the
+International Monetary Fund (IMF), and recommendations that would have transformed
+MMA into a central bank were watered down by IMF amendments.
+
+5.1.5. Also, notably, the legal team achieved under the project rubric several noteworthy
+improvements to Maldives’ legal and regulatory framework with respect to the country’s
+financial system. When the project commenced in 2008, the legal framework for the
+financial system was at a rudimentary stage. Apart from the MMA law, no major law
+existed other than the financial institutions’ regulations. The team worked with MMA to
+develop the anti-money laundering regulations, the payment system regulations, the
+consumer protection regulations, and the agency regulations for MPS. Legal technical
+assistance was provided through continuous interaction and collaboration with not only
+the legal officers but officers from various departments of the MMA. Consultancy
+support was also provided for the system rules relating to RTGS and the ACH. The
+project was a catalyst for the drafting of the AML Law and the Payments Law.
+
+5.1.6. Further, the World Bank team conducted regular half-yearly implementation
+support missions from 2008 until 2013. In 2009, three missions were conducted. The
+March 2009 mission first flagged the possibility that BML may not participate in the
+project, as it was delaying the signing of the MOU with MMA concerning participation.
+The June 2009 mission then downgraded both the DO and IP to Moderately
+Unsatisfactory for the first time when MMA was still unable to get BML to sign the
+MOU. The World Bank also held up the clearance of the contract for implementation of
+the MIPS. The November 2009 mission then upgraded the project to Satisfactory once
+again after BML signed a conditional MOU. The World Bank cleared the contract for
+implementation of the MIPS and implementation proceeded as usual. This corresponds to
+a period during which there were leadership changes in government, in MMA, and in
+BML; the task team noted that the strong commitment and ownership of the government
+                                            20
+and MMA was now less certain. The leadership changes tilted the balance of power in
+favor of BML, and since then, MMA has been unable to convince BML to participate in
+the project.
+
+5.1.7. At this time, constraints to further project implementation occurred within a
+changed political landscape. Given BML’s legitimate commercial interests and MMA’s
+relative powerlessness to mandate this major bank’s participation in the project for the
+overall benefit of the economy and the country, it is unclear what, if any, leverage the
+task team or bank management in fact held to resolve the impasse.
+
+5.1.8. At this critical juncture, the task team urged the sale of the MIPS platform to
+BML or to either MNO. However, BML had already concluded investment initiatives in
+its own card platform, which it considered to be more advanced than Keesa. Without
+BML’s participation, the MNOs could not identify a business case that made the
+approximately US$700,000 investment in Keesa worthwhile,8 especially since the highly
+customized platform was now considered technologically obsolete and would require an
+additional upgrade investment of more than US$200,000.
+
+5.1.9. Once these efforts failed, neither the MMA nor the MOFT could do anything
+more to bring the project back on track.
+
+5.1.10. Although the World Bank and CGAP provided high quality and continuous
+technical inputs throughout the lifetime of the project, additional due diligence during
+supervision would have allowed the project task team to early identify triggers for critical
+events, to stop those events from happening, to change course, or, indeed, to undertake
+restructuring actions, including consideration of cancellation when project development
+objectives seemed unlikely to be realized. However, despite clear signals that BML’s
+collaboration was hesitant and that neither the Government nor MMA were willing or
+able to persuade BML to participate, no proactive action was taken during the entire 6
+year supervision period. The borrower’s and World Bank management’s decision to
+undertake a Level I restructuring would have allowed a recalibration of the project in
+order to achieve some degree of development effectiveness.
+
+5.1.11. As a result of the inadequate focus on achieving results with respect to the Project
+Development Objective, the quality of supervision is rated as Moderately
+Unsatisfactory.
+
+(c) Justification of Rating for Overall World Bank Performance
+Rating: Moderately Unsatisfactory
+
+5.1.12. Based on the Unsatisfactory rating for quality at entry and the Moderately
+Unsatisfactory rating for project supervision, overall World Bank Performance is rated as
+Moderately Unsatisfactory in accordance with the Independent Evaluation Group’s
+(IEG) harmonized rating criteria.
+
+
+8
+    See Borrower’s Implementation Completion Report for the value of investment in the Keesa platform.
+
+                                                    21
+5.2.   Borrower Performance
+
+(a) Government Performance
+Rating: Unsatisfactory
+
+5.2.1. During the appraisal and effectiveness of the project, the government’s
+commitment to it was strong. However, with the changes in the government that occurred
+in 2009, that commitment appeared to wane. Therefore, when BML dragged its feet in
+signing the MOU with MMA to secure its participation in the project, the government did
+nothing to change the bank’s decision, despite the fact that two government Directors sat
+on BML’s Board and the government owned 51 percent of BML’s shares. The Minister
+of Finance had reiterated its inability to advise the BML to join the MPS, as it would be
+construed as an intervention in bank operations. In the interest of benefits that would
+accrue to the general population, the government should have directed BML to go along
+with the project, since MMA had offered certain incentives. Overall, one notes a lack of
+commitment from both the MOFT and MMA senior management. This may have baffled
+the World Bank team, which was relying on the government’s commitment and majority
+ownership of BML to ensure that the largest bank participated fully in the project. The
+government’s performance during the project is, therefore, rated as Unsatisfactory.
+
+5.2.2. Nevertheless, on a very positive note, the Government deserves strong credit for
+showing commitment to the overall objective of providing financial access to the people
+of Maldives through the use of mobile phone banking. This commitment is demonstrated
+by the fact that the government, even after the project has closed, is actively exploring
+with the World Bank Country Director advice for how to pursue a simple, straightforward
+and low cost mobile money solution that would allow for greater financial access while
+ensuring consumer protection.
+
+(b) Implementing Agency or Agencies Performance
+Rating: Unsatisfactory
+
+5.2.3. The implementing agency, MMA, worked closely with the World Bank Group
+staff from the design of this project until its closing. MMA appointed highly motivated
+and committed counterparts to work with the international advisors financed under the
+project. The Authority also deserves very positive recognition for its successful
+implementation of the RTGS and part of the ACH system, and its efforts to strengthen the
+legal and regulatory framework for the financial sector.
+
+5.2.4. However, with hindsight, it appears that MMA’s inexperience was a big
+hindrance in its ability to steer the project successfully towards its stated objective to
+extend financial access through mobile phone banking. The Authority was overly
+dependent on CGAP and the World Bank for the scope and design of the project and on
+the international experts that were hired by CGAP and the World Bank to assist in the
+implementation of this overly complex project. Moreover, the leadership changes in the
+MMA also appeared to diminish their commitment and ownership. As the regulator of all
+banks in the country, it was expected that MMA could have exercised moral suasion to
+
+                                           22
+secure BML’s participation in this project. However, as discussed above, as a monetary
+authority MMA lacked legal authority over the financial and payment system; the
+Ministry of Finance, as the 51 percent owner of BML, chose not to mandate BML’s
+participation in the project by negotiating terms that might have been more attractive to
+its commercial interests.
+
+
+(c) Justification of Rating for Overall Borrower Performance
+Rating: Unsatisfactory
+
+5.2.5. Considering that both the government Performance and the Implementing Agency
+Performance are Unsatisfactory, the Overall Borrower Performance is rated as
+Unsatisfactory.
+
+6.    Lessons Learned
+(both project-specific and of wide general application)
+
+6.1.1. The first lesson to be learned from this experience is the critical importance of
+having a committed and reform-minded leadership and senior management, as well as a
+capable project team for implementing and sustaining complex technology-related
+projects. Payment systems are considered to be even more complex than IT projects.
+Payment systems implementation is composed not only of ICT, but also includes the
+application of payment rules, central banking and settlement, and risk management
+aspects. Hence, for the World Bank, it is important to ensure that the organization’s
+management is fully committed to reform, that it has the support of senior policymakers,
+and that there is likely to be policy continuity over the project’s lifecycle. The project
+design team should always keep in mind that government’s commitment is likely to
+change over the implementation period as it proved to be in this case and, therefore, plan
+mitigating actions to be invoked if and when this commitment should waver. While at
+project inception there appeared to be a strong commitment among the parties involved in
+the MPBP, several changes in leadership occurred. The political instability that prevailed
+in the country from 2009 until recent times impacted the decision making process as well
+as the MMA’s and MOFT’s commitment. That softened commitment clearly impacted
+the implementation of the project.
+
+6.1.2. Another lesson relates to the need to recognize early (at the planning and design
+stage) the technical complexity, substantial risks, and required mitigation measures
+associated with implementing large-scale technical programs, especially in an institution
+that has limited in-house technical knowledge and capacity. Furthermore, BML’s
+participation was critical to operationalizing the project as it had been designed; hence,
+BML’s role and participation in the project should have been addressed and managed as a
+critical event. The World Bank did not properly identify these substantial risks.
+
+6.1.3. When undertaking a complex design that has not been previously tested,
+especially, when the project is recognized as a “pilot”, it is essential for alternative plans
+
+
+
+                                             23
+to be included in the project design as a Plan B that can be put in place in case critical
+risks trigger the need for remedial actions.
+
+6.1.4. This project has once again validated the “Keep it Simple” (KIS) principle for
+designing World Bank projects. While it is often tempting to opt for a complex model
+that could represent a “first” in the world, practicality and pragmatism dictate that such
+attempts should be avoided, especially in developing countries with limited capacity and
+a shortage of skills. The unique Regulator-led MFS model with total inter-operability,
+was clearly an overly ambitious effort that over engineered the goal to introduce simple
+mobile phone-enabled banking services in a country with high mobile phone penetration.
+
+6.1.5. Another key lesson is the importance of defining the Project Development
+Objective and to link it closely with a Results Framework (outcome and output
+indicators) that allows accurate measurement of progress towards achieving the project
+goal. Some project components were not adequately linked to the PDO or the
+performance indicators. As a result, it was difficult for the project team to accurately
+assess project achievements and ratings (even though these components were
+successfully implemented).
+
+6.1.6. During project implementation and supervision, ongoing due diligence by the
+project team, combined with careful monitoring of achievement of project development
+objectives are keys to recognizing (a) when achievement of the PDO is off-track, (b) the
+appearance of “show stopper” risks and events; and (b) the need to change course by
+proactive restructuring. In the case of this project, it seems that the focus on
+implementing the RTGS and ACH systems drew attention and resources away from the
+main project objective and the main project component which was to develop the
+interoperable mobile phone solution that would enable the population to access their
+accounts using their mobile phones. As a result, it seems that due diligence and focus on
+PDO achievement was diluted and opportunities to change course were missed.
+
+6.1.7. Shifting course during project implementation, when a critical event that
+significantly impacts project completion is triggered, is an essential element of good
+project management. In this project it seems that the project team never attempted to
+change course during the six years of the project period. Often there are different paths
+that can be taken to achieve the same goal and this project might have had a more
+successful end if the project had been restructured when it was facing challenges.
+
+6.1.8. This project has also demonstrated the need for meaningful consultations with all
+stakeholders at all times. Simply relying on the power and influence of the government to
+force the participation of an unwilling participant did not work in this case. On the other
+hand, continuous and regular consultations at every step of the project, and listening
+carefully to the needs of the participants, could have been more effective in ensuring
+greater commitment and ownership from the stakeholders.
+
+6.1.9. Another important lesson from this project is that technology-ingrained projects
+should be implemented quickly, before the selected technology becomes obsolete. This
+
+                                            24
+also reinforces the need to keep the design and scope of such projects extremely simple
+so that they can be implemented quickly.
+
+6.1.10. This project also reinforces the fact that changing the legal framework is time-
+consuming and fraught with risks. Although the World Bank team incorporated a legal
+expert in the design and implementation of this project and drafted important regulations,
+even today (post project closing) the crucial Payment Systems Law that would give
+authority to MMA to manage electronic and mobile phone-enabled banking has not been
+passed by Parliament.
+
+6.1.11. Government’s role in mobile banking operations should be re-examined, and a
+better delineation of government and private sector roles should be developed. Mobile
+banking or innovations in financial services, more broadly, is cross-sectoral. Innovations
+span the financial sector (including payments, commerce, retail, and in some cases,
+microfinance) and the ICT sector (including, telecom services and in some cases postal).
+Today, the limited growth of mobile banking globally is due, in part, to a silo-led
+approach pursued by stakeholders, including by operators and donors. There is
+something to be learned from countries that have cross-sectoral strategies and approaches
+as they enable the development of widely used mobile banking and other electronic
+payment services to expand financial access by their populations.
+
+6.1.12. Finally, a successful system for mobile money or mobile financial services should
+pass the 3Cs test for effective implementation: Control, Coverage, and Cost. Control
+refers to the regulator’s ability and jurisdiction to inspect, supervise, and mandate all the
+participants of the systems. It also includes the regulator’s powers and effectiveness to
+effect compliance with all regulations and guidelines. This can be done either through an
+adequate legal framework or through power and influence originating from an authority.
+Coverage involves inclusivity and the technical capacity to include the targeted
+beneficiaries at a reasonable price. Cost refers to the need to make the services affordable
+and demanded by the target beneficiaries. It can be ensured through competition,
+efficiency, and proper regulations.
+
+7.   Comments on Issues Raised by Borrower/Implementing Agencies/Partners
+
+(a) Borrower/implementing agencies
+N/A
+
+(b) Cofinanciers
+N/A
+
+(c) Other partners and stakeholders
+(e.g. NGOs/private sector/civil society)
+N/A
+
+
+
+
+                                             25
+Annex 1. Project Costs and Financing
+
+ (a) Project Cost by Component (in US$ million equivalent)
+                                                      Actual/Latest
+                                  Appraisal Estimate                      Percentage of
+            Components                                  Estimate
+                                    (US$ million)                          Appraisal
+                                                      (US$ million)
+1. Establishment of Maldives
+     Interoperable Payment                 6.85              5.71                 83
+     System (MIPS)
+2. Build an enabling
+     environment and capacity –
+     legal and regulatory, public          1.50              1.50              100
+     awareness and project
+     implementation.
+3. Technical expertise and
+                                           1.25              1.25              100
+     support
+4. Market Survey and impact
+                                           0.25              0.25              100
+     measurement
+              Total Baseline Cost          9.85              8.71              88.4
+Physical Contingencies
+                                         0.00                 0.00             0.00
+Price Contingencies
+                                         0.70                 0.00             0.00
+             Total Project Costs        10.55                 8.71             82.6
+Front-end fee PPF                        0.00                 0.00             0.00
+Front-end fee IBRD                       0.00                 0.00             0.00
+     Total Financing Required            9.20                 8.71             94.7
+
+
+
+
+(b) Financing
+                                                    Appraisal Actual/Latest
+                                      Type of                                 Percentage of
+          Source of Funds                            Estimate      Estimate
+                                    Cofinancing                                 Appraisal
+                                                  (US$ million) (US$ million)
+Borrower                                          1.35          1.35          100
+Consultative Group to Assist the
+                                                  1.50         1.50          100
+Poorest (CGAP)
+International Development
+                                                  7.70         5.86          76
+Association (IDA)
+
+
+
+
+                                           26
+Annex 2. Outputs by Component
+
+The project had two main components:
+
+Component 1 - Create, establish, and operationalize the Maldives Interoperable
+Payments System (MIPS): (US$6.00 million). The payment system was designed as a
+single-currency system operating in Maldivian Rufiyaas (Rf) that would be capable of
+interoperating with all local mobile network operators (MNOs) and integrating all the
+banks. The main elements of the MIPS would be the Mobile Payment System (MPS), a
+Real Time Gross Settlement (RTGS) system, an image-enabled Automated Clearing
+House (ACH) system, and an Electronic Funds Transfer (EFT)/Point of Sale
+(POS)/Automated Teller Machine (ATM) front-end processing system. These elements
+would be integrated into a single system, backed up by a disaster recovery system.
+
+The intermediate outputs of this Component were:
+    75 percent of the adult population will have a mobile phone account.
+    100 percent of the populated islands by the end of the project will have at least
+       one local agent at which mobile phone accounts can be opened.
+    70 percent of the adult population will have a regular bank account.
+    70 percent of salaries paid by resort owners will be deposited electronically and
+       directly into employees’ bank accounts, which in turn can be accessed through
+       mobile phone accounts.
+    60 percent of the fishing boat load purchases by processing plants and official
+       trading companies will be paid electronically.
+    Amount of cash in circulation will decrease.
+
+Component 2 - Building an enabling environment and the capacity to support
+successful mobile phone banking systems – (US$1.00 million) It would be necessary to
+develop and implement regulations to cover all aspects of the system, as well as build the
+capacity of regulators to supervise it. To help ensure that people and businesses
+understood the benefits of the system and adopted and trusted it, a promotion/public
+education campaign was to be conducted. Finally, a mobile phone banking unit was
+established under the MMA with the capability to implement MIPS.
+
+The intermediate outputs of this Component were:
+    An appropriate legal and regulatory framework covering all necessary topics for
+       mobile phone banking and a national payments system will be designed and
+       adopted by the end of 2008.
+    Detailed implementing regulations for mobile phone banking and payment system
+       are completed.
+    100 percent of the populated islands will have a local agent with cash-in and cash-
+       out facilities.
+    The number of customers who report that they often cannot deposit or withdraw
+       the amounts they need when they are at their local agent’s store will be less than
+       100 per month.
+    A promotion and public education campaign is designed and implemented.
+
+                                           27
+Annex 3. Economic and Financial Analysis
+(including assumptions in the analysis)
+
+The Real Time Gross Settlement (RTGS) and the Direct Credit system under the
+Automated Clearing House (ACH) have been launched and are operating successfully.
+The benefits that have accrued so far include:
+
+      (i)     A fully functioning RTGS system that is processing 100 transactions on
+              average per business day. During the busiest months of 2013, which are April
+              and July, the RTGS processed 2,873 and 2,959 transactions respectively. In
+              2013, a total of 22,059 transactions in Maldivian rufiyaa and 13,118
+              transactions in U.S. dollars were processed. The values of transactions
+              processed are Rf 351.43 billion and US$2.18 billion, respectively.9 Currently,
+              a majority of the government payments above Rf 10,000.00 and US$5,000.00
+              are channeled through the RTGS. While it is tempting to calculate the per
+              transaction or per unit of currency value to determine the efficiency of the
+              system, the current basis for determining the viability of RTGS has shifted
+              from such estimates to assessing the benefits of mitigating settlement and
+              systemic risk of interbank settlement process, and thereby avoiding stresses to
+              the system arising from a default of a large-value payment. Since such a
+              default could potentially trigger a financial crisis affecting the growth of the
+              economy, RTGS plays a major role in preventing such defaults, the benefits of
+              which are substantial. If large-value payments for all banks are left to be
+              settled at the end of the day, the interbank exposures will build up, thereby
+              increasing the risks from any bank’s inability to meet its obligations. If such a
+              risk were to materialize and a bank was unable to meet its total obligation at
+              the end of the day, its default would cause a ripple effect in the banking sector
+              as the liquidity position of all banks would be affected by the default and
+              many banks would be unable to meet the cash withdrawal requests of their
+              customers. Thus, the RTGS reduces that risk by effecting actual settlement of
+              funds between the banks in the MMA’s books in real time before the
+              interbank exposures get too high, and also helps banks to manage their
+              liquidity effectively.
+      (ii)    A fully functioning Direct Credit service under the ACH that is processing
+              225 transactions on average per business day since the system went “live” on
+              February 2, 2012. During the year 2013, ACH has processed a total of 81,947
+              transactions, which includes 51,895 Maldivian rufiyaa transactions and 30,052
+              U.S. dollar transactions. Moreover, the Cheque Truncation and Imaging
+              system is expected to go “live” by June 30, 2014 and the Direct Debit service
+              under the ACH is also expected to go “live” by December 31, 2014, thereby
+              adding further to the existing benefits. An additional benefit is accruing by
+              way of electronic transfer of pension payments of all retired government
+              officials directly to their bank accounts. These pensioners appreciate this
+
+
+
+9
+    Source: Payment Systems Department, MMA, obtained during the ICR mission.
+
+                                                  28
+benefit, which spares them the trouble of having to travel to Male from their
+resident islands to collect their pensions.
+
+
+
+
+                               29
+Annex 4. Bank Lending and Implementation Support/Supervision Processes
+
+(a) Task Team members
+                                                                               Responsibility/
+           Names                             Title                    Unit
+                                                                                 Specialty
+Lending
+Nagavalli Annamalai          Lead Counsel                            LEGPS
+Sriyani M. Hulugalle         Senior Economist                        SASFP
+Manoj Jain                   Lead Financial Management Specialist    SARFM
+Kadija A. Jama               Program Assistant                       CPFCF
+Sashikala Krishani Jeyaraj   Program Assistant                       SASFP
+Luwisdura Lohitha Sanjee
+                             Private Sector Development Specialist   SASFP
+Karunasekera
+Sumith Pilapitiya            Lead Environmental Specialist           SASDI
+Stephen F. Rasmussen         Lead Specialist                          CGP
+Miriam Witana                Procurement Specialist                  EASR1
+Supervision/ICR
+Nagavalli Annamalai          Lead Counsel                            LEGPS
+Paul Joseph Breloff          Consultant                               CGP
+Ludmilla Butenko             Country Manager                         LCCPA
+Gautam J. Ivatury            Consultant                               CGP
+Manoj Jain                   Lead Financial Management Specialist    SARFM
+Sashikala Krishani Jeyaraj   Program Assistant                       SASFP
+Luwisdura Lohitha Sanjee
+                             Private Sector Development Specialist   SASFP
+Karunasekera
+Robert Keppler               Consultant                                FFIFI
+Karunakaran Krishnaswamy     Consultant                               SASSP
+Timothy Lyman                Lead Policy Officer                       CGP
+Ignacio Mas                  Consultant                               LCSPF
+Sumith Pilapitiya            Lead Environmental Specialist            SASDI
+Stephen F. Rasmussen         Lead Specialist                           CGP
+Najfa Shaheem Razee          Consultant                              SACMV
+Ala Michael Tarazi           Senior Regulatory Specialist              CGP
+Supul Chamikara Wijesinghe   Financial Management Specialist         SARFM
+Miriam Witana                Procurement Specialist                  EASR1
+
+
+
+
+                                              30
+(b) Staff Time and Cost
+                                     Staff Time and Cost (Bank Budget Only)
+Stage of Project Cycle                                      US$ thousand (including
+                                   No. of staff weeks
+                                                          travel and consultant costs)
+Lending
+  FY08                                      43.53                    165.30
+                          Total:                                     165.30
+Supervision/ICR
+  FY08                                     0.35                        1.19
+ FY09                                     26.97                      120.25
+ FY10                                     18.63                      114.62
+ FY11                                     13.95                       87.88
+ FY12                                     15.06                       88.26
+ FY13                                     17.7                        89.82
+ FY14                                     27.45                      157.93
+                          Total:         120.11                      659.95
+
+
+
+
+                                       31
+ Annex 5. Beneficiary Survey Results
+(if any)
+
+Not Applicable
+
+
+
+
+                                       32
+Annex 6. Stakeholder Workshop Report and Results
+(if any)
+
+Not Applicable
+
+
+
+
+                                   33
+Annex 7. Summary of Borrower's ICR and/or Comments on Draft ICR
+
+The Project consists of two major components: (i) Establishment the Maldives
+Interoperable Payment System (MIPS); and (ii) Building an enabling legal and regulatory
+framework and enhancing the capacity of the MMA to manage the MIPS. The MIPS has
+four components: (i) Real Time Gross settlements (RTGS); (ii) Automated Clearing
+House (ACH); (iii) Mobile Payment System (MPS); and (iv) Electronic Fund Transfer
+(EFT) Switch. The technical aspects of all four components except Switch have been
+completed, including the user acceptance tests of three major components: ACH, RTGS,
+and MPS. The RTGS has been operational since April 2011 and is functioning as
+planned. One of the sub-components of the ACH, i.e. Direct Credit payments, has been
+launched successfully and is meeting commercial bank and customer needs. The majority
+of government payments are carried out through the RTGS and ACH, while aiming to
+discontinue the usage of cheques to make government payments by the end of this year.
+The government plans to make all payments through the automated payment system
+introduced under the MPBP project. The MPS, which would have enabled the citizens
+living outside Male Atoll to access finances services, has not been launched due to lack
+of interest by the participating stakeholders.
+
+1) The RTGS processes large-value and time-critical or urgent inter-bank transactions in
+real time on a gross basis. For example, a customer’s large-value payment to a third-party
+account held in a different bank can be processed immediately between the banks,
+reducing the processing time, rather than settled at the end of the day. If left to be settled
+at the end of the day, the interbank exposures will build up, increasing the risk if a
+participant is unable to meet these obligations to other banks that a ripple effect could
+occur, as the liquidity position of all banks will be affected, ultimately resulting in the
+inability to meet customers’ demands. Thus, the RTGS system will reduce the risk in
+payment systems and also help banks to effectively manage their liquidity. It reduces risk
+by effecting actual settlement of funds between the banks in the MMA’s books in real
+time before interbank exposures get too high.
+Overall performance The MRTGS has been operational since April 2011 and has
+processed a total of 35,177 transactions in the year 2013. This includes 22,059 Maldivian
+rufiyaa (Rf) transactions and 13,118 U.S. dollar (US$) transactions. On average, MRTGS
+processes 100 transactions per day. July and April 2013 were the busiest months to date,
+with MRTGS processing 2,959 and 2,873 transactions during these months, respectively.
+The system experienced downtime of seven hours during this period.
+All the banks have signed the system rules. Currently, a majority of the government
+payments for amounts above Rf 10,000.00 and US$5,000.00 are channeled through the
+MRTGS.
+
+2) The ACH, on the other hand, is a session-based interbank automated clearing system
+for cheques, direct debits, and direct credits for small-value payments sent in batches. For
+example, direct credits, which are payments such as payroll and pensions sent to multiple
+recipients by a single party, can be sent in one file to the ACH instead of processing these
+payments one by one. Banks and businesses can reap huge benefits from this ACH
+system, as it provides a cheaper and easy alternative to sending and collecting payments
+
+                                             34
+from the use of direct debits and direct credits. The collection of payments (direct debits)
+such as pension contributions, taxes, utilities, but also the disbursement of payments
+(direct credits) such as salary and payroll, pensions, etc. will be made much easier.
+Overall performance The ACH direct credit service has operated successfully since it
+went live on February 2, 2012. During the year 2013, ACH has processed a total of
+81,947 transactions, a figure that includes 51,895 Maldivian rufiyaa transactions and
+30,052 transactions in U.S. dollars.
+
+The other sub-system of ACH, the direct debit system, is yet to be implemented. This has
+been delayed due to the delay in finalizing the Operational Guidelines. The MMA has
+obtained the industry’s feedback and is in the process of finalizing the Guidelines. In
+addition, MMA is planning to seek technical support from the Reserve Bank of India
+during the initial implementation stage to address operational issues.
+Meanwhile, MMA is finalizing the Payments System Law to provide a broader and
+sounder legal framework for the payments system. The Law is expected to be submitted
+to the Parliament before the end of this year. Given the delays in enactment by Parliament
+(Majlis), it is difficult to establish an indicative timeline. This component is supported by
+all the banks.
+
+3) Mobile Payment System (MPS)/Keesa:
+Keesa is a branchless banking service that will allow subscribers to open bank accounts
+without visiting a bank branch simply by using mobile phones. This account allows
+subscribers to make payments from and receive payments to these accounts via mobile
+handsets and the Internet very conveniently.
+Overall performance:
+Final testing of the system commenced in November 2011 and was expected to be
+completed by December 4, 2011 under the revised Project Plan. However, testing was
+delayed as the software vendor rectified various issues in the MPS platform. During this
+time, the software vendor addressed connectivity issues with the Dhiraagu SMS server.
+The vendor resolved this issue on February 8, 2012. However, the platform experienced
+another SMS encoding issue, which again prevented testing. The issue was resolved on
+February 26, 2012. Some pending decisions within MMA regarding functionalities were
+made and communicated to Fundamo based on their protocols on new changes at that
+point in time. After resolution of the issues, the MMA team started testing the MPS in the
+test environment on March 13, 2012 with a plan to start production environment testing
+after a week. Deployment of the production system began on March 22, 2012. After
+correcting several more database-related issues, the project team commenced testing on
+the production system on April 5, 2012. MMA completed the initial user acceptance
+testing of MPS on August 22, 2011.
+Issues:
+The design and commencement of the MPS was based on the MOU signed between the
+banks and MMA. However, due to the non-participation of the only national bank in
+Maldives (Bank of Maldives – BML), even though the system has been technically
+completed, it cannot be made operational. Halfway into the project, BML adopted the
+view that this system would erode its market share and allow other banks to be more
+competitive, despite the fact that most other banks are more interested in serving their
+
+                                             35
+niche clientele. Given that BML accounts for more than 50 percent of the market share of
+customers and has 26 branches, most in all Atolls Capital islands, its market share would
+not have been affected. In fact, MPS would have helped to further widen its outreach to
+the outer Atolls and would have attracted the unbanked population to the banking system.
+Many attempts were made to assure BML and accommodate its requests. MMA even
+brought in added functionalities at the technical level to minimize the cost of interfacing
+for the participating banks, such as various reporting systems and “Converter Gateway.”
+However, BML insisted that it would affect their card business adversely and refused to
+participate, despite the MOU.
+
+It is unfortunate that both the regulator (MMA) and the major shareholder (MOFT) were
+unable to convince the national bank to participate in a national system that was designed
+to help provide access to a large portion of the society. After the unsuccessful attempts to
+find a buyer for the MPS, the current Board of the MMA has decided that it would
+explore other options for utilizing the system to achieve its objective of reducing physical
+cash in the country and providing access to financial services in the outer Atolls. The
+mission is pleased to note that concerted efforts are being made to utilize the technical
+solution that was developed under the project.
+
+Sale of Keesa (MPS):
+
+MMA, with approval from its Board of Directors, had decided to sell the tested and ready
+MPS to an interested eligible party via a public tendering process, with the selected party
+taking over the role of MPS Operator and working with the bank(s) and mobile network
+operator(s) (MNOs) to offer this service to the public. The party that buys the system will
+then need to establish a call center, undertake a comprehensive marketing campaign, and
+establish an agent network. MMA had also received approval from the Ministry of
+Finance and Treasury regarding the sale of MPS. MMA announced the Request for
+Expression of Interest (EOI) for the sale of Keesa MPS on May 31, 2012. Interest was
+shown by several parties who attended the information session held on June 7, 2012. The
+EOI has been evaluated by MMA and the shortlisted parties were invited to submit bids
+after signing Non-Disclosure Agreements. The deadline for submission of bids was
+extended to October 21, 2012.
+
+The only potential bidder, Dhiraagu, informed MMA that they were ultimately unable to
+bid for the MPS as they could not see a viable business case for implementing the system,
+and the financial viability of this product appeared to them quite unattractive. The
+estimated customer base and transactional volume does not come close to covering the
+investment of the Keesa system and operating costs. Therefore, according to Dhiraagu,
+the likelihood that Dhiraagu will launch mobile money as a stand-alone product is
+unlikely.
+
+4. Interoperable EFT Switch:
+
+The EFT Switch will establish interoperability of all card transactions in Maldives, by
+connecting all banks card systems to the Switch. The Switch will allow banks to provide
+
+
+                                            36
+services to their customers using a widespread network of ATM and POS infrastructure
+throughout the country at a lower cost.
+
+        Issues:
+
+There are many issues in implementing this component of the project. Banks showed
+little interest in running the EFT Switch as a common switch. Hence, the Switch could
+not be launched according to plans. Without the clear legal authority to mandate that all
+banks connect to the Switch, it became difficult for MMA to pursue its implementation.
+Some of the delays in connecting to banks’ switches occurred because this required
+connecting to overseas systems managed in banks’ head offices, and there are layers of
+communication channels involved in the process. In spite of this, MMA began testing the
+EFT Switch application using simulators.
+
+The UAT commenced in March 2011. The Switch UAT proceeded reasonably well until
+issues in the system were identified and Montran’s subcontractor Clear2Pay (C2P)
+became unwilling to provide the necessary support. C2P acquired Jware during 2010; in
+the second quarter of 2011 it stopped all its support to MMA due to a dispute between
+C2P and Jware/Aconite, from whom C2P took over the contract. Due to a difference of
+version between the MMA Switch and the banks’ Switch, Gateway, a third-party protocol
+converter was introduced to overcome the obstacles in connecting with the MMA Switch.
+Resolving the issues that arose during the UAT took time, as issues had to be forwarded
+between the Switch and Gateway vendors.
+
+The World Bank’s May 2011 supervision mission noted in its Aide-Mémoire that the
+absence of the Switch would not compromise the basic features of the MPS.
+Implementation of the Switch requires careful planning by banks, the technical ability to
+connect to the Switch, as well as the MMA’s clear legal authority to mandate
+participation by all banks.
+
+Given the considerable investment made in this component, MMA made one last attempt
+by speaking with the banks to assess the possibility of using the Switch as a consortium
+of banks. The Governor met with all banks operating in the country, with the exception of
+BML and HSBC, and the bank representatives promised to speak with their management
+and return with responses. Following these negotiations with stakeholders, not a single
+positive response has been received to date, as none of the parties expressed an interest in
+the Switch system.
+
+MIPS IT Infrastructure and Network:
+
+The MIPS network was redesigned and reconfigured in December 2010 as the network
+proved to be unstable and did not conform to Payment Card Industry (PCI) standards. This
+change caused a three-month shift in the project plan. The network has proven to be stable
+since the changes were made. MMA IT staff completed User Acceptance Testing of the
+upgraded network and system architecture in March 2012 with a formal sign-off on March
+24.
+
+
+
+                                            37
+This complex network is designed to support four major applications, each used by
+multiple banking institutions. The vendor advised that MMA IT is currently not equipped
+to handle 24/7 systems given MMA’s limited staff and breadth of knowledge. Hence,
+building the IT Team’s capacity to support and manage the MIPS infrastructure was
+identified as an important area under this component. To this end, a three-month support
+and training program was conducted by HWG, an Italian Cisco Certified company, from
+June to September 2011. Furthermore, two staff from the project’s IT team attended a
+short-term technical training course in Malaysia in October 2011.
+
+MMA also sought assistance from Montran in developing an Operations Plan for ACH
+and RTGS under a Change Request, as internal project staff has limited resources and
+experience with real-time interbank operations. RTGS and ACH are business-critical
+systems, and these two systems require a proper operational plan to be in place to ensure
+business continuity and to eliminate service disruption. A draft Operations Plan was
+delivered to MMA in March 2012.
+
+Disaster Recovery System:
+
+The Disaster Recovery (DR) Data Center was relocated from the temporary location to its
+permanent location in January 2012. The DR Data Center setup is now ready, and data
+replication between Primary and DR Center began on March 15, 2012.
+
+Regulatory Framework: Building an enabling legal framework to support the operation
+of the new systems is an element of the second component of the project. In view of
+achieving this, MMA issued the Payment Systems Regulation on April 7, 2011 and the
+Financial Transaction Reporting Regulation on July 20, 2011.
+
+Payments Systems Regulation: The main purpose of this regulation is to recognize the
+RTGS, ACH, and Switch as “systems as such,” so that the transfer orders within such
+systems are considered as final and irrevocable, provided that they were entered into prior
+to the opening of insolvency proceedings against the said banks. The regulation also
+protects the netting arrangements underpinning the ACH and Switch, and organizes the
+truncation of the cheques in connection with the processing of the latter within the ACHs.
+The regulation is issued under section 65 of the Maldives Banking Act.
+
+Payments Systems Regulation is an interim solution that secures the overall legal
+soundness of the above-mentioned systems until such time as the Payment Systems Law
+is enacted. The regulation paved the way for RTGS to go live in April 2011 and the ACH
+to go live in February 2012.
+
+Financial Transaction Reporting Regulation:
+
+This Regulation is issued under sections 38 and 65 of the Maldives Banking Act, to
+prevent Maldives financial and payment systems from being used to promote Acts of
+Terrorism and Money Laundering, or financial services and products from being used to
+conceal Proceeds of Crime. Section 14 of this regulation covers mobile bank accounts.
+
+
+
+                                            38
+Mobile Bank Account Agent Regulation has been drafted and is under review. Given
+that the future of MPS is uncertain, the issuance of this regulation has been postponed.
+Once MPS has been divested to a third party, MMA will issue this regulation in due time
+for MPS to go live.
+
+Consumer Protection Regulation has been drafted and is under review.
+
+Note:
+
+The above-mentioned are the issues, challenges, successes, and experiences the MMA
+faced and gained in brief for the MIPS Project. We thank the World Bank, CGAP for the
+technical, legal, and financial support and assistance rendered for this national project
+that aims to establish at financial inclusion for Maldives.
+
+
+
+
+                                           39
+Annex 8. Comments of Cofinanciers and Other Partners/Stakeholders
+
+
+Not Applicable
+
+
+
+
+                                    40
+Annex 9. List of Supporting Documents
+
+   1. Developing a National Banking and Payment System with Mobile Phones:
+       Vision Document and Project Framework. Developed Jointly by the Consultative
+       Group for Assistance to the Poor and Maldives Monetary Authority, December
+       2006.
+   2. Project Appraisal Document on a Proposed Credit in the Amount of SDR4.9
+       million (US$7.7 million equivalent) to the Republic of Maldives for a Mobile
+       Phone Banking Project, South Asia Region, March 11, 2008.
+   3. Financing Agreement: Mobile Phone Banking Project between Republic of
+       Maldives and International Development Association, June 23, 2008.
+   4. Project Agreement: Mobile Phone Banking Project between International
+       Development Association and the Maldives Monetary Authority, June 23, 2008.
+   5. The Maldives Mobile Phone Banking Project: Interim Report, Price Waterhouse
+       Coopers, July 2009.
+   6. Restructuring Paper on a Proposed Project Restructuring of Maldives Mobile
+       Phone Banking Project, May 4, 2012.
+   7. Restructuring Paper on a Proposed Project Restructuring of Maldives Mobile
+       Phone Banking Project, December 15, 2013.
+   8. Maldives Mobile Phone Banking Project, Financial Monitoring Reports as at
+       December 31, 2013.
+   9. Maldives Mobile Phone Banking Project, Aide Mémoire by Implementation
+       Support Missions, 2008 to 2013.
+   10. Implementation Status and Results Reports on Maldives Mobile Phone Banking
+       Project (P107981), Sequence 1 to 13, 2008 to 2013.
+
+List of PowerPoint Presentations made by the Bank Implementation Support missions to
+various stakeholders from 2008 to 2013:
+    1. Maldives Inter-Operable Payment System (MIPS) – Concept and Overall
+        Architecture, December 2007 (for discussion with Participant Banks and MNOs).
+    2. Financial Inclusion and Access to Finance through Mobile Phone Banking
+        (Keesa).
+    3. Keesa Banking, It’s Mobile.
+    4. Maldives Branchless/Mobile Banking Project – February 24, 2009. Presentation
+        made by Nagavalli Annamalai, Lead Counsel, LEGPS, World Bank, at the FPD
+        Forum, 2009.
+    5. Mobile Phone Banking. Presentation made to the Board of the Bank of Maldives
+        Ltd., on June 20, 2010.
+    6. Maldives MPS: Business Issues Review, August 12, 2010 (for circulation).
+
+
+
+
+                                         41
+MAP
+
+
+
+
+      42
+

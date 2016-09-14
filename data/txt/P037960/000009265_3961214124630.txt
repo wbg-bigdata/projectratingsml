@@ -1,0 +1,2125 @@
+Document of
+The World Bank
+Report No. T-6840-KZ
+TECHNICAL ANNEX
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+June 27, 1996
+
+
+
+CURRENCY EQUIVALENTS
+(As of April 30, 1996)
+Currency Unit = Tenge
+I Tenge = US$0.0153
+US$1 = Tenge 65.5
+Market Exchange Rates
+Period Average      End of Period
+( Tenge per US$1)
+1993
+November                         4.69                 4.70
+December                         5.82                 6.31
+1994
+Quarter I                        12.73                19.94
+Quarter II                      35.60                43.29
+Quarter III                     45.94                48.00
+Quarter IV                      51.12                54.36
+1995
+Quarter I                       58.20                61.20
+Quarter II                      62.65                63.35
+Quarter III                     59.74                59.90
+Quarter IV                      62.93                63.35
+1990
+Quarter 1                       65.90                65.10
+WEIGHTS AND MEASURES
+Metric System
+GOVERNMENT FISCAL YEAR
+January 1 - December 31
+ABBREVIATIONS AND ACRONYMS
+CAS                                Country Assistance Strategy
+DBMS                               Data Base Management System
+DTUs                               District Treasury Units
+EDP                                Electronic Data Processing
+FSU                                Former Soviet Union
+GDP                                Gross Domestic Product
+GFMIS                              Government Financial Management Information System
+
+
+
+GFS                               Government Finance Statistics
+GUI                               Graphical User Interface
+IBRD                              International Bank for Reconstruction and Development
+ICB                               International Competitive Bidding
+IMF                               International Monetary Fund
+MOF                               Ministry of Finance
+NBK                               National Bank of Kazakstan
+PEM                               Public Expenditure Management
+PIU                               Project Implementation Unit
+PSDN                              Packet Switched Data Network
+RTU                               Regional Treasury Unit
+TD                                Treasury Department
+TLS                               Treasury Ledger System
+TSA                               Treasury Single Account
+USAID                             United States Agency for International Development
+
+
+
+
+
+
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION LOAN
+Loan and Project Summary
+Borrower:                   The Republic of Kazakstan
+Implementing Agency:        The Treasury Department of the Ministry of Finance
+Beneficiary:                The Ministry of Finance
+Amount:                     US$15.8 million equivalent
+Poverty:                    Not applicable
+Terms:                      20 years, including 5 years grace period, at the Bank's standard variable
+interest rate.
+Commitment Fee:             0.75 percent on undisbursed loan balances, beginning 60 days after
+signing, less any waivers
+Financing Plan:
+Local           Foreign         Total
+---------------------- US$ million equivalent ----------------
+World Bank                                       0.0            15.8            15.8
+Ministry of Finance                              2.4             3.5             5.9
+TOTAL                                    2.4             19.3            21.7
+Economic Rate of Return:           Not applicable.
+Staff Appraisal Report:            Technical Annex  Attached  in  Lieu  of Staff Appraisal
+Report
+Map:                               IBRD No. 23700R
+Project ID Number:                 KZ-PA-37960
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+
+
+
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+TABLE OF CONTENTS
+I. INTRODUCTION  ............             .................................. 1
+II. OVERVIEW OF TREASURY SYSTEM FOR KAZAKSTAN ................... 2
+Background ........................................... 2
+Reform to date ......................................... 3
+Implementation of Computerized Treasury System  .................. 5
+III. THE PROJECT  .............      .................................   5
+Project Objective ...........................   5
+Project Description ...........................   5
+Status of Preparation .........         ..................   6
+Implementation Strategy ............         ...............   7
+IV. PROJECT FINANCING, COSTS, PROCUREMENT AND DISBURSEMENT  .... . 9
+V. PROJECT ACCOUNTING, FINANCIAL REPORTING AND AUDITING ....                  ..... 13
+VI. ENVIRONMENTAL ASPECTS  ................                  ...................  13
+ANNEX 1. THE DESIGN AND IMPLEMENTATION OF THE GOVERNMENT
+FINANCIAL MANAGEMENT INFORMATION SYSTEM  ....                  ......... 14
+ANNEX 2. TRAINING STRATEGY AND PROGRAM
+SCHEDULES:
+Schedule A: Detailed Project Costs and Financing Plan
+Schedule B: Summary of Proposed Procurement Arrangements and IBRD Disbursements
+Schedule C: Timetable of Key Processing Steps
+Schedule D: Implementation Plan
+Schedule E: Cost Estimates
+Schedule F: Supervision Plan
+Schedule G: Performance Monitoring Indicators
+Schedule H: Summary of Procurement Packages for Goods
+
+
+
+
+
+
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Technical Annex
+1. INTRODUCTION
+1.    In its four years of independence, Kazakstan has made substantial progress toward creating
+a market economy and achieving macroeconomic stability. Maintenance of macroeconomic stability
+requires, among other things, policies that will hold the fiscal deficit to manageable levels.
+Restraining the fiscal deficit will depend upon sound strategy and management on both the revenue
+and expenditure sides of the budget.
+2.    To boost revenues, a taxation policy has been drafted and a new streamlined tax code has
+been designed and should be adopted by Parliament in 1995. An International Monetary Fund (IMF)
+Tax Administration Advisor has been providing technical assistance in the development of software
+for the tax administration system. This will be accompanied by measures to strengthen the Tax
+Inspection Service, supported by United States Agency for International Development (USAID)-
+financed technical assistance.
+3.    Much work, however, remains to be done on government expenditure management and
+control. Establishing a treasury system in the Treasury Department (TD) within the Ministry of
+Finance (MOF) has been given high priority by the government and is a critical requirement for
+sound management of public finances. Although the proposed treasury system would have linkages
+with other government financial operations, specifically revenue operations, the government has
+decided to address tax administration separately. Substantial work has already been undertaken in
+the area of tax reform with funding from other donors. The World Bank's financing of the proposed
+treasury modernization project to enhance government expenditure management and control is
+appropriate and timely.
+4.    A TD was formally established in the MOF by Presidential decree on January 27, 1994 with
+the principal aim of managing the government expenditures, assets and liabilities. The Deputy
+Minister of Finance was appointed as the Director of the TD. The TD has a current staff of 28 (
+which will be 56 when fully established) and plans to administer a comprehensive and reliable
+financial information system for the day-to-day management of government expenditures. To achieve
+this, the TD has been assigned a number of responsibilities, including regular analysis, reporting on
+the execution of the budget; cash and debt management; accounting for government financial
+operations; and treasury system computerization. The management of both domestic and external
+debt will be an integral function of the TD; a branch of the Cash Management Division of the TD
+will have the responsibility of external debt management and all the existing external management
+functions will be incorporated in this branch unit. The 1995 program of the TD included establishing
+regional treasury units which will take over budget execution and primary accounting responsibilities
+from the National Bank of Kazakstan (NBK), and introduction of the required reforms to centralize
+fiscal monitoring and control functions in the MOF.
+5.    Organizational development of the TD is only the first step in establishing an efficient
+treasury system. Basic banking and accounting arrangements will have to be redesigned to support
+
+
+
+-2 -
+treasury functions and new procedures, developed to support the new revenue and expenditure
+classification and to ensure that the TD plays an effective role in controlling government
+expenditures. The government has decided to establish a computerized treasury system in a planned
+and phased program to facilitate management of government expenditures and has requested World
+Bank 's financing for its implementation.
+II. OVERVIEW OF A TREASURY SYSTEM FOR KAZAKSTAN
+Background
+6.    Government treasury management is defined as a set of rules, practices, and procedures with
+the aim of distributing funds, accounting for their use, producing periodic financial reports and
+making cash resources of the government more productive and the borrowing of funds less expensive.
+The advantages of good treasury management, principles of effective cash management and
+institutional and organizational aspects of treasury systems are discussed in Annex 1.
+7.    The current public expenditure management processes in Kazakstan largely reflect the
+centrally-planned economic system inherited from the time of the former Soviet Union (FSU). The
+role of the fiscal machinery in that system was in the elaboration and implementation of successive
+National Economic Plans. In that context, the preparation of the annual budget was the comrnmon
+responsibility of the central planning authority (initially GOSPLAN, subsequently the State Economic
+Committee). The demise of the planning system in Kazakstan caused a breakdown in budget
+programming and control mechanisms. The collapse of the unifying authority of the Party has left
+local administrations with a degree of financial autonomy incommensurate with the accountability to
+which they are subject. The role of the MOF in budget execution process became marginal, spending
+units committed expenditures at their discretion, and the NBK performed payment/public
+accounting/cash management functions. The MOF only controlled the release of funds to spending
+units' accounts, and even that only at the central level. In this situation the MOF was mainly
+responsible for reconciling information received from the NBK, ministries, regions and districts and
+producing the statement of monthly outcome for the republican budget. Reports from regions
+(incorporating details from districts) were forwarded to the MOF every month for consolidation into
+the outcome of local budgets. The republican and local figures were then combined to produce a
+monthly statement for the State. At all these stages, information was compiled manually with very
+little recourse to automation. Little information was generated internally by the MOF, which
+operated primarily as a consolidating agency with very limited control over budget execution.
+8.    Cash management was also largely nonexistent. Very little capacity existed to monitor daily
+cash flows in government accounts, cash resources were not used efficiently and expenditure estimates
+were based on norms, not realistically related to likely revenues. Reliable and comprehensive
+accounting information was not available on a timely basis. Responsibilities for fiscal matters appear
+to be diffused amnong a number of different entities within the government. Inappropriate budget
+classifications did not allow meaningful assessment of fiscal and economic data, which diminished
+budgetary control.
+9.    Successive IMF technical assistance missions have, first, identified the institutional and
+conceptual weaknesses in the public expenditure management system, and, second, proposed a series
+of reforms which the government has accepted and, with Fund and other external assistance, is
+
+
+
+nearing completion of implementing many critical components. The major weaknesses could be
+sunmarized as follows:
+diffusion of responsibilities for fiscal matters among a number of different entities
+within the government in addition to the MOF;
+inappropriate budget classifications, based on productive and nonproductive
+categories which did not allow meaningful budget monitoring;
+an inappropriate legal framework for budget preparation, approval, implementation
+and reporting;
+lack of a macroeconomic framework necessary for formulation of the budget and
+elaboration of revenue and expenditure projections;
+lack of reliable and comprehensive accounting information available on a timely
+basis; and
+lack of essential cash and debt management capabilities; and the appropriate legal
+framework for borrowing, recording and for controlling loan arrangements and
+government guarantees.
+Reforms to Date
+10.      Overcoming the problems in the then existing fiscal system required adoption of a number
+of reforms. Measures for institutional strengthening, adoption of the required legal and regulatory
+framework, subjecting central and local administrations to the financial authority of the MOF,
+introducing a new budget law capable of proper budget programming and control, introducing public
+debt laws and a computerized debt management system, are among the reforms which are now largely
+implemented. These reforms, which accompanied the establishment of a Treasury system, can be
+sunmmarized as follows:
+the republican budget has been reclassified to conform with Government Finance
+Statistics (GFS) methodology and to be more suitable for economic analysis. The
+classification system also addresses organization arrangements and is therefore
+suitable for budget preparation, parliamentary appropriation and for computerized
+budget execution. The new classification has been adopted by the government
+and has been in use in Ministries and agencies since April 1, 1996;
+a new budget system law has been drafted with assistance from a U.S. Treasury
+Budget Advisor and substantial input from the IMF Treasury Advisor. It is in
+the final stages of government consideration; and
+internal debt management operations have been consolidated within the recently
+formed Treasury Department (TD)--see below--and, with assistance from
+USAID, the UNCTAD Debt Management and Financial Analysis System
+(DMFAS) is being installed for control and reporting purposes;
+
+
+
+- 4 -
+funds are released periodically by the TD, based on cash flow forecasts and
+expenditure plans of Ministries. Funds are further distributed by Ministries to
+spending units.
+11.       The development of comprehensive accounting information and a systematic approach to
+budget implementation and cash management is best carried out through an integrated computerized
+treasury system operated through a Treasury Department. With IMF assistance, the Government has
+developed an integrated strategy, covering three main elements to introduce the computerized treasury
+system. These elements are: (i) centralizing financial operations in a single bank account--a Treasury
+Single Account (TSA); (ii) establishing a Treasury Ledger System (TLS); and (iii) computerizing the
+TLS for the processing of payments and receipts. To date the single account has been established
+in the National Bank of Kazakstan. A TD was formally established in the MOF by a Presidential
+decree on January 27, 1994 with the principal aim of managing the government expenditures, assets
+and liabilities. The Deputy Minister of Finance was appointed as the Director of the TD. The TD
+has been assigned a number of responsibilities, including regular analysis, reporting and execution
+of the budget; cash and debt management; accounting for government financial operations; and
+treasury system computerization. As stated earlier, the management of domestic debt is now an
+integral function of the TD.
+Organizationally the TD has the following six major divisions:
+(a) the Financial Accounting and Analysis Division is responsible for drawing up
+monthly, quarterly, and annual reports on revenues and expenditures of the
+Republican Budget.
+(b) the Republican Budget Execution Division is responsible for assigning revenues and
+expenditure under the Republican Budget, and for determining expenditure
+requirements of ministries and spending units.
+(c) the Monetary Credit Policy Division.
+(d) the Cash and State Debts Division is responsible for cash management, internal and
+external debt management, control of government guarantees, issue of securities and
+interaction with the NBK.
+(e) the Informatics Division, and
+(f) the Supervision of the Budget Cash Execution Division which is responsible for
+supervision of the recently taken over NBK cash settlement centers.
+12.       Other divisions are responsible for development of methodological procedures and
+financial statistics and analysis.
+13.       The proposed project, to fully design and computerize the treasury system, is the logical
+conclusion and important final step in implementing the series of wide ranging Public Expenditure
+Management (PEM) reforms undertaken by the government.
+
+
+
+Impementation of Computerized Treasury System
+14.       The MOF is in the process of implementing many of the recommendations of the IMF
+related to treasury system implementation. The detailed definition and computerization of the
+treasury system, the subject of this loan, is a key element in the overall reform process, and attracts
+a high priority from the government perspective because of the need to ensure sound management
+of public finances.
+15.       As mentioned above, with IMF assistance, the government has developed an integrated
+strategy, covering three elements, to introduce the computerized treasury system. These elements
+are: (i) centralizing financial operations in a single bank account - a Treasury Single Account (TSA);
+(ii) establishing a Treasury Ledger System (TLS); and (iii) designing and operating the
+computerization of the TLS and the processing of payments and receipts. The strategy calls for
+phased introduction of the system in three main stages: (i) project preparation (1994-96); (ii)
+implementation of a pilot automation system covering a group of ministries and selected Regional
+Treasury Units (RTU) (1996-97); and (iii) replication of the pilot system across all ministries, RTUs
+and District Treasury Units (DTU) (1998-1999). Each stage would start upon substantial completion
+of the preceding stage, determined by MOF and World Bank acceptance of the deliverables listed for
+that stage. A T reasury Advisor has been appointed by the IMF to work closely with TD staff and
+the selected consulting firm, financed under the PPF, to assist the TD in design and preparation of
+the project. Detailed description of the functional design of the treasury system the Government of
+Kazakstan plans to implement, and the hardware and software strategy for implementing the treasury
+system is included in Annex 1.
+III. THE PROJECT
+Project Objective
+16.       The project's overall aim is to support the new TD in establishing a treasury system: (i)
+that provides comprehensive, reliable and timely financial management information; and (ii) helps
+manage government expenditure effectively. To achieve this aim, the project sets three specific
+objectives: (i) prepare a detailed functional design for the treasury system and develop related
+procedures; (ii) provide and install the computer resources to implement the treasury system; and (iii)
+ensure that local staff can operate and maintain the system effectively.
+Project Description
+17.       The project consists of the following components:
+(a)    Design of the Computerized Treasury System. This component consists of:    (i)
+preparing a detailed functional design for the treasury system and developing related
+procedures and manuals; (ii) examining available software alternatives; (iii) developing
+hardware and software specifications for the technology platform needed to establish the
+system and assist in their procurement; and (iv) formulating a programn to train the TD
+and other related staff and upgrading the Government's in-house technical capacity to
+operate and maintain the system. A consultant firm was selected by the Government to
+
+
+
+- 6 -
+carry out this task. A Project Preparation Facility in the amount of US$1 million was
+approved on July 14, 1994 to finance this work;
+(b)    Pilot System Computerization. Based on the work carried out under component (a),
+application software would be designed and procured to test and implement the full
+functionality of the Treasury System at a few designated sites. Computer hardware
+system and software would be procured to implement the pilot at the sites. At this stage,
+user manuals, training materials and technical documentation will be finalized and the
+local staff will be trained to operate and maintain the system.
+(c)    Full Implementation of the Computerized System. Based on the finalized system under
+component (b), computer hardware and standard software will be procured and installed
+for the rest of the treasury system. A Government wide training program will be
+implemented simultaneously for operating and maintaining the system.
+Status of Preparation
+18.       Detailed Functional Design. System designs and functional specification for payroll,
+commitment accounting, revenue accounting, cash management, fixed asset control, general ledger
+and chart of accounts (comprising a majority of the functions) have been completed by the consultants
+and approved by the Government
+19.       Software Alternatives. Investigation of available off the shelf software packages that
+meet the functional requirements of the treasury system has been started. While conducting a search
+for software packages the consultants will ensure that: (a) the software packages provide the required
+functionality; (b) it is possible to obtain and install upgrades and/or changes to the packages in
+Kazakstan as they become available; (c) the vendor for the package provides customization assistance
+as may be required or alternatively the package source code is available for making changes as may
+be required; (d) the costs associated with any customization are identified clearly in the total cost; (e)
+the package runs on a range of hardware and operating software which is compliant with the
+hardware and software strategy proposed for the treasury system; (f) adequate documentation is
+available to enable package installation and use, and (g) licensing arrangements clearly specify the
+liability for use of the package at multiple sites in Kazakstan.
+20.       In case it is not found feasible to purchase an off the shelf package to satisfy the
+requirements of the treasury system, the consultants will develop a plan for the design and
+development of the application systems. In this case, the consultants will also extend the functional
+analysis performed above and develop the systems and program specifications for the various
+modules of the treasury and related systems. These would then be used as the basis for the
+contracting (or in-house development) of the application software.
+21.       Development of hardware and software specifications and acquisition of hardware
+and software. Hardware and software specifications are being completed by the consultants and
+progress was reviewed with the Government during the appraisal. The bidding document for the
+procurement of hardware and software for the pilot phase implementation is also under preparation.
+
+
+
+22.       Development/upgrading the MOF data processing organization. The government will
+require the development/upgrading of its in-house data processing facilities to maintain and operate
+the treasury and associated systems developed as part of this project. The MOF computer department
+has a staff of competent analysts and programmers. A team of about 8-10 staff from this center will
+be designated by the government to work along with the consultants. This staff will need to be
+involved with all tasks associated with systems design, software development, installation and
+operation. In case one or more software packages are selected to satisfy the requirements of the
+treasury system, the staff will need to be trained in their use and maintenance. In case in-house
+development is required, staff will be associated with the in-house development of the system or the
+management of the contractors who have been selected to carry out the development.
+23.       The consultants will analyze the existing MOF's EDP resources and develop a plan to
+upgrade the data processing organization. This would include assisting the TD in developing a
+training program for its staff including specialized training in the use of the various tools such as
+operating systems and DBMSs application development facilities, and more general training in EDP
+project management, maintenance and provision of end user support and training for a country wide
+system treasury system.
+Implementation Strategy
+24.       Under project preparation, significant progress has been made to prepare for project
+implementation. Detailed function for the treasury system has been completed by consultants and
+approved by the TD. Bidding documents for procurement of pilot hardware and software are being
+completed and progress was reviewed during appraisal. Broad outline of a training program has been
+drawn-up and was reviewed with the Government during appraisal. Search for available software
+alternatives has also begun. By loan effectiveness, most of the preparatory work should be
+completed. The first phase of implementation would focus mainly on finalizing the training plan and
+procedures and manuals for the new system.
+25.       The implementation of the project is divided into three phases: completion of the
+functional design of the system to be tested (as described in paragraph 18); a pilot phase to procure
+and test the system; followed by implementation of the full system. Accordingly, the hardware and
+standard software packages to be purchased under the project will be divided into two phases. The
+pilot phase would implement the application systems and installation of new hardware at the central
+Treasury, two of the central spending units (sector ministries), two oblasts and some associated
+rayons to thoroughly test the features and functionality of the system, the integration between the first
+and second level packages, and work out the data migration strategy. Hardware procurement at this
+stage will be limited to the pilot project requirement. The bid documents for the pilot phase has been
+prepared and submitted to the Bank for review prior to Board presentation.
+26.       Based on the modifications made during the pilot phase, hardware will be procured for
+the full implementation phase. Simultaneously, training of local staff would be conducted to carry
+out the replication and subsequent operation and maintenance of the system.  Prior to the
+commencement of the full implementation phase, a Mid-Term Review will be carried out with the
+Government to precisely define the hardware and standard software packages to be procured, their
+costs, and the implementation schedule for replicating the system country-wide. Prior to the Mid-
+Term Review, the draft bid documents for the full implementation phase will be prepared and
+submitted to the Bank for review.
+
+
+
+- 8 -
+27.       Pilot phase computerization. The pilot phase would implement the application systems
+and install new hardware at the central Treasury, two central spending units (sector ministries), two
+oblasts and some rayons to thoroughly test the features and functionality of the systems, the
+integration between the first and second level packages, and work out the data migration strategy.
+Hardware procurement at this stage will be limited to the pilot phase requirement. Once the pilot
+phase has been successfully completed, additional hardware and licenses for application systems
+would be procured prior to the system being implemented at other oblasts and rayons. Deliverables
+for pilot phase include:
+(i)    installation and testing of the hardware and software;
+(ii)   ensuring that the hardware and software supplied by the selected vendors meets the
+design specifications;
+(iii)   ensuring that tested modules for the full treasury system, including the modules that will
+be implemented at the central TD, regional and district units, and the ministries and
+subordinate spending units, are fully functional;
+(iv)   preparation of the user manuals and other technical documentation to enable the complete
+operation of the full treasury system;
+(v)    preparation of the training manuals for end users; and
+(vi)   design and implementation of training courses for sufficient number of local staff to a
+level which will enable them to operate and maintain the treasury system, and to provide
+the necessary end user support.
+28.       Project full implementation phase. Based on the assessment made during the pilot
+phase, hardware will be procured for the full implementation phase. Simultaneously, training of local
+staff would be conducted to carry out the replication and subsequent operation and maintenance of
+the system. Prior to the commencement of the full implementation phase, a Mid-Term Review will
+be carried out with the Government to precisely define the hardware and standard software packages
+to be procured, their costs, and the implementation schedule for replicating the system country wide.
+Deliverables for this phase would include:
+(i)    preparation of a replication plan and schedule for the implementation of the computerized
+treasury system;
+(ii)   preparation of a detailed check list of the tasks that should be undertaken for replication
+of the system at the treasury regions and districts;
+(iii)   confirmation by the hardware and software vendors that the first two replications are fully
+operational; and
+(iv)   training of sufficient local staff capable of carrying out subsequent replications.
+29.       Treasury system training. The training strategy aims to develop a cadre of professionals
+able to develop and operate the treasury system, and to strengthen commitment to the reform process.
+
+
+
+- 9 -
+By matching the investment in systems with a parallel investment in people, the full benefits of the
+system can be achieved. Given the extensive training needs identified, the chosen modality is a
+cascade approach, the essential aim being to train limited numbers of key people who will then train
+much larger numbers of subordinates. Two main groups of training skills are needed:
+(i)    accounting, financial management and auditing;
+(ii)   informnation technology and software applications.
+30.      The following target groups have been identified: system developers and administrators,
+applications managers, personnel responsible for transaction processing, end-users, personnel of the
+budget bank, senior managers, accountants and government auditors.
+31.        For successful implementation of the project, a separate unit is required for treasury
+training, appropriately linked with the department for personnel issues and educational institutions
+of the Ministry of Finance. The unit, with technical assistance from the project, would have the
+general responsibility for creating and implementing an annual training program for the Treasury
+Department, setting out the courses to be designed and delivered, their objectives and duration,
+numbers to be trained, the locations for training and the necessary inputs from various sources. The
+plan would be approved by the Deputy Minister of Finance annually.
+32.         The main training modules would be: elements of govermnent accounting, financial
+management, internal control and internal audit; overview of the treasury system (appreciation
+course); financial procedures; transactions processing for budget execution; information technology;
+application systems; site management procedures; and courses for end-users. The above would be
+designed as permanent courses to run regularly after completion of the project. Training would be
+provided principally by the training unit of the Treasury Department with help from other divisions,
+and from selected commercial firms and training institutions.
+33.         In association with the September 1996 project launch (see above), the first formal
+training seminar will be held. During implementation, further workshops will be organized for
+managers, senior financial staff, accountants and trainers in line ministries, oblasts, audit bodies and
+training institutions. The training strategy and program and the Project launch are further described
+in Annex 2.
+
+
+
+- 10-
+IV. PROJECT FINANCING, COSTS, PROCUREMENT AND DISBURSEMENT
+34. Project costs and Financing. Total project costs are estimated to amount to US$21.7 million,
+of which foreign exchange costs are calculated at US$19.3 million, or 89% of the total. Local costs
+have been estimated on the basis of current and foreseeable salary and accommodation needs. Costs
+for various components have been estimated in November 1995 using the experience of other World
+Bank projects in the region, similar activities in neighboring countries and detailed input from various
+counterparts. The estimates include physical contingency amounting to US$0.92 million, which is
+comprised of: (i) 5 percent of the cost of computer hardware and related equipment procurement; (ii)
+15 percent of the cost of application software; and, (iii) 15 % of the cost of training. All equipment,
+installation, training and foreign consultant costs have been estimated net of taxes and duties. The
+consultants which have been engaged by the Government to assist in the project preparation are also
+expected to continue to assist during the implementation phase (per contract). US$1 million of the
+$1.50 million is being financed under the PPF and the remaining contract amount will be financed
+by the project loan.
+35.      The main financial contribution of the Government, equivalent to 27 percent of total
+project cost, would be the incremental staffing cost for the new computerized treasury system;
+associated hardware and software maintenance costs for the outer years of the project (years four and
+five); other recurrent expenditure costs associated with operating the new treasury system, including
+computer supplies and communication charges; for the period covering project implementation (July
+1996 to December 2000). The Government financial contribution totals US$5.9 million. The Bank
+would thus finance 82 percent of foreign exchange costs and 73 percent of total project costs. The
+Project Cost and Financing Plan is summarized in Schedule A.
+36.      Institutional Arrangements for Project Coordination and Implementation. The
+project will be implemented over a 4-year period in accordance with the project description in para.
+17 and the implementation plan in Schedule D. Responsibility for project coordination and
+implementation will be vested in the Deputy Minister for Finance, head of the Treasury.
+37.      Project Implementation. To assist the Deputy Minister for Finance in the day-to-day
+implementation and coordination of the project, a working group comprising six senior staff, five
+from the TD and one from the Computer Center has been established. This working group has been
+supervising the preparation of the project as well as the detailed work being produced by the project
+consultants for the past six months. The quality of their supervision and inputs have been extremely
+high.
+38.      The Project Implementation Unit (PIU) of Committee on Utilization of Foreign Capital
+(CUFC) under the Ministry of Finance will review and clear all procurement documents. PIU,
+established in mid 1993 to handle several World Bank loans, has operated satisfactorily and is now
+managing implementation of three World Bank projects and a number of other projects funded by
+other donors. To help Government initiate the project, the Bank and the IMF will organize a project
+launch workshop, after Loan approval, at which a team comprising the task manager, IMF Fiscal
+Affairs staff and management, and computer specialist will fully review the implementation
+procedures and requirements. Bi-annual supervision missions would follow, with a mid-term review
+in March 1998 (18 months after effectiveness) when the Government is expected to launch the full
+scale implementation of the computerized treasury system. The Supervision Plan is shown in
+Schedule F, the inputs process, output and impact indicators are presented in Schedule G.
+
+
+
+- 11 -
+39.       Procurement. Under this Loan, provision is made for computer hardware and software,
+training and consultant services to be procured in accordance with the "Guidelines for the Use of
+Consultants" (the Consultant Guidelines) published by the Bank in August 1981 and "Guidelines for
+Procurement under IBRD Loans and IDA Credits" (the Procurement Guidelines) published by the
+Bank in January 1995. Project components, estimated costs and procurement arrangements are set
+out in detail in Schedule E.
+40.       International Competitive Bidding (ICB). Procurement of goods for all contracts over
+US$300,00 would be awarded through International Competitive Bidding (ICB) following the Bank's
+guidelines and the use of the Bank's standard bidding documents. These contracts are expected in
+aggregate to amount to US$10.18 million.  To ensure compliance with the Bank procurement
+guidelines, all contracts awarded through ICB, will be subject to prior Bank review. General
+Procurement Notice for the project will appear in the July 1996 edition of the Development Business
+Forum.
+41.      International Shopping (IS). For goods below contract value of $300,000, with an
+expected aggregate amount of US$1.0 million, procurement will be undertaken through International
+Shopping {IS) with at least three bids from three member countries in accordance with Bank
+Procurement Guidelines.
+42.       National Shopping (NS). Minor sundry items, such as small lots of information and
+office equipment, not exceeding US$50,000 per contract, up to an aggregate amount of US$500,000
+equivalent, could be purchased on the basis of prudent national shopping by comparing price
+quotations obtained from at least three local suppliers, in accordance with Bank Procurement
+Guidelines.
+43.       Direct Contracting (DC). Goods and technical licenses which the Bank agrees: (i) are
+of proprietary nature; or (ii) need to be compatible with other installed equipment, may be procured
+through direct negotiations with property and/or copyright owners, on the terms and conditions
+acceptab'e to the Bank. Such items include contracts for intellectual property such as books, technical
+journals, training materials, audio-visual materials, computer applications software, including annual
+upgrading and licensing arrangements, copyrights, translation and reprinting rights for training
+materials, are estimated to cost under US$500,000 equivalent in the aggregate.
+44.      Implementation Consultants. The main set of technical assistance for the project has
+been already been contracted with financing being provided by a Project Preparation Facility.
+Qualified firms were invited to submit proposals for foreign technical assistance in accordance with
+the Consultant Guidelines. The contract was awarded to KPMG Barents group for a total value of
+US$1.5 million. US$1.0 million of this contract is covered by PPF, and the remaining US$0.5
+million will be covered from the consultancies and training component. An amount of $0.36 million
+has been set aside for possible additional assistance required during implementation. According to the
+terms of reference and the contract, Barents group will assist the Government in the implementation
+of the project.
+45.       For other consultancies that may be required, selection of the consulting firns for the
+provision of services will be carried out following the "Guidelines: Use of Consultants by World
+Bank Borrowers and the World Bank as Executing Agency," published by the Bank in August 1981.
+To suumerize, following are the main components to be financed:
+
+
+
+- 12 -
+(i)   funding of the implementation consultants (US$860,000);
+(ii)   advisory services to the TD, selected based on a short-list of individual consultants
+(US$410,000);
+(iii)  two or three contracts selected through proposals submitted by short-list of consultants
+for: (a) training of Government staff on computer operation and maintenance; and (b)
+national and local seminars on the treasury system (aggregate of US$930,000); and
+(iv)   technical studies related to the treasury (US$380,000).
+46.       Bank Review. For goods, the Bank shall review the Borrower's procurement decisions
+and procedures in accordance with Appendix 1 of the Procurement Guidelines. In particular: (i) each
+contract estimated to cost $300,000 or more; (ii) the first two contracts under each project component
+estimated to cost US$100,000 or more; and (iii) all direct contracts; shall be subject to prior review,
+in accordance with paragraph 2 of Appendix 1 of the Procurement Guidelines. Other goods contracts
+costing US$50,000 or more shall be subject to post review in accordance with paragraph 4 of the
+Appendix 1 of the Procurement Guidelines. For technical assistance contracts, the applicable review
+procedures would be followed as per the Consultant Guidelines. However, for technical assistance
+contracts under $50,000, the Bank will require prior review of only the terms of reference and short-
+list of potential consultants.
+47.       Procurement Monitoring. Information on procurement would be collected and recorded
+to provide: (i) prompt reporting of contract awards by the Borrower; (ii) full quarterly reports to the
+Bank; and (iii) changes in procurement schedules, including advertising, bidding, contract awards and
+completion dates.
+48.       Disbursements. The proposed loan would finance: (i) 100 percent of the foreign
+expenditures of imported goods, up to 100 percent of the local expenditures (ex-factory costs), and
+up to 75 percent of the expenditures for other items procured locally; (ii) 100 percent of expenditures
+of consultants services (net of taxes), and training; and (iii) the refinancing of the PPF. It is
+projected that US$3.27 million would be disbursed in FY97, US$6.24 million in FY98, and US$6.25
+million in FY99. The project is expected to be completed by December 31, 1999, and the loan
+closing is expected on June 30, 2000. Disbursements would be made against the Statement of
+Expenditure for contracts for Goods upto $300,000 equivalent and consultant (individual $50,000
+equiv. and firms $100,000 equiv.) for which detailed documents evidencing expenditures will be
+reviewed by Project Coordinating Unit (PCU) and made available for the required audit as well as
+to Bank supervision missions. Disbursements against contracts for good exceeding this threshold
+would be made against normal documentation.
+49.       Special Account. To facilitate timely project implementation, the borrower would
+establish, maintain and operate, under conditions acceptable to the Bank, a Special Account in US
+dollars in a commercial bank. During the early stage of the project, the initial allocation of the
+Special Account would be limited to US$100,000. However, when the aggregate disbursement under
+the loan have reached the level of $1.0 million, the initial allocation may be increased up to the
+authorized allocation of US$500,000 by submitting the relevant Application for Withdrawal.
+
+
+
+- 13 -
+Replenishment applicatiions should be submitted at least every three months, and must include
+reconciled bank statements as well as other appropriate supporting documents.
+50.       Project Preparation Facility (PPF). A PPF was approved and became effective on July
+23, 1994 to finance the services of a qualified consulting firm to assist the TD to immediately proceed
+with the preparation of a detailed functional design for the treasury system and with the development
+of related computer hardware and software specifications. The PPF will be repaid immediately upon
+effectiveness.
+51.       Coordination with the IMF. This project has been prepared jointly with the IMF and
+this joint effort will continue under project implementation. During project implementation, the Bank
+would retain full responsibility over the supervision of system design and implementation,
+procurement and disbursement. The IMF will be responsible for supervising the implementation of
+the overall public expenditure management reform program and specifically the substantive aspects
+of the treasury system.
+V. PROJECT ACCOUNTING, FINANCIAL REPORTING AND AUDITING
+52.       Accounting. The Borrower would be responsible for the appropriate accounting of the
+funds provided by the Bank under the Loan, for reporting on the use of these funds, and for ensuring
+that audits of the financial statements or reports are submitted to the Bank. The TD would establish
+an appropriate accounting system to enable information on the proper receipts and use of the funds
+provided in accordance with the Loan Agreement. Accounting for all Special Account transactions
+and all other project accounts will be maintained in accordance with practices and standards
+satisfactory to the Bank, with the objective of timely and accurate accounting for all transactions
+under the Loan.
+53.       Financial Reporting. The financial reporting would comprise statements of receipts and
+payments for the reporting period from the beginning of the Loan operation. The reporting would
+be in accordance with the disbursements classified and reported by the expenditures categories agreed
+with the Borrower and specified in the legal documents. The TD would submit quarterly financial
+progress reports, including separate report of the Special Account. A Project Completion Report
+would be submitted to the Bank by the TD promptly after the completion of the operation, and in any
+event not later than six months after the Loan closing date.
+54.       Auditing. The financial statements and reports on the Loan should be submitted in
+accordance with generally accepted auditing standards by independent auditors acceptable to the Bank.
+The criteria for selecting auditors would be as follows: (i) impartial and independent from the entity
+to be audited; (ii) well established and reputable; (iii) experienced in the type of
+
+
+
+- 14 -
+assignment to be undertaken; and (iv) able to fulfill the terms of reference required within the
+specified timetable.
+VI. ENVIRONMENTAL ASPECTS
+55.       This project, providing computer hardware and software, training and technical assistance,
+will have no negative enviromnental impact and has therefore been placed within category C under
+the Operational Directive 4.01 on Environmental Assessments.
+VII. PROJECT BENEFITS AND RISKS
+56.       The proposed project would lead to significant financial and economic benefits to the
+country. By developing the central treasury system and optimizing the budgeting process and debt
+management, the project would contribute to reducing Government borrowing costs. Tools and skills
+developed under the project would enable access to timely, accurate and consistent financial
+information to improve resource planning, cash management, budgeting, and public expenditure
+management and control. Improvements in the public finance management reform being undertaken
+by the IMF would promote the capacity to properly formulate and execute fiscal policies. The
+consolidation of various information databases, consistency in the classification of expenditure items,
+and an effective system to control expenditure and monitor cash flows would enhance transparency
+and accountability in the fiscal processes.
+57.       During the introduction of an improved system of public finance, it may be difficult to
+overcome entrenched positions, attitudes and the vested interests of bureaucrats, who have benefited
+from financial uncertainties and lack of control. The Presidential decree setting up the Treasury, the
+introduction of the legal framework for Government financial management, and Presidential decree
+requiring adoption of a new budget classification system and its application for preparing the fiscal
+1996 budget have, however, significantly reduced these risks.
+58.       More specific risks relate to the nature of the proposed technological changes and the
+need for adequate technical expertise. To ameliorate these risks, the project has provided for: (i)
+preparation and approval of the functional design and hardware configuration by expert consultants
+as part of project preparation; (ii) phasing the implementation into a pilot and full implementation;
+(iv) cominued employment of expert consultants during the pilot and early phases of systems
+replication and the close association of local specialists during these phases; and (iv) a significant
+t.aining component included in the project.
+
+
+
+Annex I
+Page 1 of 10
+The Development and Implementation
+of the Government Financal
+Management Information System
+The Treasury System
+1.           Iln the process of developing a TLS and an associated TSA, it is important to
+recognize the interconnection and interdependence of all aspects of Public Expenditure
+Management(PEM). Budget execution cannot be viewed in isolation, but must be linked to budget
+preparation, budget approval, and cash and debt management. However, the TLS serves as the key
+element within the Government Financial Management Information System (GFMIS), and is the
+central component of the system, upon which other elements of the public expenditure process can be
+built. This modular approach to PEM functions is illustrated in Chart 1. The budget implementation
+approach presented in this chart is broadly consistent with, and will be linked to, the functions
+envisioned for the newly created TD in Kazakstan.
+E;xecution of budgetary expenditures
+2.            The remaing sections of this chapter addresses in detail the proposed design of those
+components contained in the lined box on the right of Chart 1, and deal in detail only with
+expenditures. Revenues collected by the tax and customs administration would be recorded at an
+aggregate level in the TLS, 1' and would be reconciled with deposits made in the TSA.
+Overiew
+3.4.          The various budget implementation activities (identified in Chart 1) are summarized in
+information flow terms in Chart 2. The process begins with the recording of the approved budget
+(and any amendments thereoo by the MOF in the TLS by individual appropriation items or revenue
+estimates. Using this as a basis, comnmitmnent lismits may also be determined, against which spending.
+units can make conmmitments (the comrnitment stage). A funds allocation limit will be determined
+periodically on the basis of cash availability, and entered by the MOF against an appropriate
+aggregation of appropriation items. When deliveries have been made, and bills received, the
+spending unit acknowledges the fulfillment of the commitment and confirms an obligation to pay (the
+verification stage). In the final stage, the spending unit makes (or authorizes) the payment. Revenues
+collected are recorded on the TLS.
+5.            The implementation of these processes could be in two ways, depending on the
+linkage of the spending units to the system-direct (SUd) or indirect (SUi).
+11     lThe revenue recording would be at a level of aggregation consistenlt with the esdmautes preseted in th
+budget documentation.
+
+
+
+AmI'
+Page 2 of 10
+CHART I
+Government Fmancial Management Information System - Module'
+Budget Implementation
+Budget Executon
+- Appropriation
+_                         _    - Commitment
+Budget  ~  1  - Verification
+Budget               Economic AnaIysis                - Funds Allocation
+Financial Planning
+- Forecast of revenues and
+expenditures
+-Forecast of debt servicing
+Fiscal                                               -Cast management
+Reporting            Treasury Ledger System
+(Data Bank)
+Financial Execution
+-Inflows to TSA
+- Outflows from TSA
+- Paymens
+lnera adDebt Management                 - Receipts
+Internal anid             -Itr
+External ConLtrols          - External
+Accounting
+- Chart of accounts
+- Accounting rules
+-Conto1s
+* Each module is a set of operaious utilizing the Treasury Ledger System (Data Bank)
+(T   with infor=tion flowing both to and from the TLS.
+
+
+
+Anmex I
+Page 3 of 10
+CHART II
+Logical Flows-Budget Expenditures
+Branch of Cash and                   - _   - - - -
+State Debts                                                       SUd and SUi
+I    .    '              .
+|Main Budget   LS                                     -7t  , -
+Departinent    _              Ministry      _    _     9 
+m~                                    TIS               !
+~Regional TreasuryjJ12
+Unit           Central Unit
+I_  .$ Il.
+SUd                                                            _   Commeriial
+SUd                                     r 0                        Banks$
+Central    kO_-
+Govenrnenrt II
+Creditors*
+L    J
+---          hnfomadon Flow
+<F -    Finai Flow
+System Rcglsutdon (SR) or informadan provided by the system.
+*     Supplien and public emnployea.
+r=        E;dde sInke to ti sysm, and eadded w reeive inforatdontom it.
+o ddes not linked to the systen.
+
+
+
+Page 4 of 10
+Chart 2
+Logical Flows-Budget Expenditures (concluded)
+1.    SR-Budget appropriation limits per ministry.
+2.    SR-Quarterly limits on commitments.
+3.    SR-Budget appropriation and commitment linits per spending unit, by quarter.
+4.    SR-Actual comrnitments and verifications of ministries and spending
+units directly linked to the system (SUd).
+5.    Actual commitments and verifications of the spending units indirectly
+linked to the system (SUi), in a paralIel systemL
+6.   Information on the budgetary and financial limits to the SUi.
+7.    Indicative cash limits for subsequent months, specifying the main
+expenditures groups.
+8.    SR-Financial releases (funds allocations) to the ministries, for each
+expenditure group, taking into account the balances in the TSA and
+ministries' expenditure items.
+9.    SR-Financial releases to the SU accounts.
+10.   SR-Payment order (PO) to pay the SUd expenditures, provided that they were previously
+committed and verified.
+11.   PO to pay the SUi expenditures, provided that they were previously
+committed and verified.
+12.   SR-POs issued by the SUi.
+13.   Daily file of the payments of the StUd and SUi.
+14.   Credit to commercial banks of the amount authorized by the SUs for payment to cental
+government creditors (suppliers, public employees, etc.)
+15.   Credit to central government creditors' accounts.
+16.    SR-Information on debits/credits into the TSA.
+(SR= System Registration)
+
+
+
+AnneZ I
+Page 5 of 10
+Information flow
+6.            The Main Budget Department prepares and registers in the TLS the detailed allocation
+of budgeary appropriations by ministry, and advises ministries accordingly (flow 1). This should be
+done within the limits of appropriation approved by the Supreme Soviet. The Department may also
+set and register quarterly lirmits on commitrnents by ministry (flow 2) and by category of spending (at
+the level of aggregation deemed appropriate). Ministries would then advise budgetary appropriations
+and commitment limits to their respective spending units and enter the limits in the system (flow 3).
+7.            Registration of actual commitments would be made in the treasury system by the
+ministries and spending units directly linked (SUd) to the system (flow 4), or by the spending units
+indirectly linked (SUi) in a parallel system through a Regional Treasury Unit (RTU) (flow 5). Tbe
+SUi will be periodically informed by the RTU of their limits (flow 6).
+8.            In the verification stage,Y once all the requirements for a particular obligation have
+been met, the spending unit should confirm that the commitment is ready for payment (flow 4, SUd,
+and flow 5, SUi).
+9.            It should be noted that the process outlined above can be simplified for certain types
+of expenditure, either administratively or by automated procedures in the treasury system. For
+example, salary commitments may be advised only once a year on an estimated basis and adjusted as
+necessary during the year. The commitment (and verification) of small expenditures (up to a
+predetermined limit) can be entered into the system simultaneously with the order for their payment.
+However, the system must lknow in advance which expenditure items allow such simplification, to
+prevent misuse.
+10.           To encourage advance planaing of the larger expenditures, it may be appropriate for
+the MOF to propose limits on cash availability against spending unit expenditure items. These would
+be advised to mrinistries by the Branch of Cash and State Debts of the TD (flow 7) in accordance with
+the financial plan, specified by category of spending. Ministries would, in turn, advise spending units
+(flow 7). The advance knowledge of indicative cash limits, as well as of quarterly commitments
+limits, will allow agencies to make the best arrangements and to set priorities in a situation of scarce
+resources, so chat any necessary cuts in planned expenditures can be rade in a more orderly and
+effective way.
+11.           After taking into account both the balance in the TSA and the balance in spending
+units' expenditure items in the system, the Branch of Cash and State Debts would make funds
+allocations (set cash limits) to ministries for each category of spending (flow 8), thereby allowing
+them to distribute these fnacial releases (limits) among their respective spending units and enter the
+limiits in the system (flow 9).
+12.           Under ideal circumstances, the fuinds allocation would be consisteat with the proposed
+1'     The verification stage of the expendiure pmcess is important in that it confirms an obligaion to pay.
+Vterification procedures are normally carried out by the spending unit and recorded in the units' ledger, or im
+other admnistrative docmeats maintained for this purpose.
+
+
+
+Page 6 of 10
+cash limits advised to ministries earlier (flow 7). Both proposed and actual cash allocation quarterly
+limits would also be consistent with the quarterly commitment levels and budget appropriation made
+on an annual basis, thereby minimizing the necessity to replan activities. The degree of consistercy
+in the process will largely depend on the quality of the initial fincial planning process and the
+revenue collection outcome.
+13.          Following the verification for a given expenditure, ministries and spending units
+directly linked to the system (SUd) would record the corresponding payment order in the system (flow-
+10). The system would automatically check that the order falls within the fumds allocation limit set
+for that SUd. The indirectly linked spending units would process a payment order through the RTU
+(flow 11). The latter would check the payment order issued by SUi and register it in the TLS
+(flow 12).
+14.           At the end of each day, the TLS would prepare a file with complete information on
+the creditors and payments to be made, as advised by ministries and spending units. This file would
+be sent to the NBK which holds the TSA (flow 13), which would in turn transmit the relevant
+information (and funds) to each commercial bank (flow 14), to credit to the appropriate account (flow
+15), and debit the TSA. The NBK would confirm to the TLS the debits in the TSA (flow 16).
+15.          Computerization of such a budget execution system through a centrally controlled TLS
+needs to take into account the following factors:
+(a)   the accounting strucrure of the TLS should directly reflect the structure of the central
+government budget appropriation items approved by the Supreme Soviet, that is, there
+should be a one-to-one relationship. It should contain one item for each head of
+expenditure (appropriation) in the annual Budget Law, for each standing appropriation
+(where such a mechanism is utilized), each head of receipt, and each refund of
+receipts;
+(b)    in many situations, the budget appropriation items will not be detailed enough for day-
+to-day operations and management, and ministries (or spending units) mnay wish to
+expand the chart of accounts to allow proper expenditure control and transaction
+processing at a more detailed level. This can be achieved in one of two ways. First,
+the central TLS chart of accounts can be expanded to accommodate ministry and
+spending unit accounting requirements, with all transaaions carried out as described
+above. Alternatively, ministries may utilize their own accounting (ledger) system.
+This would allow much of the detailed transaction processing to take place on the
+ministry system (and with proper control mechanisms to transmit the payment
+instructions directly to the bank containing the TSA), with only aggregate data
+consistent with the budget appropriation structure transmitted to the TLS. Ia the
+initial stages of development in Kazakstan, it is envisaged that the first method is
+adopted;
+(c)    the level of existing (or proposed) computerization at the ministry and spending unfts
+and the associated communication systems will determine the capability of units to be
+directly or indirectly linked to the central TLS. This, ia turm, wiU have a significant
+bearing on the requirement to establish RTUs. This aspect must be addressed early in
+
+
+
+,Amex t
+Page 7 of 10
+the system development process, taking into account the existing relevant
+comnunication infrastructure; and
+(d)   the technical solution adopted will be one which ersures the appropriate integrity and
+security of the goverarnent financial data.
+RTU Operations
+16.          The geographic size of Kazakstan, and distribution of spending units through the
+administrative system of regions and districts (of which there are 21 and 280 respectively) suggests
+that a substantial number of RTUs will be required. As mentioned above, this aspect will require
+early consideration in the system development.
+17.          Chart 4 illustrates the interaction of a typical the RTUs vwith the TLS and with the
+spending units. The relationships described would remain valid, regardless of which option is
+implemented for the Ministry FMIS, whether it is on an expanded TLS or is stand alone.
+18.          The Ministry's FM2S contains details of transactions received electronically from
+SUd (flow 1) and by other means (hard copy documents, floppy disk transaction batches, etc.)
+from SUil (flow 2). The TLS records transactions by the mrinistries (flow 3) at an aggregate
+level, transmitted from the Ministry's FMIS where the details of individual transactions are
+recorded. The Ministry's FAGS also receives funds allocation data and management reporting
+(the latter to assist with reconciliation between the TLS and the FMIS) from the TLS (flow 4).
+The Ministry's FMS, in tum, provides funds allocation and reports to the SUd (flow 5) and the
+SUil (flow 6).
+19.          Any spending unit not liriked to the TLS through a ministry would report through
+an RTU-as is illustrated by SUi2 in Chart 4. Payments and receipts information would be passed
+to the RTU in hard copy or on floppy disk (flow 7) and be used to update the TLS (flow 8). The
+TLS would then update the mninistry's FMIS (flow 4). Funds allocation data and reports would be
+sent from the TLS to the RTU (flow 9) then passed on to the SUi2 (flow 10).
+20.          The RTUs would be established where it is not practicable for individual speading
+units to be linked to their parent ministry or to the TLS. An RTU mnight be set up to serve a
+number of separate spending units, from a variety of ministries, in a particular area. In this case,
+it would be necessary only to provide a single communications link to the TLS rather than a link
+to each spending unit. In areas where the comrnmunications infrastructure is particularly deficient,
+it might be necessary for the RTU to communicate by courier with both the spending units and
+the TLS. As the communications infrastructure imnproves, the re4uirement for the RTU to serve:
+as the link to the TLS would decline.
+21.          The project provides for acquisition of computer H/W, systems SIW, appliuation
+development and DBMS S/W, and application of S/W and technical training, required for the
+implementation of the treasury system at the TD in the MOF head offices in Almaty/Akmola, the
+RTUs, and the DTUs. Following briefly describing the strategy for implementing the
+computerization of the treasury system.
+
+
+
+Ann x
+Page 8 of 10
+HIW. SIW Strategy for Irnplemnenting the Treasury System
+22.          The overall H/W, SfW strategy for the project is to assist specify the nature, size
+and distribution of computer processing facilities and associated work stations; the nature of the
+communications connections between the nodes of the network; and the naturc and type of
+application development, systems S/W and Data Base Management Systems (DBMS), that should
+be employed for the project.
+23.          The H/W, S/W strategy for the project is determined by the characteristics of ther
+application systems for government budgeting and accounting which may be summarized as
+foUows:
+(a) The application systems for the execution of the govermnent budget will
+consist of several modules that need to exchange data with each other;
+(b) Some modules will need to be implemented at multiple levels (e.g., TD,
+RTUs at the regions and the District Treasury Units (DTUs) spending units.
+Data will be generated, stored and processed at each level and will need to be
+transferred between the various levels;
+(c) The data and transaction volumes will vary by region and spending unit. For
+the TD and for the TUs at some regions and some spending units they could
+be quite high.
+Hardware Architecture
+24.          The application characteristics require that a distributed architecture be used and
+computer processing power be located at the various nodes of the network (TD, RTUs, and
+DTTUs). Where facilities allow and data volumes justify it, these nodes should be connected via
+telecommunications facilities. The transaction processing and database management required at
+each node should be carried out by the computers installed at these nodes. Summary or detailed
+data, as required, would be transmitted via telecommunications facilities to the central computers
+located at the TD in Almaty.
+25.          The advantage of such an architecture is that it distnbutes computing power,
+commensurate with needs, to different nodes of the network, thereby optimizing usage and
+making it more reliable and less vulnerable to malfunctions at a single central site. rn addition,
+end users at regional treasury units have better control over their technological and data resources
+and this inculcates a sense of ownership for the systems they use.
+26.          This architecture also allows more flexibility of telecornmunications faciIties. la
+the absence of good telecommunications facilities, data transfer between the nodes and the center
+could be periodic - say daily, weekly, or monthly depending on the application system - in an
+off-line/batch mode. In the complete absence of telecomrnunications faciities, data transfer could
+be by computer compatible media (such as diskettes).
+27.           The size and distribution of computing power across the various nodes of the
+
+
+
+Am= I
+Page 9 of 10
+network is determined by the volumes of data and transactions that are generated and stored at the
+various nodes and the volumes and frequencies of data that are transmitted between the nodes.
+formnation gathered from discussions with MOF officials has been used to estimate the sie and
+location of computers. This information will be progressively refined by the consultants during
+the preparation phase of the project, by undertaking actual surveys to gather data for each region
+and district. The computer configurations required to be installed at the central TD, the
+Ministries, the RTUs at the regions and DTUJs at the districts, and an estimate of associated co,.
+is given in Annex II and are briefly described below.
+28.          In keeping with the H/W, S/W strategy explained above, it is envisagede that the.
+treasury system will be implemented using a distributed computing architecture. A computer
+capable of supporting up to 64 users will be installed at the TD in the center; computs capable
+of supporting up to 16 conacrrent users will be installed at each of the Ministry Head Offices in
+Almaty; computers capable of supporting up to 32 concurrent users will be installed at each of the
+RTUs, and one/two PCs will be installed at each of the DTUs. In view of the Government's
+plans to move the capital to Akmola, the TD will eventually shift to Akimola. However, AlImaty
+will remzin the main commercial center with sizeable activity as far as the treasury system is
+concerned. Therefore, an additional computer configuration capable of handling the workload at
+the new capital will also be required to be installed at Akanola when the move takes place.
+29.          The NBK is planning to establish a Packet Switched Data Network (PSDN)
+connecting Almaty with all regions and districts. This network is expected to be completed by
+early 1996 and NBK plans to make this network available to all financial institutions in the
+country and offices of the MOP on a fee for service basis. It is envisaged that the computers
+installed in the treasury systems network will be connected via this PSDN network. In case this
+network is delayed, the computers at each of the nodes will be connected via leased/dial up
+telephone lines, as is currently being done by the NBK for connecting its Head offices with its
+own regional and district offices. Currently the network is capable of supporting batch data
+transfers between nodes, on a daily basis.
+!9
+
+
+
+,'¢yexc 1
+Page I1 of lO
+Software Strategy
+30.          The nature of the application systems requires that the same core functionality
+available at all nodes of the network. Thus, for example, the core functionality requirements will
+be similar at all RTUs. The requirements at the spending units will similarly be identical.
+Therefore, the same application S/W package would need to be replicated at multiple sites. This
+characteristic requires that the application SIW be scaleable and be able to run on small or large
+computers without major changes. Scalability can be achieved either by choosing a line of
+computers of varying capacities which are fully compatible from the SIW perspective. However,
+such a choice would restrict further additions to the network to this vendor and to this line of
+computers. Alternatively, to avoid these restrictions, the application systems should be developed:
+using application development tools and DBMS S/W that can operate on machines of different
+sizes offered by several vendors. This feature is called S/W portability.
+31.          Several application development and DBMS packages are available in the market
+which are both vertically and horizontally portable. Ideally the way to ensure vertical and
+horizontal portability and scalabiity at the various nodes of the network, is to choose H/W and
+SIW that subicnbes to the open systems concepts. In practice, the environment that comes closest
+to this concept is the UNIX envirorunent. Applications developed under this environment would
+be able to run, with minimum changes, on any computer that has a UNIX based operating
+system. Most H/W vendors now offer a version of UNIX as an operating systems alternative.
+32.          The project therefore proposes to use UNIX as the operating system environment
+across the nodes of the network. In addition, the application development environment chosen
+will use Fourth Generation Languages (4gls) and Relational Data Base Management Systems
+(DBMSs) and associated development tools, Graphical User Interfaces (GUIs) to increase
+application development productivity and offer a user friendly environtnent for data access and
+usage.
+
+
+
+Annex 2
+Page 1 of 5
+Trainng strategy and program
+Training strategy
+1.    The aim of the training strategy is to develop a cadre of professionals who will be able to operate, maintain
+and use the treasury system both during its development, piloting and replication, and after it is complete. It is also
+designed to strengthen commitment to the reform process by showing its logic and advantages, and by providing
+participants with adequate information about the process, and their roles in it. By matching the investment in
+equipment and systems with a parallel investment in people, the full benefits of the system can be achieved. Given
+that the treasury system will extend to many sites and involve many people, the most effective way to address training
+needs is via a casc.ade approach, the essential aim being to train limited numbers of key people who will then train
+much larger numbers of subordinates. This approach requires comprehensive, and well documented courses, so that
+those who are trained can then act effectively as trainers of others. Two main groups of training skills are needed:
+-accounting, financial management and auditing;
+-information technology and software applications.
+2.     The exisience of several identifiable groups with separate training requirements, implies the need for a
+modular approach. In addition, a large-scale familiarization drive is needed at the commencement of the project to
+ensure that the nature of the project is widely understood amongst decision-makers.
+Target groups
+3.     The training component will prepare those involved in the treasury modernization project to carry out their
+roles effectively. The following target groups have been identified:
+System developers
+These are the members of the department of information systems of the treasury department.
+System administrators and applications managers
+These are the personnel to be placed in charge of computer installations at the centre, in oblasts, rayons and
+ministries.
+Personnel responsible for transaction processing
+These are the personnel entering transactions data into the system under the supervision of system
+administrators and applications managers.
+
+
+
+Annex 2
+Page 2 of S
+System users
+These are the people who will be using the treasury system as a tool: to extract data, to check the status of a
+transaction, to establish budgetary control, to order and pay for supplies, to pay wages, to manage cash resources etc.
+Personnel of the budget bank
+These include those members of staff of the budget bank playing key roles in carrying out treasury
+transactions (e.g.managers and accountants).
+Others
+This category includes senior managers who need to understand the role, coverage and significance of the
+system in relation to their supervision and other responsibilities; senior staff of the Ministry of Finance and
+government auditors.
+Treasury training unit
+4.     A separate unit is required for treasury training. For successful implementation of the project, it would need
+to be integrated with the treasury department. An appropriate relationship with the department for personnel issues
+and educational institutions of the ministry of finance would also be necessary.
+5.     The treasury training unit would have the general responsibility for creating and implementing an annual
+training program for the treasury department, setting out the courses to be designed and delivered, their objectives
+and duration, numbers to be trained, the locations for training and the necessary inputs from various sources. This
+plan would be approved by the Deputy Minister for Finance annually. To carry out these functions, the training unit
+would have the following responsibilities:
+(a) to carry out assessments of training needs, including the needs of end-users
+(b) to design both regular and ad hoc courses as needed by the treasury generally, and specifically by the
+treasury modernization project
+(c) to develop training materials on the basis of manuals, papers, systems and procedures developed under
+the treasury modernization project, in a form suitable for training in all aspects of treasury operations
+(d) to create comprehensive modular training packages as described below
+(e) to schedule, organize and run courses in relation to the needs of the Treasury and of the treasury
+modernization project
+(f) to plan and organize short course training to be provided by contractors in close liaison with the
+department of information systems
+(g) to implement a cascade training approach by supporting the activities of those trained, to train others
+(h) to carry out assessments of the success of training activities
+
+
+
+Annex 2
+Page 3 of 5
+(i) to co-ordinate training activities with the project working group and to liaise with relevant parties in the
+treasury, ministry of finance and elsewhere on matters related to treasury training
+(j) to liaise with professional and academic bodies overseas concerning training in government financial
+management
+6.     Given the extensive needs for training under the project, the treasury training unit would require adequate
+funding and staffing. Initially it would have a head of unit, two senior trainers and four trainers. The
+numbers of trainers in information technology would be lower than those in accounting and financial management
+because of the existence of information technology skills in the department of information systems of the teasury part
+of which would be available for training. During the period stretching from just before the beginning of the pilot
+phase. to after the start of full implementation, the unit would be assisted by an internationally recruited training
+adviser for a period of one and a half years.
+Training program modules
+7.     The main training modules would be:
+(a) Elements of government accounting, financial management internal control and internal audit
+(b) Overview of the treasury system (appreciation course)
+(c) Financial procedures
+(d) Transactions processing for budget execution
+(e) Information technology
+(f) Application systems
+(g) Site management procedures
+(h) Courses for end-users
+8.     The above would be customized to the requirements of different users at different stages of project
+development, but would be robustly designed to continue as permanent courses after completion of the project.
+Phased implementation
+9.     Training must be adapted to the three phases of project implementation:
+(a) system development
+(b) pilot site implementation
+(c) full implementaion
+Phase (a) The main aim is to establish a training unit within the treasury department which would work very closely
+with the department of information systems of the treasury. Secondary aims are:
+(i) to equip staff of the department of information technology with appropriate skills.
+(ii) to inform a wide cross section of senior staff about the objectives and characteristics of the new treasury
+system (Overview of treasury system).
+(iii) to prepare staff at pilot sites for the change-over to the new system.
+
+
+
+Annex 2
+Page 4 of 5
+Phase (b) This is the pilot phase. The aim is first to develop courses and training materials, and second to deliver the
+courses as required for the successful implementation of the system at pilot sites. Given the cascade training concept,
+each person trained will be briefed on this concept and trainees will require at least ten sets of training materials
+besides their own, with which to train their subordinates when they return to their work. To ensure a reliable quality
+of training at this level will require central support, evaluation of the success of training and remedial training where
+necessary.
+Phase (c) The training materials developed in phase two will be further refined before the start of this phase. The
+same basic courses will be given in this phase as were given in phase two, with the exception that a full range of end-
+user training packages will be developed. At this stage, many sites will come on line in quick succession according
+to a predetermined schedule of site preparation, installation and training. This implies the need for adequate training
+capacity and appropriate pre-planning of training resources. This may require the use of the best of those trained in
+phase (b) to undertake some training responsibilities in localities other than their own during this phase.
+Delivery mechanisms
+10.    In terms of locations, modular training would be delivered as follows:
+(a) at the project site in Almaty on dedicated equipment (small numbers of trainees)
+(b) in the computer laboratory of the Ministry of Finance
+(c) in a large computer laboratory in Almaty (larger numbers)
+(d) at all implementation sites both at the time of installation and subsequently
+(e) at selected institutions of higher education for classroom-based sessions
+(f) at the training base of the ministry of finance
+(g) other
+11.    Trainers would be drawn from the following sources:
+(i) the training unit of the treasury department
+(ii) the department of information systems of the treasury department
+(iii) non-training staff of the treasury department
+(iv) selected conmmercial firms for standard, information technology courses concerning operating systems,
+networks, communications protocols etc.
+(v) selected academic and training institutions for classroom based courses
+(vi) selected trainees who show talent for training
+12.    Training materials would be produced in a standard project format and would be classified and archived in a
+dedicated database for ease of reference and subsequent access.
+13.    While most training activities will occur in-country, funds exist for short study tours for selected members of
+staff.
+
+
+
+Annex 2
+Page 5 of 5
+Project launch
+14.    The project launch will be in July 1996. This will be a two day occasion, comprising a formal launching of
+the project (first half-day)and a seminar for the rest of the time. The seminar will cover the
+following topics, on each of which a paper will be presented (45 minutes) followed by questions, answers and
+discussion (45 minutes):
+(a) public financial management reform (an international perspective).
+(b) overview of public financial management reform in Kazakstan:improvements in budgeting, expenditure
+control, expenditure classification and the role of audit.
+(c) the planned treasury system: overview, implementation plan and the planned outputs of the system (both
+deliverables and the main financial reports which will be produced by Government).
+(d) the planned treasury system: expenditure controls, commitment accounting and disbursement procedures.
+(e) the planned treasury system: the role of information technology.
+(f) the planned treasury system: training, the human dimension and the management of change.
+15.    The project launch and seminar will be designed for an attendance of 200-300, comprising directors,
+managers, senior staff and financial management staff of the Ministry of Finance, the National Bank of Kazakstan,
+line ministries, government audit organizations and oblasts, together with selected trainers and academics with
+relevant expertise.
+Diffusion of the project concept
+16.    Workshops will be organized both as a prelude to pilot implementation, and as a sequel to it. These events
+will be designed for managers. senior financial staff, accountants and trainers in line ministries, oblasts, audit bodies
+and training institutions. A separate seminar will be organized for staff of the Ministry of Finance including the
+treasury department, before the beginning of the pilot phase.
+
+
+
+
+
+
+Schedule A
+Page I of 2
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Detailed Project Costs(2)
+(millions of U.S. Dollars)
+Foreign         Component
+Costs           Costs
+as%of           as%of
+Cost Components                         Local  Foreign Total   Total Costs      Total Costs
+1. Investment Expenditures             0.2      14.8   15.0        99             69
+Equipment
+Standard Hardware and SoftwareM"  -        8.7     8.7      100             39
+Application Software (            -        3.5    3.5       100              16
+Civil Works                          0.2              0.2        0               1
+Technical Assistance:
+Consultancies                     -        2.0    2.0       100               9
+Training ")                       -        0.6    0.6       100               3
+2. Recurrent Expenditures               2.2      3.5     5.7       61             26
+Incremental Staff Costs             1.2       -      1.2         0              5
+Hardware Maintenance                -        0.4    0.4        100              2
+Software Maintenance and            -        1.5    1.5        100              7
+Licence Fees
+Project Implementation              -        1.6    1.6        100              7
+(inci Computer Supplies)
+Communication Charges                1.0      -       1.0        0              5
+3. Refinancing of PPF                   -       1.0      1.0      100              5
+TOTAL PROJECT COSTS                     2.4     19.3   21.7        89             100
+' Physical Contingencies have been applied to the following components and are included in the costs:
+a) 5% on Standard Hardware and Software
+b) 15% on Application Software
+c) 15% on Training
+(2) Net of Taxes
+
+
+
+Schedule A
+Page 2 of 2
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Financing Plan(,)
+(millions of U.S. Dollars)
+Bank
+Financing
+Total     as % of
+Foreign           Local            lTotal            Project     Project
+Financing Components                    GOK          BANK        GOK       GOK          BANK         Cost        Cost
+1. Investment Expenditures                  -         14.8        0 2         0.2         14.8       15.0            99
+Equipment:
+Standard Hardware and Software       -           8.7         -           -          8.7         8.7           100
+Application Software                 -          3_5          -           -          3.5         3.5           100
+Civil Works:                             -           -          0.2         0.2                    0.2              0
+Techni_al Assistance:                    -          2.0          -           -          2.0        2.0            100
+Training                                 -          0.6                      -          0.6        0.6            100
+2. Recurrent Expenditures                  3.5         0.0         2.2         5.7         0.0        5.7              0
+Incremental Staff Costs                  -           -          1.2         1 2         -          1.2              0
+Hardware maintenance                    0.4          -           -          0.4         -          0.4              0
+Software Maintenance and License        1.5          -           -          1.5         -          1.5              0
+fee
+ProJect Implementation                  1.6          -           -          1.6         -          1.6              0
+(include. computer supplies)
+Communication Charges                    -           -          1.0         1.0         -          I 0              0
+3. Refinancing PPF                          -          1.0          -          -           10         1 0            100
+TOTAL PROJECT FINANCING                    3.5        15.8         2.4         5.9        15.8       21.7             73
+(1) -Net of raxes
+
+
+
+Schedule B
+Page I of 2
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Summary of Proposed Procurement Arrangements
+(millions of U.S. Dollars)
+Procurement Method
+Project Elements             ICB(I)           Other             N-B F 4          Total Cost
+Computer     Hardware.         10.2              2.0 2                -                12.2
+System    Software,   &
+Application S/W               (10.2)             (2.0)                                (12.2
+Consultant Services and         -                2.6,                 -                 2.6
+Training                                         (2.6)                                 (2.6)
+Refinancing of PPF                                1.0                 -                 1.0
+(1.0)               -                (1.0)
+Civil Works                                        -                 0.2                0.2
+Incremental Staff Costs                            -                 1.2                1.2
+Hardware Maintenance                               -                 0.4               0.4
+Software Maintenance and                 -                          1.50               1.50
+License Fee
+Project Implementation          -                                    1.6                1.6
+Communication Charges           -                  -                 1.0                1.0
+Total                          10.2               5.6                5.9               21.7
+(10.2)            (5.6)                                 (I5.8)
+Note: Numbers in parentheses are amounts to be financed by IBRD.
+I - International Competetive Bidding
+2 - International Shopping (limited to aggregate total of USS 1,000,000); National shopping (limited to an
+aggregate total of US$500,000); Direct Contracting (limited to aggregate USS500,000).
+3 - According to "The Guidelines for the Use of Consultants by the World Bank Executing Agency"
+published by the Bank in August 1981
+4 - Non-Bank Financed
+
+
+
+Schedule B
+Page 2 of 2
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Disbursement Category
+(millions of U.S. Dollars)
+Category                   Amount of Loan Allocation     % of Expenditure to be
+(USS million)               Financed (2)
+1. Goods
+Standard Hardware, Systems Software and          11.4             100% of foreign expenditures
+Application Software                                              1000/o of local expenditures (ex-
+factory) and 75% of local
+expenditure for locally procured
+goods
+2. Consultancies and Training                       2.5                        100%
+3. Refinancing PPF                                  1.0                        100%
+4. Unallocated                                      0.9
+TOTAL                                               15.8
+(2) All expenditures to be financed will be net of taxes. Maintenance and license fees covered by the World
+Bank is limited to the warranty and maintenance contract that are attached to the initial purchase of the
+hardware and software under the Investmnent Program (usually for three years). Subsequently, maintenance
+and license costs will be funded by the Government.
+Estimated Bank Disbursements
+(USS millions)
+FY97           FY98            FY99
+Annual                         3.3             6.2              6.3
+Cumulative                     3.3             9.5             15.8
+
+
+
+Schedule C
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION P'ROJECT
+Timetable of Key Processing Steps
+Time taken to prepare: 24 Monthis
+(a) Project prepared by: Governmcnt. uith the assisn3nce ot rld Bank and IMF staff
+(b) Preparation/Preappraisal: December 1995
+(c) Appraisal mission: March 1996
+(d) Negotiations: April 1996
+(e) Board presentation: July 1 996
+(f) Planned date of effectiveness: August 1996
+(g) Expected project completion: June 2000
+Responsibility for Project Preparation
+Task Manager:          Motoo Konishi ' Mohanimad R. Ghasirni
+Assistant Task Manager: Ali Hashin;
+ProJect 'ream:         Motoo Konishi. Mohammad R. Ghasim! (EC 3C! An i iashim. Peter Dean
+(EMTPM): Alan Pearson (IMF - Fiscal Affairs): Natasha Beisenova (EC3AA)
+Division Chief:        Kadir Tanju Yuttrukoglu
+Department Director:    Yukon Huang
+Region Vice President:  Johannes F. Linn
+Peer Reviewers:        William Allan (!' MF Fiscal Affairs) and Luis-jose Mejia (LA ] PS)
+
+
+
+Kazakstan- Treasury Modernization Project - Project Implementation Plan                                                                                         Annex D
+1995                11996                  1997                  1998                 1999
+ID   Task Name                                       Duration  Qtr  Qtr  Qtr4 1Qr 1 Qtr2 Qtr 3Qtr4 Qtr 1 Qtr2lQtr3 Qtr4iQtr 1 Qtr2 Qtr3lQtr4l tr 1 Qtr 2 Qtr 3 Qtr4
+I    Bank Project Processing                             51 d                3/25                   .                           3116
+2        Appraisal                                         1w 3w25  3129
+3        Negotiations                     -1w                                   41
+4        Board Approval                                    Od                     6/h 4    14
+S        Loan Effectiveness                                Od                           9/6    9/6
+6        Project Launch                                    Od                               7/15
+7        Mid-term review                                   Od                                                                   3/16
+8    Project Implementation                             1035d       11/1
+9        Develop Functional Design                       170d       11/1                   6/25
+10            Finalize Revised Budget Classification      24w                         4/16
+Structure
+11            Design Processes & Procedures for           24w         11 1            4/16
+Expenditure Control & Treasury                                                                              :
+12            Finalize Chart of Accounts                  24w         1               4/16
+13            Develop Transaction Documents               24w                         4/16
+14            Develop Information Flows                   24w         1 1            414/16
+15            Complete High Level Functional Design        Od                  4/16 *  4/16
+16            Develop Detailed Procedures, Formats,      170d        11/1                   6/25
+Regulations and Operating Manuals,
+17                Develop Reporting Formats               24w                         4/16
+18                Develop Regulations and Treasury        32w                            6/11
+Instructions     __---_:_*_:
+19                Develop Operating Manuals and           32w         111                6/11
+Directives
+20                Review and Approve Instructions and      2w                 0 1    1'6/25
+Operating Manuals and Directives
+21                Processes, procedures and manuals        Od                 I   625 *  6/25
+completed
+22        Training Design and Implementation             919d
+Page 1
+
+
+
+x)
+C~
+,4.
+CD,
+01)
+C- 
+CY,
+14.
+C2~~~~~~~~~~~~~~~~'
+N
+CY
+E
+0.~~~~~~~~~~~~~~~~~~~~~~~~0(
+4)                                                0     Cc
+p                                co   m~~~~~~U)c~                                                    C
+4)  'a    m                 x     u~~~~~~~~~~~~~~=                        4
+E          4     2                                 E CD.2  .a
+a)                          C EE                                                                0 .  4    C))  
+C~~~~~~~~~~~~~~E1                                                      . 2         'A
+lm    0    0)    .                 U                     I-                                                        E
+en   m    a       a          U)                     .2                                            cmC CU
+.N             pp S~~I..                         4) r)a-  2                                       <U)m 
+IS                                  E                   cm                                               0~~~~~~~~~~~~~~~~~~~   E ~ O
+2                      - ~~~                             Z .                     u    m       'O'
+.~~~~                                                                                       0.~~.
+Cu~~~~~~~~oC
+aCa                                          a a-    NA 
+m  IDe    0                           E~i N N    C)   C) CC   I)             C)   C) IC             C    - 
+E                                                    >~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~C
+
+
+
+Kazakstan- Treasury Modernization Project - Project Implementation Plan                                                                                            Annex D
+1995                  1996                  1997                  1998                  1999
+ID    Task Name                                       Duration    rt3Qtr4 Qtr1Qtr2Qtr31rt4 Qtr1    Q3                     4Qtr1Qtr 2 Qtr3 Qtr4 Qtr 1Qtr 2 Qtr 3|Qtr4
+45            Obtain Bank Clearance                         2w                     5      5/29
+5/16 1 5/29 
+46            Issue tender documents (ICB)                  2w                      5    B
+47            Tender Documents Issued                        Od                       7/
+48            Hold bidders conference                        ld
+.  7 16 7 16
+49            Set up evaluation committee                   2w                      51   5/14
+50            Receive Bids                                  1w                            8      9/3
+8/28  913                 
+51            Evaluate bids                               iOOd                            9     ,/21
+9 l4w     11/21
+52                Evaluate technical bids against           4w                                    101
+mandatories                             _  _.
+53                Finalize shorlist on basis on              Od                 :                    /1
+mandatories
+54                Demonstration of package with test        3w                               0        2
+models                                          .    ~~~~~~~~~~~~~~~~~~~10/2  D1/22 
+55                Finalize technical evaluation             1w                              1        0
+0       ~~~10/23    0/29
+56                Revise technical specifications based     1w                                 3 ./.
+on test results
+57                Bank approval of Part I evaluation        2w                                1      1
+11/6   L1119         
+58                Invite price bids including adjusted      3w                  :                      2
+technical bids from shortlisted                                            1       ,
+59                Receive price bids                         Od                      .
+.   12V10      12110                                    :
+60                Evaluate price bids and select vendor     4w
+121  117
+of choice
+61                Bank approval of Part II evaluation       2w                                     1 8    2
+_  _  _                    .             1~~~~~~~~~~~~~ 8. 1121
+62            Award contract                                Od                                    /       1/21
+____                 .          ~~~~~~~~~~1/2         1121
+63            Customize/Setup Application SNV              16w                                     /   .         13
+f    .       ~~~1122 *    5/13
+64            Application       ready                        Od                                         5/3       /13
+65       Install Systems                                  230d                       .               _1_2_
+_                                                                         ~~~~~~~~~~ ~ ~~~~~~~~~~~~~~~~~~1/8 s       __11126
+66            Prepare Site                                 16w                                     1  :          9
+Page 3 ,___  1  9
+Page 3
+
+
+
+Kazakstan- Treasury Modernization Project - Project Implementation Plan                                                                                       Annex D
+1995                 1996                 1997                  1998                 1999
+ID   Task Name                                      Duration   tr=2  Qtr3 Qtr4 Qtr 1 Qtr2 Qtr3 Qtr4 Qtrl lQtr2 Qtr3 Qtr4 Qtr 1 Qtr2 Qtr3 Qtr4 Qtr 1 Qtr2 Qtr3 Qtr4
+67           Receive HAN and Systems SNV for Pilot        2w                                     2/19
+Sites                                    __ 
+68           Install HNV and Systems Software at Pilot    8w                                         43       6/24
+Sites                                                          .
+69           Develop training program and materials      12,.                                          /         /23
+(Part of Application Specification Training)
+70           Ongoing customization of core application   32w
+sm
+71           Prepare data for pilot                      32w                                   1/22               9/2
+72           Install and Test Application SNV (Pilot     12w                                            6/25       9/16
+Sites)
+73           Train Users at Pilot Sites (Part of         12w                                                B/20      11/11
+______          Application Specification Training)  -
+74           Evaluate pilot implementation program        2w                                                    11/12  l1/25
+and revise replication work plan    _____
+75           Complete Pilot System Installation            Od                                                  11/25     11/25
+(Treasury ops.)
+76       Replicate at Remaining Sites                   495d                                                   1112
+77           Procure H/W for Replication                155d
+78               Prepare Bidding Documents                4w                                                    11/26    12123
+79               Obtain Bank Clearance                    2w                                                      12/24   1/6
+80               Issue tender documents (ICB)             2w                                                         1/7   1/20
+81                Hold bidders conference                 2w                                                         1/21
+82               Set up evaluation committee              2w                                                      12/24   1/6
+83                Receive and Evaluate Bids               9w                                                              4/1    6/2
+84                Prepare Report                          2w                                                                  6/3
+85               Obtain Bank clearance                    2w                                                                 6117
+86               Award contract                            Od                                                                6/30 t63O
+87            Replication                               475d                                                     12/24
+88               Prepare Site                            52w                                                      12/24
+Page 4
+
+
+
+Kazakstan- Treasury Modernization Project - Project Implementation Plan                                                                                       Annex D
+1995                 1996                 1997         |        1998                 1999
+ID   Task Name                                      Duration  Qtr 2 Qtr 3 Qtr 4 Qtr 1 Qtr 2 Qtf 31 Qtr4  1|tr  Qtr 2 QtrQ3 tr4 Qtr I Qtr 21 Qtr 3  tr 4 jQtr I |Qtr 21 Qtr 31 Qtr 4
+89                Receive HNv and Systems SNV            52w                                                                   711 ~j61  S
+90               Install HM and Systems Software         52w                                                                    7)2                         '27
+91               Install and Test Application S/N        52w                                                                        1O2\            -10/
+92               Revise training material (Part of       40w                       *l/                                                   117
+Application Specification Training)  ._____
+93               Train Users (Part of Application        52w
+Specification Training)             __                     .    .                                                                               '
+94               Complte Replication                       Od                .    .
+95       Project Complete                                  Od                                                                                           1011     1
+Page 5
+
+
+
+blledule E
+Summary of Costs                                               Page  1 of 11
+Hardware Costs
+Central Tre sury         DTUs                    RTUs            . Line Ministries              Total
+Nbr Units Total Cost Nbr Units Total Cost    Nbr Units Total Cost Nbr Units Total Cost Nbr Units     Totlu Cost
+Servers                                 2    90,00(1        20       810,000                             40   800,000              62   1,700,000
+Workstations                           85   170,000        480       960,000       506  1,01 2,0(0      320   640,000           1,391   2,782,000
+Printers                               10    28,000         81        90.000       253   253,000         40    40,000            384    411,000
+Communication devices                 134    50,825        700       175,000      1,771   379,500       520    68,000           3,125    673.325
+Cabling and others                  2,550      4,550     5,3501        6,400     7,590      7,590    12,000     16,000         27,490     34,540
+UPS                                            1,000        20        20,000                             40    40,000             61      61,000
+Total Hardware Cost                          344,375          1    2,061,400            1,652,090            1,604,000                  5,661,865
+Software Costs
+Central Tr asury         DTUs                    RTUs          _ Line Ministries                Total
+Nbr Units Total Cost Nbr Units Total Cost    Nbr Units Total Cost Nbr Units Total Cost Nbr Units     Total Cost
+Operating System                               2,500                  14,200                                    26,0()(                   42,700
+NOS                                            2,200)                 22,000                                    44,(X)1                   68,20()
+Presentation Manager (Windows)                 5,220                  38,700               22,77(0              14,40(0                   81,090
+Financial Management Application              92,0(0)              1,350,000              506,000             240,000)                 2,188,000
+Application Software Modification          1,000,00(                                                                                    1,000,000
+Office Automation                             38,(XX)                 28,975                                     6,350                    73.325
+Network Management                            19,0W                  380,000                                   760,000                  1,159,000
+Development Tools                             43,000                                                                                      43.000
+Development RDBMS                             25,000                                                                                      25,000
+Total Software Cost    -1,226,920                                  1,833,875              528,770            1,090,750             0  4,680,315
+Toal Hardwae and Saftware Cost                                                                                                         10,342,180
+Tremasury Modemization Project
+
+
+
+Schedule E
+Operating Costs                                                                     Page 2 of 11
+Element                                               Ty  e               1996          1997           1998           1999          2000
+Incremental Payroll                                    LC               19.5C((       21,450         23,595         25,955        28,550
+Hardware Maintenance Contralcl                         LC                            162,649        162,649       162,649        417,(49
+Application Soitware Suipport Contract                 LC                           218,80(0       218,800        218,800(       218,800
+Staff Training                                         LC/FC          344,042         86,010         86,01()        86,01(0       86,01(0
+RDBMS Licence Fees                                     FC                             75,000         75,000         75,000        75,000
+OA and Other Software Licence Fees                     LC             130,0)33      260,065        260,065        260,065        260,065
+Postage and miscellaneous communication                LC               6,000          6,600          7.260          7,986          8.785
+Computer supplies                                      LC             429,60(0      472,560        519,8 16       571.798        628.97 7
+Leased line installation charges                       LC               4,000        116.(00
+Monthly communication charges                          LC             196.00()      396,000        396.000        '960(H)0       396,0(10
+ITotal                                                              1,329,174   1,815,134   1,749,195   1,804,262   2,119,836
+LC - Local Currency, FC - Foreign Currency
+Basis for Estimation
+1. Incremental payroll costs have been computed based on an incicase in the numrer (if staff by 13. Average anunual salary is $ i SWO.
+2 lHardware maintenance contract is assumed to be i55 , of hardware valuc. Since a 3 year wananry is standard lor most servers,
+these costs have been included in year 4 onwards. Maintenance costs for prnnters and coin-lsunwcation devices have been included Ironm  ear i
+.3. Application software support contract is estirmatied at 10% of the software c.sts for the financial mausag eiient applicafioni so,ftware
+4. Staffitraining is based on costs derived for il iraining  nly. hi is assumed that this traufing will be provided in Aliiiary
+and other designated oblasts.
+S. OA and other software licenice fees include sofiware licence fees for oltice autonrsatio; software and software for network maulagensent, developmenit tools,
+and the development RDBMS. Annual support charges have been estimated to be at 20% of initial cost.
+6. Postage and miscellaneosus communication fees are estimated at $500 per nmonth with a 10% annual inflation.
+7. Computer supplies are estimated to be $500 per month for the Central Treasury and the Oblasts and $50 per month for each rayon.
+Corresponding figures for the line ministries have not been added.
+8. Leased line installation and monthly communication charges have been based on the current Sprint fee structure in Kazakhstan - $2000 per installation
+and $550 per month line charges. Figures are for 60 lines.
+Treasury Modemization Projecl
+
+
+
+Schedule E
+Page 3 of 11
+Information Technology Training Plan
+Misc Totnl   Nbr    Cost per   Travel &   Tolal
+Training Course                           Pc   PA   SS   HIS  DIS  QA  DBA OTA User Students Courses Couise    Per diem   Cost
+Introduction to Accounting                    1    6    5    1    2    I    1    5   30         52        2      5,000     8,333    26,667
+Introduction to) Govcrnmcnl Financial Mgmt    I    6    5    I    2    I    I    5   30         52        2      5,000X    8,333    26,667
+Systems Analysis and Design                   1    6    5    I    2    i    I    5              22        1      5,000     8,333    13,333
+Intoduction to CASE tools                     1    6    5    1    2    1    1    5              22        1      5,000     8,333    13,333
+Inuoduction to Unix                           I    6    5    I    2    1    1    5              22        1      1,500     6,000      7,SNI
+Unix Shel Pogrunming                               6    5                5    I                  17       I       600      5,4(0)     6,"
+Unix System and Network Administration                  5                                         5       1      1,500     6,000      7,SN
+Unix System Tools                                       5                                         5       1       600      5,400      6,9H
+C Pogmmning                                        6    5                     1                  12       I      1,500     6,000      7,SN
+RDBMS Design                                  I    6    5    I    2    1    1    5              22        I      1,000     5,667      6,667
+bIoduction to SQL                             1    6    5    1    2    1    I                    17       I       350      5,233      5,S8
+Data Management fre Client/Sers               I    6    5    I    2    1    1                    17       I      2,000     6,333      8,333
+KDBMS Performance & Tuning                              5                     I                   6       1      1,75)    6,167      7,917
+RDBMS Administaon.                                      5                     1                   6       I      1,750     6,167      7,917
+Itoduction to 4GL Package                          6                          1                  7        I      1,500     6,000      7,5N
+GUI Design  d Applicadon DIebpme                   6                          1                  7        I       375      5,250      S,62S
+Inoddiomt o PC Netwoking                      I               1    2                5   75      84        4      2,000     6,333    33,333
+Networ tMaaagemn and Pbnning                  I         S    1    2                 5   60      14        3      2,000     6,333    25,"
+Iairoductiot TCP/IP                           1         5                               60       66       3      2,000     6,333    2S,
+Iniroihcoa to Finacial System                 I    6    S    I    2    I    1                    17       1      3,000     7,000    16,
+Fimncidal Sysen M .difications                I    6          I                                   8       I      5,000     8,333    13,33
+Finacial Sysem Change Managemcnl              1    6    5    I                                   13       I      3,0(X)    71,000    10,
+Fiancial Systm Abninistiation                 I    6    5    I                                   13       I      3,0(X)    7,00X0    10,
+nirdm ctioMSWndows                            I    6    5    1    2           1    5    75      97        4      1,000     5,667    26,66
+Inwlodct lo MS ofra cI    6    5    I    2  _                                 1    5   75       97        4      1,000     5,667    26,6
+TEl l 1-- --                                                 -  ,-    - - -  -                     -  - 1    ,^l^3U
+PC - Penise Co _riao
+PA - Propumner Amat
+SS - Sym  Specia list  Systems Mainteace
+HIS - Head uf lafmion Sydow Deplnent
+DIS - Deputy of Infmmauion Systms Deprment
+QA - Quality Ance Adnimiratr
+DBA - Databm  AdminiStrator
+OTA - Olice Technokbgy Administrator
+Misc Uset - Usuu/Adtninistratos rm Line Ministines, Departments, and Oblasts
+T_umy Modernit  PWue
+
+
+
+Schedule E
+Hardware Cost Details                                          Page 4 of 11
+Extended
+TreS    W Units                                             Units   IUOM         LUnit price Price
+Application/database Server             I Each         50,000    50,000
+Development sever                       I Each         40,000    40,000
+Training workstations                  10 Each          2,000    20,00
+Eawnet Network Interface Cards         10 Each            100      1.000
+High speed  sr printer                  2 Each         10,000    20,000
+Roules                                 II Each          3,000    33.0W
+Repeater/Hub                            I Each           450        450
+Tramsciver for 1OBase-FL               13 Each            250      3,250
+lOBase-FL Backbone                  2000 Meter             2      4.000
+UPS                                     I Each          I.(XX      I.000
+Total                                                            172,706
+IBM or compatible workstalion           4 Each          2,000      8,000
+Eternet Network Interface Cards        4 Each             100       40
+Laser Printer                           I Each          1,000      1,000
+Transceiver for lOBase-FL               I Each            250       250
+Repeater/Hub                            I Each            175       175
+Cabling - 1OBasc-T                     50 Meter             I        50
+Total                                                              9,875
+8udp   xscaU*)  yDetalwl                                                 .
+IBM or comnpatible workstation         13 Each          2,000    26,000
+Ethernet Network Interface Cards       13 Each            100      1.300
+Laser Printer                           1 Each          1,0(X)     1,000
+Transceiver for lOBase-FL               2 Each            250       500
+Repeater/Hub                            2 Each            250       500
+Cabling - 1OBase-T                    100 Meter             I       100
+Total                                                             29,400
+Treaswy Modemization Project
+
+
+
+ociLeauj-e E
+Page 5 of 11
+tlardware Cost Details
+Financial Statistics and Analysis Department
+IBM or iompa.lihic wSorks;lafioII        4 Each           2.0)10(0   8,(00)
+E-tlhernet Nclwork lntcrface (Caids      4 Each             I Nt       401)
+Laser Priiter                             I Each           1,1t)(     1.000
+Transceiver for lOBase-FL                 I Each            250        250
+Repeater/Hub                              I Each            175        175
+Cabling - lOBase-T                      50 Meter               I        50
+Total                                                                9,875
+Cash Management and State Debt Department
+IBM or compatible workstation           15 Each           2,000     30,000
+Ethemet Network Interface Cards         15 Each             100       1,500
+Laser Printer                             1 Each           I,O(X)     1,000
+Transceiver for lOBase-FI.               2 Each             250        500
+Repeater/Huh                             2 Each             250        500
+Cabling - 1OBase-T                     100 Meter               I       100
+Total                                                               33,600
+Budget System Methodology Department
+IBM or compatible workstation            7 Each           2,()0      14,000
+Ethernet Network Interface Cards         7 Each             100        700
+Laser Printer                             I Each           1.0((      1,000
+Transceiver for 1OBase-FL                 I Each            250        250
+Repeater/Hub                              I Each            175        175
+Cabling - 1OBase-T                      50 Meter               1        50
+Total                                                               16,175
+Regional Treasuries Departmnt
+IBM or compatible workstation            5 Each           2,000     10,000
+Ethemet Network Interface Cards          5 Each             100        500
+Laser Printer                            I Each           I,O(X)      1,000
+Transceiver Ior 1OBasc-FL                 I Each            250        250
+Repeater/Hub                             I Each             175        175
+Cabling - lOBase-T                      50 Meter               1        50
+Total                                                               11,975
+Trcasury Modemization Project
+
+
+
+Schedule E
+Hardware Cost Details                                             Page 6 of II
+Department of Information System
+IBM or coinpalibie works;tation          22 Each           2,00))    44,000
+Ethernet Network Interface Cards         22 Each             1()      2,2()0
+Laser Printer                             I Each            1,000      1,000
+Transceiver for 1OBase-FL                 3 Each             25(        750
+Repeater/Hub                              3 Each             250        750
+Cabling - lOBase-T                      100 Meter               I        100
+Total                                                                48,800
+Office Administration and Support Department
+IBM or compatible workstation             5 Each           2,000      10,000
+Ethernet Network interfaice Cards         5 Each             I(t)1      500
+Laser Printer                             I Each              lO0()(   1,000
+Transceiver for lOBase-FL                 I Each             250        250
+Repeater/Hub                              I Each             175        175
+Cabling - lOBase-T                       50 Meter               1        50
+Total                                                                  11975
+Treasury Modemization Project
+
+
+
+Schedule E
+Hardware Cost Details                                          Page 7 of 11
+le OUast (Mmay)
+Server                                  I Each         50,000    50,000
+IBM or compatible workstation         100 Each          2,000   200,000
+Ethernet Network Interface Card       101 Each            100    10,100
+High speed laser printer                I Each         10,000    10,000
+Laser Printer                          4 Each           1,000      4,000
+Routers                                 I Each          3,000      3,000
+Repeater/Hub                           13 Each            450      5,850
+Transceiver for 1OBase-5               14 Each            150      2,100
+Modem                                   I Each          1,000      1,000
+1OBase-5 Backbone                    100 Meter              2       200
+Cabling 1OBase-T                      500 Meter             1       500
+UPS                                     I Each          1,000      1,000
+Total                                                            287,750
+q df7wqna; sObIa,
+Server                                  I Each         40,000    40,000
+IBM or compatible workstation          20 Each          2,000    40,000
+Ethernet Network Interface Card       21 Each             100      2,100
+Lascr Printer                           4 Each         10W       4,000
+Routers                                 I Each          3,(XX)     3,000
+Rcpcatcr/Hub                            3 Each            450)    1,350
+Transceiver for 1OBase-5                4 Each            150       600
+Modem                                   I Each          1,000      1,000
+1OBase-5 Backbone                     50 Meter              2       100
+Cabling 1OBase-T                     200 Meter              1       200
+UPS                                     1 Each          1.000      1,000
+Total per Oblast                                                  93,350
+Number of Oblasts                      19
+rTotal for Medlm/Small Oblast-                                 1,773,650
+Treasury Modernization Project
+
+
+
+Schedule E
+Hardware Cost Details                                         Page 8 of 11
+Regosnd 7TreWry UniAt
+IBM or Coimlpatihlc workkslaion         2 Each          2,(XN)    4,00
+Ethemel Network Interface Card          2 Each           11()       20(0
+Laser Printer                           I Each          1,0I0)     1.000
+Transceiver for 1OBase-T                4 Each             75       300
+Modem                                   I Each          1.000      1,000
+Cabling lOBase-T                       30 Meter             1        30
+Total per Rayon                                                    ,530
+Total Number of Rayons                253
+Total for al Rayons                                            1,652,00
+Server                                  I Each         20,000    20,000
+IBM or compatible workstation           8 Each          2,000    16.000
+Ethernet Network Interface Card         9 Each            100       900
+Laser Printer                           I Each          1.000      1,000
+Repeater/Hub                            2 Each            250       500
+Transceiver for 1OBase-5                2 Each            15(       300
+1OBase-5 Backbone                     100 Meter             2       200
+Cabling lOBase-T                      20() Meter            1       200
+UPS                                     I Each          I,000      1.000
+Total per Ministry                                                40,1r0
+Number of Ministy                     40
+Total for all Ministries                                      1 1,604,000
+Total Hardware Costs                                                                      1 5,661,865
+Treasury Modernization Project
+
+
+
+Schedule E
+Software Cost Details                                         Page 9 of 11
+Capacity Total Nbr Total Nbr Per user/
+Treasury Units                                      Total Nbr Nbr       Update  Inquiry  license    Extended
+Copies   Users    Users    Users    cost          Cost
+SenerS,ss!us Software
+OS - SCO Unix or equivalent
+CentWal Treasury Primary Network         1       100                          1850      1,850
+Devdopment Plafonn                       1        16                           650       650
+Large Obbst                              I       100                          1850      1,85
+Medium/Small Oblast                     19       40                            650    12,350
+Line Ministries                         40       40                            650    26,000
+NOS - NetWare 4.1 or equivalent
+Ceatial Tmasuqy Primary Network          I       100                          1100      1,100
+Developmeat Platform                              16                          1100      1,100
+Large Oblst                              I       100                          1100      1,100
+Medium/Small ObLbsl                     19       40                           1100    20,9(U)
+Line Ministries                         40       40                           1100    44,000
+hmdmsforW     _kroin
+Cenal T     rmuy Priny Network           I       100                            45      4,500
+Devd _M  Platfonn                        1        16                            45       720
+Larg Obist                               I       100                            45      4,500
+Medium/Small Oblast                     19       40                             45    34,200
+Line Ministies                           8       40                             45    14,400
+Rayons (winows)           -            506         1                            45    22,770
+T    ,auy Moadnization Proicct
+
+
+
+Schedule E
+Software Cost Details                                       Page 10 of 11
+NetworkApplikatons:
+Level I Financial Management Package
+Central Treasury Primary Network                           20        20 3000/1500     90,000
+Large Oblast                                               50        50 3000/1500    225,000
+Medium/Small Oblast                                       250      250 3000/1500  1,125,000
+Line Ministries                                            40        80 3000/1500    240,0()1
+Level 2 Accounting Package
+Development Platform                    1                  16        16     2,000     2,000
+Rayons                                253                 506               2,000   506,000
+0
+Software Modifications                                      I                               1,000,000  1,000,000
+Client Applications
+Microsoft Oflfce Suite
+Central Treasury Primary Network        1        64                           375    24,000
+Development Platform                    I         0                           375         0
+Large Oblast                            1        20                           375      7,50(1
+Medium/Small Oblast                    19         5                           375      1,875
+Line Ministries                        40         2                           375       750
+Lotus Notes/cc:Mail
+Central Treasury Primary Network        I       100                           140    14,000
+Development Platform                    I         0                           140         0
+Large Oblast                            1       100                           140    14,000
+Medium/Small Oblast                    19        40                           140      5,600
+Line Ministries                        40        40                           140      5,600
+Treasury Modemization Project
+
+
+
+Schedule E
+Software Cost Details                                         Page 11 of 11
+D    eftkw oa P*essional Developwent TooL
+RDBMS
+Development Platfonn                               16                        25,000    25,00()
+GUV/4GL, C++ Development Tools
+Development Platform                              16                         40,000    40,000
+Business Modeling/Repository Tools
+Developanent Platform                             16                          3,000      3,001)
+Networl/Change/Conriguratio Management Tools
+Central Treasury Pnrmary Network                    I                         19,00     19,(01
+Development Platform
+Large Oblast                                        1                         19,000    19,000
+Medium/Small Oblast                                19                        19,000   361,000
+Line Ministries                                   40                          19,000   760,000
+Products include:
+Network Monitoring Management - $7,500
+Central Application Manager - $2,500
+Flle backup manager - $3,000
+Virus protection - $3,000
+lHdp Desk - $3,000
+|Toda Sofdwh    cII I                                                                                    4    3I5N
+Treasury Modemization Project
+
+
+
+
+
+
+Schedule F
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Supervision Plan
+Approximate Dates     Activities             Staff Composition      Staff Weeks
+7/96                  Project Launch         Task Manager,          10
+Workshop              Procurement,
+Disbursement, and
+Component Specialist
+11/96                 Review of the          Task Manager and       8
+preparation phase     Component Specialist
+3/97                  Review of the pilot    Task Manager and       8
+system                Component Specialist
+9/97                  Mid-term review        Task Manager and       8
+Component Specialist
+3/98                  Review of first        Task Manager and       8
+replication site      Component Specialist
+6/99                  Interim review of full   Task Manager and     8
+replication system    Component Specialist
+12/99                 Review of full         Task Manager and       8
+replication system    Component Specialist
+6/2000                Final supervision of    Task Manager,        10
+the project           Procurement,
+Disbursement and
+Component Specialist
+Total                                                               68
+
+
+
+
+
+
+Schedule G
+Page 1 of 3
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Performance Monitoring Indicators
+Component:                    Project Preparation
+Objectives:                   a) Prepare detailed functional design for the treasury system and
+devdop related procedural manuals
+b) Eamine available software alternatives
+c) Devdop hardware and software specifications for the technology
+platforn needed to establish the system and assist in their procurement
+d) formulate a training program
+Input Indicators            |Pocess Indicators              Outputindicators              Impact Indicators
+i) Consultancy services       i)  Engagement of consultant   i)  System design and software  i) General ledger and chart of
+financed by PPF to assist the  (done)                        specification for payroll,   accounts have already been
+Govermnent to prepare the                                    commitment accounting,        adopted for the FY96 budget
+project.                                                     revenue accounting, cash      and are already in use;
+management, fixed asset    ii) Software modification to an
+control, debt management,    interim system to allow
+general ledger and chart of  translation of existing
+accounts have been           accounting system to
+completed and approved by    correlate numbers into new
+the Government (prior to     budget classification is being
+appraisal);                  completed and implemented
+ii) Hardware and software
+have been defined and
+costed (prior to appraisal);
+iii) Course content and target
+audience of a training
+program specified.
+
+
+
+Schedule G
+Page 2 of 3
+C omnet:                       Pilot System Computerization
+Objectives:                    a) Test the new system at selected institutions at the central, oblast and rayon levels
+Input Indicators               Process Indicators            J Output Indicators         T Impact Indicators
+i) Procurement of hardware,    i)  International shopping to   i)   Delivery, installation    i)   Decision on the hardware,
+software application             procure the hardware and       and testing of               software, application software
+systems for the pilot            standard software;             computers system at          configuration for the full
+program.                    ii)  Search for off-the-shelf       selected pilot               implementation of the treasury
+software application (s/w).    organizations at             system;
+central, oblast and     ii)  Improved expenditure
+rayon levels;               management information and
+ii)  Testing of application      improved controls of
+software for treasury       expenditures at those sites
+system and                  where the system is being
+modification for full       tested.
+implementation;
+iii) Training of staff at
+pilot sites in the use of
+the system.
+
+
+
+Schedule G
+Page 3 of 3
+rapo  F Follmetation of System Computeriznio
+Objective:                   a) Nationwide implementation of the new computerized treasury system
+Input Incdators              Process Indicators            Oput Indicators                Impact Indcators
+i)  Procurment of hardware,  i) International competitive  i) Delivery, installation and  i) Improved expenditure
+software and application    bidding to procure the       testing of computers at all    management information
+systems for full            standard software.            organizational central, oblast  and improved controls of
+implementation.                                           and rayon levels;             expenditures throughout the
+ii) Commencement of training     government;
+for all staff using the new  ii) Improved cash management
+system.                       of the government as a
+whole;
+ii) Ability to produce
+consolidated fiscal account
+data consistent with
+international standards.
+
+
+
+A
+
+
+
+Schedule H
+REPUBLIC OF KAZAKSTAN
+TREASURY MODERNIZATION PROJECT
+Summary of Major Procurement Packages
+(millions of U.S. Dollars)
+Est. Cost   Procurement   Start Doc                   Award       Contract
+Package           US$ m        Method      Preparation    Invitation   Contract    Completion
+Standard H/W & S/W
+for Pilot                  1.8         ICB           2/96         7/96         9/96         12/97
+Application S/W for
+Pilot                      0.5         ICB           2/96         7/96         9/96         12/97
+Standard H/W and S/W
+for Replication            6.0         ICB          12/97         2/98         7/98         12/99
+Application SIW for
+Replication (additional    2.0         ICB           2/96         7/96         7/98         12/99
+licenses)
+Implementation             0.9        Ongoing         -            -             -          6/98
+Consultants                           Contract
+Treasury Advisor           0.4      Short-list of             - As Needed -                 11/99
+individuals
+Training, National and     0.9       Short-list of            - Continuous -                11/99
+Local Seminars                         Firms
+Technical Studies          0.4       Short-list of            - As needed -                 11/99
+related to the Treasury                Firms
+NOTE: The major consultancy has already been awarded and the consultants are in place.
+
+
+
+
+
+
+MAP SECTION
+
+
+
+
+
+
+IBRD 23700R1
+5o                                                                                                                            80                                           90
+SEVERC-
+KAZAFKHSTANSKAYA
+T. Chelumi            T u?u         ^sr                                                                      R  U  S  S  I A  N
+R  U  S  S I  A  N        (               X      '       t       '      ;        ToOms;      p rOCtsz      rsOe~~~~~~0k  N.-,,b,k  F  E  D  E  R  A  T  I  O N
+RU S SI AN                                                                           RPTOPAVLOVSK    T,               T                  oE                        R         IO
+F E D E R A T I O  N
+rO rOsTmro Ufoo ,o,o«                                         KOKCHETAX KOKCHETAV
+ro < AKTYUglns0                                                    t                                                                                                                                           * . 9 , 0 V u  
+PAVLODAR                           TKRE
+/\         ,                   .'r  KAArRH EN DZHEZKAZGAN }                     DZHEZKAZGAN        ,                             A                 4     RSK
+C0oP/yeo                                                                                       SENGRD                                T   ALATINSVOKURG
+~~~~URLS                    .OUbr    d%.-                                                                      ,                         ***                                AZKHSTANSKAYA
+EeynS ! _ X , r T ts a~~~KARAGANDA 
+ATYRAO                                  ~~~~~~~~~~~~~TURGAYSKAYA  * KRGNAKAADAEPAIPALATINSK
+~~o0~~~  -  AIY       ATP RAAAy
+o1    -         ANGISTAUSKAYA  I                                                               X ?                                   C     h     h     S -t/ 5AYBN
+AZERBAIJAN                             \,m(                         )             +s                   >              CCHIMKENT4                     K Y R G Y Z             /      r.o svro,.ZK   DZHEZAZGA          oo_
+08k   <                     $+f >.                                /                        ~KAZAKHSTAN
+/~~~~~ -  z,       ROADS
+r._ w _ ~        ~     ~     -i                                       '7 ®\\TAJ|K|STAN                      v                                        NATIONAL CAPITAL
+.t-                               ALMATY %   TALDY-~~~~~~~~~~~~~~~~~ OLSTCAITL
+50~                              ISLAMIC REPUBLIC                                                      )                     *J                                                           0     SELECTED CITIES
+"'AKTAO                                                                                HIMKFTIRDZHAI            U L-
+KCLoMnEERF O IRAN                                                                                                                                                     - ZY  - INTERNATIONAL BOUNDARIES
+o     1 0 C  2 0 0   3 0 0   0 0 0   5 0 0   60 00<                                             +-   ~   .% * * *  .  \     V       I              X   *9-                               ' O L S B U D  R E
+O 100   2D0L   Ij                                                                      AFGHANISTAN            o
+200  300  400  00   -~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~h
+ALMATY~~~~~~~~~~~~~OLBO19
+
+
+
+
+
+
+
+
+
+IMAGING
+Heport No:-    6840 KZ
+Type: _
+TAd
+
+
+

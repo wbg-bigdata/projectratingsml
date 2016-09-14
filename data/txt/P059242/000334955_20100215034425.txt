@@ -1,0 +1,2252 @@
+               53005
+       Community
+Based Procurement
+  Value for Money Analysis
+Table of Contents
+Acknowledgement                                                                   2
+
+Abbreviations and Acronyms                                                        3
+
+List of Boxes, Tables and Figures                                                 4
+
+Introduction                                                                      5
+
+Scope, Methodology and Limitations                                                7
+
+Procurement Performance                                                       11
+
+Enabling Factors for Producing Good Community Procurement                     16
+
+Emerging Practices                                                            20
+
+Conclusions and Way Forward for Developing a Framework for CBP                23
+
+Annexures
+    Annex 1: Models of Community Based Procurement observed in CDD Projects   25
+
+    Annex 2: Rating Tool for Procurement Performance                          26
+
+    Annex 3: Rating Tool for Governance                                       31
+
+    Annex 4: Rating Tool for Performance of Financial Management              33
+
+    Annex 5: Selected Case Studies                                            35
+
+References                                                                    38
+
+
+
+
+                                                                              1
+Acknowledgement
+This activity is supported by the Norwegian Governance Trust Fund on `Procurement and Service
+Delivery: Monitoring Procurement Outcomes', implemented by the South Asia Agriculture and Rural
+Development Unit, in collaboration with the South Asia Regional Procurement Services of the World
+Bank.
+
+This working paper is based on field research on Community Based Procurement in World Bank
+assisted Community Driven Development projects in the s tates of Andhra Pradesh, Madhya Pradesh
+and Tamil Nadu and the Local Self Government project in Kerala in India. The study was implemented
+by the Procurement Services Unit of the New Delhi office of the World Bank. The study group comprised
+of A. K. Kalesh Kumar, Shweta Rajwade, Julian Boyle, Payal Malik Madan and Siddharth Dasgupta.
+
+Project authorities in the states extended support during the fieldwork. The study was enriched by
+comments and suggestions by Mr. Ashok Vardhan Shetty, Principal Secretary Rural Development,
+Tamil Nadu; Mr. Vijayanand, Principal Secretary, Government of Kerala; Mr. Vijay Kumar, Chief
+Executive Officer, Andhra Pradesh Indira Kranthi Pratham; Mr. Muruganandam, Project Director, Tamil
+Nadu Vazhndhu Kaattuvom Project and Dr. Ravindra Pastor, Project Administrator, Madhya Pradesh
+District Poverty Initiatives Project. Detailed comments from Mr. Benjamin Powis and Mr. Naushad
+Khan are gratefully acknowledged. Panelists and participants of the workshop on `Community Based
+Procurement: Learnings from the Field', held in New Delhi in October 2009, provided further insights
+into the issues addressed by the study.
+
+Ms. Sanchita Ghosh provided editorial support to bring together this version of the paper from
+background reports and the proceedings of the workshop.
+
+The authors would also like to thank Ms. Asmeen Khan, Mr. Joel Turkewitz and Mr. Benjamin Powis
+who have jointly managed the Trust Fund for overall support and guidance. The study team also thanks
+Mr. Najib Sefta, Regional Procurement Manager, South Asia Regional Procurement services and
+Mr. Amadou Tidiane Toure, Head of Procurement, World Bank, New Delhi for their support for the study.
+
+Cover photo by Shweta Rajwade Cover design by Colorcom
+
+
+
+
+Disclaimer: The findings, interpretations, and conclusions expressed in this paper are entirely those of
+the author(s) and should not be attributed in any manner to the World Bank, to its affiliated organizations,
+or to members of its Board of Executive Directors or the countries they represent. The World Bank does
+not guarantee the accuracy of the data included in this publication and accepts no responsibility for any
+consequence of their use.
+
+
+  2
+Abbreviations and Acronyms
+AP       Andhra Pradesh
+APIKP    Andhra Pradesh Indira Kranthi Pratham (also referred to as the Andhra Pradesh Rural
+         Poverty Reduction Project or APRPRP)
+BPL      Below Poverty Line
+CBO      Community Based Organization
+CBP      Community Based Procurement
+CDD      Community Driven Development
+DPC      District Planning Committee
+DPMU     District Project Management Unit
+FGD      Focus Group Discussion
+GP       Gram Panchayat
+KDP      Kecamatan Development Program
+MoU      Memorandum of Understanding
+MP       Madhya Pradesh
+MPDPIP   Madhya Pradesh District Poverty Initiatives Project
+NCB      National Competitive Bidding
+NGO      Non-Governmental Organization
+O&M      Operation and Maintenance
+PFT      Project Facilitation Team
+PIP      Project Implementation Plan
+PIP      Participatory Identification of the Poor
+PRI      Panchayati Raj Institution
+PSA      Procurement Service Agency
+PWD      Public Works Department
+RBP      Relationship Based Procurement
+RES      Rural Engineering Services
+TAG      Technical Advisory Group
+TN       Tamil Nadu
+TNVKP    Tamil Nadu Vazhndhu Kaattuvom Project (also referred to as Tamil Nadu Empowerment
+         and Poverty Reduction Project or TNEPRP)
+VfM      Value For Money
+VRP      Village Resource Person
+
+
+
+
+                                                                                               3
+List of Boxes, Tables and Figures
+Box 1:      Community based procurement in CDD projects    5
+Box 2:      Relationship Based Procurement                13
+Table 1:    Performance Indicators Reviewed               10
+Table 2:    Value for Money in Selected Sub-Projects      14
+Table 3:    Ratings on Governance                         17
+Table 4:    Financial Management Ratings                  18
+Figure 1:   Selection process                              8
+Figure 2:   Stages in Procurement Cycle                   11
+Figure 3:   U Shaped Curve                                12
+Figure 4:   Ratings on Participation and Inclusion        16
+
+
+
+
+  4
+Introduction
+Core premise                                           Community Based Procurement
+One of the guiding principles underpinning             Models in India
+community driven development initiatives is that       In the current World Bank portfolio of projects
+communities have a comparative advantage in            in India, there are 22 CDD projects that have
+local planning based on their knowledge of their       community based procurement built into the
+own needs and the local context. This raises the       project design. Community based procurement
+important question of whether community based          varies in view of the actors involved and assets
+procurement (CBP) reduces cost and contributes         generated within each project. At present four
+to the long term sustainability of local assets. Has   distinct models are seen to be operating in CDD
+developing direct informal controls significantly      implementation with relation to procurement
+contributed to improved outcomes? While                processes (i) Family Based Private Asset
+`standard' procurement structures view informal        Generating Procurement; (ii) Village Organization
+networks as unreliable, it is also possible to argue   Based Force Account Type Procurement; (iii)
+that a one size fits all approach does not work and    Non-Governmental Organization (NGO) Based
+`informal processes' can succeed where formal          Procurement Service Agency (PSA) Type
+standards of procurement are not fully met.            Procurement for CDD Implementation; and (iv)
+                                                       Third Party Contracted Procurement. A detailed
+Community Based Procurement                            account on the main characteristics of these four
+in CDD projects                                        models is presented in Annex 1 of the report.
+
+Community-driven development (CDD) broadly
+defines an approach used in projects that
+                                                       Purpose of the report
+gives control of decisions and resources to            In the India operations of the World Bank, there
+community groups. It involves the creation             is little evidence as yet to substantiate that
+of community based organizations (CBO) for             community based procurement results in value for
+design, implementation and management of local         money in a fair and transparent manner. In order
+development works. There are unique features of        to understand community based procurement in
+CBP found in CDD projects. Samantha DeSilva            relation to value for money (VfM), governance
+captured these in her research on community            and accountability, a study was needed to
+contracting as presented below.                        explore these concepts and their dynamics. The
+
+                Box 1: Community based procurement in CDD projects
+ There are different models of CBP, however due to the very demand driven nature of operations in
+ CDD Projects; all of these share certain key characteristics and goals:
+
+ ·    Community members are involved in identifying needs and selecting a sub-project. Control
+      over project investment planning becomes increasingly decentralized and rural communities
+      gain greater voice in planning, implementation and monitoring activities;
+ ·    Community participation is encouraged throughout sub-project identification, preparation,
+      implementation, operations and maintenance, and is usually done through an elected community
+      project management committee.
+ ·    Communities provide contributions in the form of labor, cash and/or materials. Their contributions
+      promote community ownership and hopefully eventual sub-project sustainability
+ Source: Community-based Contracting: A Review of Stakeholder Experience, 2001. Samantha De
+ Silva.
+
+
+
+                                                                                                      5
+present study focuses on CBP outcomes across                           were undertaken by the community on their
+completed sub-projects with a focus on the                             own without involving contractors. There
+following key questions:                                               were savings in actual costs and time on
+                                                                       most of the analyzed cases;
+·        Value for Money - Is community based
+         procurement     more economical   for                    ·    A strong sense of local ownership of
+         implementation?                                               the assets resulted in their enhanced
+                                                                       sustainability, which could be verified from
+·        Sustainability - Is there evidence of better                  the near universal usage of the facilities and
+         operation and maintenance of items and                        assets and the continuous involvement of the
+         services created through CBP?                                 groups in Operation and Maintenance (O&M)
+·        Participation - What is the extent of community               of the facilities;
+         participation in CBP?                                    ·    Compared to the conventional procurement
+·        Enabling factors - What are the facilitating                  cycle, the sub-projects rated very highly in
+         processes and environmental factors that                      terms of need identification, procurement
+         positively influence the outcomes in CBP?                     planning and scheduling, developing
+                                                                       specifications, award decisions, disclosure
+The study on Community Based Procurement                               and contract management. However, these
+(CBP) was carried out in 84 successful sub-                            sub-projects scored poorly in terms of market
+projects from three CDD Projects in India (in the                      search for bidders, tendering, tender opening
+states of Andhra Pradesh, Madhya Pradesh and                           and evaluation. The dichotomy of delivering
+Tamil Nadu) and local government units (Gram                           a successful outcome while not following the
+Panchayats1) in the state of Kerala, to explore                        conventional procedures can be explained
+linkages both in terms of enablers and outcomes.                       by the practice of Relationship Based
+This field study was undertaken in 2009.                               Procurement1, wherein the communities
+                                                                       established a mutually beneficial and
+Salient findings                                                       accountable      commercial       relationship
+                                                                       between the purchaser and the supplier;
+Results from the study show that, while ensuring
+that the four basic tenets of Economy (Value                      ·    A consciously articulated and implemented
+for Money), Efficiency, Transparency and                               project design ensured inclusive participation
+Fairness directed the procurement regime in                            of the intended target communities through
+these projects, the community, through various                         positive discrimination, and community
+innovative approaches to procurement, followed                         capacity building. This was facilitated by
+a highly participatory process that focused on                         a highly motivated and trained project
+results and savings. The most salient findings of                      implementation team that focused on the
+the study are:                                                         processes rather than outcomes.
+
+·        Better Value for Money (VfM) was achieved
+         in the community implemented works, which
+
+
+
+
+1
+    Local government at the village level
+2
+  Relationship Based Procurement (RBP) is a recent concept in procurement strategies. In RBP, trust plays the most significant
+role between buyers and suppliers as the willingness to rely upon the actions of others, to be dependent upon them, and thus be
+vulnerable to their actions and in this manner build collaborative partnerships.
+
+
+
+     6
+Scope and Methodology
+
+T   he study was carried out between March
+    and August 2009. As part of the study,
+the community based procurement practices
+                                                                    Indira Kranthi Project (APIKP, formerly Andhra
+                                                                    Pradesh Rural Poverty Reduction Project)
+                                                                    the study focused on sub-projects for income
+in 84 completed CDD sub-projects and local                          generating activities (including dairy, sheep rearing,
+government contracts in India were reviewed.                        small manufacturing, agricultural inputs, land
+                                                                    development), civil works, and service delivery
+Scope                                                               (in education, health and nutrition and insurance).
+                                                                    In the Tamil Nadu Empowerment and Poverty
+Selection of projects                                               Reduction Project (TNEPRP) or locally known
+The Study identified three projects out of the                      as Tamil Nadu Vazhndhu Kaattuvom Project
+current portfolio of 22 CDD projects in India.                      (TNVKP), the sub-projects examined were civil
+The projects were selected based on four                            works undertaken for common goods and services
+criteria: projects with CDD component, duration                     delivery and income generating sub-projects
+of projects and sub-projects, regional variations                   undertaken by Self Help Groups. In the Kerala
+and State's responsiveness in participating in the                  Local Government project sub-projects delivering
+study. In addition, sub-projects undertaken as                      common goods and services were examined.
+part of the Kerala Local Self Governments were                      Sample selection
+included for analysis
+                                                                    In each project, the study identified the primary
+The State project teams selected two districts                      institutional arrangement in the community that
+for the study, relatively near and one relatively                   manages procurement (e.g. Common Interest
+far from the state capital. This selection criterion                Groups and Village Development Committees
+was based on the assumption that distance                           in MPDPIP, Self Help Groups and Village
+and development inputs are linked. Two blocks3                      Organizations in APIKP, Self Help Groups and
+were chosen in each district, and villages within                   Village Poverty Reduction Committees in TNVKP).
+those blocks were identified based on the similar                   The sub-projects supervised by these community-
+assumption of distance.                                             based organizations were chosen for research.
+
+Selection of Sub-projects                                           Limitations of the study
+The sub-projects within the village that had met all                ·    The limited sample of 84 sub-projects may
+the requirements of the Project Implementation                           not be considered statistically significant, but
+Plan (PIP) were examined on the basis of                                 is an indicative sample.
+completed and audited sub-projects, distance                        ·    The study considers only completed and
+from district headquarters and demonstrated                              successful sub-projects to determine
+group participation. The sub-projects required                           reasons that led to its success. The findings
+that beneficiaries: (i) participate in all phases                        may have been impacted positively by this
+of the project cycle; (ii) have direct control over                      purposive selection. Hence, this study does
+project funds and the right to determine their own                       not claim to be an evaluation of the project
+priorities; and (iii) receive technical and social                       performance or the findings and conclusions,
+facilitation and support.                                                representative or universally applicable for all
+In the Madhya Pradesh District Poverty Initiatives                       sub-projects implemented under this project.
+Project (MPDPIP) only those sub-projects that                       ·    Procurement under two projects (TNVKP
+delivered common goods and services for the                              and APIKP) largely focused on income
+use of community at large, known as "Z category"                         generating activities that represents private
+projects were considered. In the Andhra Pradesh                          procurement.
+3
+    Block is a district sub-division, intermediate level governing body for a group of Gram Panchayats
+
+
+
+                                                                                                                      7
+                                           Figure 1: Selection process
+    Stages               Selection Criteria                                              Sample
+
+                · Projects with CDD component
+                                                                                                                   Local Self
+                · Duration of projects and sub-
+                                                           MPDPIP              APIKP               TNVKP         Governments
+                  projects
+    Project                                                 Closed             Active               Active       under Kerala
+                · Regional variations
+                                                          (2000-08)          (2003-09)            (2005-11)           PRI
+                · State responsiveness to
+                                                                                                                  (On going)
+                  participate in the study
+
+                · Distance from the State capital
+                                                                                                                 Thiruvanan-
+                  (on the assumption that distance        Chattarpur        Ananthpur,         Cuddalore,
+    Districts                                                                                                     thapuram
+                  and development inputs are                Rewa           Medak, Vizag        Thiruvarur
+                                                                                                                   Thrissur
+                  linked)
+
+                · Distance from the District
+                  head-quarters (based on the
+    Block                                                     2                  2                   2                 2
+                  assumption that distance and
+                  development inputs are linked)
+
+                · Distance from the district
+                  head-quarters (based on the
+    Village                                                   20                 13                  16               12
+                  assumption that distance and
+                  development inputs are linked)
+
+                                                              20                 26                  26               12
+
+                · Sub projects that met all Projects    · Z category      · Sub              · Sub              · Sub
+                · Completed and audited sub-              sub projects      projects           projects           projects
+                  projects                                delivering        delivering         delivering         delivering
+                · Distance from district                  common            common             common             common
+                  headquarters;                           goods and         goods and          foods and          goods and
+    Sub-        · Demonstrated group participation        services          services;          services;          services
+    project     · Sub projects where beneficiaries                        · leading          · leading
+                  (i) participated in all phases of                         to income          to income
+                  the project cycle; (ii) had direct                        generation;        generation;
+                  control over project funds; and                         · encouraging      · envouraging
+                  (iii) received technical and social                       livelihood at      livelihood at
+                  facilitation.                                             family and         family and
+                                                                            individual         individual
+                                                                            level              level.
+
+
+
+·        The study is limited to two types of community             management, participation and sustainability.
+         procurement in three livelihoods projects and
+         a Panchayati Raj4 initiative, spanning four                The study group employed a combination of
+                                                                    tools and analytical approaches, using qualitative
+         States.
+                                                                    methods to evaluate sub-projects on design,
+                                                                    implementation and results, and to determine the
+Methodology                                                         relevance and achievement of objectives.
+The methodology developed for this study was
+driven largely by the objective of improving the                    Semi Structured Interview: A semi-structured
+understanding of community based procurement by                     questionnaire was developed to initiate
+assessing the major components of procurement,                      discussions on participation, governance,
+value for money, governance, financial                              sustainability, and procurement in sub-projects.
+
+4
+  System of governance that has 3 levels i.e. at the village, block and district level in which Gram Panchayats are the basic units
+of local administration
+
+
+
+     8
+Performance Rating Tool: To map governance,                ·   Governance:         The     semi    structured
+procurement and financial management practices,                questionnaires provided data on need
+performance indicators were used to design a                   prioritization, decision making, composition of
+rating scale. The sub-projects were rated on a                 executive bodies, transparency and openness,
+scale of 1 to 5, 1 being the worst case scenario               monitoring and oversight (including social
+and 5 the best case scenario. Best practice                    audits) and complaint redressal. The use of
+was depicted by the scenario represented in                    the rating scale helped compare on a standard
+the project manual for Legal, Procurement and                  measure of governance and provided insight
+Community operations while the worst depicted                  into the CBOs capacity and ability to evolve
+scenarios were those unacceptable and corrupt.                 good governance systems and processes
+See Annex 2, 3 and 4.                                      ·   Procurement and Financial Management:
+Focus Group Discussions and In-Depth                           The rating scale provided a tool to analyze
+Interviews: These discussions were conducted                   the community based procurement practices
+in each village with important stakeholders like               as against a standard procurement cycle and
+members of community based organizations, local                further analyze the sub components. Similarly
+government bodies, project staff, government                   the financial management tool was used to
+line departments, beneficiary households, elderly              analyze the systems and practices that had
+community members, suppliers and local traders.                been adopted by the communities and how
+The study team inspected supporting documents                  they were operating and leading to results.
+to validate these discussions.                             ·   Value for Money: This analysis emerged
+Secondary Review: The study team also                          out of the focus group discussions where
+reviewed available studies and reports on process              communities stated the savings that they
+monitoring, economic analysis, information                     had achieved while managing civil works
+systems, internal and statutory audits, along with             on their own. To confirm the veracity, the
+procurement audit reports. Information pertaining              study team undertook a detailed analysis
+to technical quality was done through relevant                 of the estimates and costs incurred in
+documentation review, site visits and Operations               the selected sub-projects. The cited and
+and Maintenance (O&M) arrangements. Levels                     approved estimates based on Public Works
+of participation were determined through focus                 Department5 (PWD) and Rural Engineering
+group discussions (FGDs) and reviews of records                Services (RES) Schedules of Rates were
+on the sub-projects.                                           reviewed and appraised as described in the
+The overall performance indicators examined are                proposal documents and then a comparison
+shown in Table 1.                                              was undertaken with the actual costs incurred
+                                                               from financial documentation maintained,
+The following guidelines were used to better
+                                                               including withdrawal details from the Bank,
+understand the major components of the study
+                                                               voucher details as maintained in the cash
+·   Sustainability and ownership: Sub-projects                 books, muster rolls on labour costs and audit
+    were analyzed in terms of information                      reports generated. In addition, the study
+    gathered on users being satisfied with the                 team also matched the sub-project estimates
+    goods and services delivered through the                   with similar civil works project estimates to
+    project. If there were necessary maintenance               see if there were any savings between the
+    operations taking place, records were verified             works undertaken by the community and
+    on O&M and the number of families that                     similar works undertaken by government
+    benefited.                                                 departments like the PWD and the RES.
+5
+  Public Works Department (PWD) is an agency of State Governments engaged in planning, designing, construction and
+maintenance of Government assets in the field of built environment and infrastructure development.
+
+
+
+                                                                                                              9
+                          Table 1: Performance Indicators Reviewed
+Factors                                   Indicators
+Success                                   (i)      Age of the structure
+Sub-projects involving Civil Works        (ii)     Defects, repair since completion, if any
+undertaken by community                   (iii)    Use of facility by community
+                                          (iv)     Evidence of O&M plan for sustenance of facility through community action
+                                          (v)      Initiatives undertaken as a direct outcome of the success of the sub-
+                                                   project
+Success                                   (i) Number of old Self Help Groups revived by group
+Sub-projects involving Microfinance       (ii) New Self Help Groups initiated
+related activities undertaken by          (iii) Sustainability displayed through regularity of meetings, issues discussed
+community                                       and funds leveraged
+                                          (iv) Micro-lending within group and linkages achieved
+Success                                   Community led innovations in providing access to/creation of service delivery in
+Social Activities                         education, healthcare, nutrition, insurance, land access
+Participation and Inclusion               (i) Need prioritization
+Sources: Minutes Books, FGDs,             (ii) Level of community awareness
+Muster Rolls, mapping of infrastructure   (iii) Access and control over resources including power and representation in
+activities. Gender and inclusion                the forums through mandated memberships of SC/ST, etc.
+captured through the number of            (iv) Voice and decision making as reflected in FGD and minute books
+women participating in the local
+                                          (v) Match between the perceived beneficiaries and the actual beneficiaries
+decision-making bodies in the targeted
+                                                (inclusion)
+communities as evidenced through
+meeting minutes and FGDs [Rating on       (vi) Gender and group relations including wage rates (inclusion)
+a scale of 1-5]
+Income, Age and Literacy profile          Source of income
+                                          Age profiling
+                                          Literacy profiling
+                                          [The educational qualification was coded as per the following scale: 1- Illiterate
+                                          2- Class I ­ V 3- Class VI- VIII 4- Class IX- XII 5- College]
+Governance                                (i)      Participatory and Consensus Oriented
+[Rating on worst to best practices on a   (ii)     Transparency ­ (Openness, Display)
+scale of 1-5]                             (iii)    Community/ 3rd Party Oversight
+                                          (iv)     Information and Documentation Management Standards
+                                          (v)      Complaint Redressal System
+Procurement Performance                   (i)      Need Identification Specifications
+[Rating on worst to best practices on a   (ii)     Planning and Scheduling Procurement
+scale of 1-5]                             (iii)    Developing Specifications
+                                          (iv)     Market search for Bidders
+                                          (v)      Tendering/Enquiry Process
+                                          (vi)     Tender Opening
+                                          (vii)    Evaluation Process
+                                          (viii)   Award Process
+                                          (ix)     Contract Management/Completion
+Financial Management                      (i)      Preparation of sub-project budget and making own contribution
+                                          (ii)     Opening, Signatories and O&M of Bank Accounts
+[Rating on worst to best practices on a   (iii)    Payment Terms in Contracts
+scale of 1-5]                             (iv)     Fund Flow Arrangements and Practices
+                                          (v)      Financial Supervision and Oversight
+Value for Money                           (i)   Comparison of cited and approved estimates as per proposal documents
+                                                with actual costs incurred as evidenced from financial documentation
+                                                maintained
+                                          (ii) Cost comparison of sub-project with conventional estimates for similar civil
+                                                works projects
+                                          (iii) Time taken
+
+
+
+
+10
+Procurement Performance
+
+T     o measure the performance, the chosen sub-
+      projects were compared with the conventional
+procurement systems. At this stage, it is useful to
+                                                           Shopping is a method that compares price
+                                                           quotations from a minimum of three suppliers
+                                                           to ensure competitive prices. Low value off-the-
+consider briefly some of the basic concepts which          shelf goods or minor civil works are procured
+will be central to the analysis of the findings.           without quotes. The quotation request is made
+                                                           with well-defined specifications for quality, terms
+Procurement Standards                                      of delivery and timeframe.
+
+Procurement Cycle                                          Direct Contracting at Community Level
+                                                           Organizations is for food grains, seeds, livestock,
+Figure 2 shows the conventional flow of public             seedlings, fodder and feed, or for proprietary
+procurement from strategic need identification             items or in the case of emergencies. Direct
+to the award process and completion. The set               contracting may also be used if urgent delivery is
+of principles that guide the public procurement            required for minor and dispersed works, or works
+function in the process are: (i) Economy: the right        at remote locations where mobilization cost for
+thing at the right price; (ii) Efficiency: economy in      contractors is unreasonably high.
+price and choice of item available at the right time
+and right place for its intended use. This ensures         These two procedures allow for the following
+Value for Money (VfM); (iii) Transparency:                 flexibilities:
+letting everyone know not only facts and figures           -   Procured resources satisfy economy and
+of procurement, but also mechanisms and                        efficiency requirement (lower cost, best
+processes followed; and (iv) Fairness: the entity              quality and timely availability);
+conforms with rules and standards, free from
+discrimination and dishonesty.                             -   Project funds pay for the required resources;
+                                                               and
+World   Bank      Procurement      Guidelines
+                                                           -   Suppliers have an equal opportunity to
+recommend Local Shopping or Direct Contracting
+                                                               compete in a transparent selection process.
+for Community Procurement in CDD projects.
+                                                                           Project Procurement Manual:
+                                                                           Community            procurement
+        Figure 2: Stages in Procurement Cycle
+                                                                           guidelines for the entire lifecycle
+                                                                           of the sub-project are developed
+                                              Need                         and specified in a separate
+                 Completion
+                                          Identification                   manual or as a section of the
+                                                                           Project Operations Manual.
+
+
+                                                        Planning and
+                                                                           Outcomes where
+       Award
+       Process                                           Scheduling        communities succeed
+                                                                           Using the 1-5 scale rating tool
+                                                                           of worst to best performance
+                                                                           indicators and      with the help
+        Tendering/                                                         of     documentary       evidence,
+      Enquiry Process                           Developing                 discussions and FGDs with key
+                                               Specification               stakeholders, each step in the
+                         Market Search                                     procurement cycle was rated in
+                          for Bidders                                      all sub-projects reviewed. In order
+                                                                           to achieve credibility, community
+
+
+                                                                                                          11
+procurement needs to measure up at least as                                          3. Despite poor performance in the technical
+well as the procurement cycle on these traditional                                      stages, outcomes were good and high
+performance indicators.                                                                 scores were seen for completion and project
+                                                                                        implementation
+The outcome of the rating is presented below
+(Figure 3).                                                                          The U shaped curve emerging from the analysis
+From this data it is possible to draw the following                                  indicates that despite the failures in technical
+conclusions:                                                                         aspects,    community      based       procurement
+                                                                                     delivered desired outcomes. It is in this dichotomy
+1. Communities excel in identifying needs and
+                                                                                     of delivering a successful outcome while not
+   in the planning stages
+                                                                                     following the conventional procedures that the
+2. Performance in terms of technical procedures                                      study finds the practice of Relationship Based
+   of conventional procurement cycle, i.e. on                                        Procurement. The communities establish a
+   market search for bidders, tendering, tender                                      mutually beneficial and accountable commercial
+   opening and evaluation was poor                                                   relationship between the purchaser and the
+
+
+                                                     Figure 3: U Shaped Curve
+                           6
+
+
+
+                           5
+
+
+
+                           4
+
+
+
+                           3
+
+
+                                                                                                                             MP DPIP
+                           2
+                                                                                                                             TN ERP
+
+                                                                                                                             AP IKP
+                           1
+                                                                                                                             Kerala PRI
+
+
+
+                           0
+                                      s
+
+
+                                                   t
+
+                                                             ns
+
+
+                                                                                                                         s
+
+
+                                                                                                                         s
+
+
+                                                                                                                        n
+
+                                                                                                                         e
+
+
+                                                                                                                         n
+                                               en
+                                 es
+
+
+
+
+                                                                                                                    es
+                                                                                                                     er
+
+
+
+
+                                                                                                                    tio
+
+                                                                                                                     ur
+
+
+                                                                                                                      io
+                                                           tio
+
+
+
+
+                                                                                                                   et
+                                            em
+
+
+
+
+                                                                                                                 dd
+
+
+
+
+                                                                                                                  os
+                                 oc
+
+
+
+
+                                                                                                                 oc
+
+                                                                                                                ua
+                                                        ca
+
+
+
+
+                                                                                                                pl
+                                                                                                               cl
+                                                                  Bi
+                               Pr
+
+
+
+
+                                                                                                             Pr
+
+
+                                                                                                             al
+                                          ur
+
+
+
+
+                                                                                                           om
+                                                     ifi
+
+
+
+
+                                                                                                            is
+                                                                                                         Ev
+                                      oc
+
+
+
+
+                                                                r
+                           n
+
+
+
+
+                                                                                                        ir y
+                                                   ec
+
+
+
+
+                                                                                                         D
+                                                             fo
+
+
+
+
+                                                                                                        C
+                          io
+
+                                     Pr
+
+
+
+
+                                                                                                      d
+                                               Sp
+
+
+
+
+                                                                                                      al
+                                                                                                     qu
+                                                           ch
+                     at
+
+
+
+
+                                                                                                    nd
+                                                                                                   an
+                                                                                                   ci
+                                 g
+                     ic
+
+
+
+
+                                                                                                 En
+                                                        ar
+
+
+
+
+                                                                                                ta
+                                             d
+
+
+
+
+                                                                                                 er
+                               lin
+                  tif
+
+
+
+
+                                                                                                 s
+                                          le
+
+                                                     Se
+
+
+
+
+                                                                                              m
+
+                                                                                              es
+                           du
+
+
+
+
+                                                                                             en
+                en
+
+
+
+
+                                                                  g
+                                         ai
+
+
+
+
+                                                                 in
+
+                                                                                            m
+
+                                                                                           oc
+                                                    t
+                                      et
+                          he
+
+
+
+
+                                                                                          em
+             Id
+
+
+
+
+                                                 ke
+
+
+                                                             dl
+
+
+                                                                                Aw Co
+                                     D
+
+
+
+
+                                                                                         Pr
+                                                         an
+                     Sc
+           d
+
+
+
+
+                                              ar
+
+
+
+
+                                                                                       ag
+        ee
+
+
+
+
+                                 g
+
+
+
+
+                                                                                       d
+                                           M
+
+
+
+
+                                                                                       d
+                                                        H
+                                in
+
+
+
+
+                                                                  an
+
+
+
+
+                                                                                    an
+                  d
+
+
+
+
+                                                                                    ar
+       N
+
+
+
+
+                           op
+                an
+
+
+
+
+                                                     d
+
+
+
+
+                                                                                  M
+                                                   an
+
+
+                                                                 al
+                          el
+            ng
+
+
+
+
+                                                             ic
+
+
+
+
+                                                                               ct
+                        ev
+
+
+
+
+                                                 g
+
+
+
+
+                                                                        ct
+                                                         hn
+
+
+
+
+                                                                           tra
+           ni
+
+
+
+
+                                             rin
+
+
+
+
+                                                                  tra
+                     D
+       an
+
+
+
+
+                                                        c
+
+
+
+
+                                                                        on
+                                          de
+
+                                                     Te
+
+                                                                 on
+      Pl
+
+
+
+
+                                                                      C
+                                         n
+
+
+
+
+                                                             C
+                                      Te
+
+
+
+
+ 12
+                         Box 2: Relationship Based Procurement
+ Relationship Based Procurement (RBP) is a recent concept emerging in procurement strategy. RBP
+ partnering and alliancing was propagated in the construction sector to bring about a fundamental
+ change in the industry traditionally characterized by disputes, fierce competitiveness and fragmentation.
+ W. Derek and H. Keith in their book `Procurement Strategies: A Relationship-based Approach' argue
+ that through a RBP approach, risk and crisis can be better managed and resolved especially in the
+ construction industry. The key to successful implementation of RBP strategies lies in trust. In a paper
+ titled `Building on trust: a co-operative approach to construction procurement' (2001) G. Wood, and P.
+ McDermott defined trust as the willingness to rely upon the actions of others, to be dependent upon
+ them, and thus be vulnerable to their actions and in this
+ manner build collaborative partnerships.
+
+
+                                                              Complexity of Market
+ RBP corresponds to the top- right quadrant of Strategic
+ Procurement in the Kraljic Matrix of Buyer Supplier                                  Bottleneck       Strategic
+ Relationship in limited markets, where the use of
+ RBP can help move the buyers from a bottleneck
+ situation to a strategic situation by using relationships
+ to leverage the importance of the buyer in the limited                                              Competition/
+                                                                                        Routine
+ rural market place to the supplier. In return, through                                               Leverage
+ RBP, the supplier also benefits from repeat orders
+ from the common goods and services created, which                                   Importance of the Buyer
+ reinforces maintaining the relationship with the buyer
+ on a mutually beneficial long term perspective.
+ RBP as a method is more than Direct Contracting or Single Source Procurement, as the initial
+ identification happens through a transparent market search among all available suppliers and as it
+ includes vendor retention. Environmental factors like mutual dependence, trust and dependence,
+ sharing of product and market information, and early involvement of suppliers determine the
+ success of RBP on a longer term. An appropriate monitoring mechanism and social audit process
+ in place could ensure that favoritism and complacency do not set in and value for money (VfM) is
+ achieved in every transaction.
+
+
+supplier, even as they compromise on a few             rural areas, it is not difficult to conclude that the
+technical aspects of the procurement cycle.            beneficiary lead procurement for public goods,
+                                                       facilities and livelihood activities hinge on their
+In the present study, the results from the field
+                                                       informal relations to the suppliers to arrive at
+demonstrate trust and faith based relationships
+                                                       cost effective solutions. This relationship based
+in traditional society. Community representatives
+                                                       procurement improves outcomes through a
+reported that at times, the market is not prepared
+                                                       significant reduction in costs, and contributes to
+to supply three competitive quotations i.e. local
+                                                       the sustainability of public assets.
+shopping. In these situations, the communities
+work with the sole provider to supply the desired
+                                                       Value for Money (Economy) and
+goods and services for the common good of
+                                                       Efficiency
+the village. The supplier offers best solutions to
+build credibility and seek patronage leading to a      The prescribed steps of the traditional
+symbiotic relationship between the buyers and          procurement chain are expected to lead to
+suppliers. Given the faith based social fabric in      economy and efficiency. The study found
+
+
+
+                                                                                                                   13
+that, despite compromising formal controls as          of 30-50% when community beneficiary groups
+observed in the figure above, innovative systems       have undertaken the construction activities (Wong
+of procurement and financial management by             and Guggenheim 2005).
+the communities are leading to value for money         In addition to cost saving, significant time savings
+and efficiency. The informal relations between         were found across the three state projects. This
+the community and the suppliers enable them to         can be attributed to the elimination of excess
+arrive at cost effective solutions through savings     supervision and verification of sub-projects,
+on storage mitigating wastage etc.                     and the establishment of smooth fund flow
+Analysis of 47 construction works show that            arrangements. The community and the supplier
+CBP saves cost and time when compared to               relied on each other to ensure best choice of
+conventional PWD/RES estimates and the                 product, just-in-time inventory system and an
+savings are higher in labor-intensive sub-projects.    efficient supply chain, thus ruling out waste both
+Absolute savings in money is achieved when             in terms of material, warehousing costs and time.
+beneficiaries carry out the procurement and
+implementation of works. The savings range from        Quality and Sustainability
+12% to 56% across the three States (Table 2).          Quality and sustainability of completed projects
+The results of cost efficiency and actual savings      was analyzed on the basis of: (i) age of the
+through community based procurement are further        structure; (ii) defects, repair or quality issues
+validated by other research on cost efficiency in      that surfaced since completion; (iii) community
+CDD Projects. Studies conducted on community-          use of the facility as per plan; (iv) community
+led works in the Kecamatan Development Program         initiatives as a result of successful sub-projects;
+(KDP) and Urban Poverty Project in Indonesia           and (v) Operations and Maintenance (O&M) by
+have shown that absolute savings in money              the community.
+is achieved when beneficiaries carry out the
+procurement and implementation of works. These         The results showed that the structures built in
+studies have shown that infrastructure projects        the sub-projects are functional with no reported
+cost some 25-56% less than similar small-scale         flaws or repairs since 3-5 years of construction.
+works delivered by other public agencies. A case       The livelihood focused sub-projects are being
+study of CDD projects in Indonesia cite savings        managed by community groups that have evolved
+
+
+                    Table 2:Value for Money in Selected Sub-Projects
+             Types of Sub-Project Activities                   Savings range          Average Time
+                                                              in % to original       Taken in Months
+                                                                 estimate
+   Village Electrification Works                                   16 to 17                  4
+   Lift Irrigation/ Well excavation/ Hand Pumps etc.               48 to 56                 3-6
+   Road Construction                                               13 to 25                  6
+   Buildings/Walls: Schools, community halls etc.                  18 to 48                  6
+   Stop Dams/Cause Way                                             14 to 33                 3-6
+   Drinking Water Infrastructure                                   12 to 29                 6-8
+   Drainage System                                                 31 to 33                  6
+
+
+
+
+ 14
+over the years to reach high group grading for      involvement and community monitoring ensured
+bank linkages and leveraging funds. Similarly,      that the created resources were utilized well; with
+the service delivery sub-projects were delivering   reductions in potential abuse.
+high quality services in insurance, health and
+                                                    Based on these observations here, it is suggested
+nutrition and land related legal advocacy.
+                                                    that success and sustainability is directly
+The completed sub-projects were demand led          linked to the intensity of the need of the
+investments, and included schools, check dams,      community. Most of the reported sub-projects
+drinking water supplies, cattle and insurance.      served the critical needs of the community,
+When vital needs were met by the sub-projects,      including the provision of drinking water, drainage
+the community felt responsible for its upkeep       systems, roads and stop-dams for irrigation.
+and maintenance. The community took pride           In many cases the economic activities that the
+in the completed sub-projects, taking on the        community groups had a direct stake in were
+operation and maintenance of the asset in an        supported by these sub-projects, which further
+organized manner. The consensus approach,           contributed to their sustainability.
+
+
+
+
+                                                                                                   15
+Enabling Factors for Producing
+Good Community Procurement
+
+T    his section explores the factors that lead to
+     the creation of an enabling environment for
+fostering Relationship Based Procurement and
+                                                           Positive targeting of beneficiaries ensured
+                                                           a more or less cohesive group that worked
+                                                           collectively in planning, decision making.
+the successful implementation of sub-projects.             This finding is supported by other research
+In doing so, emphasis is given to the role of              (Bardhan and Dayton-Johnson 2001), which
+project design and governance in community                 shows that heterogeneity has a negative impact
+based procurement, which enabled successful                on cooperation and commons management.
+CBP outcomes despite variations from traditional           Heterogeneity also weakens the cohesive
+procedures.                                                potential of social norms and the application
+                                                           of sanctions for violating cooperative behavior
+Participation and Inclusion                                and collective agreements. In a rural setting,
+                                                           focusing on creating a homogenous group led to
+Using the rating tool, documents and FGDs, the             a cohesive effort to address common needs.
+extent of participation of the community in each
+sub-project was understood specifically through:           There are a number of factors that affected
+                                                           participation and inclusion in sub-projects.
+·        Community awareness about the project and
+         its implementation;                               ·   Positive discrimination: that seeks to
+                                                               redress imbalances by targeting beneficiaries
+·        Extent of participation in need prioritization;       especially women, backward classes,
+                                                               youth and persons with disabilities among
+·        Access and control over resources including
+                                                               communities. The community resource
+         power and representation;
+                                                               persons were selected among the poor to
+·        Voice and decision making;                            ensure their representation as bookkeepers
+                                                               and local trainers. Fritze's (2007) case
+·        Match between the perceived beneficiaries             analysis and field surveys in 250 Indonesian
+         and the actual beneficiaries;                         sub-districts, reports similar findings. While
+                                                               CDD projects can help create spaces
+·        Gender and group relations; and
+                                                               for a broader range of elite and non-elite
+·        Wages for women and men.                              community leaders to emerge, elite control
+                                                               of project decision making is pervasive, and
+The scores across the projects shown in the                    project initiated "reservations" can go a long
+figure, confirms that good outcomes from                       way in mitigating the dangers of elite capture
+community based procurement is underpinned                     and effecting a redistribution and change in
+by high levels of participation and inclusion.                 the balance of power.
+
+                                                           ·   Participatory identification of the poor:
+     Figure 4 :
+     Ratings on Participation and Inclusion                    Community members collectively participated
+     5                                                         in social mapping, resource mapping and
+                                                               identified livelihood opportunities within their
+     4                                                         village. This provided an important foundation
+                                                               for collective sharing of information and
+     3
+                                                               prioritizing needs. The village assemblies
+     2                                                         (Gram Sabha) served as a forum to
+                                                               debate and jointly endorse decisions like
+     1
+                                                               participatory identification of the poor (PIP),
+     0                                                         community facilitator selection and election
+              APIKP         MPDPIP         TNERP
+                                                               of office bearers.
+
+
+
+    16
+·   Leadership selection: In order to circumvent        implementation, accountability, transparency,
+    elite capture, project interventions were           responsiveness, efficiency, and equity.
+    made to reserve leadership positions                The 1-5 scale measures the sub-projects on
+    for representatives from marginalized               participatory decision-making, free access to
+    communities to have their voices heard in the       information, documentation and record keeping,
+    decision making process.                            supervision in fiduciary matters and complaint
+                                                        redressal systems. The high scores suggest
+·   Choice      of   entry     point    activities:
+                                                        well-managed, transparent and fair processes
+    Participation is influenced by community's
+                                                        in sub-project implementation. The study found
+    willingness to accept the project. Entry points
+                                                        that community groups are widely accepted as
+    evoke interest and encourage mobilization
+                                                        reliable in delivering goods, works and services.
+    and capacity building at large. Some works
+    were initiated for common good to meet              The rating scale gave emphasis to participation,
+    critical needs of the communities or target         use of local language, electing sub-project
+    groups of beneficiaries.                            management committees, public announcements,
+                                                        information display and audits of community
+·   Impact of income, age and education:                organizations. As an accountability measure,
+    Homogenous and cohesive groups were                 the Gram Sabhas (village assemblies) served as
+    found with little inter-variation in education or   open public forums to authenticate sub-project
+    income. This encouraged interdependence             related information.
+    and allowed for weaker groups to articulate
+    their voice in decision making. The village         Other than the formal measures of audit,
+    youth and elderly participate equally to lend       disclosure and village assemblies, the field
+    their vigor and experience respectively in          research indicated the emergence of relationship
+    needs prioritization, sub-project planning and      based accountability systems. Participatory
+    implementation.                                     identification of common needs, community
+                                                        monitoring and supervision and ownership brings
+                                                        a sense of responsibility to ensure transparency
+Governance and Accountability                           and fairness. To enhance local capacity, Social
+Good governance is premised on well-defined             Accountability Committees and Procurement
+processes to describe how community based               Committees were established at the local level
+organizations conduct and manage resources to           to further enforce accountability. Many of these
+guarantee desired outcomes. In the context of CDD       governance measures put in place by the sub-
+projects, important indicators of good governance       projects have now been extended to other
+include participation in decision-making and            procurement processes.
+
+
+                                Table 3: Ratings on Governance
+    Governance Indicators                                                  MP         AP         TN
+    Participatory and Consensus Oriented Decision making                   4.35        5        4.1
+    Transparency ­ (Free Access, Openness, Display)                        4.45      3.23       4.3
+                  rd
+    Community/ 3 Party Oversight                                           4.25        5        4.7
+    Info and Documentation Mgmt. Standards                                 4.2       4.65       4.7
+    Complaint Redressal System                                             2.4*        5        4.5
+
+
+
+
+                                                                                                      17
+Financial Management                                   Funds were disbursed in multiple tranches upon
+                                                       completion of milestones. The project's appraisal
+Arrangements
+                                                       team was entrusted with decisions related to
+Funds were directly channeled into the hands           fiduciary performance of communities, thus
+of communities with a strong emphasis on               providing them the flexibility to put in place simple
+information disclosure and transparency,               and realistic requirements. When the common
+especially for project budgets, contracting, and       interest groups in MPDPIP failed to present
+procurement. Broad categories of fund were             three quotations, the State project unit revised
+made available, and communities could use              guidelines to facilitate disbursement. Other than
+their discretion to make consensual investments        external audits, local level finance and audit
+decisions to meet their needs. For instance            committees constituting community beneficiaries
+in TNVKP, funds were assigned to categories            verified utilization. These arrangements have
+like livelihood, disabled and youth within which       instilled confidence and built community capacity
+different activities could be undertaken.              to regulate fund flow, plan, budget and procure; to
+To generate cost savings, improve ownership            manage sound credit management and access to
+and accountability, communities were expected          credit from banks.
+to contribute a fixed share of the project cost.
+To handle procurement in TNVKP and APIKP,              Capacity Building, Technical
+guidelines were set for a beneficiary community        Support and facilitation
+to fulfill. This included assessing the communities'
+                                                       Decentralized project management involving
+organizational, financial and legal status, grading
+                                                       semi-literate and illiterate groups of people
+groups, internally evaluating local capacities
+                                                       requires considerable efforts of facilitation and
+for their ability to carry out microfinance or
+                                                       nurturing to orient groups towards a common
+infrastructure works. This ensured that there was
+                                                       purpose and to ensure that they follow systems
+a certain capacity in place for managing funds
+                                                       and processes that would deliver the results
+before communities were allowed to handle
+                                                       in an equitable and transparent manner. The
+procurement activities.
+                                                       facilitative role of the project staff focuses on
+The sub-projects visited by the study team were        capacity enhancement of all stakeholders i.e.
+rated on a 1-5 scale on key financial management       both staff, and community members. A highly
+performance and the findings point to the extent of    motivated and skilled project implementation
+flexible arrangements that were put in place and       team was institutionalized in all the three projects
+supported through capacity building oversight          whose focus was on the processes that deliver
+and audit.                                             the desired outcomes.
+
+                           Table 4: Financial Management Ratings
+   Financial Management Functions as Indicators                                    TN         AP    MP
+   Preparation of sub-project budget and making own contribution                   3.9        4.5   4.6
+   Opening, Signatories and O&M of Bank Accounts                                   4.8        4.1   4.25
+   Payment Terms in Contracts                                                      4.45       NA    4.6
+   Fund Flow Arrangements and Practices                                            4.55       4.1   4.65
+   Financial Supervision and Oversight                                             3.85       4.1   4.1
+   (1- Poor, 2- Average, 3- Good, 4- Very Good and 5- Excellent)          [Rating out of 5]
+
+
+
+
+ 18
+Taking a step-by-step time-bound capacity                Convergence in delivering
+building approach, the continuous improvement
+                                                         successful sub-projects and
+reflected in the sub-project outcomes. For
+instance, in Tamil Nadu self-help groups were
+                                                         CBP
+trained to understand their role and functions           While community driven projects have the
+at the time of formation. Once the Self Help             potential to be more sustainable, once completed
+Groups were able to self-rate and establish bank         they appear to suffer from neglect by Government
+linkages, the next level of training was conducted       line departments. Unless communities lobby for
+to include conflict resolution, refresher courses        inputs and training, their ability to sustain such
+on the roles and responsibilities of office bearers,     projects may be limited. Another issue that
+group planning, budgeting and maintenance of             can arise is that of institutional sustainability.
+records, including bookkeeping and auditing.             Often such projects create parallel institutional
+                                                         structures outside the government system, with
+Staff capacity followed a two pronged approach
+                                                         little or no attention to convergence. From the
+combining: (i) selection and recruitment practice
+                                                         Andhra Pradesh experience, we concluded
+(ii) training and development in the areas of attitude
+                                                         that a good institutional mechanism that seeks
+building, participatory approaches augmented by
+                                                         partnerships with other government departments
+field visits. The study highlighted how the multi-
+                                                         aids implementation and create opportunities to
+disciplinary teams provide a greater breadth of
+                                                         leverage additional resources. Such a system
+expertise to address diverse needs. Incentives
+                                                         takes several years to establish to ensure
+and performance-linked remuneration were
+                                                         acceptance within the community as well as
+carefully considered to manage performance and
+                                                         government.
+deal with employee turnover.
+                                                         The study highlights the importance of
+Institution building                                     empowerment       through    participation  and
+                                                         inclusion; as well as community monitoring
+Creating strong community based organizations            and evaluation through good governance and
+is one of the pre-requisites for good community          social accountability. In such environments,
+based procurement. Further, these community              the communities procure and innovate while
+organizations should be graded on readiness to           subscribing to the basic principles of economy,
+perform procurement. A system of self imposed            efficiency, transparency, and fairness. An
+incentive and penalty can further support effective      outcome based linkage that can be drawn is that
+implementation. Community Operations Manuals             the private benefits accrued by the individuals
+prepared by the community, which clearly set             from procurement inculcate a sense of ownership
+out the rules of play in a way that is widely            in the process and outcome, in turn contributing
+understood were also found to be important.              to enhanced participation, transparency and
+A good example of this is the `non-negotiable            accountability.
+principles' and Governance Action Plan in the
+Tamil Nadu project.
+
+
+
+
+                                                                                                       19
+Emerging Practices
+
+T    his section documents some of the best
+     practices and innovations that the study
+team came across in the field. The compilation
+                                                       ·   GP undertakes a pre-Gram Sabha and Ward
+                                                           Sabha consultation with key stakeholders
+                                                           including farmers, Area Development
+provides a quick reference for examples that can           Societies, school representatives, and
+be replicated in future community procurement              political party representatives to prioritize
+project designs and development of policies                selection of projects
+that are based on participation principles,
+transparency, and provide insight into ideal           ·   The information and feedback gathered from
+procurement conditions.                                    these consultations is then used to prepare
+                                                           Development Report and Vision Document
+Needs assessment
+                                                       ·   Working groups undertake the draft plan
+In TNVKP the need prioritization exercise targeted         preparation which details key strategies
+the most indigent and marginalized groups within           along with the priority schemes to be adopted
+the poor--the disabled. Through participatory              for that year
+need prioritization, the disabled persons in
+each village were empowered to undertake               ·   GP level Development Seminar is arranged,
+livelihood activities and provided budgeting and           wherein the gist of Development and
+procurement information. The Self Help Groups              Vision Report is circulated, along with plan
+formed by the disabled community were assisted             implementation strategies
+in planning for income generating activities.
+Aids, appliances and identity cards enabled their      ·   After Development Seminar, finalized projects
+access to existing services letting them become            are formulated by the various Standing
+self-reliant. This case signifies the need for an          Committees
+effective Entry Point Activity for penetrating the
+                                                       ·   Technical Advisory Group (TAG) undertake
+community and demonstrating the commitment
+                                                           the vetting of the Plan
+of the project to get maximum participation from
+the community.                                         ·   The projects vetted by Technical Advisory
+                                                           Group are presented to District Planning
+Procurement planning and                                   Committee (DPC) which considers the plans
+scheduling process                                         in detail and gives recommendations for
+                                                           change if needed
+The planning and scheduling process followed by
+Local Governments (Gram Panchayats or GP) in
+Kerala is one of the most advanced in the country.     Market search for bidders
+The State of Kerala has a highly decentralized local
+                                                       In Tamil Nadu, one of the Self Help Groups chose
+government whereby the elected representatives
+                                                       a livelihood activity that demanded rigorous
+and beneficiaries work together in collaboration
+                                                       training and a long duration of stay outside their
+with the government line departments and their
+                                                       village. Unwilling to stay away from home and
+technical functionaries to implement projects. The
+                                                       to save cost, the community members chose to
+planning and implementation guidelines provide
+                                                       bring the trainer to their village at a lower cost,
+a system for prioritization of needs, allocating
+                                                       using the selection procedures laid out for the
+resources as per the priorities identified by the
+                                                       project. At this stage the proactive leadership
+state and meeting the targets as per schedule.
+                                                       by the local Government at the village level and
+The eight step planning process includes:
+                                                       flexible project functionaries were instrumental
+·    Situation Analysis done by GP with the help       in allowing communities to adapt norms and
+     of working groups                                 guidelines to save cost and time.
+
+
+    20
+Selection criteria for project                         The livelihood needs of the poorest of the poor
+                                                       in the self-help groups are prioritized to grant
+functionaries/staff
+                                                       loans. With the help of community facilitators,
+The commitment of project staff is essential to        SHGs identify and assess the physical, financial
+ensure effective management of CDD projects.           and human resources of each of their SHG
+In Madhya Pradesh, facilitation skills as well as a    members and explore improvements. They arrive
+sound technical background were among the key          at individual micro credit plans, integrated into
+criteria to select project functionaries. The study    a group micro credit plan. Funds are limited so
+team found that a clear vision of the facilitation     the first tranche of the loan from the project is
+role of the project staff by the design team           granted to the poorest members within the group.
+resulted in a focus on capacity enhancement at         The SHG creates peer pressure on the first set of
+every level. The key initiatives included:             prioritized beneficiaries to utilize the loan suitably
+                                                       for timely repayment. Other group members who
+·   Identifying dedicated individuals with the right
+                                                       are awaiting loans are aware that failure to repay
+    attitude and orientation through thorough
+                                                       would result in no further loans being issued to the
+    assessments, assisted by a specialized and
+                                                       group by the project and the banks. Since funds
+    independent firm;
+                                                       are conditional, the beneficiaries closely monitor
+·   Forming multi-disciplinary teams at the field      and facilitate each other for successful results.
+    level, in order to have a horizontal blend of
+    expertise;                                         Information, Education and
+·   Training and exposure visits for project           Communication (IEC)
+    facilitators and managers to reinforce project     Information, Education and Communication (IEC)
+    philosophy and approach over two years;            Campaigns played a major role in the success
+                                                       of TNVKP. The operation manual was jointly
+·   On-the-job training during implementation,
+                                                       developed by the community and the project staff
+    while classroom training was limited to inputs
+                                                       through a series of workshops. It lists the principles
+    for forming and nurturing Common Interest
+                                                       of the project, explains the livelihood approach to
+    Groups (CIGs) and recordkeeping.
+                                                       poverty reduction and describes the institutions
+·   Performance linked remuneration to check           that should be established or strengthened in the
+    employee turnover; high increments and             process. Guidelines on procurement, managing
+    promotion for better performing staff.             finances and social accountability are part of the
+                                                       manual. Community involvement in generating
+These initiatives resulted in a mix of staff members   user-friendly guidelines ensured that the community
+from government, non-governmental organizations        knew what and how to do it while maintaining
+and private sectors; "buy in" from staff; sharing      third party oversight. Where empowerment and
+cross-sector expertise and learning; interpreting      socialization is emphasized as part of project
+theory to real life situations; and making this        planning, this can help to build social capital and
+expertise available to the target beneficiaries in     ensure effective monitoring of the financial and
+the form of a project facilitation team.               technical aspects of sub-projects and the social
+                                                       aspects within the implementation groups.
+Results focused fund flow
+mechanism                                              Community monitoring
+The fund flow arrangement in Andhra Pradesh            Community monitoring and accountability
+is an impressive approach using Project funds          measures were supported by establishing Social
+to draw better results with greater accountability.    Audit Committees, Financial Management
+
+
+                                                                                                        21
+Committees, Procurement Committees, Gender               The community members faced difficulties in
+Cells, Land Reform Cells which comprised                 making the right choice for procurement due to
+of the target beneficiaries who were trained             lack of information and market linkages. The
+and facilitated to handle the working of these           project team organized village and district level
+committees. In APIKP the Gender cell is managed          meetings with suppliers to establish linkages,
+by paralegals identified and chosen from within          understand product specifications and their
+the target group beneficiaries. These individuals        prices. The suppliers were made aware of a
+were given training and certification to handle          large untapped market that the communities
+social issues and encouraged to develop locally          represented and mutual benefits of building
+appropriate solutions to local issues.                   relationships. A fair and transparent process was
+                                                         followed. Selected community representatives
+                                                         from all villages were invited to identify and short-
+Parity charts
+                                                         list their needs. Local suppliers were identified
+The study found innovative efforts in procurement        and listed with the positive and negative aspects
+that have been developed by project teams to             of their quality and service. Invitations were
+facilitate better selection of goods so that value for   sent to the short listed suppliers for a public
+money is achieved. In Madhya Pradesh the district        demonstration and negotiations. The suppliers
+level project team established a new approach to         presented their products, prices, offers, service
+develop a relationship based supply process with         arrangements etc. Factors like service, guarantee,
+leading vendors operating at the district and sub        transportation cost, and payment conditions were
+district levels. A key component of this has been        noted. A comparative Parity Chart was made after
+the `parity chart', which has improved the process       these meetings, to facilitate decision-making by
+of market search, comparison and selection of            the community members.
+products by the project beneficiaries.
+
+
+
+
+ 22
+Conclusions and the Way Forward for
+Developing a Framework for Community
+Based Procurement
+T    he study on community based procurement
+     in CDD projects confirms that when people
+are allowed to plan, implement and monitor needs
+                                                        cycle, it was found that need identification, planning
+                                                        and scheduling, developing specifications for the
+                                                        items to be procured, making the final decision
+that are close to their livelihoods, there would be     on best offer and managing the contracts rate
+significant savings in cost, improvement in quality     very high. Whereas the technical areas of
+and built-in operation and maintenance. The             market search, tendering and evaluation process
+outcomes are achieved despite deviations from           show comparatively lower rating, reflecting
+the standards of a technically sound procurement        inadequacies. The conclusions from reasons
+cycle. This confirms one of the core principles of      and factors that have led to achieving value
+CDD, that communities play a self-regulatory role.      for money and success despite the technical
+                                                        failure narrated above, points to the need for
+These positive outcomes are the result of the           innovative approaches like Relationship Based
+capacity development efforts, which were built into     Procurement rather than a procedures-led
+project designs. While there is a need to place trust   approach in CDD projects. The focus should
+in the communities, it is also important to monitor     be on the processes itself, especially need
+their capacity through rating, and evaluation.          identification, building participation, open and
+Efforts are needed in the project preparation phase     transparent management, rather than exclusively
+to create capacity and instill good governance          on inflexible procedures.
+principles among community groups. However,
+such positive CBP outcomes are feasible only with       Conventionally,         Relationship         Based
+an enabling environment in which the community          Procurement systems based on family and
+groups federate together, seek and receive              kinship arrangements could align with elite
+technical support, and share the responsibilities in    capture and nepotism, however the sub-projects
+an open and accountable manner.                         reviewed reflect that, in a rural context, if the
+                                                        institutional structures are in place and the group
+The study highlighted a number of critical factors      that seeks accountability is defined by a common
+for ensuring good community procurement and             need this can lead to better outcomes.
+success in sub-projects. These include choosing
+a good facilitation team, intensive capacity
+building of the beneficiaries through skill training
+                                                        The Way Forward for
+on bookkeeping, consensual decision making.             Developing a Framework for
+Also important are the use of participatory tools in    Community Based Procurement
+target group identification and need prioritization.
+                                                        Further thinking for developing a Relationship
+The review of completed sub-projects also shows         Based framework for community procurement in
+that the participation of all target groups and         CDD projects, could be based on the following:
+inclusion of marginalized was institutionalized
+                                                        ·   Facilitation, training and implementation
+through the project design, which emphasized
+                                                            should be sequential for social capital to be
+building community groups for facilitation and
+                                                            built at the group and village level before any
+implementation. With these provisions in place,
+                                                            procurement activities are initiated. Groups
+accountability and sustainability was ensured
+                                                            need to be graded on their maturity, trust
+by multi-stakeholder ownership, and most
+                                                            and inter dependence before procurement
+importantly social capital, which was built from
+                                                            responsibilities are bestowed on them.
+within the target communities.
+                                                            Subsequent supervision and monitoring also
+While reviewing the community groups'                       should be based on rating the procurement
+performance of procurement management in CDD                system rather than post review of transactional
+projects against the conventional procurement               procurement activities.
+
+
+
+                                                                                                         23
+·    Some processes or standards are imperative       ·   Social Accountability Committees and
+     to protect communities from fraud. These             Procurement Committees, as part of the
+     standards should be based on good                    village level organizations, can help create
+     governance and accountability principles,            peer pressure and ensure accountability. The
+     rather than prescribed and overly stringent          key to the success of these committees are (i)
+     rules. Processes should not be imposed as            who holds various positions, (ii) how are they
+     long as the objectives are met; instead these        selected and (iii) what is their acceptability in
+     should be adapted to suit communities.               the relationship based model of accountability
+     The communities should be encouraged                 that operates in the given setting.
+     to find means to adopt the four principles
+                                                      ·   Approaches      like    Relationship    Based
+     of Economy, Efficiency, Transparency
+                                                          Procurement would have a high likelihood
+     and Fairness in Public Procurement and
+                                                          of success in rural projects because of the
+     these should be examined carefully before
+                                                          rural family and kinship based social fabric
+     implementation.
+                                                          that allows for a sense of true community
+·    Institution building, to create strong               being built and a sense of ownership over the
+     community organizations, is one of the               assets generated. They are best undertaken
+     pre-requisites for good CBP. Self imposed            in a context-specific manner, with a long time
+     incentives and penalties can enable effective        horizon and with careful and well-designed
+     implementation within the groups.                    monitoring and evaluation systems. This
+                                                          study leads to a conclusion that family and
+·    Operational guidelines should be developed           kinship networks in the rural setting help
+     by the groups with appropriate facilitation          establish better accountability among the
+     of basic principles. The involvement of              procurement committees of the groups as
+     the community in generating user friendly            well as the local supplier.
+     guidelines helps ensure that it is owned by
+     the group and local social and cultural values
+     are integrated with guidelines for community
+     based procurement.
+
+
+
+
+    24
+Annexures
+Annex 1: Models of Community Based Procurement observed in
+CDD Projects
+
+Category I- Family Based Private Asset               clinics, after-school centers etc.), agents or change
+Generating Procurement: Close knit family            managers in implementing specific activities (like
+based Common Interest Groups are formed on           forming and operating dairy federations) and
+economic and livelihood considerations and           procurement is often carried out for the benefit of
+their procurement generates private assets for       the community. The NGOs working closely with
+livelihoods like agricultural implements, cattle,    the communities submit proposals on their behalf,
+etc. In this model, funds are channeled to and       and the funds flow into the books of the NGOs or
+managed entirely by the community. Value of          in to a joint account with the community project
+procurement per capita is often less than $500       management committee through a financing
+and simplified shopping or direct contracting        agreement. Value of a single procurement
+methods are used. A separate Procurement             transaction could be from $5000 to $50,000 and
+Committee undertakes procurement and the             shopping or direct contracting methods are used.
+Social Audit Committee monitors the fiduciary        NGO undertakes procurement, and community
+management. Other third party consultants            has limited or no responsibility for monitoring the
+and statutory financial auditors are engaged for     fiduciary management.
+external assessment;
+                                                     Category IV: Third Party Contracted
+Category II- Village Organization Based              Procurement: Common interest groups or self
+Force Account Type Procurement: Village              help groups outsource sub-projects to contractors
+level community based organizations manage           when the communities cannot manage sub-
+procurement for community goods and services         projects like construction of school buildings,
+like roads, check dams, community tanks,             pipelines, setting up power transformers etc.
+watersheds, etc. that follow more or less force      In this model, the communities participate in
+account method etc. The funds are channeled to       identifying and selecting contractors. The funds
+and managed entirely by the community. Value         are channeled either from the project or the
+of a single procurement transaction could be         community organization to the contractor. Value
+between $1000 to $15,000 and force account;          of a single procurement transaction could be
+shopping or direct contracting methods are used.     between $15000 to $100,000 and shopping or
+Separate Procurement Committee undertakes            National Competitive Bidding (NCB) methods are
+procurement and the Social Audit Committee           generally used. Decentralized Project authorities
+monitors the fiduciary management. Other third       or a separate Procurement Committee of the
+party consultants and statutory financial auditors   community groups undertakes procurement,
+are engaged for external assessment;                 independent Social Audit Committee monitors
+                                                     the fiduciary management. Other third party
+Category III- NGO Based PSA Type                     consultants and statutory financial auditors are
+Procurement for CDD Implementation: In this          engaged by the Project for external assessment;
+category, NGOs act as service providers (running
+
+
+
+
+                                                                                                     25
+Annex 2: Rating Tool for Procurement Performance
+
+Subject:
+__________________________________________________________________
+Village:              Block/Mandal:          District:
+_____________________ ______________________ _____________________
+State/Province:       Country:
+_____________________ ____________________________________________
+
+1.0   Need Identification
+      SOURCE: Focus group discussion comprising of key stakeholders (officers, community
+      members and committee members)
+
+      1.1   Need generated by village elite/interest groups where none genuinely exists or
+            need exaggerated
+      1.2   Project reviewed and identified the need with the participation of village elite
+      1.3   There were other important needs, but majority participated in the identified
+            one
+      1.4   Need prioritized to meet strategic need, but covering majority habitations and
+            population
+      1.5   Prioritize budget to meet the most important and strategic need of entire village
+
+2.0   Procurement Planning and Scheduling
+      SOURCE: Implementing/ Executive committee members, Procurement and Financial
+      Committee Members where available
+
+      2.1   Inappropriate packaging for favoritism and fraud (in small sizes to keep within
+            locally or larger sizes to avoid local market. Lead to considerable delay and
+            wastage
+
+      2.2   Unwanted split or bundle for managing interface by officials or village elite
+            causing wastage and delays. With or without F&C intend
+
+      2.3   Ad hoc manner of implementing sub-project and making procurement. Lack of
+            scheduling and packaging lead to delays and wastages
+
+      2.4   Planned splitting and packaging as needed for the planning schedule for
+            completing tasks, however some delays and wastage happened due to poor
+            market responses
+
+      2.5   Planned splitting and packaging as needed for the planning schedule for
+            completing task without delays and wastage happened. Procurement packaging
+            and scheduling took into account the technology aspects.
+            Using innovative approaches like Relationship Based Procurement, Parity
+            Charts, etc. to draw best value from local market by splitting and bundling as
+            per need of timing, package, delivery, etc.
+
+
+
+ 26
+3.0   Specifications
+      SOURCE: Implementing/ Executive committee members, Procurement and Financial
+      Committee Members where available
+
+      3.1   Due to lack of knowledge about items to be procured, the community visiting a
+            single shop, asks for the brochure and copies the configuration/ specifications
+            in the quotation. It is a repeated practice.
+            Unclear and incomplete specs with outdated methodologies. Too specific and
+            restrictive with brand names, etc.
+
+      3.2   Over specification leading to limited competition. Proposing items and techniques
+            which may not be necessary for outcomes
+
+      3.3   Some lack of clarity on specs & standards leading to possibilities of bidders
+            drawing varying conclusions of requirement
+
+      3.4   Broad specifications are mentioned which could meet performance and delivery.
+            However like with like comparisons difficult
+
+      3.5   Stating what is required clear and complete. Giving Performance specs that
+            how to do works, using generic details of items with ease of comparisons
+
+
+4. 0 Market Search for Bidders
+      SOURCE: Focus group discussion comprising of key stakeholders (officers, community
+      members and committee members) AND Implementing/ Executive committee members,
+      Procurement and Financial Committee Members where available
+
+      4.1   No effort made to identify potential bidders, single source identified or pre
+            decided was used
+
+      4.2   Unreliable documentation present as search carried out. Not substantiated and
+            often leading to only 1 or 2 suppliers
+
+      4.3   Searched only the market(s) in the proximity mainly due to logistics reasons. But
+            no discrimination among local suppliers seen
+
+      4.4   Limited search made from Groups own knowledge. However referred to Rate/
+            Item Banks thus expanding the market base
+
+      4.5   Deciding a list of potential suppliers exactly following the procedures mentioned
+            in the Project legal agreement
+            Annual validation of supplier list, suppliers made aware of ethical practices, for
+            quality issues appropriate steps are taken.
+
+
+
+
+                                                                                                 27
+5.0   Tendering/Enquiry Process
+      SOURCE: Implementing/ Executive committee members, Procurement and Financial
+      Committee Members where available
+
+      5.1   No written invitation, no records of invitees, queries, no specifications, no
+            selection and award criteria listed. Only one bid received without any reference
+            to tender number.
+
+      5.2   "Sitting tenants" (same few bidders responding every time) only gave formal
+            invitation. Written invitation sent to a select few bidders. No specifications, no
+            selection/ award criteria, no uniform response to queries and no single point of
+            contact.
+
+      5.3   Written invitation sent to many bidders, weak specifications provided but no
+            selection/ award criteria and ITT/RFP sent on different dates and no single point
+            of contact and no uniform response to queries.
+
+      5.4   Written invitation sent to many bidders, good specifications, selection/ award
+            criteria provided, ITT sent on same date but no single point of interest and
+            uniform response to queries.
+
+      5.5   Written invitation sent to many bidders, good specifications, selection/ award
+            criteria provided, ITT sent on same date, single point of contact, uniform
+            response in writing to queries shared with all bidders, enquiring with invited
+            bidders reasonably ahead of due date of tender date as to whether they will bid.
+
+
+5.0   Tendering/Enquiry Process
+      5.1   No written invitation, no records of invitees, queries. Mostly a single response
+            without any reference to any enquiry made by the group
+
+      5.2   "Sitting tenants" CLARIFY write as same few responding each time only gave
+            formal invitation. Selective handling of giving time and answering queries, all
+            with mal intent
+
+      5.3   Written or oral information shared with bidders for submitting quotations, all
+            given similar information, adequate time
+
+      5.4   Written invitations issued with similar details and no of days for response, but
+            not issued on same date, no uniform responses to queries and no single point
+            of contact.
+
+      5.5   Formal written invitations issued to all bidders on same day with adequate time.
+            Queries answered to all and a single point of contact remained through the
+            process
+
+
+
+
+ 28
+6.0   Evaluation Process
+      SOURCE: Implementing/ Executive committee members, Procurement and Financial
+      Committee Members where available
+
+      61    No formal comparison, no formal criteria pre-notified, no evaluation note or all
+            quotations not available for post review
+
+      6.2   No formal criteria pre notified or comparison tables. However minutes of
+            community groups records receipt of quotations with prices and to whom the
+            contract was awarded at what price
+
+      6.3   Bidders guessed the criteria, as the same was not in bid. No separation of
+            functions in evaluation. Minute available of a meeting where bids reviewed and
+            winner decided
+
+      6.4   Variations made on notified criteria subsequent to receipt of bids. Combined
+            evaluation note without individual accountability. Bidders contacted for subjective
+            clarifications during evaluation
+
+      6.5   Evaluation carried out as per criteria notified in Bid. Independent members of a
+            committee carried out written evaluation, signed individually. No contacts with
+            bidders during the evaluation process
+
+
+7.0   Selection and Award Process
+      SOURCE: Implementing/ Executive committee members, Procurement and Financial
+      Committee Members where available
+
+      7.1   Selection and Award decision made by authority irrespective of deviations in
+            procedures.
+            No written agreement and
+            No formal acceptance
+
+      7.2   Details of selection and award recommendation forwarded are not available, but
+            bids and other reference documents are available. Post dated agreements. No
+            detailed terms and conditions
+            Only receipts of goods available in most cases.
+
+      7.3   Incomplete or sketchy minutes in place of recommendations. Approvals do
+            exist. Agreements signed, mostly as offered by Supplier including their terms
+            and conditions
+
+      7.4   Selection and Award decision based on proper assessment, recommendations
+            and approval Written agreements/ revenue stamped documents in place..
+            Inadequate clauses available on delivery, guarantee, defect liability, liquidated
+            damages etc.
+
+      7.5   Formal written agreement based on approved recommendations. Signed
+            by both parties with consignee details, security for advances and clauses for
+            liquidated damages and other terms and conditions as per norms
+
+
+
+
+                                                                                                  29
+8.0   Completion rated
+      SOURCE: Focus group discussion comprising of key stakeholders (officers, community
+      members and committee members) AND Implementing/ Executive committee members,
+      Procurement and Financial Committee Members where available
+
+      8.1   Delivery details not recorded. Specific timelines weren't met. Post completion
+            services weren't adequate
+
+      8.2   Incomplete delivery/ delivery not as per specification. Complete details of
+            training were there, but there was an evident lack of ownership.
+
+      8.3   Except time delays, there were no changes which were to be made during
+            delivery and after completion; the delivery and project completed as required,
+            but O&M not done or details missing. Has requisite documentation
+
+      8.4   Irrespective of some delay delivery done with requisite documentation. Properly
+            monitoired and auxiliary variations adhered to for the benefit of the outcome.
+            O&M details were loud and clear. The project was speaking its success out and
+            ownership was seen everywhere.
+
+      8.5   Specific timelines were met according to the proposal and evidences of proper
+            monitoring available. Documentation of delivery, completion and hand over
+            perfect. No delay and no extra cost incorporated. Still functional with negligible
+            O&M cost. Universal usage observed.
+
+
+
+
+ 30
+Annex 3: Rating Tool for Governance
+
+Subject:
+__________________________________________________________________
+Village:              Block/Mandal:          District:
+_____________________ ______________________ _____________________
+State/Province:       Country:
+_____________________ ____________________________________________
+
+1.0   Participatory and consensus oriented
+      1.1   Elite (of village) capture of decisions, inputs and outcomes or officials lead
+            decisions, inputs, and outcomes.
+      1.2   Selection of sub-project in favor of village majority, sub-projects serving majority,
+            but not entire village. Some habitations left without any details of fund flow, or
+            execution by the sub-project members.
+      1.3   Challenges expressed over beneficiary lists, but willingness to revise. Sub-
+            projects divided to "buy in" consensus by habitations. Only respective CIGs
+            know details of sub-projects.
+      1.4   General consensus on beneficiary list. Consensus in sub-project selection,
+            planning and execution. Mostly CIG members or villagers in positions of authority
+            (Panchayat) aware of details of execution including fund flow.
+      1.5   No challenges on beneficiary list. Consensus in sub-project selection, planning
+            and execution. Majority knows funding and expenditure details.
+
+
+2.0   Transparency (Openness, Display)
+      2.1   Lack of awareness or felt need to have a policy for disclosure or openness of the
+            CIG management. Most people unaware of basic project details
+      2.2   Display boards not located at easily accessible sites. Missing minutes or cash
+            and other registers. Information on basic project details is available with very
+            few.
+      2.3   CIG has awareness for the need of disclosure policy regarding the project,
+            individual entitlement. However, information available on request basis. Display
+            boards not available for all works undertaken or in all habitations. Minutes and
+            cash and other registers are available but not well maintained.
+      2.4   CIG aware of disclosure policy for project, individual entitlement. Practices
+            display of beneficiary details, income and expenditure and procurement details.
+            However, boards are not well maintained and available to all. Minutes and cash
+            and other registers are available but not well maintained.
+      2.5   CIG aware of disclosure policy for project, individual entitlement. Practices
+            display of beneficiary details, income and expenditure and procurement details.
+            Minutes and cash and other registers well maintained and accessible. Innovative
+            measures like First Information Report (locally known as Panchanama)
+            introduced.
+
+
+
+                                                                                                    31
+3.0   Community/3rd Party Oversight
+      3.1   No social or fiduciary audit in place. No oversight, maintenance by project staff.
+            Closed meetings held and no sharing of details.
+      3.2   Project staff oversight present, third party fiduciary audit is maintained. However
+            no community oversight.
+      3.3   Community/3rd party oversight in place, but long gaps displayed in their
+            occurrence. No steps taken to address or make any changes based on
+            suggested recommendations.
+      3.4   Information on regular community and 3rd party oversight is available. Suggested
+            recommendations followed through.
+      3.5   Regular process of 3rd party and community oversight. Beneficiary list
+            known to all. Social auditing through open meetings (Gram Sabha). Details
+            of CIG functioning shared, feedback taken during regular meetings. Sub-
+            project progress, procurement details made publicly available for comment.
+            Recommendations followed through.
+
+4.0   Info and Documentation Management Standards
+      4.1   Most prescribed documentation missing. No knowledge on ledger maintenance
+            or upkeep of minute book details. No idea regarding required documentation for
+            different procedures.
+      4.2   Knowledge within the group on the importance of maintaining documentation,
+            however no concrete efforts taken to realise this. Available minutes, registers
+            etc. looks manufactured post facto.
+      4.3   Project proposal, UC and cash registers are maintained. However, minutes
+            book are not well maintained and there is no data on the functioning of the CIG.
+            Most receipts are handwritten on small scraps of paper.
+      4.4   Prescribed documentations including minute's book, cash registers, user group
+            registers, measurement book, utilization certificate, proposal document etc. are
+            available. There is no fixed responsibility for maintaining the documentations
+            and updating is done on an as needed basis.
+      4.5   Prescribed documentations including minute's book, cash registers, user group
+            registers, measurement book, utilization certificate, proposal document etc. are
+            available and well maintained. Each member's signature available for the days
+            that meetings attended. There is fixed responsibility for one member to ensure
+            all records are updated and stored in a safe manner. Each receipt voucher has
+            a government stamp attestation.
+
+5.0   Complaint Redressal System
+      5.1   No framework or system for complaint redressal.
+      5.2   Need expressed for a method. Or the current complaint redressal system is
+            complex- money and time intensive. Involves too many procedures.
+      5.3   Complaint redressal system present but the stated resolution time frame isn't
+            followed
+      5.4   Timely complaint redressal system in place. Documented incidents when this
+            has taken place. No guidelines on escalation.
+      5.5   Coherent complaint redressal system that indicates the time frame for problem
+            resolution, escalation. Evidence of the system functioning effectively. Various
+            minutes record, conflicts and mechanisms to resolve them.
+
+
+
+ 32
+Annex 4: Rating Tool for Performance of Financial Management
+
+Subject:
+__________________________________________________________________
+Village:              Block/Mandal:          District:
+_____________________ ______________________ _____________________
+State/Province:       Country:
+_____________________ ____________________________________________
+
+
+1.0   Preparation of sub-project Budget and Own Contribution
+      1.1   Clear Elite/official capture of planning, preparation etc. Majority members are
+            dormant, benefits accrue to them as wage etc.
+      1.2   Sub-project is an imported idea by some village elite or project officials.
+            Developed by limited no of people. Knowledge of funds, estimation, expenses
+            with limited few. Possibly, own contribution was inflated in the budget estimate.
+      1.3   Sub-project is an imported idea by some village elite or project officials.
+            Developed by limited no of people. Knowledge of funds, estimation, expenses
+            with limited few. Possibly, own contribution was inflated in the budget estimate.
+      1.4   Sub-project is decided within consensus. Some Members were involved in
+            developing detailed activities and budget. Knows sanctioned amount. Own
+            contribution was made by each member as verified
+      1.5   Sub-project is decided within community in consensus. Members developed the
+            budget based on detailed plans, BOQ and estimates. Everyone is aware of the
+            total proposed cost and sanctioned amount. Own contributions were made by
+            individual members as verified.
+
+
+2.0   Opening, Signatories & O & M Bank Account
+      2.1   Signatories are nominated by the elite and officials. O & M is carried out by Book
+            keeper or people other than the CIG
+      2.2   Signatories are aware of the bank nuances and goes for the transaction part;
+            however for O&M one individual overshadows others. Signatories seldom visit
+            the bank for operations and pass book updating.
+      2.3   Signatories go for the transactions, manages the passbook, knows the
+            whereabouts of the funds, but mostly one elite or Book Keeper is in control of
+            expenditures
+      2.4   Signatories go for the transactions, manages the passbook, knows the
+            whereabouts of the funds, but mostly one elite or Book Keeper is in control of
+            expenditures
+      2.5   The bank account is maintained by the unanimously designated signatories
+            from amongst the villagers and performs their job effectively giving no room for
+            any pilferages. Records are maintained well and all back tracking of expenses
+            found required supporting documentation
+
+
+
+
+                                                                                                 33
+3.0   Payment Terms in Contracts
+      3.1   Inappropriate method including large advances leading to loss of control and
+            contractual dispute
+      3.2   On Supplier's Call and did not use the leverage of the project. Advances without
+            security and delays
+      3.3   Unclear payment terms and lack of consistency between different suppliers
+            leading to disputes after placing orders
+      3.4   Payment only on delivery, without any advances or interim payments
+      3.5   Payment mainly on delivery, however, adopted flexibility to best motivate the
+            supplier to offer and deliver in time
+
+
+4.0   Fund Flow Arrangements
+      4.1   Memorandum of Understanding (MoU) was just used for getting the funds.
+            Activities changes without proper re course. Elite might have contributed for
+            everyone on "Own contribution" component. Rampant delays in fund flow.
+      4.2   Major variations between approved Memorandum of Understanding (MoU)
+            activities, schedules and actual implementation. Flow of own contribution erratic,
+            inadequate and not verifiable. Delays in release and receipt of installments
+      4.3   Minor variations found between Memorandum of Understanding (MoU) and
+            implementation Beneficiary contribution was collected into the pool but not
+            timely and individual details are not traceable. Usage of the tranches was late
+            due to delay and unavailability of resources.
+      4.4   Memorandum of Understanding (MoU) with total cost, installments and
+            milestones used for managing funds; Budget developed by the members was
+            well executed and subsequently. Some delays and minor discrepancies on own
+            contribution observed
+      4.5   Memorandum of Understanding (MoU) with total cost, installments and
+            milestones used for managing funds. Beneficiary contributions received in right
+            time. 50% fund received on signing MoU within 7 days. Rest received. All the
+            pre-requisites are met.
+
+
+5.0   Financial supervision and oversight
+      5.1   No support, training received from Project Facilitation Team (PFT), District Project
+            Management Unit (DPMU). Gram Sabha Audit not seen. Audit not undertaken
+            or has negative observations pointing to lack of capacity and monitoring.
+      5.2   Some Support training received by a few members from PFT, DPMU. Gram
+            Sabha audit was not found. Audit was undertaken and has negative observations
+      5.3   Some Support training received by a few members from PFT, DPMU. Audit done
+            by Gram Sabha and DPMU/PFT. No negative observations noticed.
+      5.4   Internal auditing and other regular oversight function were undertaken by
+            DPMU/PFT. Expenditure details were placed in GP. Training was imparted to
+            few members. Village Resource Person (VRP) dominated the work in this task.
+      5.5   Internal auditing and other regular oversight function were undertaken by
+            DPMU/PFT. Expenditure details were placed, discussed and approved as per
+            GP Minutes. Auditing was flawless with no neg. observations. VRP Training and
+            orientation to other CIG members carried out.
+
+
+
+
+ 34
+Annex 5: Selected Case Studies
+
+1. Working with Suppliers to                         the farmers and encouraged them to approach
+                                                     the vendor for a solution. The proprietor, who by
+Achieve Innovative and Cost
+                                                     now had established a good relationship with
+Effective Solutions                                  the villagers and project, did all he could do to
+                                                     resolve the problem. The new pump which was
+Obari is a sleepy little village some 100 kms away
+                                                     procured as a replacement was a modified auto
+from the district headquarters of Rewa in Madhya
+                                                     rickshaw engine which had the capacity to pump
+Pradesh. A remote village nestled on the border
+                                                     the water up to the needed height. Surprisingly,
+with Uttar Pradesh, the area is notorious for
+                                                     this unconventional solution worked!
+dacoits (bandits) and its general inaccessibility.
+There is no market supporting the area and           The community had successfully implemented
+the only available resources are the natural         the work with nearly a 50% reduction between the
+resources: the river, the land and the forest.       estimated costs and actual cost. The total amount
+The challenge faced by the community and             calculated initially, including the rail pipes and the
+MPDPIP was in introducing any kind of income         custom made motor, had been INR 6, 00,000 and
+generating groups in this situation. Brainstorming   the amount that was spent thanks to negotiations
+generated one feasible plan: using the river         and meetings with involved marketing personel
+water for irrigation of the surrounding lands.       of both Reliance and Greaves Cotton, was INR
+However, the implementation generated another        3, 12,600.
+challenge, since the fields were at a height of 6
+meters and nearly 1600 meters away from the
+river. Technical guidance bolstered the faith of a   2. Building a Lifeline through
+few families within the village and they decided     Community Based Procurement
+to form a common interest group (CIG) with the
+support of the project facilitation team (PFT) to    In Chapran village of Chattarpur district, Madhya
+pursue their goal.                                   Pradesh, India, a habitation of about 90 Backward
+                                                     and Dalit (lower caste) households have used
+The community members approached vendors             community contracting to build a causeway that
+and detailed their specifications: a pump that       has brought them not just livelihoods but given
+could lift the water to the needed height and        them a lifeline.
+distance, and pipes which could convey the water
+to the field. Based on the reliability and quality   A few years ago, the inhabitants remained
+assurances made by Sanjay Agrico, the villagers      isolated for most of the year due to flooding
+chose him as the supplier. The CIG members,          from backwaters of a nearby dam. The only
+with inputs from the PFT, decided to choose a        available option was to walk over a railway bridge
+pump manufactured by Greaves and rail pipes          to get across the water surrounding the village.
+manufactured by Reliance. It being a new entrant     Unfortunately, a blind turn along the railway
+into the rail pipe market, Reliance was able to      track made it impossible for the people to get a
+provide a number of subsidies since it wanted        glimpse of the coming disaster in case a goods
+to get a foot hold in the market and establish a     train was headed their way. They often had no
+relationship with a seemingly successful project.    option other than jumping off the 12m high bridge
+                                                     or risking their life. Children were unable to attend
+Amidst a large group of curious onlookers, the       regular school, vegetable produce could not be
+pump was inaugurated and it failed! The PFT          transported to the nearby Mandi (vegetable
+now had their task cut out. They again rallied       market) and no emergency medical aid could be
+
+
+                                                                                                      35
+arranged in a timely manner. Lakshmibai, a long-        Keeping in mind the limitations and problems
+term resident shared "It isn't that we had been         expressed by the communities that they were
+silent about our plight, we told the minister, we       working with, the State Project Unit (SPU) decided
+told the government officials but no one helped.        on the following solution. They sent letters to the
+It is only through MP-DPIP that we were able            14 DPMs to organize sequential village, cluster
+to achieve this feat. The facilitators of MP-DPIP       and district level meetings with suppliers. These
+asked us what we wanted, and helped us make             meetings were held with the goal of establishing
+it come true."                                          market linkages, understanding pricing and
+                                                        machinery specifications and helping the
+The State project team worked with the community        suppliers realize that there was a large untapped
+to meet the community's self identified dire and        market that the communities represented and that
+strategic need through the Bank supported               establishing a relationship would be profitable to
+Poverty Initiatives Project. Initially the community    both.
+was mobilized into an executive group and then
+the group was guided to bring in local technical        The DPM of Chhatarpur wrote to the PFTs in
+resources for the construction. The group worked        Khajuraho, Rajnagar, Bijawar and Naugaon
+innovatively. They initiated a relationship with the    to organize cluster level meetings of suppliers
+only locally available supplier of building material    and villagers. A detailed guideline entailing the
+who offered to give them good materials at              following conditions was provided to the PFTs to
+whole sale market prices ensuring a Just-in-Time        ensure that a fair and transparent process was
+Supply- leading to further saving on warehousing        followed:
+costs and limiting wastage. The villagers of
+Chapran built the causeway with a cost saving of        ·   Selected representatives from all villages and
+nearly 33% compared to the engineer's estimate              farmers that were under the coverage of the
+based on the state Public Works Department's                particular PFT should be invited to identify
+(PWD) Schedule of Rates.                                    and short list their needs;
+
+                                                        ·   In this meeting, all companies available in the
+3. Using "Parity Charts" help                               local market, including the largely prevailing
+Community and Suppliers to                                  brands in the area, should be identified and
+engage in "Relationship Based                               the positive and negative aspects of their
+                                                            quality and service noted;
+Procurement"
+                                                        ·   Based on this, invitations should be sent to
+During the meeting with the Project team
+                                                            the authorized suppliers of short listed brands
+at Chhatarpur, the study team learnt of an
+                                                            for a public demonstration of samples and for
+innovative tool put to use in Madhya Pradesh.
+                                                            allowing negotiations to take place;
+Project official had found that the villagers faced
+multiple difficulties in making the right choices for   ·   A comparative Parity Chart should be made
+procurement. Rate banks were often useless as               based on the meeting;
+the supplier could always change prices based
+on demand, and often the villagers felt that if they    ·   Re-negotiation of prices should be undertaken
+had more knowledge or say in market linkages                in the public meeting to arrive at a final price;
+they could have got a better deal. The State team
+headed by the District Project Managers (DPMs)          ·   Possibilities of bringing suppliers from large
+of the 14 districts decided to introduce parity             cities like Indore and Bhopal should be
+charts for ease in community procurement.                   explored.
+
+
+
+
+ 36
+Accordingly, the PFT at Khajuraho organized such     Following the cluster level meeting, suppliers
+a meeting where products were demonstrated and       were again invited to the district level for further
+rates and specifications were discussed. Dealers     interactions with the DPM office bearers,
+of all major pump suppliers including Usha,          and representatives of Gram Sabha. During
+Bharat and Kirloskar attended the meeting along      the course of this meeting negotiations were
+with 26 village representatives. During the day-     undertaken to enable a mutually beneficial fix on
+long demonstration meeting, suppliers presented      the minimum price of the most commonly used
+and demonstrated their products and declared         items, such that the villagers and the suppliers
+their prices, offers, service arrangements etc.      would both benefit. The suppliers were amenable
+Factors like service, guarantee, transport cost,     to negotiating a best price, knowing that they
+fitting, oil, diesel, test run, payment conditions   were linking up with an untapped market full of
+and procedures were all noted to generate a          potential. This parity chart has allowed for ease
+parity chart.                                        in market search, comparison and selection of
+                                                     products by the project beneficiaries.
+
+
+
+
+                                                                                                     37
+References
+Asian Development Bank, 2006, `A Review              Mansuri and Rao, 2004, `Community-Based and
+of Community-Driven Development and its              Driven Development: A Critical Review', The
+Application to the Asian Development Bank'           World Bank Research Observer, Vol 19, No 1.
+
+Bardhan, P, and J Dayton-Johnson, 2001,              Staples, Warren J, John F Dalrymple, 2006,
+`Unequal Irrigators: Heterogeneity and Commons       `Developing a `Best Value' Approach to Public
+Management in Large-Scale Multivariate               Sector Construction Procurement', Conference
+research Working paper', University of California,   Paper at the 20th Australian and New Zealand
+Berkeley.                                            Academy of Management, Central Queensland
+                                                     University.
+DeSilva, S, 2000, `Community-based Contracting:
+A review of Stakeholder Experience', The World       OED 2005: The Effectiveness of World Bank
+Bank Publication.                                    Support for Community-Based and -Driven
+                                                     Development: An OED Evaluation
+Fritzer, Scott A, 2007, `Can the Design of
+Community-Driven Development Reduce the              Walker, Derek and Keith Hampson, 2003,
+Risk of Elite Capture? Evidence from Indonesia,'     `Procurement Strategies: A Relationship Based
+National University of Singapore.                    Approach,' Wiley-Blackwell.
+
+Gopal, Gita and Alexandre Marc, 1994, `World         Wong, Susan and Scott Guggenheim,
+Bank Financed Projects with Community                2005, `East Asia decentralizes: making local
+participation Procurement and Disbursement           government work, Chapter 12: Community Driven
+Issues,' The World Bank Discussion papers 265        Development: Decentralization's Accountability
+Africa Technical Department Series                   Challenge', World Bank Publications.
+
+Khwaja, Asim Ijaz, 2001, `Can Good Projects          World Bank 2002, Fiduciary Management for
+Succeed in Bad Communities? Collective Action        Community-Driven Development Projects A
+in the Himalayas', Working Paper Series 01-043,      Reference Guide, World Bank. http://siteresources.
+Harvard University, John F Kennedy School of         worldbank.org/INTPROCUREMENT/Resources/
+Government.                                          Fiduciary-Management-CDD.pdf
+
+Kumar, A K Kalesh, Shweta Rajwade, Julian            World Bank 2004, Guidelines Procurement Under
+Boyle, Siddharth Dasgupta, Payal Madan,              IBRD Loans and IDA Credits May 2004 (Revised
+2009, `Report of Study on Community Based            October 1 2006).
+Procurement in 3 CDD Projects', The World Bank
+Procurement Services Unit, New Delhi                 Yeung, John F Y, Albert P C Chan, and Daniel W
+                                                     M Chan, 2009, `Developing a Performance Index
+Kumar, A. K. Kalesh and Shweta Rajwade,              for Relationship-Based Construction Projects in
+2009, `Decentralised Procurement Management          Australia: Delphi Study', Journal of Management
+and Fiduciary Assurance Mechanisms in Kerala         in Engineering, Vol 25, Issue 2, pp 59-68.
+Panchayati Raj: A Review', The World Bank.
+
+
+
+
+ 38
+Notes:
+
+
+
+
+         39
+Notes:
+
+
+
+
+         40
+

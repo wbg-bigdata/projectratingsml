@@ -1,0 +1,577 @@
+Report No. PID9726
+Project Name                     Guatemala-Universalization of Basic (@)
+Education Project
+Region                           Latin America and Caribbean Region
+Sector                           Primary Education
+Project ID                       GTPE48652
+Implementing Agency
+Ministry of Education
+6a Calle 1-87, zona 10, Guatemala City,
+Guatemala
+Contact Person: Lic. Rossana de Hegel.
+(Director of UCONIME)
+Tel: 502-360-3826
+Fax: 502-360-3870
+Email: rdehegel@mineduc.gob.gt
+Environment Category             C
+Date PID Prepared                May 3, 2001
+Projected Appraisal Date         February 22, 2001
+Projected Board Date             May 22, 2001
+1. Country and Sector Background
+Background/General description.Guatemala is a country of approximately 11
+million people with a young and rapidly growing population, according to
+population projections for the year 2000 from the National Statistics
+Institute, (INE-CELADE (1998) Estimaciones de Poblaci6n por Departamento
+segun Edad y Sexo 1990-2010 y Estimaciones de Poblaci6n por Municipio
+segun Sexo 1990-2005, Guatemala). About 44 percent of the population is
+less than 14 years old, 65 percent is under 25, and the population growth
+rate stands at 2.61 percent. The country is divided into 22 Departments
+with the Department of Guatemala accounting for 22.6 percent of all
+inhabitants. Guatemala has a large rural population (about two-thirds),
+with the majority coming from indigenous communities or 48 percent of the
+total (La Encuesta Nacional de Ingresos y Gastos Familiares, 1998). The
+nation has a great cultural and linguistic diversity. It is multiethnic,
+pluri-cultural, and pluri-lingual, consisting of the Mayas, Ladinos,
+Xinka, and Garifunas, (Funes 2000).The social and economic contrasts in
+Guatemala are noticeable, especially between urban and rural areas.
+Similar to most developing countries, public investment tends to favor
+urban centers while delivery of basic social services, including primary
+education, remains either unavailable or beyond the financial reach of
+rural and indigenous populations. Indicators of economic and social
+development have a tendency to be higher in urban centers, thus attesting
+to the influence these have over the allocation of national public
+resources, (see Instituto Nacional de EstadUstica, 1996 CaracterUsticas
+Generales de Poblaci6n y Habitaci6n. Guatemala: Guatemala, C.A.) On a
+national level, the average educational attainment for Guatemalans is only
+three years, and it is less than two years in the least urban Departments
+of Alta Verapaz, Quiche, Huehuetenango, and Totonicapan. By comparison, in
+the most urban area, the Department of Guatemala, the average educational
+
+
+
+attainment has reached five years. Guatemala is a country facing
+transition from over 30 years of civil war to a post-conflict society
+where the human rights and basic freedoms of all Guatemalans, including
+civic participation in decision making are recognized and supported. On
+the 29th of December, 1996 the Peace Accords were signed between the
+Government of Guatemala (GoG) and the Guatemalan National Revolutionary
+Union, marking the end of the war and the beginning of a new national
+development agenda that would bring the needs of the indigenous and
+underserved populations to the forefront. The underpinning principles of
+the Peace Accords cut across various sectors and issues: education,
+health, socioeconomic and agrarian reform, identity and rights of
+indigenous peoples, and resettlement agreements. Education reform was
+recognized as particularly important for promoting peace and equity and is
+strongly emphasized in three of the six Peace Accords. The Accords
+acknowledge education and training as, "essential for a strategy of equity
+and national unity," and "determining factors in economic modernization
+and international competitiveness."     (Acuerdo sobre Aspectors
+Socioecon6micos y Situaci6n Agraria, p.10).To fulfill necessary reforms
+to the education system as well as to achieve a mechanism for fulfilling
+the Peace Accords, the Government would have to improve their record of
+very low public investment in education. In 1995, the Government budgeted
+only 1.3 percent of GDP for the education sector compared to an average of
+3.6 percent in the region. Intra-sectoral allocations showed that 53
+percent of the budget was allocated to primary education, 15 percent to
+higher education, 11 percent to secondary education, 9 percent to
+administration, and 3 percent to preschool education. At the primary
+level, the distribution of resources was inequitable favoring urban areas.
+In 1995, the annual per student expenditure in primary schools was
+estimated at US$166 for children in urban areas and US$110 for rural
+children. (Valerio and Rojas, 2000). There have been modest increases in
+the last two years to the education budget. The latest MINEDUC statistics
+(1999) calculate the education budget as 1.6 percent of GDP. The legacy
+of many years of war left Guatemala with, among others, two serious
+problems facing society: poverty and inequality. Approximately 75
+percent of the population lives below the poverty line with 58 percent of
+those earning below the line of extreme poverty, (Funes, 2000). According
+to the figures from the National Household Survey, the percentage of
+households below the poverty line was 85 percent in Alta Verapaz, 79
+percent in Quiche, and 76 percent in Huehuetenango. Currently the
+Government is conducting a Living Standards Measurement Survey (LSMS) with
+the support of the international community. It is expected that updated
+demographics as well as socioeconomic information will be available during
+the first semester of 2001. The country also has one of the highest
+illiteracy rates of Latin America at 29.6 percent (1999), even though this
+rate has improved significantly from 37.5 percent as measured in 1995.
+(Ministerio de Educaci6n, Memoria de Labores 1996-1999.) It is estimated
+that of the 2.2 million illiterate adults in the country, 77 percent live
+in rural areas and 61 percent are from indigenous groups. In urban areas,
+89 percent of adults over 15 years of age are literate while the
+percentage is only 69 percent in rural areas. Similarly, while 75 percent
+of women in urban areas are literate, in rural areas only 50 percent are
+literate. The highest illiteracy rates occur in the rural areas among
+women, principally in Departments where the majority of people are
+indigenous. In the Departments of Alta Verapaz and Quiche, the percentage
+of literate women reaches only a mere 12 percent and 19 percent,
+-2 -
+
+
+
+respectively. The Departments of Alta and Baja Verapaz, Quiche, and
+Huehuetenango have the least access to educational services, highest
+levels of poverty, and the highest number of indigenous communities. (See
+MINEDUC, 1999. Anuario EstadUstico de la Educaci6n. Guatemala City,
+Guatemala C.A. pp. 48-49.)The basic education system of Guatemala
+includes:a preprimary level for children of ages 5 and 6 with two modes of
+instruction: bilingual and regular preprimary (Primaria de Parvulos); a
+primary level with six grades for children 7 through 12 years of age. The
+first three grades (grades 1-3) comprise the elementary cycle of primary
+education (Educaci6n Fundamental), and grades 4 through 6 make up the
+complementary cycle (Educaci6n complementaria). Adult primary education
+(Educaci6n Primaria de Adultos) is offered in a 4-year cycle, usually
+through evening classes; anda basic cycle of secondary education (Ciclo
+Basico de Educaci6n Media) with grades 7-9 for children of ages 13 to 15.
+The upper cycle of secondary education (Ciclo Diversificado de Educaci6n
+Media), with a diversified curriculum of two to three years, is not part
+of the basic education system.Despite recent efforts by the Government to
+expand access to basic education for the majority of school-age children,
+problems of coverage, equity and poor quality persist in the system.
+Guatemala ranks among the lowest in enrollment rates for all of Latin
+America. In 2000, gross enrollment for primary school children was 95
+percent and net enrollment was only 84 percent (MINEDUC, Anuario
+EstadUstico de la Educaci6n, 2000). These figures represent a significant
+improvement in access to the system if one considers that the respective
+figures were 84 (gross) and 69 (net) in 1995. For girls, the indicators
+are usually worse than for boys, a pattern that is common for access to
+preprimary and primary education in rural and urban areas. It has also
+been established that net enrollment for 7 year olds (first grade) was
+only 75 percent, indicating that significant improvement is still needed.
+There are still some departments where the net enrollments are between 50
+and 55 percent (Alta Verapaz, Huehuetenango, Totonicapan and Solola).       By
+contrast, only three departments have net enrollments above 90 percent
+(Retalhuleu, Jutiapa, Santa Rosa.) More than 70 percent of students in
+rural areas are older than their corresponding grade level, compared to 50
+percent in the urban areas, (Funes 2000).According to MINEDUC's
+statistics, (2000), there are about 1.87 million children in the age
+bracket 7-12, of which 164,032 are girls who have no access to the primary
+school system. Annual dropout rates average 11.4 percent and are highest
+in the first and second grades with 17.3 percent and 10.3 percent
+respectively. Grade repetition is also high at an average of 17 percent
+for boys and 15 percent for girls. Again the highest level of grade
+repetition is in the first grade with 30.2 percent and 27.5 percent for
+boys and girls respectively. Age-grade correspondence is low: at the
+national level only 31.6 percent of the students are enrolled in the grade
+corresponding to their age. In the rural areas the figure is 26.6
+percent. The current educational situation in Guatemala must be seen
+within the context of the country's great ethnic, linguistic and cultural
+diversity. Over twenty (20) Mayan Indian languages are spoken in
+Guatemala. Most of the speakers of these indigenous languages reside in
+the western and northern highlands, where they maintain strong social and
+historical attachments to their communities of origin, robust spiritual
+and cultural traditions, a profound knowledge of the environment and
+natural resources, a millenarian agricultural tradition, and a
+world-renowned arts and crafts tradition.Along with the majority
+Mayan-speaking population (Kiche, Kakchiquel, Mam and Keqchi are the
+- 3 -
+
+
+
+largest ethnolinguistic groups), numerous other peoples and cultures
+reside in Guatemala. Among these are the Afro-Caribbean or
+Garifuna-speaking people on the Atlantic Coast; a small enclave of
+Xinca-speaking people near the border with El Salvador; and a large
+Spanish-speaking or Ladino population which resides in Guatemala City and
+throughout the country in both urban and rural areas.The 1985 Guatemalan
+Constitution recognizes the rights of all citizens and ethnic groups to
+participate freely in the social and cultural life of their communities
+and the nation, as well as to preserve their specific cultures, languages
+and identities. These rights are reaffirmed and stipulated in the various
+Peace Accords which were signed by the Guatemalan government and the
+Guatemalan National Revolutionary Unity (URNG) during the 1990s,
+particularly the Accords relating to the Identity and Rights of the
+Indigenous Peoples (March 1995) and the Socio-Economic and Agrarian Accord
+(May 1996). The Accord on the Identity and Rights of Indigenous Peoples
+recognizes the multi-ethnic, multi-lingual and pluri-cultural
+characteristics of Guatemalan society and calls for several reforms to
+protect the identities and cultures of the country's large indigenous
+population. IssuesThe principal sector issues for both the educational and
+cultural sectors are well described in the Government Plan for the
+Education Sector 2000-2004 (July, 2000) and the Principles, Policies and
+Strategies of the Ministry of Culture and Sports: 2000-2004 (September
+2000). They can be summarized as follows:(a)    Coverage.   Despite
+significant improvements during the last four years, access, repetition
+and drop-outs are still serious problems faced by MINEDUC. It is
+estimated that only 70 percent of the adult population are literate,
+however, in the rural areas, especially among indigenous groups, literacy
+can be as low as 20 percent. Net enrollment at the primary level remains
+still very low in Jalapa (65 percent), Huehuetenango (70 percent), Alta
+Verapaz (70 percent), and Sacatepequez (71 percent). Girls still have
+lower enrollment and promotion rates, especially in rural indigenous
+areas. At the national level, MINEDUC's statistics for the year 2000 show
+that net enrollment at the primary level is only 84 percent. (MINEDUC,
+Anuario EstadUstico de la Educaci6n,2000.) It is estimated that
+approximately 17 percent of the students enrolled in primary rural schools
+are repeating the year and 18 percent are not promoted to the following
+grade. (b) Quality. Most public schools lack basic quality education
+materials (textbooks, libraries, learning and teaching aids). Appropriate
+bilingual materials are not available to rural schools attended by
+students whose native language is not Spanish. Most rural schools are
+multigrade (one or two teachers instructing several grade levels), yet
+only a few teachers have been trained in bilingual education and/or
+multigrade methodologies. Many of the teachers are of Mayan background but
+their command of the language is mostly verbal, leaving few with skills in
+reading and writing. Teacher training and other higher level institutions
+use traditional teacher training processes favoring rote learning and fact
+memorization. The education system needs to modernize classroom teaching
+methods and train teachers in the use of more participatory teaching
+methods in the classroom that involves active student learning and
+development of cognitive skills. (c ) Promoting Cultural Diversity and
+Pluralism. For various historical and socio-political reasons (not the
+least of which was the civil strife that affected the country between 1960
+and 1990), Guatemala has found it difficult to benefit from its social and
+cultural diversity and make it the basis for sustainable development. One
+of the major challenges that Guatemala faces is how to build upon its
+- 4 -
+
+
+
+cultural diversity, making it the basis of its development policies and
+programs rather than having it serve as a continuing source of social
+tension and conflict. As noted in such publications as the World
+Commission on Culture and Development report, Our Creative Diversity
+(UNESCO, 1996), the recognition and respect for cultural diversity can
+serve as an endogenous engine of economic development in multi-ethnic and
+multi-lingual countries such as Guatemala and provide the basis for a
+lasting and enduring peace. The educational system, with its power of
+inculcating ethical and civic values in children and youth, has an
+extremely important role to play in the recognition and promotion of
+cultural diversity and pluralism, as well as in the creation of a "culture
+of peace" in Guatemala.(d)    Decentralization/Modernization. While
+progress has been made by MINEDUC, with support from an on-going
+Bank-financed project and from other donors, in the decentralization of
+functions to the departmental level and modernization of the structure,
+processes and working tools, several unfinished tasks remain. MINEDUC's
+institutional and financial capacity to respond to the country's education
+problems is weak. Traditional, centralized, and inefficient
+decision-making still limits departmental and local participation in
+school administration, failing to integrate local concerns in the
+process. The education system is still hampered by limited managerial,
+administrative and financial capacity, particularly at the departmental
+and local levels. In addition, the national student assessment system,
+which has successfully carried out student testing, has yet to devise
+effective mechanisms to disseminate evaluation results and provide
+feedback for education quality improvement. In spite of improvements in
+the gathering, processing, analyzing and reporting of key education
+statistics, there is a still a need for improving the quality of the
+process, the instruments used and the dissemination strategies considered.
+In regard to the upgrading of the information system (hardware and
+software), it is necessary to continue the provision of the newest
+technology available and to offer training at the central and departmental
+levels to those in charge of implementing the system. At the departmental
+level all of the directorates will be connected via internet with the
+central level. Special attention will be given to improving the quality
+of the process followed to gather the information requested by the
+statistics unit.Government StrategyGiven the above issues, MINEDUC's basic
+education strategy focuses on providing universal coverage for the first
+six grades, and pays particular attention to bilingual education and
+targeting for gender equity, indigenous populations and those groups
+affected by decades of conflict; improved quality, internal and external
+efficiency; institutional and administrative modernization and
+decentralization, including greater participation of NGOs and the local
+community. As a result of the above mentioned situation, the Government in
+accordance with the Peace Accords is fully committed to: (i) increase the
+economic resources devoted to education; (ii) make the necessary
+adjustments to education content having cultural and pedagogical
+pertinence; (iii) increase coverage at all levels of the education system
+emphasizing bilingual education in rural areas; (iv) train social
+organizations at the municipal, regional and national levels to promote
+participation in socioeconomic development; (v) design scholarship
+programs, vouchers and other incentives to allow students with special
+economic needs to remain in school; (vi) design and implement continuous
+in-service teacher training courses aimed at teachers and education
+administrators; and (vii) respond to the cultural and linguistic diversity
+- 5 -
+
+
+
+of the country acknowledging and strengthening the cultural identity and
+values of the indigenous peoples including indigenous educational concepts
+in the national curriculum (see Plan de Gobierno Sector de Educaci6n
+2000-2004, pp. 5-6; July 2000) .   In the same document (page 16) MINEDUC's
+strategy identifies six priority actions in which most of the resources
+will be concentrated: (i) literacy and post-literacy actions; (ii)
+universalization of primary school; (iii) generalization of intercultural
+and bilingual education; (iv) curriculum transformation for improving
+education quality; (v) specialization and upgrading of teacher skills; and
+(vi) decentralization and modernization of the education system.    It has
+also been established that the MINEDUC will continue supporting PRONADE
+schools as the main model through which the expansion of coverage
+(universalization) will be accomplished in rural, isolated communities.
+The PRONADE program, supported by an on-going Bank loan, is based on an
+education delivery model that has been highly effective in increasing
+access to the first three years of primary education in rural areas. This
+model was originally selected by the MINEDUC and the Commission for
+Education Reform as a means to accomplish the objectives set forth in the
+Peace Accords, as well as to effectively address the poor access levels
+and educational attainment in the rural areas where the majority of the
+population is indigenous. (see Annex 2 for additional background
+information on PRONADE.)Along with these educational reform efforts, the
+Government, through the MCS, has been developing a more proactive approach
+to the promotion of cultural diversity and pluralism, as reflected in the
+National Constitution and the Peace Accords. The Guatemalan Government
+recently nominated a well-known Mayan educator as the new Minister of
+Culture and Sports. Three months after taking office, the new Minister,
+in collaboration with the MINEDUC and with the support of the UNDP, UNESCO
+and the World Bank, organized the first National Congress on Cultural
+Policies in Antigua, Guatemala. The National Congress brought together
+over 600 people (many of them school teachers, representatives of
+indigenous and civil society organizations, and academic specialists) to
+discuss several important themes relating to the social and cultural
+development of the country.A major outcome of the National Congress was
+the recommendation that a national cultural strategy be prepared, in line
+with the growing emphasis upon multiculturalism and intercultural
+understanding among ethnic groups contained in the Peace Accords. The
+principles and policies behind this strategy were formulated in the months
+following the National Congress, and are currently being discussed with
+the MINEDUC and other government ministries. An Advisory Committee
+(Comite de Seguimiento) has also been set up comprised of academic, civil
+society, indigenous, and private sector representatives in order to
+monitor the implementation of the MCS strategy. The strategy itself calls
+for a major institutional reorientation of the MCS, greater collaboration
+with other government ministries such as MINEDUC, more systematic
+participation of civil society and the private sector in the cultural
+field, and a decentralization of a major part of MCS programs to the
+municipal and local community levels (see, Principios, PolUticas y
+Estrategias del Ministerio de Cultura y Deportes: 2000-2004 (MCS,
+September 2000).
+2. Objectives
+This project is a continuation of the ongoing Basic Education Reform
+Project which supports the Ministry of Education's (MINEDUC) effort to
+achieve universal access to primary schooling; to improve equity and the
+- 6 -
+
+
+
+quality of education primarily in rural, indigenous areas of Guatemala;
+and to decentralize and modernize the education administration system.In
+the Government's recently published education strategy: Government Plan,
+Education Sector, 2000-2004, it is clearly stated that increasing
+coverage and enhancing the quality of services provided are the main
+strategies to be followed by MINEDUC as part of the reform process being
+discussed. In the same document it has been established that within this
+framework the following are the main priorities: (i) literacy and
+post-literacy actions; (ii) universalization of primary school; (iii)
+generalization of intercultural and bilingual education; (iv) curriculum
+transformation for improving education quality; (v) specialization and
+upgrading of teachers; and (vi) decentralization/modernization of the
+education system.To assist the Government with the implementation of said
+strategy, the proposed project has the following development
+objectives:(a) Improve coverage and equity at the primary school level
+through the expansion and consolidation of PRONADE schools (National
+Community-managed Program for Educational Development) and by providing
+scholarships primarily for indigenous girls in rural communities.(b)
+Improve efficiency and quality of primary education by supporting
+bilingual education, providing textbooks and didactic materials in 18
+linguistic areas; expanding multigrade schools; and improving teacher
+qualifications. (c) Facilitate MINEDUC and the Ministry of Culture and
+Sports (MCS) to jointly design and execute a program to enhance the goals
+of cultural diversity and pluralism contained in the National
+Constitution, the Guatemalan Peace Accords, and the April 2000 National
+Congress on Cultural Policies. (d) Assist decentralization and
+modernization of MINEDUC by supporting on-going efforts to strengthen the
+organization and management of the education system.
+3. Rationale for Bank's Involvement
+The World Bank has accumulated vast experience in the region implementing
+education reforms where communities play a significant role. The
+experiences gained in El Salvador and Honduras, where the Bank is also
+financing a similar type of strategy, have been and will be of great value
+in Guatemala. Furthermore, the World Bank has been quite instrumental in
+financing multigrade teaching in the region. Guatemala will benefit from
+the experience gained by the expansion of multigrade schools in several
+Latin American countries such as Chile, Brazil, the Dominican Republic, El
+Salvador, Honduras, Panama, and Colombia.The Peace Accords signed in
+December 1996 are an on-going process. The World Bank involvement with
+the proposed project will reiterate their importance and will continue to
+contribute to achieving the main goal established under the Peace Accords
+for the education sector. The previous favorable experiences implementing
+World Bank supported projects within Guatemala, especially the ongoing
+Basic Education Reform Project, will help to ensure a relatively smooth
+implementation process. Preparation as well as plans for the
+implementation of the new project have taken into consideration the
+lessons learned during the last years of successful project
+implementation.
+4. Description
+The project contains four main components. The first component,
+Universalization of Primary Education, will continue to support the
+Government's effort to ensure universal access to primary education for
+all Guatemalan children. It includes two subcomponents: (i) expansion of
+- 7 -
+
+
+
+enrollment capacity of primary schools in rural areas and marginalized
+communities through the PRONADE program; and (ii) economic
+assistance\scholarships for girls coming from poor families to attend
+school. The second component, Improving the Quality of Education, will
+focus on augmenting the quality and efficiency of primary education. This
+goal is supported by three subcomponents: (i) strengthening of multigrade
+strategies and bilingual education primarily in rural communities; (ii)
+provision of educational materials (student guides and textbooks) for
+monolingual and bilingual children; (iii) training of teachers in
+multigrade methodologies, as well as in content areas and development of
+curricula for bilingual schools. The third component, Cultural Diversity
+and Pluralism, will support the institutional strengthening of the MCS in
+order to coordinate more effectively with the MINEDUC and other government
+agencies. It includes three subcomponents: (i) institutional
+strengthening of the MCS, including establishment of a Policy and Planning
+Unit and the preparation, in coordination with the MINEDUC and other
+agencies, of a National Cultural Development Plan; (ii) deconcentration of
+MCS cultural education services to the municipal level; and, (iii)
+development of a National Cultural Resources Information System (NCRIS) to
+include modernization of the current cultural resources information
+systems in the MCS, provision of information services to museums and
+libraries, and establishment of a cultural resources database on the
+diverse ethnic and linguistic groups of Guatemala. The fourth component
+is Decentralization and Modernization. To achieve this goal, the project
+will continue to support: (i) improvement of the managerial and
+administrative capacity of the Ministry of Education, decentralization at
+the departmental and local levels, with special emphasis on strengthening
+the General Directorate of Bilingual Education (DIGEBI); (ii) training of
+community associations (COEDUCAs) to manage and organize PRONADE schools;
+and (iii) continued development and updating of an Education Management
+Information System (EMIS).
+I. Universalization of Primary Education.
+II. Improving the Quality of Education.
+III. Cultural Diversity and Pluralism.
+IV. Decentralization and Modernization of MINEDUC.
+5. Financing
+Total ( US$m)
+Total Project Cost 82.5
+6. Implementation
+Project ManagementThe Ministry of Education will have the overall
+responsibility for project implementation. The Project Coordination Unit
+(PCU), that is currently coordinating the implementation of the ongoing
+Basic Education Reform Project, will continue to function under the same
+institutional and operational arrangements for the proposed project. The
+small group of experts within the PCU already trained in procurement,
+financial management and disbursement issues will continue supporting
+project implementation. In accordance with the Project Implementation Plan
+(PIP) to be discussed and approved each year, the respective line
+divisions within MINEDUC in close collaboration with the PCU, will be in
+charge of executing each of the components. The PCU will also coordinate
+activities with the MCS, working closely with the Minister of the MCS and
+the Policy and Planning Unit in the development of Annual Work Plans for
+the Cultural Diversity and Pluralism Component and in the contracting of
+- 8 -
+
+
+
+consultants to carry out activities. PHRD funds have been used to prepare
+a report with recommendations for the institutional strengthening of the
+MCS and on ways to increase its capacity in the areas of program planning
+and coordination with other government agencies, including the MINEDUC.
+The PCU will also be responsible for follow-up, monitoring and evaluation
+of project implementation. Project financial management and auditing. The
+PCU has in place adequate financial management arrangements for the
+ongoing Basic Education Reform Project. An action plan has been prepared
+with the purpose of enhancing these arrangements and adapting them to the
+proposed new project. Substantial completion of the financial management
+action plan will be a condition of loan effectiveness.Quarterly project
+management reports (PMRs), in formats to be agreed between the Government
+and IBRD, will be prepared and submitted to IBRD 45 days after the end of
+each calendar quarter. Shortly after effectiveness, an independent audit
+firm acceptable to IBRD will be engaged to carry out the covenanted yearly
+audit, in accordance with International Standards on Auditing (ISAs) and
+terms of reference to be approved by IBRD. Audited project financial
+statements would be furnished to IBRD no later than June 30 of the year
+following the period under review.Further details are found in Annex 6.
+7. Sustainability
+The government's political willingness and ability to maintain required
+levels of funding for basic education are the most important factors
+related to the sustainability of project investments. Increasing
+enrollment, even with corresponding improvements in system efficiency,
+requires important on-going financial contributions from the central
+government to cover recurrent expenditures, including provision of
+learning materials and the scholarship program to promote the enrollment
+and maintain the attendance of girls in school. A second factor that
+would affect the sustainability of project benefits is inadequate and
+limited institutional capacity in the MINEDUC and MCS to provide
+continuity to project activities, particularly after a change in
+administration. Financing of recurrent costs, including PRONADE teacher
+salaries would be carried out on a declining basis to ensure that the
+government gradually assumes these costs. This has been a successful
+approach under the existing Basic Education Reform Project, where the
+Government has assumed responsibility for salaries at a faster pace than
+originally expected.
+8. Lessons learned from past operations in the country/sector
+The main lesson learned with the ongoing Basic Education Reform Project is
+that a simple, straight forward project design is fundamental to achieving
+successful implementation. From an operational point of view, the PRONADE
+component of the ongoing project demonstrates that despite high illiteracy
+levels and low managerial skills, communities can be empowered to
+successfully and transparently manage human as well as economic resources
+transferred to schools. The community's children are the beneficiaries of
+well-managed schools, thus the enthusiasm and incentive to maintain and
+manage the PRONADE schools are a natural combination. Research has shown
+consistently (Psacharopoulos and Patrinos, 1994; Velez and Patrinos, 1996)
+that language of instruction is a fundamental variable explaining
+students' achievement and retention particularly in those settings where
+students are taught in their native language during the first years and
+progressively are introduced to the second language (Spanish). This
+project will continue supporting "Intercultural Bilingual Education" by
+-9-
+
+
+
+providing appropriate curriculum materials for most linguistic areas,
+promoting teacher training in bilingual education, and strengthening the
+management of the Bilingual Education Directorate.It has been demonstrated
+in developed and developing countries alike that multigrade schools in
+rural isolated settings can provide quality education if teachers are well
+trained in methodologies and strategies for addressing several grade
+levels usually in the same classroom and if students have access to
+student workbooks and other didactic materials. In Guatemala, a pilot
+multigrade experience supported by USAID has demonstrated that it is an
+alternative worth expanding throughout the country. The proposed project
+will expand the pilot including monolingual as well as bilingual
+multigrade schools.Reliable and timely information about personnel at the
+central, departmental and local levels; key education statistics and their
+evolution; and financial and accounting systems are essential tools
+required by any administration as part of the planing and policy making
+process. The proposed project will continue supporting the updating and
+quality improvement of the EMIS.      Several other lessons learned from
+the current project include: (i) continuity of policies has an impact on
+education, especially when there is a change in government and the
+Ministry of Education; (ii) the Ministry of Education does not have to be
+the executor of the activities. Universities, communities, and
+contractors have been successful in implementing activities where it is
+clear that they have a comparative advantage; (iii) the pilots of
+monolingual and bilingual multigrade schools have been very effective in
+introducing more modern and alternative methods of teaching as well as
+providing pedagogical answers to the needs of the schools. The proposed
+project will build upon the achievements of the pilots and seek to expand
+the PRONADE program to provide more children with access to education in
+the indigenous and rural communities.
+9. Program of Targeted Intervention (PTI)     Y
+10. Environment Aspects (including any public consultation)
+Issues     :  It is not expected that the project will have any
+negative impact on the environment, since it will not finance
+rehabilitation or construction of schools.
+11. Contact Point:
+Task Manager
+Carlos A. Rojas
+The World Bank
+1818 H Street, NW
+Washington D.C. 20433
+Telephone: 202-473-6452
+Fax: 202-522-1202
+12. For information on other project related documents contact:
+The InfoShop
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 458-5454
+Fax:        (202) 522-1500
+Web: http:// www.worldbank.org/infoshop
+- 10 -
+
+
+
+Note: This is information on an evolving project. Certain components may
+not be necessarily included in the final project.
+This PID was processed by the InfoShop during the week ending May 11, 2001.
+- 11 -
+
+
+

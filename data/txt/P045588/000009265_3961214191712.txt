@@ -1,0 +1,1762 @@
+Document of
+The World Bank
+Report No. T-6977-GH
+TECHNICAL ANNEX
+REPUBLIC OF GHANA
+PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+OCTOBER 10, 1996
+Macroeconomics Group 4
+West Central Africa Department
+Africa Region
+
+
+
+CURRENCY EQUIVALENTS
+US$1 = 1680 Cedis (September, 1996)
+FISCAL YEAR
+January I - December 31
+ABBREVIATIONS AND ACRONYMS
+ADMU         Aid and Debt Management Unit
+AMIS         Aid Management Information System
+ASYCUDA   Automated System for Customs Database
+BoG         Bank of Ghana
+BPEMS        Budget and Public Expenditure Management System
+CEPS         Customs, Excise, and Preventive Services
+CIDA         Canadian International Development Agency
+CAGD        Controller & Accountant General's Department
+CPAR         Countrv Procurement Assessment Report
+CS-DRMS   Commonwealth Secretariat's Debt Recording and
+Management System
+EMS         Economic Management Support Project
+ERP          Economic Recovery Program
+EU           European Union
+FAD          Financial Administration Decree
+FAR          Financial Administration Regulations
+FIMTAP       Public Financial Management Technical Assistance Project
+FINSAC      Financial Sector Adjustment Credit
+GDP          Gross Domestic Product
+GoG          Govemment of Ghana
+ICB          Intemational Competitive Bidding
+IPPD         Integrated Personnel and Payroll Database
+IRS         Internal Revenue Service
+LIB          Limited International Bidding
+MDA          Ministries, Departments, and Agencies
+MTEF         Medium-Term Expenditure Framework
+NaTCAP       National Technical Cooperation and Assessment Program
+NCB          National Competitive Bidding
+NDPC        National Development Planning Commission
+NRS          National Revenue Secretariat
+ODA          Overseas Development Administration
+PER          Public Expenditure Review
+PFP          Policy Framework Paper
+PSAC         Private Sector Adjustment Credit
+PUFMARP   Public Financial Management Reform Program
+SAIS        Structural Adjustment Institutional Support Project
+VAT          Value-Added Tax
+
+
+
+REPUBLIC OF GHANA
+PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+TECHNICAL ANNEX
+Table of Contents
+Page No.
+I.     THE PROJECT                                                             1
+A. Background                                                           I
+B. Detailed Project Description                                         I
+Budget Preparation Sub-System                                    2
+Problem                                                  2
+Proposed Component Objectives and Activities             4
+Budget Implementation Sub-system                                 5
+Problem                                                  5
+Proposed Component Objectives and Activities             5
+Accounting Sub-System                                            5
+Problem                                                  5
+Proposed Component Objectives and Activities             6
+Cash Management Sub-System                                       6
+Problem                                                  6
+Proposed Component Objectives and Activities             7
+Aid and Debt Management Sub-System                               7
+Problem                                                  7
+Proposed Component Objectives and Activities             8
+Revenue Management Sub-System                                    8
+Internal Revenue                                              8
+Problem                                                  8
+Proposed Component Objectives and Activities             8
+Customs, Excise, and Preventive Services                      9
+Problem                                                  9
+Proposed Component Objectives and Activities             9
+Indirect Tax Reforms                                          9
+Problem                                                  9
+Proposed Component Objectives and Activities             9
+National Revenue Secretariat                                  10
+Problem                                                   10
+Proposed Component Objectives and Activities              11
+Audit Sub-System                                                 11
+Problem                                                   11
+Proposed Component Objectives and Activities              11
+Procurement Sub-System                                           12
+Problem                                                   12
+
+
+
+ii
+Proposed Component Objectives and Activities             12
+Information Technology Strategy                                 12
+Application Software                                     13
+Hardware                                                 1 3
+Human Resource Development                                      13
+Legal Framework Revision                                        14
+Development of Manuals                                          14
+Communications Strategy                                         15
+Inception Workshops                                      15
+PUFMARP Newsletter                                       15
+Project Management                                              15
+C. Project Monitoring and Evaluation                                   16
+II.    PROJECT ADMINISTRATION AND IMPLEMENTATION                              17
+A. Project Implementation                                              17
+Steering Committee                                              17
+PUFMARP Implementation Team                                     17
+B. Bank Role in Project Implementation                                 18
+C. Implementation Schedules                                            18
+D. Project Financing and Costs                                         19
+Project Financing                                               19
+Project Costs                                                   19
+E. Procurement Arrangements                                            20
+Procurement of Goods                                            20
+Procurement of Consulting Services                              21
+Procurement of Civil Works                                      21
+Prior Review                                                    21
+F. Disbursement Plan                                                   21
+G. Accounts, Audit, and Reporting                                      21
+Annexes
+A. Performance Indicators                                              22
+B. Schedule of Project Activities                                      26
+C. Terms of Reference for Consultancy Services for the
+Design and Implementation of BPEMS                                 31
+
+
+
+1.     THE PROJECT
+A.    Background
+I .    Since the start of the ERP, the Government of Ghana (GoG) has, under vanrous donor-
+funded programs, sought to improve its financial management. Under the Structural Adjustment
+Institutional Support Project (SAIS)' which accompanied and complemented the Bank's first
+Structural Adjustment Credit (SAC I), progress was made in, among other areas, external debt
+management, tax administration, and policy analysis. The Economic Management Support
+Project (EMS), which was approved by the Board in 1991, further sought improvements in
+budgeting, auditing, expenditure reporting, and tax administration. In particular, it supported the
+introduction of an Integrated Personnel and Payroll Database (IPPD) which linked personnel
+information to payroll and allowed for the automated processing of the Government payroll and
+analysis of personnel information. The Debt Recording and Management System (DRMS),
+developed by the Commonwealth Secretariat, was installed and operationalized in the Aid and Debt
+Management Unit (ADMU) of the Ministry of Finance, the Bank of Ghana (BoG), and the
+Controller and Accountant-General's Department (CAGD). Customs administration was improved
+through the introduction of the Automated System for Customs Database (ASYCUDA) which was
+extended to the primary ports. The Financial Sector Adjustment Credit (FINSAC) has addressed
+institutional strengthening of the Institute of Chartered Accountants (ICA) and the banking sector
+by the introduction of accounting standards through the Ghana Accounting Standards Board and of
+new legislation improving financial reporting supervision on the part of the BoG. It has also
+supported a diagnostic study of the Audit Service which has come up with recommendations on
+enhancing the capabilities of the Audit Service. However, these efforts were of a piece-meal nature
+and were not guided by the requirements of an integrated financial management system.
+2.     The Government is now committed to implanting an integrated financial management
+system in the country. The motivation for this is from three sources. First, better financial
+management is critical to effective macroeconomic management and outcomes, particularly in an
+era of uncertain donor flows. Second, with Ghana adopting a democratic government since 1992,
+higher levels of accountability are perceived as critical to consolidating and sustaining the
+democratic process. The 1992 Constitution has set the framework for greater participation of
+citizens in society and has specifically defined the roles and responsibilities of the judicial,
+legislative and executive arms of Government to create the basis for maintaining the necessary set
+of checks and balances essential to a democratic society. Third, effective financial management,
+particularly at the decentralized local level, is a pre-condition to the implementation of the
+Government's decentralization program which is embedded in the Constitution.
+B.    Detailed Project Description
+3.    The Project will develop an integrated public financial management system in Ghana. This
+is an inter-related set of sub-systems which plans, processes, and reports upon financial resources,
+covers a broad spectrum of financial management areas, and is computer-based. The principal
+factor which "integrates" the system is a common, reliable, unified database to, and from which, all
+financial data flows and which is shared by all the financial users.
+1   Approved in 1987 and closed in 1993.
+
+
+
+2
+4.     The Project will support the development of eight critical components or sub-systems (the
+shaded boxes in Chart 1): (i) the budget preparation sub-system; (ii) the budget implementation
+sub-system; (iii) the accounting sub-system; (iv) the cash management sub-system; (v) the aid and
+debt management sub-system; (vi) the revenue sub-system; (vii) the procurement sub-system; and
+(viii) the auditing sub-system. Even though these eight components are functionally different, the
+first three components are logically united in their operations and the Project seeks to develop them
+as such. Thus, a comprehensive Budget and Public Expenditure Management System (BPEMS)
+wvill be developed which will integrate in a single common system the information systems for
+budget preparation, budget implementation, and accounting. The following sections provide a
+description of the individual components of the Project.
+Budget Preparation Sub-System
+5.     Problem. The current process of budget preparation has several weaknesses, some of
+which were identified by the 1993 PER. These weaknesses have generally led to a lack of
+ownership of the budget by the sector ministries and has undermined the utility of the budget as an
+instrument for achieving national priorities and for managing the financial resources of the
+government.
+6.     Some of the main weaknesses in budget preparation are: (a) preparation of the recurrent
+budget on an incremental basis, i.e. by adding a certain percentage (based, for instance, on
+inflation) to the previous year's estimates of expenditures, without reviewing whether the particular
+activities are in line with government priorities or whether they are being implemented in the most
+cost-effective manner; (b) absence of a medium-term outlook, or a lack of forward planning, of the
+recurrent budget such that forward estimates of the recurrent costs of current policies and
+programs are not developed, (c) lack of critical review of the government's own priorities in the
+preparation of the development budget, and the absence of the estimation of its recurrent cost
+implications and whether sufficient funds will be available to cover these recurrent costs; and (d)
+lack of adequate budget guidance to the ministries, including the lack of hard expenditure ceilings
+in the budget guidelines reflecting the Government's expenditure priorities.
+7.     The above weaknesses in the budgeting process result in an inappropriate allocation of
+resources. The need for restructuring of public expenditures is particularly acute now because (a) a
+successful inflation management strategy is critically dependent on prudent public expenditure
+management; (b) strategies for economic reform and poverty alleviation (being developed by the
+Government will) require changes in the budget, both inter- and intra-sectorally; and (c) scope for
+additional revenue generation is limited and the future of donor flows increasingly uncertain.
+Hence, for an accelerated growth strategy, the efficiency of public expenditures is critical. 2
+2   In the short-term, such efforts may be constrained by the large size of wage and wage-related
+expenditures (the restructuring of which will need to await the outcome of the National Institutional
+Renewal Program-NIRP) and the interest burden.
+
+
+
+|                           ~~~~~~Chart 1: Ghana -Functional View of Public Financial Management 
+Function         Bftnk of     Debt         NDPC        Ministry of Finance                   C6AG                     Minstries, Departrnents Revenue Collection   Paylgg/gecv.  Audit Servlce
+Ghana   anaaernent                Budget ProP., Exec., Mfmt  Cash Managem nt, Treasury, Accountin        and Agencies    NRS, IRS, VAT Sectt, cEPS    Cnks
+Macro                                                                                                                       LEGEND    *- Arrows show Informatlornfows. FUtN lstndlc te
+Economic              Systems fbr Macro-Economic Forecasting                                                                                   M ctroric fows, dotted nes, palW basd flws
+Forecasting
+Aorecasting                                                    1                                                                 Focus Areas for the Tectscail Assistance Project
+Mahcro-Ecoromc Frmnwodrk
+"ita an                      hlla7Econorrc Frafwork                                                             MDAs                 Tax & CustomsI   |
+pr vics                                                                                                      | SY.  for Expend]         Systems        I                     A
+wndcurrnt                                                                                                                              (Policy)_F__ __L   Estimaton  (Foe*ack
+"W            F    ~         - Bu`dge Guike5ss                               Budget GOkies                                                                                  from
+Aurt
+Budget                                        Systems for Budge t                        Budtg Expew-    irop.sais
+Preparation  *                "tMD"- ation                                                                                                               I
+-            BaSe Me data                                                  Rov r Estknates                                        elvd Ft
+an
+Pro-jcds                                                                                       .. .. .
+D vknt rwrwt                                     Budget AppoPrbtkns
+...                                       ~~~~~~~~~~~~~~Approv d  t MOAs -                                            --.W
+..                     .                               ~~~~~~~~~~~~~~~~~~Noattocbn to Lhoe A9 ncbes \  xetr 
+Budget                                               systems                 Budget Appr.  Core Government               Execution Syst.
+Execution,                                                for                   & Tr            Accounting          ____,_P___
+Accounting                                              Budge                      nttrs           System                         _R_e __
+and Fiscal      me of                              Impentsttion                                                                   on an  W      ank R*conc lIaton
+Reporting   mirwndsw                                                                                                                                                      aig
+!rt  an PuoPc DetA                S,stems for lWontlorhng  4   ity rca Data an Projets
+tmnvstmntr Prjol s   *                                                   of hwvo  nwt Proi|                            Bank
+i~ ~ ~~~~~~~~~~~~~~~~~~~~.C  W tctat an projsc 1s                                                                        ||Systtms   *4
+Procurement
+Cash                      Cash Reiements             _.__|                           Ca            ._c ash _Exp_nd                             __F__  _
+Management
+Borwg Req  i kemuvl al 
+Debt             Aid & Debt Managmen
+Management P Lm                                        D o S rvic Pnts/La n r cs'
+|Tax & Custorns
+Revenue                                                                                                                                         Administration
+Management                                                                                                                                      |        stems
+ISy"    fo§r |                         Personnel iPayroll
+Personnel                                                PI:
+Management                    Auitlod posts           Management                Post cortro1
+Audit                                                                                      .              .            . --
+kti to ALJ      t 5t emo 
+
+
+
+4
+8.     Proposed Component Objectives and Activities. The basic objective of this component
+is to improve the planning and budgeting of public expenditures and thus contribute to
+strengthened fiscal policy formulation and implementation. For this component, the Project will
+focus on the following sets of issues:
+(a)      instituting a Medium-Term Expenditure Framework (MTEF) as part of the normal
+budgetary process. This would involve (i) formulating program categories for
+planning, budgeting and accounting; (ii) integrating of aid financed projects and
+programs; (iii) preparing expenditure program profiles for each MDA showing the
+object-wise outlays; (iv) ensuring that the forecasts are limited to current or existing
+policies; (v) specifying the price basis; (vi) formulating a budget calendar, indicating
+the preparation, review, and consolidation of these rolling forecasts; (vii) specifying the
+linkages between the forecasts and the annual budget; and (viii) preparing a computer
+software for the purpose. The coverage of the MTEF would be over both the recurrent
+and the development budget. This would complement the BPEMS system and would be
+fully integrated with it.
+Several elements of an MTEF already exist in Ghana. For instance, an aggregative
+three-year expenditure and revenue framework already exists under the Policy
+Framework Paper (PFP) for 1995-97 (which will be updated in 1996). Medium-term
+expenditure programming at the sectoral level either exists or is being developed in
+three key sectors (Roads & Highways, Health, and Basic Education) in the context of
+their sector investment programs which are being supported by the Bank. In addition, a
+rolling three-year Public Investment Program has been prepared by the Government for
+some years.
+(b)      improvements in the formulation of the annual budget. These improvements would
+include (i) preparation of a model budget circular indicating the possible expenditure
+ceilings within which MDA budgets have to be formulated; (ii) development of a
+software for the Budget Division that will facilitate budget preparation; (iii) preparation
+and installation of the budget software in the MDAs; (iv) arrangements for the eventual
+electronic transmission of budget proposals from MDAs to the Budget Division of the
+Ministry of Finance; and (v) program for consolidation and preparation of draft
+budgets.
+The budget software referred to above would enable the use of the historical, baseline,
+and ceiling data for budgeting purposes, facilitate the iterative process of budget
+submission, consolidation, revision, and finalization, provide for the tracking of the
+budget process from initial proposal to Parliamentary approval and printing, produce a
+master copy in a form suitable for presentation to Parliament and subsequent printing.
+It will also permit the development of implications of rolling expenditure plans and
+provide program profiles requiring special attention. This system will be an integral
+part of the BPEMS referred to above.
+(c)      the training of a core group of budget and finance staff from the Ministry of Finance,
+the NDPC, and the MDAs in the preparation of an MTEF and the annual budget, and
+in the use of the information systems in its preparation.
+
+
+
+5
+Budget Implementation Sub-System
+9.    Problem. The key problem identified in this area relates to deficient expenditure
+monitoring and control systems. The lack of timely, accurate, and current information on budget
+allocations, comnmitments and actual expenditures seriously undermines the Government's capacity
+for fiscal management, leading to an inefficient allocation of resources and obscuring public
+accountability. Even though the 1979 Financial Administration Decree (FAD) and the
+corresponding Financial Administration Regulations (FAR) set out the basic principles of financial
+reporting, monitoring, and control, these are often not adhered to. For instance, commitments are
+irregularly recorded and reported by the ministries. In the absence of such records, expenditure
+monitoring is resorted to on the basis of 'checks cleared' by the BoG or, as more recently, 'checks
+issued' by the CAGD. Because of delays inherent in each step of payment processing, the Ministry
+of Finance is able to monitor these expenditures only with considerable time lags undermining
+expenditure monitoring and control, and necessitating the imposition of across-the-board cuts
+towards the end of the year to maintain aggregate fiscal discipline. Undue delays in reporting make
+it difficult to promptly close and prepare the financial accounts of the Government.
+10.   Proposed Component Objectives and Activities. The basic objective of this component
+is to ensure an orderly and smooth implementation of the budget, while providing adequate
+flexibility to the MDAs to manage their programs and projects, as well as to enable the Ministry
+of Finance to maintain oversight that is in conformity with the requirements of macroeconomic
+stabilization. This will be developed through the following sets of activities under the Project.
+(a)   the design and implementation of a Budget Classification System which is consistent with
+the Chart of Accounts so as to permit the reporting of expenditures by the same codes as in
+the budget.
+(b)   the functional design of systems, processes, and procedures for expenditure controls. This
+will involve all aspects of expenditure control prior to making payment authorizations,
+such as checking for budget appropriations, prior commitments, verification for receipt of
+goods and services, as well as the development of reporting formats, necessary laws and
+regulations, and operating manuals.
+(c)   the implementation of a computerized system (including software) to support the above
+functional design. This system would be capable of providing timely, reliable, and up-to-
+date information on budget allocations, commitments, and actual expenditures, and would
+enable the production of periodic financial reports so as to permit monitoring and
+management of the actual expenditures by individual spending ministries and by CAGD.
+This system will be fully integrated with the Accounting Sub-System (see paras I 1-12
+below) and the software for the Budget Division mentioned above.
+(d)   the training of budget, finance, and treasury staff in the MDAs in budget implementation.
+Accounting Sub-System
+11.   Problem. The main problems identified in the accounting sub-system relate to (a) the lack
+of a unified Chart of Accounts; (b) ignorance, non-compliance with, and obsolescence of elements
+of the 1979 FAD and the 1979 FAR; and (c) the lack of an adequate cadre of trained, qualified
+accounting staff in the line ministries as well as in the CAGD. These problems, in conjunction
+
+
+
+6
+with those identified in budget implementation, were the prime reasons why the Consolidated
+Accounts of the Central Government were not produced annually over 1983-92 even though the
+annual submission of these is required by the FAD. It is only since 1993 that these accounts have
+been prepared annually.
+12.    Proposed Component Objectives and Activities. The objectives of the accounting sub-
+system are to (i) promote a system of accounting that shows the effective utilization of the
+financial resources of the country; (ii) provide a window to the public to ascertain the financial
+status of the Government; and (iii) serve as a major instrument in the formulation and
+implementation of Government policies. The project would seek to implant a modem accounting
+sub-system which classifies, records and analyses in a timely, reliable, and standard manner all
+government financial transactions. This sub-system would provide all basic financial transaction
+data and reports to all other sub-systems and will form the core of the financial management
+system being envisaged. Key activities would include:
+(a)    formulation of a comprehensive Chart of Accounts covering receipts, expenditures, and
+borrowing. The Chart of Accounts would be coded, reflect the function, MDA, program,
+and items of expenditure, reflect the needs of each MDA, facilitate a link-up with the
+development plan, and a link-up with the National Income Accounts.
+(b)   introduction of a common General Ledger System;
+(c)    reporting by Treasuries and consolidation of Treasury Reports by CAGD;
+(d)    revised formulation of annual operating statements to be provided by the CAGD;
+(e)    specification of Accounting Standards for Government. This would require the
+introduction of new regulations for government-wide accounting;
+(f)    eventual electronic link-up with the payroll and pension systems;
+(g)   installation of an effective payments system including electronic payments where possible;
+(h)   the training of government accounting staff in the new system.
+Cash Management Sub-System
+13.    Problem. Organized cash management does not exist in Ghana as is evidenced by the
+following problems: (a) there is no cash flow plan that readily identifies and matches the flow of
+revenues with those of disbursements, and provides forward estimates so as to form the basis for
+planning the Government's borrowing requirements. As a result, the BoG open market sales of
+treasury bills do not accurately reflect the liquidity position of the Government; (b) there is lack of
+a system for prompt reporting of transactions and balances of the Consolidated Fund to which all
+revenues are to be deposited and from which all disbursements are to be made; (c) there is a large
+float of revenues constantly in the system reflecting the lags in the transfer to the BoG of, for
+instance, revenues collected by the local offices of the revenue agencies and deposited with the
+local commercial banks. While these are cash assets of the Government, they are not represented
+as such as they are captured only when the revenues are transferred into the Consolidated Fund at
+
+
+
+7
+the BoG; and (d) there is no integration between the preparation and execution of the budget, and
+the determination of the cash requirements of the Government.
+14.    Proposed Component Objectives and Activities. The objective of the cash management
+component is to achieve an efficient provision of the cash resources of the Government while
+voiding the immobilization of resources and minimizing the costs of borrowing. This will be
+achieved through the introduction of a modem cash management system which will estimate,
+project, monitor, and manage revenue inflows and expenditure outflows. Key activities under the
+Project would include:
+(a)    preparation and submission of cash needs by MDAs;
+(b)    review by the Ministry of Finance of the above cash forecasts and linking them with
+resource flow forecasts;
+(c)    coordination of the releases made by the Ministry of Finance, MDAs, CAGD, and BoG;
+(d)    determining public sector borrowing requirements on the basis of the cash flows;
+(e)   the automation of the cash management system to permit real-time reconciliation between
+the CAGD, the Bank of Ghana, and the Budget Division of the Ministry of Finance;
+(f)   the development of a policy for the management of the cash assets including the rules
+governing BoG treatment of the Consolidated Account and the financial arrangement
+between the Government and the commercial banks on fees and interest payments.
+Aid and Debt Management Sub-System
+15.    Problem. The problems with respect to Ghana's debt management-both external and
+domestic-are pnrmanrly two: (i) A single set of accounts on the country's external debt does not
+exist. The ADMU of the Ministry of Finance is the unit charged, in principle, with the
+responsibility of recording, monitoring, and projecting data on external debt, and authorizing
+disbursements. Through Bank assistance under SAIS and EMS, the ADMU operationalized the
+CS-DRMS. The data coverage of this system is still incomplete. In particular, information on
+Government guarantees on external debt of parastatals and private agencies is not captured. As a
+result, knowledge of the GoG's external current (and potential) indebtedness is incomplete. This is
+a potentially problematic situation particularly vis-a-vis the timely payment of Ghana's external
+debt obligations; and (ii) The recording and management of domestic debt remains a BoG
+operation with no linkage with the ADMU. No database exists which captures government
+liabilities.3
+The same is true on the asset side of the Government's balance sheet (i.e. net lending by the
+Government), too. This is, however, being addressed under a separate Bank project, the
+Privatization and Public Enterprise Development Technical Assistance Project II, which is helping
+the development of a database to capture information on Government assets-loans to parastatals
+and private organizations.
+
+
+
+8
+16.   Proposed Project Goals and Activities. The objective of this component is to strengthen
+the management of the acquisition, servicing, and retirement ofpublic debt. Key activities would
+include:
+(a)   the integration of the external debt database between the ADMU, the BoG, and the CAGD
+(including the establishment of an electronic link-up) so as to provide a single complete
+status of Ghana's external debt. This is an activity in an advanced stage of completion.
+(b)   the full operationalization of an Aid (external loans and grants) Management Information
+System (AMIS), currently under development;
+(c)   the integration of information on technical cooperation, currently incorporated in the
+system of the National Technical Cooperation and Assistance Program (NaTCAP), with
+AMIS;4
+(d)   the strengthening of ADMU as the focal point for external debt data;
+(e)   the training of staff from the ADMU in areas such debt portfolio analysis, negotiation
+skills, international finance, budgeting, and information technology related to their
+operational work.
+Revenue Management Sub-System
+17.   The objective of the reformns in revenue management is to promote systems of
+administratiuon aimed at achieving greater taxpayer compliance and convenience, and to
+increase the efficiency of revenue collection, reporting, andforecasting. The problems and
+proposed reforms in each of the revenue sub-components is provided below:
+Internal Revenue
+18.   Problem. Significant strides have been made during the ERP in the collection of direct
+taxes by the Internal Revenue Service (IRS). Yet greater efficiency gains can be made and are
+increasingly important given the paucity of additional new sources of revenues. The following
+weaknesses have been identified in internal revenue: (a) the lack of a unique (and common to other
+tax agencies) tax identification number which would permit greater inter-agency collaboration and
+enable higher revenue collection. Currently, taxpayers are able to change districts freely and
+thereby avoid paying taxes or to have several sources of income but only declare income from one
+source; (b) the lack of adequate computer facilities which would allow for the timely integration of
+data from IRS offices across the country, and its expeditious deposit onto the Consolidated
+Account at the BoG; (c) weak capacity, particularly in the areas of tax audit, tax examination, and
+records management.
+19.   Proposed Component Objectives and Activities. The primary objective of the
+investments in the IRS would be to improve taxpayer compliance and to increase the efficiency of
+revenue forecasting, collection, and reporting by the IRS. To that end, the Project would support
+the following activities:
+4   The responsibility for NaTCAP has been transferred from the NaTCAP Secretariat to ADMU.
+
+
+
+9
+(a)   the development and introduction of a unique and common Taxpayer Identification
+Number (TIN);
+(b)   the development of a computer-based system for tax assessment, collection, reporting,
+follow-up, and analysis;
+(c)   the enhancement of tax audit, tax examination, records management capacities of the IRS;
+(d)    installation of an electronic internal audit system; and
+(e)   training in the areas of management, taxation, finance, accounting, budgeting, research,
+policy, and forward estimation.
+Customs, Excise, and Preventive Services
+20.    Problem. Customs administration in Ghana suffers from three main problems: (a)
+deficiencies in policies and procedures which hinder trade; (b) the lack of trained managers and
+customs officials; and (c) outdated nature of computer equipment for customs purposes. These
+problems have also been the subject of discussion under the Trade and Investment Gateway Project
+being developed by the Bank which will address the first two problems in its project design. This
+Project will support the third component which is more directly related to the flow of revenue
+information in a timely and reliable manner. However, the development and implementation of
+these computer-related needs would be contingent on the reforms in policies and procedures and
+developed by the Bank as a joint package.
+21.    Proposed Component Objectives and Activities. The primary objective of this project
+component is to enhance taxpayer convenience and to maximize the efficiency of revenue
+collection, reporting, andforecasting. To that end, the Project would support the following
+activities:
+(a)    an independent assessment of the customs data management system;
+(b)   the development, and implementation, of a medium-term strategy for the modernization of
+customs data management and related computer needs; and
+(c)   the provision of training in customs data management and related areas. Other types of
+training such as for management purposes would be provided under the Trade and
+Investment Gateway Project.
+Indirect Tax Reforms
+22.    Problem. The Value Added Tax (VAT) was introduced in Ghana in March 1995 as a
+replacement for the Sales Tax but had to be withdrawn within three months in the wake of protests
+against what was claimed to be its high inflationary impact. The Sales Tax was re-introduced
+along with a new Service Tax as a short-term measure while the indirect tax reforms were revisited
+and revised.
+
+
+
+10
+23.    Proposed Component Objectives and Activities. The objective of the new Indirect tax
+will be to maximize the generation of indirect tax revenue in the country while enforcing greater
+equity in taxation. This is to be achieved through a series of steps in the near- to medium-termn.
+These relate to:
+(a)    determining the organizational status of indirect tax administration. This would specify
+the roles and responsibilities of the various tax agencies in indirect tax collection, their size
+and structure, relationship with the other revenue agencies, and to questions of whether the
+new indirect tax should be collected by a separate entity with nationwide operations, or
+whether it should be amalgamated into one of the revenue agencies from which economies
+of scale in tax collection and reporting can be derived,
+(b)    reviewing the policy framework. This refers to companrsons with experiences in other
+African countries which have successfully introduced the VAT, such as Zambia and
+Uganda, review of the legal framework required, and a re-assessment of the publicity
+campaign or the communications strategy needed (including the training of staff)
+(c)    designing a new indirect tax. This relates to the design of the level and structure of the tax
+rate, the nature and extent of exemptions, and the phasing-in of the implementation of the
+tax.
+(d)    evaluating the current software for indirect tax collection. Changes in the design of the
+indirect tax, and the introduction of a TIN would require a re-evaluation of the software in
+use for the registration of taxpayers, and the processing of retums and refunds, and a likely
+purchase and customization of new software.
+(e)    preparing for the launch of indirect tax reforms. This would include preparation of the
+legislative bill that will need to be developed to introduce the new tax and the development
+of the publicity program.
+(f)    providing logistical support to the introduction of the new tax in terms of equipment and
+supplies.
+(g)    training of staff as well as taxpayers. The former need training in the technical aspects of
+the tax and its collection, while the latter in areas of tax payment and record-keeping.
+National Revenue Secretariat
+24.    Problem. The National Revenue Secretariat (NRS) was set up under the SAIS project as
+a central revenue coordinating and policymaking body. It was to be an autonomous body outside of
+the Ministry of Finance, under a Cabinet Minister. It was charged with overseeing improvements in
+tax collection, developing analytical capacity for tax policy analysis, formulating tax and revenue
+policy, and preparing regular revenue estimates and projections. This was part of the "enclave"
+approach to tax and customs administration in Ghana which Bank reviews have identified it as one
+of the successful reform initiatives and which spearheaded the increase in tax revenues from a 6.5
+
+
+
+11
+percent of GDP in 1984 to 16.2 percent of GDP by 1994.5 But since then, changes in management
+leadership and the incorporation of the NRS into the Ministry of Finance as a revenue unit have
+obscured its function and identity, and undermined its utility.
+25.    Project Component Objectives and Activities. The objective of this component would
+be to clarify the role of the NRS and its relationship with the other revenue agencies and the
+Ministry of Finance. The Project would support:
+(a)    an independent assessment of the organizational status and role of the NRS, including its
+relationship with the other revenue agencies, with a view to making recommendations for a
+rational and efficient solution.
+Audit Sub-System
+26.    Problem. Audit requirements in Ghana are covered by the 1972 Audit Service Decree, the
+1979 FAD, and, to a certain degree, by the 1992 Constitution. In October 1995, Coopers &
+Lybrand, Accra, began a diagnostic study of the Ghana Audit Service-financed under the Bank's
+Financial Sector Adjustment Credit (FINSAC)-which conducts external audits. Several problems
+have been identified including weak technical skills and professional development, deficiencies in
+the professional mix of staff, lack of use of computer technology, and inadequacy of logistics and
+supplies. Internal audit also remains very weak. The FAD empowers the Auditor-General to make
+arrangements for carrying out internal audits but concerns over potential conflict of interest
+prompted the Auditor-General to assign the internal audit function to the Controller and
+Accountant-General's Department in 1987. But this is also an unsatisfactory arrangements as the
+accountants are now the internal auditors also.
+27.    Proposed Component Objectives and Activities. The objective of this component is to
+promote the timely and effective audit of transactions to ensure that resources are being usedfor
+the specified purposes. Modern auditing seeks to attain the highest level of accountability and
+transparency in the public sector through the implementation of the internal audit of accounts and
+financial operations performed by qualified personnel reporting to the chief executive officer of the
+institution, and a posterior external audit performed by a qualified supreme audit institution that is
+legally, financially, and politically independent of the executive branch and reports to an elected
+legislative body representing citizens in general. In pursuit of these ends, the Project would
+support the following activities:
+External Audit
+(a)    development of national Audit Standards (including electronic delinquency);
+(b)    specifications of Audit Reports;
+(c)    introduction of some value for money audit;
+See, for example, The World Bank, 1996, "The Enclave Approach to Tax and Customs
+Administration in Ghana", mimeo, Africa Technical Department (Capacity Building Division) and
+The World Bank, 1995, "Designing Technical Assistance Projects: Lessons from Ghana and
+Uganda". OED Precis No. 95.
+
+
+
+12
+(d)    on-line access to the budget implementation reports;
+(e)   logistical support; and
+(f)   training.
+Internal Audit
+(a)   institution of effective internal audit,
+(b)    reporting on internal audit;
+(c)   institutional arrangement for internal audit.
+Procurement Sub-System
+28.    Problem. To maximize expected gains in transparency and efficiency, the reforns of
+public financial management would benefit from complementary reforms in the public sector's
+procurement policies. The current procurement practices suffer from various deficiencies which
+were recently diagnosed by a Bank report.6 Two key deficiencies are: (a) the multiplicity of
+practices for the procurement of goods and services. The only formal rules and regulations are
+incorporated in the Ghana Supplies Commission (GSC) Law which conducts no more than a
+quarter of all public procurement in the country. Other procurement agencies use Bank and other
+donors procurement guidelines. While this serves immediate needs of all concerned, it exposes the
+country to potential problems when the country is required to depend on its own laws for
+remedying procurement disputes and issues. In addition, even the current practice leaves bare the
+area of local procurement and prevents the country from using National Competitive Bidding
+(NCB) procedures in Bank-financed contracts; and (b) lack of timely processing and reporting to
+the CAGD on public procurement, largely on account of manual processing of all purchases and
+payments.
+29.    Proposed Component Objectives and Activities. The objective of this component is to
+streamline the procurement of goods, works, and services, and establish an effective monitoring
+and tracking system. The Project would support the following:
+(a)   the review of public procurement practices in Ghana with a view to formulating a national
+procurement code and establishing mechanisms for monitoring compliance with the code.
+Information Technology Strategy
+30.    The Project would support the development of a strategic plan for the use of computer-
+based financial management systems. This strategy would cover (i) the development of the
+technology specifications to be used across Government-hardware, interface between various
+systems, and communication networks to be used, and (ii) the development of a global strategy for
+maintaining and upgrading the IT systems. The strategy will require that the technology used is
+6   The World Bank, 1996, Ghana: Country Procurement Assessment Report, March.
+
+
+
+13
+simple, breeds greatest familiarity with the potential users, and allows for interface between the
+various components or sub-systems. In general, the following principles will be followed:
+(a)    use application software packages already existent in the market, with the required
+customization;
+(b)    select application packages that run under UNIX and use a Relational Database
+Management System (RDBMS); and
+(c)    set up the hardware in a Local Area Network (LAN) shape, interconnecting the different
+LAN servers in a distributed architecture.
+31.    Application Software. For each project component, the GoG will try to identify the
+application software package already existent in the market that most closely satisfies its data
+processing needs. This package should be able to run on computers of different capacity in
+accordance to the volume of transactions at each location. In addition, to avoid hardware
+restrictions, the software will follow an "open system" concept to ensure portability to different
+hardware platforms. In practice, the environment that comes closest to this concept is the UNIX
+operating system; consequently, the software package will run under UNIX. In order to facilitate
+the use of the package by the GoG, it would be desirable that the application would use an
+RDBMS and that it was developed using a Fourth Generation Language (4GL). Furthernore, use
+of a Graphical User Interface (GUI) will offer a user-friendly enviromnent for data entry and
+access.
+32.   In summary, the GoG will try to identify UNIX-based software packages, for instance for
+government accounting, developed using a 4GL and a RDBMS, interacting with the end-user
+through a GUI, which with appropriate customization will be used at the different units.
+33.    Hardware. With respect to the hardware, each unit will need several workstations for
+various tasks such as to enter the accounting transactions, undertake queries or print reports.
+Since the information will have to be consolidated and shared, at each location a server will be
+interconnected with the workstations forning a LAN. Each unit's budget and its expenditures
+infornation will be stored in the server and, with adequate security restrictions, the workstations
+will be able to retrieve and update the data in the server. If adequate communications facilities are
+available, individual unit servers will be connected to the servers in the regional offices which, in
+tum, will be interconnected to the main server in Accra. This will constitute a "distributed
+architecture" network in which each unit, regional office and central server are "nodes." Each node
+will have its own data processing and database management capability and summary or detailed
+data, as required, will be sent to the main server. Where such connections will not be feasible,
+diskettes containing the data will be sent periodically. Since each node will have the computing
+power most appropriate to its requirements, resource utilization will be optimized and eventual
+malfunction of one node will not affect the others. In addition, end-users at each unit will have
+responsibility over their LAN and, as a result, a sense of ownership.
+Human Resource Development
+34.    The project design strongly emphasizes human resource development in order to provide
+staff with opportunitiesfor the transfer and acquisition of new skills and to contribute to a core
+of trainedfinancial managers in Government. Given weak local capacity, the provision of
+
+
+
+14
+adequate training is critical to the sustainability of the Project and to the reform program. The
+training under the Project can be divided into six types, depending on the audience and the nature
+of the training:
+(a)    specific training to key Government staff in the principles, concepts, and methodologies for
+the subject areas covered by the project components; this is training related to the
+operational work of the staff,
+(b)    general training to the people in the financial management chain related to aspects of
+financial management such as accounting, budgeting, policymaking, taxation, etc. which
+are relevant to;
+(c)    general training to staff in standard computer software packages;
+(d)    training to senior-level management and policymakers in the use of computer-based
+financial management information systems;
+(e)    end-user training in the use of the computer-based financial management information
+systems; and
+(f)    technical training to GoG system analysts and programmers in the use of the specific tools
+to be employed for developing and implementing the information systems under the
+Project, such as RDBMS, or UNIX operating system.
+35.    The Project will provide for such training in the context of an overall training strategy
+primarily using domestic resources and facilities. Training will be based on separate training needs
+assessments for each agency. These would identify the current capabilities, the areas for training,
+and the mechanisms for providing it. This will also take into account the existing training facilities
+in these agencies and in the public sector generally. Most system-related training would be
+provided by the system vendors as part of their system implementation. External training would
+be limited to only those skills relevant to the success of the Project which cannot be obtained
+locally. External providers of training will be used to train local trainers. The Project would permit
+a limited number of structured Study Tours for key staff involved in the implementation of the
+Project to learn from what other countries have done in modernizing their financial management
+systems.
+Legal Framework Revision
+36.    The Project would support the revision of the legal framework for financial administration
+in Ghana with a view to providing an adequate legalframeworkforfinancial management which
+ensures transparency and accountability. This would require (i) a review of the current legislative
+framework in the light of the changed political and institutional arrangements and practices; and
+(ii) the development of revised financial rules and regulations to be submitted to Parliament for
+approval.
+
+
+
+15
+Development of Manuals
+37.    Manuals will be developed to provide operation guides for the convenience of the public
+servants. These would include the preparation of Budget and Accounting Manuals as well as the
+preparation of operational manuals on the hardware and softvare that may be installed under the
+various project components.
+Communications Strategy
+38.    The Project recognizes the need for an effective communications strategy for the Project in
+order to promote an understanding of the content and usefilness of the financial management
+reforms being introduced. This will be addressed through two initiatives: (i) Inception
+Workshops, and (ii) publication of a newsletter.
+39.    Inception Workshops. A series of Inception Workshops has been launched to (a)
+reinforce the concept ofjoint ownership and responsibility forfinancial management in
+government, and (b) ensure the fuillest acceptance, participation, and cooperation of all key
+players in public financial management. To these ends, the workshops will address the what, why
+and how of the reform program, and elicit the thoughts and ideas of the participants which will then
+feed into the design of the reforms. In particular, the workshops will educate the participants on
+the objectives and scope of the reform program, outline what the benefits are likely to be and how
+the participants would gain from them directly, explain how the public financial management
+reform program would fit into ongoing institutional reform initiatives, discuss what the roles and
+functions of the key players in financial management should be, and discuss how the sustainability
+and success of the reforms can be ensured.
+40.    These workshops would be targeted at (a) ministers, key presidential staffers, and chief
+directors; (b) accounting, treasury, and budget officers; (c) managers in various line ministries, and
+(d) private sector agents such as the private contractors, the Chamber of Commerce, the Private
+Sector Roundtable, joumalists, academics, and local think-tanks; and (e) other target groups in
+civil society.
+41.    These workshops were started with the launch of PUFMARP by the Minister of Finance at
+a tvo-day Workshop for senior civil servants in July, 1995. Subsequently, the Controller and
+Accountant-General discussed the program with his staff from across the country at his annual
+staff conference in September, 1995. Later, in July 1996, a workshop was organized with the
+sector ministries in Accra on Budget and Public Expenditure Management. More Inception
+Workshops are planned at the central, and regional levels. These workshops will be funded under
+the Project. Additional funds through the Client Consultation Funds provided by the World Bank
+are also being used to finance these workshops.
+42.    PUFMARP Newsletter. A newsletter will be produced by the Project Management and
+distributed widely within Government, to the donors, and the private sector to (i) disseminate
+information on the status of the reforms, (ii) announce implementation schedules, and (iii) provide
+examples of the latest and state-of-the-art practices in financial management from Ghana, Africa,
+and the World. This newsletter will be produced quarterly initially with the frequency increased to
+every two months as project implementation gathers speed.
+
+
+
+16
+Project Management
+43.    The Project would provide for the support of a PUFMARP Implementation Team in the
+Ministry of Finance to assist the Government in the implementation of the overall reform program
+as well as those elements supported by this Project (see implementation arrangements below).
+Assistance under the Project would cover salaries and other compensation for three contractual
+members of the Team-the PUFMARP Manager, the Finance Manager, and the Information
+Technology Manager-and for training, equipment, supplies, and civil works, as estimated.
+C.    Project Monitoring and Evaluation
+44.    Tracking project performance indicators is necessary to monitor and evaluate not only the
+implementation of the Project but also its end-results or outcomes. A set of such indicators has
+been identified. These are presented in Annex A. Due to the functionally distinct components of
+the project, the performance indicators have been developed for each component. The input and
+process indicators summarize the set of activities that will be supported by the Project. The output
+and outcome indicators identify for each component what the deliverables and expected end-results
+are. Target dates are specified for each of the output indicators; however, the outcome indicators
+can only be assessed over a period after the end of the Project; hence, a timetable for them is not
+provided. This set of indicators will serve as the basis for project monitoring, supervision and
+evaluation.
+
+
+
+17
+II.    PROJECT ADMINISTRATION AND IMPLEMENTATION
+A.    Project Implementation
+45.   Project implementation arrangements are described below. The Project is expected to be
+fully implemented over a five year period with most activities completed over four years.
+However, the process of financial management reform is a continuing process and it is envisaged
+that the Government would continue to initiate and implement reforms in financial management as
+and when needed. This is essential to ensure that the benefits from the project are maximized over
+the long term.
+46.    The Steering Committee. The Government set up a Steering Committee in June 1995 to
+oversee the design and implementation of PUFMARP. The Steering Commnittee has 14 members:
+(i) the Deputy Minister of Finance (Chairman); (ii) the Chief Director, MoF; (iii) the Director of
+Budget; (iv) the Controller and Accountant-General, (v) the Deputy Controller and Accountant-
+General (Financial Management Services); (vi) senior representative from the Ministry of Local
+Government; (vii) senior representative from the Ministry of Roads and Highways; (viii) senior
+representative from the Ministry of Health; (ix) senior representative from the Ministry of
+Education; (x) senior representative from the Office of the Head of the Civil Service; (xi) senior
+representative from the National Institutional Renewal Program; (xii) a Deputy Governor of the
+Bank of Ghana; (xiii) the Deputy Auditor-General (Finance); and (xiv) the PUFMARP Manager.
+47.   The Steering Committee has been charged with the following functions and
+responsibilities: to establish and monitor a timetable for the implementation of PUFMARP; to
+review and approve the procurement of goods and services for PUFMARP; to coordinate and
+approve the various project components so as to ensure coherence and compatibility in design,
+management, and implementation, to develop the consensus on, and continuing commitment to,
+PUFMARP; and to make recommendations on policy issues which may arise in the design and
+implementation of the program. The Committee is already mobilized and has held various
+meetings with respect to the selection of the members for the PUFMARP Implementation Team
+and the initial selection of consultants for the budget and public expenditure management
+component of the reform program. Local donor representatives are also invited to these meetings.
+48.    PUFMARP Implementation Team. The PUFMARP Implementation Team will be
+comprised of three groups of people: The first group comprises three persons with special skills
+required for the Project who have been hired on contractual terms. They are the PUFMARP
+Manager, the Finance Manager, and the Information Technology Manager and form the core
+Project Management Team. The terms of reference for all of these have been clearly laid out.
+These three key persons are Ghanaians and were hired on contractual terms in May/June 1996
+following an international job posting and competitive selection process. A key responsibility for
+these people would be to train counterpart staff over a period of time. Monitorable indicators will
+be used to assess their performance. The Government will provide adequate support staff and
+facilities for them to perform their tasks effectively.
+49.   The second group will consist of GoG staff who will be working on the project on a full-
+time basis. This group will consist of a Deputy Controller and Accountant-General and a Project
+Desk Officer from the Ministry of Finance. The Project Desk Officer will be responsible for (a)
+administering disbursements, (b) providing advice on procurement, (c) maintaining project records
+and preparing accounts (see Section G below), and (d) coordinating with the World Bank Desk in
+
+
+
+18
+the Ministry of Finance. The Project Desk Officer will also assist the PUFMARP Manager in
+promoting communication between the various implementing agencies, preparing project progress
+reports, and reporting to the Chief Director, Ministry of Finance. The Project Desk Officer would
+be assisted in this task by an accountant to be financed from the credit.
+50.    The GoG staff will be complemented by counterparts from each of the various departments
+or agencies that will be implementing components of the Project. This would be a flexible
+arrangement and staff would be assigned on a part-time or full-time basis, as required, for specified
+periods of time. IDA funds will not be used for salary supplements for these staff
+51.    The third group would comprise of consultants who will be designing and implementing
+the various components. The working principle being adopted is one of teamwork. As soon as the
+PUFMARP Implementation Team is fully mobilized, a team-building workshop will be organized
+for the members to foster the right spirit.
+52.    The Implementation Team will report directly to the PUFMARP Steering Committee
+through the Chief Director, MoF. It will also liaise closely with the Controller and Accountant-
+General, the Director of Budget, and the heads of the various agencies where reforms will be
+introduced.
+B.    Bank Role in Project Implementation
+53.   In view of the significant complexity of technical assistance projects of this nature,
+frequent supervision missions will need to be undertaken using both Bank and consultant staff.
+T'he resources that need to be allocated for this will be high compared to the average technical
+assistance projects. It is estimated that these requirements would be in the range of 30 staff weeks
+per year. Where possible, these supervision missions will be coincided with those from other
+donors financing the Project. It is envisaged that quarterly supervision missions will be required of
+two weeks each. The two sets of core skills that will be required for supervision would be in
+information technology and public financial management although specific missions may require
+component-specific skills in these two areas.
+54.    Given the complexity of the Project, thorough annual reviews of the Project would be done
+to (a) assess performance against the performance benchmarks, (b) review the appropriateness of
+continuing with the project design, and (c) take corrective actions. These reviews would be done
+jointly by the Government and IDA, no later than the end of each calendar year starting in 1997. A
+mid-term review of the Project will also take place in the third year in lieu of the annual review.
+This review would be done jointly with the donors cofinancing the project. This would be done no
+later than the end of 1999. This review will include additionally an assessment of (a) the
+Government's continuing commitment to the financial management reform program and
+achievement of the project targets laid out in Annex A, (b) overall progress in integrating the
+various program components into a cohesive and complementary set of actions, (c) institutional
+capacity to carry on project activities, amd (d) a review of arrangements for meeting recurrent
+costs.
+C.    Implementation Schedules
+55.   The Implementation Schedule of the Project is presented in Schedule B of the Technical
+Annex. While the Government is in full agreement with the details of the project components,
+
+
+
+19
+implementation arrangements and schedule, and the set of performance indicators as laid out in the
+Technical Annex, it is devcloping a morc detailed Implementation Plan which will be a condition
+for credit effectiveness. This Plan will also detail the performance indicators for the contractual
+staff on the PUFMARP Implementation Team.
+D.      Project Financing and Costs
+56.    Project Financing. T'he proposed IDA credit of US$20.9 million would finance 68
+percent of total project costs. Total project costs comprise 64 percent in foreign exchange costs
+and 36 percent in local costs. Other donors- the ODA and EU-will finance about US$6.9
+million in grants and the balance will be financed by the Govemment out of its own resources.
+Firm  commitments for donor cofinancing is not yet available but each of thesc donor agencies is
+preparing its ow,nl technical assistance project to support the various componcnts of the Project.
+ODA is expected to finance the budget preparation component, the indirect tax refomi component,
+and sonic training and workshops. EU is expected to finance the audit component as well as some
+trainiing and workshops. The recurrent costs, which essentially comprise operations and
+maintenancc expenditures for cquipmenlt, will be wholly financed by the Governrnent.
+57.    Project Costs. Table I shows total project costs, by project component and expenditure
+category'. 'The bulk of the investments are being made in BPEMS-covcring the budgeting, budget
+execution and fiscal reporting, and accounting sub-systems-which is likelv to account for nearly
+half of the total project costs.
+Table 1: Estimated Project Cost by Component and Activitv
+(US$ OOO's)_                                    -
+Project activity Consiiltants    Training  Goods Civil works  Recurrent        Total
+P.roject component      _
+A. Budget pieparationi          336 0        24.0                                          360.0
+(MTEF only)
+B. Budget & Public Expcnd    2,000.0      1,200.0    7,626.5     1.140.7     1,270.8    13,237.9
+Management (BPEMS)
+C. Cash management              166.0      104.7       163.5         4.3        52.8      491.3
+D. Debt managcment              308 0       41.0        32.5         7.4        11.1      400.0
+E. Revcnuc management
+Internal Rev Service         4320        288.8     2,33] 0       133.9       6034      3,789.0
+Customs, Excise               820.0      326.5       710.9        75.5       110.4     2,043.2
+National Rev Secretariat                  120 0                                          120.0
+Indirect Tax Reform           960 0      921 9      1.123.0       87.0       370.0     3,461.8
+F. Audit                        420.0       990.0      558 5        24.0       196.8     2,189.3
+G. Procurement                  100.(        85 5      118.5         8.0        24.9      336.9
+I. Project management         1,186.0       3120        60.0         7.2        147      1,579.9
+SUBTOTAL        6,728.0    4,414.3    12,724.4     1,487.9     2,654.7    28,009.3
+1. Continpencies                672.8      441.4      1,272.4      148 8       265.5     2,800.9
+TOTAL       7,400.8     4,855.8    13,996.7     1,636.7    2,920.2    30,810.3
+
+
+
+20
+E.      Procurement Arrangements
+58.     Procurement will be carried out by the PUFMARP Impleiic,ttationi Team which is
+adequately staffed with persons having previous experience with IDA procurement policies. The
+general principles applying to the procurement of goods, consultnig, scruvccs and civil works is
+provided below. Table 2 below replicates the Procurement Metho(ds ti oll Schedule B of the
+Memorandum of the President.
+Table 2: Procurement Methods
+(in USS OO0's)*
+Procurement 'Mctthods
+Project Element                      International       National        Other    Non-Bank          Total
+Competitive    Competitive                  Financing
+Bidding        Bidding
+Consultant Services                            5-              -         069.6       2,331.2      7,400.X
+(0()9Q.6)        (().0)    (5,069.6)
+Goods                                     11,643.5          303.3        2)01 )       1,850.3     13,997.1
+(11,643.5)       (273.0)       (180.0)        (o 0)   (12,096.3)
+Training                                        --             --       2,420.0      2,435.7      4,855.7
+(2.,42 0)        (0.0)    (2.420.0)
+Civil Works                                     --        1,314.7         0))0 0       122 2       1,636.7
+(1,183.2)     (1g0.0)         (0.0)    (1,363. 2)
+Recurrent Expenditures                          --             --                    2,920.2      2,920.2
+(0.0)        (n.0)
+TOTAL                                     11,643.5        1,617.6       7,889.6      9,659.5     30,810.2
+(11,643.5)     (1,455.8)     (7,849.6)         (0.()   (20,949.0)
+* Figures in parantheses are the respective amounts to be financed by the MA). ., cflji. All niumbcrs incilide contingcncies.
+59.     Procurement of Goods. Goods will be procured as follows. (i) National Shopping
+Procedures acceptable to IDA for contracts of less than $50,000 (not e.;ceeding $400,000 in the
+aggregate); (ii) National Competitive Bidding (NCB) for contracts ValUed at $50.000 or more and
+less than $200,000 (not exceeding $500,000 in the aggregate). using standard bidding documents
+approvcd by IDA; and (iii) Intemational Competitive Bidding (1(13) for contracts valued at
+$200,000 or more using IDA-issued Standard Bidding Documents (SBI)) as per the Bank's
+Guidelines for Procurement under IBRD Loans and IDA Creduts ( anuaIN 1995).
+60.     ICB will be used to procure the bulk of goods consisting oF comnputer hardware and
+software to be installed in the national and regional capitals. Computcr hardware (including
+operating s'stem software) will be procured in three major packages based upon the time of
+delivery and geographical location. Goods procured through ICB willi account for about 83 percent
+of the total equipment value (US$11.6 million out of a total equipieniet cost of US$14.0 nmillion).
+NCB will be used for the procurement of UPS voltage regulators and customized software, as wcll
+as for furmiture and some other computer-related equipment throtnwh scparate packages. Shlopping
+will be used for procuring only a few limited items such as vehiclcs and misccllaneous office
+
+
+
+cquipmcnt. In the comparison of bids, for goods manufactured locally, domcstic prcference wvill bc
+permissibic as per IDA guidelines.
+61     Procurement of Consulting Services  Consulting serv iCcs will be procured in accordance
+with the Bank's (G;idcines for (Use of Consultants bY WYorld Btnk Borrowers and by the World
+Bank as lE'ecuting Agencly (August 1981 ). Procurcmciit will bc carried out by the individual
+implenictinig agencies in coordinationi with thc PIJFNIARP Imiplelmentation Team. The contract
+for BPEMS--thc largest singlc componncit unldcr the Projcct-was awvarded bv invitation and with
+IDA approval to Price Waterhouse Associates. The terms of refcrence for this contract is attached
+as Annex C' Draft terms of reference for most of the othcr nmajor consultinig contracts are cxpctcd
+to be finalized bv crcdit effectiveness. One of the importanit consulting assignmncits will be for the
+consolidation of the procurement code (sec paras 28-29) For all constilting contracts, IDA's
+standard forms of consultant contract Nould be utilized. Proposals for training and study tours
+will be prepared half-yearly idcntif ing the persons to be trained, the institutions and the period of
+training, and the estimated costs wvhich will be cloared \ith IDA before implemcntation.
+62.    Procurement of Civil Works. Civil works for thc Project comprise mainlv of building
+upgrades. cable re-w%iring. and lcectrical installations. Thcsc will be scattercd over many offices
+and completed over three xears. Contracts are expected to be small. not exceeding $500,000 each,
+and foreign fimis will not be interestcd in sutci xNorks. Adcquate local capacity exists to
+accomplish the civil works and procuireenit of all civil works \1ll be by NCB.
+63.    Prior Review. Prior reviewv will be mandatory for all contracts for goods and works, each
+estimatcd to cost $100.000 or more, and the first contiact tinder NCB proccdtires. Consultant
+contracts with firmis in exccss of$100.000 and w\ith individuals in cxcess of $50,000 would bc
+subjcct to IDA's prior revic\v
+F.     Disbursemcnt Plan
+64.    The proposed projcct is expectcd to be disbursed o cr a period of five years. The closing
+date will be December 31, 20) 1. Disburscmciits w ill be adminiistercd bv thc PUFMARP
+Implcmeintation Team in the Ministry of Flinanice. To facilitate project impleimentation, a Special
+Account in LJS dollars would be opened in a comimierciaJ bank acceptable to IDA. The authorized
+allocation would amounit to $500.000 and would cover four mionitlis of eligible expcnditures. Upon
+crcdit effectivcncss, $250,0000 rcprcscnting 50 perccnt of the authorizcd allocation, would be
+dcposited inito the Special Accounit. TIIC remainingg balance \would bc made availabic when
+cumrulative disbursenients reach thc cquivalent of S 1 .500.000.
+65.    The Special Account w1ould bc replcinishted mnonthIk. Repicnishment applications would be
+fiill\ documcinted except for: contracts of less thani 5100.000 equivalent for goods and consulting
+services (firms), $50,000 cquivalent for consultilng serviccs (individuals), and training and
+operating costs \vhich max be claimed on the basis of Statcnicnts of Expenditire (SOEs). All
+supporting documentationi for application subniitted onI thc basis of SOEs would be retaincd for
+revicw by pcriodic IDA supervision missionis and cxtcrnal auditors.
+G.      Accounts, Audit and Reporting
+66.    The mainitenance of records and thc pr eparation of accounts and progress rcports will be
+carricd out bv the PUFMARP Impleiiicntationi Tcamii. Onc fill-time official wsill be responsible for
+
+
+
+22
+the maintenance of records and the preparation of accounts. Financial accounting and reporting
+will comply with IDA requirements and its quality will be assured by the use of the GoG Desk
+Officer and accountant for the Economic Management Support Project which is due to close soon.
+67.    The project accounts, the special account, and the statements of expenditures will be
+audited each year by independent auditors satisfactory to IDA. The audit report will be provided to
+IDA within 120 days of the financial year end.
+68.   In addition to the financial reporting, a full progress report will be prepared and submitted
+to IDA every quarter. This report will detail all project and related activities, report on progress in
+relation to agreed schedules, and identify any problems which may have been encountered and
+which could adversely affect the overall impact of the project. The reports will also provide
+information against the target performance indicators. The format for this report is being
+developed and will be agreed to with IDA.
+
+
+
+Ghana: Public Financial Management Technical Assistance Project
+PERFORMANCE INDICATORS
+OVERALL PROJECT OBJECTIVE: t o enhance the efTiciency. accountabilitv and transparency of the financial management functions of the Govenunent.
+INPUTS                         PROCESSES                                   OUTPUTS                      Target Datc                OUTCOMES
+A.  Budget Prcparation Sub-System
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.                                     . . . . . . . .
+OBJECTIVE: To improve the pLanning and budgeting of public exeditures and thius cotributc to stnghnc fscal policy formnlation and implementation.
+*  Consultancies        *  Institute a Medium Ierm Expenditurc    *  Formulation of the annual budget within     Q4, 2000  *  lBudget preparation would be more
+*  TIraining               Framework in the normal budget process.    a complete rolling MTEF                                   organized through improved data base
+*  Equipmcnt            *  Improve formulation of the annual budget.  *  A comprehensive, broad-based budget      Q4, 1998      and improved link-up between planning
+*  Develop an information system to track     (that includes all project aid financed                   and budgetary outlays within a
+budget preparation.                        receipts and expenditures)                                specified macrocconomic framework.
+*  Train budget personnel from Mol,        *  Computerized budget preparation             Q4, 1998  *  Improved budgeting in the MDAs
+NDI)C, and MDAs in the preparation of      process                                                  leading to greater ownership and
+an MTl EF and the use of information   *  Printed Budget document ior Plarliament      Q4, 2000      enhanced accountability.                  LA
+systems in budget preparation.             containinig M IlEF and project aid
+financed expenditures.
+!  Budget Guidelines which are discussed       Q3, 1997
+and approved by the Cabinet.
+B. Budget Implemcntation Sub-System
+Objective; To ensure an orderly and smooth implementation of the budget, while providing adequate flexibility to the MDAs to maniage ticir prograius and projects, as well as to enable
+the Miaistry of Fianwce to maintain oversigit that is in coufunfity with ther quiretnenots of macroeconomic stabilization.
+*  Consultancies        *  Design and implement a Budget           *  TIimely and reliable budgetary reports      Q4 1998  *  Improved record of the MDAs to spend
+*  1Training               Classification System that is consistent   for management in accordance with the                     within their budgetary allocations.
+*  Equipment               with the Chart of Accounts common to all   FAR and FAD.                                           *  Inproved monitoring, over time, of
+MDAs.                                  *  CAGD quarterly accounts includes all         Ql, 1999      budget implementation on the basis of
+*  Re-design the systems, processes, and      expcnditures and receipts, including all                  commitments and the use of
+procedures for expcnditure control.        aid.                                                      computerized variance analysis of
+*  Develop and implement infonnation       *  Comprehiensive quarterly accouliis arc      Q'  1999      actual expenditires and budgetary
+systems to support the above design.       available on both cash and commitment                     outlays.
+*  Integrate these systems with the budget    basis for the narrow budget                            *  Comprehensive and timely information
+preparation and accounting, cash       *  Comprehensive quarterly accounts are         Q4, 1998      available to the public on the fiscal
+management, and debt management            available on both cash and commitment                     position, enabling greater transparency
+systems.                                   basis for the broad budget.                               and accountability of the Government        >
+o>e
+
+
+
+*  Train budget, finance, and treasury staff    *  Quarterly accounts of recCipts and         Q4, 1999       on the use of public resources.
+in the MDAs in budget implementation         expenditures, with the latter available by
+issues and procedures.                       Region and by category of expenditure
+INPUTS                          PROCESSES                                     OUTPUTS                        Target Date                 OUTCOMES
+C. Accountlng Sub.S..tem:: .i;- : :     -         -                      :
+D'S:  E  f:030d,;  iT i:  DSti;.02070000.00ftiESESid-i:flD :t'0,l:;EDiE,.......  ......'  .            ..   .    ..     .....   ..   ... .    ......-:...    .
+stzttli of the  ea    , np eel'  anio                                                                                                             a d   p t   te  p
+*  Consullancies         *  Define a comprehensive and unified Chart  *  A uniformn Chart of Accounts.                  Ql, 1997   *  A changed and complete base for the
+*  Equipment                of Accounts for the GoG that meets with    *  Each MDA implemets an effective              Ql,7 1999      public accounts of Ghana.
+*  Training                 the requirements of the MIDAs, MoF, and       financial management system for                          *  Complete, timely, and reliable financial
+CAGD, and is adaptable for decentraliz.ed    planning, allocation, utilization, and                      information to assist MDAs in their
+operations.                                  accounting of resources.                                     internal management and for the
+*  Implement, where required, a common       *  Complete Consolidated Public Accounts         Q2, 2000       public.
+General Ledger System.                       of GoG showing GoG assets/liabilities
+*  Formulate reports to be submitted by the     and all revenues/expenditures
+Treasuries.                              *  Issuance of monthly and yearly financial       Q 1 1997N
+*  Formulate operating statements to be         reports                                                                          .
+provided by CA(il.                       *  Revision ofl:AIVl:AD                           Q4, 199X
+*  Specify accounting standards for
+Governrnent.
+* Link accounting with the payroll and
+pension systems.
+*  Install an effectivs publie pbi payments
+system.
+*  Train stafmin the neWv accounting system.
+:D,: Cash: Muagewent S      Cab.steAGD, and is aptb wfo d nl - :-.                           u         and -. -                                     asis iA  in thcir
+Objective:: To achicve a efficient provieton of                           aoe cash: returesothe  overnment while voiding tes rc obilition ofresces and minmzing the:costs of m orrowgingc .nd for the
+*  Consultancies         *  Develop cash flow determination and       *  Monthly cash flol statements by MDAs.          Q32 1998   *  Greater euliciency ofcash management
+*  Training                 forecasting eapabilities in Government.   *  Forecasts ofquarterly cash flows               Ql 1999       through reduced usage Of short-term
+*  Equipment             *  Link public sector borrowings to cash        including public sector borrowing                            high-interest debt to finanee GoG cash
+Fonw,                                        requiremens                                                  shortages, and the timely deposit of
+*        Develop a policy for the management of    *  Real-time reconciliation belween        Q, 1999        funds into the Consolidated Fund.
+the cash assets of the Government            CAGDR  BoG, and Budg  Division of
+including setting up standards and           MoF including arrangements for
+procedures.                                  clearing dues. a
+*  Design and implement n   computer-based    *  Cash management standards including                          .__             _      _     _
+'777 ~~~~~~~ 
+
+
+
+cash management system.                    investment policy for surplus cashi.        Q3, 1997
+* rrain treasury ofliccrs in cash
+management.
+INPUTS                         PROCESSES                                   OUTPUTS                      Target Date [              OUTCOMES
+Aid and Debt Managenent Sub-SSc                                           .... ...   ...                                                                      ......
+Objecive: To strengthen the management of b   quist, s ar       d  r            bl 
+*  Consultancies        *  Integrate external debt database between    *  Production of annual/biannual reports on  Q2, 1998  *  Timely debt service payments on GoG
+*  Training                ADMU, BoG, and CAGD.                       public debt, both domestic and foreign,                   external debt.
+*  Equipment            *  Development of complete database on        with respect to its stock, term structurc,             *  Timcly receipts of debt service
+external debt, including central bank      amortization, and interest paymcnt.                       payments made by parastatals and/or
+guarantees.                            *  Production of annual reports on BoG          Q2, 1998     record of defaulters.
+*  Full operationalization of AMIS.           gurantees on external loans obtained by
+*  Integration of NaTCAP data with ADMU.      parastatals and private sector agencies.
+.  Ensure that information flows on public  *  Production of annual reports on external   Q2, 2000
+debt to other subsystems of financial      aid in kind
+management system.                                                                                                                             N
+*  [Iraining of staff from ADMU, CAGD,                                                                                                            u
+and l3oG involved in aid and debt
+management
+F. Rcvenuc Sub-System
+Objective: To promote svstems of tax administration aimed at achieving greatcr taxpayer compliance anid convic   incre  e eff icncyaievemie callefiom  eporuga
+forecasting.
+*  Consultanicies       *  Redesign the stiructure of tax          .  Rational and coherent structure for tax     Q2, 1997  *  Tracking of assessments, collections,
+*  Iraining                administration with clearly defined roles  administration.                                           and the crediting of the collections into
+.  Equipment               and responsibilities for each revenue   *  Strategy fbr a unique and common            Q2, 1997      the Consolidated Fund.
+agency.                                    Taxpayer Idcntification Number.                       *  Reduction of lags in collection and
+*  Develop and design an interrelated and  *  Full implementation of TI N                 Q2, 2001      dcposits.
+integrated system for revenues that    *  Computerized system for direct taxes         Ql, 2001  *  Reduced variance, over time, between
+interfaces with the budget, accounting,  *  Implementation of new indirect tax,        Ql, 1998      quarterly revenue forecasts and actual
+cash management and debt sub-systems.      including its computerization.                            collections.
+*  Develop and introduce a common and      *  Full implementation of system for           Ql, 2000  *  Increased collection of import tariff,
+unique Taxpayer Idendification Number.     customs data management.                                 reducing the gap between the effective
+*  Develop and introduce a modified indirect  *  Monthly and annual revcnue reports       Q2, 1997      tariff and the import-weighted statutory
+tax regime.                               from each agency.                                         tanff.
+*  Assess the current system for customs   *  Reliable quarterly forecasts of revenues.   QI, 1998  *  Receipt of dividends from parastatals
+data management.                       *  Internal audit reports that provide          (   1997      on timely basis.
+*  D)evelop and implement a medium-term
+> X
+
+
+
+strategy for the modernizatioin ofcustoms    transparency of revenue collection
+data management.                             runction.
+*  Strengthen the interial audit units at all
+revenue agencies.
+*  1irain stafl in new systems.
+*  Develop better and more Ghana-speciiic
+revenie fbrecasting techniques
+INPUTS                           PROCESSES                                      OUTPUTS                       Target Date                  OUTCOMES
+G. Audit Sub-System.....7 777
+.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. .......                                                                         ....
+Objective: To promote the timely and effective audit of transactions to er that resoresrare eing used for the:sccified purpoe':.  
+*  Consultants           *  Institute procedures and processes Cor     .  Stanidards for [nternal and Extemal             Ql, 1998   *  An audit service capable of performing
+*  Training                  efiective internal audit                      Audit.                                                        reliable financial audits.
+*  Equipment             *  Establish Internal Audit Units in the      *  A start on valuc-for-money audit                Ql, 1998   *  Implementation of procedures and
+various entities of the GoG.              .  Computer access to accounting system           Q1, 1999       sanctions when problems are identified
+*  Fomiulate reporting requirements on           and budget implementation system.                             in audit reports. Location of
+internial audit                           *  Regulations for contractinig audit finns       Q4, 1998       responsibility for follow-up in the MoF.
+*  D)evelop national audit stazidards.           to perform audits.
+*  Develop specifications for audit reports   *  Regulations regarding follow-up systems        Q4, 1998   *  Intemal audits being performed                N
+*  Criteria for audit staff performance          for audit recommendations.                                    continually providing feedback to the
+evaluation and prolessional developiment.   *  Anuial audit planis for eaclt year.          Q4 1998        licads of MDAs Ibr more efltctive
+*  Train statt Ionnally and on-tie-job to    *  Annual assessiiieints of stafl performance      Q4, 1997       managemeiit
+create a cadre ofprofessional auditors.   *  Internal audits which help management          Q4. 1997
+better utilize resources.
+H. Procuremcnt Sub-Svstem
+Objective: To streanrdine the procurement of goods, works, and services and establish an eflective mottitoring ard trieaking system for public proctr emnt
+*  Consultancies         *  Review public procureineilt practices in   *  Study on thie review of public             Q3, 1997       *  Competitive tendering and contracting
+*   fIramling                Ghana with a view to formulating a            procurement regulations and practices.                      procedures are specified and folloxved
+*  Equipment                 National P rocuremenit Code and                                                                           (includes standardizationi of procurement
+mechanisms for ensuring compliance with                                                                   across Government).
+the code.                                                                                              .  Building up of database on costs of
+procured items.
+e,
+c >
+
+
+
+GHANA: PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+Implementation Schedule
+1996       I       1997        I       1998        1       1999        1       2000                2001
+ID  Task Name                                                 Ql          3Q4 Q10Q20Q304 |Ql 0Q2Q3 IQ                          020304012030Q40QlQ20Q3
+1   Budget Preparation                                                                                                       -
+2        Medium-Term Expenditure Framework                                 I
+3            Preparation for the introduction of MTEF
+4             Launch of MTEF
+S             Updating Macroeconomic Franewwork
+6             Develop Sectoral Ceilings*                                                                                                                        :
+7             Sector Review Process in Pilot Ministries
+-             Preparation of Annual Ceilings and Guidelines
+9             Preparation of 1998 Budget Estimates
+10            Review and Finalization of 1998 Estimates
+:                       :                                                                                  '
+11            Presentation of 1998 Budget to Parliament
+12            Extension of MTEF to other ministries
+13            Operation of the MTEF for the 2001-2003 Budget
+14       Computer Systems to Support Budget Preparation                     .
+16            Development
+16            Implemenationmenalo
+17   Budget & Public Expenditure Management System                        i                                             .
+1f        Phase I: DESIGN
+19            High Level System Design
+20            BPEMS Detail Design
+21            System Abstract
+22            Requirement Definition
+23            Search for Application Software
+24        Phase lI:PILOT IMPLEMENTATION
+__ _      __     _    _    _      ___     _    __      __                                                       __       _W 
+
+
+
+GHANA: PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+Implementation Schedule
+_.  _______ ___ _ 1996  T 1997          1999                1999        r        2000                2001
+ID  Task Name                                                   Q1QT Oi1Q4|QIQ23Q4O1Q2Q3O4Q1Q2Q3O4Q1O2O3O4O1O2O3
+25            Change Mngmt, Capacity Bldg, and Training Plan
+26            Bid Proc., Eval., & Customization of AppI. Software
+27            Procurement of Computer Hardware & Software
+28            Data Conversion Strategy
+29            Pilot Implementation in 7 ministries
+30        Phase IIl: REPLICATION                                      .r
+31            Preparation & Installation
+32            Implementation
+33        Partial Operation of BPEMS for 1999 Budget
+34        Full Operation of BPEMS for 2000 Budget
+0,
+35        Refinements and Full Evaluation                                                                                                                  * **k-°°
+36   Cash Managemnent
+37        Preparation & Submission of Cash Needs by MDAs
+38        Linking Cash Forecasts with Resource Flows
+39        Linking cash needs to Public Borrowings                                 :
+40        Electronic Link-up between BoG, CAGD, & Budget Dvn.
+41   Aid & Debt Management                                              _       -                                                             *
+42        Integration of External Debt Database
+43        Enhance external debt data consolidation at ADMU
+44        Completion of AMIS                                                 . --           i.:
+46        Integration of NaTCAP with AMIS                                    *..           
+46   External Audit
+47        Development of National Audi Standards                                       _0>
+49        Specifations of Audit Reports 
+_ ~ ~ ~  ~       ~       ~      ~       ~       ~      ~      ~      ~     ~      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ -                                          _
+
+
+
+GHANA: PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+Implementation Schedule
+__                                          _        ~~~~ ~ ~ ~~~~~                    ~         ~~~~1996  1   97 1 198    1999         2000                 2001     _
+ID    Task Name                                                 Q1  02|03            I Ql I Q2|Q3|Q4|Q1|Q2|Q3|Q4 !I ,TQ3 I Q4 IQl |Q2|Q3|Q4|Ql  Q2|Q3
+49        Introduction of Value-for-Money Audit
+50        Computer access to Public Accounts
+61   Internal Audit
+52        Institution of Effective Internal Audit
+53        Reporting on Internal Audit
+54   Internal Revenue
+55        Develop Strategy for TIN
+66        Publicdy Campaign
+57        Procure/customize software
+58        Install/Test System
+59        Pilot Implementation in Accra                                                                          . 
+60        Extension to other centers                                                                                                               .:.
+61    Customs
+62        Assess customs data management
+63        Develop medium-term strategy for modernization
+64        Implement modern customs data management system
+65   Indirect Tax Reform                                          r
+66        Review Organizational Status
+67        Prepare Policy and Legal Framework
+63        Redesign New Indirect Tax
+69        Evaluate Current Software
+70        Pass Laws
+71        Devise & Organize Publicity & Education Campaign          / /
+72        Logistical Support
+_____   ______________________________________                                                                                                 CM   U~~~~o >
+(5W
+
+
+
+GHANA: PUBLIC FINANCIAL MANAGEMENT TECHNICAL ASSISTANCE PROJECT
+Implementation Schedule
+1996               1997        1       1999       J       1999                2000               2001
+ID   TaskNarme                                               01         3 4    10203040Q1  Q20Q3jQ41Q1  0Q20Q30Q40Q1 0Q20Q30Q4 010 Q20Q3
+73   National Revenue Sectt.
+74        Review Organizational Status
+75   Procuremnent                                                          :
+76       Review of Public Procurement
+77       Implementation of Recommendations
+78   PUFMARP kIplemeniation Team          -                                                        I |
+0
+
+
+
+31
+Annex C
+Terms of Reference
+for
+Consultancy Services
+for the Design and Implementation
+of a
+Budget and Public Expenditure Management System
+for the
+Government of Ghana
+Issued October 1995
+I.    Introduction
+1.    The Government of Ghana's Public Expenditure Review for 1993 highlighted several
+problems including weak budget preparation, weak expenditure monitoring and control
+mechanisms and the lack of a proper accounting system. Subsequently, the GoG with inputs from
+the Canadian International Development Agency (CIDA), the Overseas Development
+Administration (ODA), and the World Bank developed a medium-term strategy for reforming the
+public financial management system. This strategy seeks to develop an integrated public.financial
+management system. This strategy has since been adopted by the Cabinet and forms the basis for
+planned measures to be supported by technical assistance from ODA, CIDA, and the World Bank.
+2.     Some elements of an integrated public financial management system already exist in
+Ghana or are being implemented -- for instance, the customs system, a debt management system,
+and an Integrated Personnel and Payroll Database (IPPD). Since 1994, there have also been
+significant positive developments in governmental accounting and financial reporting. But there
+remains a strong need to strengthen and consolidate these developments. The GoG has prioritized
+key areas for immediate action -- budgeting, public accounting, and financial reporting. The GoG
+consequently wishes to proceed to set up a modem Budget and Public Expenditure Management
+System (BPEMS). These terms of reference provide a description of the technical assistance
+required by GoG to develop and implement the BPEMS component of its overall public financial
+management reform program as provided in Table 1. This BPEMS will be implemented in
+Ministries, Departments, and Agencies in Accra and all other regional capitals.
+3.     The GoG therefore invites qualified firms, with experience in the design and
+implementation of computer-based government financial management systems to assist in this
+project. Extensive experience in the design and implementation of similar systems for other
+government agencies. Previous experience in the implementation of similar systems in less
+developed countries or in countries of the British Commonwealth will be an advantage. Part of the
+services required under this project could be satisfactorily carried out by local firms. International
+firms are required to enter into partnerships with at least one local firm in both the design and the
+implementation of BPEMS.
+4.     The consultants will need to work closely with GoG officials in the various financial
+organs of the Government which have responsibility for fiscal management processes, including,
+inter-alia, the offices of the Controller and Accountant General (CAG), the Ministry of Finance
+(MoF), the Bank of Ghana (BoG), and the various Ministries, Departments, and Agencies
+
+
+
+32
+Table I
+PUBLIC FINANCIAL MANAGEMENT
+REFORM COMPONENT AND ELEMENTS
+Financial Systems Study       Capacity Building       Financial Legislation and    Development of
+I                       I Regulations               Manuals
+Accounting System             Change Management       Revision & Consolidation of  Budget Manual
+Design                                                Financial Legislation and
+Regulations
+Budget Management             Human Resource                                     Governmental
+(Composite Broad-Based)       Development                                        Accounting &
+Reporting Manual
+Payroll Management
+Public Expenditure
+Management
+Revenue Management
+Decentralized Financial
+Management & Reporting
+Procurement and Contract
+Management
+Cash Management
+Investments Management
+Receivables Management
+Fixed Assets & Inventory
+Management
+Aid and Debt Management
+Pensions Management
+Comprehensive Auditing
+Related Information
+Technology
+
+
+
+33
+(MDAs), etc. The consultants will report to the Project Manager who will head a Project Team
+which is to be set up by the GoG. The Project Team will work under the auspices of a Steering
+Committee which is headed by the Deputy Minister of Finance and includes the Controller and
+Accountant General, the Chief Director of the Ministry of Finance, and representatives from some
+key line ministries. The Project Team will include well qualified professionals in financial
+management and information technology for whom an international search is underway.
+II.    Objectives
+5.    The fundamental objective of BPEMS is to implement a reliable, scientifically developed,
+computerized, broad-based budget and public expenditure management system that is capable of
+providing accurate, timely, and up-to-date information on commitments, actual expenditures,
+budget allocations and financial reports in order to:
+(a)    enable MoF to institute a scientific, pragmatic, and meaningful budgetary system
+for the country;
+(b)    enable the MDAs and Metropolitan, Municipal, and District Assemblies
+(MMDAs) to better manage their budgets and ensure that sectoral budget
+allocations are not exceeded;
+(c)    enable the MoF to ensure effective implementation and adherence to the national
+budget;
+(d)    provide a basis for improved financial management in Government;
+(f)    enable the CAG to fulfill his statutory functions of reporting on the national public
+accounts;
+(g)    enable prompt and accurate reconciliation of the national public accounts with the
+accounts of the Bank of Ghana, MDAs, and MMDAs; and
+(h)    enhance public accountability.
+6.    BPEMS will be designed to meet the needs of users of financial information. Such a
+system would need to be comprehensive in terms of coverage and be a source of reliable and timely
+data to become a credible source of information for users. It will provide an integrated
+government-wide budgeting and accounting system, will encompass the functional requirements for
+the budget preparation, budget execution, budget evaluation, and accounting processes and would
+cover the appropriation, commitment, funds allocation, and payment processes for both the
+recurrent and the development budget of both centralized and decentralized governmental agencies
+and institutions. The system should also facilitate the proposed devolution of financial
+responsibility to MDAs, and MMDAs.
+
+
+
+34
+III.   Scope of Work
+7.    The Scope of Work for this consultancy involves the tasks associated with the design and
+implementation of the above systems including the specification of the hardware and software
+requirements and the provision of training.
+8.    BPEMS will be implemented in a phased manner. In Phase I, BPEMs will be
+designed, specifications developed for the required hardware and softvare, and procurement
+arrangements will be completed. It is anticipated that this can be completed by March 31, 1996.
+In Phase II, BPEMS will be implemented in at least seven priority ministries by June 30, 1996.
+The seven priority ministries are: Ministry of Finance (including the Controller and Accountant
+General's Department), Ministry of Roads and Highways, Ministry of Works and Housing,
+Ministry of Education, Ministry of Health, Ministry of Information, and Ministry of Local
+Government and rural Development. (The exact coverage of departments and agencies under the
+ministries will be determined later.). In Phase III, PBEMS will be replicated across remaining
+ministries in Accra and the regional capitals. This will be completed by December 31, 1997.
+9.     Each phase will normally start upon substantial completion of the preceding phase and will
+be contingent upon the satisfactory completion and acceptance by GoG and the World Bank of the
+deliverables listed for that phase. The aim of the prioritization of the implementation is to ensure
+that the consultant executes the contract in accordance with the TORs and at the same time to
+enable a phased handing over of the products to the Govermment. The consultant will be required
+to present monthly Project Status Report to the Project Manager. The report will specify activities
+conducted by the consultant during the preceding month; problems encountered, if any, and
+proposed solutions; and activities expected to be performed during the following month.
+10.   The tasks and major deliverables associated with each phase of the project are listed
+below:
+IV.   Phase I: Systems Design and Specification of Hardware and Software Requirements
+A.    Preparation of the detailed functional design and requirements for the specified
+systems and development of specifications for the Technology Architecture required for the
+implementation of these systems.
+11.   The tasks involved in this activity would include:
+(a)    Studying the functional processes including administrative procedures, transaction
+documents, forms and information flows, data flow statistics, related to the
+accounting and reporting, payroll, pension, and cash management areas currently
+in use.
+(b)    Developing and defining a new set of functional processes, information flows,
+procedures, transaction types and associated documents and forms, and related
+structures required to set up the new system.
+(c)    Developing a full functional design for the computer systems required, including
+the specification of the major data bases and data entities, the outputs reports, the
+
+
+
+35
+input formats, transaction documents, input screen designs, processing and
+controls for the systems required at various nodes of the information flow network,
+the interfaces and data flows between these nodes and with external systems.
+(d)    Design of the Technology Architecture to implement the Information Systems.
+This would include drawing up specifications of the -1W and S/W to be installed
+at various nodes and the mode of interconnection of this Hardware and Software.
+The overall H1W, S/W strategy to be employed for implementation is determined
+by the fact that a Government-wide accounting system will require a multi-tiered
+network with modules at the central and regional office levels. The system would
+require facilities for generating, storing, and processing data at each level and for
+exchanging data between levels. The data volumes encountered could vary widely
+across the nodes of the network, dictating the size of the computer at each node.
+Application software should therefore be scaleable for small or large computers
+and usable on a variety of H/W platforms. The system should utilize a distributed
+computer architecture with computing power located at the various nodes of the
+network. The software environment should be portable to different platforms
+(UNIX-based) and use modern application development tools such as Relational
+Data Base Management Systems (RDBMS), Fourth Generation Languages
+(4GLS), and Graphical User Interfaces (GUls). The consultants should ensure
+that these aspects are kept in mind while developing the technology architecture.
+In view of the availability of local expertise on ORACLE, SYBASE, INFORMIX,
+WINDOWS, the consultant shall give preference to systems utilizing these tools.
+12.   This task would include:
+*   Surveying GoG offices and budget at the central, regional, and district levels, to
+determine the locations where the computer systems would need to be implemented,
+the associated transaction volumes (current and projected) and data requirements, to
+determine sizes and configurations of the HIW, S/W to be installed at these nodes
+and the mode of the interconnection of the nodes between the center and the regions,
+to ensure accurate and timely data transfers between the nodes.
+*   Preparing the specifications of the hardware, systems software, application
+development software, and the application software package required at the various
+sites for each phase of the project for incorporation in the tender documents.
+*   Drawing up specifications for associated facilities required for the installation of the
+system, such as power stabilizers, UPSs, telecommunication interfaces, and
+computer site specifications for incorporation into the tender documents.
+13.   The primary deliverables for Phase I will be:
+Budget and Expenditure Mananement System
+* A Revised Budgetary Classification.
+* Functional Design document for the Information Systems.
+* Specifications for the hardware and software and related facilities.
+
+
+
+36
+Accounting and Reporting System
+* A new Chart of Accounts consistent with the Budgetary Classification.
+* Functional Design document for the Information Systems.
+* Complete set of transaction documents, reporting formats, procedures, manuals (for
+both budgets and accounting) required for the implementation of the systems.
+* Application Systems design.
+* Technology Architecture including specifications for H/W, S/W, and
+Communications Systems and associated facilities.
+In addition, the organizational changes required to implement these systems should also be
+detailed. Such GoG divisions or units that need to be created or eliminated and changes in staffing
+requirements.
+B.    Search for Application Software
+14.    On the basis of the functional analysis above, the consultants will investigate altematives
+for application softvare. This would include investigating and ascertaining which off- the-shelf
+software packages can meet the functional requirements as defined above. While conducting a
+search for software packages, the consultants will ensure that: (i) the software packages provide
+the required functionality; (ii) local support is available for the package and it is possible to
+obtain and install upgrades and/or changes to the packages in Ghana as they become available;
+(iii) the vendor for the package provides customization assistance as may be required or
+alternatively the package source code is available for making changes as may be required; (iv) the
+costs associated with any customization are identified clearly in the total cost; (v) the package runs
+on a range of hardware and operating software which is compliant with the hardware/software
+strategy proposed for the systems (above); (vi) adequate documentation is available to enable
+package installation and use; and (vii) licensing arrangements clearly specify use of the package
+at multiple sites in Ghana.
+15.    The deliverables for this activity will be:
+The results of the application software package evaluation process with the selection of
+the application software which best meets the requirements of the proposed systems.
+C.    Preparation of Tender Documents for the Acquisition of Hardware and Software
+16.    During this activity, the consultants will assist the Government in the procurement of the
+H/W and S/W. The consultants will:
+(a)    Incorporate the Hardware and Software Specifications prepared as part of the
+earlier task to prepare a request for proposals for procurement of the Hardware
+and Software. These tender documents should be prepared in accordance with the
+World Bank Procurement Guidelines and Procedures. It may be noted that the
+H/W, S/W will be procured via an integrated procurement package but will be
+delivered in several stages. Delivery will be, first, for the Pilot system and then,
+over a period of time, for the replication of the system at other sites. These
+
+
+
+37
+specifications must include allowance for maintenance and support for the
+hardware and software for a period of 5 years, and for consumables for 5 years.
+H/W  requirements should also address environmental requirements such as
+Uninterrupted Power Supply Units (UPSs), etc.
+(b)    Develop criteria for the evaluation of vendor proposals.
+(c)    Assist the Government in the tendering process and in evaluating vendor
+proposals and in the acquisition of the hardware and software.
+(d)    Provide technical management and quality assurance of the vendor's work, plan
+and prepare for data conversion and systems acceptance testing.
+17.    The deliverables for this activity will be:
+* Specifications and bid documents for the procurement of Hardware and Software for
+the implementation
+* Evaluation Criteria for Hardware and Software and a test data required to ensure the
+proper functioning of the application software;
+* Assistance to the Government in the tendering process, in evaluating vendor proposals
+and in the acquisition of hardware and software.
+* Technical management and quality assurance of the vendor's work;
+* Data Conversion Plan; and
+* User Acceptance Test Plan.
+D.    Preparation of a Detailed Implementation and Training Plan
+18.    The consultants will develop a detailed implementation plan and schedule listing all
+associated tasks and their logical dependencies. this schedule will show all tasks associated with
+the procurement and installation of the hardware and software, software customization, training of
+local personnel, and installation of the system at prescribed sites.
+19.    This also requires the consultants to assess the capacity of government officials to use and
+manage the recommended system and accordingly develop a detailed training plan for staff. This
+plan will ensure adequate capacity building in the ministries and suggest institutional arrangements
+for systems support and maintenance.
+20.    The key deliverable for this will be:
+* Implementation plan including schedule and responsibilities.
+* Assessment of staff capacity.
+* User Training Plan.
+
+
+
+38
+V.     Phase 11: Pilot Systems Implementation in Seven Ministries in Accra
+and the Regional Capitals
+21.    Pilot Systems implementation will involve: (i) the installation and tests of hardware and
+basic software (such as DBMS, Application Development tools etc.), (ii) installation and testing of
+the application software, and (iii) training operating system end-users.
+22.    The consultants will assist the GoG in managing the installation of the hardware, the basic
+software, and application software. Each of these tasks are discussed in detail below:
+(a)    Installation of Hardware. The consultants will assist GoG in supervising the
+supplier in the installation and testing of the hardware procured. This would
+include supervision of site preparations for the hardware including electrical
+power requirements, voltage stabilizers, telecommunications, and other elements
+as required. The consultant will also perform all required hardware acceptance
+tests on behalf of the GoG.
+(b)    Installation of Software. The consultants will assist the GoG with the
+implementation, testing of the application software and its customized version.
+This includes setting up any initial data tables, files, databases, etc. as required by
+the application.. The consultants would be required to assist the Government in
+quality assurance tests to ensure that the application packages have the required
+functionality. In case a package requires customization to meet specified
+functional requirements, the consultant will specify the changes required and
+arrange for the changes to be implemented.
+(c)    The consultants will insure the availability of the documentation needed for the
+operation and maintenance of the application software as well as for end-user
+training.
+23.    Deliverables for this Phase include:
+* Assistance to the Government in the installation and testing of the hardware and
+software.
+* Ensuring that the H/W and S/W supplied by the selected vendors meets the design
+specifications.
+* Ensuring that tested systems modules, including the modules that will be implemented
+at the central, regional, and district offices are fully functional.
+* User manuals and other technical documentation to enable the full operation and
+maintenance of the systems.
+* Training manuals for end-users.
+* Training of sufficient local staff to a level which will enable them to operate and
+maintain the systems and to provide necessary end-user support.
+
+
+
+39
+The latter three items are usually provided by the system vendors but the consultant will still be
+responsible for ensuring quality and volume. In case the vendors fall short, the consultant will be
+responsible for providing them.
+VI.   Phase III: Replication of the System Across Remaining Ministries in Accra
+and the Regional Capitals
+24.    This phase will cover the replication of the systems to other ministries. Deliverables for
+this phase would include:
+* A replication plan and schedule for the system for all designated sites.
+* A document (check list) detailing tasks that need to be undertaken for replication of the
+system at a typical regional or district site.
+* Working closely with the H/W, S/W vendor to ensure that the first five replications are
+operational.
+* Training of sufficient local staff capable of carrying out subsequent replications.
+VII.  Level of Effort Estimates
+25.   It is estimated that the project will require a total of about 75 man-months of effort to be
+provided by the selected firm of consultants.
+VIII. Background Information on Current Public Expenditure Management
+26.   Laws and Regulations. The statutes and regulations relating to the financial
+administration of public resources are found primarily in the following four documents:
+*   The 1992 Constitution
+*   The Financial Administration Decree, 1979
+*   The Financial Administration Regulations, 1979
+*   Departmental Accounting Instruction and Enabling Legislation of specific MDAs and
+MMDAs.
+27.    Budgetary Process. The Government of Ghana plans and executes its Budget in three
+stages:
+Stare 1: Planning and Preparation
+*   MoF issues annual budget circular NOT later than six months before the end of each
+financial year (FAR 30).
+*   Budgets for MDAs are prepared by MDAs and submitted to the Ministry of Finance
+by September 30.
+
+
+
+40
+Stage 2: Analysis andApproval
+*   The Ministry of Finance holds Budget Hearings in order to coordinate the requests for
+budgetary allocations between October I and November 15.
+*   The Ministry of Finance presents the Budget to Parliament by November 30.
+*   Parliament approves the Budget by December 31.
+* Approved Budgets are communicated to MDAs and MMDAs by the Ministry of
+Finance by January 31.
+Stage 3: Implementation and Monitorini
+*   Minister of Finance issues General Warrant or if deemed appropriate a Provisional
+warrant authorizing disbursement of approved recurrent expenditure. (FAR 54 and
+55) by Januarv 7.
+*   CAG issues Treasurv Circular to MDAs and Treasuries by January 14.
+*   MDAs issue Financial Encumbrances (FEs) to Treasuries on the basis of the
+approved Budget for recurrent expenditure (FAR 56)
+*   Specific warrant approved by the MEFP issued under authority of respective Sector
+Minister or Head of Department to Controller and Accountant-General of
+disbursement of capital expenditure (FAR 60).
+*   CAG issues Expenditure Authorization (EA) for each capital expenditure.
+*   Respective MDAs and MMDAs manage, monitor, and control expenditure. MOF
+and CAGD direct and coordinate MDA expenditure management, monitoring and
+control.
+*   Ministrv of Finance and CAG control and monitor budgetary performance.
+*   CAGD, MDAs, and MMDAs prepare monthly and annual financial statement and
+reports on the public accounts of Ghana and on other government accounts to Cabinet
+and Parliament no later than three months after the end of the financial year.
+* Auditor-General audits public accounts and other government accounts and submits
+report to Parliament no later than six months after the end of the financial year.
+28.    Role of the CAG. The CAG is responsible for controlling and accounting for the
+approved Budget. The CAG has 160 Treasury Offices serving all MDAs and MMDAs as follows:
+*   13 Ministry Treasuries
+*   2 Pensions Treasuries
+*   1 10 District Treasuries
+*   4 Headquarters Stations
+*   33 Foreign Missions Stations
+29.    Detailed financial activity reports called Cashbook Transcripts are received from these
+Treasuries. There are basically four (4) types:
+*   Payments (Salaries and Wages) Cashbook
+*   Payments (Recurrent Expenditure) Cashbook
+*   Payments (Capital Expenditure) Cashbook
+*   Payments (Debt Servicing) Cashbook
+
+
+
+41
+* Other Payments (such as Trust Funds, Deposits, and Advances) Cashbook
+* Receipts Cashbook
+30.    Flow of Financial Information and Transactions. The flow of public financial
+transactions is as follows:
+*   Inputsfrom MDAs and MMDAs. These are provided manually in the form of
+Forms, Local Purchase Orders, Stores/Service Receipt Advises, Payment Vouchers,
+Warrants, and other forms. They are submitted to the Treasuries for processing and
+receipt/payment and subsequently recorded in the books of accounts of the MDAs and
+MMDAs.
+*   Processing at the Local Treasury. The Treasuries undertake manual edits,
+verifications, and validation. All financial transactions are entered in manual ledgers
+(called F.E. jackets) and Cashbook transcripts are written weekly (manually) to
+capture all financial transactions during the week. These are then sent to the CAG
+Headquarters on a monthly basis for validation and consolidation.
+-   Processing at CAG Headquarters. Verification, Validation, and Consolidation of
+the Cashbook transcripts received is undertaken by the Data Examinations Section.
+This process is manual. Verified and Validated inputs are input into the mainframe
+computer system. Checks are undertaken to ensure integrity of data which had been
+input. The Main Accounts are then obtained from the system.
+*   Reconciliation. All Government of Ghana cheques are drawn on Bank of Ghana and
+cleared through designated commercial banks where necessary. Each
+Treasury/Finance Office undertakes its bank reconciliation by matching entries made
+in cash books with statements received from servicing banks. Bank statements from
+Bank of Ghana are also reconciled with returns of cheques issued from the
+Treasury/finance offices at the CAGD Head Office.
+31.    Volume of Transactions
+*   Average monthly transactions, in addition to the computerized
+payroll processing number
+*  4,000 Financial Encumbrance (Adjustment)
+*  20,000 Commitment Entries
+* 34,000 Journal Entries
+*  17,000 Cash Payments
+A total of 75,000 financial transactions per month.
+32.    Computer Hardware and Software. The Department currently owns an IBM mainframe
+computer(IBM 9377 Model 80 running on the VSE/SP operating system computer). Other
+operating system software's on it are CICS/VS and DL/I . The system is currently being used to
+prepare the Government payroll and also the Government Accounts. The payroll system is in the
+process of complete migration to a new IBM RISC machine. The Accounts System is in-house
+
+
+
+42
+developed. The main computer has in all sixty-four (64) dummy terminals and twenty (20)
+personal computers connected directly to it.
+33.   The IBM RISC/6000 runs on AIX UNIX and is networked to about 6 remote sites and
+connected directly to about five (5) Ministries including Ghana Education Service. There are
+about one hundred and twenty (120) personal computers and terminals connected to the system.
+An Integrated Payroll/Personnel package is being installed on it. When this package is fully
+operational, the payroll will be discontinued from the VSE System.
+
+
+
+
+
+
+IMAGING
+Report No: T-    6977 GH
+Type: AM
+-rA Al
+
+
+

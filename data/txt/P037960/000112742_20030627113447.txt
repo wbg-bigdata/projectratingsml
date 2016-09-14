@@ -1,0 +1,1596 @@
+                                              Document of
+                                           The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+
+
+
+                                                                                        Report No: 25711
+
+                             IMPLEMENTATION COMPLETION REPORT
+                                        (CPL-40770; PPFB-P2550)
+
+                                                  ON A
+
+                                                  LOAN
+
+                               IN THE AMOUNT OF US$ 15.8 MILLION
+
+                                                 TO THE
+
+                                    REPUBLIC OF KAZAKHSTAN
+
+                                                 FOR A
+
+                              TREASURY MODERNIZATION PROJECT
+
+
+
+
+                                              June 10, 2003
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                              CURRENCY EQUIVALENTS
+
+                        (Exchange Rate Effective January 1, 2003)
+
+                               Currency Unit = Tenge
+                                       155.00 = US$ 1
+                                        US$ 1 = 155.00
+
+                                     FISCAL YEAR
+                                January 1    December 31
+
+                         ABBREVIATIONS AND ACRONYMS
+
+CIS     Commonwealth of Independent States
+COFOG   Classification of the Functions of Government
+CoA     Chart of Accounts
+ECA     Europe and Central Asia
+EBF     Extra Budgetary Fund
+FSU     Former Soviet Union
+GFS     Government Finance Statistics
+H/W     Hardware
+ICB     International Competitive Bidding
+IBTA    Institution Building Technical Assistance Loan
+IT      Information Technology
+IMF     International Monetary Fund
+MOF     Ministry of Finance
+NBK     National Bank of Kazakhstan
+QAG     Quality Assurance Group
+QAE     Quality at Entry
+S/W     Software
+SU      Spending Unit
+TSA     Treasury Single Account
+TLS     Treasury Ledger System
+TGL     Treasury General Ledger
+TTL     Task Team Leader
+UN      United Nations
+
+                              Vice President:    Johannes F. Linn
+                           Country Director:     Denis de Tray
+                             Sector Manager:     Helga Muller
+                          Task Team Leader:      Ali Hashim
+
+                                       KAZAKHSTAN
+                               Treasury Modernization Project
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         1
+4. Achievement of Objective and Outputs                                            5
+5. Major Factors Affecting Implementation and Outcome                            12
+6. Sustainability                                                                14
+7. Bank and Borrower Performance                                                 15
+8. Lessons Learned                                                               17
+9. Partner Comments                                                              18
+10. Additional Information                                                       23
+Annex 1. Key Performance Indicators/Log Frame Matrix                             24
+Annex 2. Project Costs and Financing                                             26
+Annex 3. Economic Costs and Benefits                                             28
+Annex 4. Bank Inputs                                                             29
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components             31
+Annex 6. Ratings of Bank and Borrower Performance                                32
+Annex 7. List of Supporting Documents                                            33
+
+Project ID: P037960                                                      Project Name: Treasury Modernization
+Team Leader: Ali Hashim                                                  TL Unit: ECSPE
+ICR Type: Core ICR                                                       Report Date: June 10, 2003
+
+
+1. Project Data
+
+                   Name: Treasury Modernization                                   L/C/TF Number: CPL-40770; PPFB-P2550
+   Country/Department: KAZAKHSTAN                                                         Region: Europe and Central Asia
+                                                                                                     Region
+
+        Sector/subsector: Central government administration (75%); Sub-national government
+                            administration (25%)
+                  Theme: Public expenditure, financial management and procurement (P);
+                            Standards and financial reporting (P)
+
+KEY DATES
+                                                                               Original               Revised/Actual
+         PCD:    06/23/1994                                        Effective: 08/01/1996              08/01/1996
+   Appraisal:    04/05/1996                                            MTR: 03/01/1998                06/01/2001
+    Approval:    07/30/1996                                         Closing: 08/01/2000               12/31/2002
+
+    Borrower/Implementing Agency:          Republic of Kazakhstan/Ministry of Finance - Treasury Department
+                      Other Partners:      International Monetary Fund
+
+STAFF                      Current                                             At Appraisal
+Vice President:            Johannes F. Linn                                    Johannes F. Linn
+Country Director:          Dennis de Tray                                      Yukon Huang
+Sector Manager:            Helga Muller                                        Kadir T. Yurukoglu
+Team Leader at ICR:        Ali Hashim                                          Motoo Konishi
+ICR Primary Author(s): Ali Hashim
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly
+Unlikely, HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                          Outcome:S
+
+                     Sustainability:L
+
+Institutional Development Impact:SU
+
+               Bank Performance:S
+
+           Borrower Performance:S
+
+
+                                                      QAG (if available)              ICR
+                                  Quality at Entry: S                                 S
+                     Project at Risk at Any Time: Yes
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+
+The overall objective of the project was to support the Government in setting up the Treasury organization
+by designing and implementing a treasury system: (i) that provides comprehensive reliable and timely
+financial management information; and (ii) helps manage government expenditure effectively. To achieve
+this aim, the project set three specific objectives: (i) prepare a detailed functional design for the treasury
+system and develop related operational procedures; (ii) provide and install computer resources to implement
+the treasury system; and (iii) ensure that local staff can operate and maintain the system effectively.
+
+Context:
+
+The objectives of the Treasury Modernization Project need to be assessed in the context of the fiscal reform
+agenda being pursued by the Government of Kazakhstan at the time of project inception. At independence
+from the former Soviet Union in 1991, Kazakhstan, like other CIS countries, had inherited a weak
+budgetary system and ineffective budget execution processes. The national budget was not prepared in a
+transparent format. Large lump-sums were allocated to the "State Apparatus" without any breakdown by
+ministries or administrative units. The system of functional budget classification, was not in conformity
+with standard international classification systems such as the UN Classification of the Functions of
+Government (COFOG) and the IMF classification of Government Finance Statistics (GFS).
+
+A large share of government resources were channeled through extra-budgetary funds (EBFs) outside the
+national budget. Spending units were allowed to generate their own revenues, using their assets and staff
+resources, to supplement their budgets, without any intervention by the Ministry of Finance (MOF).
+
+The Central Bank, the National Bank of Kazakhstan (NBK), was responsible for cash execution of the
+budget through its network of branches. For this purpose it established three or more bank accounts for
+each Spending Unit (SU). These accounts were administered by a system of "credit limits" specified by the
+MOF, based on cost estimates submitted by the SUs. The tax and customs authorities had separate
+accounts at NBK. In total, there were about 7000 bank accounts for the SUs, tax and customs authorities
+at NBK branches. The MOF had no information on balances in these accounts nor any control over them.
+There was no clear distinction between economic and functional classifications of expenditures. Line
+ministries could not plan their expenditures in advance, because of the lack of transparency in the budget
+allocation process and the arbitrariness of budget allocations.
+
+Monthly budget execution reports were prepared by the MOF from reports received from the National
+Bank of Kazakhstan. Reports on expenditures classified by institutions and economic composition, were
+not available until quarterly reports were received from the budget organizations through their controlling
+ministries. These were received and collated with substantial lags. The MOF had no means of ascertaining
+actual government expenditure vis-à-vis the budget allocations in a timely manner and could not effectively
+monitor compliance with strategic priorities or initiate in-year remedial measures.
+
+Government Fiscal Reform Program
+
+In early 1994, the Government of Kazakhstan initiated an ambitious fiscal reform program, to support the
+move towards a market economy. The Government established a Central Treasury Department by
+Presidential Decree on January 27, 1994, within the MOF, and made it responsible for cash and debt
+management, budget execution, and government accounting and reporting.
+
+In early 1995, MOF began the preparation of comprehensive legislation to support the establishment of the
+Treasury and its functions, to define budget preparation and budget execution procedures, the powers of the
+local governments and their taxation and borrowing limits, and to regulate auditing of periodical and
+
+
+                                                        - 2 -
+
+year-end accounts. The main piece of legislation was the Budget Systems Law (1996), which was
+supported by secondary regulations.
+
+The program of the Treasury Department included establishing regional (oblast level) and district (rayon
+level) treasury units which would take over budget execution and primary accounting responsibilities from
+the National Bank of Kazakhstan, and introduce the required reforms to centralize fiscal monitoring and
+control functions in the MOF. The regional offices were made responsible for ex-ante control of all
+payment orders raised by SUs against their sub-warrants, for calculating the division of designated tax
+revenues between the central government and the local governments, and for advising the NBK regional
+branches of the allocation of revenues.
+
+With IMF assistance, the Government developed a comprehensive strategy to introduce a fully functioning
+Treasury.
+
+The various elements of this strategy are summarized below:
+
+    (a) Revision (1995) of budget classifications to include functions, institutions, programs and
+    subprograms, with subprograms, broken down by economic classification and conforming with the
+    IMF's GFS to facilitate a strategic overview of the allocation of budget resources between sectors of
+    the economy, and for inter-country and time-series comparisons. The new budget classification
+    structure also allowed the Treasury to identify the resources allocated to each line ministry and to
+    ensure proper accountability.
+
+    (b) New procedures for budget execution. Replacement of the existing system with a system of treasury
+    warrants that would set the limit for expenditure for the line ministries by program and line items,
+    using the new budget classification code. The line ministries would in turn distribute the warrant
+    allocation to SUs by the same classification code by issue of sub warrants. This reform intended to
+    achieve optimum use of the cash resources and prevent accumulation of idle cash balances.
+
+    (c) Creation of a Treasury Single Account (TSA), closing down the bank accounts of the SUs and the
+    tax and customs authorities and opening a consolidated Treasury Single Account at the NBK for SU
+    budgetary transactions. Tax and customs accounts were also opened at the NBK regional branch, with
+    procedures for daily transfer of the balances to the TSA.
+
+    (d) Creation of a Treasury Ledger System (TLS) and a new chart of accounts - This ledger system,
+    which is also called a Treasury General Ledger (TGL), and is kept by the Central Treasury, included
+    ledgers for financial accounting as well as for monitoring of budget implementation. The TGL was
+    based on a new chart of accounts (COA), adopted for use in 1997. The new COA reflected the new
+    budget classification of revenues and expenditures. The TGL also had provisions for recording data on
+    original budgets, revisions as approved by the Budget department, warrants issued by the Treasury and
+    sub warrants by line ministries at regional level.
+
+    (e) Design and implementation of a modern, automated and integrated Treasury System for
+    government financial management to support the re-engineered Treasury processes and procedures.
+
+This reform strategy was implemented in a planned and phased manner over the period 1994-1999.
+
+Assessment of Project Objectives:
+
+
+
+
+                                                     - 3 -
+
+In view of the above, the objectives of this project reflected essential priorities for fiscal management in
+Kazakhstan as identified by the Government, the IMF and the Bank at that time. They were consistent with
+Government strategy for setting up institutions, systems and procedures necessary to establish a fully
+functioning Treasury function within Government. The objectives were however, very ambitious, since the
+implementation of the Treasury function, ab-initio, involved introducing change on a massive scale,
+government wide. However, these changes were essential for the desired transition to a market economy. A
+QAG review of a cohort of four technical assistance projects in ECA in 1998, made an assessment of the
+objectives of this project and stated: "The project is highly relevant to Kazakhstan's transition to a market
+based economy."
+
+3.2 Revised Objective:
+
+The originally stated objective was not formally revised.
+
+3.3 Original Components:
+
+The project comprised the following three phases.
+
+    (a) Design of an automated Treasury system to support Treasury operations. This component
+    consisted of (i) preparing a detailed functional design for the treasury system and developing related
+    operating procedures and manuals; (ii) examining available software alternatives; (iii) developing
+    hardware and software specifications for the technology platform needed to establish the system and
+    assist in their procurement; and (iv) formulating a training program for the Treasury staff to operate
+    and maintain the system;
+
+    Systems design activities under this phase also included funding for technical assistance in the policy,
+    legal and institutional reform areas. One of IMF Treasury advisor's was funded from the project
+    during part of his deputation to Kazakhstan, and the main advisor, during subsequent peripatetic visits.
+    A part of the design work was financed under a US 1.0 million PPF.
+
+    (b) Pilot systems computerization. Based on the work carried out under component (a), designing,
+    procuring, parameterizing and testing application software to implement the full functionality of the
+    Treasury system at a set of designated pilot sites. Procuring computer hardware and software to pilot
+    the system at these sites. Preparing related technical and end user documentation and training technical
+    and end user staff to operate the system.
+
+    (c) Full implementation of the computerized system. Based on the finalized system under component
+    (b), procuring and installing computer hardware and software for the remaining sites within the
+    Treasury organization and training staff, treasury wide for operating and maintaining the system.
+
+Project activities were consistent with international experience and the requirements of setting up a
+Treasury system in the country. The phasing of project activities was in line with the required phasing of
+similar projects, which involve the implementation of large scale information systems, country-wide. The
+project provided financing for essential technical assistance required for the detailed design of the systems,
+for the computer hardware, software and training required for their implementation.
+
+The aforementioned QAG review of this project stated with regard to the design of this project: " The
+design concept was appropriate: a single implementation agency, a pilot and adequate support for capacity
+
+
+
+                                                      - 4 -
+
+building."
+
+3.4 Revised Components:
+
+The project components were not revised. However in view of the delay and consequent expenditure
+overruns encountered in the implementation of the first two phases, the Government decided to finance part
+of the activities under phase (c), related to replication of the system, country wide, from its own resources.
+
+3.5 Quality at Entry:
+
+A formal Quality at Entry (QAE) assessment was not carried out before the start of the project. However,
+project objectives were consistent with Government priorities and the Bank's strategy and were proven
+feasible during implementation. Project design was based on international experience and had been used,
+under IMF advice, elsewhere in the CIS countries. Counter parts were committed to the operation and were
+involved in all phases of project preparation. However, the project was launched in a challenging
+environment as the political consensus on reforms within the country was evolving. It was an ambitious
+project and involved extensive changes to the existing system of fiscal management and control. The project
+design catered adequately to technical aspects but under estimated considerations of the political economy.
+This led to delays during project implementation. However, on balance QAE is assessed as satisfactory.
+This assessment is also supported by an independent QAE assessment made in the QAG review mentioned
+above which also rated it satisfactory. The QAG report stated: "The Borrower was committed to the
+operation and the design was based on the IMF's design which was being successfully introduced elsewhere
+in the Former Soviet Union (FSU). The approach was also appropriate, with a pilot phase to test the
+functionality of the systems before being adopted nationwide. There was ownership within the MOF. The
+Finance Minister acknowledged that both he and the Bank underestimated the level of political uncertainty
+and disruption which would affect the project during the early phases. He and the Director of the Treasury
+also said that they and the Bank did not fully appreciate the resistance to change they would encounter. In
+other words, a better analysis of the political economy and institutional stake-holders might have mitigated
+the very slow start up of the project. However, on balance the design, commitment level and institutional
+capacity were appropriate."
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+
+The project has successfully assisted the Government in setting up a Treasury function. Reform measures
+included the design and implementation of the underlying legal framework, the setting up of the
+organizational arrangements for Treasury based payment and receipts processing and design of the
+associated systems and procedures. These measures have provided the Treasury the capacity to collect and
+provide the MoF comprehensive reliable and timely information required for the management of
+government expenditure and has significantly improved the capacity of the Government for fiscal
+management. Most of the overall objectives of the project have been successfully accomplished and the
+achievement of objectives is rated satisfactory.
+
+The necessary legal framework that authorizes the Treasury to control budget execution is in place. The
+Treasury has been set up as a separate organization under the Ministry of Finance. A network of Treasury
+offices has been set up with offices in the capital city Astana, each of the 14 oblasts (regions) and about
+190 rayons (districts). A new budget classification structure and associated chart of accounts, conforming
+to with the IMF GFS system has been designed and implemented. A Treasury Single Account has been set
+
+
+
+                                                       - 5 -
+
+up at the National Bank of Kazakhstan and all spending unit bank accounts operating prior to the start up
+of the treasury have been closed. Budget appropriations approved by Parliament are recorded in the
+Treasury system, as are planned expenditures for each spending unit, by month and type of expenditure.
+During the course of the year the MOF issues monthly warrants to spending ministries which define the
+limits of expenditure for that month. Spending units route their payment requests to a designated treasury
+office for approval. The Treasury system, operated by all Treasury offices, checks for the availability of
+budget appropriations and warrants prior to approving expenditures. After approval the Treasury forwards
+the payment request to the designated branch of the Central Bank that holds the TSA and the bank pays the
+government creditor. This payment could be in the form of a check or a direct deposit to the creditors' bank
+account in a private bank. A commitment system has been instituted for contracts exceeding a specified
+threshold. A full set of fiscal reports are produced by the system to assist the Government in the
+management of its financial resources. Revenue receipts for tax and non- tax revenues are deposited by
+taxpayers in designated Banks and are then transferred to the appropriate Treasury revenue accounts in the
+Central Bank. In this way Treasury has control over all government financial resources.
+
+The specific outputs of each of the project components/ phases are described below.
+
+4.2 Outputs by components:
+
+The major outputs for each of the project components or phases are described below.
+
+(a) Design of the Computerized Treasury System. This component is rated satisfactory. The design
+phase was completed successfully and the outputs from this phase were satisfactory. The overall functional
+design was carried out under advice from the IMF. The detailed functional and technical design was carried
+out by an international firm selected on a competitive basis. This phase resulted in:
+
+    (i) A full statement of functional requirements for the Treasury system. This task involved a detailed
+    study and analysis of existing functional processes, as well as the reforms to be implemented or under
+    implementation. The functional design included a description of information flows, procedures,
+    transaction types, associated documents and forms, the organizational arrangements required to operate
+    the new systems and the reports to be generated. It also developed detailed documentation for the
+    overall systems and its operation, the detailed functional requirements and systems specifications for
+    the application software required to support them, in addition to their interfaces with external systems.
+
+    (ii) Design of technology architecture. This task involved surveying the locations of the Treasury
+    offices, servicing bank branches and budgetary institutions that were expected to transmit or receive
+    data and determining the location of the computer systems, the associated transaction volumes (current
+    and future) and data requirements, and the size and configuration of the hardware and software to be
+    installed at the nodes, as well as the mode of intercommunication, specifications for the hardware and
+    systems software required at the various sites for each phase of the project.
+
+    (iii) Preparation of tender documents for system procurement in accordance with the World Bank
+    guidelines for procurement of computer systems.
+
+    (iv) Design of a training program describing the training courses required for the operation of the
+    system and highlighting the numbers and types of staff to be trained in each area.
+
+The Loan partly funded the stay of one of the resident IMF Treasury advisors and peripatetic visits of a
+second advisor. These inputs provided necessary policy guidance on the legal and institutional aspects of
+
+
+
+                                                      - 6 -
+
+treasury and quality assurance on the work of the external consultants. This included advice on the design
+of the budget classification structure and chart of accounts, budget execution processes and procedures and
+the formulation of treasury regulations and operating manuals. All these tasks have been completed.
+
+It needs to be mentioned here that during implementation the Government required that two sets of design
+changes be incorporated in the system. These are described below.
+
+    (i) Centralization of all payments processing in the central Treasury in Astana. The original design
+    proposed by the IMF and the project consultants was based on a distributed architecture which was
+    compatible with the telecommunication facilities available in Kazakhstan. Under this design, the
+    regional (oblast level) Treasury offices would be the centers for transaction processing and rayon
+    offices would connect with these offices through telecommunication lines. The oblast offices would
+    keep their own databases, process payments and receipts related to their rayons and periodically update
+    the general ledger at the center. However, the Government wanted a move to a centralized architecture.
+    Under this architecture, all transactions would be processed by the servers located at the Central
+    Treasury, with regions and districts accessing them online, from workstations via the
+    telecommunication network. The separate oblast level databases would be abolished and all
+    transaction processing was centralized at the Central Treasury accessing a single, centralized database.
+    The stated reason for this move was that this arrangement would provide a more up to date picture of
+    the available cash resources and facilitate more effective cash management. However, this was a major
+    architectural change. It called for changes to the hardware configuration at the Central Treasury, and at
+    the oblasts /rayons. More importantly, it imposed the responsibility on the Treasury to replace the
+    existing weak and unreliable communication facilities with a nationwide telecommunication network
+    consisting of fast, reliable and secure communication channels between districts, regions and the
+    central Treasury.
+
+    The Bank team and the IMF advisor cautioned the Treasury on this move and pointed out that efficient
+    functioning of a fully centralized system would be crucially dependent on the establishment of a good
+    telecommunications network between the rayons and the center and efficient technical support
+    arrangements for the central systems to ensure that system maintenance/tuning is carried out on a
+    regular basis to ensure acceptable response times for transactions generated at remote locations.
+
+    The Government felt that it needed more timely information on available cash resources and better
+    control on the use and deployment of these resources during budget execution. It therefore insisted on a
+    shift to a centralized architecture for all payments processing and agreed to ensure that the
+    requirements highlighted by the Bank and the IMF would be met as the project progressed. With this in
+    view the Government embarked on the implementation of a country wide satellite based
+    telecommunication network at a cost of US$ 2-3 million that would enable the rayon treasury offices to
+    communicate directly with the Central Treasury. The Government met the additional cost from its own
+    resources. It also assured the Bank that adequate arrangements would be made for the maintenance and
+    operation of the centralized system.
+
+    (ii) Integration of local government bank accounts into the TSA. The original scope of the project was
+    limited to processing transactions related to the Republican Budget. The Government decided to
+    increase the scope of the implementation of the Treasury function to local governments and to
+    amalgamate the Bank accounts for the local Governments into the TSA at the NBK. Under the new
+    policy, the balances of each government administration would be tracked through the accounts created
+    in the Treasury General Ledger. This change would provide more effective control over all (including
+    local) government resources. However, successful implementation would require that either local
+
+
+                                                      - 7 -
+
+    governments would willingly come under the control of the central treasury system and agree to a
+    consolidation of their resources with the TSA at the center, or that this would be made mandatory
+    under the budget legislation governing local government budget execution. The Government of the time
+    felt that it had the necessary legal authority to make this move.
+
+These changes have resulted in some problems in systems implementation as is described in the following
+sections.
+
+(b) Pilot systems implementation. This component is rated satisfactory. This phase was completed
+successfully resulting in the procurement of application software through an ICB process, its
+parameterization and testing, so that it conforms to the functional design, and its implementation at a set of
+designated sites.
+
+The Treasury selected the Oracle Financials application software package as a result of an ICB process.
+The software is based on a modular design. The different modules are integrated and exchange data
+seamlessly. There is a single secure point of entry for commonly used data. A modular approach has also
+made it easier to differentiate between those functions that needed to run at regional centers and line
+ministries from the ones that were required at the Central Treasury. The main functional modules in the
+system are:
+
+    ·    Central General Ledger (Central Treasury)
+    ·    Commitment Accounting and Procurement
+    ·    Payments accounting
+    ·    Revenue accounting
+    ·    Assets Management
+    ·    Cash Management and Bank Reconciliation
+
+In addition, the system has facilities for uploading the approved budget and subsequent revisions, and for
+storage of historical ten-year fiscal data to assist budget compilation.
+
+The new system was installed at designated pilot sites which include the Central Treasury, the Astana City
+Treasury office, and the Akmola Oblast Treasury and 18 associated rayons, with effect from August 2001.
+The Astana City Treasury office pilot services all major line ministries' headquarters, Astana city
+administration and 2 local rayon governments. The second pilot site services all national government SUs
+in that region and oblast and 18 rayon governments.
+
+Evaluations by missions from the IMF and the Bank in November 2001 indicated that all the modules were
+functioning as designed, that the local staff were well trained and knowledgeable and that the interaction
+between the regional office and the Central Treasury in running the application software was smooth, fast
+and essentially problem free. The Central Treasury was successfully interacting with electronic inter-bank
+payment and clearing system for making direct payments to suppliers' accounts from the TSA and for
+receiving data on collections of tax and other receipts going directly into the TSA.
+
+In this phase also, the Government decided to institute changes in scope of the pilot which resulted in delays
+and an increase in cost. The original objective and scope of the pilot were to test the technical and
+functional viability of the new system and associated application software and hardware at the Central
+Treasury office, two representative oblast offices and two rayons. In 1997 the Government of Kazakhstan
+decided to move the capital of the country from Almaty to Astana, about 600 kilometers to the north. The
+move caused a reconfiguration of the pilot sites in order that they could continue to include the Central
+
+
+                                                       - 8 -
+
+Treasury office which was now located in Astana. Parallel to this configuration and midway during the
+procurement of the system, the Treasury also decided to change the scope of the pilot. The Government felt
+that it was also necessary to demonstrate, during the pilot phase, the successful implementation of the
+treasury system for all sites within the designated pilot oblast offices, rather than in only a few
+representative sites, as was the case with the original pilot design. Accordingly, the Government increased
+the scope of the pilot to now include the Central Treasury, the Astana City Treasury, the Akmola Oblast
+and all of the 22 associated rayons. This increase in scope meant that the pilot would encompass about half
+of the total budget related transactions and in effect meant that the pilot phase was replaced by a first phase
+introduction of the production system covering half the budget. The increase in scope was not strictly
+necessary to test the technical and functional viability of the new system. However, the Bank agreed to this
+revision, since a successful introduction of the new system for the enhanced pilot region would be more
+effective in demonstrating the advantages of the new system and therefore add to its credibility. However,
+the Bank and the IMF advised the Government that taking on a more ambitious pilot, to start with, would
+increase implementation risks and would result in an increase in cost and time for implementation. The
+Government considered these risks worth taking to ensure credibility for the new system.
+
+Furthermore, since the Government was continuing to pursue the implementation of the Treasury reforms,
+and major elements, such as Treasury based processing of payments and receipts, had already been set up,
+it became necessary to set up interim arrangements to support the functioning of the Treasury until the new
+system became available. Accordingly an interim computer system was first set up in 1998, partly financed
+from the World Bank's Institution Building Technical Assistance Loan (IBTA) and partly from the
+Governments own resources to meet the gap until the full function system became operational.
+
+(c) Replication of the Treasury System Country Wide. Based on the results of the pilot stage testing
+and the progress in the establishment of the new satellite based telecommunication network, the Treasury
+started replicating the new system in the remaining oblasts in June 2002. At the end of December 2002, this
+system had been successfully implemented at the Central Treasury and 5-6 (out of 14) oblasts. The interim
+Treasury system, also developed under the project, continues to be used at the remaining oblasts. As stated
+earlier, the project had originally envisaged only the coverage of the Republican budget. In design changes
+instituted during implementation, the Government increased its scope to also cover Local Government
+budgets. As the time of project closing system implementation at the 5-6 Oblasts covers a major portion
+(over 85%) of the Republican budget and about 30% of the Local Government Budgets. The Government
+has decided to allocate its own budgetary resources to complete the roll-out process. Some technical
+problems are being encountered in the replication of the system as is discussed more fully below. However,
+since most of the Republican Budget is now routed through the Treasury and the technical problems are
+amenable to resolution as is discussed below, this component is rated satisfactory.
+
+Training has been recognized as a key factor in ensuring the sustainability of treasury reforms and the
+operation of the system. The Central Treasury Department has established a training facility at its office in
+Astana, where several types of training and support are provided. The initial contract with the
+hardware/software vendor included provisions for some technical training courses in UNIX (the operating
+system), database management and the application software. This contract also provided for the
+development of end user reference manuals in Russian to assist in the training process. The Treasury has
+followed this up by organizing extensive seminars for training of its staff, as well as senior financial staff
+of the user ministries and local governments. This training focused on the functional aspects of the new
+treasury system, using the Treasury training facility and the detailed functional requirement documents. A
+detailed training program for the senior staff of the MOF and the user ministries in using the new
+application software has been introduced from November 2001 by the project team and is being replicated
+country-wide, in step with the system replication process.
+
+
+                                                      - 9 -
+
+As is mentioned above and also pointed out in the borrower's comments to the ICR, the Treasury is
+encountering some technical problems in the early phases of the roll-out process. The two main reasons for
+these problems are:
+    (a) A new and complex information system normally requires some initial adjustments and above
+    average maintenance in its early implementation stages. For this it is necessary that either in-house
+    capacity be available to support the system, or the client has technical support arrangements with an
+    outside contractor. In the present case the Treasury put the system in production use and took over
+    operation of the system without putting in place reliable technical support arrangements, despite
+    repeated assertions by both the Bank and the IMF as to the importance of this being done before the
+    contractors left the project site. Formal and reliable maintenance and support arrangements for the
+    support and tuning of the system were only put in place in January-February 2003. As a result a
+    number of operational problems in the early operational phase were not attended to and the data base
+    structures got fragmented without adequate maintenance and system performance suffered;
+
+    (b) the full set of telecommunication facilities, including a satellite receiving station in Astana, which
+    was supposed to be set up by July 2002, and which are a prerequisite for a centralized system to work
+    efficiently, have not been set up as yet, again despite repeated reminders from the Bank and the IMF
+    advisor. This has also contributed to a degradation of system performance when operating in an on-line
+    mode from remote sites.
+
+The Bank team and the IMF advisor assisted the Government in its negotiations with the vendor to correct
+these problems and some of the major issues were resolved by December 2002 as part of the systems
+warranty. The Government has subsequently entered into a support and maintenance contract with a local
+firm which has in turn contracted with Oracle corporation to provide continuing support for the next three
+years. The remaining performance and other technical problems are being addressed under this contract.
+Required additions to the telecommunications facilities are also planned.
+
+At the time of the closing of this project, a new Minister of Finance and a new management team has taken
+over in the Ministry of Finance. The new management feels that the technical problems being faced with the
+system require that the system design revert to a decentralized architecture. This point of view has been
+highlighted in the borrowers comments.
+
+The issues that have been highlighted in the borrowers contribution to the ICR can be grouped into four
+areas:
+
+    (i) Technical problems with system operation: It is stated in the borrowers contribution that a number
+    of technical problems have been encountered in the initial operation of the system, for example, slow
+    and unstable operations, system breakdowns, errors in reports, and in some modules. As is also stated
+    in the borrowers contribution, many issues in this category have been addressed by the vendor.
+    Technical support and maintenance arrangements that have now been put in place by the Government
+    should be able to correct remaining problems. In any case these problems are not architecture specific
+    and should not be used as a means to justify a move to a distributed architecture.
+
+    (i) Vulnerability of a centralized system to failure: It has been stated that a centralized system is more
+    vulnerable to failure. The prerequisites for the implementation of a centralized architecture and the
+    steps that the Government had promised to take in this regard have been discussed in section 4.2. If
+    the prerequisites for the operation of a centralized system, which include, good telecommunication
+    facilities, appropriately sized servers at the central site and back up facilities and adequate maintenance
+
+
+                                                      - 10 -
+
+     arrangements, are put in place, as had been repeatedly stressed by the Bank and the IMF advisor, then
+     this criticism is not correct. In fact applications like Oracle Financials are designed to operate and are
+     mostly implemented in centralized environments. Most of the items listed above that are required for
+     the operation of a centralized system are now in place. The issues related to telecommunications are
+     discussed below.
+
+     (iii) Requirements for good telecommunication facilities, high telecommunications bandwidth, and high
+     recurring costs associated with telecommunications. The Bank and the IMF had at the very outset
+     pointed out the requirement of an efficient telecommunications facilities for the operation of a
+     centralized system. The Government has in fact implemented major elements of a satellite based
+     telecommunications network for this purpose. The remaining elements such as the receiving station in
+     Astana, need to be put in place as soon as possible. The requirements for bandwidth can be further
+     optimized by implementing efficient database query and reporting methods which have now been
+     proposed and are being implemented. The Bank team had been assured by the Government and
+     Kaz-Telecom, and this has been documented in mission aide memoires, that the communication
+     channels provided to the Treasury have appropriate information security arrangements. The IMF
+     advisor, after examining the contractual arrangements between the Treasury and the Kaz-Telecom, the
+     telecommunications service provider, has documented in his Aide -Memoir left with the Finance
+     Minister after his mission in February 2003, that the telecommunication costs are currently $1.0
+     million per year and not the $5-6 million per year as is being stated, and these are not considered
+     excessive.
+
+     (iv) The degree of control that the Treasury should exercise on local government budgets. The new
+     management in the Ministry of Finance feels that a decentralized oblasts/rayon based regime would be
+     more appropriate for the administration of local Government resources. The Bank team feels that the
+     relationship between the local and national governments are essentially considerations of the prevailing
+     political economy and need to be resolved in the light of the political consensus on these issues as
+     reflected in the appropriate budget laws.
+
+The Bank and the IMF advisor have proposed possible courses of actions and highlighted their
+implications. They have suggested that having decided for a centralized system, the Treasury should not
+use the essentially technical issues listed at items (i)- (iii) above to interrupt the roll-out process midway
+and justify a move to a distributed architecture since these issues are amenable to resolution and are in the
+process of being resolved. It has been suggested that the Government needs to complete the missing
+elements of the satellite based telecommunications network, namely installation of the planned receiving
+station in Astana and/or upgrade the ground based telecommunications link between the satellite receiving
+station in Almaty and Astana. Furthermore, the Treasury needs to develop better estimates of recurrent
+operational costs associated with telecommunications before using it as a driver for this change.
+
+However, if the real driver for change is the issue of control over local government budgets, then this is a
+policy decision that needs to be resolved in the light of the prevailing political economy. If Government now
+feels that the political environment requires a move to decentralizing the control over local budget execution
+and the budget laws allow this then this should be done in a planned manner and only for the local
+government resources. It would still be necessary to retain central control over Republican budget
+resources.
+
+It has been pointed out that the transition to de-centralized operations is complex and could take 12-18
+months or more and considerable additional investment (US$10.0 million or more). It should also be noted
+that having opted for a centralized system earlier, the Government has already made major investments in
+
+
+                                                       - 11 -
+
+the Rayon to Center links by installing a satellite based telecommunications network connecting the rayons
+to the Center. However, if the Government now wants to move to an oblast based system for local
+government budget execution, the state of the telecommunication links between the Rayons and the Oblasts
+will need to be assessed and these may also require significant upgrades.
+
+Current status: As is stated in the Borrowers comments to the ICR, the Treasury is currently engaged in
+correcting the technical problems that are being encountered. The new maintenance and support contractor
+hired by the Treasury has started work on site and is in the process of making the required corrections to
+the system and many of these problems have been corrected. It has been decided by Government that if the
+required improvements to the system would be implemented satisfactorily the roll-out process would be
+resumed for the Republican budget and the Treasury would continue to monitor the stability of the system.
+As of June 1, 2003, we understand that the system has been replicated to two more oblasts. However,
+some technical problems still persist. We further understand that the Government has started a pilot project
+in parallel to implement a de-centralized version of the system to cater to the local Government budget. The
+Republican budget will, we understand, continue to be processed centrally.
+
+4.3 Net Present Value/Economic rate of return:
+
+Not Applicable
+
+4.4 Financial rate of return:
+
+Not Applicable
+
+4.5 Institutional development impact:
+
+The institutional development impact of this project has been substantial. The necessary legal and
+institutional framework required for the operation of a Treasury has been set up. The Government of
+Kazakhstan has been able to put in place a fully functioning Treasury organization with offices at the
+center, in each of the 14 oblasts and in some 190 rayons. All government financial flows relating to
+expenditures and receipts have been restructured and are routed through the Treasury. Spending unit bank
+accounts have been closed and a Treasury single account set up with the NBK. Associated systems and
+procedures implemented under the project, enable better control on the use of Government financial
+resources and ensure that they are spent on items for which they had originally been approved. The system
+enables better cash management and Government has a good idea of the total cash resources available to it
+at a given point in time thereby enabling it to better formulate its borrowing strategy. Efficiencies in budget
+execution achieved by the system, enable Government to meets its financial obligations within the
+stipulated contractual time limits. A large number of staff have been trained in the use of the system.
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+
+A major factor that affected project implementation related to the fact that this project was initiated at a
+time when Kazakhstan was in the initial stages of the transition from a socialist system to a market
+economy. Public finance management structures and institutions inherited from the socialist days were not
+adapted to a market economy and called for far reaching institutional and policy reforms. Even though a
+decision had been taken to move to a market based economy, the specific steps involved in the actual
+transition were not clear to all Government officials. Exposure of top MOF officials to courses organized
+by the IMF institute in Vienna, and visits of these officials to other advanced countries to see the
+
+
+
+                                                     - 12 -
+
+functioning of a modern Treasury were helpful in improving their understanding of Treasury Reforms.
+However, it took time for all related officials to become fully conversant with the new systems and
+procedures involved in the transition.
+
+The 1998 QAG report noted that complexity of World Bank procurement procedures for IT products
+contributed to delays in procurement. While a major part of the delays were caused by the change in the
+scope and specifications of the procurement, as described in section 4 above, the two stage ICB process
+required for application software procurement is very time consuming and complicated to understand and
+use for implementation agencies who are first time Bank borrowers.
+
+5.2 Factors generally subject to government control:
+
+As mentioned in section 4, several changes initiated by the Government and implementation agency, have
+affected the timing and cost of implementation of the accompanying information systems required to
+support the Treasury reforms that were to be to be implemented under this project. The main changes were:
+(i) a change in the scope of the pilot; (ii) adoption of a centralized architecture for payment processing, and
+(iii) integration of local government bank accounts into the TSA.
+
+The increase in the number of pilot sites and changes in the architectural and functional design, mentioned
+above, constituted significant amendments to the original specifications for the Treasury system. These led
+to an increase in the estimated cost and timing for implementation. The resulting negotiations with the
+Bank, in order to ensure compliance with procurement guidelines, and with the vendor selected for
+Treasury system implementation, to come to an agreement on the revised costs, led to delays of over a year
+in the finalization of the contract. The project closing date was accordingly required to be extended two
+times over the course of project implementation; the first time to compensate for delays in the finalization
+of the contract with the H/W software vendor and the second time to account for delays in implementation
+arising on account for changes in the design of the system architecture.
+
+In 1997 the Government of Kazakhstan decided to move the capital of the country from Almaty to Astana,
+about 600 kilometers to the north. This decision had an adverse effect on project staffing. Key consultant
+staff were reluctant to move to Astana, which had limited facilities and an extreme climate. Some of these
+consultants left the project.
+
+5.3 Factors generally subject to implementing agency control:
+
+It is felt that the factors that have contributed to the difficulty of the implementation process and an
+increase in cost and time for implementation are closely interlinked and were under the joint control of the
+Government and the implementing agency. These have been discussed above.
+
+5.4 Costs and financing:
+
+As a result of the factors mentioned above, project implementation fell behind the original schedule by
+about two years and the cost of systems implementation increased by about $4.0 million. Out of this, the
+cost of implementation of the new satellite based communication network, which became a critical
+requirement for the implementation of the centralized architecture, was about $2.0 million and was met
+from the Government's own resources. The remaining increase was due to changes in the technical and
+functional design, which resulted in increases in costs in the application software configuration process,
+changes in the deployment and size of servers and other hardware. In addition, delays in project
+implementation required that the stay of project consultants be extended. Together, these factors
+
+
+
+                                                       - 13 -
+
+contributed to an increase in cost of about $2.0 million, which was met from the Loan.
+
+The original investment cost of the project was estimated at $16.0 million. Out of this the Bank was
+supposed to finance 15.8 million, including a PPF of $1.0 million which financed preparatory design
+consultancies during the preparatory phase. The Government was to pick up minor civil works related to
+site preparation and estimated at $0.2 million.
+
+An amount of $14.67 million has been disbursed from the Loan. In addition, the Government has
+contributed $2.0 million towards setting up the telecommunications network. It is estimated that an
+additional amount of $3.0 million would be required for systems replication. Thus the total project
+investment cost would be about $19.67 million or about $4.0 million more than the original estimate.
+
+In FY 2002 on account of the build up of surpluses resulting from increased oil revenues, the Government
+introduced a new policy, placing additional restrictions on the use of Loan proceeds for technical assistance
+projects. It has accordingly decided to finance all additional costs required for replicating the system to the
+remaining sites, entirely from its own resources, even though an amount of $ 1.13 million was available
+under the Loan. The remaining un-disbursed amount of the Loan has been cancelled.
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+
+The Legal and Institutional framework for budget execution developed over the course of the project has
+been codified in the relevant budget laws and is considered to be sustainable. All Government financial
+flows have been re-engineered and Government resources placed in a Treasury single account at the Central
+Bank. This is also considered to be sustainable. The institutions and systems set up as part of this project
+are being used by the Government as part of its apparatus for public finance management. Should the
+Government decide to move to a decentralized system because of changing views on the scope of control of
+the State Treasury over the Local Government budgets, it would still retain control over Republican budget
+resources, as was the original intention. The Legal and institutional framework for Treasury operations set
+up under the project would continue. In a migration to a de-centralized information systems architecture,
+the existing hardware and application software installed at the center would continue to be used, however
+the Treasury would require installation of additional hardware at the oblast level to support decentralized
+transaction processing for local Government budgets. Since Treasury offices already exist at the oblast and
+the rayon levels and are responsible for processing payment requests received from spending units in their
+respective areas, a move to a decentralized model would not require changes to the institutional structure
+already in place. In the event of de-centralization, these offices would process their transactions at a local
+server rather than at the central server in Astana. Local Government funds would be decentralized and held
+in accounts at the oblast branches of the National Bank of Kazakhstan. The staff trained in the use of the
+system would continue to operate the system. Thus all these elements are considered sustainable.
+
+The Government has the financial resources to maintain the Treasury system. The dearth of skilled
+manpower within Government would however, continue to be a constraint and require the Government to
+out source technical support and maintenance for the system to outside vendors. The Government has
+entered into a contract with a private firm for technical support and maintenance of the system. This is
+increasingly the model adopted by many Governments in view of their inability to provide market based
+salaries to technical specialists required for systems maintenance tasks.
+
+6.2 Transition arrangement to regular operations:
+
+
+
+
+                                                      - 14 -
+
+The institutions and systems set up as part of this project are now routinely used by the Government as part
+of its apparatus for public finance management. The transition to regular operations has already
+successfully taken place.
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+
+The Bank's performance in the identification, preparation and appraisal phases was satisfactory. The
+project financed the setting up of a Treasury system which was a crucial element of the Government's own
+fiscal reform program. During these phases the Bank worked closely with the IMF and provided advice on
+the design and implementation of the system based on its work on similar systems in other CIS countries.
+Government officials very quickly internalized the concepts associated with setting up a Treasury function
+and fully supported the design. The 1998 QAG review rated the QAE to be satisfactory, on balance, but
+stated that both the Bank and the Borrower had underestimated political and institutional constraints. The
+project received about 58.5 staff weeks for project preparation up to supervision.
+
+7.2 Supervision:
+
+Although, mixed in the early days of project implementation, over the course of the entire project, the
+Bank's performance is assessed as satisfactory. The project received about 113.3 staff weeks for
+supervision.
+
+The 1998 QAG review, had rated the quality of supervision for the project as marginally satisfactory. At
+that stage, the project had essentially reached an impasse, with the Government and the contractor unable
+to agree on a revised price for the contract with the change in scope mentioned above. The project
+consultants had also expressed reservations of continuing with the original team during the implementation
+process. Project implementation had been delayed by at least one and a half years due to substantial
+changes in scope and content of the original procurement package, the protracted procurement process and
+institutional resistance. The frequent turnover of TTLs and passive and reactive nature of Bank supervision
+missions had also contributed to the problems.
+
+Soon after the 1998 review the task managers of both the Bank and the Borrowers teams were changed.
+The Bank team increased the intensity of project supervision and adopted a more pro-active stance to
+project implementation.
+
+With some urging from the Bank, the Treasury, put a very competent Treasury professional in charge and
+assembled a team of dedicated staff who were allocated full time to work with the vendor on project
+implementation. The focus of project implementation moved from being one of an IT project to a Treasury
+reform project.
+
+These changes, coupled with persistent Borrower commitment to project implementation, enabled the
+Treasury to finalize contract negotiations with the vendor and to complete implementation of the greatly
+expanded pilot. The Bank team was able to work out a procedure that would be acceptable to the Bank to
+enable the change in scope and cost of the H/W, S/W contract. After Bank approval of the contract, the
+Bank team was also more actively engaged in the implementation process. In particular, it advised the
+contractor to develop a prototype system using Oracle Financials, the selected software package, which
+would enable the Treasury to getter a better idea of what the system had to offer, instead of merely
+
+
+                                                     - 15 -
+
+producing extensive documentation, that the Treasury was unable to assess. Both the IMF advisor and the
+Bank TTL were actively involved in assessing the quality and the suitability of the prototype and in
+advising the Treasury on any corrective actions required. As a result, project implementation accelerated
+and the pilot process was completed successfully. The completion of the pilot caused the new Treasury
+system to gain great credibility both within and outside Government. The successful implementation of the
+Oracle Financials application package for the Treasury was recognized as a first in many quarters. The
+IMF arranged a major international conference in Astana in April 2002 highlighting the Kazakhstan
+Treasury project as a major success story which could serve as a model for other FSU countries.
+
+Implementation picked up considerably during the last years of the project and it was able to achieve most
+of its objectives. On balance, the Banks performance during supervision can therefore be rated as
+satisfactory.
+
+7.3 Overall Bank performance:
+
+In view of project outcomes and the quality of intensive supervision carried out during the later years of the
+project, overall Bank performance can be assessed as satisfactory.
+
+Borrower
+7.4 Preparation:
+
+The overall project design was based on IMF recommendations for Treasury systems for CIS countries.
+However, as implementation commenced, the Borrower quickly assumed the leadership in formulating and
+executing project activities. In particular, the Borrower very quickly internalized the basic concepts
+associated with the Treasury function and, in fact, showed a strong desire to extend the scope of the
+function to areas beyond those that were originally envisaged in the project, e.g., the extension of the
+system to include local governments. The Borrower also insisted on implementing the more advanced
+centralized transaction processing model compared to the distributed processing originally suggested by the
+Bank and the IMF, due to the state of communications in Kazakhstan. Bank (and IMF) advice was
+advisedly conservative in the earlier stages and was consistent with on-ground technical and human
+resource capacities and constraints. However, the Bank was not rigid in its approach and agreed to a more
+advanced design and more aggressive implementation strategy as the Borrower assured the Bank that it
+would be able to take on the challenges that such an approach entailed. The Bank remained involved in
+implementation by highlighting the underlying requirements for pursuing this more aggressive strategy and
+keeping a close watch on progress implementation.
+
+7.5 Government implementation performance:
+
+The Ministry of Finance was responsible for overall project coordination, however, execution of the
+project was the responsibility of the Treasury Department.
+
+7.6 Implementing Agency:
+
+They were very responsive to the implementation needs of the project and generally excellent cooperation
+was established with the task team and maintained through out the project. A unit within the Treasury was
+responsible for maintaining project accounts and the financial management aspects of the project. Midway
+through the project the staff in this unit was changed due to previous staff departures from Government.
+This caused some transitional problems which were, however, overcome as new staff became familiar with
+Bank procedures.
+
+
+
+                                                      - 16 -
+
+7.7 Overall Borrower performance:
+
+Most of the targets proposed for the project have been met. Overall performance of the Borrower can be
+assessed as satisfactory.
+
+8. Lessons Learned
+
+The Kazakhstan Treasury Project holds valuable lessons for other similar projects. Government
+commitment to reform over the entire project duration, which has extended to seven years, has been a
+critical success factor for this project. Successive Finance Ministers and Treasury managers have
+recognized the importance of treasury reforms and have continued to press for progress on key policy
+reforms. Initially there was resistance from some power ministries, such as Ministry of Defense, who were
+reluctant to give up their separate bank accounts. However, unwavering support from the Government and
+Parliament made it possible for the MOF to take a strong stand and achieve the transition. The
+Government's ability to staff the project team with an extremely competent project manager and with a
+dedicated team of Treasury staff was critical during the testing and implementation phases of the new
+system.
+
+The Government formulated clear reform objectives and consistent implementation strategies. Functional
+and procedural changes were the major drivers of the reform. The technological changes, though the most
+capital intensive, were viewed as being in support of the functional reforms.
+
+A decision early in the project to go for an interim computer system to handle core aspects of Treasury
+functionality was critical in enabling the introduction of change involved in a gradual and a more
+manageable manner. It enabled staff within the Treasury to become familiar with a simpler computer-based
+system before the full function, more complex system is introduced. Moreover, since this system enabled
+the introduction of the key functional processes for the Treasury, it made it possible to hold the end user's
+attention over the extended period required for full systems implementation.
+
+Close project monitoring and advice rendered by the Bank and IMF, particularly during the last four years
+of the project implementation, has also been important. The consistency and continuity in the advice was
+possible by continued association of the same IMF Treasury advisor through out the project. This enabled
+good functional and technical advice to be available to the Borrower during the critical implementation
+phases. The requirements for the inclusion of appropriately qualified technical staff in the project team for
+projects involving the implementation of a major country wide information systems network needs to be
+recognized in the Bank.
+
+Lack of capacity within the MOF to handle the implementation of complex information systems and change
+management on such a wide scale, have been the main impediments to the project being completed more
+speedily. The time needed to introduce change at the very basis of budget execution, on such a vast scale,
+country wide, needs to be recognized in planning similar projects.
+
+Low government pay scales continue to be a crucial impediment to attracting and retaining qualified
+technical staff, on both the functional and the IT sides, required for project implementation. On the
+technical side the Government has entered into a support contract with the vendor to provide the necessary
+services. However, the retention of permanent staff, who have been suitably trained in the use of the
+system, at the low salary scales offered will continue to be a constraining factor. Increasing salaries and a
+parallel move at improving the service conditions of employees within the MOF would be required to
+retain staff and ensure the longer term sustainability of the system.
+
+
+
+                                                     - 17 -
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+     We would like to express our gratitude for the implementation of the Treasury Modernization Project.
+
+         Transition of the entire budgeting process to a new quality level reflects the big job that was done
+   for the project implementation. The ICR reflected the basic stages of the work fulfilled. We agree with
+   most of the comments. This is related, first of all, with the introduction of the new budgeting principles,
+   introduction of new functions that could allow achieving many objectives set by the project. As the ICR
+   has noted the cost management can only be effective in the conditions of the integral and systematic
+   approach. It should be based on the functional development of the Treasury system and on the relevant
+   information provision. Both the processes are closely interrelated. We consider successful all the work
+   related to the development of principles, procedures and legal acts for the improvement of the treasury
+   processes.
+
+         Computerization of the Treasury is a critical moment for the implementation of the set strategic
+   goals. The use of Oracle Application Finance is the first example of the standard corporate management
+   software of the ERP category for the management of the public finance. During implementation through
+   partial customization and parameterization most functions were implemented.
+
+         However a number of problems emerged during implementation, in particular, at the stage of
+   roll-out. These problems can be conventionally split into two groups. The first group includes the issues
+   related to the problems of the software, in its standard part and the block of customized applications.
+   After the completion of the project the agreed basic list of outstanding errors was put together. At the
+   moment out of 184 issues 27 are still unresolved and some new errors were added to it.
+
+         The second group of problems is more serious and systematic. It is related to the demerits and
+   errors of the design of the technical architecture of the project. During the maintenance of the system in
+   5 oblasts of Kazakhstan, especially in the extra load regime, some defects have been identified.
+
+            The original scheme proposed by the World Bank consultants provided multi-tier shared
+   architecture, however a one-tier scheme was implemented by Government. A possible reason for this is
+   the economization of the implementation and roll-out process.
+
+            The one-tier scheme of the Project implemented through HP and Oracle was not well thought
+   about. Under such an architecture of the system there is a strong probability of global systematic
+   failures.Under the conditions of Kazakhstan centralization of all data and calculations on one server is a
+   difficult task to implement. The real condition of the communication channels is such that whatever
+   powerful is the central computer, the system will always have stockpiled the queues for processing,
+   chain-wise increasing the waiting time. There is a real concern that the internal capacity of the existing
+   channels will just not be sufficient to connect all treasury branches. The rent of the additional satellite
+   channel is comparable to the cost of the entire project. Use of the system in its current configuration
+   undergoes great delays, failures and great traffic. There are problems of safety of information and
+   payments in the central system and communication channels.
+
+            This causes serious problems of safety and stability of the financial system of the state. In this
+   respect any further system roll-out without corresponding solution of all errors may cause failure of the
+   entire system of the budget payments. To achieve the best result the Ministry of Finance has taken all
+
+
+
+                                                      - 18 -
+
+measures to improve the situation. The agreement was concluded to support the system. The agreement
+was signed with Hewlett-Packard Corporation to prolong the warrantees and train specialists. At the
+beginning of April the specialists of Oracle are planning to install the modernized version of Oracle
+Applications. We hope to eliminate some critical errors of the first group. We then plan a staged system
+roll-out in other oblasts with constant monitoring of the stable performance of the system. Options for
+preparing, training and practicing are proposed to support the system. On the basis of the current use we
+again express our concern that the linear roll-out under the one-tier scheme can result in a major
+escalation of problems and risks.
+
+Regards,
+
+N. Rakhmetov
+Vice-Minister
+-------------------------------------------------------------------------------------------------------------
+Appendix
+
+List of issues
+
+Slow and Unstable Operations. Issues of current use. The implementation of the system is
+accompanied by a great traffic in channels, system instability and high additional consumption of paper.
+The operations of the system are extremely slow. It takes oblast treasuries 30 to 45 minutes to type the
+documents, and from 6 hours to several days to distribute them.
+The schedule of work in the system was developed, the oblasts started two-shift regime of operation.
+However, in big rayons, such as Ekibastuz and Aksu, night-shift operation doesn't help. They have to
+take documents to Pavlodar and proceed with the operations from the oblast center.
+
+At the moment the real work of the system in its current configuration faces big delays in processing of
+payments and reporting. They are mostly related with the low current productivity and queuing in the
+system.
+Loading of computerized tables (financial integrator) in rayon divisions takes hours. The Specialists of
+Oracle recommended to switch it off and use another e-mail scheme, but this excludes the control of
+input data.
+
+System Breakdowns. On October 16 and December 13, 2002, the entire system was not operating for
+several hours under different technical reasons. In the first case there was a failure of the disc massive of
+the HP server. This is still the potentially most vulnerable part of the hardware as having two physically
+different servers there is single, common for the two servers, external memory. On December 13 in the
+presence of Oracle and HP specialists, the system failed and the entire standard regime of treasury
+operations was destroyed. The reason was not finalized. A possible reason is overfilled intermediate
+worksheets. This situation shows instability of the treasury system and its dependence upon various
+system errors. The nature of the errors is still not clear, there is no mechanism of the effective reaction
+to such errors. The errors need to be "caught" and fixed together with Oracle specialists, as their
+emergence can't be predicted.
+
+Reports. A number of reports are formed with errors. The process of completion and printing of the
+output forms is not optimized and takes a lot of time thus leading to long system holds. High quality
+paper and laser printer cartridges are wasted In some oblasts consumption of paper grew from 7 to 10
+times and is from 70 to 200 kg a day.
+
+
+
+
+                                                          - 19 -
+
+Errors in modules. Problems rose in the implementation of:
+
+l some functional modules; serious errors in the main module ­ "Payments to creditors" ­ are of a
+    particular concern.
+l "Random" processes are happening in the system resulting in blocking of saving process and
+    spontaneous system hold.
+l Misbalancing of cabling, to be manually regulated, periodic blocking and holds of the system.
+l Almost all system modules suffer from serious mistakes. There is no payment transfer control as a
+    means of budget control.
+l The Oracle Financial Analyzer ­ software subsystem for computerized management planning and
+    forecasting processes doesn't work. Due to this "Cash Flow Management" module works partially.
+l "Assets" module was deactivated as it created network overload.
+
+
+Protection of Information and Safety. Due to these reasons any further system roll-out without
+elimination of all errors threatens with the failure of the entire budget payment system. The Project
+doesn't provide for a reserve system, communication channels are open and not protected. It is almost
+impractical to use the channel protection of the information. There are serious problems with the safety
+of information and payments in the central system and in the communication channels. The danger of
+unauthorized access and transfer of budget payments is rather high, especially taken into account the
+existing errors at the most crucial operations.
+
+Communication Channels. In Kazakhstan, use of satellite communication channels to ensure
+full-blood operation on-line can result in excessively high system maintenance cost in future. In the
+existing configuration the problem of communication channels capacity is constantly critical. For
+example, the load in communication channels in 5 oblasts for the new system is from 2.5 to 4 GB and in
+all other oblasts with the old system 203 MB, so the difference is from 10 to 20 times. The consumption
+of expensive paper for laser printers increased 7 times. Printing by the local treasury units is arranged in
+an absolutely costly way, in the direct on-line regime along the satellite channels.
+
+Breakdown by Budget Levels. Total concentration of information on a single server is not effective
+and costly from the point of view of separate processing of information for the republican and local
+budgets.
+Based on the principles of budget process arrangement it is correct to keep and process the information
+at the place of its input and authorization. The price of message delivery, from rayon treasuries, in
+particular, cost of storage per information unit in the local budgets become very high. And the urgency
+of the detailed information for Centralized decision taking is lost.
+
+Support Issues. The critical issue of system stability is the weak current support. The support issues
+are entrusted with Kazakh company Real Soft, the winner of the tender for the system support.
+However, some time is needed to train the required group of specialists. This is only dealing with the
+current support. Any change and development of the system adding new functions or formats will
+require new requests to Oracle to do the work, with corresponding costs.
+
+Measures. This situation couldn't but raise concern with the Ministry of Finance. The Government was
+advised of the difficult current situation with the Project. On 24 and 28 February an extended meeting
+took place to discuss the Treasury Modernization Project chaired by the First Vice Prime-Minister Mr.
+A.S. Pavlov.
+To achieve best results the Ministry of Finance took all possible measures to improve the situation. In
+
+
+
+                                                   - 20 -
+
+fall 2002 strict measures against the employers were taken. The Ministry of Finance invited the
+technical managers, managers and specialists from HP and Oracle. All main claims and proposals of the
+Kazakh side to eliminate problems were stated. HP and Oracle management was advised of our concern
+about the current situation. This had some positive effect. From November a group of specialists was
+working on a permanent basis and eliminated a number of problems related to the optimization of
+reports and printing. Operation and filing systems were optimized; cluster protection mechanism was put
+in place. An agreement was concluded for the system support. An agreement was signed to prolong
+warrantees and train specialists with Hewlett-Packard.
+In March 2003, the new software was tested and at the beginning of April it is planned to install this
+modernized version of Oracle Applications together with Oracle specialists.
+
+
+
+
+                                                - 21 -
+
+(b) Cofinanciers:
+
+
+
+
+                     - 22 -
+
+(c) Other partners (NGOs/private sector):
+
+
+Comments from IMF-FAD
+
+Thank you for sending us a copy of the draft Implementation Completion Report (ICR) for World Bank
+Project No. PO37960, Kazakhstan Treasury modernization.
+
+We would like to provide the following comment to be included in the partner comments section of the ICR:
+
+The IMF and the World Bank have collaborated very closely in the high-level design and implementation of
+the Kazakhstan Treasury project. In our assessment, the main elements of this project have been
+implemented very successfully. There have been very significant improvements in the government's
+capacity for effective and rational fiscal management, through new institutional arrangements, reform and
+streamlining of procedures and practices, and enhancement of skills and capacities throughout the
+government.
+
+Although there remain some challenges to ensuring transparent fiscal management in Kazakhstan, including
+appropriate disclosure arrangements for petroleum revenues, these are related to political choices and not to
+lack of capacity. An additional issue to be addressed includes a fresh look at the fiscal relations between
+different levels of government, which could have implications for treasury operations at the sub-national
+levels. Many of these issues could build on the successes of the budget and treasury reforms to date. We
+believe that the authorities' strong commitment to and ownership of the reforms have been major factors
+behind this success. The close and productive cooperation between the Bank and the Fund has also played
+an important role at different stages in this project.
+
+We are aware that some technical difficulties remain in extending the new treasury information system to
+all parts of the country. The IMF does not have specific expertise in assessing these types of detailed
+technical issues relating to hardware or software design. These issues should be adressed directly between
+the authorities and the suppliers who were contracted to provide these services. We understand that
+discussions are indeed underway between the authorities and the suppliers in order to resolve these issues.
+We trust that the parties will find appropriate technical solutions.
+
+In any case, these technical problems should not detract from the very positive overall impacts of the
+project on the capacity for modern fiscal management in Kazakhstan.
+
+
+Sincerely yours,
+
+Ehtisham Ahmad
+Division Chief
+Public Expenditure Management Division II
+FAD
+
+10. Additional Information
+
+N/A.
+
+
+
+
+                                                      - 23 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+Outcome / Impact Indicators:
+                                                                                  1
+               Indicator/Matrix                            Projected in last PSR                   Actual/Latest Estimate
+1.1 Introduction of new budget classification The new budget classification system based same
+system based on IMF-GFS methodology           on the IMF-GFS system was introduced in
+(Sept.96)                                     1996.
+1.2 Enlarging the scope of the budget to      The scope of the budget now covers             same
+cover investment projects financed from       investment projects financed from external
+external loans (1997 budget)                  loans w.e.f. 1997
+1.3 Introduction of revised chart of accounts The revised chart of accounts in conformity    same
+in conformity with new budget classification  with the new budget classification and
+and to cover non-budgetary transactions       covering non- budgetary transactions was
+(Oct. 96)                                     introduced in 1996.
+1.4 Centralization of Republican budget       Republic and budget payments and receipts same
+payments and receipts in a single treasury    centralized in the TSA, December 1996.
+account (Dec. 96)
+1.5 A pilot government accounting system      An interim system was implemented with the same
+capable of providing comprehensive, reliable required functionality in 1998. The pilot of the
+and timely management information on          full function system, covering the Central
+government receipts, payments (June 98)       treasury, Two Oblast level Treasury offices,
+                                              Astana City, and Akmola, and 22 associated
+                                              rayons was completed in December 2001.
+1.6 A networked national government           An interim system with the required            same
+accounting system capable of providing        functionality and covering all oblasts and
+comprehensive fiscal data for major entities  rayons was implemented in 1998. The pilot
+at the Republican level and for local         of the full function system, covering the
+governments (Dec. 99)                         Central treasury, Two Oblast level Treasury
+                                              offices, Astana City, and Akmola, and 22
+                                              associated rayons was completed in
+                                              December 2001. The pilot of the new system
+                                              covers both Republican and Local budgets.
+                                              The system is being replicated to other
+                                              Oblasts and at the time of this report has
+                                              been introduced in four additional oblasts. It
+                                              is expected that the replication process will
+                                              be completed by December 2003.
+1.7 Monthly reports on budget execution       The required reports are being produced        same
+covering receipts analyzed by source and      from a combination of the two systems that
+expenditures in terms of obligations and      are currently in use.
+payments analyzed by ministry, function and
+economic category (Dec. 99)
+2.1 State budget (Republican and local)       State and Local Government Budgets are         same
+prepared according to the new budget          being prepared according to the new budget
+classification system (Sept 96)               classification system from 1997.
+2.2 New law on budget system to support the The new law was passed in September 1996. same
+operations of MOF and Treasury, passed
+(Dec. 96)
+2.3 Release of resources by economic          Release of resources via a system of           same
+category via a system of warrants and         warrants and sub-warrants is being done
+sub-warrants: for Republican ministries and   w.e.f. 1997.
+spending units (June 96); and for local
+governments (August 97)
+2.4 Monitoring of government expenditure by The system of monitoring has been                same
+economic category by Treasury units at the    introduced w.e.f. December 1997.
+regional and district levels (Dec 97)
+2.5 Budget execution reports by function,     Required reports are being produced from a     same
+ministry, program and economic category:      combination of the two systems.
+Republican budget (Jan. 97); local budgets
+(Aug. 97)
+2.6 Revised (modern) government financial     Required financial regulations have been       same
+regulations (Dec. 97)                         implemented -1998
+2.7 Adequate number of staff in Treasury,     A large number of staff have been trained in   same
+ministries and elsewhere trained in modern    the use of the new Treasury based payment
+financial management and accounting           and receipts processing. These staff are
+
+
+
+
+                                                                   - 24 -
+
+procedures (Dec 98)                          using the interim system,. A team of Treasury
+                                             staff have been trained in the use of the new
+                                             system and are using this system at the pilot
+                                             sites. As the replication process proceeds
+                                             staff at the new sites are being trained in
+                                             pace with the replication process.
+2.8 Commitment accounting and introduced     A system of major contract has been          same
+for major entities covered by the Republican introduced w.e.f. January 1998.
+budget (Dec. 99)
+
+
+Output Indicators:
+                                                                                  1
+                Indicator/Matrix                         Projected in last PSR                  Actual/Latest Estimate
+Revised budget classification structure and  Completed and introduced w.e.f. FY 1997.     same
+chart of accounts conforming with GFS
+classification methodologies, completed.
+Full functional design of systems processes  Design of new systems completed and          same
+and procedures for Treasury based budget     implemented.
+execution, completed.
+Detailed regulations and operating manuals   Regulations and manuals completed and in     same
+completed and in use.                        use.
+Technical design of treasury system          Technical design completed and               same
+completed and implemented.                   implemented.
+Adequate numbers of staff trained in the use Adequate numbers of staff trained in the use same
+of treasury system.                          of new system.
+H/W, S/W, delivered, installed, tested.      H/W, S/W delivered, installed and            same
+Application S/W tested for the following     functioning at pilot sites. Replication
+minimum functionality; maintaining and       underway at other sites. Expected
+processing cash allocations, commitment,     completion, December 2003. Systems
+payment and receipt transactions and         provide required functionality.
+producing core financial reports required by
+the MOF/ Treasury.
+
+1End of project
+
+
+
+
+                                                                 - 25 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                          Appraisal     Actual/Latest  Percentage of
+                                                          Estimate       Estimate        Appraisal
+                     Component                            US$ million   US$ million
+Investment Costs
+Civil Works                                                  0.20             0.00               0
+Equipment (H/W and Application S/W.                         12.20           13.68           112.13
+Technical Assistance & Training                              2.60             2.97          114.23
+Refinancing PPF                                              1.00             1.00             100
+
+Total Baseline Cost                                         16.00           17.65
+                        Total Project Costs                 16.00           17.65
+                  Total Financing Required                  16.00           17.65
+
+
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+                                                                    1
+                                               Procurement Method
+    Expenditure Category           ICB             NCB                2        N.B.F.     Total Cost
+                                                               Other
+1. Works                          0.00              0.00         0.00          0.20          0.20
+                                  (0.00)           (0.00)      (0.00)          (0.00)       (0.00)
+2. Goods                          10.20             0.00         2.00          0.00         12.20
+                                 (10.20)           (0.00)      (2.00)          (0.00)       (12.20)
+3. Services                       0.00              0.00         2.60          0.00          2.60
+Technical Assistance and          (0.00)           (0.00)      (2.60)          (0.00)       (2.60)
+Training
+4. Refinancing of PPF             0.00              0.00         1.00          0.00          1.00
+                                  (0.00)           (0.00)      (1.00)          (0.00)       (1.00)
+5. Miscellaneous                  0.00              0.00         0.00          0.00          0.00
+                                  (0.00)           (0.00)      (0.00)          (0.00)       (0.00)
+   Total                          10.20             0.00         5.60          0.20         16.00
+                                 (10.20)           (0.00)      (5.60)          (0.00)       (15.80)
+
+
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                    1
+                                               Procurement Method
+    Expenditure Category           ICB             NCB                2      N.B.F.      Total Cost
+                                                               Other
+1. Works                          0.00             0.00         0.00           0.00         0.00
+                                  (0.00)          (0.00)       (0.00)         (0.00)       (0.00)
+2. Goods                          11.68            0.00         0.00           2.00        13.68
+                                 (10.56)          (0.00)       (0.00)         (0.00)       (10.56)
+3. Services                       0.00             0.00         2.97           0.00         2.97
+Technical Assistance and          (0.00)          (0.00)       (2.97)         (0.00)       (2.97)
+Training
+4. Refinancing of PPF             0.00             0.00         1.00           0.00         1.00
+
+
+
+                                                - 26 -
+
+                                           (0.00)             (0.00)            (1.00)            (0.00)           (1.00)
+   5. Miscellaneous                         0.00               0.00              0.00             0.00              0.00
+                                           (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+       Total                                11.68              0.00              3.97             2.00             17.65
+                                           (10.56)            (0.00)            (3.97)            (0.00)           (14.53)
+
+     1/Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+
+     2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+       of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+       managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+Project Financing by Component (in US$ million equivalent)
+                                                                                                       Percentage of Appraisal
+        Component                   Appraisal Estimate                  Actual/Latest Estimate
+                                Bank        Govt.        CoF.         Bank         Govt.      CoF.       Bank     Govt.     CoF.
+Investment Costs
+Civil works                     0.00         0.20                                  0.00                   0.0      0.0
+Equipment ( H/W and            12.20         0.00                    10.56         3.12                  86.6      0.0
+Application S/W
+Technical Assistance and        2.60         0.00                     2.97         0.00                  114.2     0.0
+Training
+Refinancing PPF                 1.00         0.00                     1.00         0.00                  100.0     0.0
+
+
+
+
+                                                           - 27 -
+
+Annex 3. Economic Costs and Benefits
+
+N/A.
+
+
+
+
+                                      - 28 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                      No. of Persons and Specialty                  Performance Rating
+                                           (e.g. 2 Economists, 1 FMS, etc.)         Implementation Development
+                   Month/Year     Count              Specialty                          Progress      Objective
+
+ Identification/Preparation
+              September 1995                  2    Task Manager and Economist,
+                                                   Informatics Specialist
+              March 1996                      3    Task Manager and Economist,
+                                                   Treasury Specialist (IMF)
+                                                   Informatics Specialist
+              April 1996                      5    Task Manager, Public Finance
+                                                   Economist, Treasury specialist
+                                                   (IMF), Informatics Specialist,
+                                                   Procurement Specialist
+
+ Appraisal/Negotiation
+              April 1996                      5    Task Manager, Public
+                                                   Finance Economist, Treasury
+                                                   specialist (IMF), Informatics
+                                                   Specialist, Lawyer
+
+ Supervision
+
+              09/23/1996                      2    Sr. Informatics Specialist;             S              S
+                                                   Sr. Public Finance
+                                                   Economist/TTL
+              12/02/1997                      2    Sr. Informatics Specialist;             S              S
+                                                   Sr. Public Finance
+                                                   Economist/TTL
+              06/27/1998                      2    Sr. Informatics Specialist/TTL;        U               U
+                                                   Operations Officer
+              11/04/1998                      2    Sr. Informatics Specialist/TTL;        U               U
+                                                   Operations Officer
+              05/15/1999                      2    Sr. Informatics Specialist/TTL;         S              S
+                                                   Operations Officer
+              10/19/1999                      2    Sr. Informatics Specialist/TTL,         S              S
+                                                   Economist
+              05/23/2000                      1    Sr. Informatics Specialist/TTL          S              S
+              11/18/2000                      1    Sr. Informatics Specialist/TTL          S              S
+              10/20/2001                      1    Sr. Informatics Specialist/TTL          S              S
+              04/13/2002                      1    Sr.. Informatics Specialist/TTL         S              S
+
+ ICR
+              10/15/2002-                     2     TTL/Informatics,                       S              S
+              02/15/2003                            IMF Advisor
+
+The IMF advisor either carried out parallel missions or participated directly in most supervision missions.
+
+
+
+
+                                                    - 29 -
+
+(b) Staff:
+
+       Stage of Project Cycle                Actual/Latest Estimate
+                                 No. Staff weeks                 US$ ('000)
+  Identification/Preparation            30.5                         113.1
+  Appraisal/Negotiation                 28.0                         98.20
+  Supervision                          113.3                        504.72
+  ICR                                     6.2                        37.85
+  Total                                177.9                        753.87
+
+
+
+
+                                            - 30 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                                    Rating
+   Macro policies                                      H      SU    M  N  NA
+   Sector Policies                                     H      SU    M  N  NA
+   Physical                                            H      SU    M  N  NA
+   Financial                                           H      SU    M  N  NA
+   Institutional Development                           H      SU    M  N  NA
+   Environmental                                       H      SU    M  N  NA
+
+Social
+            Poverty Reduction                          H      SU    M  N  NA
+            Gender                                     H      SU    M  N  NA
+            Other (Please specify)                     H      SU    M  N  NA
+   Private sector development                          H      SU    M  N  NA
+   Public sector management                            H      SU    M  N  NA
+   Other (Please specify)                              H      SU    M  N  NA
+
+
+
+
+                                                    - 31 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+6.1 Bank performance                                        Rating
+
+   Lending                                                    HS     S       U      HU
+   Supervision                                                HS     S       U      HU
+   Overall                                                    HS     S       U      HU
+
+6.2 Borrower performance                                    Rating
+
+   Preparation                                                HS     S       U      HU
+   Government implementation performance                      HS     S       U      HU
+   Implementation agency performance                          HS     S       U      HU
+   Overall                                                    HS     S       U      HU
+
+
+
+
+                                                    - 32 -
+
+Annex 7. List of Supporting Documents
+
+Staff Appraisal Report, Technical Annexe No: P-6840-KZ;
+Bank Mission Back to Office Reports and Aide Memoires from 1995- 2002.
+
+
+
+
+                                                - 33 -
+
+- 34 -
+

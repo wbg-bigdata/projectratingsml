@@ -1,0 +1,769 @@
+                                                                                                                          81164
+                                                                                                                          Número 18
+                                                                                                                          Junio de 2013
+
+
+
+
+                                                               Modelación
+                                                               probabilista
+                                                               para la gestión
+                                                               del riesgo de
+                                                               desastre
+                                                               El caso de
+                                                               Bogotá,
+                                                               Colombia
+
+Gestión del riesgo: visión integral                         riesgo que se deriva de inundaciones y deslizamientos
+                                                            urbanos (ver recuadro 1).
+El impacto intenso de terremotos, huracanes,                     El objetivo de esta publicación es ilustrar una serie
+inundaciones y otros eventos peligrosos sobre las           de casos reales de análisis del riesgo que han sido úti-
+comunidades en situación de vulnerabilidad en todo          les para implementar acciones de gestión del riesgo de
+el mundo pone en evidencia el carácter socionatural         desastres, con el fin de que la comunidad técnica, los
+del riesgo que tales eventos implican.                      funcionarios públicos y los tomadores de decisiones re-
+     Sucesos recientes, como el terremoto en Haití del      lacionados con el tema conozcan los beneficios de dispo-
+12 de enero de 2010, el de Chile del 27 de febrero de       ner de información relevante y apropiada de evaluación
+2010, el de Nueva Zelanda del 13 de junio de 2011 y         del riesgo desde la perspectiva probabilista. Así, a partir
+el de Japón del 11 de marzo de 2011, al igual que las       de las evaluaciones de riesgo basadas en ejemplos reales
+inundaciones de 2010 y 2011 en Pakistán, Tailandia          desarrollados durante los últimos quince años en Bogotá
+y Colombia, ilustran, además, la profunda incidencia        (Colombia), se pueden proponer alternativas óptimas de
+que este tipo de eventos puede tener sobre los planes       prevención y mitigación, una adecuada planeación para
+nacionales de desarrollo, así como la necesidad de que      la atención de emergencias y el análisis de alternativas
+los países adopten y profundicen políticas proactivas       de retención y transferencia de riesgo con fines de pro-
+de gestión del riesgo.                                      tección financiera.
+     En este contexto la Universidad de los Andes y el
+Banco Mundial con el apoyo del Fondo Global para la         Modelación y desarrollo sostenible
+Reducción y la Recuperación de Desastres (GFDRR,
+por su sigla en inglés) lideraron la publicación del li-    El riesgo que se deriva de las que de aquí en adelante
+bro Modelación probabilista para la gestión del riesgo      llamaremos “amenazas socionaturales” aumentó en
+de desastre. El caso de Bogotá, Colombia; donde se          forma significativa entre 1990 y 2011; en especial en los
+presenta una descripción resumida de la modelación          países de bajos y medios ingresos y con economías en
+probabilista del riesgo de desastre asociado a amena-       rápido crecimiento. En efecto, el desarrollo económico
+zas naturales. Contiene tanto las bases conceptuales        contribuye, en ocasiones, a configurar nuevas condiciones
+como el uso de los resultados de diferentes casos de        de riesgo, en la medida en que puede incrementarse
+evaluación con fines de gestión del riesgo en el marco      la exposición de la población, la infraestructura y
+de la planificación socioeconómica y el desarrollo sos-     las actividades económicas en áreas propensas a la
+tenible. Se hace especial énfasis en el caso sísmico y el   ocurrencia de eventos socionaturales peligrosos.
+
+www.ecapra.org                                                                           www.gfdrr.org
+                RECUADRO1
+                RECUADRO  Bogotá:sistema
+                         1Bogotá:         decálculo
+                                  sistemade  cálculoautomático
+                                                     automáticopara
+                                                                paraevaluar
+                                                                     evaluarlos  dañosproducidos
+                                                                             losdaños             porun
+                                                                                       producidospor     sismoinmediatamente
+                                                                                                      unsismo  inmediatamente
+                                                         después de su ocurrencia
+                                                          después de su ocurrencia
+                    Elsistema
+                   El          deestimación
+                       sistemade              inmediatade
+                                  estimacióninmediata    dedaños
+                                                            dañosSisbog-Daño
+                                                                   Sisbog-Dañorealiza
+                                                                               realizaevaluaciones
+                                                                                       evaluacionesde   dañoesperado
+                                                                                                     dedaño            enlas
+                                                                                                              esperadoen  lasedificaciones
+                                                                                                                              edificaciones
+                                     dela
+                                    de     ciudadyypresenta
+                                        laciudad             resultadospor
+                                                    presentaresultados  pormanzanas,
+                                                                            manzanas,como
+                                                                                       comose   ilustraen
+                                                                                             seilustra     losmapas
+                                                                                                        enlos mapas11aa3.
+                                                                                                                        3.
+
+                Dañosestimados
+                Daños           parasismos
+                      estimadospara  sismoscon
+                                            conmagnitud
+                                               magnitudMM= 6.0,M
+                                                          =6.0, M==7.0
+                                                                    7.0yyM
+                                                                         M=  7.6,que
+                                                                           =7.6,      ocurrenen
+                                                                                  queocurren  enla
+                                                                                                 laFuente
+                                                                                                    FuenteFrontal
+                                                                                                           Frontalde  laCordillera
+                                                                                                                   dela  CordilleraOriental
+                                                                                                                                   Oriental
+                             Mapa 1                                                       Mapa 2                                                Mapa 3
+      ESCENARIO M = 6.0                                           ESCENARIO M = 7.0                                        ESCENARIO M = 7.6
+      n 0%                                                        n 0%                                                     n 0%
+      n 1%– 5%                                                    n 1%– 5%                                                 n 1%– 5%
+      n 6% – 10%                                                  n 6% – 10%                                               n 6% – 10%
+      n 11% – 15%                                                 n 11% – 15%                                              n 11% – 15%
+      n 16% – 20%                                                 n 16% – 20%                                              n 16% – 20%
+      n 21% – 25%                                                 n 21% – 25%                                              n 21% – 25%
+      n 26% – 30%                                                 n 26% – 30%                                              n 26% – 30%
+      n 31% – 35%                                                 n 31% – 35%                                              n 31% – 35%
+      n 36% – 40%                                                 n 36% – 40%                                              n 36% – 40%
+      n 41% – 45%                                                 n 41% – 45%                                              n 41% – 45%
+      n 46% – 50%                                                 n 46% – 50%                                              n 46% – 50%
+      n > 50%                                                     n > 50%                                                  n > 50%
+
+
+
+
+     Fuente: Bernal, 2009; elaboración propia.
+
+
+
+
+           Esta   situaciónes
+            Estasituación       esenenparticular
+                                        particularsignificativa
+                                                       significativaen        lospaíses
+                                                                          enlos    países      un consenso
+                                                                                              un               global en
+                                                                                                   consenso global       en torno
+                                                                                                                              torno a     la necesidad
+                                                                                                                                       a la  necesidad de       integrar la
+                                                                                                                                                           de integrar      la
+     en   desarrollo, en
+      en desarrollo,           donde las
+                           en donde       las elevadas
+                                               elevadas tasastasas de de crecimiento
+                                                                           crecimiento         gestión del
+                                                                                              gestión        riesgo a
+                                                                                                        del riesgo    a los
+                                                                                                                         los procesos
+                                                                                                                              procesos de       desarrollo. El
+                                                                                                                                            de desarrollo.        Marco de
+                                                                                                                                                               El Marco    de
+      demográficoy
+     demográfico          migración,la
+                        ymigración,         pobreza,la
+                                         lapobreza,      ladesigualdad,
+                                                             desigualdad,la    larápida
+                                                                                   rápida      Acciónde
+                                                                                              Acción   deHyogo,     firmadoen
+                                                                                                           Hyogo,firmado            2005por
+                                                                                                                                en2005           168Estados
+                                                                                                                                            por168     Estadosmiembros
+                                                                                                                                                                  miembros
+      urbanización, la
+     urbanización,            ausencia de
+                          la ausencia           planificación y
+                                            de planificación        y las
+                                                                       las normas
+                                                                             normas de  de     delas
+                                                                                              de      NacionesUnidas,
+                                                                                                  lasNaciones     Unidas,alienta
+                                                                                                                             alientaa    lospaíses
+                                                                                                                                       alos  paísesa    ejecutaracciones
+                                                                                                                                                      aejecutar    acciones
+      seguridad, así
+     seguridad,             como la
+                      así como       la escasa
+                                         escasa aplicación
+                                                    aplicación de          políticas de
+                                                                     de políticas       de     concretas para
+                                                                                              concretas    para reducir
+                                                                                                                  reducir el      riesgo derivado
+                                                                                                                              el riesgo    derivado de      las amenazas
+                                                                                                                                                        de las    amenazas
+      vigilancia y
+     vigilancia          control —lo
+                    y control      —lo cualcual permite
+                                                  permite la       urbanización en
+                                                               la urbanización          en     socionaturales antes
+                                                                                              socionaturales      antes de de 2015.
+                                                                                                                                2015. Sin      embargo y
+                                                                                                                                          Sin embargo      ya      pesar de
+                                                                                                                                                               a pesar     de
+      terrenos no
+     terrenos           aptos para
+                  no aptos      para esta—,
+                                        esta—, han       inducido a
+                                                  han inducido             una porción
+                                                                       a una     porción       algunos resultados,
+                                                                                              algunos    resultados, la      integración de
+                                                                                                                         la integración       de la
+                                                                                                                                                  la gestión
+                                                                                                                                                      gestión deldel riesgo
+                                                                                                                                                                      riesgo
+      importantede
+     importante       dela   poblacióna
+                          lapoblación       alocalizarse
+                                              localizarseen        dichasáreas.
+                                                               endichas       áreas.          en
+                                                                                               en el  desarrollo es
+                                                                                                   el desarrollo    es aún
+                                                                                                                        aún limitada
+                                                                                                                               limitada y      prevalecen las
+                                                                                                                                            y prevalecen      las acciones
+                                                                                                                                                                   acciones
+            Como resultado
+           Como      resultado de  de esta
+                                        esta situación
+                                               situación se       han incrementado
+                                                              se han     incrementado         de
+                                                                                               de respuesta
+                                                                                                   respuesta a     emergencias, luego
+                                                                                                                a emergencias,        luego de     la ocurrencia
+                                                                                                                                               de la   ocurrencia de de los
+                                                                                                                                                                          los
+      los asentamientos
+     los                       informales y
+           asentamientos informales           y los
+                                                 los medios
+                                                       medios de       vida precarios.
+                                                                  de vida     precarios.      desastres,
+                                                                                               desastres, en lugar de las medidas anticipadas de prevencióny
+                                                                                                          en  lugar  de  las  medidas     anticipadas    de  prevención      y
+     YYen   estoslugares
+         enestos    lugaresel     efectode
+                               elefecto     delas
+                                                lasamenazas
+                                                     amenazassocionaturales
+                                                                   socionaturalesse     se     mitigacióndel
+                                                                                              mitigación   delriesgo.
+                                                                                                                riesgo.
+      intensifica sobre
+     intensifica    sobre la     población más
+                             la población       más pobre,
+                                                       pobre, creando
+                                                                 creando un   un círculo
+                                                                                   círculo
+      vicioso: los
+     vicioso:         frecuentes impactos
+                los frecuentes      impactos sobresobre sus     bienes y
+                                                           sus bienes      y medios
+                                                                              medios de de    ¿Qué es
+                                                                                              ¿Qué     la gestión
+                                                                                                   es la          del riesgo?
+                                                                                                          gestión del riesgo?
+      sustentoreducen
+     sustento    reducencada cadavezvezmásmássu     resilienciaante
+                                                suresiliencia             crisisfuturas
+                                                                   antecrisis     futuras
+     y  conello
+      ycon   ellosus
+                  susposibilidades
+                         posibilidadesde      progresoy
+                                           deprogreso       ydesarrollo.
+                                                              desarrollo.                      Lagestión
+                                                                                              La            delriesgo
+                                                                                                   gestióndel     riesgose  serefiere,   poruna
+                                                                                                                               refiere,por        parte,a
+                                                                                                                                             unaparte,       unconjunto
+                                                                                                                                                           aun   conjunto
+            Tanto las lluvias muy intensas —que generanavalanchas,
+           Tanto   las  lluvias  muy    intensas     —que     generan      avalanchas,         de acciones
+                                                                                              de    acciones y                 sociales orientados
+                                                                                                                  procesos sociales
+                                                                                                               y procesos                orientados al al conocimiento,
+                                                                                                                                                           conocimiento,
+      flujos de
+     flujos         lodo, desbordamiento
+               de lodo,       desbordamiento de        de ríos
+                                                             ríos e e inundaciones
+                                                                        inundaciones           la reducción
+                                                                                              la    reducción y    y la la transferencia
+                                                                                                                            transferencia del      riesgo (protección
+                                                                                                                                             del riesgo       (protección
+      devastadoras en
+     devastadoras             unas zonas
+                          en unas     zonas y  y eventos
+                                                  eventos de       inestabilidad de
+                                                               de inestabilidad         de     financiera)—que
+                                                                                              financiera)    —queson       medidasex
+                                                                                                                      sonmedidas          ante—y,
+                                                                                                                                      exante—       porotra,
+                                                                                                                                                 y,por    otra,al
+                                                                                                                                                                almanejo
+                                                                                                                                                                   manejo
+     laderas
+      laderas y    deslizamientos, en
+                y deslizamientos,           en otras—
+                                                otras— comocomo los       ciclones, las
+                                                                    los ciclones,      las     dedesastres,
+                                                                                              de   desastres,quequeincluye
+                                                                                                                       incluyela   preparaciónpara
+                                                                                                                                lapreparación    paralaslasemergencias
+                                                                                                                                                            emergencias
+      lluvias huracanadas,
+     lluvias    huracanadas, las    las marejadas
+                                           marejadas y        el incremento
+                                                           y el   incremento en     en elel   y   la respuesta
+                                                                                               y la   respuesta a             la rehabilitación
+                                                                                                                      estas, la
+                                                                                                                   a estas,       rehabilitación yy la
+                                                                                                                                                     la reconstrucción,
+                                                                                                                                                         reconstrucción,
+     nivel
+      nivelmedio
+             mediodel  delmar     exacerbanel
+                            marexacerban             riesgode
+                                                  elriesgo         lascomunidades
+                                                               delas    comunidades           que   son  medidas     ex
+                                                                                               que son medidas ex post.   post.
+      en situación
+     en    situación de        vulnerabilidad ubicadas
+                          de vulnerabilidad            ubicadas en    en laslas franjas
+                                                                                  franjas             Es,además,
+                                                                                                     Es,  además,una                    integralde
+                                                                                                                           estrategiaintegral
+                                                                                                                     unaestrategia                   planificaciónpara
+                                                                                                                                                 deplanificación     para
+     costeras,
+      costeras,las       zonasmontañosas
+                  laszonas      montañosasy        ylas
+                                                      lasriberas
+                                                          riberasde   delos     ríos.Los
+                                                                           losríos.    Los     minimizar el
+                                                                                              minimizar      el impacto
+                                                                                                                 impacto de       los eventos
+                                                                                                                              de los            destructivos sobre
+                                                                                                                                       eventos destructivos       sobre la
+                                                                                                                                                                         la
+      sismos, por
+     sismos,     por su     parte, amenazan
+                       su parte,     amenazan con          mayor intensidad
+                                                     con mayor       intensidad a     a la
+                                                                                         la    población,los
+                                                                                              población,          bienesy
+                                                                                                             losbienes      ylos
+                                                                                                                              losprocesos
+                                                                                                                                   procesossocioeconómicos.
+                                                                                                                                             socioeconómicos.
+      poblaciónque
+     población             habitao
+                    quehabita       otrabaja
+                                       trabajaen      laszonas
+                                                  enlas    zonasde  deedificaciones
+                                                                        edificaciones
+     más
+      másprecarias.
+            precarias.                                                                         Incorporacinco
+                                                                                              Incorpora           políticaso
+                                                                                                           cincopolíticas      componentesprincipales:
+                                                                                                                             ocomponentes     principales:
+            Para hacer
+           Para              frente al
+                    hacer frente        al creciente
+                                            creciente impacto
+                                                           impacto físico,
+                                                                        físico, social,
+                                                                                   social,         1.	 Identificación
+                                                                                                  1.    Identificación y y evaluación   del riesgo.
+                                                                                                                            evaluación del           Se trata
+                                                                                                                                             riesgo. Se  trata del
+                                                                                                                                                               del
+      económicoy
+     económico          ambientalde
+                     yambiental       detales
+                                           talesamenazas
+                                                  amenazasse     sehahadesarrollado
+                                                                          desarrollado                  conocimiento y
+                                                                                                       conocimiento     y la   información derivados
+                                                                                                                           la información   derivados de    una o
+                                                                                                                                                        de una   o
+
+22
+        varias amenazas, que permiten sentar las bases para         orientados a reducir la vulnerabilidad de la ciudad frente a
+        el desarrollo de los demás componentes o políticas.         eventos adversos.
+    2.	 Reducción del riesgo. Se refiere a la prevención y               Los resultados de tal política han tenido impacto tangible
+        mitigación de este.                                         sobre la población expuesta. La ciudad ha realizado grandes
+    3.	 Protección financiera. Provee a los gobiernos un            inversiones en cartografía y zonificación de las amenazas
+        medio para asegurar la disponibilidad de recursos           y el riesgo en el ámbito local, campañas de sensibilización
+        económicos que les permita atender las situaciones          ciudadana, profesionalización de sus servicios de
+        de emergencia.                                              emergencias, reasentamiento de familias, fortalecimiento
+    4.	 Preparativos y respuesta a desastres. Planes                de la capacidad técnica y reforzamiento sismorresistente de
+        específicos de contingencia para asegurar el manejo         su infraestructura, incluidos puentes, escuelas y redes de
+        de las crisis socioeconómicas derivadas de los              servicios de agua, energía, gas y comunicación.
+        desastres naturales.                                             Mediante diferentes esquemas de financiamiento se ha
+    5.	 Recuperación posdesastre. Se refiere a los mecanismos       reforzado un amplio número de escuelas, jardines infantiles
+        para evaluar con anticipación las posibles soluciones       y hospitales. De igual modo, se reasentaron familias ubicadas
+        a problemas críticos.                                       en zonas de amenaza alta por deslizamiento e inundaciones
+                                                                    y se han aplicado estrategias para controlar asentamientos
+Modelos probabilistas del riesgo                                    nuevos en dichas áreas. Estas acciones han sido percibidas
+                                                                    por los ciudadanos como el resultado de un proceso de
+Si bien es posible adoptar decisiones de política con cierto        decisión basado en evidencias y análisis científicos, lo cual
+tipo de aproximaciones, no cuantificar el riesgo cuando es          ha contribuido a su apropiación y cumplimiento por parte de
+posible hacerlo limita el proceso de toma de decisiones desde       las comunidades.
+la perspectiva de la planificación física, la reducción del              Por todo esto se ha seleccionado a Bogotá para ilustrar el
+impacto y la financiación preventiva. Si la cuantificación de las   proceso y las aplicaciones de gestión del riesgo. En efecto, Bogotá
+pérdidas futuras no forma parte del proceso de planificación        cuenta en la actualidad con una gran cantidad de información
+e inversión del país, es casi imposible mantener los recursos       relacionada con amenazas, exposición, vulnerabilidad y riesgo,
+presupuestales para enfrentar y reducir dichas pérdidas             que le han permitido desarrollar interesantes aplicaciones
+potenciales.                                                        específicas correspondientes. Estas sirven de ejemplo e
+     La ausencia de estimaciones probabilistas del riesgo           ilustración para que otras ciudades y poblaciones en este tipo
+tiene implicaciones serias: primero, no se planifica por            de situaciones inicien procesos similares.
+adelantado el costo de las futuras reconstrucciones, lo que              El proceso bogotano —que empezó hace más de quince
+eventualmente puede implicar un serio vacío presupuestal;           años, mediante el trabajo conjunto de entidades del Estado,
+segunda y más importante, se pierde el incentivo principal          centros de investigación y desarrollo y firmas de consultoría—
+para promover la mitigación y la reducción del riesgo: la           presenta una información valiosa de la ciudad, útil para el
+conciencia de su costo, en el más amplio sentido del concepto       desarrollo de futuras aplicaciones, al igual que ejemplos de
+(humano, infraestructural, económico). Por ello se han              aplicación práctica de las herramientas de gestión del riesgo.
+desarrollado herramientas de cómputo poderosas, incluidas           Además, recoge propuestas metodológicas y ejemplos de
+algunas orientadas a la generación de modelos probabilistas,        información disponible que pueden utilizarse en diversas
+las cuales son un soporte vital para la tarea de identificación,    aplicaciones complementarias o que pueden conformar la
+evaluación y gestión del riesgo.                                    base de nuevos desarrollos y actividades relacionadas con la
+     Los modelos probabilistas del riesgo ofrecen una               gestión del riesgo.
+metodología rigurosa para evaluar las pérdidas potenciales
+por eventos adversos antes de que estos ocurran. El uso
+                                                                    Evaluación del riesgo
+adecuado de estas metodologías proporciona la información
+para una toma de decisiones adecuada. Y con las posibilidades       El riesgo puede valorarse de diferentes maneras. La
+informáticas actuales, el avance de los sistemas de información     evaluación del riesgo se suele llevar a cabo mediante
+geográfica y el desarrollo de herramientas de software libre        metodologías simplificadas basadas principalmente
+(open source), los instrumentos para modelar el riesgo de           en regresiones numéricas o combinación de capas de
+manera probabilista están actualmente al alcance de gobiernos       sistemas de información geográfica. Al tratar de capturar
+y particulares.                                                     los principales rasgos que definen el nivel de riesgo, estas
+                                                                    metodologías utilizan variables que expresan en forma
+La gestión del riesgo y la modelación                               general las amenazas, la exposición y la vulnerabilidad, de
+                                                                    tal manera que al combinarlas se obtiene un indicador que
+probabilista del riesgo en Bogotá                                   refleja el nivel de riesgo.
+La capital de Colombia se destaca por su disposición proactiva           Por otro lado, la evaluación del riesgo con técnicas
+frente a la gestión del riesgo: desde la década de los noventa      probabilistas requiere de la identificación y valoración de las
+ha desarrollado una agenda ambiciosa en torno a este tipo           principales variables que determinan el impacto de las amenazas
+de gestión, fortaleciendo los estándares y mecanismos               sobre los elementos expuestos. En el marco conceptual aquí
+de control e invirtiendo en programas de infraestructura            descrito, el modelo para el análisis se construye a partir de
+
+                                                                                                                                          3
+                      RECUADRO22Bogotá:
+                     RECUADRO            riesgosísmico
+                                 Bogotá:riesgo          expresadopor
+                                                sísmicoexpresado  pormedio
+                                                                     mediode
+                                                                           dela  pérdidaesperada
+                                                                              lapérdida           económicadirecta
+                                                                                         esperadaeconómica  directa
+   Elriesgo
+  El         sísmicopara
+      riesgosísmico   paraBogotá
+                           Bogotá(DPAE,
+                                    (DPAE,2005;    YaminyyCardona,
+                                            2005;Yamin                 1997)se
+                                                             Cardona,1997)    serepresenta
+                                                                                 representaen   losmapas
+                                                                                            enlos  mapas4  4aa6,
+                                                                                                               6,mediante
+                                                                                                                  mediantela   pérdidaeconómica
+                                                                                                                            lapérdida   económica
+   esperadacomo
+  esperada   comounaunafracción
+                        fraccióndecimal
+                                  decimaldel   valortotal
+                                           delvalor  totalde
+                                                           dereposición
+                                                              reposiciónde
+                                                                         decada   edificación,para
+                                                                            cadaedificación,        unevento
+                                                                                               paraun          sísmicoparticular
+                                                                                                       eventosísmico   particularcorrespondiente
+                                                                                                                                  correspondiente
+     unsismo
+  aaun   sismode   magnitud7.2,
+                demagnitud    7.2,que
+                                   quese
+                                       seorigine
+                                          origineenenla   FuenteFrontal
+                                                       laFuente  Frontalde
+                                                                         dela   CordilleraOriental
+                                                                             laCordillera             unos50
+                                                                                           Orientalaaunos   50kmkmde
+                                                                                                                   dedistancia
+                                                                                                                      distanciade   laciudad.
+                                                                                                                                 dela  ciudad.Los
+                                                                                                                                               Los
+   resultadosse
+  resultados      presentanpara
+               sepresentan         variasunidades
+                             paravarias   unidadesgeográficas
+                                                     geográficasde
+                                                                 deanálisis:
+                                                                    análisis:el  predio,la
+                                                                              elpredio,    manzanayyel
+                                                                                         lamanzana     elbarrio.
+                                                                                                          barrio.
+
+                               Pérdidaeconómica
+                              Pérdida            esperadacomo
+                                       económicaesperada         decimalesdel
+                                                           comodecimales   delvalor
+                                                                               valorde
+                                                                                     dereposición  paraun
+                                                                                        reposiciónpara     escenariocrítico
+                                                                                                        unescenario  crítico
+                                                       paravarias
+                                                    yypara         unidadesgeográficas
+                                                            variasunidades  geográficasdedeanálisis
+                                                                                            análisis
+                       Mapa 4                                                    Mapa 5                                             Mapa 6
+ INDICADOR DE                                               INDICADOR DE                                         INDICADOR DE
+ RIESGO SÍSMICO                                             RIESGO SÍSMICO                                       RIESGO SÍSMICO
+ • 0,00 – 6,45                                              n 0,00 – 0,04                                        n 0,00 – 0,04
+ • 6,46 – 14,73                                             n 0,05 – 0,12                                        n 0,05 – 0,09
+ • 14,74 – 26,82                                            n 0,13 – 0,24                                        n 0,10 – 0,15
+ • 26,83 – 49,21                                            n 0,25 – 0,48                                        n 0,16 – 0,22
+ • 48,22 – 89,21                                            n 0,49 – 0,83                                        n 0,23 – 0,71
+
+
+
+
+                      Predio                                                  Manzana                                              Barrio
+
+
+ cuatro módulos
+cuatro                  principales: (1)
+           módulos principales:              evaluación de
+                                        (1) evaluación       de la la amenaza,
+                                                                        amenaza,       es incierta
+                                                                                      es                por ello
+                                                                                           incierta yy por   ello debe
+                                                                                                                   debe ser     tratada como
+                                                                                                                           ser tratada           una variable
+                                                                                                                                          como una    variable
+ (2)identificación
+(2)                       caracterizaciónde
+     identificaciónyycaracterización          delos
+                                                  loselementos
+                                                      elementosexpuestos,
+                                                                      expuestos,       aleatoria.De
+                                                                                      aleatoria.       estemodo,
+                                                                                                  Deeste    modo,el     análisisprobabilista
+                                                                                                                     elanálisis                 consideralas
+                                                                                                                                  probabilistaconsidera    las
+ (3)definición
+(3)  definiciónde dela    vulnerabilidadde
+                       lavulnerabilidad      decada
+                                                cadaunounode delosloselementos
+                                                                       elementos       incertidumbresmencionadas.
+                                                                                      incertidumbres      mencionadas.
+ expuestosyy(4)
+expuestos             cálculodel
+                 (4)cálculo         riesgo(ver
+                                delriesgo          recuadro2).
+                                             (verrecuadro       2).                         En   conclusion, se
+                                                                                             En conclusión,     se espera
+                                                                                                                     espera que que el   libro contribuya
+                                                                                                                                     el libro   contribuya aa
+       Existendiferentes
+      Existen                  formasde
+                 diferentesformas            evaluarel
+                                         deevaluar     elriesgo
+                                                           riesgode  deacuerdo
+                                                                          acuerdo      incentivar el
+                                                                                      incentivar    el uso
+                                                                                                        uso de     metodologías de
+                                                                                                              de metodologías             evaluación en
+                                                                                                                                     de evaluación     en los
+                                                                                                                                                           los
+ conel
+con       objetivodel
+       elobjetivo    delanálisis.
+                           análisis.Cualquiera
+                                     Cualquieraque  queseasealalamedida
+                                                                    medidaparapara     países en
+                                                                                      países         desarrollo, con
+                                                                                                en desarrollo,              miras aa generar
+                                                                                                                     con miras          generar una
+                                                                                                                                                  una mayor
+                                                                                                                                                        mayor
+ dimensionarlo,la
+dimensionarlo,          visualizaciónde
+                    lavisualización     delos
+                                           losresultados
+                                               resultadosdebedebeser sersiempre
+                                                                          siempre      conciencia del
+                                                                                      conciencia     del riesgo
+                                                                                                          riesgo de      desastres, teniendo
+                                                                                                                    de desastres,                 como base
+                                                                                                                                       teniendo como     base
+ unade
+una    delas
+           lasprincipales
+               principalespreocupaciones,
+                              preocupaciones,ya        quede
+                                                   yaque    deellaelladependen
+                                                                        dependen       unaorientación
+                                                                                      una                 técnico-científicaque
+                                                                                            orientacióntécnico-científica              permitala
+                                                                                                                                  quepermita    lavaloración
+                                                                                                                                                   valoración
+ tanto una
+tanto          apropiada descripción
+         una apropiada        descripción de de la
+                                                 la distribución
+                                                     distribución geográfica
+                                                                       geográfica      detalladade
+                                                                                      detallada    delas   amenazas,la
+                                                                                                       lasamenazas,          vulnerabilidadyysus
+                                                                                                                          lavulnerabilidad       susposibles
+                                                                                                                                                     posibles
+ del riesgo
+del            como una
+      riesgo como       una mejor
+                              mejor valoración
+                                      valoración de     aspectos tales
+                                                    de aspectos       tales como
+                                                                             como     consecuencias.
+                                                                                       consecuencias.
+ suconcentración
+su   concentraciónoosu         dispersión,elementos
+                            sudispersión,                  fundamentalesen
+                                             elementosfundamentales             en
+ variasde
+varias       lasaplicaciones
+         delas   aplicacionesde  dela   gestióndel
+                                     lagestión   delriesgo.
+                                                      riesgo.
+      Las                                                                                  CAPRAes
+                                                                                          CAPRA    esuna   herramientamodular,
+                                                                                                       unaherramienta    modular,de    libreuso,
+                                                                                                                                    delibre   uso,yygratuita
+                                                                                                                                                     gratuita
+              evaluaciones del
+       Las evaluaciones                  riesgo deben
+                                  del riesgo                   considerar el
+                                                    deben considerar             el
+ elevado grado
+elevado      grado de de incertidumbre
+                           incertidumbre asociado
+                                              asociado aa los los parámetros
+                                                                     parámetros           que
+                                                                                           quesirve   paraevaluar
+                                                                                                sirvepara   evaluarriesgos
+                                                                                                                    riesgosrelacionados
+                                                                                                                             relacionadosconconmúltiples
+                                                                                                                                                 múltiples
+ de amenaza
+de                    vulnerabilidad. En
+      amenaza yy vulnerabilidad.            En particular,
+                                                particular, la   la estimación
+                                                                     estimación            amenazas.Es
+                                                                                          amenazas.        unaplataforma
+                                                                                                        Esuna  plataformade decálculo
+                                                                                                                                cálculode
+                                                                                                                                        deriesgo
+                                                                                                                                           riesgoqueque
+ de los
+de          diferentes efectos
+      los diferentes       efectos se se basa
+                                          basa en     estadísticas yy datos
+                                                 en estadísticas            datos          integralas
+                                                                                          integra   lasbases
+                                                                                                        basesde
+                                                                                                              dedatos   sobreelementos
+                                                                                                                  datossobre                expuestosyysus
+                                                                                                                                elementosexpuestos        sus
+ disponiblesacerca
+disponibles      acercade      loseventos
+                            delos             pasados.La
+                                   eventospasados.         Lainterpretación
+                                                                interpretación             funcionesde
+                                                                                          funciones       vulnerabilidadfísica
+                                                                                                       devulnerabilidad           empleandoun
+                                                                                                                          físicaempleando      unmétodo
+                                                                                                                                                  método
+ delos
+de       resultadosdebe
+     losresultados       debehacerse,
+                                hacerse,por     tanto,teniendo
+                                           portanto,     teniendoen    encuenta
+                                                                           cuenta          probabilista.CAPRA
+                                                                                          probabilista.           evalúael
+                                                                                                          CAPRAevalúa    elriesgo
+                                                                                                                             riesgoen
+                                                                                                                                    entérminos
+                                                                                                                                        términosde dedaños
+                                                                                                                                                      daños
+ losmárgenes
+los   márgenesde   deincertidumbre
+                         incertidumbreque         resultandel
+                                            queresultan              procesode
+                                                              delproceso        de         físicosyyrealiza
+                                                                                          físicos    realizaun
+                                                                                                             uncálculo
+                                                                                                                cálculoaproximado
+                                                                                                                        aproximadode      laspérdidas
+                                                                                                                                       delas   pérdidas
+ calibraciónde
+calibración          losmodelos
+                 delos    modelosanalíticos.
+                                      analíticos.                                         económicas
+                                                                                           económicasyyhumanas
+                                                                                                           humanasdirectas     asociadasaalos
+                                                                                                                     directasasociadas           dañosque
+                                                                                                                                             losdaños   que
+       Comoconsecuencia,
+      Como      consecuencia,la        pérdidaque
+                                   lapérdida      quese sepuede
+                                                            puedepresentar
+                                                                        presentar          sepueden
+                                                                                          se            presentar.www.ecapra.org
+                                                                                              puedenpresentar.     www.ecapra.org
+ enlos
+en   loselementos
+          elementosexpuestos,
+                         expuestos,dadodadoun      escenariodeterminado,
+                                              unescenario         determinado,
+
+ Descargode
+Descargo        responsabilidades:Los
+            deresponsabilidades:      Losresultados,
+                                           resultados,interpretaciones        conclusionesexpresadas
+                                                         interpretacionesyyconclusiones     expresadasen   enesta
+                                                                                                               estapublicación    sonen
+                                                                                                                     publicaciónson       sutotalidad
+                                                                                                                                       ensu             delos
+                                                                                                                                              totalidadde  los
+ autoresyyno
+autores        necesariamentereflejan
+           nonecesariamente              laopinión
+                                reflejanla           delos
+                                             opiniónde    losmiembros
+                                                              miembrosdel    DirectorioEjecutivo
+                                                                         delDirectorio  EjecutivodeldelBanco
+                                                                                                         BancoInternacional
+                                                                                                               Internacionalde    ReconstrucciónyyFomento,
+                                                                                                                              deReconstrucción       Fomento,
+ delBanco
+del         Mundialoode
+     BancoMundial       delos
+                           lospaíses
+                               paísesque
+                                      querepresentan.
+                                            representan.El     BancoMundial
+                                                            ElBanco   Mundialnonogarantiza
+                                                                                  garantizala   exactitudde
+                                                                                             laexactitud       losdatos
+                                                                                                            delos   datosque
+                                                                                                                          queaparecen
+                                                                                                                              aparecenen     estapublicación.
+                                                                                                                                         enesta   publicación.
+ Lasfronteras,
+Las             colores,denominaciones
+     fronteras,colores,  denominacionesyydemásdemásinformación
+                                                     informaciónincluidos     encualquiera
+                                                                    incluidosen  cualquieradedelos
+                                                                                                 losmapas
+                                                                                                     mapasque     figuranen
+                                                                                                             quefiguran   eneste
+                                                                                                                             estevolumen
+                                                                                                                                  volumenno     suponenjuicio
+                                                                                                                                            nosuponen   juicio
+ algunopor
+alguno       partedel
+         porparte  delBanco
+                       BancoMundial
+                              Mundialacerca
+                                        acercade   lasituación
+                                                dela  situaciónjurídica
+                                                                  jurídicade
+                                                                           deningún  territorio,ni
+                                                                              ningúnterritorio,      elrespaldo
+                                                                                                  niel  respaldooolalaaceptación
+                                                                                                                       aceptaciónde   esasfronteras.
+                                                                                                                                   deesas  fronteras.
+

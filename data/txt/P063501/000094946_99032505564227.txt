@@ -1,0 +1,1552 @@
+Document of
+The World Bank
+Report No: 18957-MA
+PROJECT APPRAISAL DOCUMENT
+ON A
+PROPOSED LOAN
+IN THE AMOUNT OF US$100 MILLION
+TO MALAYSIA
+FORA
+YEAR 2000 TECHNICAL ASSISTANCE PROJECT
+February 16 th, 1999
+EACSM
+Southeast Asia & Mongolia Country Unit
+East Asia and Pacific Regional Office
+
+
+
+CURRENCY EQUIVALENTS
+Currency Unit = Malaysian Ringgit
+MYR$3.8=US $ 1
+(January 1999)
+FISCAL YEAR
+January 1It - December 3 1St
+ABBREVIATIONS AND ACRONYMS
+Application        A set of computer programs designed to perform repetitive procedures,
+(or system)        usually on large amounts of data
+BNM                Bank Negara Malaysia (Malaysia's Central Bank)
+CAS                Country Assistance Strategy
+Contingency Plan   In the context of the Year 2000 program, a plan for responding to the loss or
+degradation of essential services due to a Year 2000 problem in an automated
+system or equipment. It generally describes the steps an entity would take to
+ensure the continuity of its core processes and business functions
+Embedded Systems  Computer chips forming integral part of any electronic equipment using
+computer technology
+EPU                Economic Planning Unit in the Prime Minister's Department
+GOM                Government of Malaysia
+Interface          A boundary across which two systems communicate
+IT                 Information Technology
+MAMPU              Malaysian Administration Modernization Planning Unit in the Prime
+Minister's Department
+Millennium         Unaffected by the change from l9xx to 20xx (also called Y2K Compliant)
+Compliant
+PAU                Project Administration Unit
+Quality Assurance   All the planned and systematic actions necessary to provide adequate
+confidence that a product or service will satisfy given requirement for quality
+Risk Assessment    An activity performed to identify risks and estimate their probability and the
+impact of their occurrence
+TAL                Technical Assistance Loan
+Testing            The process of exercising a product to identify differences between expected
+and actual behavior
+Validation         The process of evaluating a system or component during or at the end of the
+development process to determine whether it satisfies specified requirements
+Y2K                The potential problems that might be encountered by computer hardware,
+software, etc. in processing year-date information for years beyond 2000;
+commonly called "The Year 2000 problem", "The Y2K Bug" or "The
+Millennium Bug"
+Y2K Compliant      Unaffected by the change from  19xx to 20xx (also called Millennium
+Compliant)
+Vice President: Jean-Michel Severino
+Country Director: Ngozi N. Okonjo-lweala
+Sector Director: Yoshihiko Sumi
+Task Team Leader: Chit Tharnthong
+
+
+
+Malaysia
+Year 2000 Technical Assistance Project
+CONTENTS
+A. Project Development Objective .......................................................................                          2
+1. Project development objective and key performance indicators                                                        2
+B. Strategic Context .......................................................................                                      2
+1. Sector-related CAS goal supported by the project                                                                     2
+2. Main Sector Issues and Government Strategy                                                                           2
+C. Project Description Summary .......................................................................                            6
+1. Project components                                                                                                   6
+2. Key policy and institutional reforms supported by the project                                                        7
+3. Benefits and target population                                                                                       7
+4. Institutional and implementation arrangements                                                                        7
+D. Project Rationale .......................................................................                                      9
+1. Project alternatives considered and reasons for rejection                                                            9
+2. Major related projects financed by the Bank and/or other development agencies                                       10
+3. Lessons learned and reflected in proposed project design                                                            10
+4. Indications of borrower commitment and ownership                                                                    10
+5. Value added of Bank support in this project                                                                         11
+E. Summary Project Analyses .11
+1. Economic                                                                                                           11
+2. Financial                                                                                                           12
+3. Technical                                                                                                           12
+4. Institutional                                                                                                       13
+5. Social                                                                                                              13
+6. Environmental assessment                                                                                            13
+7. Participatory approach                                                                                              13
+F. Sustainability and Risks .......................................................................                              13
+1. Sustainability                                                                                                     13
+2. Critical risks                                                                                                      14
+3. Possible controversial aspects                                                                                      14
+G. Main Loan Conditions .......................................................................                                  15
+1. Effectiveness conditions                                                                                            15
+2. Other                                                                                                               15
+H. Readiness for Implementation .......................................................................                          15
+I. Compliance with Bank Policies .......................................................................                         15
+
+
+
+Annexes
+Annex 1.     Project Design Summary                                                     16
+Annex 2.      Detailed Project Description                                              17
+Annex 3.      Estimated Project Costs                                                   20
+Annex 4.      Cost-Effectiveness Analysis Summary                                       21
+Annex 5.      Financial Summary                                                         22
+Annex 6.      Procurement, Financial Management and Disbursement Arrangements           23
+Table A.          Project Costs by Procurement Arrangements                           29
+Table Al.         Consultant Selection Arrangements                                   30
+Table B.          Thresholds for Procurement Methods and Prior Review                 31
+Table C.          Allocation of Loan Proceeds                                         31
+Annex 7.      Project Processing Budget and Schedule                                    32
+Annex 8.      Documents in Project File                                                 33
+Annex 9.      Statement of Loans and Credits                                            34
+Annex 10.    Country at a Glance                                                        36
+Annex 1 1.    Y2K Problem Definition                                                    3 8
+
+
+
+1
+Malaysia
+YEAR 2000 Technical Assistance Project
+Project Appraisal Document
+East Asia and Pacific Region
+EACSM
+Date: February 16t", 1999                          Task Team Leader/Task Manager: Chit Tharnthong
+Country Manager/Director: Ngozi N. Okonjo-Iweala   Sector Manager/Director: Yoshihiko Sumi
+Project ID: 63501   Sector: Public Sector Management   Program Objective Category: Economic Management
+Lending Instrument: S.I.L.                         Program of Targeted Intervention:    [X I No
+Project Financing Data              [X] Loan
+For Loans/Credits/Others:
+Amount (US$m/SDRm): $ 100 million
+Proposed terms:         FIXED                                 [X] Single currency, USD
+Grace period (years): 3                                  [X] Fixed
+Years to maturity: 15
+Commitment fee: 0.75%
+Front-end fee: 1.0%
+Financing plan (US$m):
+Source                             Local          Foreign       Total
+Government                                                 34.0             0.0      34.0
+IBRD                                                       62.0            38.0    100.0
+Total        96.0             38.0    134.0
+Front-end Fee: 1.0
+Borrower: Malaysia
+Responsible agency: Malaysian Administration Modernization Planning Unit, Prime Minister's Department
+Estimated disbursements (Bank FY/US$M):    1999       2000       2001
+Annual    40.0       40.0        20.0
+Cumulative    40.0       80.0      100.0
+Project implementation period: February 1999 - June 2001
+Expected effectiveness date: March 15th, 1999
+Expected closing date: December 315t, 2001
+
+
+
+2
+A: Project Development Objective
+1. Project development objective and key performance indicators (see Annex 1):
+To assist the Government of Malaysia, in a rapidly narrowing window of opportunity, to a) contain and
+minimize the disruption in the country's social and economic infrastructure that would be caused by the
+failure of critical central, state and local government systems to process dates after December 31, 1999; b)
+coordinate Y2K efforts in key sectors, monitor closely the evolving overall national situation, and prepare
+measures to deal with possible disruptions.
+The key performance indicators would be (1) the estimated economic and social upheaval avoided; (2) the
+number of identified critical functions able to continue operations with minimum disruption through June
+30, 2001 as a result of this proposed remediation project, and (3) the recovery intervals following critical
+post-millennium failures.
+B: Strategic Context
+1. Country assistance Strategy (CAS) goal supported by the project
+GAS document number: 18812-MA                 Date of latest CAS discussion: March 11th, 1999
+Largely due to its strong economic performance in the past, Malaysia had stopped borrowing from the
+Bank in 1993. It has since been hit by an unprecedented economic crisis that threatens to undermine many
+of the country's economic and social achievements and set back its human development agenda by several
+years. The CAS that is currently under discussion proposes, to assist Malaysia in mitigating the social
+consequences of the crisis and prevent the erosion of gains in the social sectors. The base case program
+in the CAS envisages investment loans mainly in the social and related sectors. The CAS also envisages
+a robust program of policy advice and selective technical assistance to support the Government in
+managing the present economic crisis as well as tackling some underlying structural weaknesses in the
+economy.
+By tackling short-term crisis related issues, the Bank also proposes to assist Malaysia in meeting some of
+its medium-term development challenges, in particular to return to the growth path embodied in its Vision
+2020. Under Vision 2020 Malaysia aims to promote itself as an open and export-oriented economy,
+based on high value-added and efficient manufacturing and services sectors with a strong emphasis on IT.
+Malaysia wishes to develop a knowledge economy and has already begun to develop a National IT
+agenda.
+The Y2K Technical Assistance Loan supports short-term CAS objectives insofar as it seeks to avert
+disruption of public sector services and the attendant repercussions in the economic and social fabric of
+the country.
+2. Main Sector Issues and Government Strategy
+Technology and Malaysia's Future
+In 1997, Prime Minister Mahathir Mohamed articulated the ambitious Multimedia Super Corridor
+strategy, which would establish a high technology corridor, Cyber Jaya, in close proximity to the new seat
+of government (Putra Jaya), to serve as a global innovation test-bed for information technology. The
+area's infrastructure would be built to the highest specifications and would draw "best-of-class"
+technology companies from all over the world. Ultimately this test-bed would also play a significant role,
+
+
+
+3
+through the development of a number of important applications', in enabling Malaysia to attain its hoped-
+for industrialized country status, as articulated in its Vision 2020.
+More specifically, it is clear, upon examination of Malaysia's articulated vision, that Malaysia looks to
+the aggressive use of technology to help achieve its goals in two vital areas: improving its
+competitiveness and the quality of life of its citizens2. Although set back by the recent financial crisis,
+Malaysia continues to push forward with its strategy of innovation and modernization. All but one of the
+identified applications are already under implementation. In addition, Malaysia has taken a number of
+other crucial steps to realize its technology vision, among which are some key legislations, for example,
+on digital signature, privacy, public key infrastructure, and more.
+Understanding Malaysia's technology vision of the future is important in setting the context of Malaysia's
+request for this technical assistance loan. Notwithstanding its customary technological prescience and
+relatively early Y2K initiative, Malaysia, like many other countries, has allowed other imperatives, not
+least the financial crisis of the last eighteen months, to distract it from its Y2K priorities. While much
+work has been done on Y2K remediation and many key sectors and agencies (power, telecom, state
+provident funds and others) have Y2K programs dating back to 1997 and even earlier, much more Y2K
+work remains.
+Y2K in the Public Sector
+The public sector in Malaysia is small in comparison to most countries. Many previous government
+monopolies have, by now, passed into private hands - rail, power, telecom, water and many others. One
+notable exception is in the area of healthcare, where a national network of some 130 hospitals remains
+government-controlled. Like these government-operated hospitals, with their collective dependence on
+embedded systems, the remaining public governance infrastructure, of over 700 agencies, is similarly
+dependent on various forms of technology, from information technology (networked information
+processing infrastructure, national databases, other hardware and software) to embedded systems (high
+security systems, air traffic control systems, communication and broadcasting systems and others).
+In the information area alone, each day, government infrastructure processes uncountable transactions,
+from the payment of benefits, to payment to public school teachers and other government workers, to
+revenue collection, to the dispatch of emergency services, to business licensing, to the servicing of
+national and local government debts, to government procurements, to the registration of ownership, to the
+updating of criminal records, and much more.
+Government exposure to Y2K problem far transcends simple information transactions. Many public
+safety, public health, national security, financial integrity transactions (such as clearing functions
+performed by the central banking authorities) are dependent on complex interactions between information
+as well as non-information technology systems.
+Although the government sector appears as only one sector among many identified critical sectors, it
+plays at minimum an important regulatory role for those other sectors. This regulatory and supervisory
+role will now be vital in ensuring that all key sectors guarantee the continuance of a critical level of
+service and general Y2K readiness.
+'The identified applications are electronic government, smart schools, telemedicine, research and development, borderless marketing, and
+worldwide manufacturing web.
+2 Multimedia Super Corridor, Ariff and Goh.
+
+
+
+4
+Challenges
+The Government of Malaysia conservatively estimates that its depreciated technology capital stock is US
+$8 billion3. It further estimates that the aggregate cost of total remediation to both public and private
+sectors would be in the neighborhood of US $3 billion. Another yardstick used by some Y2K
+professionals is 10 to 15 percent of undepreciated cumulative capital stock. The reason for this is that old
+legacy systems, while fully depreciated, have grown in value as a result of cumulative improvements
+made continuously over long periods. Although these yardsticks do not have proper scientific basis,
+Government's estimate is not out of line with international thinking that currently prevails. With this
+background, the challenges that the Malaysian government faces are many. Three principal challenges
+are listed below:
+1. The need to preserve a high level of national and international confidence. Foreign business
+partners will want to be sure that business will continue to function as usual in Malaysia. On-time
+production, deliveries, payments, and other business activities will need to continue unhindered.
+Depositors and investors will want a guarantee that transaction recording, confidentiality, audit trails and
+other norms of the financial system will continue to maintain the highest levels of integrity. Public safety
+concerns will require that functions provided by the police, the military, emergency services, security
+systems in public facilities, continue uninterrupted.
+Confidence Level                                                       January 1, 2000
+The Y2K Confidence A
+Actual
+Testing
+Subsystem Level
+Service Level      D
+Inventory                                                      /
+Assessment                           I
+Planning
+inRmediation
+9    /      1    1  ~~/gineg           ne B
+As the millennium approaches, Malaysia will need to show that it is ready. Projected optimism will be
+hollow unless accompanied by positive test results, Credibility is likely to be hard-earned. There is little
+choice but to launch an earnest and full program, as failure to show credible results could trigger
+widespread loss of confidence, a prospect hard to contemplate in post-crisis Malaysia. It is undisputed
+that the level of awareness in Malaysia is high. There is weekly television coverage, and even daily
+newspaper mastheads incorporate a Y2K countdown. However, awareness of the Y2K problem and
+solving it represent very different challenges.
+EPU estimate
+
+
+
+5
+It would be irresponsible to discuss Y2K vulnerability without a sense of how efforts should be monitored
+and judged. Many business owners and high-level government officials underestimate the problem
+because there is a high level of awareness and ongoing remediation work within their organizations.
+However experience with technology projects confirms a well-known industry phenomenon called the 80-
+20 problem. The problem refers to the fact that the first 80 percent is easy, and the last 20 infinitely more
+difficult, largely because of undiscovered flaws in the first 80 percent of work.
+The level of confidence in Y2K work therefore rises slowly, as the above graph shows, until satisfactory
+testing supports it.
+2. The need to ensure essential public services. Public services provide and support the basic social,
+legal and economic environment that permit a society to function safely and predictably. Storm warnings
+provided by the meteorological service, environmental monitoring and regulation, apprehension for
+wrong doing, navigation signals that guide ships and airplanes are obvious examples of functions that are
+heavily dependent on technology. Less obvious is the national system of revenue collection, its
+distribution to provide essential general services or services targeted at the needy, and -that all systems
+must be accompanied by sound financial control systems. The failure of public services in a country will
+greatly disrupt social and economic life within it.
+3. Addressing private sector readiness and cross dependencies. Malaysia, like many other free
+market economies, does not fully control all sectors of activity. Its current fabric is a passive environment
+of economic incentives, business laws, internal articles of association of the firm, general due diligence
+requirements and arms-length regulation by regulatory authorities. In normal times, changes caused by
+economic incentives and other factors in that environment tend to be gradual, limited and predictable.
+But Y2K problems may cause large unexpected changes, not easily controlled by economic incentives or
+simple regulation. Established dependencies and indeed dependencies that have long since been taken for
+granted or have been forgotten about may crumble under the weight of the Y2K problem. How can those
+dependencies be mandated within the existing regulatory environment? For example, how can a chemical
+company be required to maintain production of a solvent that is critical to another crucial sector? How
+does a supermarket ensure that all its 7,000 product providers4 will be Y2K compliant (maintain
+production quality and on-time delivery)? Consider also how stock markets work. In order for a stock
+market to work, not only must the transactions systems work, but asset holders must also be able to make
+"informed"  buy-sell-hold
+Real-Time         Newswire         decisions.     Financial
+Reporting Systems                      decision making depends
+Fl r     on systems that aggregate
+Transaction           INVESTMENT                Analytical   and transmit information
+Clearing Systems       DECISION CYCLE              Services    from the stock market in
+real time to newswires to
+Asset Management                       analysts and traders, to
+Secure transaction messaging  Systems         Bloomberg         asset managers and the
+general public who give or
+withdraw money from the asset managers. The failure of one component may produce unexpectedly
+large collateral damage, for example if investors ability to make investment decisions was diminished,
+stock market liquidity could simply dry up leading to volatility and instability.
+Based on Tesco Supermarkets (UK) number
+
+
+
+6
+Government Strategy and Sector Issues
+Coordinate Critical Functions and Contingency Planning. The government strategy is based on
+targeting the most important sectors and functions. The priority sectors are as follows: energy,
+telecommunications, banking and insurance, transportation, health, oil and gas, water supply, sewerage
+and government. While these sectors will be encouraged to undertake the most aggressive remediation
+efforts, contingency planning will also be mandated, in case technical solutions are not completed in time.
+Manage the Public Sector Effort. Efforts in the public sector are under the direct control of the central
+and state governments. Government wishes to ensure the readiness of the public sector, and these efforts
+are the primary beneficiary of this technical assistance loan. Many agencies have already begun Y2K
+remediation efforts, but altogether the government has identified 113 federal, state and local agencies (out
+of over 700 agencies) needing urgent but varying degrees of assistance from this loan. Many of these
+agencies form part of a geographically dispersed network that provides an essential national service to the
+entire country, while others are individual central or local agencies.
+Regulate for Readiness in Privatized Sectors. Because many critical sectors are privatized, government
+role is reduced to a regulatory one. In some sectors the regulators' mandate permit them to explicitly
+require Y2K compliance, while in other sectors sanctions can only be hinted at. Nevertheless,
+government seeks to use all means within its power to encourage full and complete readiness. For
+example, in the stock market the Kuala Lumpur Stock Exchange requires that, in addition to trading
+members, all listed members need to certify the state of their Y2K readiness. (All CEOs of publicly listed
+companies are required to sign a statement). While enforceability may be unclear these regulatory actions
+have had the effect of raising awareness and promoting accountability.
+Government wishes to strengthen these regulatory functions, primarily by intensifying supervision and
+contingency planning coordination efforts.
+Providing Help and Support. Mandating Y2K efforts is one means to promoting readiness. In many
+instances, the presence of a mandate is less helpful than knowing what to do. The lack of support is a
+major impediment to Y2K readiness in the private sector. To address this, the Government through the
+National Y2K Project Team manages a web site that provides and maintains information, directories of
+experts and consultants, best practices, links, and other helpful information. This function is critical to
+providing guidance to the national effort.
+In addition to the web site, government also holds seminars and workshops, promotes efforts through
+associations, and monitors the national situation so that emerging gaps can be addressed.
+C: Project Description Summary
+1. Project components (see Annex 2 for a detailed description and Annex 3 for a detailed cost
+breakdown):
+The two primary components are (a) public sector Y2K efforts, managed by MAMPU (US$124.0
+million) and (b) national coordination efforts, managed by the National Project 2000 Project Team
+(US$10.0 million) in the Ministry of Energy, Communications and Multimedia.
+
+
+
+7
+Component               Category         Cost Incl.    % of    Bank-        % of
+Contingencies   Total  financing    Bank-
+(US$M)               fUS$M)  financing
+A. Government sector         Inst. Build./Other      124.0       92.5      92.0       68.6
+B. Project Team &            Inst. Build./Other       10.0        7.5       8.0        6.0
+Coordination
+Total       134.0      100.0    100.0        74.6
+Front end fee                                  1.0
+The first component is intended to address the Y2K problems in the public sector. Many agencies have
+large computerized applications that are at risk, many of these applications have been developed by in-
+house staff. Consequently much of the remediation efforts around these applications will similarly be
+done in-house (in some instances external help will be sought). In contrast to computer applications,
+many at-risk items (goods such as networking hardware, operating systems, software, embedded systems)
+require the procurement of upgrades and in some cases outright replacement. Goods will therefore form
+the bulk of the intended expenditures under the first component.
+The second component is intended to help government strengthen the national coordination efforts. As
+stated elsewhere this covers coordination of contingency planning, critical services with cross
+dependencies, national monitoring, dissemination efforts, public information management, legal planning,
+among others. This coordination and support function is seen as vitally important in Malaysia's largely
+privatized economy.
+2. Key policy and institutional reforms supported by the project:
+This loan does not directly attempt to address long-term economic, sectoral or institutional problems and
+does not include conditionality linked to macro-economic policies. The institutional support under the
+project concentrates on strengthening the Government's Year 2000 Project Team.
+3. Benefits and target population:
+The primary benefits would be the preservation of vital economic and social activities. Geographically the
+benefits would be widespread, as public services at the state and municipal levels are also being addressed
+under this project. The intended benefits will be estimated as part of the process of setting priorities for
+individual sub-projects and will include the gains (or prevention of losses) from each of the investments
+made in order to achieve compliance or to remedy the costs of not being compliant.
+4. Institutional and implementation arrangements:
+The Project Director is the Director General of the Malaysian Administrative Modernization Planning
+Unit (MAMPU) in the Prime Ministers Department. MAMPU is directly responsible for the
+modernization of government. It is also the matrix head of all IT personnel in the federal government.
+Currently MAMPU has the implementation responsibility for Malaysia's new electronic government
+initiative. The Project Director is also a member of the National Y2K Steering Committee that oversees
+the work of the National Y2K Coordination Project Team, the body charged with the provision of
+leadership and overall coordination of the National Y2K effort. The Project Director will also chair the
+Approval Committee.
+MAMPU estimates that the correction of embedded systems, such as present in the hospital network, government communications, air traffic
+control systems, alone will require an amount of US$56 million.
+
+
+
+8
+The Approval Committee would                       Director General - MAMPU
+analyze and approve the substantive                    (Project Director)
+content of all agency proposals,
+their   underlying    strategies,
+technical plans and their merits for
+financial assistance. Its members       Approval
+would be representative of major       Committee
+ministries and  individuals with
+records of established scientific,
+technological   and/or   related
+policymaking experience, with the
+committee structured so as to bring    Govemment Sector            National Y2K Project
+a  balanced  perspective  to  its     Remediation - MAMPU                Team
+decisions on allocation of loan
+resources.  Its  procedures  and
+operating policies would emphasize  _
+transparency,  competition   and              PAU
+fairness, as well as the importance  (Project Administration Unit)
+of establishing program norms at
+internationally acceptable levels of  __
+quality.
+The National Y2K Project Team was created in May 1998 to coordinate the country's Y2K campaign.
+The Project Team has been extremely successful at raising awareness and working with regulators to
+promote Y2K efforts. This Project Team would be strengthened to enable it to carry out national
+remediation monitoring (sector by sector), benchmarking, verification (progress audit), national capacity
+and cost monitoring, development of national and sector level legal strategies, emergency planning and
+national knowledge sharing.
+The National Public Sector Y2K Coordinator in MAMPU would be the project's coordinator. This
+official would be assisted in his duties by a project administration unit (PAU). As coordinator for the
+Government Sector effort, MAMPU will, inter alia:
+-  commission initial studies and activities,
+-  prepare guidelines for diagnoses and reporting,
+-  analyze the impact of non-remediation for selected agencies,
+-  review implementation plans as submitted by agencies,
+-  prepare recommendations for the financing decision to be made by the Approval Committee,
+-  draft the proposed model agreement with agencies (spelling out their responsibilities, conditions
+and both parties' obligations);
+- ensure that the applications provide the requisite information,
+- sign the agreements with agencies selected for financing.
+MAMPU would be responsible for the preparation of the later stages of the project in accordance with
+IBRD norms. In the light of the broad scope of these responsibilities, the large number of participants and
+the urgent nature of the problem, the MAMPU and the National Y2K Project Team would receive up-
+front training in Y2K issues, management and planning, decision-making, conflict resolution, etc.
+Procurement, contracting and administrative support for the implementation of the subprojects would be
+carried out by the PAU. Recruitment of additional staffing of a temporary nature for the duration of the
+
+
+
+9
+project is currently underway. An operating manual satisfactory to the Bank, whose formal adoption is a
+Condition of Effectiveness, would govern all procedures and other aspects of the Project's activities.
+The main remediation component will be carried out by MAMPU. MAMPU will assist in identifying
+additional agencies and critical government services to be protected, in the development of technical
+plans and specifications thereof, in the making of strategic or tactical remediation choices, in the
+allocation of technical resources, in the development of suitable testing methodology and timeline.
+MAMPU's experience with government modernization, the government's strategic Electronic
+Government initiative and its existing (albeit limited) Y2K remediation program will enable it to begin
+implementation without delay. Its procurement procedures have been reviewed and limited on-the-job
+training on Bank guidelines should be sufficient.
+The PAU will manage the Special Account, prepare all requests for reimbursement from the Bank,
+produce quarterly project management reports (PMR) and keep all project records and accountd. Given
+the higher procurement thresholds proposed for Bank oversight, the anticipated complexity and volume of
+procurement activities and the nature of project outputs, quarterly technical and procedural audits by
+independent auditors satisfactory to the Bank will be carried out to report on physical progress,
+procurement activities and operational procedures. These audits should include a reasonableness review
+of financial expenditures to ensure these are commensurate with progress. (i.e. Progress as measured by
+the audits should be consistent with results indicated in the quarterlyPMRs). These audit reports would
+be submitted to the Bank no later than 45 days after the end of each quarter in conjunction with the
+PMRs. Bank supervision will be carried out by the Bank's Task Team, which would review
+implementation of the project on a quarterly basis during the first year, and half-yearly thereafter.
+D: Project Rationale
+1. Project alternatives considered and reasons for rejection:
+-  Use existing agency funds. The use of existing agency funds has helped work to commence in
+many government agencies, particularly in agencies which have been relatively well-endowed
+with financial or IT resources. This, however, has not been the norm. It is notable that many
+agencies have not commenced their Y2K program because of lack of resources. The reliance on
+individual agency directed funds may, in addition, result in poor prioritization and coordination.
+The preferred approach at this point therefore focuses on integrated service-based efforts, which
+avoids skewness along organizational lines. The project calls for more coordinated planning,
+supervision and monitoring, and the coordinated development of national contingency plans
+* Direct project management by each agency. This was rejected in favor of central coordination
+due to the large number of agencies involved in implementation and because the repetitive nature
+of interventions (consulting, acquisition of equipment) favors strong central procurement
+processing.
+*  Development of detailed remediation plans. Given the urgency of the problem and the time
+needed for remediation, a slow implementation start is not a realistic option. Moreover, the
+project approach has to be relatively exploratory given the considerable unknowns of the
+emerging situation, and therefore there is a limit on what would be gained by further study.
+Indeed, standard Y2K methodology requires that assessments be performed before planning
+6 See Annex 6
+
+
+
+10
+detailed remediation strategies. Complete assessments are expensive and the intention is to
+finance these activities under this project.
+2. Major related projects financed by the Bank and/or other development agencies (completed, ongoing
+and planned):
+None.
+3. Lessons learned and reflected in the project design:
+Because of the unique circumstances surrounding Y2K problems, there is no direct Bank experience to
+draw on or lessons to be reported specifically on Y2K. The Bank Team has therefore used lessons learnt
+in public sector management projects, in international best practices, and on the ground-breaking
+Argentina Y2K project, approved by the Board on December 17, 1998.
+Public sector management experiences indicate the crucial importance of strong and direct political
+support at the highest levels, to empower the coordination group. The need to cut across sectors and
+ministries also mandates the creation of a political approval committee to open doors and resolve
+conflicts. Experience also indicates that a fully staffed project administration unit should be in place
+during project preparation and that training should be completed before effectiveness.
+The Bank Team, individually and collectively, working with infoDev and other groups, has investigated
+external Y2K best practices at the sector and national level. In particular, the needs for business
+leadership and for the early preparation of contingency plans are two lessons of international experience
+applied to the design of this project. The emphasis put on learning from other countries through twinning,
+the use of international experts and information dissemination and knowledge sharing including the
+creation of a web-site with world-wide links are also inspired by international experience.
+The principal members of the Task Team have also been crucially involved in preparing the Argentina
+Y2K project as well as carrying out similar identification missions in other countries, and have benefited
+greatly from addressing the Y2K issue from different perspectives and in different contexts.
+Finally, the design of this project follows the lessons of successful "emergency" activities. The plan for
+managing the operation and for its close, independent surveillance by the Y2K Project Team should
+provide for sufficient flexibility to adjust to evolving circumstances. Also in line with "emergency"
+projects, decision-making authority and project implementation are highly centralized so as to improve
+coordination. The approach for monitoring and evaluation emphasizes adaptable action plans and work
+programs.
+4. Indications of borrower commitment and ownership:
+The National Y2K Project Group was created in May 1998 and appears to have the strong support of the
+Prime Minister's Office. The Prime Minister himself has made numerous statements on the importance of
+the Y2K problem. The membership of the Steering Group shows high level support by other ministries as
+well as the private sector.
+Government has steadily increased its budget to deal with Y2K problems. Six months ago the indicated
+budget was MYR 30 million. This was then increased to MYR 130 million, and again recently to MYR
+200 million7. The Government has also approved the use of a previously established fund for small and
+US$ 7.8 million, US$ 34.2 million and US$52.6 million respectively
+
+
+
+11
+medium-scale enterprises for Y2K remediation purposes. These measures coupled with the fact that
+government has already commenced many Y2K remediation efforts indicate its commitment to and
+ownership of this initiative.
+5. Value-added of Bank support in this project:
+The Bank's involvement should help the GOM ensure the technical and economic soundness of the
+proposed activities, particularly by assisting in the establishment of a strong central monitoring, national
+reporting, emergency planning, screening mechanism and review procedures and by assisting GOM to
+obtain best-practices assistance from countries who are further along the remediation route. Global
+experience and practices will be especially important in the development of National Contingency Plans.
+The Bank is also providing its experience in project management to help ensure that the Project Team and
+the PAU have and maintain adequate accounting, monitoring, management systems, technical review and
+auditing of these relatively widely dispersed activities.
+The Bank's involvement in this unprecedented problem also builds knowledge that can be shared with
+other developing countries as they begin to confront the problem themselves.
+E: Summary Project Analysis
+1. Economic:
+Computers and technology have become a fundamental enabler of economic activity. While many of
+these systems stand alone, the functions and services that are supported by them have far-reaching effects.
+This phenomenon is especially true of many public sector systems. For example, the failure of the
+computerized property ownership registration system, for example, not only produces inconvenience but
+also vitally threatens activities such as credit extension, government revenue collection, all transactions
+involving property including the disposition of wills, and much more.
+Also by its nature, Y2K problem remediation expenditures represent an incremental cost to an activity
+and yet the problem, if unaddressed, can place the entire activity at risk. Y2K remediation, for the most
+part, cannot be avoided and its delay merely adds the prospect of consequential economic damage to cost
+inflation caused by tardiness. Y2K problems will prove more costly to fix after the fact. Ad hoc measures
+become costly to disentangle as solutions are implemented in a live environment. System failures could
+also lead to litigation over injury, service and production failures. Loss of confidence is also a serious
+threat. In the financial sector, conditions of extreme nervousness are likely to rule as the new millennium
+approaches. Transaction failures could easily lead to widespread disintermediation. Therefore, the issue
+is less a technology problem than that of a potential large-scale economic and social disruption.
+Project investments per se would be limited to the least cost alternative for "emergency" prevention and
+rehabilitation. No economic analysis (ERR) of project returns is possible until investments are known and
+analyzed. Also, no estimate of the "avoided damage" savings is considered to be necessary for the
+justification of the recommended project. Finally, no estimate is made of the potential benefits from
+upgrading of hardware and software, which will most likely increase productivity and spawn additional
+unanticipated benefits.
+
+
+
+12
+At the sub-project level the project's Vimnplementers should ensure that all allocations under this loan are
+demonstrably technically sound in accordance with agreed criteria, broadly based on:
+a. An assessment of the impact of the operation of their particular service or function on:
+*  Public safety
+*  Public health
+* Public security (economic and national security)
+* Preservation of law and order
+b. Consequential damages: major effects of non-Y2K compliance on these and/or:
+*  Adequate supply and distribution of water, power, sewerage, transportation
+*  Public administration services
+*  Health and education services
+*  Tax and other collections
+* Social program disbursements
+*  Trade
+B* anking and other financial system operations
+* Others
+c. Collateral damages: effect of non-Y2K-compliance by one agency on other critical agencies'
+functions
+d. Estimate of the cost of consequential damages versus the cost of preventive remediation.
+2. Financial
+The uncertainty of the Y2K issue and lack of information of the total technology capital stock precludes
+an accurate estimation of the costs of making all priority computer systems compliant and the final cost
+estimate at this point is open-ended. Many comparisons have been made between Y2K and military
+campaigns. In military campaigns, the goals are clear but the means to achieving the goals change and
+evolve depending on circumstances or information gained. Because of the uncertain nature of the work
+involved, the Government needs to be prepared to invest additional resources and/or ration what is
+available to the priority systems. Close monitoring of the program and the adoption of contingency plans
+will be a critical factor in ensuring that whatever resources are available are directed to the most critical
+systems. An accompanying flexibility to make such "course corrections" is key to the Government's
+success.
+3. Technical::
+The basic technological questions are generally well understood and the solutionsper se do not present
+any technological challenge. As noted earlier, the problems are caused by the uncertainty on the extent of
+the problem, particularly in embedded systems, and the lack of historical documentation to diagnose old
+(a.k,a. legacy) systems. Another problem is the number of technically qualified and skilled staff or
+consultants to undertake the dramatic growth in the volume of work.
+Because of the likelihood that technical solutions will prove inadequate before the millennium deadline,
+non-technical solutions need to be pursued. These refer largely to contingency planning, and the key to
+its success-is the involvement of the business owners.
+
+
+
+13
+4. Institutional:
+The National Y2K Project Team will be strengthened to enable it to carry out its across the board
+coordination role. The main executing agency, MAMPU, has experience in guiding and financing
+modernization projects, although not of this magnitude. It is in the process of enlarging its staffing
+resources by the temporary acquisition of 12-20 new positions, and through consultants financed through
+this project. The Project Administration Unit will reside in MAMPU's offices to provide immediate
+implementation response.
+Responsibility for the execution of each subproject will rest with the corresponding implementing agency;
+guidance will be provided by MAMPU using its own staff or consultants hired for this purpose. Malaysia
+has a relatively well developed information systemn industry, and has very good access to IT industries in
+neighboring countries, in particular Singapore and Hong Kong.
+5. Social:
+The project is expected to have a positive net social impact. The burden of failure of government services
+may weigh disproportionately on economically disadvantaged groups. The destabilizing disruption
+avoided should spread broad benefits across geographical and socioeconomic boundaries. Government
+programs and services likely to be included in the project a priori would be selected on the basis of their
+contribution to social and economic welfare of a large population. The information dissemination
+campaign will be an important aspect of the project to keep the public abreast of the need for changes and
+to explain, in the case of new requirements, the impact that that may have on their eligibility for certain
+public services.
+6. Environmental assessment:  Environmental Category  [] A   []B   [X] C
+The proposed project is expected to have no environmental impact.
+7. Participatory approach [key stakeholders, how involved, and what they have influenced; if
+participatory approach not used, describe why not applicable]:
+a. Primary beneficiaries and other affected groups:
+The project relies on both a targeted and a demand-driven approach to identify eligible investments within
+the public sector. Requests or applications are submitted by the concerned entities, whose beneficiaries
+ultimately include those segments of the Malaysian population they serve.
+b. Other key stakeholders:
+In addition to Federal, State and Local governments, the private sector will be addressed through
+regulatory agencies and the national compliance verification activities carried out by the National Y2K
+Project Team, activities that by their nature are accompanied by a certain amount of transference of
+know-how.
+F: Sustainability and Risks
+1. Sustainability:
+The replacement nature of the investments make them inherently irreversible, nor is increased operational
+cost applicable as an negative incentive to sustainability. No provisions have been made for government
+budgetary support beyond the implementation of the project's investment phase. Sustainability in this
+context should be viewed as the likelihood of subprojects to be continued until the desired goal is
+
+
+
+14
+attained. The nature of software remediation is such that a full 24%8 of all projects are abandoned
+because of unexpected difficulty, changing priorities, loss of technical expertise or other reasons. While
+there are obvious risks with unexpected technical difficulty, most subprojects are likely to continue to
+completion, as the economic penalty for failure is great.
+2. Critical Risks (reflecting assumptions in the fourth column of Annex 1):
+Risk                       Risk        Risk Minimization Measure Agreed to
+Rating             or Under Consideration
+Annex 1, cell 'from Outputs to Objective"
+Lack of ownership at the highest political level,  Modest  *  Prime Minister himself has made numerous
+and among industry regulators                              statements on the Y2K problem.
+* Regulators have required regular progress
+reports, and sign off. This is likely to be
+supplemented by explicit penalties for non-
+compliance
+* Regular progress reports to Cabinet
+Shortage of qualified technicians available for   Modest  *  Malaysia has a substantial information
+hire                                                       technology industry and good access to IT
+industries in neighboring countries,
+Higher wages due to developing shortage drain  Substantial   *  Government must be prepared to take
+of information technology experts from the                 measures to keep critical experts
+Government
+Political pressure to favor certain agencies for   Moderate  *  Creation of representative Approval
+prioritized remediation funding                            Committee
+Ineffective and wasteful strategies as the  Moderate    *  Sharing of methodologies and lessons learnt
+millenium date rapidly approaches                       .  Creation of national sharing networks
+moderated by Y2K Project Team.
+Estimated amount proves insufficient to deal    Moderate  *  A 2" emergency project can be quickly
+with the Y2K issue                                         prepared.
+Annex 1, cell 'from Components to Outputs"              o
+Weak PAU management and implementation    Substantial   .  Hire high caliber consultants.
+capability                                             *  Hire with full program, not just immediate,
+needs in mind
+Inaccurate or unreliable progress reports  Substantial   *  Develop testing methodologies
+* Supplement with technical interviews
+Low agency capacity to implement subprojects  Substantial   *  Ensure that the principal implementing
+agencies can provide or have access to
+additional technical assistance.
+Ineffective or inefficient allocation of resources  Substantial   .  Clear procurement guidelines.
+* Audit and monitoring functions.
+* Representative Approval Committee.
+. Comprehensive operational manual
+Overall Risk Rating                       Substantial  I
+3. Possible Controversial Aspects (Project Alert System):
+No significant issues are anticipated
+Gartner Group
+
+
+
+15
+G: Main Loan Conditions
+1. Conditions (Appraisal, Effectiveness, Disbursement):
+.  Negotiations:
+*  Project Administration Unit staffed
+*  Agreement on Terms of Reference for independent entities to perform quarterly technical and procedural audits
+*  Notification of Bank which will hold Special Account together with names of proposed signatories
+Effectiveness:
+*  Adoption of operating manual goveming project activities satisfactory to the Bank
+2. Other [classify according to covenant types used in the Legal Agreements.]:
+H. Readiness for Implementation
+[ ] The engineering design documents for the first year's activities are complete and ready for the start of project
+implementation. [X] Not applicable.
+[ 1 The procurement documents for the first year's activities are complete and ready for the start of project
+implementation. Will not be ready due to the nature of the project.
+[X ] The Project Implementation Plan has been appraised and found to be realistic and of satisfactory quality.
+[ ] The following items are lacking and are discussed under loan conditions (Section G):
+1: Compliance with Bank Policies
+[X] This project complies with all applicable Bank policies
+Ndi iN.          Iweal                             t  Yos ihik  Sumi
+tJountry Director                                    Sector Inager
+Chit Tharnthong
+Task Team Leader
+
+
+
+16
+Annex 1
+Project Design Summary
+Malaysia: Year 2000 Technical Assistance Project
+Narrative Summary            Key Performance            Monitoring and       Critical Assumptions
+Indicators                 Evaluation
+Sector-related CAS Goal:     Comparison of results to                        Broad and deep support,
+Protect and enhance          similar and unassisted                          understanding and
+competitive capacity         sectors in other countries                      ownership
+Project Development
+Objective:                   Amount of economic and     PAU technical reports  Effective implementation
+To assist the Government of    social damage avoided    and impact analyses    mechanisms and operating
+Malaysia, in a rapidly       Identified critical services  Agency progress   procedures put in place.
+narrowing window of          able to continue operations   reports and PAU
+opportunity, to              with minimum disruption    monitoring activity
+contain the disruption in the    through June 30, 2001  update reports
+country's social and economic
+infrastructure that would be
+caused by the failure of critical
+central government systems to
+process dates after December
+31, 1999, and
+To strengthen the capabilities
+of the National Y2K Taskforce
+to carry out national
+monitoring, verification,
+legislative planning, national
+contingency planning and
+knowledge sharing.
+Outputs:
+Critical systems in operation  Compliance with PAU-     PAU monitoring       Outputs to Objective
+approved remediation and    reports             Available consulting
+test plans                 Subproject           services
+Compliance with PAU-       completion reports   Available equipment and
+approved contingency/                           parts
+emergency plan                                  Government retains
+informatics staff
+Project amount sufficient
+for critical remediation
+activities
+Project Components/Sub-     Inputs:                                           Components to Outputs
+components9:                                            Quarterly progress   PAU management and
+Project Team Activities      US$10 million              report, aggregating   implementation
+Government sector (MAMPU)  US$90 million                PAU and agency        capabilities are sufficient
+reports              Funding decisions are
+efficient and transparent
+Market demand does not
+drive up service costs
+9 See Annex 2 for project description
+
+
+
+17
+Annex 2
+Year 2000 Technical Assistance Project
+Project Description
+Project Component A: Government sector remediation (US$ 89 million)
+Agencies selected for financing will implement their remediation subprojects, assisted by MAMPU,
+financed from this Loan. Technical assistance would be provided by MAMPU to agencies on Y2K
+diagnostics, technical and impact analysis, preparing implementation plans, preparing terms of reference
+and supervision of consulting firms; preparing equipment specifications; and other activities.
+The activities for each agency are expected to be as follows:
+* Diagnosis
+* Technical Analysis
+* Impact Analysis
+* Allocation of Funds (Approval Committee)
+* Detailed analysis: identification of components, problems
+* Identification of remediation options and cost estimates
+* Evaluation and selection of option to use
+* Preparation of remediation plan, comprising activities, inputs, resources, testing plan,
+conversion plan, training plan, monitoring indicators and contingency plans.
+. Implementation of remediation plan aimed at non-Y2K-compliant systems, accomplished via
+one or more of the following:
+-  Replacement of commonly-used systems by standardized software
+-  Upgrade of the hardware/software platform infrastructure
+-  Modification of existing systems
+-  Quality assurance (verification of successful testing)
+-  Implementation of contingency plans
+Subproject examples
+The majority of subprojects will be those that are applied for by individual agencies. Some examples of subprojects
+are:
+1. Internal revenue agency. Technical elements included under this agency are likely to include the following:
+Consulting services: Assessment of systems at risk, contigency planning and managing vendor/manufacturers'
+responses.
+Mainframe-resident: Remediation and upgrade of operating system, transaction monitors, compilers and
+databases (including master files for individuals and corporations)
+Mid-level, server-resident: Remediation and upgrade of applications (both agency applications and
+commercial off the shelf products - COTS), include mid-level, server-resident application programs.
+PC-resident: Remediation of applications such as spreadsheets, informal databases, project management files,
+or other derived applications of COTS.
+Networking infrastructure: Upgrade and replacement of server, LAN, WAN equipment and software within and
+between regional, district and national offices.
+
+
+
+18
+2. Government-operated hospitals. Technical elements included under this agency are likely to include the
+following:
+Consulting services: Assessment of risk, contigency planning and managing vendor/manufacturers' responses.
+Biomedical equipment: Upgrade or replacement of embedded systems in defibrillators, dialysis machines, ICU
+ventilators, CT scanners, EKG equipment, ENT operating microscopes, flocytometer, electromyography,
+electrosuigical, ultrasound, apheresis, hematology testing equipment, and many others.
+Information Technology: Databases including master files (medical history, patients records, etc.), and
+derivative in-house applications.
+Networking infrastructure: Upgrade and replacement of server, LAN, WAN equipment and software within and
+between regional hospitals.
+Facilities: Building systems, such as elevators, emergency power generation, security systems,
+communications systems, including dispatching, paging, PABX, fax machines, and others.
+3. Department of Civil Aviation. Technical elements' included under this agency are likely to include the
+following:
+Consulting services: Inventory assessment, business continuity planning, managing vendor/manufacturers'
+responses, testing.
+Traffic control systems: Radars, instrument landing and navigation aids systems, flight systems, and more.
+IT and networking systems: Applications in Air Traffic Services Division, Airworthiness Division, Air
+Transport Division, Flight Safety Division and others.
+Facilities: Building systems, such as elevators, emergency power generation, communications systems, and
+others.
+Project Component B: National Y2K Project Team Activities - US$10 million
+Strengthening of the Project Team to enable it to properly coordinate National Y2K remediation
+activities; implementation of information dissemination, verification and other activities, as follows:'
+Initial Activities (partly financed retroactively by the Loan)
+The National Y2K Project Team will be strengthened to enable it to quickly become a more effective
+project implementation unit; additional staff will be recruited and consultants hired; training will be
+provided in technical issues, project management and national progress monitoring, legal issues and
+contingency planning. Overseas visits are planned throughout project implementation to keep abreast of
+developments in other countries. The Project Administration Unit will receive training in Bank standards
+and guidelines, project accounting and reporting, and procurement.
+Knowledge Management and Dissemination
+The existing Y2K web site will be expanded with shared lessons, best practices, directories to other Y2K
+web sites and with the remediation plans and progress reports prepared by the Project Team and
+concerned entities. In addition, a telephone help-line will be set up, and a series of targeted seminars (with
+expert speakers) will be organized. A publicity campaign will be implemented throughout the length of
+the project to appraise stakeholders of development and assuage worries about possible negative impacts
+of non-remediation and stem potential loss of confidence.
+Verification Activities
+
+
+
+19
+The Project Team will carry out selective audits of critical sectors and entities, using consulting firm(s)
+hired to this purpose.
+Legal Framework
+Work in the regulatory legal framework may be necessary to ensure that regulatory powers are adequate
+to impose sanctions where needed, as well as to relax statutory requirement in the event of developing
+crisis to bring the situation under control. Liability issues need to be planned for at many levels, covering
+possible injury, failed financial transactions, and others.
+Contingency Planning
+The Project Team will be directly responsible for contingency planning at the national level, including
+relationships with other countries; coordination of sectoral contingency planning, and of ensuring that
+contingency planning at the entity levels are carried out. This last may require the provision of technical
+assistance, for which suitable experts would be hired.
+
+
+
+20
+Annex 3
+Year 2000 Technical Assistance Project
+Estimated Project Costs
+Project Component                                  Local          Foreigz       ;TAh
+-----------------------US $ million------
+A. Government Sector Remediation                      87.0           37.0         12401
+B. National Y2K Project Team Activities                9.0            1.0         1P.0
+Total                                                 96.0           38.0         134
+Total Project Cost
+Front-end Fee                                   1.0
+
+
+
+21
+Annex 4
+Year 2000 Technical Assistance Project
+Cost Effectiveness Analysis Summary
+- Not Applicable -
+
+
+
+22
+Annex 5
+Year 2000 Technical Assistance Project
+Financial Summary
+- Not Applicable -
+
+
+
+23
+Annex 6
+Year 2000 Technical Assistance Project
+Procurement, Financial Management and Disbursement Arrangements
+Constraints and issues which limit the choice of procurement methods:
+1. Upgrade and Replacement. It is important to note that although software "patches" are often issued
+after the release of many information technology products, the traditional approach to solving many
+information technology problems is to issue corrections through version upgrades. This replacement
+strategy is traditionally the preferred method in dealing with many information technology problems.
+Because of this, many procurement activities will be in the form of upgrades or replacement.
+2. Timeliness. It is crucially important to ensure that a vendor or consultant is truly capable of
+performing the work required on time. This needs to take account of the fact that there could be
+unexpected work demands caused by the discovery of unexpected and new problems.
+3. Experience plus Capacity. Although quality-based selection provides a measure of assistance in this
+regard, it is important to note that that ultimately the optimal choice of a consultant or vendor may
+hinge on the reconciled balance between the vendor's ability to deliver goods and/or perform services
+in a timely and high quality manner.
+4. Compatibility. While compatibility is usually thought of in intra-system terms, interoperability
+between systems is equally important. Without interoperability, cooperation and interfacing between
+systems will fail. It is therefore important to note that the need to preserve interoperability can
+constrain solution procurement choices.
+5. Mid-course Correction. Experience in the US, UK and other countries indicates that flexibility is
+key to solving Y2K problems. Major course corrections are often needed and Government needs to
+be afforded maximum flexibility. The required flexibility may take unexpected forms, and may
+significantly affect procurement choices.
+6. Specialization. Vendor or consultant specialization cannot be confined broadly to a subject area.
+Within each area there are often sub-specializations. Judgment as to sub-specialization is key to
+making the right procurement choice. For example, it may be important to prefer a firm that is
+experienced in working with all of the following technical elements: (a) revenue systems, (b) vendor
+X's mainframe-resident database, (c) vendor Y's mainframe operating system, and (d) within a high
+performance (large volume plus high speed processing) environment.
+7. Proprietary Systems (see Annex 2 for sample subprojects). A large number of items to be procured
+are proprietary in nature as they involve enhancements and upgrades to existing equipment. Below is
+a representative list that will be covered under this project:
+Mainframe-resident: Remediation and upgrade of operating system, transaction monitors, compilers
+and databases (including master files for individuals and corporations)
+Mid-level, server-resident: Remediation and upgrade of applications (both agency applications and
+commercial off the shelf products - COTS), include mid-level, server-resident application programs.
+
+
+
+PC-resident: Remediation of applications such as spreadsheets, informal databases, project
+management files, or other derived applications of COTS.
+Information Applications: Databases including master files (medical history, patient records, and
+others), and derivative in-house applications.
+Networking infrastructure: Upgrade and replacement of server, LAN, WAN equipment and software
+within and between regional, district and national offices.
+Broadcasting equipment: Upgrade or replacement of embedded systems in transmitters, translators,
+computer-controlled antennas, relay, receiving and recording equipment, editing systems, relay, other
+synchronization-dependent equipment, and others.
+Biomedical equipment: Upgrade or replacement of embedded systems in defibrillators, dialysis
+machines, ICU ventilators, CT scanners, EKG equipment, ENT operating microscopes, flocytometer,
+electromyography, electrosurgical, ultrasound, apheresis, hematology testing equipment, and many
+others.
+Facilities: Building systems, such as elevators, emergency power generation, security systems,
+surveillance systems, communications systems, including dispatching, paging, PABX, fax machines,
+and others.
+Air and shipping traffic control systems: Radar, instrument landing and navigation aids systems
+(including lighthouse systems), flight systems, and more.
+8. Source Code Ownership. Malaysia, reflecting other best practices is moving towards commercial-
+off-the-shelf (COTS) software. However, a number of systems, turnkey as well as fragmentary
+systems, have been developed by firms and individuals who continue to own the source code. In
+essence, GOM has operated such software under license from these code owners. It would simply be
+impracticable to bring in another firm at this point to address Y2K remediation.
+Procurement
+The procurement of goods under the project will be conducted in accordance with the Bank's guidelines
+"Procurement under IBRD Loans and IDA Credits, January 1995, Revised January and August 1996,
+September 1997 and January 1999." The procurement of consultants will follow the Bank's guidelines,
+"Selection and Employment of Consultants by World Bank Borrowers dated January 1997, revised
+September 1997 and January 1999."
+Government shall also use counterpart funds to engage consultants experienced in World Bank projects to
+train the PAU in World Bank procurement rules and guidelines.
+Procurement methods (Table A)
+A general procurement notice will be made in the Development Business; all other advertisements will be
+done through the local press. The notice will request expressions of interest, which will be maintained by
+the PAU, and from which long- and short-lists of consulting firms will be prepared.
+For the procurement of a total amount of goods estimated at US$102 million:
+* International Competitive Bidding will be used for contracts estimated at US$500,000 or more up to
+an aggregate total of US$8 million. Qualifying domestic manufacturers will receive a margin of
+preference in bid evaluation of 15 percent or the import duty, whichever is less.
+
+
+
+25
+* Limited International Bidding will be used when a limited number of international suppliers is
+available, up to an aggregate total of US$16 million.
+*  National Competitive Bidding, with practices acceptable to the Bank will be used for contracts
+estimated at less than US$500,000 and more than US$100,000 when goods are available locally at
+prices below the international market up to an aggregate of US$29 million.
+*  Direct Contracting will be used when standardization of equipment or spare parts is required to ensure
+compatibility with existing equipment, up to an aggregate total of US$42 million. All direct
+contracting shall be done in consultation with the World Bank.
+*  Shopping will be used for goods up to US$100,000, up to an aggregate total of US$7 million.
+Consultant services for a total of US$20 million will be obtained using the Bank's Standard Request for
+Proposals and Forms of Contract, as follows:
+*  Many consulting assignments (other than individual consultants) are immediately required to initiate
+contingency planning for potential Y2K failures, to undertake studies to define the scope of the Y2K
+problem for affected systems, and to assist in the development of implementation plans. For these
+reasons, an aggregate amount up to US$15 million, will be procured through direct sourcing.
+*  Individual consultants up to an aggregate amount of US$2 million will be procured in accordance
+with the procedure in Part V of the Consultant Guidelines. To ensure transparency, consultants being
+considered for a task will be asked to submit signed expressions of interest.
+*  Non-specialized file and database update contracts and other services consisting mainly of repetitive,
+man-power intensive but quality-critical services up to an aggregate amount ofUS$3 million will be
+procured through will be procured through Quality Based Selection (QBS).
+All contracts over US$200,000 will be advertised in the national press (see above for Development
+Business requirement). Travel, supplies and other project operational expenses estimated to reach the
+equivalent of US$5 million will be procured through National Shopping. Salary bonuses, will be financed
+through counterpart fumds, and are estimated to reach an estimated US$7 million.
+Prior Review
+1. The PAU will be responsible for procurement under the project. During the assessment of thePAU's
+capacity to perform the procurement function, it was noted that this is a newly created Unit with very
+limited experience in carrying out procurement under Treasury Circular # 2 in general and under the
+Bank's Guidelines specifically. This will necessitate the recruitment of additional staffing on a
+temporary basis for the duration of the project. In view of the lack of previous experience with the
+Bank's procurement guidelines, the PAU will engage a consultant / procurement agent to be
+responsible for the procurement process. Supervision of the procurement process will be provided by
+a series of initiatives:
+a.    the Bank plans to engage a consultant, familiar with the Bank's procurement process, to
+be present in Malaysia for an extended period to oversee the procurement aspects of the
+current portfolio.
+b.    the PAU will engage independent auditors, satisfactory to the Bank, to carry out quarterly
+audits of the procurement activities and report on the compliance with the Bank's
+guidelines.
+c.    the TTL will conduct frequent supervision missions to monitor project implementation.
+2. Although the PAU has not had prior experience with procurement under Bank financed projects, the
+various initiatives discussed above will serve to mitigate the risk of the PAU following procurement
+procedures which will be unacceptable to the Bank. Therefore, the following prior review scheme is
+considered sufficient to ensure compliance with the Bank's guidelines.
+
+
+
+26
+a.    all contracts for goods and works subject to ICB and LIB procedures;
+b.    the first five contracts each project year for goods and works using NCB procedures;
+c.    all contracts of US $ 500,000 equivalent or more regardless of method of procurement;
+d.    all consultant contracts estimated to cost US $100,000 or more with firms and US
+$50,000 or more with individuals;
+e.    contracts not subject to prior review will be subject to ex-post review on a one in five
+sampling basis.
+Financial Management and Disbursements
+As part of project appraisal for the proposed Year 2000 Technical Assistance Project, a financial
+management assessment was carried out at the Malaysian Administrative Modernization Planning Unit,
+(MAMPU) which will implement the project,
+The objective of the financial management review was to determine whether the unit has in place an
+adequate financial management system as required by IBRD under OP/BP 10.02 and, based on the
+findings, to assess the readiness of the project to implement PMR based disbursements under LACI.
+The financial management assessment of MAMPU revealed a financial management system, based on a
+branch accounting system controlled by the Accountant General, (AG) which meets the requirements of
+OP/BP 10.02. In particular the following characteristics are present:-
+*  Clear accounting instructions and standardized procedures and forms which facilitate
+accurate and timely data input and processing.
+* Strong internal controls which include rigorous segregation of duties in connection with clear
+instructions for authorization and approval of invoices, control over bank accounts and
+custody of assets.
+*  A Government accounting system, understood by the accounting staff, which includes a
+requirement for annual budgeting and monitoring procedures as well as monthly reporting by
+all line ministries/budget centers.
+-  An Independent National Audit Department headed by a professionally qualified Auditor
+General which employs staff who are adequately trained to carry out the audit function in
+accordance with internationally accepted auditing standards.
+Organization and staffing MAMPU is a department of the Prime Minister's Office. It is a budget center
+with its own Finance Department, (FD) based on the accounting system operated by the AG. A Project
+Administration Unit, (PAU) will be set up at MAMPU and will be staffed by the present MAMPU
+Assistant Director (Finance) (AD), together with another member of staff with appropriate accounting
+experience and procurement personnel. The PAU will be responsible for all project accounting matters
+including preparing and submitting quarterly PMR's and Withdrawal Applications to the Bank. In order
+to effectively "ring-fence" the project accounts a stand alone computer system, utilizing as a minimum
+spreadsheet software, will be used to record all project related transactions. MAMPU however has no
+World Bank project administration or accounting experience. MAMPU staff who will be involved in
+project administration have meet with accounting staff at the project implementing unit of the Ministry of
+Education, DPSD, who do have project administration and World Bank experience. The purpose of the
+session was for DPSD staff to explain how project accounting information is to be derived from the GOM
+accounting system. Additionally, the Bank will provide training in Special Account management and the
+procedures for completing Withdrawal Applications.
+
+
+
+27
+Funds Flow and Accounting Project administration for both the MAMPU component and the Y2K
+component will be handled by the PAU and one set of accounting records will be maintained for the
+project as a whole. Project accounts will be prepared from the sarne payment vouchers, which form the
+basis of input to the AG's central government accounting records. Authorization of payment vouchers
+will be carried out by the AD, data input will be handled by the nominated member of staff under the
+supervision of the AD and all payments will be made, in accordance with GOM custom, via theAG's
+office. As part of the annual budget process, on the basis of plans submitted to Treasury by MAMPU,
+GOM will allocate in advance to MAMPU annual counterpart funds required for project implementation.
+MAMPU will pre-finance as necessary, from this appropriation, eligible project expenses that cannot in
+the first instance, be wholly paid from the Special Account. MAMPU will then at regular intervals make
+a "refund" to itself from the Special Account, of an amount representing the Bank's share of eligible
+project expenditures in the preceding period. MAMPU will at no time have direct control over the
+disbursement of these counterpart funds but it will receive details from the AG's office of all such
+payments which have been made in order to enable it to complete data entry to the project accounting
+records.
+Reporting The AD will be responsible overall for the preparation and submission of quarterlyPMR's to
+the Bank. Project accounting information required to complete the financial reports of the PMR will be
+readily available from the PAU's accounting records. The output monitoring reports will consist of the
+quarterly technical reports to be produced by an independent IT auditor. These, in addition to reporting on
+project output in the preceding quarter will also provide an opinion as to whether the output in the period
+was commensurate with expenditures incurred in the period. The procurement personnel will be
+responsible for collating the information required to produce the procurement management reports. The
+AD will however be responsible for ensuring that all the information received from other sources is
+consistent with the financial information derived from the accounting records. The format of the PMR,
+discussed and agreed with the Project Coordinator and the AD, is included in the Project Implementation
+Plan. Prior to submission to the Bank, the completed PMR will be reviewed by the Project Director. The
+annual financial statements will comprise the year end Summary of Sources and Uses of Funds Statement,
+Report 1-A of the PMR, which will be prepared, in accordance with GOM accounting regulations, on a
+modified cash basis.
+Audit GOM has indicated that, as with ongoing projects, the Auditor General will be responsible for the
+annual audit of the project financial statements, the eligibility of expenses disbursed on the basis of the
+PMR and of transactions on the Special Account. The audited financial statements will be submitted to
+the Bank within six months of the end of the project's financial year. The audit will be conducted in
+accordance with internationally accepted auditing guidelines and under World Bank Terms of Reference.
+Special Account To facilitate the implementation of the project, a Special Account will be opened at a
+commercial bank acceptable to the Bank. The Special Account will be managed by the PAU. It is a
+condition of negotiations that the signatories, to the SA, from MOF/MAMPU are notified to the Bank. As
+GOM has not used SA facilities in the past, it is a condition of effectiveness that written procedures,
+prepared by the AG's office, are in place regarding the flow of information to the AG in respect of
+movements on the SA and withdrawal of the loan proceeds.
+Disbursements Withdrawal Applications will be completed by the AD and approved by the Project
+Director. Withdrawals will be made on the basis of quarterly PMR's. Two copies of the PMR together
+with the related Withdrawal Application form will be submitted to the Bank within 45 days of the end of
+the preceding quarter even if no further advance is required at that time. Documentation that authenticates
+the expenditures reported in the PMR will be retained at MAMPU for review by the auditor and Bank
+missions as indicated in the Loan Agreement.
+
+
+
+28
+Allocation of loan proceeds The loan will be disbursed over a period of 2.5 years. Disbursements will be
+made against eligible project expenditures for goods and services as shown in Table C.
+Status of GOM compliance with audit covenants in existing Bank-financed projectsAt the present time
+GOM has two ongoing Bank-financed projects - MY-PE-4312 Health Development Project and MY-PE-
+4309 Polytechnic Development Project. The audited financial statements for the Polytechnic
+Development Project have, over the last few years been submitted late. In=particular, the 1995 audited
+accounts were overdue by 15 months. Both projects are however currently in full compliance with the
+Bank's audit covenants, with the Health Development Project having submitted its most recent audited
+accounts well in advance of the due date.
+
+
+
+29
+Annex 6, Table A: Project Costs by Procurement Arrangements
+(in US$million equivalent)
+Expenditure Category                                       Procurement Method                                 Total Cost
+(including
+contingencies)
+ICB           LIB    NCB    Other   N.B.F
+1. Goods
+Computer Equipment               8.0          16.0         29.0         49.0A/                         102.00
+(8.0)       (16.0)        (25.0)        (35.0)                         (84.0)
+2. Services
+Consulting Firms                                                                  15.0- 15.0
+(10.0)                         (10.0)
+Individual Consultants                                                            2.0 cl                           2.0
+(1.0)                          (1.0)
+Quality-based and                                                                 3.0 D/                           3.0
+manpower-intensive services
+(2.0)                          (2.0)
+3. Miscellaneous
+PAU Operational Expenses                                                          5.0 Fl                           5.0
+(2.0)                          (2.0)
+Salary Bonuses                                                                                  7,0 El             7.0
+Total                                  8.0          16.0         29.0          74.0           7.0             134.0
+(8.0)        (16.0)       (25.0)        (50.0)        (0.0)            (99.0)
+Figures in parenthesis are the amounts to be financed by the Bank loan
+Al Shopping and direct contracting
+B/ Direct contracting
+C/ Quality-based selection. A minimum of three signed letters of intent must be provided for each contract.
+D/ Quality-based (QBS)
+El Salary bonuses and other incentives to govemment staff for extra hours spent in upgrading an entities' systems
+F/ Office space, travel, supplies and other PAU operational expenses will be procured through shopping.
+
+
+
+30
+Annex 6, Table Al: Consultant Selection Arrangements (optional)
+(in US$ million equivalent)
+Selection Method                                     Total Cost
+Consultant Services                                                                                         (including
+Expenditure Category                                                                                       contingencies)
+QCBS   QBS    SFB    LCS                       CQ    Other  N.B.F.
+A. Firms                                3.0                                           15.0                      18.0
+(2.0)                                        (10.0)                    (12.0)
+B. Individuals                                                                        2.0                        2.0
+:________________  _____  _    ______   _______     ______     ______       (1.0)                      (1.0)
+Total                 3.0                                           17.0                      20.0
+(2.0)                                        (1 1.0)                   (13.0)
+Notes:
+QCBS          Quality- and Cost-Based Selection
+QBS           Quality-based Selection
+SFB           Selection under a Fixed Budget
+LCS           Least-Cost Selection
+CQ            Selection Based on Consultants' Qualifications
+Other         Selection of individual consultants (per Section V of Consultants Guidelines), Commercial Practices, etc.
+N.B.F.        Not Bank-financed.
+Figures in parenthesis are the amounts to be financed by the Bank loan.
+
+
+
+31
+Annex 6, Table B: Thresholds for Procurement Methods and Prior Review
+Expenditure         Contract Value         Procurement       Contracts Subject to
+Category            (Threshold)            Method             Prior Review /
+Estimated Total Value
+Subject to Prior
+Review
+US $                                   US $ millions
+1. Goods
+Computer Equipment          > 500,000       All methods inc. ICB            All
+Computer Equipment          < 500,000      NCB                   First five annually
+Computer Equipment                          LIB                             All
+Computer Equipment'0                        Direct Contracting              All
+2. Services
+Consulting Firms"           >100,000        Direct contracting              All
+Consulting Firms            >100,000        QBS                             All
+Individual Consultants       >50,000                                        All
+Estimated value of contracts subject to prior review/consultation:  70.0
+Annex 6, Table C: Allocation of Loan Proceeds
+Expenditure Category                 Amount              Financing
+In US$ million       Percentage
+Goods                                          84.0      100% foreign, 65%
+local ex-factory and
+65% local purchase
+Services                                       13.0      100%
+PAU Supplies and Miscellaneous                  2.0      65%
+Operational Expenses
+Total            99.0
+Front-end Fee                                    1.0
+It) Prior consultation on the use of direct contracting
+Prior consultation on the use of direct contracting
+
+
+
+32
+Annex 7
+Year 2000 Technical Assistance Project
+Project Processing Budget and Schedule
+A. Project Budget                                Planned              Actual
+(At final PCD stage)
+US$95,000
+B. Project Schedule                              Planned              Actual
+(At final PCD stage)
+Time taken to prepare the project (months)          2                    3
+First Bank mission (identification)            10/24/1998            10/24/1998
+Appraisal mission departure                    11/24/1998            11/24/1998
+Negotiations                                    12/19/1998           02/10/1998
+Planned Date of Effectiveness                  02/01/1999          (03/15/1999)
+Prepared by: Economic Planning Unit, Office of the Prime Minister
+Preparation assistance: Retroactive Financing
+Bank staff who worked on the project included:
+Name                                     Specialty
+Chit Tharnthong                    Informatics (Task Team Leader)
+Luis-Jose Mejia               Public Sector Management (Team member)
+Ramesh Sivapathasundram                  Informatics (Team member)
+Hilary Kiell                         Procurement Specialist
+Omowunmi Ladipo                     Financial Management Specialist
+Mohamed Muhsin                             Peer Reviewer
+James Bond                               Peer Reviewer
+Khalid Siraj                             Peer Reviewer
+
+
+
+33
+Anhex 8
+Year 2000 Emergency Assistance Project
+Documents in the Project File*
+A. Project Implementation Plan
+B. Bank Staff Assessments
+N/A
+C. Other
+Operational Manual (after Effectiveness)
+Miscellaneous Y2K and support documentation
+*Including electronic files.
+
+
+
+34
+Annex 9
+Statement of Loans and Credits
+Status of Bank Group Operations in Malaysia
+Operations Portfolio
+As of 15-Feb-99
+Difference Between
+expected
+Original Amount in US$ Millions                     and actual
+Fiscal                                                                                                                                 disbursements a/
+Project ID    Year                Borrower                    Purpose
+IBRD        IDA      Cancellations  Undisbursed         Orig    Frm Rev'd
+Number of Closed Projects: 82
+Active Projects
+MY-PE-4312      1994   GOVT OF MALAYSIA                  HEALTH                                   50.00        0.00         0.00             27.72        17.56        0.00
+MY-PE-4309      1993   GOVT OF MALAYSIA                  POLYTECHNIC DEV                         107.00        0.00         0.00             44.64        38.63        0.00
+Total                                                                                            157.00        0.00         0.00             72.36        56.19        0.00
+Active Projects       Closed Projects           Total
+Total Disbursed (IBRD and IDA):                  84.65            2,907.84            2,992.49
+of which has been repaid:                   2.32            1,980.69            1,983.01
+Total now held by IBRD and IDA:                 154.68               927.14           1,081.82
+Amount sold                                        0.00              153.40              153.40
+Of which repaid               :                0.00              153.40              153.40
+Total Undisbursed                :               72.36                 0.00               72.36
+a. Intended disbursements to date minus actual disbursements to date as projected at appraisal.
+Note: Disbursement data is updated at the end of the first week of the month and is currently as of 31-Jan-99.
+
+
+
+35
+Malaysia
+STATEMENT OF IFC's
+Committed and Disbursed Portfolio
+As of 3 1-Dec-98
+(In US Dollar Millions)
+Committed                       Disbursed
+IFC                             IFC
+FY Approval            Company          Loan   Equity  Quasi  Partic   Loan   Equity  Quasi  Partic
+1984                  SEAVI MVB               0.00     .01    0.00    0.00    0.00    0.00    0.00    0.00
+1990                  21st Century            3.68    0.00    0.00    2.78    3.68    0.00    0.00    2.78
+1991                  SEAVI MVB 11            0.00     .62    0.00    0.00    0.00      .62    0.00    0.00
+1991                  VIM MVB II              0.00     .02    0.00    0.00    0.00      .02    0.00    0.00
+Total Portfolio:                    3.68     .65    0.00    2.78    3.68     .64    0.00    2.78
+Approvals Pending Commitment
+Loan   Equity  Quasi  Partic
+1998                  TITAN VINYL            18.50    0.00    3.50   34.02
+Total Pending Commitment:          18.50    0.00    3.50   34.02
+
+
+
+36
+Annex 10
+Country at a Glance
+Malaysia at a glance                                                                          9/15/98
+East   Upper.
+PovERtyy anvd socgiA                                          Asia &   middle.
+Malaysia    Pacflc   income
+1997~~~~1
+Populaftnio midyear (mlin)21.0                                 1.753      571
+GNP per 8aplte (Atlasmefthiod, US$)                 4.680       970     4,520
+GNP (Atlas meoho  U.S$bilfions)                      98.3      1.707    2584
+Avaeannual Arwh  919
+Population `%                                         23         11        .
+Poverty (% of pop6llioin below national poverty line) 1/  1 6
+Urban populatiorO (% of total p0 .pIAIation)           55        3         73
+Life expectancyit birth (years)                        72      169         70
+Infant mortality (per 1,00 ive births)                 11        38        30
+Child malnutrition (% of children undar 6)             23        16
+Access toi safe wafer (%ofpopulation)                  88        84        79
+tll4eracy (% of p0 60ia    ag 15+)                     17 a      17        16 
+Mg ulacturing 253 ;~~~~~~~~~92                  143.6243 
+Gross pIgovyernrimentcon osumpton            509oultn  91.      110       1107
+KEYiC(NoMIo RAIOS1 and 400G-TERM TRSNOS
+19766   198        1996      1997 
+GP (US$      #                              11iupton  .1   827.  99.3    9.5
+Gross domestic investmentGOP                23.5    26.0       41.5      42.89
+Emports of goods and services/GOP           49         8 56.3  92.0      94.S
+Gross domestic savrngimGP                   33.7i   32.1       42.6      44.4
+Gross national vroslGDP                     29    8.7 255      331
+Currenti acccountbafancelGop                 5.0     -04        -5.2     -4.
+Interest: pa9 tayGen prInyt e                1.3.     4.7       1.4 1i6
+Total debt/GDP                              23.5     78.9      40.1
+Total debt service/exports                   6.9    21 8         8.2
+PresentValue of debtfGDP                      ..        .      42.0
+Present value of dehtlexports                  .        .      44.4
+1976-8   1987497    1996'     1997   1990"2
+(average annual growthl
+GDP;                                6.2      8.8      8.8       7,8
+GNP' per cpiata                     3.2      6.2      5.9       5.2
+Exportsmofgpeods and esvves          .      14.5      7.2        9,8
+STRUCTURE of the ECONOMY
+1976     1986      1996      1997
+(/% of GDP)
+Agriculture                                 26.8      19.2      12.8     12.1
+Industry                                    32.3    35.5       46.2      47.3
+Manufacturing                              17.7     18,5      34.3      35.7
+Services                                    40.9     45.3      41.0      40.6
+Private consumption                         50.9     51.0      46.0      44.6
+General government consumption              15.4     16.9       11.4     11.0
+Imports of goods and services               39.6    50.2       91.0      92.8
+1976486  1987-97      1998     1997
+(average annual growth)
+Agriculture31                                         23         22       30
+Industry                                     7.3     11.2       11.2      5.2
+Manufacturing73                                     '36       122        25
+Services                                     71       88         771.
+Private consumption                          5.8      8.4        6.0      4.7
+General government consumption               7.0      7.4        1.4      4.8
+Gross domestic investment                    8.5     17.0        5.8     12.9
+Imports of goods and services                9.6     18.0       4.2      10.1
+Gross national product                        .       87         84        75
+Note: 1997 data are preliminary estimates. 1/Poverty estimate is from 1989.
+The diamonds show four key indicators in the country (in bold) compared with its income-group average. If data are missing, the diamond will
+be incomplete.
+
+
+
+37
+Malaysia
+PRICES and GOVERNMENT FINANCE
+1976    1986       1996      1997
+Domestic prices
+(% change)
+Consumer prices                              17         8         3,        29
+Implicit GDP deflator                        12.7    -8.6         5.2      2.9
+Government finance
+(% of GDP, includes current grants)
+Current revenue                                 ..    27.3       23.6     23.
+Current budget balance                                27-0.8      6.1      7.4 
+Overall surplus/deficit                        ..      0.0        1.1       2.6
+TRADE
+1976    1986       1996      1997
+(US$ millions)
+Total exports (fob)                                 13,682    76,548    77,700
+Fuel                                                2,092     2,867
+Rubber                                        .    1,233      1,395     1419
+Manufactures d   d       /6,009    62,997   63,558
+Total imports (cif)                            .5  10,816    78,425   78530
+Food                                           ..   1,210     3,066
+Fuel and energy    RS      C1,319                             3,874
+Capital goods                                 .. 4,873    47,580
+Export price index (1995=100)                  ..       41        94
+Import pr'ice index (1995=100)                 ..       33        89
+Terms of trade (1995=-100)                     ..      122        107
+BALANCE of PAYMENTS
+1976    1986       1996      1997
+(US$ millions)
+Exports of goods and services               5,691   15,637    91,387   92463
+Imports of goods and services               4,64    14,016    90,803    91°512
+Resource balance                            1,047    1,621       584       951
+Net income                                   -428   -1,781    -4,613    -4451
+Net current transfers                         -39       37    -1,129
+Current account balance                       580     -123    -5,158    -4800
+Financing items (net)                         218    1,578      7,640    -1200
+Changes in net reserves                      -798   -1,455    -2,482     6,000
+Memo:
+Reserves including gold (US$ millions)                        927,700    21700
+Conversion rate (DEC, localAUS$)              2.5      2.8        2.5       2.8
+EXTERNAL DEBT and RESOURCE FLOWS
+1976     1986      1996      1997
+(UIS$ millions)
+Total debt outstanding and disbursed        2,713   21,880    39,777
+IBRD                                        306      908       907       758 
+IDA                                                                        0
+Total debt servce                             404    3,527      7,657
+IBRD                                          7      12         3 O
+IDA                                                                
+Composition of net resource florws
+Official grants                               6       88         7
+Official creditors                          118      -57       -777
+Private creditors31                                  37       324
+Foreign direct investment                   381      489      4,500
+Portfolio equity                              0        0      4,353
+World Bank program
+Commitments                                 104      319         0         0
+Disbursements                                47       68        85        51
+Principal repayments                         1        0         6         2
+Net flows                                    3        4         7         7
+Interest payments                            23       73        70        57
+Net transfers                                10    -116       -146      -132
+Development Economics                                                                                                9/1 5/98
+
+
+
+38
+Annex 11
+Y2K Problem Definition
+(from http://www.mitre.org/research/y2k/docs/PROB.html)
+Two-Digit Year/Six-Digit Date Coding
+Use of two digits to represent the year is expected to be the most common cause of year 2000
+failure. Applications that require the user to enter a date routinely present a two-digit field to the operator in
+an attempt to reduce the number of keystrokes needed to enter data. Failure to append the correct century to
+the value after input results in an inability to distinguish between 1900 and 2000. For the most part, this
+shortcoming was not an issue earlier in the century; however, as the year 2000 approaches, the capability to
+differentiate between dates in the twentieth century and dates in the twenty-first century will be a necessary
+requirement for a successful system. This is also referred as six-digit date coding, since two digits are often
+used for each of the month and day fields as well as the year field. Six-digit date coding is common in
+administrative information systems. Planning and scheduling systems, human resources systems, financial
+and billing systems, and many other programs use the convention. This coding method is typically used
+where the application is attempting to determine which of two dates is earlier in time, or if a certain
+deadline has passed. These tests are frequently coded with a single inequality statement used to compare
+the two six-digit dates.
+CalculatingLeap Years Correctly
+The second complicating factor in the millennium problem is the leap year calculation. It is
+evident that many people are unaware of the rules for determining whether the current year is a leap year.
+In fact, one user wrote a Software Problem Report against the run-time library routines for an operating
+system complaining that the year 2000 was being incorrectly identified by it as a leap year.
+The year 2000 is a leap year. The three rules which the Gregorian calendar uses to determine leap year are
+as follows:
+*   Years divisible by four are leap years, unless...
+*   Years also divisible by 100 are not leap years, except...
+*   Years divisible by 400 are leap years.
+Therefore, the year 2000 is a leap year according to rule number three.
+Hardcoding and Magic Numbers
+The third area of problems comes from hardcoded values in software routines such as " 19" for the
+implied century and/or use of "99" and "00" as reserved values meaning "never delete this" or "this is a
+demonstration account," respectively (sometimes called "magic numbers") which limit the range of year
+values and may cause date comparisons to fail or pollute output values. Other magic number dates include:
+9/9/99, 99199/99, 1/1/1, 1/1/11, 6/9/69, 67189, 1/23/45, 6/6/66, 7/7/77, 8/8/88, and 12/31/99.
+Limiting Date Range Size
+The fourth and final area of problems is platform limitations. Specifically, the intemal date representations
+of COTS (commercial off-the-shelf) hardware and software components, software date data types which
+are stored as an increment over some base date, may roll over and fail due to the storage register filling up.
+This is the problem facing many Global Positioning Satellite receivers when their intemal week counter
+rolls over its 10-bit counter on August 21, 1999. Additionally, not all PC BIOSs12 are Year 2000 compliant.
+Older PCs may require a BIOS upgrade (a process often called "flashing the BIOS" to existing hardware
+with the capability), or must be patched / manually set to operate properly for the Year 2000.
+12 BIOS - basic input/output system, a set of routines that work with the computer hardware to support the transfer of information
+between elements of the system, such as memory, disks, and the monitor. Although critical to performance, the BIOS is invisible to
+computer users.
+
+
+

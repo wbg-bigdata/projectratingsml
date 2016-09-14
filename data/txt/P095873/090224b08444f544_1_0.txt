@@ -1,0 +1,1499 @@
+The Timor Leste 2011 EGRA:
+Tetum Pilot Results
+
+
+
+
+ M
+     IN
+          IS                           ÃO
+               TÉ                 AÇ
+                    RIO DA EDUC
+
+                                            THE WORLD BANK
+Acknowledgements
+
+This report was prepared by Steph de Silva (PEARL, World Bank) and Luc Gacougnolle (Education Economist, World
+Bank). Substantial input and comments were received from Stephen Close (Education Task Team Leader, World Bank,
+Sydney), Jim Stevens (Senior Education Specialist, World Bank, Washington), Julia Gaio (Education Advisor, Ministry of
+Education, Timor-Leste), Rosanne Simpkin (Education Specialist, Ministry of Education, Timor-Leste). The report was
+prepared with technical guidance and feedback from Myrna Machuca-Sierra (Education Specialist, World Bank, Sydney).
+
+The authors would like to thank the following individuals who worked on and supported the EGRA process in Timor-
+Leste and who commented on this report: Dr. João Câncio Freitas (Former Minister of Education), Raimundo José
+Neto (Former Director of Curriculum Materials and Evaluation), Cristina Benevides (EGRA Assistant), Kashif Saeed (EMIS
+Adviser in 2011, Ministry of Education). The authors would also like to thank the EGRA interviewers who performed well
+under difficult circumstances and made this analysis possible: obrigado barak.
+         The Timor Leste
+           2011 EGRA:
+                 Tetum Pilot Project
+
+
+                                ABSTRACT
+
+In 2011, a second Early Grade Reading Assessment (EGRA) survey was carried
+out in Timor Leste to diagnose reading levels in the country after the expansion
+of access to primary schooling. Originally, the survey was intended to analyze
+both Tetum and Portuguese literacy skills together, however, due to technical
+requirements the survey was divided into two language strands ex post:
+Tetum and Portuguese. The Tetum survey yielded interesting results discussed
+in this report that yield important research questions for future exploration.
+However, due to the implementation of the current language and curriculum
+policy as well as resourcing constraints of the Timor Leste education system in
+Portuguese, findings from the Portuguese survey are inconclusive and should
+be considered as an aid to future research rather than a baseline survey.
+
+Students show grade progression in Tetum language, albeit progression
+starting from a low base and exhibiting some slowness. Approximately 26%
+of students in Grades 1-3 meet a fluency benchmark of 45 correct words per
+minute in Tetum which is associated to 70% comprehension. Socio-economic,
+school and specific factors associated with better reading outcomes include
+speaking Tetum at home, access to printed materials at home, teacher
+attendance at in-service and reading with family at home.
+     Contents
+
+
+     Abstract ....................................................................................................................................................................................................................................i
+     Table of Contents ...............................................................................................................................................................................................................ii
+     List of Tables ..........................................................................................................................................................................................................................iii
+     List of Figures ........................................................................................................................................................................................................................iii
+     Executive Summary and Recommendations ...................................................................................................................................................iv
+
+     Chapter 1: Introduction ..................................................................................................................................................................................................1
+     Chapter 2: Survey Implementation..........................................................................................................................................................................3
+       Background......................................................................................................................................................................................................................3
+       Instrument And Sample Design..........................................................................................................................................................................4
+       Reliability Of The Instrument.................................................................................................................................................................................5
+     Chapter 3: Survey Results...............................................................................................................................................................................................7
+       On Reading Development And The Egra Tool...........................................................................................................................................7
+       Results By Sub-Test......................................................................................................................................................................................................9
+       Gender Differences......................................................................................................................................................................................................11
+       Performance In Oral Reading Fluency And Reading Comprehension.......................................................................................12
+     Chapter 4: Student And Teacher Factors Associated With Better Reading Outcomes............................................................15
+     Chapter 5: Conclusion: A Reading Future For Timor Leste........................................................................................................................17
+
+     References................................................................................................................................................................................................................................19
+     Appendix 1: Reliability Statistics.................................................................................................................................................................................21
+     Annex Two: Administration Of The Assessment..............................................................................................................................................24
+     Annex Three: Logit Models............................................................................................................................................................................................25
+
+
+
+
+ii
+LIST OF TABLES
+Table 1 Variables with an Effect on Reading Outcomes..............................................................................................................................v
+Table 2 Main Education Indicators............................................................................................................................................................................4
+Table 3 Reliability Measures: Tetum Language Sample...............................................................................................................................5
+Table 4 Reliability Measures: Zero Scoring Students Removed, Tetum Language.....................................................................5
+Table 5: EGRA Instrument Structure and Early Skills Tested......................................................................................................................8
+Table 6 Sub-test Results, Letter Level Skills..........................................................................................................................................................9
+Table 7 Sub-test Results, Word Level Skills...........................................................................................................................................................10
+Table 8 Listening and Dictation Skills.....................................................................................................................................................................10
+Table 9 Gender Differences...........................................................................................................................................................................................11
+Table 10 Fluency Rates and Related Measures: Tetum Language.........................................................................................................13
+Table 11 Factors Effecting Literacy Acquisition: Oral Reading Fluency and Reading Comprehension.........................16
+Table 12 Factors Effecting Literacy Acquisition: Listening Comprehension and Dictation...................................................16
+Table 15 Logit Models: Tetum Language..............................................................................................................................................................25
+Table 16 Logit Models: Tetum Language..............................................................................................................................................................26
+
+
+
+LIST OF FIGURES
+
+Figure 1 Stages of reading development.............................................................................................................................................................7
+Figure 2 Reading Comprehension and Oral Reading Fluency, Tetum Language.......................................................................12
+
+
+
+
+                                                                                                                                                                                                                          iii
+     Executive Summary and
+     Recommendations
+
+     A survey was carried out under Word Bank funded1 Education Sector Support Project (ESSP) during October and
+     November 2011. The study was carried out by the Ministry of Education with financial and technical support from
+     the World Bank and AusAID. Its intent was to determine the levels of early-grade reading abilities in Timorese
+     schools after different programs had been implemented to improve the teaching and learning of reading abilities
+     in Timorese primary schools.
+
+     The 2011 survey was the second EGRA assessment in Timor Leste. The 2009 diagnostic assessment carried out by the
+     Ministry of Education revealed worryingly low levels of reading skills in early grades. A similar observation is made
+     in this limited survey. However, the increase in access to education and high levels of grade retention should be
+     considered when interpreting and comparing against the 2011 results.
+
+     The 2011 survey was carried out in an attempt to replicate the 2009 diagnostic assessment to monitoring changes
+     in the learning outcomes between 2009 and 2011. However, the two surveys are not directly comparable. A
+     significant increase in the number of newly enrolled students, undocumented differences in the implementation of
+     the language policy in Grades 1 to 3, as well as methodological challenges faced by the 2011 EGRA survey render
+     the sample unsuitable for comparisons.
+
+     In order to draw adequate conclusions from the 2011 survey, the data was divided into two language strands ex post:
+     Tetum and Portuguese languages. The Tetum language survey can be considered a non-nationally representative
+     pilot of early grade reading acquirements, but the Portuguese language survey should be considered as a pilot that
+     has rendered important questions for future research. Due to the capacity constraints of the education system in
+     Timor, particularly in regard to the Portuguese language, the information from this part of the survey suggest that
+     students tested are understanding very little of the Portuguese language and that the assumption of bilingual
+     education in each Grade 1 and 2 classroom –as indicated by the syllabus requirement of a 3:1Tetum to Portuguese
+     ratio of teaching time-- may not be occurring in practice. Further research in this area will be required to draw more
+     definitive conclusions about reading development and/or transfer of reading skills into Portuguese language in
+     Timor Leste.
+
+     Student data in Tetum language appears to have captured important information about reading development
+     among pre-readers and beginning readers. However, despite minimum sample size considerations for a nationally
+     representative survey were taken into account during sample design, given the lack of ex ante information about the
+     languages effectively used in instruction in the early grades, both in terms of the purpose and frequency in their use,
+     the effective sample size of Tetum data should be seen as a large-scale pilot generating important policy questions
+     for future exploration.
+
+     Overall, student results in Tetum show cause for concern. Slow levels of grade progression and low levels of fluency
+     are apparent. Although average scores per grade appear reasonable given the Timorese context, median scores are
+     very low with modest increases across grades, indicating a large body of students making little progress.
+
+     An analysis of average oral reading fluency and reading comprehension levels suggest that students learning to
+     read in Tetum are able to understand, on average, 70% and more of the text they read once they are able to read a
+     narrative passage with an average fluency of 45 correct words per minute (CWPM). Setting a reference benchmark
+     for fluency at 45 CWPM, 26% of students in the sample as a whole attained this benchmark. As expected, most of
+     the students attaining this reference benchmark were in Grade 3. In Grade 1, only 3% of students of Grade 1 students
+     attained the reference benchmark. Among Grade 2 students, only 14% of students were able to read at that level.
+
+
+     1
+         IDA Grant No. 583-TP
+
+iv
+At the end of Grade 3, 61% of Grade 3 students are able to read at the reference benchmark of oral reading fluency
+suggesting it is in Grade 3 where most Timorese students “break into reading” –i.e. consolidate basic reading skills
+and transition from reading the words in the text to read for comprehension.
+
+An initial exploration of the student, teacher and school characteristics was carried out to identify student and
+teacher characteristics that associate with better reading outcomes. The effects of these factors were examined
+on only four of the eight sub-tests for reasons of brevity: oral reading fluency, reading comprehension, listening
+comprehension and dictation. Table 1 below summarizes the factors that demonstrated statistical significance at
+a 95% level (in bold and green). Briefly, grade progression and age had significant effects, as did the language a
+student speaks at home, teacher certification and in-services. Student absenteeism associated with negative effects
+on early grade reading. Age was modeled as a quadratic variable, allowing for changing marginal effects: students
+very old or young for their grade were presupposed to be at a disadvantage in acquiring literacy.
+
+TABLE 1.	      Variables with and Effect on Reading Outcomes
+                         Oral Reading Fluency                                           Reading Comprehension
+
+              Variable                  Effect    Significance                Variable                    Effect   Significance
+ Printed Materials at Home                +          0.002       Printed Materials at Home                  +         0.000
+ Grade 2                                  +          0.000       Grade 2                                    +         0.000
+ Grade 3                                  +          0.000       Grade 3                                    +         0.000
+ Student Age                              +          0.007       Student Age                                +         0.035
+ Student Age Squared                      -          0.007       Student Age Squared                        -         0.035
+ Reads with Family                        +          0.021       Reads with Family                          +         0.020
+ Absent >1 Week                           -          0.008       Absent >1 Week                             -         0.053
+ Alimentary Feeding Program               +          0.203       Alimentary Feeding Program                 +         0.097
+ Teacher Certified                        -          0.472       Teacher Certified                          -         0.974
+ In-service last year                     +          0.000       In-service last year                       +         0.323
+ Speaks Tetum at Home                     +          0.154       Speaks Tetum at Home                       +         0.086
+
+                        Listening Comprehension                                               Dictation
+
+              Variable                  Effect    Significance                Variable                    Effect   Significance
+ Printed Materials at Home                +          0.0080      Printed Materials at Home                  +         0.1350
+ Grade 2                                  +          0.0060      Grade 2                                    +         0.0000
+ Grade 3                                  +          0.0000      Grade 3                                    +         0.0000
+ Student Age                              +          0.7090      Student Age                                +         0.1130
+ Student Age Squared                      -          0.7190      Student Age Squared                        -         0.1110
+ Reads with Family                        +          0.0040      Reads with Family                          +         0.0510
+ Absent >1 Week                           -          0.7270      Absent >1 Week                             -         0.5510
+ Alimentary Feeding Program               +          0.0070      Alimentary Feeding Program                 +         0.8250
+ Teacher Certified                        -          0.0270      Teacher Certified                          -         0.1870
+ In-service last year                     -          0.9090      In-service last year                       +         0.0980
+ Speaks Tetum at Home                     +          0.0000      Speaks Tetum at Home                       +         0.0490
+ Library at school                        +          0.0570      Library at school                          +         0.4260
+
+
+
+                                                                                                                                  v
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     Survey results call for an immediate response to improve reading instruction to help all Timorese children develop
+     the abilities needed to become skilled, independent readers. Specific recommendations to be considered are as
+     follows:
+
+        •	 More research is needed to understand how instruction takes place in the classroom, both in terms
+           of the languages used, their purpose and frequency. To improve instruction, it is crucial for Timorese
+           educators and policy makers to better understand how instruction takes place in the classroom both in
+           terms of the pedagogy and resources used as well as on the languages used in instruction. The current
+           language syllabi require a 1:3 ratio of Portuguese to Tetum instruction in the grades of focus; however survey
+           results suggest this may not be happening, especially in the case of Portuguese language. Without a clear
+           understanding on the share of instructional time that takes place in a given language and its purpose –i.e. as
+           a medium to explain concepts or as the actual vehicle of content--, it is difficult to assert the extent to which
+           reading results in either Tetum or Portuguese are truly representative of the average reading skills of Timorese
+           students. Classroom observations mapping pedagogical activities as well as the languages used in instruction
+           are a useful vehicle to collect information at both the teacher and student level and can provide relevant
+           information the degree of implementation of current curriculum and language policies.
+
+        •	 Better understanding of children’s average language and cognitive skills of children prior to
+           primary education is also essential especially in light of expansion of system. Students in the 2011
+           EGRA assessment were not asked questionnaire about attendance to kindergarten –as a proxy for school
+           readiness—or more specific questions about their experiences in languages other than Tetum and Portuguese
+           prior to primary education. Given the linguistic diversity of Timorese schools, it is important that a better
+           mapping of children’s linguistic background and basic proficiency in the languages of instruction is developed
+           to assess the share of students who are unable to understand these languages. If most of the lessons in
+           Grades 1 and 2 takes place in a language most students are not familiar with; they miss on the opportunity
+           to develop critical language and reading skills in a language they understand. Given the substantial increase
+           in the expansion of access to education in Timor Leste, it is expected that many children now enrolling will
+           come from more vulnerable contexts than before, which will impose serious challenges to the teaching and
+           learning of curriculum in the early grades.
+
+        •	 Identify instructional approaches that build solid language skills to develop phonological
+           awareness and phonics in students. Data suggests students were either not receiving any instruction
+           to develop phonemic awareness or this training was not sufficient or appropriate. Without the ability to
+           distinguish the sounds in words and a solid understanding of how letters and sounds go together to create
+           words, students are bound to struggle in their reading development and have a limited understanding of
+           what they read. However, improvements in reading instruction should not focus on phonics exclusively but
+           should be incorporated into a comprehensive system of reading instruction aimed at developing reading skills
+           as early and comprehensively as possible. A review of how the current curriculum addresses these important
+           skills are crucial to better understand not only where these skills are expected to develop to identify if there
+           is any space in the current curriculum where improvements to the teaching and learning of pre-reading and
+           reading skills could be introduced to help more students achieve curriculum expectations.
+
+        •	 Provide support to teachers to understand and practice relevant teaching methods relevant to
+           reading development. The 2011 EGRA data suggest in-service is strongly associated to student’s better
+           reading outcomes especially in oral reading fluency. A revision on the approach used to ongoing in-service
+           programs addressing oral reading fluency has the potential to inform additional in-service courses possibly
+           leveraging on its success to add modules focused on reading comprehension. A high-quality in-service
+           program focusing on equipping teachers with essential skills to teach reading will contribute to improve
+           instructional outcomes for all Timorese children.
+
+
+
+
+vi
+                                                                               Executive Summary and Recommendations
+
+
+
+
+•	 Establish reference reading standards to monitor improvements across classes. As the MOE moves
+   on to establish an oral reading fluency benchmark for the early grades to monitor reading improvements, it
+   is important to consider that initial standards should be considered as temporary reference standards since
+   not enough is currently known about when and at what rate Timorese children should progress when learning
+   to read. In this sense, reading standards should not be seen as high-stakes but an essential piece to monitor
+   reading progression in the classroom. One way of doing this would be to use the percentage of zero-score
+   students in selected sub-tests as a marker and track reductions in the shares at least biannually. Monitoring
+   achievements over time will eventually provide more information on the rate and the way in which average
+   fluency develops in Timor. A modified version of the test could be used to screen students during the school
+   year in need of additional support.
+
+•	 Support teachers to develop easy-to-use assessment tools that can help them monitor learning
+   throughout the school year. In order to determine appropriate grade progressions within the school year
+   and to identify students in need of additional support, teachers need to plan goals for their students that
+   are easy to measure and monitor throughout the school year. This could take the form of a given number
+   of correct letter sounds by the end of Grade 1. The actual number of items to be aiming at would have to
+   be set forth using available data to help teachers establish learning targets that are realistic to achieve and
+   educationally significant. These targets though that should not be place in isolation and would have a greater
+   chance of bringing positive effects on students outcomes if accompanied by clear pedagogical activities
+   and support strategies for students falling behind to avoid increasing the gap in learning between emergent
+   readers and non-readers.
+
+•	 Increase the availability of books and other reading materials to children to read at home, both in
+   Tetum and Portuguese. Survey results showed how students who have reading books at home have better
+   reading outcomes and are more likely to become fluent. Having access to books at home and the possibility
+   to read and develop a sense of enjoyment will be critical to ensure students engage in reading on a regular
+   basis. Production of reading books, classroom materials and stories in Tetum written by the Timorese would be
+   important not only to allow students to read child-appropriate stories but to preserve the rich oral tradition of
+   Timorese story tellers.
+
+•	 Introduce policy actions that increase student exposure to literacy outside the school. Making more
+   books available to students will not per se ensure better reading outcomes. Along with access to more and
+   relevant reading materials, children will need support to develop a reading habit beyond the requirements of
+   the school curriculum. One way of improving this would be to develop community literacy programs where
+   schools become focal point of literacy in the community. Building on the success created by the school-
+   grants program, schools can encourage parents and literate siblings to become more involved in the reading
+   development of young children by participating in ‘peer readings’ and activities, reading clubs both in school
+   and at home.
+
+
+
+
+                                                                                                                       vii
+       The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+viii
+                                                                                                      Survey Implementation
+
+
+
+
+     	
+Chapter 1
+
+Introduction
+
+
+
+
+In 2011 a second Early Grade Reading Assessment (EGRA) survey was carried out in Timor Leste. Results were
+concerning, indicative of slow progression and a low performance amongst students.
+
+This report indicates that the Tetum language results should be considered as a pilot and not representative of the
+national level of reading skill in early grades. It is based on the assumption that all students tested receive substantial
+instruction in the Tetum language. Given that 95% of the population speaks Tetumand the syllabus mandates 75%
+of instruction in Tetum in Grades 1 and 2, it is a reasonable assumption that the students tested in that language had
+received instruction in literacy in Tetum.
+
+The Portuguese language results should be treated with caution. They should not be considered a survey, rather an
+experimental pilot study. The instrument was developed as a translation of the Tetum instrument and it is likely that
+despite a syllabus-mandated 25% of hours be taught in Portuguese in Grades 1 and 2, students were not receiving
+substantial Portuguese instruction due to resource deficiencies in that language. Results in listening comprehension
+indicate that at least 50% of students do not understand Portuguese language at the most basic level. As a result,
+these results have been excluded from this analysis. The linguistic complexity of Timor is such that future surveys
+will require a slightly different format in the sampling stages to capture an accurate reflection of education in the
+multiple languages of Timor Leste.
+
+The report takes the following format. Chapter Two discusses Survey Implementation and the difficulties the team
+experienced in such a complex linguistic and socio-economic environment with limited resources. Chapter Three
+discusses the sub-test results and Chapter Four concludes with recommendations and questions for future research.
+
+
+
+
+                                                                                                                              1
+    The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+2
+                                                                                                    Survey Implementation
+
+
+
+
+    	
+Chapter 2
+
+Survey Implementation
+
+
+
+
+BACKGROUND
+A decade after the restoration of independence, Timor-Leste is a country in transition from post-conflict stabilization
+to development, and from low income to medium-income status, changes which have created different needs in
+the education sector since independence in 2002.
+
+Human development outcomes for Timorese in both health and education remain among the weakest in the East Asia
+Pacific region and population growth is high. Total primary enrolment soared from 157,516 students in 2004-2005 to
+238,936 students in 2011, a 52% increase. Gross and net enrolment figures in primary education increased consistently
+over the period. There were rapid reductions in grade-to-grade dropout from 11-12% in 2008-09 to 3-4% in 2010.
+However, as identified in the National Education Strategic Plan itself, the sector continues to face major challenges in
+the quality and efficiency of education, including continued high levels of repetition (see Table 4).
+
+It is of particular interest in the context of this study to note the evolution of enrolment between the two years of
+the implementation of the EGRA assessment. Despite major increases in enrolment in the previous years, primary
+enrolment increase was sustained at a high pace between 2008/2009 and 2011, with a 9.2% increase. The Net
+Enrolment Rate reached 94% in 2011, indicating that some of the last children out of school are being brought to
+the system, and suggests that more and more disadvantaged children have joined school classrooms. This is an
+important consideration to keep in mind when interpreting the analysis below: the increase in enrolments over
+previous years not only widens the size of the systems (and often of classes), but also brings into the system children
+previously excluded with a socio-economic and family context that are often less favorable to school success.
+
+In 2009 the first Early Grade Reading Assessment (EGRA) in Timor Leste was carried out. The 2011 survey is not
+directly comparable to the 2009 survey, in part due to the changes in the school system described above and in part
+due to the structure and design of the survey discussed below.
+
+The two official languages of Timor Leste are Tetum and Portuguese. Of these, around 95% of the population speak
+some form of Tetum as the local lingua franca, but in part due to generational changes under Indonesian rule, only
+around 5% of the population speak some form of Portuguese. This has resulted in some serious constraints on the
+education of children in Portuguese, which will be discussed below.
+
+
+
+                                                                                                                            3
+    The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+    TABLE 2.	      Main Education Indicators
+                                            2004      2005         2006       2007        2008         2010        2011
+     Primary
+     Total enrollment                      157,516   169,384      189,398    206,476      218,674     230,496     238,936
+     Gross intake rate (%)                  94.4      92.7         117.0      133.2       126.4        144.7       121.1
+     Gross enrollment rate (%)              99.6      102.7        109.5      113.8       116.1        127.4       129.1
+     Net enrollment rate (%)                68.0      70.7          75.0      80.3         84.6        93.0         94.3
+     Primary Completion rate (%)              -         -           86.3      92.7         80.2        77.8         76.9
+     Repetition rate (%)                    15.0      13.5          13.9      19.4         17.6        17.9          -
+     Pre-Secondary
+     Total enrollment                                                                     60,610      60,618       61,270
+                                                       No reliable Data
+     Gross enrollment rate (%)                                                             80.1        77.1         75.3
+     Total Basic Education
+     Total enrollment                                                                    279,284      291,114     300,206
+                                                       No reliable Data
+     Gross enrollment rate (%)                                                            105.8        112.3       112.8
+     Secondary
+     Total enrollment                                                                     22,874      28,379       29,409
+                                                       No reliable Data
+     Gross enrollment rate (%)                                                             47.7        57.9         59.4
+
+
+
+
+    INSTRUMENT AND SAMPLE DESIGN
+    This section provides background on the implementation of EGRA in Timor-Leste, including the adaptation and
+    trailing of the EGRA protocol, training of interviewers, fieldwork and data input.
+
+    As in 2009, the Ministry of Education in Timor-Leste was the responsible implementing agency for the EGRA exercise.
+    The process was facilitated by an Education Specialist and national Education Adviser in the Ministry of Education,
+    and led by the Director General for School Administration, the National Director of Basic Education and the National
+    Director of Curriculum.
+
+    The process of adaptation of the instruments was carried out in May and June of 2011, on the basis of the previous
+    questionnaire. The Tetum and Portuguese instruments are direct translations of each other and, although, they were
+    checked by a linguist for comparable difficulty, may not take into account the relative familiarity of certain sections.
+    In general, EGRA sub-tests on familiar words are built from vocabularies of words used commonly in the syllabus
+    of the grades tested: direct translations may not be familiar even if they do not present obvious phonetic difficulty.
+    The fundamental approach to language in the 2011 (and possibly 2009) EGRA was the assumption of bilingual
+    education in Tetum and Portuguese in every classroom. The syllabus mandates that 80% of instruction in Grades 1
+    and 2 is carried out in Tetum and the rest in Portuguese. However, given the well-known capacity constraints of the
+    education system in general and in the Portuguese language in particular; this may not be the case. Students were
+    randomly assigned to testing in either language from within the same classroom and results suggest that bilingual
+    education is not being carried out in any great degree.
+
+    Due to the results in Portuguese language, which suggests that most children understand very little, if any,
+    Portuguese, this language has been dropped from this analysis.
+
+    The sample itself was composed of 100 schools and 901 students were tested in Tetum language.
+
+
+
+
+4
+                                                                                                      Survey Implementation
+
+
+
+
+RELIABILITY OF THE INSTRUMENT
+In order to determine the reliability of the instrument, Cronbach’s alpha was calculated on each of the languages
+and on sub-sets of the data to ensure that the instrument is reliable. Table 3 gives the reliability statistics for the
+Tetum sample, while Table 4 gives the reliability statistics with zero-scoring students removed to avoid spurious
+inflation of Cronbach’s alpha due to the high proportion of zero-scoring students. In the complete sample, the
+reliability of the instrument appears very high, at 0.9 or above. However, removing students who scored zero in one
+or more of the sub-tests, the alphas drop below 0.8. The minimum acceptable level for Cronbach’s alpha is 0.7 and
+the instrument is reasonably reliable.
+
+When the statistics were further calculated on subsets of the data by grade, Crombach’s alpha dropped below 0.7 in
+some sub-tests, however this is possibly due to small sample sizes rather than difficulties with the instrument itself.
+These statistics are available in Appendix 1.
+
+
+TABLE 3.	      Reliability Measures: Tetum Language Sample
+                                                                                             Average
+                                                                Item-test    Item-retest
+               Variable          Observations      Sign                                     inter-item          Alpha
+                                                               Correlation   Correlation
+                                                                                            Correlation
+ Orientation to Print %              901             +            0.49           0.38          0.55              0.92
+ Correct Letters Per minute          901             +            0.79           0.73          0.49              0.90
+ Initial Sound Knowledge %           901             +            0.47           0.36          0.56              0.92
+ Letter Sound Knowledge %            901             +            0.77           0.70          0.50              0.90
+ Correct Words Per minute            901             +            0.89           0.86          0.47              0.89
+ Correct Non Words Per Minute        901             +            0.81           0.76          0.49              0.89
+ Oral reading Fluency                901             +            0.88           0.84          0.47              0.89
+ Reading Comprehension %             901             +            0.86           0.82          0.47              0.89
+ Listening Comprehension %           901             +            0.61           0.51          0.53              0.91
+ Dictation %                         901             +            0.84           0.80          0.48              0.89
+ Total                                                                                         0.50              0.91
+
+
+
+TABLE 4.	      Reliability Measures: Zero Scoring Students Removed, Tetum Language
+                                                                                             Average
+                                                                Item-test    Item-retest
+               Variable          Observations      Sign                                     inter-item          Alpha
+                                                               Correlation   Correlation
+                                                                                            Correlation
+ Orientation to Print %              280             +            0.29           0.13          0.33              0.82
+ Correct Letters Per minute          280             +            0.58           0.45          0.28              0.78
+ Initial Sound Knowledge %           280             +            0.35           0.19          0.32              0.81
+ Letter Sound Knowledge %            280             +            0.44           0.29          0.31              0.80
+ Correct Words Per minute            280             +            0.82           0.75          0.24              0.74
+ Correct Non Words Per Minute        280             +            0.83           0.76          0.24              0.74
+ Oral reading Fluency                280             +            0.82           0.75          0.24              0.74
+ Reading Comprehension %             280             +            0.80           0.73          0.25              0.75
+ Listening Comprehension %           280             +            0.43           0.28          0.31              0.80
+ Dictation %                         280             +            0.58           0.45          0.28              0.78
+ Total                                                                                         0.28              0.80
+
+
+
+
+                                                                                                                              5
+    The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+6
+                                                                                                                         Survey Results
+
+
+
+
+    	
+Chapter 3
+
+Survey Results
+
+
+
+
+ON READING DEVELOPMENT AND THE EGRA TOOL
+Though not all children develop their reading abilities in the same way or pace, the literature shows that all readers
+progress through a series of phases or stages -sometimes simultaneously- in their reading development process.
+
+FIGURE 1.	 Stages of Reading Development
+                    Stages                            Name                                    The Learner
+ Stage 0:                               Emergent Literacy          Gains control of oral language; relies heavily on pictures in text;
+ Birth to Grade 1                                                  pretends to read; recognizes rhyme
+ Stage 1:                               Decoding                   Grows aware of sound/symbol relationships; focuses on printed
+ Beginning Grade 1                                                 symbols; attempts to break code of print; uses decoding to
+                                                                   figure out words
+ Stage 2:                               Confirmation and Fluency   Develops fluency in reading; recognizes patterns in words;
+ End of Grade 1 to End of Grade 3                                  checks for meaning and sense; knows a stock of sight words
+ Stage 3:                               Learning the New (Single   Uses reading as a tool for learning; applies reading strategies;
+ Grade 4 to Grade 8                     Viewpoint)                 expands reading vovabulary; comprehends from a singular
+                                                                   point of view
+ Stage 4:                               Multiple Viewpoints        Analyzes what is read; reacts crtitcally to texts; deals with layers
+ Secondary and Early Higher Education                              of facts and concepts; comprehends from multiple points of
+                                                                   view
+ Stage 5:                               A Worldview                Develops a well-rounded view of the world through reading
+ Late Higher Education and Graduate
+ School
+ Source: Roskos et al., 2009
+
+
+Children learn to apply the foundational reading skills (Stage 0) with a certain level of reflex or automaticity, they can
+move beyond the task of decoding a text (Stage 1) to begin deriving its meaning (Stage 2). As children learn sounds
+that link to form words, they can begin connecting those sounds to printed words and the idea behind those words.
+Then they can link words to form sentences, paragraphs, and stories. In other words, children transition from “reading
+it” and “getting it” (Stage 3 and beyond) with comprehension being the ultimate prize.
+
+
+
+                                                                                                                                          7
+    The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+    The structure of the EGRA tool used this knowledge as a reference point during the adaptation of the tool to local contexts.
+    The Timor Leste EGRA tool assessed 8 basic reading competences among students learning to read in the Tetum language:
+
+       •	 Stage 0 = letter name knowledge, letter sound knowledge, phonemic awareness
+       •	 Stage 1 = familiar word reading, invented word reading (or decoding)
+       •	 Stage 2 = Reading comprehension
+
+    Additionally, a short listening comprehension story and a dictation exercise were included, as they have been
+    identified by the literature to be predictors of reading fluency and comprehension. Listening comprehension
+    sections were intended to proxy language competence in the primary language of instruction Timorese students.
+    In the case of the dictation exercise, writing helps students stabilize memory, hence its inclusion.
+
+    The Timor Leste EGRA tools measure competence in each skill listed above in two dimensions:
+      (A)		 overall knowledge, as measured as a percentage of correct answers, or;
+      (B)		 fluency, measured as number of correct items read/identified per minute.
+
+    By fluency, the test measures speed or automaticity, accuracy, and expression in reading be it single letters, words or
+    a full paragraph.
+
+    In particular, the Timor assessment focused on measuring these skills plus basic listening and writing skills through
+    nine modules or sub-tests: (1) orientation to print; (2) letter name knowledge; (3) identification of initial sounds in
+    words; (4) letter sound knowledge; (5) familiar word reading; (6) invented word reading; (7) oral reading fluency with
+    comprehension; (8) listening comprehension; and (9) dictation (see Annex for copies of the EGRA instrument). Table
+    5 below shows how these skills relate to each of the EGRA components, measures and indicators.
+
+
+    TABLE 5.	       EGRA Instrument Structure and Early Skills Tested
+          Sub-test          Early reading skill     Skill demonstrated by students’ ability to:                     Measure and Indicator
+     1. Orientation to      Concepts of Print      Orientation, direction of reading;                   Child points to correct position to begin reading,
+        Print                                      understanding where a new line begins                continue reading and begin a new line
+     2. Letter name         Letter recognition     Provides the name of upper- and lower-case           Letter name fluency in terms of correct letter
+        knowledge                                  letters distributed in random order                  names identified per minute (CLPM)
+     3. Identification of   Phonemic               Segment words into 2 to 5 phonemes                   Phoneme segmentation as the number of
+        initial sounds      awareness              Identify words with different beginning or           sounds correctly identified
+                                                   ending phoneme
+     4. Letter sound        Phonics                Provides the sound of upper- and lowercase           Letter name fluency in terms of correct letter
+        knowledge                                  letters distributed in random order                  sounds identified per minute (CLPM)
+     5. Familiar word       Word reading           Read simple and common one- and two-                 Familiar word fluency in terms of correct
+        reading                                    syllable words                                       familiar words read per minute (CFWPM)
+     6. Invented word       Alphabetic principle   Make grapheme-phoneme correspondences                Invented word fluency in terms of correct
+        reading                                    (GPCs) through the reading of simple invented        invented words read per minute (CUWPM)
+                                                   –i.e., invented- words to test decoding skills
+     7. Oral reading        Oral reading fluency   Read a text with little effort and at a sufficient   Oral reading fluency in terms of correct
+        fluency with                               rate                                                 words read per minute in a narrative passage
+        comprehension                                                                                   (CWCPM)
+                            Reading                Respond correctly to different types of              Response to questions after reading a story as
+                            comprehension          questions, including literal and inferential         a percentage of correct answers
+                                                   questions about the text they have read
+     8. Listening           Listening              Respond correctly to different types of              Response to questions after hearing a story as
+       comprehension        comprehension          questions including literal and inferential          a percentage of correct answers
+                                                   questions about the text the enumerator reads
+                                                   to them
+     9. Dictation           Alphabetic principle   Write, spell, and use grammar properly through       Write, spell, and use grammar properly
+                                                   a dictation exercise                                 through a dictation exercise, determined by
+                                                                                                        the percentage of overall early writing skills
+                                                                                                        (spelling and basic conventions), weighted
+                                                                                                        score.
+     Source: Roskos et al., 2009
+
+
+8
+                                                                                                                        Survey Results
+
+
+
+
+RESULTS BY SUB-TEST
+Overall, the results from most of the subtests showed progress in each of the three grade-levels tested. However,
+this progress is extremely slow and in certain sub-tests have confidence intervals that overlap across grades when
+zero-scoring students are excluded. When measured by the number of students who scored zero on a given sub-
+test, there is evidence of progression amongst the poorest-performing students.
+
+Tables 6, 7 and 8 give a summary of these results.
+
+TABLE 6.	    Sub-test Results, Letter Level Skills
+                                               Average score                  Range     95% Confidence interval            N
+ Sub-
+                      Score
+ test
+                                       All    Minus zero-score    SD     Min     Max Lower bound Upper Bound      All     Zero score
+
+   1    Number         Grade 1        0.50          0.69         0.38     0       1       0.46          0.54      299          81
+        of letters
+          read         Grade 2        0.66          0.75         0.35     0       1       0.62          0.70      307          37
+        correctly
+                       Grade 3        0.75          0.82         0.33     0       1       0.72          0.79      295          24
+
+                       Total sample   0.64          0.76         0.37     0       1       0.61          0.66      901          142
+
+   2     Number        Grade 1        14.62        21.86         15.28    0       77     12.89         16.35      299          99
+        of sounds
+           read        Grade 2        29.32        30.93         17.02    0       73     27.42         31.22      307          16
+        correctly
+                       Grade 3        44.26        45.18         20.85    0      116     41.89         46.64      295           6
+
+                       Total sample   29.34        33.89         21.51    0      116     27.93         30.74      901          121
+
+  3a     Number        Grade 1        0.32          0.46         0.28     0       1       0.29          0.35      299          93
+         of initial
+          sounds       Grade 2        0.40          0.50         0.29     0       1       0.37          0.43      307          63
+        identified
+         correctly
+                       Grade 3        0.48          0.56         0.30     0       1       0.44          0.51      295          42
+
+                       Total sample   0.40          0.51         0.30    0.0      1       0.38          0.42      901          198
+
+  3b     Number        Grade 1        0.188        0.480         0.279    0      1.00    0.156         0.219      299          182
+        of sounds
+         correctly     Grade 2        0.429        0.593         0.322    0      1.00    0.393         0.465      307          85
+        identified
+        in a word
+                       Grade 3        0.620        0.674         0.253    0      1.00    0.591         0.648      295          24
+
+                       Total sample   0.411        0.607         0.336    0      1.00    0.389         0.433      901          291
+
+
+
+
+                                                                                                                                         9
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     TABLE 7.	      Sub-test Results, Word Level Skills
+                                                           Average score                Range    95% Confidence interval          N
+      Sub-
+                             Score
+      test                                                    Minus                               Lower         Upper              Zero
+                                                    All                     SD     Min     Max                             All
+                                                            zero-score                            bound         Bound              score
+
+        4        Number of        Grade 1          4.13       11.55        9.89     0       77     3.01          5.25      299        192
+               familiar words
+               read correctly
+                                  Grade 2          13.59      18.88        15.57    0       82     11.85        15.34      307        86
+
+                                  Grade 3          37.56      40.29        23.39    0      100     34.89        40.23      295        20
+
+                                  Total sample     18.30      27.35        22.12    0      100     16.86        19.75      901        298
+
+        5        Number of        Grade 1          2.79       14.14        7.87     0       46     1.90          3.68      299        240
+                 unfamiliar
+                 words read
+                                  Grade 2          9.74       17.00        12.06    0       45     8.40         11.09      307        131
+                  correctly
+
+                                  Grade 3          27.09      30.73        23.29    0      307     24.43        29.74      295        35
+
+                                  Total sample     13.11      23.87        18.72    0      307     11.89        14.34      901        406
+
+        6a        Number of       Grade 1          4.57       26.78        13.95    0       96     2.99          6.15      299        248
+                  words read
+                 in a narrative
+                                  Grade 2          17.54      33.04        23.17    0      105     14.95        20.13      307        144
+                  passage per
+                    minute
+                                  Grade 3          52.33      60.31        33.71    0      150     48.49        56.18      295        39
+
+                                  Total sample     24.63      47.21        31.95    0      150     22.54        26.71      901        431
+
+       6b         Reading         Grade 1          0.04        0.37        0.15     0       1      0.02          0.06      299        266
+              comprehension
+                levels (% of
+                                  Grade 2          0.16        0.41        0.27     0       1      0.13          0.19      307        188
+                  correct
+                responses)
+                                  Grade 3          0.54        0.67        0.37     0       1      0.49          0.58      295        58
+
+                                  Total sample     0.24        0.56        0.35     0       1      0.22          0.27      901        512
+
+
+     TABLE 8.	      Listening and Dictation Skills
+                                                      Average score                     Range    95% Confidence interval          N
+      Sub-
+                          Score
+      test
+                                            All     Minus zero-score        SD     Min     Max Lower bound Upper Bound     All   Zero score
+
+        7     Listening     Grade 1         0.38            0.56           0.34     0       1      0.34          0.42      299        98
+              compre-
+              hension       Grade 2         0.52            0.62           0.34     0       1      0.48          0.56      307        51
+                  (%)
+                            Grade 3         0.68            0.73           0.30     0       1      0.64          0.71      295        21
+
+                            Total sample    0.52            0.65           0.35     0       1      0.50          0.55      901        170
+
+        8      Writing      Grade 1         0.23            0.32           0.23     0       1      0.20          0.25      299        88
+                (%)
+                            Grade 2         0.46            0.49           0.26     0       1      0.44          0.49      307        18
+
+                            Grade 3         0.68            0.68           0.22     0       1      0.65          0.70      295         4
+
+                            Total sample    0.46            0.52           0.30     0       1      0.44          0.47      901        110
+
+
+
+
+10
+                                                                                                                   Survey Results
+
+
+
+
+GENDER DIFFERENCES
+This section examines differences in performance between genders in the Timor Leste EGRA. It concentrates on
+the final four sub-tests of the interview: oral reading fluency, reading comprehension, listening comprehension and
+dictation as these provide a good summary of the higher-level literacy skills examined by the interview.
+
+Table 9 gives the mean scores overall by gender and the proportion of students scoring zero. Table 10 indicates
+that in oral reading fluency, the average of girls is significantly higher than that of boys in Tetum language. The
+proportion of zero-scoring students is not significantly different.
+
+In reading comprehension, girls have a higher average than boys and fewer girls score zero, these differences are mildly
+significant. In listening comprehension, this relationship is reversed. Boys speaking Tetum perform significantly better
+than girls and there are significantly fewer boys scoring zero overall. In dictation, girls perform significantly better than
+boys however, there are not significant differences between genders in the proportion of students scoring zero.
+
+Overall, there are small differences between genders, but these are not consistent over all sub-tests. This may be
+partly due to small sample sizes in this pilot study.
+
+
+TABLE 9.	    Gender Differences
+                                                      TETUM LANGUAGE
+                                                            ORF
+
+                                                   Male                    Female                    Z-statistic
+
+                 Mean                              21.63                    27.82                       -2.91
+
+                   SD                              29.56                    34.06
+
+                   N                                465                      436
+
+       Proportion of zero scores                    0.50                    0.45                        1.41
+
+                                                 Reading Comprehension %
+
+                                                   Male                    Female                    Z-statistic
+
+                 Mean                               0.22                    0.26                        -1.82
+
+                   SD                               0.33                    0.36
+
+                   N                                465                      436
+
+       Proportion of zero scores                    0.59                    0.54                        1.58
+
+                                                 Listening Comprehension %
+
+                                                   Male                    Female                    Z-statistic
+
+                 Mean                               0.56                    0.49                        3.02
+
+                   SD                               0.34                    0.35
+
+                   N                                465                      436
+
+       Proportion of zero scores                    0.16                    0.22                        -2.17
+
+                                             Dictation % (Assumes total score 16)
+
+                                                   Male                    Female                    Z-statistic
+
+                 Mean                               0.44                    0.47                        -1.65
+
+                   SD                               0.29                    0.30
+
+                   N                                465                      436
+
+        Proportion of zero scores                   0.12                    0.12                        0.05
+
+
+
+
+                                                                                                                                    11
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     PERFORMANCE IN ORAL READING FLUENCY AND READING
+     COMPREHENSION
+
+     The Timor Leste EGRA results show a high degree of correlation between reading comprehension and oral reading
+     fluency in Tetum, as indicated by Figure 2. A medium degree of reading comprehension of 60% or more starts
+     (excepting some outliers) with oral reading fluency of around 40 correct words per minute, with the bulk of
+     observations occurring with 45 correct words per minute or more. Although reading comprehension is not the
+     only marker for oral reading fluency, it is an easily observed or monitored skill in the classroom and can be used
+     by teachers to identify students at risk of falling behind. This is supported by research in other languages, which is
+     particularly pertinent in multilingual educational environments such as that found in Timor Leste.
+
+     Table 12 indicates the average reading comprehension rates of students in Tetum. Students achieving a baseline
+     level of fluency of 45 CWPM have an average reading comprehension of 72% and a median comprehension rate of
+     over 83%. Overall, 26% of students reach this benchmark. Alternatively, students achieving a baseline fluency of 35
+     CWPM have an average reading comprehension of 66% and a median comprehension rate of 67%. This indicates
+     the importance of reading comprehension as a marker for overall reading fluency.
+
+
+     FIGURE 2.	 Reading Comprehension and Oral Reading Fluency, Tetum Language
+
+
+               160
+
+               140
+
+               120
+       CWCPM
+
+
+
+
+               100
+
+                80
+
+                60
+
+                40
+
+                20
+
+                 0
+                     0               0.2                 0.4                0.6            0.8                 1
+
+                                                  Reading comprehension (as percentage)
+
+
+
+
+12
+                                                                                                       Survey Results
+
+
+
+
+TABLE 10.	 Fluency Rates and Related Measures: Tetum Language
+                             Proportion of total sample by Oral Reading Fluency (ORF)
+                                                At least 35CWPM
+
+                     N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+ Less than Fluent   616             68%                5.49              0.05              0.00          0.00
+
+     Fluent         285             32%               65.99              0.66              61.00         0.67
+
+                                                 Fluent Students
+
+    By Grade         N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+     Grade 1         10              3%               66.10              0.65              66.50         0.75
+
+     Grade 2         44             14%               62.66              0.59              58.00         0.75
+
+     Grade 3        180             61%               74.08              0.76              69.00         0.83
+
+
+
+                                                At least 45CWPM
+
+                     N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+ Less than Fluent   667             74%                8.15              0.07              0.00          0.00
+
+     Fluent         234             26%               71.59              0.72              66.00         0.83
+
+                                                 Fluent Students
+
+    By Grade         N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+     Grade 1         15              5%               57.20              0.54              47.00         0.50
+
+     Grade 2         64             21%               55.69              0.51              53.00         0.50
+
+     Grade 3        206             70%               69.84              0.71              64.00         0.83
+
+
+
+                                                At least 55CWPM
+
+                     N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+ Less than Fluent   730             81%                5.49              0.05              0.00          0.00
+
+     Fluent         171             19%               79.54              0.82              73.00         0.83
+
+                                                 Fluent Students
+
+    By Grade         N          Proportion         Mean ORF         Mean RCOMP          Median ORF   Median RCOMP
+
+     Grade 1         6               2%               79.00              0.86              76.50         0.92
+
+     Grade 2         25              8%               72.64              0.73              64.00         0.83
+
+     Grade 3        140             47%               80.79              0.83              73.00         0.83
+
+
+
+
+                                                                                                                        13
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+14
+    	
+Chapter 4
+
+Student and Teacher Factors
+Associated with Better
+Reading Outcomes
+
+This section analyses the student and teacher factors associated with reading outcomes. Here, we use a series of
+Logit models on the EGRA subtest data to determine which factors are statistically significant in the acquisition
+of early literacy skills. Student specific factors such as family literacy, the language spoken at home and indicators
+such as absenteeism were significant predictors of reading skill-acquirement. Teacher and school factors such as
+resources and teaching training were also significant predictors.
+
+A notable feature of the EGRA survey in Timor Leste was the very high number of zero-scoring students. These
+students are qualitatively different to those able to answer some sub-test parts correctly, particularly in the higher-
+order reading skills such as oral reading fluency. The logit model examines a binary dependent variable: students
+able to answer some questions on the sub-test correctly and those able to answer none. The proportion of zero-
+scoring students is above 50% in some sub-tests. The logit model discerns the probability of students belonging to
+the category that are able to answer some questions correctly.
+
+This section concentrates on only four subtests: oral reading fluency, reading comprehension, listening
+comprehension and dictation. These subtests were chosen due to space constraints. These models are not suitable
+for predictive use due to a large number of pertinent variables that were not collected by the EGRA sub-tests and
+accompanying survey, but they provide a useful summary of those relationships that were observable.
+
+Tables 11 and 12 give a summary of student factors effecting literacy skills acquisition in the Tetum language.
+Significant p-values are given in bold. The effect of a students’ age on their acquisition of early reading skills is
+modeled as a quadratic polynomial and one or both coefficients associated with age is significant in all the sub-tests.
+The models also showed strong positive grade progression: students in higher grades are significantly less likely to
+be in the group of students unable to answer any questions correctly.
+
+
+
+
+                                                                                                                          15
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     TABLE 11.	 Factors Effecting Literacy Acquisition:                   TABLE 12.	 Factors Effecting Literacy Acquisition:
+                Oral Reading Fluency and Reading                                     Listening Comprehension and
+                Comprehension                                                        Dictation
+                                   ORF                  RCOMP %                                         ORF                  RCOMP %
+
+           Variable       Effect   Significance   Effect   Significance         Variable       Effect   Significance   Effect   Significance
+      Printed Materials     +        0.0020         +        0.0000        Printed Materials     +        0.0080         +        0.1350
+      at Home                                                              at Home
+      Grade 2               +        0.0000         +        0.0000        Grade 2               +        0.0060         +        0.0000
+
+      Grade 3               +        0.0000         +        0.0000        Grade 3               +        0.0000         +        0.0000
+                                                                           Student Age           +        0.7090         +        0.1130
+      Student Age           +        0.0070         +        0.0350
+                                                                           Student Age           -        0.7190         -        0.1110
+      Student Age           -        0.0070         -        0.0350        Squared
+      Squared                                                              Reads with            +        0.0040         +        0.0510
+      Reads with            +        0.0210         +        0.0200        Family
+      Family                                                               Absent >1 Week        -        0.7270         -        0.5510
+      Absent >1 Week        -        0.0080         -        0.0530        Alimentary            +        0.0070         +        0.8250
+                                                                           Feeding
+      Alimentary            +        0.2030         +        0.0970        Program
+      Feeding Program
+                                                                           Teacher Certified     -        0.0270         -        0.1870
+      Teacher Certified     -        0.4720         -        0.9740
+                                                                           In-service last       -        0.9090         +        0.0980
+                                                                           year
+      In-service last       +        0.0000         +        0.3230
+      year                                                                 Speaks Tetum at       +        0.0000         +        0.0490
+                                                                           Home
+      Speaks Tetum at       +        0.1540         +        0.0860
+      Home                                                                 Library at school     +        0.0570         +        0.4260
+
+
+
+     The language a student speaks at home has a mildly significant effect on a students’ attainment in literacy skills
+     in Tetum. Speaking Tetum at home had a positive effect on all sub-tests and was significant in both listening
+     comprehension and dictation. Speaking Portuguese at home was insignificant amongst students tested in Tetum,
+     however, it was close to significance in oral reading fluency and had a positive influence. It is possible that this
+     variable is acting as an instrument for socio-economic indicators not collected by the survey given the small number
+     of the population speaking this language generally.
+
+     Student-reported resources had a mixed effect. Student-reported libraries in school had an insignificant effect,
+     however reading materials at home were positive and strongly significant for all sub-tests excepting dictation.
+
+     Students reading with family at home had a strong positive, significant effect on all sub-tests and absenteeism
+     greater than 1 week had a strong, negative significant effect.
+
+     School and teacher-specific variables such as an alimentary feeding program had a significant effect. Students in
+     a school with a supplementary feeding program were significantly less likely to be unable to answer any sub-test
+     parts correctly. Teacher certification had a mixed and insignificant effect, as did the presence of a teacher-reported
+     classroom learning corner. In-service attendance by a teacher had a largely positive, significant effect on all sub-tests
+     excepting listening comprehension, while FTI was insignificant.
+
+     Overall, it is clear that acquisition of literacy in Tetum has some features associated with improved performance such
+     as alimentary feeding programs in schools, teacher in-services and student-specific variables such as availability of
+     print materials in the home and reading with family members.
+
+
+
+
+16
+     	
+Chapter 5
+
+Conclusion:
+A Reading Future for Timor
+Leste
+
+This report has examined the EGRA 2011 survey in Timor Leste. Grade progression in Tetum language starts from a
+low base and moves slowly. Just 26% of students in Grades 1-3 reach a basic fluency standard of 45 correct words
+per minute. The pilot is able to distinguish some factors, which have a positive association with student reading
+outcomes in Tetum and these include teacher in-service attendance, the language the student speaks at home, and
+access to printed materials at home. However, more research is required into the classroom practices, resources and
+languages before definitive conclusions can be drawn.
+
+   •	 More research is needed to understand how instruction takes place in the classroom, both in terms
+      of the languages used, their purpose and frequency. To improve instruction, it is crucial for Timorese
+      educators and policy makers to better understand how instruction takes place in the classroom both in
+      terms of the pedagogy and resources used as well as on the languages used in instruction. The current
+      language syllabi require a 1:3 ratio of Portuguese to Tetum instruction in the grades of focus; however survey
+      results suggest this may not be happening, especially in the case of Portuguese language. Without a clear
+      understanding on the share of instructional time that takes place in a given language and its purpose –i.e. as
+      a medium to explain concepts or as the actual vehicle of content–, it is difficult to assert the extent to which
+      reading results in either Tetum or Portuguese are truly representative of the average reading skills of Timorese
+      students. Classroom observations mapping pedagogical activities as well as the languages used in instruction
+      are a useful vehicle to collect information at both the teacher and student level and can provide relevant
+      information the degree of implementation of current curriculum and language policies.
+
+   •	 Better understanding of children’s average language and cognitive skills of children prior to primary
+      education is also essential especially in light of expansion of system. Students in the 2011 EGRA assessment
+      were not asked questionnaire about attendance to kindergarten–as a proxy for school readiness—or more specific
+      questions about their experiences in languages other than Tetum and Portuguese prior to primary education.
+      Given the linguistic diversity of Timorese schools, it is important that a better mapping of children’s linguistic
+      background and basic proficiency in the languages of instruction is developed to assess the share of students
+      who are unable to understand these languages. If most of the lessons in Grades 1 and 2 takes place in a language
+      most students are not familiar with; they miss on the opportunity to develop critical language and reading skills in
+      a language they understand. Given the substantial increase in the expansion of access to education in Timor Leste,
+      it is expected that many children now enrolling will come from more vulnerable contexts than before, which will
+      impose serious challenges to the teaching and learning of curriculum in the early grades.
+
+
+                                                                                                                             17
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+        •	 Identify instructional approaches that build solid language skills to develop phonological
+           awareness and phonics in students. Data suggests students were either not receiving any instruction
+           to develop phonemic awareness or this training was not sufficient or appropriate. Without the ability to
+           distinguish the sounds in words and a solid understanding of how letters and sounds go together to create
+           words, students are bound to struggle in their reading development and have a limited understanding of
+           what they read. However, improvements in reading instruction should not focus on phonics exclusively but
+           should be incorporated into a comprehensive system of reading instruction aimed at developing reading skills
+           as early and comprehensively as possible. A review of how the current curriculum addresses these important
+           skills are crucial to better understand not only where these skills are expected to develop to identify if there
+           is any space in the current curriculum where improvements to the teaching and learning of pre-reading and
+           reading skills could be introduced to help more students achieve curriculum expectations.
+
+        •	 Provide support to teachers to understand and practice relevant teaching methods relevant to
+           reading development. The 2011 EGRA data suggest in-service is strongly associated to student’s better
+           reading outcomes especially in oral reading fluency. A revision on the approach used to ongoing in-service
+           programs addressing oral reading fluency has the potential to inform additional in-service courses possibly
+           leveraging on its success to add modules focused on reading comprehension. A high-quality in-service
+           program focusing on equipping teachers with essential skills to teach reading will contribute to improve
+           instructional outcomes for all Timorese children.
+
+        •	 Establish reference reading standards to monitor improvements across classes. As the MOE moves
+           on to establish an oral reading fluency benchmark for the early grades to monitor reading improvements, it is
+           important to consider that initial standards should be considered as temporary reference standards since not
+           enough is currently known about when and at what rate Timorese children should progress when learning
+           to read. In this sense, reading standards should not be seen as high-stakes but an essential piece to monitor
+           reading progression in the classroom. One way of doing this would be to use the percentage of zero-score
+           students in selected sub-tests as a marker and track reductions in the shares at least biannually. Monitoring
+           achievements over time will eventually provide more information on the rate and the way in which average
+           fluency develops in Timor. A modified version of the test could be used to screen students during the school
+           year in need of additional support.
+
+        •	 Support teachers to develop easy-to-use assessment tools that can help them monitor learning
+           throughout the school year. In order to determine appropriate grade progressions within the school year and
+           to identify students in need of additional support, teachers need to plan goals for their students that are easy to
+           measure and monitor throughout the school year. This could take the form of a given number of correct letter
+           sounds by the end of Grade 1. The actual number of items to be aiming at would have to be set forth using available
+           data to help teachers establish learning targets that are realistic to achieve and educationally significant. These
+           targets though that should not be place in isolation and would have a greater chance of bringing positive effects
+           on students outcomes if accompanied by clear pedagogical activities and support strategies for students falling
+           behind to avoid increasing the gap in learning between emergent readers and non-readers.
+
+        •	 Increase the availability of books and other reading materials to children to read at home, both in Tetum
+           and Portuguese. Survey results showed how students who have reading books at home have better reading
+           outcomes and are more likely to become fluent. Having access to books at home and the possibility to read and
+           develop a sense of enjoyment will be critical to ensure students engage in reading on a regular basis. Production of
+           reading books, classroom materials and stories in Tetum written by the Timorese would be important not only to
+           allow students to read child-appropriate stories but to preserve the rich oral tradition of Timorese story tellers.
+
+        •	 Introduce policy actions that increase student exposure to literacy outside the school. Making more
+           books available to students will not per se ensure better reading outcomes. Along with access to more and
+           relevant reading materials, children will need support to develop a reading habit beyond the requirements of
+           the school curriculum. One way of improving this would be to develop community literacy programs where
+           schools become focal point of literacy in the community. Building on the success created by the school-
+           grants program, schools can encourage parents and literate siblings to become more involved in the reading
+           development of young children by participating in ‘peer readings` and activities, reading clubs both in school
+           and at home.
+
+
+18
+REFERENCES
+Linan-Thompson, S., and S. Vaughn. 2007. Research Based Methods of Reading Instruction for English Language Learners:
+   Grades K-4. Alexandria, VA: Association for Supervision and Curriculum Development.
+
+RTI. 2009. Early Grade Reading Assessment Toolkit. Prepared by RTI for The World Bank, Office of Human Development.
+   Available at https://www.eddataglobal.org/documents/index.cfm?fuseaction=pubDetail&ID=149 (accessed
+   September 03, 2010).
+
+
+
+
+                                                                                                                        19
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+20
+Appendix 1:
+Reliability Statistics
+
+                                   Tetum Language: Zero Scores Removed, Grade One
+
+                                                       Item-test     Item-retest    Average inter-item
+              Variable         Observations   Sign                                                       Alpha
+                                                      Correlation    Correlation       Correlation
+
+Orientation to Print %             19          -         0.16           -0.01              0.36          0.84
+Correct Letters Per minute         19          +         0.53            0.40              0.30          0.80
+Initial Sound Knowledge %          19          +         0.36            0.20              0.33          0.82
+Letter Sound Knowledge %           19          +         0.74            0.65              0.27          0.77
+Correct Words Per minute           19          +         0.86            0.81              0.25          0.75
+Correct Non Words Per Minute       19          +         0.76            0.68              0.26          0.76
+Oral reading Fluency               19          +         0.85            0.79              0.25          0.75
+Reading Comprehension %            19          +         0.82            0.76              0.25          0.75
+Listening Comprehension %          19          +         0.38            0.22              0.33          0.81
+Dictation %                        19          +          0.54           0.41              0.30          0.79
+
+
+
+Total                                                                                      0.29          0.80
+
+
+
+
+                                   Tetum Language: Zero Scores Removed, Grade Two
+
+                                                       Item-test     Item-retest    Average inter-item
+              Variable         Observations   Sign                                                       Alpha
+                                                      Correlation    Correlation       Correlation
+
+Orientation to Print %             88          +         0.32            0.14              0.26          0.76
+Correct Letters Per minute         88          +         0.45            0.29              0.24          0.74
+Initial Sound Knowledge %          88          +         0.23            0.05              0.27          0.77
+Letter Sound Knowledge %           88          +         0.38            0.21              0.25          0.75
+Correct Words Per minute           88          +         0.78            0.69              0.19          0.68
+Correct Non Words Per Minute       88          +         0.79            0.70              0.19          0.67
+Oral reading Fluency               88          +         0.83            0.75              0.18          0.67
+Reading Comprehension %            88          +         0.79            0.71              0.19          0.67
+Listening Comprehension %          88          +          0.36           0.19              0.25          0.75
+Dictation %                         88         +          0.57           0.43              0.22          0.72
+
+
+
+Total                                                                                      0.22          0.74
+
+
+
+
+                                                                                                                 21
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+                                            Tetum Language: Zero Scores Removed, Grade Three
+
+                                                                  Item-test     Item-retest    Average inter-item
+                    Variable            Observations    Sign                                                        Alpha
+                                                                 Correlation    Correlation       Correlation
+
+      Orientation to Print %                 173         +          0.28            0.11              0.29          0.79
+      Correct Letters Per minute             173         +          0.56            0.42              0.25          0.75
+      Initial Sound Knowledge %              173         +          0.37            0.21              0.28          0.78
+      Letter Sound Knowledge %               173         +          0.40            0.24              0.27          0.77
+      Correct Words Per minute               173         +          0.78            0.70              0.21          0.71
+      Correct Non Words Per Minute           173         +          0.80            0.72              0.21          0.71
+      Oral reading Fluency                   173         +          0.77            0.68              0.22          0.71
+      Reading Comprehension %                173         +          0.75            0.65              0.22          0.72
+      Listening Comprehension %              173         +          0.42            0.26              0.27          0.77
+      Dictation %                            173         +          0.54            0.40              0.25          0.75
+
+
+
+      Total                                                                                           0.25          0.77
+
+
+
+
+                                              Tetum Language: Zero Scores Included Grade One
+
+                                                                  Item-test      Item-retest   Average inter-item
+                    Variable            Observations    Sign                                                        Alpha
+                                                                 Correlation     Correlation      Correlation
+
+      Orientation to Print %                 299          +         0.50            0.38              0.47           0.89
+      Correct Letters Per minute             299          +         0.74            0.67              0.42           0.87
+      Initial Sound Knowledge %              299          +         0.39            0.26              0.49           0.90
+      Letter Sound Knowledge %               299          +         0.70            0.62              0.43           0.87
+      Correct Words Per minute               299          +         0.87            0.83              0.40           0.86
+      Correct Non Words Per Minute           299          +         0.85            0.81              0.40           0.86
+      Oral reading Fluency                   299          +         0.85            0.80              0.40           0.86
+      Reading Comprehension %                299          +         0.80            0.74              0.41           0.86
+      Listening Comprehension %              299          +         0.50            0.38              0.47           0.89
+      Dictation %                            299          +         0.77            0.71              0.42           0.87
+
+
+
+      Total                                                                                           0.43           0.88
+
+
+
+
+22
+                                                                                                           Attachment
+
+
+
+
+                                    Tetum Language: Zero Scores Included Grade Two
+
+                                                        Item-test      Item-retest    Average inter-item
+              Variable         Observations   Sign                                                         Alpha
+                                                       Correlation     Correlation       Correlation
+
+Orientation to Print %             307          +         0.38            0.25               0.47           0.89
+Correct Letters Per minute         307          +         0.71            0.63               0.41           0.86
+Initial Sound Knowledge %          307          +         0.39            0.25               0.47           0.89
+Letter Sound Knowledge %           307          +         0.70            0.62               0.41           0.86
+Correct Words Per minute           307          +         0.85            0.80               0.38           0.85
+Correct Non Words Per Minute       307          +         0.83            0.78               0.39           0.85
+Oral reading Fluency               307          +         0.84            0.79               0.38           0.85
+Reading Comprehension %            307          +         0.82            0.76               0.39           0.85
+Listening Comprehension %          307          +          0.53           0.41               0.44           0.88
+Dictation %                        307          +          0.81           0.75               0.39           0.85
+
+
+
+Total                                                                                        0.41           0.88
+
+
+
+
+                                   Tetum Language: Zero Scores Included Grade Three
+
+                                                        Item-test      Item-retest    Average inter-item
+              Variable         Observations   Sign                                                         Alpha
+                                                       Correlation     Correlation       Correlation
+
+Orientation to Print %             295          +         0.35            0.21               0.41           0.86
+Correct Letters Per minute         295          +         0.64            0.53               0.36           0.84
+Initial Sound Knowledge %          295          +         0.46            0.32               0.40           0.85
+Letter Sound Knowledge %           295          +         0.61            0.50               0.37           0.84
+Correct Words Per minute           295          +         0.85            0.79               0.32           0.81
+Correct Non Words Per Minute       295          +         0.72            0.63               0.35           0.83
+Oral reading Fluency               295          +         0.83            0.77               0.33           0.82
+Reading Comprehension %            295          +         0.83            0.77               0.33           0.82
+Listening Comprehension %          295          +          0.51           0.39               0.39           0.85
+Dictation %                        295          +          0.72           0.63               0.35           0.83
+
+
+
+Total                                                                                        0.36           0.85
+
+
+
+
+                                                                                                                        23
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     Annex Two:
+     Administration of the Assessment
+
+     The Timor EGRA assessment was administered via face-to-face interviews of about between an enumerator and the
+     student. Each interview lasted 15 to 25 minutes from the onset of the test to completion of the student background
+     questionnaire. In six of the nine sub-tests in the Timor EGRA instrument, students had 60 seconds to complete the
+     sub-test in order to assess automaticity in a given skill. To be successful readers, basic reading competencies have
+     to be automatic. Fluency measures assess not only whether or not a child knows something, but also whether
+     they have integrated the knowledge and can process the information automatically (Linan-Thompson, 2007). Time-
+     limitation allows proper comparison of fluency across slow readers and fast readers who may register the same
+     scores at different periods of time (RTI, 2009).
+
+     In EGRA, student scores in time-limited sub-tests are calculated as the number of correct items (i.e., letter names,
+     letter sounds, or words) read per minute. If a student completes all of the words before the time expires, the time
+     of completion is recorded and the number of items correctly read per minute is estimated on that time period.
+     Selected sub-tests applied an “early-stop rule” to discontinue the administration of a sub-test if students were unable
+     to correctly respond to any of the items in the first of ten lines (Sub-tests, 2,4,5,6, and 7), or if their responses for the
+     first five items were incorrect (Sub-test 3). In this situation, the enumerator was asked to mark the box that read
+     “Check this box if the exercise was discontinued because the child has no correct answers in the first line” and
+     to proceed to the next sub-test in the test (RTI, 2010). The justification to discontinue a sub-test has two reasons.
+     First, the early stop rule helps avoid frustration among students whose dispirit may affect their performance in
+     subsequent sub-test. Second, the early stop rule is also an approximation of zero-scores throughout the test: as in
+     most psychometric tests, it is assumed that students who fail the first initial items will fail the remainder of the test,
+     especially if the first items are also the easiest, as it was in the case of the Timor EGRA. Sub-tests 8 and 9 did not
+     apply the “early stop rule” so results in these sub-tests relate to the total sample of students and report percentage
+     of correct answers over the total number of items in the sub-test.
+
+
+
+
+24
+                                                                                                               Attachment
+
+
+
+
+Annex Three:
+Logit Models
+
+TABLE 15.	 Logit Models: Tetum Language
+                                          Oral Reading Fluency                         Reading Comprehension
+
+           Variable         Coefficient      Standard Error      P-value    Coefficient    Standard Error      P-value
+Speaks Portuguese at home      0.50               0.31             0.10        0.15             0.29             0.61
+Speaks Tetum at home           0.27               0.19             0.15        0.30             0.19             0.12
+Library at School              0.01               0.19             0.96        0.21             0.19             0.27
+Printed Materials at Home      0.81               0.19            0.00         0.66             0.19            0.00
+Grade 2                        1.58               0.22            0.00         1.32             0.24            0.00
+Grade 3                        3.16               0.28            0.00         2.95             0.29            0.00
+Student Age                    0.12               0.06            0.04         0.18             0.06            0.00
+Student Age Squared            0.00               0.00            0.04         0.00             0.00            0.00
+Reads with Family              0.43               0.18            0.02         0.50             0.19            0.01
+Absent >1 Week                 -0.36              0.18            0.05         -0.15            0.18             0.41
+Alimentary Feeding             0.77               0.46            0.10         0.78             0.53             0.15
+Program
+Teacher Certified              -0.01              0.22             0.97        0.02             0.22             0.91
+Learning Corner                -0.08              0.19             0.65        -0.06            0.19             0.76
+In-service Last Year           0.54               0.25             0.03        0.32             0.25             0.20
+FTI                            -0.35              0.26             0.17        -0.33            0.26             0.20
+Constant                       -3.90              0.71            0.00         -4.90            0.79            0.00
+
+
+N                              901             Pseudo R^2         0.310        901           Pseudo R^2         0.313
+Wald Chi^2                   255.510               df              15        265.430             df              15
+P-value                       0.0000          Pseudo Log-        -430.166      0.000        Pseudo Log-        -423.075
+                                               Likelihood                                    Likelihood
+
+
+
+
+                                                                                                                            25
+     The Timor-Leste 2011 EGRA: Tetum Pilot Results
+
+
+
+
+     TABLE 16.	 Logit Models: Tetum Language
+                                                  Listening Comprehension                              Dictation
+
+                 Variable             Coefficient      Standard Error       P-value    Coefficient   Standard Error   P-value
+      Speaks Portuguese at home          0.34               0.39              0.37        0.20            0.45          0.66
+      Speaks Tetum at home               0.74               0.19             0.00         0.48            0.24          0.05
+      Library at School                  0.39               0.21             0.06         0.20            0.25          0.43
+      Printed Materials at Home          0.65               0.24             0.01         0.46            0.31          0.14
+      Grade 2                            0.63               0.23             0.01         1.59            0.31         0.00
+      Grade 3                            1.39               0.33             0.00         2.81            0.57         0.00
+      Student Age                        -0.03              0.07              0.71        0.15            0.10          0.11
+      Student Age Squared                0.00               0.00              0.72        0.00            0.00          0.11
+      Reads with Family                  0.60               0.21             0.00         0.49            0.25         0.05
+      Absent >1 Week                     -0.07              0.21              0.73        -0.15           0.26          0.55
+      Alimentary Feeding                 0.89               0.33             0.01         0.10            0.44          0.83
+      Program
+      Teacher Certified                  0.52               0.23             0.03         -0.40           0.31          0.19
+      Learning Corner                    0.04               0.23              0.85        -0.18           0.25          0.48
+      In-service Last Year               -0.04              0.32              0.91        0.55            0.33         0.10
+      FTI                                0.00               0.31              1.00        -0.25           0.33          0.45
+      Constant                           -1.03              0.68              0.13        -0.66           0.83          0.42
+
+
+      N                                  901            Pseudo R^2           0.199        901         Pseudo R^2       0.247
+      Wald Chi^2                        123.840              df               15        114.4600           df           15
+      P-value                            0.000          Pseudo Log-         -349.420     0.0000       Pseudo Log-     -251.622
+                                                         Likelihood                                    Likelihood
+
+
+
+
+26
+

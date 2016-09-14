@@ -1,0 +1,997 @@
+                                                                     92769
+                    PES Learning Paper 2014-1
+
+
+ Evaluation of the Permanence of Land Use Change
+Induced by Payments for Environmental Services in
+                 Quindío, Colombia
+
+     Stefano Pagiola, Jordi Honey-Rosés, and Jaume Freire-González
+
+
+
+
+                           September 2014
+
+
+                  Environment and Natural Resources
+                            World Bank
+                         Washington DC, USA
+Abstract	  
+The effectiveness of conservation interventions such as Payments for Environmental Services
+(PES) is often evaluated—if it is evaluated at all—only at the completion of the intervention.
+Since gains achieved by the intervention may be lost after it ends, even apparently
+successful interventions may not result in long-term conservation benefits, a problem known
+as that of permanence. This paper uses a unique dataset to examine the permanence of land
+use change induced by a short-term PES program implemented in Quindío, Colombia,
+between 2003 and 2008. This the first PES program to have a control group for comparison.
+Under this program, PES had been found to have a positive and highly significant impact on
+land use. To assess the long-term permanence of these changes, both PES recipients and
+control households were re-surveyed in 2011, four years after the last payment was made.
+We find that the land use changes that had been induced by PES were broadly sustained in
+intervening years, with minor differences across specific practices and sub-groups of
+participants. The patterns of change in the period after the PES program was completed also
+help better understand the reasons for the program’s success. These results suggest that, at
+least in the case of productive land uses such as silvopastoral practices, PES programs can
+be effective at encouraging land owners to adopt environmentally-beneficial management
+practices and that the benefits will persist after payments cease.
+Authors	  
+Stefano Pagiola is Senior Environmental Economist in the Environment and Natural
+Resources Global Practice, World Bank; Jordi Honey-Rosés is Assistant Professor at the
+School of Community and Regional Planning, University of British Columbia; and Jaume
+Freire-González is Consultant at ENT Environment and Management.
+
+Keywords	  
+Payments for Environmental Services (PES), impact evaluation, livestock, silvopastoral,
+Colomnia
+
+Acknowledgements	  
+An earlier version of this paper was presented at the Workshop on Evaluating Forest
+Conservation Initiatives in Barcelona, 10-12 December, 2013. Data analysis was partially
+funded by a grant from the Bank-Netherlands Partnership Program (BNPP)
+
+Cover	  photo	  
+Cows grazing in a pasture with high tree density, Quindío (Stefano Pagiola).
+
+PES	  Learning	  Papers	  
+PES Learning Papers draw on the World Bank’s extensive experience in supporting programs of
+Payments for Environmental Services (PES). They are part of a larger effort by the World Bank to
+provide open access to its research and make a contribution to development policy discussions around
+the world.
+The PES Learning Paper series disseminates the findings of work in progress to encourage the
+exchange of ideas about PES. An objective of the series is to get the findings out quickly, even if the
+presentations are less than fully polished. The papers carry the names of the authors and should be
+cited accordingly. The findings, interpretations, and conclusions expressed in this paper are entirely
+those of the authors. They do not necessarily represent the views of the International Bank for
+Reconstruction and Development/World Bank and its affiliated organizations, or those of the
+Executive Directors of the World Bank or the governments they represent. The boundaries, colors,
+denominations, and other information shown on any map in this work do not imply any judgment on
+the part of The World Bank concerning the legal status of any territory or the endorsement or
+acceptance of such boundaries.
+     Evaluation of the Permanence of Land Use Change Induced by
+      Payments for Environmental Services in Quindío, Colombia
+
+           Stefano Pagiola, Jordi Honey-Rosés, and Jaume Freire-González
+
+
+
+                                  1. Introduction
+       Payments for environmental services (PES) programs have attracted
+considerable attention as a strategy to protect natural resources and improve their
+long-term management (Ferraro and Kiss, 2002; Wunder, 2005; Engel and others,
+2008; Wunder and others, 2008). As with many other conservation interventions,
+there are important questions concerning their effectiveness. One such question
+concerns the long-term sustainability of their results. However, there have been no
+empirical analyses to date of this long-term sustainability. The effectiveness of PES
+program has hitherto been evaluated (if it is evaluated at all), only at the completion
+of the intervention. Since gains achieved by the intervention may be lost after it
+ends, even apparently successful interventions may not result in long-term
+conservation benefits.
+       PES programs make payments that are conditional on managing natural
+resources in ways that generate benefits for others (Wunder, 2005; Engel and others,
+2008; Pagiola and Platais, 2007; Wunder, forthcoming). The approach is based on the
+twin principles that those who benefit from environmental services (such as users of
+clean water) should pay for them, and that those who contribute to generating these
+services (such as upstream land users) should be compensated for providing them. It
+thus seeks to create mechanisms in which service users and service providers can
+undertake transactions that are in both parties’ interests, internalizing what would
+otherwise be an externality.
+       Recent years have seen a substantial growth in the use of PES, particularly in
+Latin America. PES programs are being implemented in Brazil (Pagiola and others,
+2013(, Colombia (Blanco, 2006), Costa Rica (Pagiola, 2008), Ecuador (Wunder and
+Albán, 2008; De Koning and others, 2011), Mexico (Muñoz-Piña and others, 2008), and
+elsewhere, and others are under preparation or study in several countries. These
+programs cover a wide range of scales and contexts. National-scale programs are in
+place in Costa Rica, Ecuador, Mexico, and several Brazilian states. Smaller programs
+(usually watershed-scale) can be found throughout the continent, in almost every
+country. Many programs focus on preserving water services, but programs that
+sequester carbon (for regulated or voluntary markets) are also common, and may
+become even common if plans for Reduced Emissions from Deforestation and
+Degradation (REDD) come to fruition (Pagiola, 2011; Agrawal and others, 2011).
+Although few PES programs focus on biodiversity directly, biodiversity conservation is
+an important secondary objective of many programs.
+      As with other conservation interventions (Ferraro and Pattanayak, 2006; Miteva
+and others, 2012), there has been growing concern over the effectiveness of PES
+
+                                          1
+(Pattanayak and others, 2010). Concerns have been raised that PES may not in fact
+induce the desired land use changes (that is, that they may lack additionality); that
+any induced land use changes may not in fact generate the desired services (for
+example, because the wrong land uses were induced, or total land use change was
+insufficient); that such changes may not be sustainable or permanent (because they
+are abandoned once the program ends); or that second-order impacts of the programs
+may diminish, or even negate, the benefits of the program (a problem known as
+leakage or spillage). There have also been concerns over distributional and social
+impacts. Despite these concerns, there have been few efforts to date to assess the
+impact of PES programs, and most of those have been hampered by lack of data,
+sometimes leading to very divergent results.
+        The few evaluations of PES programs that have been conducted have shown
+mixed results, in part because almost none had a control group to serve as a
+counterfactual, and few collected baseline data. Costa Rica’s PES program has been
+the most studied, but the available studies have a wide range of results, ranging from
+a 10 percent increase in primary forest cover nationwide in 2005 over what it would
+have been without the PES Program (Tattenbach and others, 2006); to a minimal
+impact on deforestation in 1997-2000 (Pfaff and others, 2008), and only a slightly
+higher impacts in 2000-2005 (Robalino and others, 2008); and an increase in forest
+cover among PES recipients of about 11-17 percent of the area under contract
+(Arriagada and others, 2012). In Mexico, Alix-Garcia and others (2012), find that the
+national PES program reduced deforestation among participants by about 50 percent;
+Muñoz-Piña (2011) finds similar results. At a smaller scale, Honey-Rosés and others
+(2011) find that a PES program aimed at conserving the Monarch Butterfly Reserve
+succeeded in reducing deforestation and forest degradation compared to what it
+would have been, but not in eliminating it. In Colombia, Pagiola and Rios (2013) find
+that a short-term PES program achieved substantial and strongly statistically
+significant land use change among recipients. All these studies focused exclusively on
+the problem of additionality during implementation. Only Alix-Garcia and others
+(2012) examined the extent of leakage under Mexico’s national PES program, finding
+that it partially offset the estimated impact on deforestation.
+       In this paper, we are specifically concerned with the long-term sustainability or
+permanence of the benefits generated by PES—the least studied aspect of the
+effectiveness of PES. We use a unique dataset to examine the long-term sustainability
+of environmentally-beneficial land use change induced by a short-term PES program
+implemented in Quindío, Colombia, between 2003 and 2008. Under this program,
+which was the first PES program to have a control group, PES had been found to have
+a positive and highly significant impact on land use, with the proportion of farm area
+devoted by PES recipients to environmentally beneficial land uses increasing
+substantially. Because of the short-term nature of the program, however, there was
+considerable concern that gains would be lost once the program ended. To assess the
+long-term sustainability of these changes, both PES recipients and control households
+were re-surveyed four years after the last payment was made to measure subsequent
+changes to land use.
+
+
+                                           2
+       We begin by discussing why evaluating the long-term sustainability of land use
+change induced by short-term PES programs is important and formulating several
+hypotheses about long-term outcomes. We then describe the project and its PES
+mechanism, and the Quindío site, and the land uses changes that were induced during
+implementation of the project. We then use detailed monitoring data collected at the
+study site to examine the land use changes that took place subsequent to the last
+payment being made. In particular, we search for any evidence that former PES
+recipients have abandoned the practices they adopted while receiving payments. We
+also examine the extent to which some of these land uses may have been further
+expanded even after payments ended, either by former PES recipients or by control
+households. We find that the land use changes that had been induced by PES were
+broadly sustained in intervening years, with minor differences across specific
+practices and sub-groups of participants. Some practices experienced continued
+expansion even after the payments ceased. The patterns of change in the period after
+the PES program was completed also help better understand the reasons for the
+program’s success. We conclude by discussing the implications of our results for PES
+program design.
+
+                  2. Long-term sustainability of PES impacts
+       In most cases, PES programs are designed to be long-term programs, making
+annual payments to landholders essentially indefinitely (although most PES contracts
+are typically for five years, they are usually renewable indefinitely). This is
+particularly true of PES programs that aim to conserve existing environmentally-
+beneficial land uses such as forests and prevent their conversion to less desirable land
+uses. The logic of these programs is that the returns to landholders of
+environmentally-beneficial land uses are lower than those of alternatives—if this were
+not case, there would be no pressure to change land use. Accordingly, perpetual
+payments are necessary to induce landholders to retain such land uses. Payments are
+made annually, upon verification that landholders have maintained the desired land
+uses. In such cases, there is no expectation of sustainability once payments end—on
+the contrary, the expectation is explicitly that the environmentally-beneficial land
+uses would be abandoned if payments ended. Concerns over sustainability thus focus
+primarily on the sustainability of the funding sources and the institutional
+arrangements that allow long-term payments to be made. In such long-term PES
+programs, the more important concern is that of additionality: many participants in
+such programs may be receiving payments for land uses they would have undertaken
+anyway, so that the programs generate few or no additional environmental services
+compared to the no-program counterfactual (Pattanayak and others, 2010).
+       In other cases, however, PES programs only make short-term payments. This is
+often the case of programs which seek to restore degraded ecosystems, replacing
+environmentally-harmful land uses with more beneficial ones. Wunder (2005) calls
+these programs “asset-building”, in contrast to the “use-restricting” conservation-
+focused programs. The logic in such cases is that returns to landholders from
+environmentally-beneficial land uses can exceed those of alternatives once obstacles
+to their adoption have been overcome. In such cases, a short-term PES program that
+
+                                           3
+‘tips the balance’ between environmentally harmful and beneficial land uses may be
+sufficient. This was the hypothesis of the short-term PES program examined here.
+       The hypothesis that short-term payments are sufficient to induce lasting land
+use change may, however, be mistaken. If returns to environmentally-beneficial land
+uses are lower than those of alternatives, landholders may still participate in the PES
+program and temporarily adopt the desired land uses so as to receive the payments
+(so that PES appears to be successful during implementation), but would then
+abandon these land uses once payments cease. This would, of course, result in the
+loss of any environmental benefits after the program’s end. The resources used to
+induce the land use change would thus have been wasted. It is important, therefore,
+to verify, rather than assume, whether land use changes induced by short-term PES
+programs are indeed sustained after payments end.
+       Observing land use changes after completion of a PES program is also important
+for other reasons. In particular, while some fear that land uses will be abandoned
+once payments cease, others hope that—on the contrary—PES will lead to widespread
+adoption even after payments cease. This could occur, for example, if the main
+obstacles to adoption of environmentally-beneficial land uses were not due to their
+benefits to landholders. These land uses may not have been adopted prior to the PES
+program, for example, if landholders were not aware of their benefits, or did not
+know how to implement them. If the area under the desired land uses continues to
+expand even after the end of payments, it may indicate that the apparent benefits of
+PES may in fact have resulted not from the actual payments but from the technical
+assistance (TA) that was provided concurrently. In that case, a TA program alone may
+be sufficient. Alternatively landholders may have lacked the financing necessary to
+undertake the necessary investments, and the payments may have affected land use
+choice by relaxing this constraint rather than through their effect on profitability. In
+the latter case, a credit program may be an attractive alternative to PES.
+       The impacts of PES may differ across land uses, as the relative profitability and
+technical complexity of environmentally-friendly land uses vary. Thus, some land uses
+may prove to be sustainably adopted thanks to a short-term PES programs while
+others are not. Impacts may also vary across participants. Poorer households, for
+example, may have greater financing constraints than better-off households. These
+differences, if observed, would have important implications for PES program design.
+Any evaluation should thus seek to identify such differences in impacts rather than
+looking at average impacts.
+       To date, the only effort to assess the long-term sustainability of a PES program
+has been a study of China’s Sloping Land Conversion Programs (SLCP) (Grosjean and
+Kontoleon, 2009). This study, however, used stated preference techniques to try to
+predict whether the program would prove sustainable, rather than observations of
+actual behavior post-program.
+
+
+
+
+                                           4
+                                      3. Methods
+       This paper uses data from a PES program implemented in the Quindío area of
+Colombia from 2003 to 2007 to examine whether land use changes induced by PES are
+maintained once payments end. Quindío was one of three pilot sites for the Regional
+Integrated Silvopastoral Ecosystem Management Project (hereafter the ‘Silvopastoral
+Project’), which used PES to encourage the adoption of silvopastoral practices in
+degraded and treeless pastures, so as to generate increased biodiversity conservation
+and carbon sequestration (Pagiola and others, 2005). The Silvopastoral Project offers
+an excellent opportunity to assess the long-term impact of PES, as it undertook
+extensive monitoring of both PES recipients and of a control group of farmers. By
+comparing the land use changes undertaken by PES recipients and control households,
+we can distinguish the impact of payments from that of other factors that affect land
+use decisions. To examine the long-term sustainability of these land uses changes, we
+re-surveyed all of the participants in the Silvopastoral Project four years after the last
+payment was made.
+The Silvopastoral Project
+        The Silvopastoral Project piloted the use of PES in three areas: Quindío, in
+Colombia; Esparza, in Costa Rica; and Matiguás-Río Blanco, in Nicaragua (Pagiola and
+others, 2005). The project was financed by a US$4.5 million grant from the Global
+Environment Facility (GEF), with the World Bank as the implementing agency. It was
+developed with support of the multi-donor Livestock, Environment and Development
+Initiative (LEAD), hosted by the Food and Agriculture Organisation (FAO). It was
+implemented in the field by local non-governmental organizations (NGOs). In
+Colombia, this work was conducted by the Centre for Research on Sustainable
+Agricultural Production Systems (Centro para la Investigación en Sistemas Sostenibles
+de Producción Agropecuaria, CIPAV).
+        Cattle production has long been an important cause of the loss of natural
+habitat and biodiversity in Latin America (Downing and others, 1992; Kaimowitz,
+1996; Murgueitio, 2003). Moreover, traditional livestock production practices based on
+extensive grazing are often unsustainable. After an initial period of high yields, soil
+fertility is depleted and grass cover diminishes, resulting in soil erosion,
+contamination of water supplies, air pollution, further loss of biodiversity, and
+degradation of landscapes. Lower income for producers results in continuing poverty
+and can lead to pressure to clear additional areas.
+       Silvopastoral practices combine trees with pasture. They include (1) planting
+high densities of trees and shrubs in pastures; (2) cut and carry systems, in which
+livestock is fed with the foliage of specifically planted trees and shrubs (‘fodder
+banks’); and (3) using fast-growing trees and shrubs for fencing and wind screens.
+These practices provide deeply rooting, perennial vegetation which is persistently
+growing and has a dense but uneven canopy.
+       The on-site benefits of silvopastoral practices for land users may include
+additional production from the tree component, such as fruit, fuelwood, fodder, or
+timber; maintaining or improving pasture productivity by increasing nutrient
+
+                                            5
+recycling; and diversification of production (Dagang and Nair, 2003). Because of their
+increased complexity relative to traditional pastures, silvopastoral practices also have
+important biodiversity benefits: they have been shown to play a major role in the
+survival of wildlife species by providing scarce resources and refuge; to have a higher
+propagation rate of native forest plants; and to provide shelter for wild birds (Dennis
+and others, 1996; Harvey and Haber, 1999; Harvey and others 2008). They can also
+help connect protected areas. Silvopastoral practices can also fix significant amounts
+of carbon in the soil and in the standing tree biomass (Fisher and others, 1994;
+Swallow and others, 2007). Silvopastoral practices can also affect water services,
+though the specific impact is likely to be site specific (Murgueitio, 2003; Bruijnzeel,
+2004).
+       Although silvopastoral practices offer numerous benefits, landholders will
+generally only take a portion of these benefits into account. Biodiversity
+conservation, carbon sequestration, and watershed protection benefits are all
+experienced off-site, so landholders will not normally take them into account when
+deciding which practices to adopt. The on-site benefits that landholders do take into
+account, however, are often insufficient by themselves to justify adopting
+silvopastoral practices—particularly practices with substantial tree components, which
+have high upfront planting costs and only bring benefits several years later. Estimates
+prepared for the project show rates of return of between 4 and 14 percent,
+depending on the country and type of farm (Gobbi, 2002). Other studies found similar
+results; White and others (2011), for example, found rates of return to adoption of
+improved pasture in Esparza, Costa Rica, of 9 to 12 percent. As a result, adoption of
+silvopastoral practices is often low.
+       The Silvopastoral Project sought to improve the adoption of silvopastoral
+practices by offering payments proportional to their expected biodiversity and carbon
+sequestration benefits (watershed benefits were not considered in this project). To do
+so, the project developed indices of the biodiversity conservation and carbon
+sequestration services associated with specific silvopastoral practices, then
+aggregated them into a single ‘environmental services index’ (ESI), described in detail
+by CIPAV (2003). The project distinguished 28 different practices, each with its own
+ESI score (see Appendix 1). Annual payments were based on the change in the total
+ESI score for the entire farm compared to its ESI score at the beginning of the project,
+with each incremental ESI point being worth US$75 per year, over a four-year period.
+An initial, one-time payment of US$10/point for baseline ESI points was also provided
+at the beginning of the project.
+       The Silvopastoral Project made its first payments, for the baseline ESI points,
+in July 2003. In May 2004, after monitoring land use changes, the project made its
+first payment for incremental ESI points. Additional payments were made in 2005,
+2006, and 2007. Since 2007, the former program participants have received no
+systematic support, in terms of either payments or TA, from CIPAV. However, some
+have received occasional visits from CIPAV.
+
+
+
+
+                                           6
+Study site
+       The Quindío area is located in Colombia’s Central Cordillera, in the watershed
+of Río La Vieja, at about 900-1,300m above sea level. Farms range from 10-20ha to
+some of 50-80ha. Many of the larger farms are owned by urban professionals and
+managed by employees (mayordomos). There is a very wide range of income levels,
+from extremely poor to quite wealthy. As shown in Table 1, extensive grazing was the
+main land use in Quindío prior to project start, having replaced the previously
+dominant coffee production. Degraded and treeless pastures dominated the
+landscape, accounting for about 65 percent of the area. Livestock production was
+primarily for meat production, with a small proportion being used for milk production.
+Overall tree cover was low, although there were a significant amount of forest
+remnants, most of which was riparian forest. Silvopastoral practices such as pastures
+with trees, fodder banks, and live fences were practically non-existent. Only 7 in 110
+farms surveyed had any fodder banks, for example, with an average of less than 1ha
+each. Some farms—particularly lower-income farms—had small areas dedicated to
+other productive activities, such as semi-permanent crops (mostly bananas), fruit
+crops, shade-grown coffee, and annual crops.
+Treatment group
+       As a pilot project, the Silvopastoral Project had limited funding, so
+participation in Quindío was limited to 80 households. A series of public workshops
+were held in the area to explain the project, with support of the Quindío livestock
+association. Two field visits were also organized to the Reserva Natural El Hatico in
+the Cauca valley, where silvopastoral practices are already in use. Households who
+expressed an interest were then accepted on a first-come basis, provided they met
+some minimal criteria on size of herd.
+       The two primary treatments of interest were payments and technical
+assistance (TA). All households in the treatment group were offered PES, but 56
+households were randomly selected among them to also receive on-farm TA. Although
+all participants received advice on which land uses might be most appropriate on
+their farms, the TA sub-group also received on-farm, in-person guidance on how to
+implement the selected land uses. In this way it would be possible to compare the
+effect of PES alone and the combination of PES and TA to the control group, which
+received neither. The treatment group was then further sub-divided, with half
+receiving payments for all four years of the project, while the other half only
+received payments for two years. The intent of was to allow an early assessment of
+whether land use change would prove sustainable once payments ended. Payment
+levels were slightly higher for the 2-year group, to compensate for the shorter
+duration of the payments, so that in principle the payment received to adopt a given
+land use should have been roughly similar in present value terms for members of both
+groups. Households were randomly assigned to either the 4-year or the 2-year group.
+There were thus effectively four treatments: PES for either 2 or 4 years, both either
+with intensive TA or without it. Among PES recipients, there were no significant
+differences in household characteristics among the sub-groups. Table 1 shows the
+characteristics of PES recipient households.
+
+                                          7
+Control group
+       To allow project-induced land use changes to be distinguished from changes
+induced by other factors, the Silvopastoral Project also included a control group. In
+fact, it was the first PES project anywhere to include a control group. Ideally,
+applicants would have been randomly assigned to either the treatment or the control
+group (Ferraro and Pattanayak, 2006; Glennerster and Takavarasha, 2013). This was
+not feasible, however, as the treatment group had already been selected when the
+decision to include a control group was made. Fortunately, the number of
+applications received was sufficient that a control group could be selected from
+among rejected applicants. As applications had been accepted on a first come, first
+served basis, there was no reason to expect that rejected applicants differed
+systematically from accepted applicants. Despite some differences, the control
+households have broadly similar characteristics (in terms of size, type of activities,
+and agro-ecological conditions) to PES recipient households (Table 2). This is to be
+expected, given the relatively small sample size and the wide range of conditions in
+the area. Budget constraints, particularly on the cost of monitoring, meant that the
+control group had to be limited to 30 households.
+Data collection
+       A baseline survey conducted in late 2002, during project preparation, collected
+detailed information on household characteristics of all PES recipients and control
+households at the site. All former PES recipients and control households were then re-
+surveyed in mid-2011, four year after the PES program ended. The questionnaire for
+the new survey was based on that of the 2002 baseline survey, but also included
+questions on the motivations for maintaining, extending, or reducing the use of
+different land uses in the period since the end of the project. The baseline survey
+included data on 110 households. Nine observations were discarded because
+households dropped out of the PES program, usually because they sold their land and
+moved away, or because the household head died, leaving 72 households receiving
+payments and 29 members of the control group, for a total of 101 observations.
+       From 2002 to 2007, detailed land use maps were prepared annually for each
+farm in the PES recipient and control groups, using remote sensing imagery. Quickbird
+imagery with a 61cm resolution was used to prepare detailed land use maps for each
+farm, which were then extensively ground-truthed to match each plot to one of the
+ESI’s 28 land uses. These mapping data provide accurate and consistent measures of
+area and ensure that land uses are classified consistently into the project’s
+categories. At the same time as the 2011 survey, the land use maps for each
+participant were updated, using the same methodology as was used during the
+Silvopastoral Project (by some of the same personnel, or by new personnel that had
+been trained by Silvopastoral Project personnel) to ensure consistency with the
+previous land use maps.
+Outcome measurement
+      The Silvopastoral Project differed from most PES programs (and from many
+other development programs aimed at landholders) by offering a large menu of land
+
+                                          8
+use options that participants could choose from, in light of their own preferences and
+constraints, rather than focusing on a small number of preferred land uses. As such,
+the outcome cannot be expressed by a binary participation/non-participation
+variable. The dependent variable for our analysis can be formulated in many different
+ways. The simplest formulation is to use the area converted: the greater the area
+converted, the higher the participation. Households with less land, such as those in
+the control group, may score poorly on this indicator, however, simply because they
+have less land. Investments such as establishment of live fences are also difficult to
+incorporate into an area-based indicator. Using the proportion of farm area converted
+avoids this problem, but faces others. Converting 5 ha of land to improved practices
+takes greater effort and has a greater environmental impact than converting 1 ha, yet
+if the first household has 10 ha and the second only has 1 ha, the first household (50
+percent converted) will appear to be participating ‘less’ than the second (100 percent
+converted). However expressed, area-based indicators also fail to capture the quality
+of the changes. Sowing improved pasture grasses in a treeless pasture has
+substantially less environmental impact than converting it to pasture with high tree
+density, yet will have the same value in terms of either area converted or percent of
+farm area converted. Area-based indicators also omit investments in live fencing. One
+option to incorporate a measure of intensity is to weight the area converted by the
+ESI of the land use change, and then add the points for live fencing. This measure is
+also appealing as it is the outcome of interest to the buyer of the environmental
+services being sought. As adopting higher-ESI land uses tend to be more difficult than
+adopting lower-ESI uses, using the ESI also provides a rough measure of effort. This
+measure can also be stated in different ways. The increase in total ESI is the simplest
+measure, but like area converted is constrained by total farm size. Stating it in terms
+of increase in ESI per hectare or percent increase in ESI addresses this problem. As
+each of these alternatives has its advantages and disadvantages, we use them all in
+separate models.
+
+                                     4. Results
+      We begin by briefly reviewing the results of the Silvopastoral Project during its
+implementation period; these results are examined in more detail by Pagiola and Rios
+(2013). We then examine how these results changed in the three years after the
+project ended.
+Participating households
+       The characteristics of participating households are summarized in Table 1
+(which only includes households still active at the end of the project). The average
+household in the sample is composed of 4.5 members, and has about 36ha of land and
+a herd of about 57 livestock units. The average per capita income is about COP10
+million. As can be seen, the average characteristics of the sub-group of PES recipient
+households differ slightly from those of the control group. This is to be expected,
+given the relatively small sample size and the range of conditions in the area.
+
+
+
+
+                                          9
+Table 1: Characteristics of participating households, Quindío, Colombia
+                                                      PES       PES        PES
+                                                      only     and TA       all     Control      All
+Income per capita (million COP)                        5.1       9.8       8.2        14.3      10.0
+Assets (million COP)                                   9.4       7.9       8.4         8.7       8.5
+Farm area ( ha)                                       25.8      47.4      40.2a      25.4a      36.0
+Cattle (livestock units)                              59.7      60.3      60.1        48.5      56.8
+Flat (% farm area)                                    26.2      21.3      22.9a      36.9a      26.9
+Distance to nearest village (km)                       6.7       7.3       7.1a      5.24ab      6.6b
+Water (% with water service)                          95.8      93.8      94.4        96.6      95.0
+Farm resident (%)                                     33.3      29.2      30.6        17.2      26.7
+Family labor (man-days/ha/yr)                          7.2       8.9       8.3         nd         nd
+Household size (members)                               5.1       4.7       4.9a       3.7ab      4.5b
+Dependency ratio (children per adult)                 0.40      0.40      0.40a      0.22ab     0.35b
+Age of household head (years)                         45.2      41.8      42.9        43.9      43.2
+Literacy of household head (%)                        100       93.8      95.8        93.1      95.1
+Education of household head (years)                    5.2       5.1       5.2         4.3       4.9
+Off-farm work (% with off-farm employment)            12.5      14.6      13.9        10.3      12.9
+Technical assistance (% with current access)          45.8      31.3      36.1a      10.3ab     28.7b
+Credit (% with access to credit)                      20.8      29.2      26.4        13.8      22.8
+
+Number of observations                                    24        48         72           29    101
+Notes:    Data reflects conditions just prior to project start.
+          a b
+           , indicate means are significantly different in paired t-test at 10% test level.
+          nd = no data.
+          Children are household members under 12.
+          Livestock are converted into livestock units (Unidad Gran Ganado, UGG) using the following
+              conversion factors: adult cows, 1.0 UGG; oxen or breeding bulls, 1.55 UGG; calves, 0.33
+              UGG; yearlings, 0.7 UGG.
+Source:   Silvopastoral Project baseline survey.
+
+
+Changes in land use induced by PES
+       Table 2 and Figure 1 compare land use by PES recipients at the project’s start
+(2003) and end (2007), and in 2011. Overall, the PES program induced substantial land
+use change during its implementation: between 2003 and 2007, almost 44 percent of
+total area experienced some form of land use change. A wide variety of changes were
+observed, ranging from very small changes such as sowing improved grasses in
+degraded pastures to very substantial changes such as planting high-density tree
+stands or establishing fodder banks. The area of degraded and treeless pasture fell by
+over 90 percent of its original area and that of natural pasture without trees by two
+thirds of its original area. (These figures understate total changes as they are for net
+changes in the area under each practice. For example, while some natural pastures
+with few or no trees were converted to natural pastures with high tree density, some
+
+
+                                                 10
+Table 2: Land use at the Silvopastoral Project site, Quindío, Colombia, 2003 to 2011
+(% of farm, unless otherwise indicated)
+Land use                                                           PES recipients                         Control group
+                                                          2003          2007        2011        2003          2007        2011
+Annual crops                                                 1.3          1.3          3.0          7.7         11.3        8.1
+Degraded pasture                                             2.8          0.3          0.7          1.9          1.0        1.4
+Natural pasture without trees                               24.8          8.1          9.9          6.8          3.8        2.2
+Improved pasture without trees                              37.3         30.4         23.4         51.2         42.7       30.7
+Semi-permanent crops (plantain, sun coffee)                  6.5          5.1          5.2         13.6         15.4       24.0
+Natural pasture with low tree density (< 30/ha)              0.2          0.4          2.0          0.0          1.4        1.8
+Diversified fruit crops                                      2.5          1.9          3.0          0.3          1.8        4.2
+Fodder banksa                                                0.2          1.0          1.0          0.0          0.5        0.8
+Improved pasture with low tree density (< 30/ha)             1.9         11.4          9.6          0.8          1.6        5.3
+Natural pasture with high tree density (>30/ha)b             0.0          2.3          2.7          0.0          0.0        0.0
+Shade-grown coffee                                           0.8          1.3          0.9          1.0          1.0        1.3
+Improved pasture with high tree density (>30/ha)b            0.1          9.3         10.0          0.0          0.0        0.1
+Bamboo (guadua) forest                                       1.5          1.8          1.8          0.2          0.2        0.2
+Timber plantationa                                           0.0          0.2          0.3          0.3          0.3        0.3
+Riparian forest                                             12.9         13.7         14.0         10.4         10.4       10.6
+Intensive silvopastoral system (iSPS)                        0.0          4.4          4.8          0.0          2.9        3.0
+Primary and secondary foresta                                7.3          7.1          7.7          5.9          5.8        6.1
+Total area                                                 100.0        100.0        100.0        100.0        100.0      100.0
+Multistory live fence or wind break (km)b                    2.1        356.9        386.4          3.0         13.6       16.6
+Notes: Totals may not add up because of rounding.
+       a
+           Similar land uses with small areas have been aggregated.
+       b
+          The project distinguishes land uses with recently planted trees from the same land uses with mature trees for the
+purpose of computing the ESI score; here these land uses have been aggregated to their mature state and the corresponding ESI
+score is shown.
+Source:         ESI from CIPAV (2004); area from Silvopastoral Project mapping data.
+
+
+
+
+                                                                   11
+Source: Computed from Silvopastoral Project data
+            Figure 1: Land use changes during and after the Silvopastoral Project in Quindío, 2003 to 2001
+
+
+
+
+                                                         12
+natural pastures that already had high tree density were converted to improved
+pastures with high tree density, reducing the apparent net change in natural pastures
+with high tree density.) Most of the gains were experienced in pastures with high tree
+density, which increased by 334ha. The area of fodder banks also rose dramatically,
+from less than 5ha to over 28ha, while that of intensive silvopastoral systems (iSPS:
+Leucaena planted at 5,000 trees/ha) went from 0ha to 130ha. About 346km of live
+fencing were established. Semi permanent crops, fruit crops, and coffee found little
+favor, with their overall area declining by 39ha, while timber plantations and pure
+forest uses fared little better, their total area increasing by only 29ha. Overall, these
+changes increased ESI/ha of PES recipients by over 60 percent (significant at 1
+percent), as shown in Figure 2.
+
+
+
+
+Notes: Bars show standard deviations
+Source: Computed from Silvopastoral Project data
+  Figure 2: Changes in environmental service generation under the Silvopastoral
+                        Project in Quindío, 2003 to 2001
+
+        In contrast, control households undertook substantially fewer land use changes
+in the same time period (Table 2 and Figure 1). Control households converted less
+than 13 percent of their land area, and adopted substantially less beneficial land
+uses, for an increase in ESI/ha of only 7 percent (a change which is not statistically
+significant). Econometric and difference-in-difference analyses confirm that these
+differences are statistically significant and did not result from differences in
+household characteristics (Pagiola and Rios, 2013). These results conclusively
+demonstrate that the land use changes induced by PES in Quindío were additional.
+       Among the possible land use changes, Pagiola and Rios (2013) found that there
+was very little adoption of more conservation-oriented land uses (such as secondary
+forests), even as production-oriented land uses (such as fodder banks) were adopted
+extensively—even though the payments offered by the project for conservation-
+                                                   13
+oriented land uses were higher. Pagiola and others (2010) also found that the extent
+and nature of changes made by relatively poorer households were not significantly
+different from those of relatively better off households. More surprisingly, Pagiola and
+Rios (2013) found that TA recipients did not undertake significantly more or better
+land use changes.
+Post-PES land use changes
+       As noted, there was considerable concern that the environmental gains made
+during the operation of the PES program would be temporary, with previous land uses
+returning once payments ended. The inclusion of a sub-group that would receive
+payments only over two years was an initial effort to determine whether these
+concerns were well-founded. Pagiola and Rios (2013) found no significant differences
+between 2-year and 4-year PES recipients in land use change, at the time of the
+project’s end. This result was promising, but did not entirely allay the concerns, as
+the continued presence of monitoring teams during the remaining two years could
+have inhibited 2-year PES recipients from abandoning the land uses they had adopted.
+       Table 2 and Figure 1 show the observed land use changes in the four years
+since the PES programs ended. Among former PES recipients, these changes were
+minimal. The observed post-PES changes are shown in more detail in Figure 3. The
+main change was a continued decline in the area of treeless pasture, which fell by
+about 4 percent of the farm area of former PES recipients (compared to a fall of
+almost 24 percent of farm area during the project). Some of this area, however, was
+converted to annual crops and so did not bring any additional environmental benefits.
+Among environmentally-beneficial land uses, there was some very minor expansion
+(about 1 percent of farm area) of secondary and riparian forests and of semi-
+permanent crops—specifically, monoculture fruit tree plantations. Among
+silvopastoral practices there were very few changes, except for a small decline (less
+than 1 percent of farm area) of pasture with low tree density.
+       Land use changes in the post-project period among former control households
+were somewhat larger in terms of area, but very limited in terms of their extent, with
+a significant fall (over 13 percent of their farm area) in the area under degraded
+pasture, most of which was converted to semi-permanent crops—primarily un-shaded
+perennials (Figure 3). Indeed, observed changes among former control households are
+driven by a small number of farms converting areas of degraded pasture to semi-
+permanent crops––a land use change the Silvopastoral Project had not emphasized as
+it brings very limited environmental improvements. There was very limited adoption
+of any silvopastoral practice, with the sole exception of pastures with low tree
+density (adopted on less than 4 percent of their farm area).
+       As a result of these changes, the overall ESI/ha of former PES recipients
+declined slightly (by less than 2 percent), and that of control households increased
+(by almost 9 percent) but neither change was statistically significant (Figure 2).
+
+
+
+
+                                          14
+Source: Computed from Silvopastoral Project data
+                  Figure 3: Land use changes after the Silvopastoral Project in Quindío, 2007 to 2001
+
+
+
+
+                                                          15
+Source: Computed from Silvopastoral Project data
+       Figure 4: Post-PES land use changes in Quindío, Colombia, by farm size
+
+
+
+
+Source: Computed from Silvopastoral Project data
+       Figure 5: Post-PES changes in ESI/ha in Quindío, Colombia, by farm size
+
+
+
+
+                                                   16
+       The observed changes are concentrated among a small group of farmers: 56
+percent of PES recipients and 48 percent of control households changed less than 10
+percent of their farm area, while 9 percent of PES recipients and 14 percent of
+control households changed more than half of their farm area. The households which
+did make substantial changes appear to have little in common, however. As can be
+seen in Figure 4, for example, there is no obvious relationship between farm size and
+the extent of post-PES land use changes (in terms of proportion of farm area
+converted), among either PES recipients or control households; being a TA recipient
+also does not appear to have made a difference. Likewise, as can be seen in Figure 5,
+there is no correlation between farm size and whether the changes made are
+environmentally beneficial (as measured by changes in the ESI). Both the positive and
+the negative outliers in terms of environmental impacts of post-PES changes, for
+example, are former PES recipients who had received TA. Econometric analysis
+confirms that having been a PES recipient had no statistically significant impact on
+post-project changes. Income levels are likewise non-significant.
+The case of intensive silvopastoral systems
+       The evolution of intensive silvopastoral systems (iSPS) is of particular interest,
+as this practice is considered particularly promising in terms of environmental and
+economic benefits. While costly and technically complex to implement, it can raise
+carrying capacity from about half a head of cattle per hectare under extensive grazing
+to as much as five head per hectare. Prior to the project, the practice had been
+completely unknown in the area. During the course of the Silvopastoral Project, iSPS
+was adopted by 26 PES recipients (a third of the total) on 130ha, with areas ranging
+from 0.1ha to over 43ha, representing between nearly 0 and over 55 percent of their
+farm areas, as well as by one control household (on 21.5ha, or 75 percent of its farm)
+(Figure 6). iSPS adopters included some of the smallest farms and some of the largest.
+Non-adopters were also found throughout the size range. The largest areas of iSPS
+were found on larger farms, but smaller farms adopted iSPS on relatively larger shares
+of their farm areas. Both poor and well-off households were represented among iSPS
+adopters. Poorer households adopted iSPS on smaller areas, but differences in the
+portion of farm area dedicated to iSPS were not statistically significant. These results
+suggested that iSPS could be profitable even without PES. Based on these results, a
+follow-up project at first did not offer any payments for iSPS adoption, only credit
+and TA.
+       In the four years following the end of the project, the overall area under iSPS
+increased by over 7 percent, seemingly confirming this result. This average, however,
+masks considerable variation: Of previous adopters, 5 households did not change their
+area under iSPS, 9 households abandoned iSPS entirely, 9 households reduced the area
+under iSPS (with the biggest reduction being less than 3ha), and 4 households
+increased the area under iSPS (by an average of 7ha) (Figure 7). Moreover, 3 previous
+PES recipients and one control household that had not adopted iSPS under the project
+did so after the project’s end, on an average of 1.5ha.
+
+
+
+
+                                           17
+Source: Computed from Silvopastoral Project data
+ Figure 6: Adoption of iSPS during Silvopastoral Project, 2003-2007, by farm size
+                      and income level (PES recipients only)
+
+
+
+
+Source: Computed from Silvopastoral Project data
+    Figure 7: Change in iSPS area, 2007-2011, by farm size (iSPS adopters only)
+
+                                        5. Discussion
+       PES recipients undertook substantial land use changes in the years in which
+they were receiving payments, far exceeding the changes undertaken by control
+households in terms of both quality and quantity. In an equivalent period following
+the end of the project, however, they undertook only minor land use changes. These
+results show that beneficial land uses adopted under the PES program were retained
+even after payments ceased. On the other hand, we do not see evidence that
+
+
+
+                                                   18
+adoption of these land uses continued spontaneously on any significant scale even in
+the absence of payments, as had been hoped.
+       That silvopastoral practices have not been abandoned after payments ceased
+strongly suggests that at the study site they are, in fact, more profitable than
+alternative land uses once they are established. Had that not been the case, it would
+have been simple for landholders to remove them, and they would have suffered no
+penalties from doing so. At the same time, these results also supports the hypothesis
+that financial profitability of silvopastoral practices was the main obstacle to their
+adoption: that is, that by reducing the initial costs of adoption and providing some
+income in the period before silvopastoral practices begin to generate sufficient
+benefits to be profitable, the payments ‘tipped the balance’ towards adoption. Other
+possible explanations for the lack of adoption of silvopastoral practices are
+inconsistent with the observed results. Simple ignorance of their possible benefits, or
+of how to implement them, were plausible explanations for lack of adoption prior to
+the project start, when such practices were practically non-existent in the landscape.
+After four years in which the use of silvopastoral practices expanded dramatically in
+the Quindío area, these explanations are no longer plausible. If these had been the
+main obstacles to the adoption of silvopastoral practices, the area under these
+practices would have continued to expand even in the absence of payments, and
+particularly so among landholders who received TA. Yet there was very limited
+expansion, and no significant differences in the extent of such expansion between
+those who received TA under the project and those that did not. Likewise, if the
+primary constraint had been the inability to finance the required investments,
+expansion should have continued even without payments at least among better-off
+households, and perhaps even among poorer households, as the higher income
+generated by previously-adopted silvopastoral practices could have financed
+additional adoption.
+       The observed changes in land use among former control households also
+support these conclusions. Lack of knowledge about silvopastoral practices can no
+longer be blamed, as by 2011 control households had ample time to observe such
+practices; indeed, some of them had adopted silvopastoral practices themselves. Lack
+of experience is superficially more plausible as an explanation, as these households
+never received TA nor even basic guidance on selecting appropriate practices. But,
+again, such inexperience did not prove absolute obstacles as several control
+households have implemented silvopastoral practices—including, in two cases, the
+most complex practices on offer (iSPS).
+
+                                  6. Conclusions
+      The Silvopastoral Project was the first PES program to have a control group
+that was monitored from before the treatment began, which allowed strong
+conclusions to be reached concerning its effectiveness. It is also the only such
+program in which additional data was collected on results several years after the
+project ended, allowing the permanence of its results to be assessed.
+
+
+
+                                          19
+       The experience of the Silvopastoral Project in Quindío indicates that the PES
+program has resulted in additional positive land use changes in terms of both the area
+affected and the nature of the changes. Our results show that concerns about non-
+permanence of land use changes were unfounded: land uses adopted under the PES
+program were not abandoned once payments ended.
+       In addition to the obvious dangers of generalizing from a single result, it is
+important to note the limitations of these conclusions. First, it should be emphasized
+that the conclusion applies to an “asset-building” PES program, in which payments are
+targeted primarily at productive activities (which also generate environmental
+benefits) rather than at pure conservation activities. These results should not create
+any expectation that “use-restricting” PES programs aimed at conserving existing
+environmentally-beneficial land uses could be sustainable without payments. In fact,
+if the land uses supported by such a use-restricting program were maintained after
+payments cease, it would likely indicate that the program was non-additional.
+Second, even among “asset-building” programs, the Silvopastoral Project was unusual
+in offering a very broad menu of options. Farmers were thus able to select the land
+uses that were best suited to their conditions, and were thus are less likely to find
+them a poor fit once payments end.
+       In addition to showing that PES-induced land use changes were sustainable,
+these results are also useful in that they help improve our understanding of the
+reasons why the original project was successful. That environmentally-beneficial land
+uses expanded rapidly when payments were offered for their adoption but then
+remained essentially unchanged once payments ended is consistent with the
+hypothesis that limited profitability was the primary obstacle to their adoption, and
+inconsistent with several other plausible hypotheses, including that the primary
+obstacles were lack of knowledge of these practices or of how to implement them, or
+lack of financing for the required investments. Again, this is not to say that these
+alternative hypotheses may not be correct in other cases.
+       A follow-up project, the Mainstreaming Sustainable Cattle Ranching Project, is
+now being implemented in Colombia by the World Bank with the support of the GEF
+and of the United Kingdom’s Department of Energy and Climate Change (DECC). This
+project, which promotes similar land use changes and uses a similar payment
+mechanism, is being implemented at five sites across the country, under a range of
+agro-ecological and socio-economic conditions. It, too, will be the subject of an
+impact evaluation, thus further improve our understanding of the effectiveness of
+PES, including its long-term sustainability.
+
+
+
+
+                                         20
+                                         References
+Agrawal, A., D. Nepstad, and A. Chhatre. 2011. “Reducing Emissions from Deforestation and
+    Forest Degradation.” Annual Review of Environment and Resources, 36:373–396.
+Alix-Garcia, J.M., E.N. Shapiro, and K.R.E. Sims. 2012. “Forest conservation and slippage:
+    Evidence from Mexico’s national payments for ecosystem services program.” Land
+    Economics, 88(4):613-638.
+Arriagada, R.A., P.J. Ferraro, E.O. Sills, S.K. Pattanayak, and S. Cordero-Sancho. 2012. “Do
+    payments for environmental services affect forest cover? A farm-level evaluation from
+    Costa Rica.” Land Economics, 88(2):382-399.
+Blanco, J. 2006. “La experiencia Colombiana en esquemas de pagos por servicios
+    ambientales.” Bogotá: Ecoversa.
+Bruijnzeel, L.A. 2004. “Hydrological functions of moist tropical forests: Not seeing the soil for
+    the trees?” Agriculture, Ecosystems and Environments, 104(1):185-228.
+CIPAV (Centro para la Investigación en Sistemas Sostenibles de Producción Agropecuaria).
+    2003. Usos de la Tierra en Fincas Ganaderas: Guía para el Pago de Servicios Ambientales
+    en el Proyecto Enfoques Silvopastoriles Integrados para el Manejo de Ecosistemas. Cali:
+    Fundación CIPAV.
+Dagang, A.B.K., and P.K.R. Nair. 2003. “Silvopastoral research and adoption in Central
+    America: Recent findings and recommendations for future directions.” Agroforestry
+    Systems, 59:149–155.
+De Koning, F., M. Aguiñaga, M. Bravo, M. Chiu, M. Lascano, T. Lozada, and I. Suarez. 2011.
+    “Bridging the gap between forest conservation and poverty alleviation: the Ecuadorian
+    Socio Bosque program.” Environmental Science & Policy, 14:531-542.
+Dennis, P., L. Shellard, and R. Agnew. 1996. “Shifts in arthropod species assemblages in
+    relation to silvopastoral establishment in upland pastures.” Agroforestry Forum, 7:14-21.
+Downing, T.E., H.A. Pearson, and C. Garcia-Downing, eds. 1992. Development or Destruction:
+    The Conversion of Tropical Forest to Pasture in Latin America. Boulder: Westview Press.
+Engel, S., S. Pagiola, and S. Wunder. 2008. “Designing payments for environmental services in
+    theory and practice: An overview of the issues.” Ecological Economics, 65(4):663-674.
+Ferraro, P.J., and A. Kiss. 2002. “Direct payments to conserve biodiversity.” Science,
+    298:1718–19.
+Ferraro, P.J., and S.K. Pattanayak. 2006. “Money for nothing? A call for empirical evaluation
+    of biodiversity conservation investments.” PLoS Biology, 4(4):482-488.
+Fisher, M.J., I.M. Rao, M.A. Ayarza, C.E. Lascano, J.I. Sanz, R.J. Thomas, and R.R. Vera.
+    1994. “Carbon storage by introduced deep-rooted grasses in the South American
+    savannas.” Nature, 371:236-238.
+Glennerster, R., and K. Takavarasha. 2013. Running Randomized Evaluations: A Practical
+    Guide. Princeton: Princeton University Press.
+Gobbi, J. 2002. “Enfoques silvopastoriles integrados para el manejo de ecosistemas en
+    Colombia, Costa Rica y Nicaragua: Análisis económico-financiero ex-ante de la inversión
+    en los SSP propuestos para cada país.” Turrialba, Costa Rica: CATIE.
+Grosjean, P., and A. Kontoleon. 2009. “How sustainable are sustainable development
+    Programs? the case of the Sloping Land Conversion Program in China.” World
+    Development, 37:268–85.
+
+
+
+                                               21
+Harvey, C., and W. Haber. 1999. “Remnant trees and the conservation of biodiversity in Costa
+   Rican pastures.” Agroforestry Systems, 44(1):37-68.
+Harvey, C.A., O. Komar, R.L. Chazdon, B.G. Ferguson, B. Finegan, D.M. Griffith, M. Martínez-
+   Ramos, H. Morales, R. Nigh, L. Soto-Pinto, M. van Breugel, and M. Wishnie. 2008.
+   “Integrating agricultural landscapes with biodiversity conservation in the Mesoamerican
+   hotspot.” Conservation Biology, 22:8–15.
+Honey-Rosés, J., K. Baylis, and M.I. Ramírez. 2011. “A spatially explicit estimate of avoided
+   forest loss.” Conservation Biology, 25:1032–43.
+Kaimowitz, D. 1996. Livestock and Deforestation in Central America in the 1980s and 1990s:
+   A Policy Perspective. Bogor: CIFOR.
+Miteva, D.A., S.K. Pattanayak, and P.J. Ferraro. 2012. “Evaluation of biodiversity policy
+   instruments: What works and what doesn't?” Oxford Review of Economic Policy, 28:69–92.
+Muñoz-Piña, C. 2011. “Programa de Pago por Servicios Ambientales Hidrologicos de los
+   Bosques.” Presented at the International PES Congress, Ixtapan de la Sal, Estado de
+   México, México, 3-5 August, 2011.
+Muñoz-Piña, C., A. Guevara, J.M. Torres, and J. Braña. 2008. “Paying for the hydrological
+   services of Mexico’s forests: Analysis, negotiations and results.” Ecological Economics,
+   65(4):725-736.
+Murgueitio, E. 2003. “Impacto ambiental de la ganadería de leche en Colombia y alternativas
+   de solución.” Livestock Research for Rural Development, 15(10).
+Pagiola, S. 2008. “Payments for environmental services in Costa Rica.” Ecological Economics,
+   65(4):712-724.
+Pagiola, S. 2011. “Using PES to implement REDD.” PES Learning Paper No.2011-1. Washington:
+   World Bank.
+Pagiola, S., and G. Platais. 2007. Payments for environmental services: From theory to
+   practice. Washington: World Bank.
+Pagiola, S., and A.R. Rios. 2013. “Evaluation of the impact of Payments for Environmental
+   Services on land use change in Quindío, Colombia.” PES Learning Paper No.2013-2.
+   Washington: World Bank.
+Pagiola, S., P. Agostini, J.A. Gobbi, M. Ibrahim, E. Murgueitio, E. Ramírez, M. Rosales, and
+   J.P. Ruíz. 2005. “Paying for biodiversity conservation services: Experience in Colombia,
+   Costa Rica, and Nicaragua.” Mountain Research and Development, 25: 206–11.
+Pagiola, S., A.R. Rios, and A. Arcenas. 2010. “Poor household participation in payments for
+   environmental services: Lessons from the Silvopastoral Project in Quindío, Colombia.”
+   Environmental and Resource Economics, 47:371–394.
+Pagiola, S., H. Carrascosa von Glehn, and D. Taffarello (Eds.). 2013. Experiências de
+   Pagamentos por Serviços Ambientais no Brasil. São Paulo: Secretaria de Estado do Meio
+   Ambiente.
+Pattanayak, S.K., S. Wunder, and P.J. Ferraro. 2010. “Show me the money: Do payments
+   supply environmental services in developing countries?” Review of Environmental
+   Economics and Policy, 4(2): 254-274.
+Pfaff, A., J.A. Robalino, and G.A. Sanchez-Azofeifa. 2008. “Payments for environmental
+   services: Empirical analysis for Costa Rica.” Terry Sanford Institute Working Paper
+   No.SAN08-05. Durham: Terry Sanford Institute of Public Policy, Duke University.
+
+
+
+
+                                             22
+Robalino, J., A. Pfaff, G.A. Sanchez-Azofeifa, F. Alpízar, C. León, and C.M. Rodríguez. 2008.
+   “Deforestation impacts of environmental services payments: Costa Rica's PSA Program
+   2000-2005.” Environment for Development Discussion Paper No.08-24. Washington:
+   Resources for the Future.
+Swallow, S., M. van Noordwijk, S. Dewi, D. Murdiyarso, D. White, J. Gockowski, G. Hyman, S.
+   Budidarsono, V. Robiglio, V. Meadu, A. Ekadinata, F. Agus, K. Hairiah, P. Mbile, D.J.
+   Sonwa, and S. Weise. 2007. “Opportunities for avoided deforestation with sustainable
+   benefits.” Bogor: ASB partnership for the Tropical Forest Margins.
+Tattenbach, F., G. Obando, and J. Rodríguez. 2006. “Generación de servicios ambientales.”
+   Paper presented at the workshop on Costa Rica’s Experience with Payments for
+   Environmental Services, San José, 25-26 September 2006.
+White, D., F. Holmann, S. Fuijsaka, K. Reategui, and C. Lascano. 2001. “Will intensifying
+   pasture management in latin america protect forests? – Or is it the other way round?” In A.
+   Angelsen and D. Kaimowitz, eds, Agricultural Technologies and Tropical Deforestation.
+   Oxford: CAB International.
+Wunder, S. 2005. “Payments for environmental services: Some nuts and bolts.” CIFOR
+   Occasional Paper No.42. Bogor: CIFOR.
+Wunder, S. Forthcoming. “Revisiting the concept of payments for environmental services.”
+   Ecological Economics.
+Wunder, S., and Albán, M., 2008. “Decentralized payments for environmental services: The
+   cases of Pimampiro and PROFAFOR in Ecuador.” Ecological Economics, 65(4):685-698
+Wunder, S., S. Engel, and S. Pagiola. 2008. “Taking stock: A comparative analysis of Payments
+   for Environmental Services Programs in developed and developing countries.” Ecological
+   Economics, 65:834–52.
+
+
+
+
+                                             23
+                   Appendix: Environmental Services Index
+
+
+Table A1: Environmental Services Index (ESI) used by the Silvopastoral Project
+(points/ha except where stated)
+                                                         Carbon   Biodiversity   Environmental
+Land use                                                  index      index       services index
+Annual crops                                               0.0        0.0              0.0
+Degraded pasture                                           0.0        0.0              0.0
+Natural pasture without trees                              0.1        0.1              0.2
+Improved pasture without trees                             0.4        0.1              0.5
+Semi-permanent crops (plantain, sun coffee)                0.2        0.3              0.5
+Natural pasture with low tree density (<30/ha)             0.3        0.3              0.6
+Natural pasture with recently planted trees (>200/ha)      0.3        0.3              0.6
+Recently established or frequently pruned live fences      0.3a       0.3a            0.6a
+Improved pasture with recently planted trees (>200/ha)     0.4        0.3              0.7
+Monoculture fruit tree plantation                          0.4        0.3              0.7
+Gramineous fodder bank                                     0.5        0.3              0.8
+Improved pasture with low tree density (<30/ha)            0.6        0.3              0.9
+Fodder bank with woody species                             0.5        0.4              0.9
+Natural pasture with high tree density (>30/ha)            0.5        0.5              1.0
+Multi-story live fence or windreak                         0.5a       0.6a            1.1a
+Diversified fodder bank                                    0.6        0.6              1.2
+Monoculture timber plantation                              0.8        0.4              1.2
+Shade-grown coffee                                         0.7        0.6              1.3
+Improved pasture with high tree density (>30/ha)           0.7        0.6              1.3
+Bamboo (guadua) forest                                     0.8        0.5              1.3
+Diversified timber plantation                              0.7        0.7              1.4
+Early secondary growth (tacotal)                           0.8        0.6              1.4
+Riparian forest                                            0.7        0.8              1.5
+Intensive silvopastoral system (iSPS)                      1.0        0.6              1.6
+Disturbed secondary forest                                 0.9        0.8              1.7
+Secondary forest                                           1.0        0.9              1.9
+Mature forest                                              1.0        1.0              2.0
+Source: CIPAV (2003)
+
+
+
+
+                                            24
+

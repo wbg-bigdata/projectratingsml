@@ -1,0 +1,1841 @@
+                                              Document of
+                                          The World Bank
+
+
+
+
+                                                                                        Report No: 31933
+
+
+                           IMPLEMENTATION COMPLETION REPORT
+                                         (SCL-40670 TF-29268)
+
+                                                 ON A
+
+                                                 LOAN
+
+                              IN THE AMOUNT OF US$100 MILLION
+
+                                                TO THE
+
+                                      KINGDOM OF THAILAND
+
+                                               FOR THE
+
+        DISTRIBUTION AUTOMATION AND RELIABILITY IMPROVEMENT PROJECT
+
+
+
+
+                                              June 13, 2005
+
+
+
+
+Energy and Mining Sector Unit
+Infrastructure Unit
+East Asia and Pacific Region
+
+ This document has a restricted distribution and may be used by recipients only in the performance
+ of their official duties. Its contents may not be otherwise disclosed without World Bank
+ authorization.
+
+                CURRENCY EQUIVALENTS
+
+           (Exchange Rate Effective December 2004)
+
+                  Currency Unit = Thai Baht (B)
+                           B 42 = US$ 1
+                     US$ 0.024 = B1.0
+
+                        FISCAL YEAR
+                 October 1 to    September 30
+
+
+           ABBREVIATIONS AND ACRONYMS
+
+CAS     -  Country Assistance Strategy
+DDC     -  Distribution Dispatching Center
+EGAT    -  Electricity Generating Authority of Thailand
+EIRR    -  Economic Internal Rate of Return
+EPPO    -  Energy Policy and Planning Office (formerly NEPO)
+ESI     -  Electricity Supply Industry
+GIS     -  Geographical Information System
+IPP     -  Independent Power Producer
+kV      -  Kilo-volt
+MEA     -  Metropolitan Electricity Authority
+MOF     -  Ministry of Finance
+MV      -  Medium Voltage
+MVA     -  Mega volt ampere
+MW      -  Mega Watt
+MWh     -  Mega Watt Hour
+NEPO    -  National Energy Policy Office
+NESDB   -  National Economic and Social Development Board
+PEA     -  Provincial Electricity Authority
+PAD     -  Project Appraisal Document
+RCS     -  Remote Control Switch
+ROR     -  Rate of Return
+ROW     -  Right of Way (transmission lines)
+SAR     -  Staff Appraisal Report
+SCADA   -  Supervisory Control and Data Acquisition
+SET     -  Stock Exchange of Thailand
+SFR     -  Self Financing Ratio
+SOE     -  State Owned Enterprise
+SPP     -  Small Power Producer
+UHF     -  Ultra High Frequency
+VAT     -  Value Added Tax
+
+
+
+                Vice President:     Jemal-ud-din Kassum
+              Country Director      Ian Porter
+               Sector Manager       Junhui Wu
+
+Task Team Leader/Task Manager:  Rebecca Sekse
+
+                                                THAILAND
+                     Distribution Automation and Reliability Improvement Project
+
+
+                                                CONTENTS
+
+
+
+
+                                                                                        Page No.
+     1. Project Data                                                                         1
+     2. Principal Performance Ratings                                                        1
+     3. Assessment of Development Objective and Design, and of Quality at Entry              2
+     4. Achievement of Objective and Outputs                                                 3
+     5. Major Factors Affecting Implementation and Outcome                                   7
+     6. Sustainability                                                                       8
+     7. Bank and Borrower Performance                                                        8
+     8. Lessons Learned                                                                      9
+     9. Partner Comments                                                                   10
+     10. Additional Information                                                            10
+     Annex 1. Key Performance Indicators/Log Frame Matrix                                  12
+     Annex 2. Project Costs and Financing                                                  15
+     Annex 3. Economic Costs and Benefits                                                  16
+     Annex 4. Bank Inputs                                                                  19
+     Annex 5. Ratings for Achievement of Objectives/Outputs of Components                  21
+     Annex 6. Ratings of Bank and Borrower Performance                                     21
+     Annex 7. List of Supporting Documents                                                 22
+     Annex 8. ICR Mission Aide-Memoire                                                     23
+     Annex 9. Borrower's Evaluation Report                                                 26
+     Annex 10. Restructuring of The Electricity Supply Industry-Corporatization of PEA     27
+Map: IBRD No. 27818
+
+Project ID: P042268                                                  Project Name: TH-Distr. Autom & Relia
+Team Leader: Rebecca C. Sekse                                        TL Unit: EASEG
+ICR Type: Core ICR                                                   Report Date: June 14, 2005
+
+
+1. Project Data
+                   Name: TH-Distr. Autom & Relia                                  L/C/TF Number: SCL-40670; TF-29268
+   Country/Department: THAILAND                                                           Region: East Asia and Pacific
+                                                                                                     Region
+
+        Sector/subsector: Power (99%); Central government administration (1%)
+                  Theme: Infrastructure services for private sector development (P); Regulation
+                            and competition policy (S); State enterprise/bank restructuring and
+                            privatization (S)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 05/05/1995                                      Effective: 03/25/1997               03/25/1997
+     Appraisal: 01/29/1996                                         MTR:
+      Approval: 07/16/1996                                      Closing: 12/31/2000                 12/31/2004
+
+
+
+    Borrower/Implementing Agency:          Provincial Electricity Authority/Provincial Electricity Authority
+                      Other Partners:
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Jemal-ud-din Kassum                            Gautam Kaji
+Country Director:               Ian Porter                                     Khalilzadeh Shirazi
+Sector Manager:                 Junhui Wu                                      Jayashankar Shivakumar
+Team Leader at ICR:             Rebecca Sekse                                  Darayes Mehta
+ICR Primary Author:             Darayes Mehta; Rebecca Sekse
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        S
+                      Sustainability:      L
+   Institutional Development Impact:       H
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry:                                  S
+                     Project at Risk at Any Time: No
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+
+The Project's main development objectives were to: (a) improve through automation the efficiency and
+reliability of Provincial Electricity Authority's distribution network and strengthen its operational
+capabilities; (b) upgrade the distribution system in South Thailand to meet demand growth at least cost; (c)
+strengthen PEA's engineering and management capabilities through the integration of its Geographical
+Information System (GIS) with the Supervisory Control and Data Acquisition (SCADA) system; (d) help
+rationalize PEA's interfacing arrangements with the Electricity Generating Authority of Thailand (EGAT);
+and (e) help investigate issues and options for the regulatory framework for the energy sector. Supporting
+PEA in restructuring and corporatization was a rationale for Bank involvement.
+
+At appraisal in 1996, Thailand experienced a rapid growth in electricity demand, fuelled by widespread
+industrial and commercial development in provinces around Bangkok. This development placed increasing
+demands on service quality and reliability from a utility primarily accustomed to rural electrification.
+System reliability and efficiency were eroding. Under this scenario, the Government attached utmost
+importance to strengthening operational efficiency and laid down specific targets for reliability and losses.
+PEA's response was to embark on an automation project, the like of which had not been introduced even in
+more advanced countries. While adequate consulting assistance was provided, the Project stretched PEA's
+technical resources to the utmost. Exacerbated by the country's economic crisis (1997-2000), Project
+implementation sprawled over seven years. When the Project was conceived, the stage had been set for
+commercialization of the three Thai Electricity utilities and it was appropriate to initiate concrete steps for
+the restructuring and corporatization of PEA. The Project objectives were thus aptly targeted to the sector's
+needs. Further, development of electricity infrastructure was consistent with the Bank's Country Assistance
+Strategy (CAS) to strengthen Thailand's infrastructure base to regain international competitiveness.
+Organizational restructuring and commercialization of PEA was in line with the Bank's and the
+Government's sector strategy, but the expectation of its achievement within a rather rigid framework and a
+reasonable time frame was ambitious; however, this turned out largely due to factors which could not have
+been foreseen at appraisal.
+
+3.2 Revised Objective:
+
+The original objectives remained unchanged.
+
+3.3 Original Components:
+
+The Project had the following main components:
+
+A. Investment Components: - These comprised:
+
+(a) Distribution Automation System, including: (i) a Systems Management Center at PEA's Head Office in
+Bangkok; (ii) five, Distribution Dispatching Centers (DDCs) in PEA's Central Region Areas 1, 2, 3,
+Southern Region Area 1 and Northern Region Area 3; (iii) 1,600, Remote Control Switches (RCS) in a
+total of    1,072 trunk feeder circuits; (iv) 124, Remote Terminal Units in 124 substations; (v)
+communication between the substations and the DDCs on microwave and communication between the RCS
+and the substations on a UHF radio point to point network; and (vi) consulting services for design,
+procurement and supervision.
+
+
+
+
+                                                     - 2 -
+
+(b) Upgrading Distribution in South Thailand, including: (i) 17, 115/33 kV; six, 115/22 kV; and one,
+115/115 kV substations, with a total transformer capacity of about 1,650 MVA; (ii) 722 km of 115 kV
+transmission lines; and (iii) consulting services for engineering, design and procurement.
+
+B. Technical Assistance Components: - Consulting studies for: (i) Rationalization of Interfacing
+Arrangements with EGAT ­ to evolve a rational framework for division of ownership between EGAT and
+PEA, an important ingredient towards commercialization; and (ii) Regulatory Framework for the Energy
+Sector - to review the regulatory structure and recommend a framework suitable for a restructured
+Electricity Supply Industry (ESI).
+
+Both, the Investment and the Technical Assistance components were closely linked to the project objectives.
+Recognizing that PEA had no previous experience in: (i) Automation - adequate consulting assistance was
+provided; still implementation proved rather onerous for PEA's capabilities; and (ii) Commercialization -
+the organizational restructuring steps were phased; yet the rather rigidly conceived annual organizational
+changes could not be fully complied with.
+
+The lesson learned to advance land procurement was applied; in practice only one line component
+experienced severe right of way procurement delays.
+
+3.4 Revised Components:
+
+The Project components remained unchanged.
+
+3.5 Quality at Entry:
+
+The quality of entry of the Project is rated as satisfactory. Its design and objectives were fully consistent
+with Government's sector policies and the CAS. While the Staff Appraisal Report (SAR) identified the risk
+of delay due to tardy procurement decisions, it could not foresee the extent to which the procurement
+process would prolong, resulting in a procurement time of four years instead of two and an overall
+installation time of seven years instead of four, for the Automation component. Likewise, the extent of
+delays in implementation of the more straightforward distribution expansion component could also not be
+visualized. Both these delays were to no small extent caused by the country's 1997-1999
+financial/economic crisis which led to a depression of demand and resulted in: (i) a sector-wide resistance
+towards implementation; (ii) a drawn out procurement process, exacerbated by Government clamping down
+on the utilities' budgets; and (iii) local contractors running out of funds to sustain the pace of installation.
+The risk of demand shortfall was recognized but the extent of the impact on demand of the
+economic/financial crisis could not be gauged. Risks of delay in land acquisition were predicted, but not
+quite the delay which occurred due to environmental considerations affecting ROW of one line component
+adjacent to a reserved forest; a testimony to Thailand's evolving environmental consciousness. The Project
+complied with the Bank's Safeguard policies and those were fully met.
+
+Organizational restructuring was staged and covenanted but the checkered tale of its implementation
+unfolded only over the years (see Section 10 and Annex 10).
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+
+The Project's overall outcome is rated as satisfactory. Although implementation stretched over seven
+
+
+
+                                                       - 3 -
+
+years, it was fully and satisfactorily accomplished. The organizational restructuring and commercialization
+objective was and the corporatization objective (registration as a PEA Public Limited Company) would be
+satisfactorily achieved, but it fell short of SAR expectation to split PEA into four Regional Distribution
+Companies. Additionally, privatization, though not explicitly contemplated in the SAR, is likely to be
+attained. The achievement of the objective ­ to improve the efficiency and reliability of the distribution
+system, contain losses, improve manpower utilization and strengthen PEA's operations and management
+capabilities - was admirably met. Due to PEA's skillful down-scaling of investments as demand faltered, its
+overall financial position remained sound.
+
+Objective 1: Improve through automation the efficiency and reliability of PEA's distribution network
+and strengthen its operational capabilities.
+
+The system efficiency improvement objective was fully met, with substantive improvements in losses and
+manpower utilization (see Annex 1) and operational and management efficiency. These achievements were
+due to significant improvements in operation and maintenance practices and well-timed, well-positioned,
+and aptly-curtailed investments in distribution infrastructure, in consonance with power demand.
+Manpower utilization was improved due to personnel policies that stopped recruitment of non-technical
+staff and encouraged early separation. Reliability targets set by PEA were substantially met and significant
+improvements in reliability due to automation are expected when the systems are fully operational.
+
+Objective 2: Upgrade the distribution system in the south of Thailand to meet demand growth efficiently
+and at least cost.
+
+Although there was an inordinate delay (part of which was contrived and justifiably so) of about four years
+in implementation, this objective was ultimately fully met and substations installed under the Project are
+carrying satisfactory levels of load, following recovery from the 1997-1999 economic/financial crisis. The
+overall implementation delay could be tolerated, and in some ways was a blessing, as it deferred
+expenditures and averted creation of under-utilized assets.
+
+Objective 3: Strengthen PEA's engineering and management capabilities through the integration of its
+Geographical Information System (GIS) with the proposed Supervisory Control and Data Acquisition
+(SCADA) system
+
+This objective is well on its way towards full achievement. The GIS data capture consists of: (i) high
+voltage network ­ mainly graphical information (without electrical devices attribute data); (ii) substations -
+at a very high level (not extending to devices); and (iii) distribution feeders - with both graphical and
+electrical attribute data. Current GIS graphical and electrical attribute data in the MV network is imported
+into the SCADA/DMS system (network data model). These are load flow, demand estimation, fault
+analysis, etc. Gepgraphical displays for HV applications will be implemented by end 2005, when the GIS
+graphical and electrical attribute data models have been developed, and have started importing data into the
+SCADA system.
+
+Objectives 4 and 5: (4) Help rationalize PEA's interfacing arrangements with EGAT, an important step
+towards its regionalization and subsequent privatization; and (5) Help investigate the issues and options for
+the regulatory framework for the energy sector.
+
+These objectives were fully met. Interfacing arrangements between PEA and EGAT are under
+implementation. The Inter-Control Center Communications Protocol (ICCP) link is used across WANs to
+
+
+
+                                                     - 4 -
+
+enable the exchange of real-time and historical power monitoring data including measured values,
+scheduling data, energy accounting data and operator messages. This information is useful for planning and
+operation of the transmission, sub-transmission and distribution systems. As a next step, there will be a
+rearrangement of the interfacing areas. PEA and EGAT are currently negotiating the scope of the
+obligations between the two utilities and transfer of appropriate facilities from EGAT to PEA.
+
+The Regulatory Framework Study was efficiently managed by the National Energy Policy Office (NEPO)
+and its recommendations provided useful inputs to the framing of the Energy Act, the crafting of the
+Regulatory Framework and drafting of secondary legislations.
+
+Objective 6: Assist PEA in its efforts towards restructuring and subsequent corporatization.
+
+The Staff Appraisal Report envisaged the following steps towards restructuring and corporatization of
+PEA:      Step 1 ­ Decentralization of management to the four Regional Areas (September, 1996)
+commencing with business units as cost centers transiting to profit centers (September, 1997). Step 2 ­
+Creation of PEA Holding Company (September, 1999) (providing central services such as tariff
+coordination, power system management and debt control; with Regional entities as separate corporations
+under PEA. Step 3 ­ Separation of non core functions as separate subsidiaries and their eventual spin off.
+This transition was expected to take about four years.
+
+Except that PEA would not be broken up into four Regional Distribution Companies as envisaged in the
+SAR the objective of restructuring the organization has been and the objective of corporatization would be
+met, with PEA registering itself as the "PEA Public Company Ltd." with the Ministry of Commerce in
+2005 and possibly privatizing itself as a whole, by way of public offering of a portion of its equity
+(probably about 30%) later.
+
+PEA's corporatization and privatization plans call for clear separation among DisCos, SupplyCos and
+Non-core businesses and its organizational restructuring involves creation of five categories: (a) Regional
+Network Operations,covering network-related functions; (b) Regional Regulated Retail,covering supply to
+customers; (c) Competitive Retail and Market Development,covering supply on a competitive basis; (d)
+Ventures, covering non-core business; and (e) Support services, covering support and administrative
+functions. The separation of Network Operations from Regulated Retail Operations would only be on an
+accounting basis (cost-center mode) and not on the basis of creating separate legal entities (profit-center
+mode). Potential legal separation could be ushered in later when the Electricity Supply Industry (ESI) and
+the Government are prepared for it.
+
+The less-than-expected achievement of this objective is due to vacillations in Government policy (and
+Government changes) on sector reform, reluctance of the electricity utilities to espouse major structural
+changes (based on legitimate concerns but also special interests); and objection by the unions of the three
+utilities to listing on the Stock Exchange of Thailand. Thus, while the basic policy for reform, restructuring
+and privatization was maintained in consonance with the Project's overall objective, its implementation
+course was quite checkered (see Section 10 and Annex 10 for details).
+
+Financial Objective and Compliance with Financial Covenants:
+
+Inspite of the 1997 economic/financial crisis, the financial objectives of the Project, as defined by its
+covenanted financial ratios (a self-financing ratio (SFR) of not less than 25% of three-year average capital
+expenditure; a rate of return (ROR) on revalued assets of not less than 4%; a long-term debt to equity ratio
+not exceeding 1.5 times; and outstanding short and medium term debt not to exceed 15% of all debt), were
+
+
+                                                     - 5 -
+
+admirably achieved (see Annex 1).        While maintaining a robust SFR over the entire tenure of the loan,
+PEA could not comply with the ROR covenant in most of the years. The ROR covenant was rightly judged
+to be inappropriate for assessing PEA's performance and was dropped in June 2001 because the Bank
+agreed with PEA that: (i) the SFR, Debt Service Coverage and Debt Equity ratios are already adequate
+indicators of PEA's financial health; (ii) the ROR target is inappropriate for a a utility with a large and
+lumpy investment program; (iii) it should have the same set of covenants as EGAT and MEA, who were
+not required to comply with ROR targets; (iv) in monitoring financial efficiency and setting tariffs, the
+Government does not subject any of the utilities to an ROR test; (v) as a state enterprise with a rural
+electrification mandate and in view of the economic recession during the project period, its financial
+objective is aimed more at sustaining liquidity rather than seeking a profitable return on operating assets;
+(vi) its investment projects during the project period to serve the economic recovery program under the
+National 9th Five-Year Plan, were non-profitable projects in the short term because most of them focus on
+upgrading the operational and service capacity which results in long-term returns; and (vii) current global
+thinking of achieving a reformed and effectively regulated power sector was to move away from cost-plus
+tariff setting, such as return on assets, towards performance-based tariff setting that encourages efficiency.
+
+
+Barring 1999, PEA realized positive net incomes. In response to severe demand drepressions following the
+1997 emergency, PEA resorted to: (i) prudent financial management; (ii) drastic reduction in capital
+investment; (iii) significant improvements in operating efficiency; and (iv) recouping foreign exchange
+losses from consumers through the tariff surcharge mechanism. As a result, capital expenditures and
+related long-term debt were brought down way below appraisal projections. The tariff for purchase of
+power from EGAT increased well above appraisal forecasts, but this was matched by retail tariff increases,
+a sign of prudent sector regulation by the Government.
+
+4.2 Outputs by components:
+
+The Project's physical components were fully executed within the two-year­extended loan closing date of
+December 31, 2004, with high standards of quality, environmental, social, aesthetical and safety
+considerations. Delays were largely due to: (i) Distribution Automation ­ a per se lengthy procurement
+process of prequalification and two stage bidding; stalling mid-stream by Government's directive to reduce
+budget outlay; consequent price negotiations with the lowest bidder; Bank's refusal to accept price
+negotiations; and re-invitation of bids from all pre-qualified bidders once again on a two stage basis (such a
+lengthy procurement process, albeit for a complex system, may be a record in Bank's history); and (ii)
+Distribution Upgrading - lengthy procurement decisions (a malady from which PEA internal systems have
+not recovered); local contractors facing severe financial crunch during the emergency; and unexpectedly
+lengthy ROW clearance for a transmission line component on environmental grounds.
+
+4.3 Net Present Value/Economic rate of return:
+
+Distribution Automation. At appraisal, the principal benefit "saving in un-served energy" was evaluated at
+B45.7/kWh or US$1.83/kWh (US$1=B25), based on a 1986 consulting study, and the Economic Internal
+Rate of Return (EIRR) was 12%. A reliable value of this parameter is currently not available. It can,
+however, be safely assumed that this value would today be much higher in view of the change in character
+of PEA's load from rural/domestic to industrial/commercial. The ICR evaluates the EIRR for two values of
+"un-served energy": (i) the value at which the Project's EIRR reaches the thresh-hold viability level of 10%
+- this value is calculated at B53/kWh or US$1.26/kWh (US$1=B42); and (ii) the appraisal value of
+US$1.83/kWh translated into B76.9/kWh (US$1=B42) ­ this value is calculated at 14.5%. It may be
+concluded that Distribution Automation continues to be economically viable, in spite of a long drawn out
+
+
+
+                                                      - 6 -
+
+implementation time and a severe depreciation in the Baht, primarily because of the drastic cutting down of
+expenditure, while maintaining basic functionality.
+
+Distribution Upgrading in South Thailand. The re-evaluated value of the EIRR is 14.5% compared to
+13% at appraisal. The higher value is primarily due to capital costs being way below appraisal estimates
+and tariffs being maintained at financially and economically viable levels.
+
+4.4 Financial rate of return:
+
+The SAR did not calculate the financial rate of return.
+
+4.5 Institutional development impact:
+
+The Project's institutional development impact is rated as high. As a result of several consulting studies
+that PEA undertook (see Annex 7) in compliance with the Project's and the Government's mandates to
+commercialize and corporatize, a distinct business-oriented culture gradually emerged. This is expected to
+mature as PEA becomes a corporation and is listed on the SET. Due to Government's decision to select
+electricity utility Governors on a competitive basis and assign them time-bound performance-linked
+contracts, there have been discernable improvements in the efficiency of PEA's managerial and technical
+operations. Though PEA was prepared to restructure on a "Profit Center" basis, it had to stop short and do
+this only on a "Cost Center" basis, as the concept of wholesale competition was put on indefinite hold by
+the Government. Finally, PEA's operations have strengthened considerably due to: (a) Transmission
+Rationalization which lays down principles for: (i) cost allocation at the interface of PEA and EGAT,
+promoting least cost planning; (ii) analyzing technical constraints and operational requirements; and (iii)
+demarcating borderlines of ownership and operational responsibilities; and (b) Integration of GIS with
+SCADA, which would create an integrated network model that would: (i) assist PEA in managing efficiently
+a giant distribution network; (ii) reduce the System Average Interruption Frequency Index for all
+customers; and (iii) improve customer service and outage management capabilities.
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+
+Three factors could be cited: First ­ the 1997 economic/financial crisis severely impacted implementation
+of: (i) the Distribution Automation component due to budgetary restrictions imposed by the Government
+midstream on the procurement process, leading to re-invitation of bids and consequent major delays in
+procurement. The implementation of this component was also substantially retarded due to coordination
+problems with the Telephone Authority of Thailand; and (ii) the Distribution Upgrading component due to
+contractors not being able to marshal financial resources to carry on with their work. The crisis also
+resulted in a dramatic reduction in demand which severely tested the financial strength of the utilities and
+diluted their resolve to implement projects. Second ­ the California Power crisis, the adverse reports about
+operation of the British Power Pool, and EGAT's stiff opposition to the Power Pool concept, all of which
+forced the Government to drop introduction of a competitive power market, proposed by the previous
+Government (this was not contemplated in the SAR). Third ­ the unexpectedly strong opposition, at the
+eleventh hour, from the unions to corporatization and listing of the utilities on the SET, stalling the process.
+
+5.2 Factors generally subject to government control:
+
+While committed to commercialization and privatization per se, the Government had no compulsion to
+introduce complex industry restructuring devised by the previous Government in the face of utilities' strong
+
+
+
+                                                     - 7 -
+
+opposition. In deference to the utilities' wishes, the Government proposed corporatization and listing of the
+three utilities, as a whole, without breaking them up.
+
+5.3 Factors generally subject to implementing agency control:
+
+There were two significant factors: (i) lethargy of the organization in implementing the investment
+components of the Project when electricity demand growth was declining; and (ii) the general reluctance of
+PEA management, backed by PEA's union (as with all the three Thai electricity utilities) to undertake a
+major organizational restructuring that would lead to its break up; and (iii) the unexpectedly long decision
+time on procurement matters due to PEA's cumbersome procurement process.
+
+5.4 Costs and financing:
+
+The Project completion cost was US$227 million equivalent against an appraisal estimate of US$325
+million equivalent, a reduction of about 30%. The Distribution Automation component was implemented at
+a cost 22% below appraisal due to: (i) cutting down on embellishments without sacrificing technical
+functionality, in response to the budgetary crunch during the financial crisis; and (ii) the Bank's refusal to
+accept price negotiations which resulted in re-bidding and lower prices. The cost of the Distribution
+Upgrading component was 35% below appraisal estimate due to: (i) depression in international aluminum
+prices by 37%; (ii) 22% lower conductor fabrication cost in Thai Baht reflected at 53% in US dollars, due
+to severe devaluation of the Baht; and (iii) the highly competitive local construction market during the
+financial crisis, which resulted in a transmission cost of B1.242 million/km versus B1.525 million/km
+prevailing at appraisal.
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+
+Project overall sustainability is rated as likely. The Project has been constructed to excellent technical
+standards and there is little doubt about PEA operating and maintaining it competently. Further, with the
+introduction of the Distribution Automation system, PEA's operational efficiency and system reliability
+would be significantly enhanced. The physical sustainability of the Project is thus considered highly likely.
+PEA's financial objective to ensure financial strength remain and is expected to remain adequate to support
+its growth. While Government is resolved to privatize the three electricity utilities by listing them on the
+SET and the utilities are willing to go along with the Government mandate, the threat posed to privatization
+by the unions, which has currently stalled the process, cannot be underestimated. Hence, while the
+sustainability of the restructuring and corporatization aspect of the Project is rated as highly likely, the
+sustainability, or rather the achievement of privatization can at best be rated as likely.
+
+6.2 Transition arrangement to regular operations:
+
+A summary of understandings between the Bank and PEA for reporting on the Project's operational phase
+is presented below (see Aide Memoire, Annex 8). PEA would furnish annually to the Bank, for the next
+five years, a summary report on the following:
+
+         ·    the utilization (MW and MWh) of the substations financed by the Project;
+         ·    the status of monitoring indicators for financial performance, reliability, losses and manpower
+         utilization;
+         ·    significant events in corporatization and listing of PEA; and
+         ·    any events that may adversely affect the physical and policy components of the Project.
+
+
+                                                       - 8 -
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+
+The Bank's performance in Project formulation is rated as satisfactory. Of particular note are: (i) its
+engagement of independent consultants to review the complex feasibility study prepared by an equipment
+vendor (who proposed that PEA procure the Automation system on a negotiated basis) and pointing out
+serious computational flaws; (ii) its recommendation of prequalification and a two-stage bidding process
+for the Automation package; and (iii) its insistence on PEA laying out distinct steps for its organizational
+restructuring and corporatization - although the phasing and content of this component changed, it
+exercised a continuing pressure on PEA to pursue this goal.
+
+7.2 Supervision:
+
+The Bank fielded adequately staffed supervision missions. It displayed flexibility during the
+financial/economic crisis. Recognizing the complex nature of the Automation System, the Bank engaged an
+independent expert to review the bid documents and the prequalification process. Throughout, the Bank
+maintained a substantial level of dialogue, largely informal, with PEA and the Government on pricing,
+sector reform, restructuring and privatization. However, it realized that it could not and hence did not
+enforce rigid compliance with covenants on organizational restructuring, considering that PEA's actions
+were often beyond its control, being mandated by Government policies which kept changing. The Bank
+performance is rated as satisfactory.
+
+7.3 Overall Bank performance:
+
+The Bank's overall performance is rated as satisfactory.
+
+Borrower
+7.4 Preparation:
+
+The Borrower's overall performance is rated as satisfactory. While its exhaustive preparation of the
+Automation component and devising the performance monitoring indicators and targets is rated as highly
+satisfactory; its less-than-enthusiastic preparation of the restructuring and corporatization component is
+rated as satisfactory.
+
+7.5 Government implementation performance:
+
+Government performance is rated as satisfactory. The previous Government aptly handled the utilities
+during the economic/financial crisis from which they emerged with sound positions. Its NEPO managed the
+Technical Assistance component of the Project with competence. It also conducted far-reaching studies on
+restructuring of the Electricity Supply Industry, drafted the Energy Act, finalized the regulatory regime for
+the energy sector, formulated the Power Pool Model and secured Cabinet approval for its proposals. It
+introduced a new bulk supply tariff and reformed the tariff structure in preparation for Pool operations.
+When the new Government stepped in, it required (at the behest of the three Thai electricity utilities,
+especially EGAT) the entire Power Industry plan to be reviewed, particularly in regard to ushering-in of
+Pool operations by 2003. It later revised the original models of restructuring and corporatization of EGAT,
+Metropolitan Electricity Authority (MEA) and PEA (which called for a considerable amount of
+un-bundling) and directed that the three utilities be privatized (as a whole) by listing on the SET. And, it
+
+
+
+                                                     - 9 -
+
+decided to postpone the Power Pool indefinitely and to continue with EGAT as a Single Buyer.
+
+7.6 Implementing Agency:
+
+PEA's overall performance in implementation is rated as satisfactory. Its deployment and exhaustive
+training of a competent team of young engineers to handle the Automation component (the team persevered
+in spite of insurmountable problems and over a prolonged period beset with utility financial woes) was
+exemplary. The performance of the implementation consultant employed by PEA was of an exceptionally
+high standard, without which this Project could not have been brought to a successful closure. PEA's
+performance in solving very complex communication problems and resolving ROW issues - is rated as
+highly satisfactory. Its implementation of the restructuring and corporatization component is rated as
+satisfactory.
+
+7.7 Overall Borrower performance:
+
+Overall, the Borrower's performance is rated as satisfactory.
+
+8. Lessons Learned
+
+The following are key lessons learned from this Project:
+
+         · Preparation: Major restructuring, corporatization and privatization of a utility, should provide
+             for flexibility, as such actions are often beyond the utility's control, being subject to mandates
+             which may change with a change of Government. Marshalling of highly competent experts in
+             handling technically complex projects such as Automation (especially when previous
+             experience is sparse) cannot be over-emphasized.
+         · Economic/Financial: Sudden economic/financial crisis in a country could severely impact
+             power demand and could render major distribution investments planned for high sustained
+             growth levels, totally unviable. Under such conditions, utilities need to be nimble and take
+             timely and drastic measures to restructure their investment plans, exercise great financial
+             discipline, and double efforts towards improving operational efficiency. Under these
+             circumstances, the Bank would do well to take a flexible and sympathetic approach to
+             Government actions and desist from demanding rigid compliance with covenants.
+         · Power Sector Reforms: Introduction of complex power pool operations in a developing
+             country needs to be thought through with care.           The Thai experience showed that full
+             liberalization promised only small efficiency gains (the utilities were already efficient) and the
+             costs and risks to justify them proved quite elusive. It was apparent that full liberalization was
+             not needed to solve the issues that remain the key concerns of policy makers: the fiscal and
+             financial performance of the Thai ESI. Creating a power pool market in a system with
+             entrenched bureaucracies and special interest groups did not bring early wins. Active support
+             rather than reluctant acquiescence of the utilities is necessary to push through a complex
+             reform agenda. The Bank could best play the role of advisor and facilitator for countries that
+             have embarked on the path of power sector reforms and should recognize that restructuring
+             proposals cannot be cast in stone and could change as Government and utility thinking evolves.
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+
+PEA has concurred in general with the findings of the ICR and               has rated Bank's performance as
+
+
+
+                                                      - 10 -
+
+satisfactory. The Government has verbally conveyed it has no comments on the ICR.
+
+(b) Cofinanciers:
+
+KFW, the financier of the transformers for the project have conveyed their inability to comment on the ICR
+
+(c) Other partners (NGOs/private sector):
+
+Nil
+
+10. Additional Information
+
+Course of Power Sector Reforms (see Annex 10 for details)
+
+ In early 2000, NEPO proposed the creation of a "Competitive Power Pool," departing from the earlier
+plan of unbundling EGAT and creating a Single Buyer structure. It proposed a gradual restructuring of
+EGAT, PEA and MEA to create an ESI with wholesale competition by 2003. In regard to distribution, a
+natural monopoly, it proposed that: (i) access to the wires and tariff levels will be subject to regulation; (ii)
+all but a few large consumers would purchase electricity from the (DisCos) of regulated regional
+monopolies or Regulated Electricity Delivery Companies (REDCos), and pay for this electricity either
+through the REDCos, (SupplyCos) or Competitive Retailers (RetailCos); and (iii) the retail supply function
+would be provided by DisCos/SupplyCos or by independent supply companies/RetailCos.
+
+PEA's original plan for corporatization and privatization called for clear separation among DisCos,
+SupplyCos and Non-core businesses. It involves the separation of its operating units into five categories:
+(a) Regional Network Operations, covering network related functions; (b) Regional Regulated Retail
+covering supply to customers; (c) Competitive Retail and Market Development, covering supply on a
+competitive basis; (d) Ventures, covering existing and future non-core business; and (e) Support Services,
+covering support and administrative functions. The separation of Network Operations from Regulated
+Retail Operations would only be on an accounting basis (cost-center mode) and not on the basis of creating
+separate legal entities (profit center mode). Potential legal separation could be ushered in later when the
+ESI and the Government are prepared for it.
+
+In May 2001 the new Government initiated a complete review of the previous Government's Power Sector
+policy and decided to postpone the Energy Act approved by the previous Cabinet. In parallel, EGAT
+(sensitized by the California Power Crisis) did some serious rethinking on the creation of a Power Pool by
+2003 and advocated a "Third Party Grid Access" model, wherein ownership and operation of the grid
+would still be with EGAT but competitors would be allowed to use it, on non-discriminatory terms. In
+February 2001 the new Government announced an Agenda on Privatization, which called for listing 16
+SOEs on the SET, from 2001 to 2003 (EGAT in the 3rd Quarter and MEA and PEA in the 4th Quarter of
+2003).
+
+A Ministry of Energy (MOE) was created on October 1, 2002 comprising five departments ­ Office of the
+Minister, Office of the Permanent Secretary, Department of Petroleum Resources, Department of Energy
+Business, Department of Renewable Energy and Energy Conservation and Energy Policy and Planning
+Office (EPPO) which replaces the erstwhile NEPO.
+
+Subsequently, EGAT, MEA, PEA and the Government decided to drop NEPO's "Power Pool" model.
+EPPO proposed a new model: (i) split EGAT into three PowerGens; (ii) create an Independent System
+Operator (ISO); (iii) create a Transmission Company (GridCo); (iv) create an Independent Regulator; and
+
+
+
+                                                    - 11 -
+
+(v) separate "network" and "retail" functions within MEA and PEA. Disagreeing with EPPO's model,
+EGAT proposed an alternative model (i) up to 30% of total demand to operate in a "free market" under a
+Power Exchange; (ii) EGAT would maintain the generation functions, and ability to contract power under
+new Power Purchase Agreements for future GenCos; (iii) EGAT would maintain the transmission and
+system control functions; (iv) MEA and PEA could buy power only from EGAT; and (v) residential,
+commercial and small industrial consumers would purchase power from MEA and PEA. MEA and PEA
+broadly supported EPPO's model but strongly opposed EGAT's model. The Government called for a wider
+debate on the subject. Government's latest decision is to put the Power Pool model on an indefinite hold
+and proceed with corporatization and listing of the three Thai electricity utilities on the SET.
+
+An unexpected development in June 2004 was the strong opposition from EGAT and later the MEA and
+PEA unions to listing of the utilities on the SET. In response, the Government has commissioned another
+study to review the corporatization and privatization process and is also engaged in revising the
+Corporatization Act. The corporatization of PEA can be expected towards the end of 2005; the date of its
+privatization is uncertain.
+
+
+
+
+                                                    - 12 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+Output Indicators:
+
+              Indicator                  Projected in              Actual
+                                            SAR
+
+           Complete Technical
+            Assistance Studies
+         Regulatory Framework              12/97                    4/98
+     Transmission Rationalization           6/97                    1/97
+                 Action Plan               12/97                    1/99
+          Complete Installation
+         Distribution Automation           12/99                   12/04
+         Distribution Upgrading             6/98                   12/04
+        Complete Organizational             2000                    2004
+             Restructuring
+
+Outcome/Impact Indicators:
+
+Reliability Indicators
+
+Year                     2002        2003        2004         2002     2003**      2004
+  Reliability Index*                   SAIFI                             CAIDI
+Total       Target       17.1        16.7        16.3         56.1     52.4        48.5
+            Actual       15.0        14.3        12.7         56.7     59.9        54.4
+Industrial Target        4.2         4.0         3.8          28.6     27.5        26.3
+            Actual       4.0         3.9         4.3          31.2     42.2        22.8
+City        Target       10.1        9.7         9.3          52.3     48.3        43.3
+            Actual       8.4         8.0         6.1          41.0     61.3        44.5
+Town        Target       12.4        12.1        11.9         47.0     43.2        41.3
+            Actual       7.0         8.4         7.0          39.8     55.3        44.3
+District    Target       17.9        17.5        17.1         58.7     54.3        49.7
+            Actual       12.0        11.8        9.9          49.4     53.8        46.0
+Rural       Target       17.9        17.5        17.1         58.7     54.3        49.7
+            Actual       16.8        15.7        14.2         58.6     61.0        55.9
+
+
+SAIFI = System Average Interruption Frequency Index (Number of times per customer per year).
+CAIDI = Customer Average Interruption Duration Index (Time in minutes per outage).
+
+*In 1997, PEA changed the methodology for computing SAIFI and CAIDI, counting the number of interruptions
+due to operation of all protective equipment (re-closures, switches, fuses etc.) and not only the main circuit
+breaker, as was done at appraisal. Hence SAR targets are obsolete.
+
+**In 2003, PEA customers expressed preference for lesser number but longer duration outages for planned
+maintenance, affecting the CAIDI values.
+
+
+
+
+                                                      - 13 -
+
+Other Outcome Indicators
+
+                      Indicator                                Projected
+                                                                                                   Actual
+                                                        SAR            Project End
+System Losses                                        7% (2001)       5.61% (2004)       5.78% (2001)     4.96% (2004)
+Manpower Utilization - Gwh per employee             2.30 (2001)        2.61 (2004)       2.0 (2001)       2.74 (2004)
+Customers per employee                              376 (2001)         463 (2004)        408 (2001)      480.7 (2004)
+Substation Utilization (Av.) %                     47.7% (2002)      44.5% (2004)           NA           44.5% (2004)
+
+
+
+PEA FINANCIAL PERFORMANCE
+
+Appraisal
+(in Million Baht)
+
+
+Fiscal Year                                 1996    1997     1998    1999     2000    2001    2002    2003
+Sales (GWh)                                42,664  47,296   51,707 56,082   60,561  65,145   69,813  74,631
+Average Tariff (B/kWh)                      1.73     1.74    1.74    1.77      1.80   1.80     1.81    1.81
+Total Operating Revenue                    76,300  84,788   92,509 101,905 111,561  119,792 129,183 137,952
+Operating Expenses                         21,638  21,719   24,318 26,164   28,045  30,275   32,541  35,077
+Energy Purchase                            52,837  58,482   63,673 68,970   74,391  79,939   85,583  91,412
+Total Operating Expenses                   74,475  80,201   87,991 95,134 102,436   110,214 118,124 126,489
+Operating Income                           1,825   4,587     4,518  6,771    9,125    9,578  11,059  11,463
+Government Remittances                     4,216   2,817     2,786  2,339    2,217    2,391   2,367  2,537
+Exchange Gain (Loss)                        -646    -646     -640    -637     -590    -590     -589   -439
+Net Income                                 2,251   3,668     1,860  1,670    1,959    1,142   1,153     332
+Fixed Assets                               95,775 123,292  155,198 182,698 201,857  223,376 244,989 263,843
+Long-Term Debt                             32,275  44,716   69,419 89,896 103,019   119,489 136,671 151,916
+
+
+Primary Ratios
+Rate of Return (%)                            6.6     6.4      5.3     5.6     6.1      5.9     6.0     5.8
+Debt Service Coverage Ratio (times)           3.7     4.1      2.9     1.9     1.6      1.5     1.4     1.4
+Operating Ratio (%)                            98      95      95      93        92      91     91       92
+Current Ratio (times)                         3.1     2.2      1.8     1.9     1.8      1.8     1.8     1.9
+Debt/Equity Ratio (times)                   0.94     0.69    1.00    1.17      1.22   1.27     1.38    1.38
+Self Financing Ratio (%)                       26      28      25      25        26      26     25       26
+
+
+Appraisal
+Critical Financial Indicators (FY96-03)     Min.    Ave.     Max.
+Energy Sales Growth Rate (%)                    7       9      13
+Average Tariff (Baht/kWh)                   1.73     1.78    1.81
+Remittance as a Percentage of Profit (%)       30      30      30
+Self Financing Ratio (%)                       25      26      28
+Debt Service Coverage Ratio (times)           1.9     2.3      4.1
+Debt Equity Ratio (times)                   0.94     1.10    1.38
+
+
+
+
+                                                      - 14 -
+
+PEA FINANCIAL PERFORMANCE
+
+
+Actual
+(in Million Baht)
+
+
+Fiscal Year                                 1996   1997    1998    1999    2000    2001    2002    2003    2004
+Sales (GWh)                                42,390 47,179  48,003 48,532   52,370 56,481   60,239 65,497   73,096
+Average Tariff (B/kWh)                       1.79  1.87     2.09   2.03     2.15   2.38     2.41   2.43     2.56
+Total Operating Revenue                    77,913 90,947 103,139 101,725 115,832 137,773 148,752 164,364 190,993
+Operating Expenses                         13,047 14,066  16,073 16,718   18,982 19,412   20,372 22,075   24,876
+Energy Purchase                            54,206 64,752  76,502 76,878   89,426 113,187 123,441 135,472 158,585
+Total Operating Expenses                   67,253 78,818  92,575 93,596 108,408  132,599 143,813 157,547 183,461
+Operating Income                           10,660 12,130  10,564   8,128  7,423   5,174   4,939   6,818   7,532
+Government Remittances                     3,610   8,160   4,106   2,987  2,900   2,175   2,097   2,290   1,972
+Exchange Gain (Loss)                        -374  -4,538   -496  -14,912     120  1,065   1,672      -42   -728
+Net Income                                 12,029  9,066  10,465  -7,502  6,700   5,715   6,065   6,014   5,005
+Fixed Assets                               70,467 87,617 103,603 116,295 127,861 135,722 143,258 151,233 162,388
+Long-Term Debt                             28,390 41,152  44,574 56,775   52,239 60,315   60,785 65,457   71,567
+
+
+Primary Ratios
+Rate of Return (%)                            9.0    1.7     5.5     3.6     2.6     0.4    -0.3     0.7     2.1
+Debt Service Coverage Ratio (times)           4.9    4.6     2.8     2.3     2.4     1.9     1.8     2.2     1.6
+Operating Ratio (%)                            86     87      90     92       94     96       97     96       96
+Current Ratio (times)                         2.8    2.4     1.7     1.7     1.1     1.2     1.0     1.2     1.1
+Debt/Equity Ratio (times)                    0.53  0.73     0.77   1.08     1.07   1.05     1.01   1.02     1.07
+Self Financing Ratio (%)                       63     32      30     48       81     41       39     34       50
+
+
+Actual
+Critical Financial Indicators (FY96-03)     Min.   Ave.    Max.
+Energy Sales Growth Rate (%)                    1      7      12
+Average Tariff (Baht/kWh)                    1.79  2.19     2.56
+Remittance as a Percentage of Profit (%)       30     41      90
+Self Financing Ratio (%)                       30     47      63
+Debt Service Coverage Ratio (times)           1.8    2.4     4.9
+Debt Equity Ratio (times)                    0.53  0.93     1.07
+
+
+
+
+                                                    - 15 -
+
+Annex 2. Project Costs and Financing
+
+Project Costs by Components (in US$ million equivalent)
+
+                  A                            B                 C                    D
+         Project Component           Appraisal Estimate        Actual     Percentage of Appraisal
+ 1
+ 2 Distribution Automation
+ 3 Control Centers and                      119.00             96.42                81.00
+ 4 Remote Control Switches
+ 5 Consulting Services                       8.50               2.94                34.60
+ 6             Sub-Total                    127.50             99.36                77.90
+ 7 Distribution Upgrading
+ 8 Conductor                                17.80               6.20                34.80
+ 9 Transmission Lines                       73.70              26.34                35.70
+10 Substations                              103.50             93.49                90.30
+11 Consulting Services                       1.00               1.22               121.70
+12             Sub-Total                    196.00             127.25               64.90
+13 Technical Assistance
+14 Transmission Rationalization              0.80
+15 Regulatory Framework                      0.70               0.67                95.70
+16             Sub-Total                     1.50               0.67                44.70
+17              Total                       325.00             227.28               69.90
+
+
+Exchange Rate: At Appraisal ­ US$1=B25; Average during Project - US$1 = B42
+
+
+
+
+Project Costs by Procurement Arrangements (in US$ million equivalent)
+
+
+  Expenditure     Procurement Method - Appraisal       Procurement Method - Actual
+   Categories
+
+                    ICB     Other    NBF     Total     ICB     Other    NBF      Total
+1 Works
+2 Goods              241.1              7.5    248.6    175.5               6.2   181.7
+3 Services                    11.0              11.0               4.8              4.8
+4 Misc.                                65.4     65.4                       40.7    40.7
+Total                241.1    11.0     72.9    325.0    175.5      4.8     46.9   227.2
+
+
+
+Other: Consulting Services procured through competitive bidding using Bank Guidelines
+NBF:    Goods -Fabricated Conductors procured through national competitive bidding
+        Misc. - Land, Engineering and Administrative Overheads, Duties and Taxes
+
+
+
+
+                                                   - 16 -
+
+Project Financing by Component (in US$ million equivalent)
+
+                   Appraisal Estimate                        Actual                            Percentage of Appraisal
+Component
+                   Bank          PEA           KFW           Bank         PEA*           KFW   Bank    PEA       KFW
+
+Distribution
+                   59.3          68.2          -             66.46        32.89          -     112.1   48.2      -
+Automation
+
+Distribution
+                   40            126.75        29.25         32.87        71.81          22.58 82.2    56.7      77.2
+Upgrading
+
+Technical          0.7           0.8           -             0.67         -              -     95.7    -         -
+Assistance
+
+Total              100           195.75        29.25         100          104.7          22.58 100     53.5      77.2
+
+
+* Financed from Local Borrowing and Internal Cash Generation in nearly equal proportions.
+
+
+
+
+                                                                  - 17 -
+
+Annex 3. Economic Costs and Benefits
+
+A. Distribution Automation
+
+The economic analysis of the Project component is done on the same basis as at appraisal. The following
+assumptions have been made:
+
+                                    Appraisal                         ICR
+
+Base Year for constant prices           1995                           2004
+Cost Streams ­ Capital Investments
+(excluding duties, taxes and IDC)       1996-2001                      1997-2004
+
+Incremental Operation and
+Maintenance Costs
+(as % of incremental capital costs)     1.5%                             1.5%
+Value of unsupplied energy              B 45.7/kWh                     B53 and 76.9/kWh#
+
+#See ICR para. 4.3
+Saving in annual operation and
+maintenance cost of substations
+(4staff x 137 substations + 10 staff
+x 5 control centers)
+(4staff x 143 substations)              @B 10,000/staff                                   @B14,430
+/staff
+
+Capital Investments (In million Baht) including taxes (deducted in computation of EIRR)
+
+                              Current Prices            CPI        CPI               Constant Prices
+        Year          Foreign      Local    Total     (Foreign)  (Local)      Foreign      Local      Total
+        1996                -          -          -    1.049       0.844             -           -         -
+        1997               4.47        -        4.47   0.976       0.879           4.58          -       4.58
+        1998            221.46         -     221.46    0.939       0.96         235.84           -     235.84
+        1999            139.49       56.36   195.85    0.936       0.921        149.02        61.19    210.21
+        2000            353.35        0.47   353.82    0.916       0.934        385.75           0.5   386.25
+        2001            323.25      390.23   713.48    0.889       0.954        363.61       409.04    772.65
+        2002            743.79      389.09 1,132.88    0.878       0.961        847.15       404.88   1,252.03
+        2003            271.67      166.25   437.92    0.943       0.98         288.09       169.64    457.73
+        2004            487.66      127.38   615.04       1          1          487.66       127.38    615.04
+  to be Disbursed       256.93      243.08   500.01                             256.93       243.08    500.01
+        Total         2,802.07    1,372.86 4,174.93                            3,018.63    1,415.71   4,434.34
+
+Economic Internal rate of Return:       Appraisal ­ 12%; ICR ­ 10% and 14.5% (see ICR para. 4.3)
+
+
+
+
+                                                 - 18 -
+
+                                                                        Annex 3, Attachment 1
+
+               Economic Internal Rate of Return: Distribution Automation
+                   (All figures in Million Baht unless otherwise stated)
+
+              Benefits Stream                          Costs Stream
+Year   Benefit    Reduction    Total     Project  Additional    O&M      Total      Net
+     for reduced  in O&M     Benefits Investment Investment      Cost    Costs    Benefits
+       Outage        Cost
+1997                                           4.6                           4.6        -4.6
+1998                                         235.8                         235.8     -235.8
+1999                                0.0      166.8                         166.8     -166.8
+2000                                0.0      386.0                         386.0     -386.0
+2001                                0.0      686.5                         686.5     -686.5
+2002                                0.0     1112.2                  22.2  1134.4    -1,134.4
+2003                                0.0      422.6                  38.9   461.5     -461.5
+2004         354.8       36.0     390.8      588.7                  45.2   633.9     -243.1
+2005         582.3       99.0     681.3      500.0       53.0       54.0   607.0        74.3
+2006         633.3       99.0     732.3                  53.0       61.5   114.5       617.8
+2007         687.0       99.0     786.1                  53.0       61.5   114.5       671.5
+2008         740.8       99.0     839.9                  53.0       61.5   114.5       725.4
+2009         797.5       99.0     896.6                  53.0       61.5   114.5       782.0
+2010         858.9       99.0     957.9                  53.0       61.5   114.5       843.4
+2011         922.5       99.0   1,021.5                  53.0       61.5   114.5       907.0
+2012         987.8       99.0   1,086.9                  53.0       61.5   114.5       972.4
+2013       1,056.8       99.0   1,155.9                  53.0       61.5   114.5    1,041.3
+2014       1,128.5       99.0   1,227.5                  53.0       61.5   114.5    1,113.0
+2015       1,204.4       99.0   1,303.4                  53.0       61.5   114.5    1,188.9
+2016       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+2017       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+2018       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+2019       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+2020       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+2021       1,284.0       99.0   1,383.0                  53.0       61.5   114.5    1,268.5
+
+
+                               For unserved energy value of 53B/kwh      EIRR = 10.0%
+
+                               For unserved energy value of 76.9B/kwh    EIRR = 14.5%
+
+
+
+
+                                           - 19 -
+
+B. Upgrading Distribution in South Thailand
+
+The economic analysis of the Project component is done on the same basis as at appraisal. The following
+assumptions have been made:
+
+                                                           Appraisal                 ICR
+
+Base Year for constant prices                              1995                      2004
+Cost Streams ­ Capital Investments
+(excluding duties, taxes and IDC) Project                  1996-1998                 1996-2004
+Alternative
+    Distribution                                           1997-2013                 1999-2016
+    Substations                                            2007-2013                 2007-2016
+Incremental Operation and Maintenance Costs
+(as % of incremental capital costs)                        1.5%                      1.5%
+Cost of Energy (LRMC)                                      B 1.45/kWh                B 2.07/kWh*
+
+Benefit (average revenue from incremental sales
+allowing for a system loss of 5.5%)
+Revenue                                                    B1.83/kWh                 B2.57/kWh
+
+* from Draft Final Report, PriceWaterhouse Coopers, January 2005
+
+Capital Investments in Project (In million Baht) including taxes (deducted in EIRR computation)
+
+
+                     Current Prices          CPI       CPI            Constant Prices
+    Year
+             Foreign     Local     Total   (Foreign)  (Local)  Foreign    Local      Total
+
+    1996             -   250.000   250.000  1.049      0.844          -  296.209      296.209
+    1997             -   326.826   326.826  0.976      0.879          -  371.816      371.816
+    1998       554.935   187.686   742.621  0.939      0.960    590.985  195.506      786.491
+    1999       536.780   725.960 1,262.740  0.936      0.921    573.483  788.230    1,361.713
+    2000       496.712 1,007.355 1,504.067  0.916      0.934    542.262 1,078.539   1,620.801
+    2001       458.397    59.173   517.570  0.889      0.954    515.632    62.026     577.658
+    2002       128.258   440.000   568.258  0.878      0.961    146.080   457.856     603.936
+    2003       106.054          -  106.054  0.943      0.980    112.464         -     112.464
+    2004        11.645          -   11.645  1.000      1.000     11.645         -      11.645
+    to be
+  Disbursed     21.119          -   21.119                      256.933  243.081      500.014
+
+    Total    2,313.900 2,997.000 5,310.900                    2,749.484 3,493.263   6,242.747
+
+
+
+
+                                                    - 20 -
+
+Electricity Sale Prices (B/kWh)
+
+   Year        Sale Price incl.VAT CPI (Local)       Sale Price
+
+                 (Current Prices)                  (Constant Prices)
+   1997               2.0023                           2.278
+                                        0.879
+   1998               2.2957                           2.3913
+                                        0.96
+   1999               2.2009                           2.3897
+                                        0.921
+   2000               2.3048                           2.4677
+                                        0.934
+   2001               2.5504                           2.6734
+                                        0.954
+   2002               2.5739                           2.6784
+                                        0.961
+   2003               2.5944                           2.6473
+                                        0.98
+   2004               2.7345              1            2.7345
+
+
+
+
+EIRR
+Base Case                          11.7%                     14.6%
+WTP*=1.05x Average Tariff          16.0%                     20%
+WTP=1.10x Average Tariff           20.0%                     24%
+Capital cost +10%                  >10.0%                    13%
+Demand-10%                         >10.0%                    13%
+
+* WTP = Willingness to Pay
+
+
+
+
+                                           - 21 -
+
+                                                                             Annex 3, Attachment 2
+
+                             Economic Internal Rate of Return
+                           Distribution Upgrading South Thailand
+
+Fiscal       Energy                  Capital   Investment
+Year                         Benefit  Project   Additional   Invst. O/M Cost   Total    Net Bnft.
+       Bought  Cost   Sales  Revenue              Lines       S/S              Cost
+        Gwh    MB     Gwh      MB       MB         MB         MB      MB       MB        MB
+  1996                                   296.2                                    296.2     (296.2)
+  1997                                   371.8                                    371.8     (371.8)
+ 1998     153     303    144      356    783.5                            4.4   1,091.3     (735.3)
+ 1999     163     310    154      364   1245.4         6.6               10.1   1,565.5  (1,209.5)
+ 2000     860   1,663    813     1951   1530.1                           21.8   1,862.2  (1,498.1)
+ 2001   1,519   3,001  1436      3520    577.7                           44.1   2,284.4     (333.7)
+ 2002   2,147   4,270  2029      5010    603.9                           69.6   3,674.1     (153.7)
+ 2003   2,964   6,013  2801      7054    112.5                           77.7   4,460.5     549.7
+ 2004   3,632   7,518  3432      8820     11.6       882.9               99.8   7,007.0       47.4
+ 2005   4,043   8,369  3821      9819    500.0       271.1              105.5   8,394.4     425.9
+ 2006   4,403   9,115  4161     10694                462.9     25.0      113    8,970.3     849.2
+ 2007   4,728   9,787  4468     11482                420.1     87.7      121    9,743.8     950.5
+ 2008   4,887  10,115  4618     11868                205.3    125.2     125.9  10,243.0   1,239.2
+ 2009   5,225  10,816  4938     12690                438.3   125.2      134.4  10,813.4   1,054.7
+ 2010   5,494  11,372  5192     13343                349.6   150.3      141.9  11,457.7   1,232.2
+ 2011   5,909  12,231  5584     14350                531.2   162.8      152.3  12,218.5   1,124.1
+ 2012   6,187  12,808  5847     15027                372.3   125.2      159.7  12,888.2   1,462.0
+ 2013   6,448  13,348  6094     15661                343.0   125.2      166.8  13,442.8   1,584.1
+ 2014   6,663  13,792  6296     16182                296.1   100.2      172.7  13,917.1   1,743.7
+ 2015   6,871  14,223  6493     16687                277.2     87.7     178.2  14,335.1   1,846.5
+ 2016   7,086  14,667  6696     17208                268.0   100.2      183.7  14,774.8   1,912.4
+ 2017   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2018   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2019   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2020   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2021   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2022   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2023   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2024   7,086  14,667  6696     17208                                   183.7  14,850.8   2,357.5
+ 2025   7,086  14,667  6696     17208   (332.6)    (2,550.0) (503.6)   133.7   11,414.6   5,793.7
+
+
+                                                                          EIRR =       14.6%
+
+
+
+
+                                             - 22 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                No. of Persons and Specialty            Performance Rating
+                                     (e.g. 2 Economists, 1 FMS, etc.)    Implementation Development
+                   Month/Year  Count           Specialty                   Progress       Objective
+
+ Identification/Preparation
+              January 1995              1    Power Engineer
+                                        1    Financial Analyst
+
+ Appraisal/Negotiation
+              February 1996             1    Power Engineer
+                                        1    Financial Analyst
+                                        1    Restructuring Specialist
+                                        1    Economist
+                                        1    Resettlement Specialist
+                                        1    Counsel
+
+ Supervision
+              February 1997             1    Power Engineer                   S               S
+                                        1    Financial Analyst
+                                        1    Restructuring Specialist
+                                        1    Consultant (Power)
+              April 1998                1    Power Engineer                   S               U
+                                        1    Financial Analyst
+                                        1    Restructuring Specialist
+              February 1999             1    Power Engineer                   S               S
+                                        1    Consultant (Power)
+                                        1    Financial Analyst
+                                        1    Restructuring Specialist
+              December 1999             1    Power Engineer                   S               S
+                                        1    Consultant (Power)
+                                        2    Financial Analyst
+                                        1    Restructuring Specialist
+              November 2000             1    Power Engineer                   S               S
+                                        1    Financial Analyst
+                                        1    Consultant (Power)
+              May 2001                  1    Power Engineer                   S               S
+                                        1    Financial Analyst
+                                        1    Program Assistant
+              June 2002                 1    Power Engineer                   S               S
+                                        1    Financial Analyst
+              November 2002             1    Power Engineer                   S               S
+                                        1    Program Assistant
+                                        1    Financial Analyst
+              June 2003                 1    Power Engineer                   S               S
+              December 2003             1    Power Engineer
+              May 2004                  1    Power Engineer                   S               S
+
+              November 2004             1    Power Engineer                   S               S
+
+
+
+                                              - 23 -
+
+                                       1    Financial Analyst
+                                       1    Program Assistant
+
+ ICR
+               January 2005           1     Power Engineer                    S    S
+                                      1     Program Assistant
+
+
+
+(b) Staff:
+
+       Stage of Project Cycle                Actual/Latest Estimate
+                                 No. Staff weeks                 US$ ('000)
+  Identification/Preparation            16.6                           62.1
+  Appraisal/Negotiation                   5.2                          34.0
+  Supervision                           29.5                         252.2
+  ICR                                     1.7                          43.3
+  Total                                 53.0                         391.6
+
+
+
+
+                                            - 24 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 25 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 26 -
+
+Annex 7. List of Supporting Documents
+
+   1.    Engineering Business Unit Study - Chulalangkorn University (Intellectual Property Institute)
+
+    2.   A Study to setup the Construction and Maintenance Business Unit
+
+    3.   A Study on Accounting Systems Development - Chulalangkorn University
+
+    4.   The Study on Restructuring of PEA's Core Business (to un-bundle core and non-core activities
+         and services) ­ Accenture LLP
+
+    5.   The Human Resources System Development Study
+
+    6.   Listing PEA on the Stock Market - Siam Commercial Bank (Merryl Lynch, J. P. Morgan and
+         H. Williams).
+
+     7.  Rationalization of Bulk Supply Tariff to MEA and PEA, Coopers & Lybrand (NEPO), (June
+         1996).
+
+    8.   Project Implementation Plan, Provincial Electricity Authority (October 1996).
+
+     9.  Thailand Power Pool and Electricity Supply Industry Reform Study - Phase 1, Consortium of
+         Arthur Andersen; National Economic Research Associates; Barker, Dunn & Rossi; Cameron
+         McKenna; Presko Shandwick, commissioned by NEPO
+
+   10.   Project Files
+
+   11.   Economic Analysis Spread Sheets
+
+   12.   Loading of Substations Report
+
+
+
+
+                                              - 27 -
+
+Additional Annex 8. Aide Memoire
+
+
+
+
+                                    - 28 -
+
+- 29 -
+
+- 30 -
+
+Additional Annex 9. Borrower's Own Evaluation Report
+
+
+
+
+                                       - 31 -
+
+- 32 -
+
+- 33 -
+
+- 34 -
+
+- 35 -
+
+- 36 -
+
+- 37 -
+
+- 38 -
+
+Additional Annex 10. Restructuring of the Electricity Supply Industry (ESI) Corporation
+of PEA
+
+Chronological sequence of events in restructuring of the ESI and corporatization of PEA:
+
+1997-1998
+
+·  January 1997 - PEA Board approves the new organization structure for FY 97.
+·  March 1997­ Ministry of Finance (MoF) approves Senior Management positions.
+·  PEA initiates the necessary accounting studies to develop cost accounting procedures and cost
+   recording systems to facilitate cost separation.
+·  Application made for classification of PEA as a good state enterprise (GSE) - a status necessary to
+   empower PEA's management for successful transformation to the new organizational structure and
+   enhancing operational efficiency.
+·  April 1997 ­ A New Cabinet Resolution forces PEA to change its restructuring process. PEA submits
+   an entirely new plan to the Ministry of Interior, comprising:
+
+   o Phase 1 (1996-1998) - Formation of regional distribution units as cost centers with transparent
+       cost allocation. Units are to be granted greater operational autonomy and headed by Deputy
+       Governors. Certain headquarters functions are to be decentralized to the regions. PEA to achieve
+       GSE status.
+   o Phase 2 (1998-1999) - Transformation of the regional distribution cost centers to utility profit
+       centers.    Non-core functions to be separated and transactions with the regional utility profit
+       centers to be on full cost transfer prices.
+   o Phase 3 (2000) - Regional utility profit centers to be formed as separate corporate subsidiaries
+       under a PEA holding company, which will provide limited central services and policy guidance to
+       the utility subsidiaries.
+
+       Observations: The four PEA regional units are no longer envisaged for formation initially as
+       profit centers and subsequently as subsidiary companies. Instead only the service function of
+       billing and collection will be formed as regional subsidiary companies, with distribution
+       operations retained within PEA. In essence the core wires business in the four regions will be
+       retained within PEA with no clear indication of progress towards a decentralized corporate
+       structure.
+
+1998-1999
+
+·  Severe financial constraints prevent PEA achieving GSE status.
+·  September 1998 - Government approves a new Master Plan for State Enterprise Reform (which
+   includes privatization of the electricity utilities), prepared at the behest of the IMF. The Plan
+   essentially maintains the structural changes proposed earlier, and lays down the following key target
+   dates:
+
+   o End-1999                -   PEA to prepare a new Action Plan proposing an organizational structure
+       and implementation plan.
+   o December 2000           -   Non-core activities established as business units.
+   o December 2001           -   PEA reorganized into regional distribution units. Distribution and supply
+       established as cost centers.
+
+
+
+                                                   - 39 -
+
+   o Mid-2004               -   PEA regional distribution units corporatized.
+   o From Dec 2004          -   PEA distribution companies and non-core subsidiaries privatized.
+
+1999 ­ 2000
+
+·  NEPO's Power Pool Study leads to radical rethinking on ESI restructuring. Intensive discussions
+   follow between PEA and NEPO on the future shape of PEA. PEA proposes the following strategy:
+
+   o PEA would by end-2003 be restructured to form 12 separate low-voltage (i.e. below 22kV)
+       regulated distribution companies, with the 22kV and above network remaining within a
+       state-owned PEA as four separate business units.
+   o After 2003, the corporatization of the 12 regulated distribution companies as corporatized
+       companies would be pursued.
+
+   Observations: Not only is the fundamental restructuring of PEA been delayed further by the Power
+   Pool Study, the expected restructuring does not lead to the creation of multiple separate regional
+   distribution companies as agreed with the Bank in 1996, although the corporatization of low voltage
+   distribution into multiple entities is definitely a positive development.
+
+2000 -2001
+
+·  Significant Progress in ESI restructuring following NEPO's Power Pool Study:
+
+   o Electricity Supply Industry (ESI): Progress in ESI restructuring: (a) the legal framework and
+       implementation of the ESI as embodied in the Energy Act is drafted and approved by the Cabinet
+       in October 2000; (b) the Cabinet also approves in October 2000, the market structure of the ESI
+       proposed by NEPO; (c) NEPO sets up working groups to draft Secondary Legislation; and (d) the
+       tariff structure is completely changed, incorporating several reform objectives, including the
+       consideration of efficiency gains in the bulk supply tariff and the transparent calculation of cross
+       subsidies between the distribution utilities.
+   o Distribution: Distribution will be restructured as: (a) access to the wires and tariff levels will be
+       subject to regulation; (b) all but a few large consumers would purchase electricity from the
+       Distribution Companies (DisCos) of regulated regional monopolies or Regulated Electricity
+       Delivery Companies (REDCOs), and pay for this electricity either through the REDCOs, Supply
+       Companies (SupplyCOs) or Competitive Retailers (RetailCos); and (c) the retail supply function
+       would be provided by DisCos/SupplyCos or by independent supply companies/RetailCos.
+   o PEA's Restructuring. While agreeing with NEPO's restructuring proposals which called for
+       disaggregating PEA into smaller units, PEA proposes that a transitional structure be allowed with
+       the following features and timing: By FY00-02: (a) PEA would remain a state enterprise; (b) the
+       wires activities (22kV and above) to be reorganized into 4 Network Business Units of PEA; (c) the
+       existing 12 areas to be reorganized into 12 REDCOs within PEA which will operate the retail
+       business including metering, billing and supply function of buying power from the pool and selling
+       to consumers within their areas; and (d) the non-core business to be organized as autonomous BUs
+       (NSBs or non-core NSBs). By FY03-onwards: (a) REDCOs and NSBs to be corporatized and
+       possibly privatized; and (b) if performance, efficiency and reliability standards are not met,
+       corporatize the 4 Network BUs.
+   o PEA establishes Steering Committees on unbundling non-core activities and services, including
+       development of new accounting systems. In Oct 2000, PEA's Board approves the transformation of
+
+
+
+                                                     - 40 -
+
+       the Construction and Maintenance Unit as a (BU). The study to convert the Business Engineering
+       Unit into an autonomous BU is commenced.
+
+2001-2002
+
+·  The new Government starts reviewing the previous Government's Power Sector policy. It announces an
+   Agenda on Privatization, which proposes bringing profit-oriented state enterprises under a National
+   Holding Company, which would oversee the privatization process. It is subsequently agreed to proceed
+   with the preparation of a Plan for listing 16 SOEs on the SET, from 2001 to 2003 including EGAT in
+   the 3rd Quarter of 2003 and of MEA and PEA in the 4th Quarter of 2003.
+·  PEA's reorganized structure is not materially affected by ESI restructuring - PEA's 12 electric
+   administration areas are grouped into 4 regions (for North, Northeast, Central and Southern), each
+   headed by a Deputy Governor.         Six deputy governors for Planning and System Development,
+   Organization Development, Corporate Services, Economics and Finance, Construction and
+   Maintenance, and Business Engineering comprise PEA's non-core activities
+·   PEA's next steps to further the restructuring process and the detailed action plan for the activities in
+   each of the transitional years are approved by NEPO in March 2001. PEA retains consultant to advise
+   it on the details of the planned activities to FY03, including performance targets, unbundling costs,
+   management development and performance improvement, HR and IT strategies and issues, commercial
+   and financial management systems development, etc.
+·  PEA commissions the following 6 studies. One - An Engineering Business Unit Study (to convert the
+   Engineering Business Departments into Business Units) by the Chulalangkorn University (Intellectual
+   Property Institute). Two - A study to setup the Construction and Maintenance Business Unit. Three -
+   A study on Accounting Systems Development by the Chulalangkorn University. Four - The study on
+   Restructuring of PEA's Core Business (to un-bundle core and non-core activities and services). Five -
+   The Human Resources System Development Study. Six ­ Appointment of advisors for listing PEA on
+   the Stock Market.
+·  Earlier models formulated for the future structure of PEA are reviewed by consultants undertaking
+   Study 4 and a new model is recommended ­ the Hybrid Model, which involves the separation of PEA
+   into five separate areas or operating units (OUs) ­ Network Operations (4 Regional units) covering all
+   network distribution related functions; Regulated Retail (4 Regional units) responsible for supplying
+   electricity to all customers as provider of the last resort; Competitive Retail and Market Development
+   responsible for supplying electricity on a competitive basis; Ventures covering existing and future
+   non-core businesses; and Support Services covering services such as finance, legal, IT and HR. This
+   model is expected to operate in the short to medium term and facilitate transition to any subsequent
+   structure that requires further appropriate separations, e.g. between networks and retail and regulated
+   and competitive retail. Network Operations and Regulated Retail would operate in a regulated
+   environment while Competitive Retail would operate in a competitive environment. The model would
+   facilitate management of a uniform national tariff as long as the Government so wishes, maximize
+   enterprise value due to a clear demarcation between subsidized and non-subsidized operations and
+   introduce competition by enabling competitive retailers. The basic structure of the model is approved
+   by NEPO.
+·  MoF agrees to extend PEA listing date to 2004, to enhance enterprise value.
+
+
+
+
+                                                   - 41 -
+
+2002-2003
+
+·  Significant events in this period comprise:
+
+   o Ministry of Energy:        A new Ministry of Energy (MOE) is established on October 1, 2002,
+      comprising ­ Office of the Minister, Office of the Permanent Secretary, Department of Petroleum
+      Resources, Department of Energy Business, Department of Renewable Energy and Energy
+      Conservation and (EPPO).
+   o Energy Act and ESI Reforms: The Energy Act (approved in FY00 by the previous Parliament) was
+      crafted on the basis of a NEPO-proposed ESI model that envisaged introduction of a fully
+      competitive market structure operating as a power pool by FY04. The three power utilities,
+      particularly EGAT, had serious concerns about this model in regard to: (a) unfettered competition
+      and prevention of market abuse; (b) price stability; (c) system security and sufficiency of supply;
+      (d) impact on rural electrification; (e) subsidization of low-income users and the future of uniform
+      national tariffs; and (f) compliance and coordination with the Government's Privatization Plan and
+      timetable. EGAT's reservations about the model were exacerbated by the California power trading
+      crisis, the collapse of Enron and the lessons learned from UK experience with power pools. In
+      August 2002, at the behest of EGAT, the Government agreed to review the ESI reforms and
+      instructed the Council of State to hold clearance of the Energy Act.
+   o New ESI Reforms : Following unanimous decision by EGAT, MEA, PEA and the Government to
+      move away from the "power pool" model, the MOE instructed concerned parties to finalize by
+      November 2002 a new model to replace the power pool.
+   o The NESA Model: A New Electricity Supply Arrangements (NESA) model was propounded by
+      EPPO, which while doing away with the power pool, maintains wholesale and retail competition. It
+      proposed: (a) splitting up of EGAT into PowerGen. 1, PowerGen. 2 and PowerGen. 3; (b)
+      creation of an Independent System Operator (ISO); (c) creation of a Transmission Company
+      (GridCo); (d) creation of an Independent Regulator; and (e) separation of "network" and "retail"
+      functions within MEA and PEA. The model allows for the functioning of private retail companies.
+      Trading would be permitted through bilateral contracts between any one of the - PowerGens,
+      Independent Power Producers, Small Power Producers and new GenCos - on the one hand and any
+      one of the retailers - DisCos (MEA and PEA) and direct customers - on the other. This model was
+      acceptable to MEA and PEA, with the proviso that separation of "network" and "retail" functions
+      would only be through a separation of accounting systems and not through creation of separate
+      legal entities (the latter according to MEA and PEA would be impractical in the near term apart
+      from entailing increased expenses). The model was not acceptable to EGAT. Its key concerns
+      were: (a) the separation of generation into smaller entities could make the Thai generation industry
+      vulnerable to increased foreign ownership (via cross holdings and mergers and acquisitions -
+      similar to the UK privatization experience) a conflicting goal of the Thailand privatization plan; (b)
+      because the Thai power sector is small in comparison with other global competitive power markets,
+      economies of scale could not be achieved; (c) Thailand would not be able to play a lead role in the
+      ASEAN grid if EGAT is marginalized; and (d) difficulty in meeting the Government's privatization
+      schedule if EGAT has to be split up prior to its listing on the SET. A common concern of the three
+      utilities is the functioning of competitive markets in a regime where uniform national tariffs are
+      mandated by Government policy, which would necessitate introduction of a cumbersome
+      subsidizing mechanism.
+   o EGAT Partial Liberalization Model: With the stated objectives of ensuring security and sufficiency
+      of supply and assuming an active role in spearheading ASEAN grid integration, EGAT proposed a
+      model which called for a partial and gradual liberalization of the ESI. Under the model: (a) up to
+
+
+
+                                                   - 42 -
+
+       30% of total demand could be allowed to operate in a "free market" under a Power Exchange.
+       Large industrial consumers could contract for supply either from EGAT or from GenCos with
+       existing PPA or from future GenCos or from MEA and PEA; (b) EGAT would maintain the
+       generation function, its present PPA with GenCos, and ability to contract power under new PPAs
+       for future GenCos; (c) EGAT would maintain the transmission and system control functions; (d)
+       MEA and PEA could buy power only from EGAT; and (e) residential, commercial and small
+       industrial consumers would purchase power from MEA and PEA. MEA and PEA strongly
+       opposed EGAT's model on the grounds that: (a) they could potentially lose 30% (demand-wise) of
+       their large customers; (b) EGAT would be a dominant player in the ESI, with the clout to
+       potentially capture a large proportion of the supply market; (c) the wholesale market would not
+       function well as the wholesale price of power would be determined by the dominant entity, EGAT
+       (the large industrial consumers would have little incentive to buy directly from GenCos); (d)
+       majority of the consumers will not have choice of cheaper suppliers; (e) the parallel market, thus
+       created, would result in a competitive price enjoyed by large customers at the expense of the 70%
+       of consumers who buy directly from the MEA and PEA.; and (f) the issues of a clear subsidized
+       mechanism for social responsibilities and the national uniform tariffs would still be unresolved.
+   o Current Impasse: To resolve the impasse between EGAT on one hand and MEA, PEA and EPPO
+       on the other, the Government called for a wider debate on the subject.
+   o Privatization Program: Notwithstanding the current impasse in finalization of the ESI model,
+       Government's program for listing of EGAT, MEA and PEA on the SET was maintained - listing:
+       EGAT (2004 Q1); PEA (2004 ­ Q3) and MEA (2004 ­ Q2).
+
+·  PEA proceeds with its corporatization and privatization plans in line with the NESA model which calls
+   for clear separation among DisCos, SupplyCos and Non-core businesses. PEA's current restructuring
+   plan calls for the reorganization of PEA in 3 stages, with the final phase to be the development of a
+   hybrid model, involving the separation of its operating units into five categories: (a) Regional Network
+   Operations, covering all network distribution related functions; (b) Regional Regulated Retail covering
+   the supply of electricity to all customers; (c) Competitive Retail and Market Development, covering the
+   supply of electricity on competitive basis; (d) Ventures, covering existing and future non-core business;
+   and (e) Support Services, covering support and administrative functions. The separation of Network
+   Operations from Regulated Retail Operations would only be on an accounting basis and not on the
+   basis of creating separate legal entities. NESA agreed to this as a first step, with potential legal
+   separation later.
+
+2003-2004
+
+·  Consensus not yet reached on the final model for restructuring of the ESI. PEA, however, proceeds
+   with its corporatization and privatization plan which calls for the reorganization of PEA, involving the
+   separation of its operating units into four categories: (a) Regional Network and Regulated Retail
+   Operations, covering all network distribution related functions; and the supply of electricity to all
+   customers; (b) Competitive Retail and Market Development, covering the supply of electricity on
+   competitive basis; (c) Ventures, covering existing and future non-core business; and (d) Support
+   Services, covering support and administrative functions. The separation of Network Operations from
+   Regulated Retail Operations would only be on an accounting basis and not on the basis of creating
+   separate legal entities. Potential legal separation could follow at a later date.
+·  Consensus reached in the NEPo Committee meeting on November 26, 2003 on the final model for the.
+   This model is termed the Enhanced Single Buyer Model (ESB), whose key features would be:
+
+
+
+
+                                                     - 43 -
+
+ o Account Unbundling between Generation and Transmission and between Distribution and Retail
+ o EGAT listed as a whole on the SET, with Government retaining control. Capacity additions
+     through competitive bidding overseen by the Regulator.
+ o Creation of a Ring-Fenced System Operator within the Transmission Business Unit of EGAT
+ o Creation of a strong and effective Regulator to: (a) oversee generation bidding process; (b)
+     coordinate long-term system planning; (c) approve PDP,      Grid Code and tariff mechanisms; and
+     (d) issue licenses and enforce industry regulations.
+ o Clearer Commercial Boundaries between utilities (EGAT, MEA and PEA) with no direct
+     customers for EGAT.
+ o Promotion of SPPs and Captive Power
+ o Listing of MEA and PEA on the SET, as a whole.
+
+· PEA proceeds with its corporatization and privatization plan which calls for the reorganization of PEA.
+
+· Opposition by the Unions: Stiff opposition by the EGAT union (later reinforced by the MEA and PEA
+  unions) to Government's proposals to corporatize and subsequently list EGAT, MEA and PEA on the
+  SET, stalls the process.
+· Notwithstanding the above, PEA's internal processing towards corporatization and privatization is still
+  on course and it continues to follow reorganization.
+· Government orders another study on corporatization and privatization. In parallel, it starts revising the
+  Corporatization Act.
+
+  Observation Considering the current uncertain situation, PEA corporatization can at best be
+  expected towards the end of 2005 and possible privatization later.
+
+
+
+
+                                                 - 44 -
+
+                                                                                                                                                                                                                           C H I N A
+                                                                                                                                             0          50         100       150       200 KILOMETERS                                 VIET
+                                                                                                                                                                                                             MYANMAR                 NAM
+                                                                                                                                                                                                                               LAO
+                 M YA N M A R                                                                                                                0                  50             100             150 MILES
+                                                                                                                                                                                                                              P.D.R.
+                                                                                                 Chiang Rai
+
+                                                                                                                                                                                                                          THAILAND
+
+                                                                                                                                                                                                                        Bangkok
+
+                                Mae Hong Son                                                                                                                     LAO PEOPLE'S                                                       CAMBODIA
+
+                                                                                                     Phayao                                                       DEMOCRATIC                                                  Gulf
+                                                                                                                                                                                                             ANDAMAN           of
+                                                           AREA N.1                                                                                                                                             SEA         Thailand
+                                                                                                                                                                      REPUBLIC
+                                                              Chiang Mai                                                   Nan                                                                                                       Area   S O U T H
+                                                                                                                                                                                                                                    of map  C H I N A
+                                                                                                                                                                                                                                              S E A
+                                                                Lamphun
+                                                                                                                                                        River                                                                 MALAYSIA
+                                                      River
+
+                                                  Ping                            Lampang
+                                                                                                                         River                    Mekong
+                                                                                                           Phrae
+                                                                           River                                      Nan
+           18°                                                          ang                                                                                                                                                                         18°
+                                                                      W
+                                                                      N O R T H                                                                                                  Nong Khai
+
+                                                                                                         Uttaradit                                 River
+                                                                   R E G I O N                                                                              Loei
+                                                                                                                                              Huang                               Udon Thani                Nakhon Phanom
+
+                                                                                             Yom                                           Nam                                   AREA NE.1      Sakon Nakhon
+                                                                                                River
+                                                                             Sukhothai
+                                                             Tak
+                                                                                                              Phitsanulok
+                                                                                AREA N.2
+                                                                                Chao                                                                                     N O R T H E A S T                      Mukdahan       Mekong
+                                                      Kamphaeng Phet
+                                                                                    Phyla                      Phichit                 River
+                                                                                                                                                                        Khon Kaen                Kalasin
+                                                                                                                                    Sak                                                                                              River
+                                                                                         River                      Phetchabun    Pa
+                                                                                                                                                                                             Maha Sarakham
+                                                                                                                                                                                                    Roi Et
+                                                                                                                                                                                                              AREA NE.2
+                                                                                                                                                    Chaiyaphum                 R E G I O N                      Yasothon
+                                                                                                          Nakhon Sawan                                                                                         Nam
+                                                                                                                                                                                         Suwannaphum
+                                                                                                                                                                                                                  Chi
+                                                                                                         AREA N.3                                                                                                    River
+                                                                                 Uthai Thani                                                                                                                                          Ubon
+                                                                                                                                                                                 River                                            Ratchathani
+                                                                                                          Chai Nat                                                           Mun                          Si Sa Ket
+                                                                                                                                                                         Nam
+                                                                                                                                              Nakhon Ratchasima                          Buri Ram
+                                                                                                      Sing Buri
+                                                                                                                      Lop Buri                                         AREA NE.3                 Surin
+
+                                                Quei
+
+                                                      Noi                                             Ang Thong
+                                                               Quei                                                           Saraburi
+                                                         River                     Suphan Buri
+                                                                   Yai      AREA C.3                                Ayutthaya
+                                                                      River
+                                                                                                                                              Nakhon Nayok
+                                                                                C E N T R A L
+                                                                                                                                                 Prachin Buri
+           14°                                                                                       Pathum Thani   R E G I O N
+                                                           Kanchanaburi                               Nonthaburi                                              AREA C.1
+                                                                             Nakhon Pathom                            BANGKOK
+
+                                                                           Ratchaburi                    Thon Buri               Chachoengsao
+                                                                                                                      Samut
+                                M YA N M A R                                                                  Samut   Prakan    Chon Buri
+                                                                     Samut Songkhram                         Sakhon
+
+
+                                                                                                      Phetchaburi                             AREA C.2
+
+            ANDAMAN
+                                                                                                                                               Rayong
+
+                                                                                                                                                                    Chanta Buri
+                    SEA
+                                                                                                                                                                            Trat                      C A M B O D I A
+
+
+
+                                                                                           Prachuap Khiri Khan
+
+                                                                                                                               Gulf
+
+                                                                                                                                 of
+
+                                                              AREA S.1                                                    Thailand
+
+
+                                                                   Chumphon
+
+
+
+
+           10°                                   Ranong                                                                                                                                                                                             10°
+
+
+
+
+                                                                                                                                                                         T H A I L A N D
+
+                                                                          Surat Thani                                     DISTRIBUTION AUTOMATION AND
+                                                      S O U T H                                                        RELIABILITY IMPROVEMENT PROJECT
+                                                      AREA S.2
+                               Phangnga                                                                Nakhon Si
+                                                                                                      Thammarat                                                                       PROJECT COMPONENTS:
+
+                                                                                                                                                                                       DISTRIBUTION DISPATCH CENTERS (DCC)
+                                                    R E G I O N                                                                                                                        SYSTEM MANAGEMENT CENTER (SMC)
+
+                                                           Krabi                                                                                                                       PROJECT AREA (DISTRIBUTION - SOUTH THAILAND)
+
+                                         Phuket
+                                                                                                         Phattalung                                                                   MEA SERVICE AREA
+                                                                                    Trang                                                                                             RIVERS
+
+                                                                                                                      Songkhla                                                        PROVINCE HEADQUARTERS
+
+                                                                                                                                                                                      NATIONAL CAPITAL
+
+                                                                                                                                                Pattani                               PROVINCE BOUNDARIES
+
+                                                                                                                   AREA S.3                                                           AREA BOUNDARIES
+                                                                                           Satun                                                Yala                                  REGION BOUNDARIES
+                                                                                                                                                               Narathiwat
+                                                                                                                                                                                      INTERNATIONAL BOUNDARIES
+
+           The boundaries, colors, denominations
+           and any other information shown on                                                                                                                                                                                                           IBRD
+APRIL      this map do not imply, on the part of
+           The World Bank Group, any judgment                                                           MALAYSIA
+           on the legal status of any territory, or                                                                                                                                                                                                         27818
+     1996  any endorsement or acceptance of
+           such boundaries.                                                                 100°                                                                                                      104°
+

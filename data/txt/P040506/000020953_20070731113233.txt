@@ -1,0 +1,2215 @@
+                      Document of
+                   The World Bank
+
+
+
+                                              Report No: ICR0000354
+
+
+
+
+ IMPLEMENTATION COMPLETION AND RESULTS REPORT
+                    (MULT-26092)
+
+
+
+
+                         ON A
+
+                TRUST FUND CREDIT
+
+         IN THE AMOUNT OF US$15.0 MILLION
+
+                        TO THE
+
+                WEST BANK & GAZA
+
+                        FOR AN
+
+ELECTRIC SECTOR INVESTMENT & MANAGEMENT PROJECT
+
+
+
+
+                     June 27, 2007
+
+
+
+                Sustainable Development
+           Middle East and North Africa Region
+
+                             CURRENCY EQUIVALENTS
+                           (Exchange Rate Effective 05/31/2006 )
+                                 Currency Unit = NIS
+                                     NIS 1.00 = US$ 0.22
+                                     US$ 1.00 = NIS 4.52
+
+
+                                        Fiscal Year
+                                  January 1 to December 31
+
+
+
+
+                        ABBREVIATIONS AND ACRONYMS
+
+EIB     European Investment Bank
+EIRR    Economic Internal Rate of Return
+ESIMP   Electric Sector Investment and Management Project
+FRR     Financial Rate of Return
+GIS/NIS Geographic Information System / National Information System
+HEPCO Hebron Electric Power Company
+IEC     Israel Electric Corporation
+JDECO Jerusalem District Electricity Company Ltd.
+MIS     Management Information System
+NPV     Net Present Value
+PA      Palestinian Authority
+PEA     Palestinian Energy Authority
+PLC     Palestinian Legislative Council
+SCADA Supervisory Control and Data Acquisition
+SELCO Southern Electric Power Company
+SSDP Statement of Sector Development Policy
+
+
+
+
+                               Vice President: Daniela Gressani
+
+                             Country Director: A. David Craig
+
+                              Sector Manager: Jonathan D. Walters
+
+                         Project Team Leader: Somin Mukherji
+
+                               WEST BANK AND GAZA
+               Electric Sector Investment & Management Project
+
+
+
+
+                                            CONTENTS
+
+
+
+
+1. Project Context, Development Objectives and Design............................................... 1
+2. Key Factors Affecting Implementation and Outcomes .............................................. 4
+3. Assessment of Outcomes............................................................................................ 5
+4. Assessment of Risk to Development Outcome........................................................... 9
+5. Assessment of Bank and Borrower Performance ....................................................... 9
+6. Lessons Learned ....................................................................................................... 11
+7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners .......... 11
+Annex 1. Project Costs and Financing.......................................................................... 14
+Annex 2: Outputs by Component ................................................................................. 15
+Annex 3. Economic and Financial Analysis................................................................. 17
+Annex 4. Bank Lending and Implementation Support/Supervision Processes ............ 19
+Annex 5. Beneficiary Survey Results........................................................................... 21
+Annex 6. Stakeholder Workshop Report and Results................................................... 22
+Annex 7. Summary of Borrower's ICR and/or Comments on Draft ICR..................... 23
+Annex 8. Comments of Cofinanciers and Other Partners/Stakeholders....................... 31
+Annex 9. List of Supporting Documents ...................................................................... 33
+MAP
+
+A. Basic Information
+
+                                                                          GZ-ELEC.SEC.INV.&
+Country:                  WEST BANK& GAZA          Project Name:
+                                                                          MGMT
+Project ID:               P040506                  L/C/TF Number(s):      MULT-26092
+ICR Date:                 04/19/2007               ICR Type:              Core ICR
+                                                                          PLO/PALESTINIAN
+Lending Instrument:       SIL                      Borrower:
+                                                                          AUTHORITY
+Original Total
+                          USD 15.0M                Disbursed Amount:      USD 14.96M
+Commitment:
+Environmental Category: B
+Implementing Agencies:
+Southern Electric Company (SELCo)
+Hebron Electric Power Company (HEPCo)
+Jerusalem District Electricity Company (JDECo)
+Palestinian Energy Authority (PEA)
+Cofinanciers and Other External Partners:
+
+
+B. Key Dates
+
+      Process                Date              Process         Original Date     Revised / Actual
+                                                                                      Date(s)
+Concept Review:           12/12/1995     Effectiveness:          03/30/2000         03/30/2000
+Appraisal:                10/05/1997     Restructuring(s):
+Approval:                 08/31/1999     Mid-term Review:                           08/02/2003
+                                         Closing:                06/30/2004         12/31/2006
+
+
+C. Ratings Summary
+C.1 Performance Rating by ICR
+Outcomes:                                          Moderately Satisfactory
+Risk to Development Outcome:                       High
+Bank Performance:                                  Satisfactory
+Borrower Performance:                              Satisfactory
+
+
+C.2 Detailed Ratings of Bank and Borrower Performance (by ICR)
+          Bank                     Ratings                 Borrower                Ratings
+Quality at Entry:          Satisfactory            Government:             Satisfactory
+
+Quality of Supervision:    Satisfactory            Implementing
+                                                   Agency/Agencies:        Satisfactory
+
+Overall Bank                                       Overall Borrower
+Performance:               Satisfactory            Performance:            Satisfactory
+
+
+
+
+                                                  1
+
+C.3 Quality at Entry and Implementation Performance Indicators
+     Implementation                                  QAG Assessments (if
+        Performance                 Indicators                any)                      Rating
+
+Potential Problem Project                            Quality at Entry
+                              No                                              Not done
+at any time (Yes/No):                                (QEA):
+Problem Project at any time No                       Quality of Supervision
+                                                                             Satisfactory
+(Yes/No):                                            (QSA):
+DO rating before              Moderately
+Closing/Inactive status:      Satisfactory
+
+
+D. Sector and Theme Codes
+                                                                     Original               Actual
+Sector Code (as % of total Bank financing)
+Central government administration                                      10                    10
+Power                                                                  90                    90
+
+
+Theme Code (Primary/Secondary)
+Infrastructure services for private sector development                 Primary              Primary
+Pollution management and environmental health                        Secondary            Secondary
+Regulation and competition policy                                    Secondary            Secondary
+Rural services and infrastructure                                    Secondary            Secondary
+State enterprise/bank restructuring and privatization                  Primary              Primary
+
+
+E. Bank Staff
+         Positions                           At ICR                            At Approval
+Vice President:               Daniela Gressani                     Kemal Dervis
+Country Director:             A. David Craig                       Joseph P. Saba
+Sector Manager:               Jonathan D. Walters                  Jean-Claude Villiard
+Project Team Leader:          Somin Mukherji                       Rama L. Skelton
+ICR Team Leader:              Somin Mukherji
+ICR Primary Author:           Margaret Wilson
+
+F. Results Framework Analysis
+
+Project Development Objectives (from Project Appraisal Document)
+
+The development objective of the Electric Sector Investment and Management Project (ESIMP) as stated
+in the PAD was to benefit electricity consumers, predominantly households, through sustainable
+improvements in the quality of electricity supply. The objective was to be achieved through fundamental
+power sector institutional reforms (the policy components), implemented in parallel with reinforcement of
+the power system (the physical components). In particular, the project was to:
+
+
+
+                                                    2
+
+  (a) Initiate restructuring of the power sector in accordance with the Palestinian Authority's (PA's)
+Statement of Power Sector Development Policy. This included the corporatization and commercialization
+of two new entities: the Hebron Electric Power Company (HEPCo) and the Southern Electric Company
+(SELCo)--the latter taking over the electric utility operations of five small municipalities in the southern
+regions of the West Bank;
+  (b) Strengthen the Palestinian Energy Authority's (PEA's) capacity to put in place power sector reforms
+and sector environmental regulations, and to establish an overall institutional basis--building on
+international best practices--for the sustainable operation of the power sector and the safeguarding of
+consumer interests; and
+  (c) Reinforce the power system in the central and southern regions of the West Bank (areas A and B
+only), as the first step in the least-cost power system expansion plan aimed at the efficient and reliable
+provision of electricity.
+
+Revised Project Development Objectives (as approved by original approving authority)
+
+The PDOs were not revised.
+
+(a) PDO Indicator(s)
+
+
+                                                   Original Target      Formally Actual Value
+
+           Indicator             Baseline Value      Values (from        Revised    Achieved at
+                                                       approval          Target   Completion or
+                                                      documents)         Values    Target Years
+Indicator 1                     Improve system capacity to meet electricity demand
+                                Distribution    No suppressed
+                                capacity        demand by end of                  Distribution
+Value                                           project
+                                projected to be                                   capacity
+(quantitative or                                                          NA
+                                approximately                                     exceeded 1,400
+qualitative)
+                                600 GWh per                                       GWh
+                                year by 2006
+Date achieved                   11/01/1999      06/30/2004                        12/31/2005
+Comments
+(incl. % achievement)
+Indicator 2 :                   Appropriate legal and regulatory framework in place for the sector
+                                                                                  Draft law and
+                                                                                  regulatory
+                                                 Completion of                    procedures
+                                                 institutional studies            completed.
+                                                 that lead to the                 Law submitted
+Value
+                                                 passage of the new               to Legislative
+(quantitative or                                                                  Council but not
+                                                 electricity law, as
+qualitative)                                                                      yet adopted
+                                                 well as articles of              HEPCo and
+                                                 association for                  SELCo began
+                                                 SELCo and HEPCo                  commercial
+                                                                                  operations in
+                                                                                  2003
+Date achieved                   11/01/1999       06/30/2004                       12/31/2006
+
+
+                                                      3
+
+                            The new government elected in January 2006 returned the draft
+Comments
+                            law to the PEA with requests for clarification. To date, it has not
+(incl. % achievement)
+                            been adopted by the Legislative Council.
+                            Implementation of environmental policy guidelines and
+Indicator 3 :
+                            regulations.
+                                                                                 Draft
+                                                                                guidelines and
+                                              Environmental                     regulations
+Value
+                                              policy guidelines are             have been
+(quantitative or                  NA
+                                              followed on a regular             prepared and
+qualitative)
+                                              basis                             incorporated
+                                                                                into draft
+                                                                                Electricity Law
+Date achieved               11/01/1999        06/30/2004                         12/31/2006
+                            The new government elected in January 2006 returned the draft
+Comments
+                            law to the PEA with requests for clarification. To date, it has not
+(incl. % achievement)
+                            been adopted by the Legislative Council
+
+(b) Intermediate Outcome Indicator(s)
+
+
+                                    Original Target        Formally          Actual Value
+
+     Indicator     Baseline Value    Values (from                             Achieved at
+                                       approval         Revised Target   Completion or Target
+                                      documents)             Values              Years
+                  Higher efficiency in electricity distribution, and improved quality of service
+Indicator 1 :
+                  in measuring reduced technical and non-technical losses
+                                                                         HEPCo losses reduced
+                                                                        by 2.4% over duration
+                  Technical        Technical and
+Value                                                                   of project; JDECo
+                  losses: 20%      non-technical
+(quantitative or                                                        technical losses
+                  Non-technical    losses reduced by
+qualitative)                                                            decreased by 2% but
+                  losses: 20%      2-3%/year
+                                                                        non-technical losses
+                                                                        increased by 3%.
+Date achieved     11/01/1999                                            12/31/2005
+Comments
+(incl. %
+achievement)
+
+                  Higher efficiency in electricity distribution, and improved quality of service
+
+Indicator 2 :     in measuring customer/employee ratio
+
+Value
+(quantitative or  <200                   >200                               >200
+qualitative)
+
+
+                                                   4
+
+Date achieved      11/01/1999             06/30/2004                         12/31/2005
+Comments
+(incl. %
+achievement)
+                   Higher efficiency in electricity distribution, and improved quality of service
+Indicator 3 :
+                   in measuring voltage fluctuation and number and duration of power outages
+                                          Voltage fluctuation:               Voltage fluctuation:
+Value
+                                          <+/- 12% number &                 <+/- 10% number &
+(quantitative or
+                                          duration of outages               duration of outages
+qualitative)
+                                          reduced by 50%                    reduced by 75%
+Date achieved      11/01/1999             06/30/2004                         12/31/2005
+Comments
+(incl. %
+achievement)
+
+
+
+
+G. Ratings of Project Performance in ISRs
+
+(b) Ratings of Project Performance in ISRs
+
+
+ No.       Date ISR                                                             Actual Disbursements
+           Archived               DO                             IP                     (USD M)
+1      11/01/1999        Satisfactory                  Satisfactory                                0.00
+2      11/12/1999        Satisfactory                  Satisfactory                                0.00
+3      05/11/2000        Satisfactory                  Satisfactory                                0.00
+4      09/13/2000        Satisfactory                  Satisfactory                                2.56
+5      03/13/2001        Satisfactory                  Satisfactory                                3.16
+6      09/28/2001        Satisfactory                  Satisfactory                                5.05
+7      03/18/2002        Satisfactory                  Satisfactory                                7.09
+8      08/15/2002        Satisfactory                  Satisfactory                                8.45
+9      12/06/2002        Satisfactory                  Satisfactory                                9.42
+10     04/15/2003        Satisfactory                  Satisfactory                                9.92
+11     10/24/2003        Satisfactory                  Satisfactory                               10.76
+12     03/24/2004        Satisfactory                  Satisfactory                               11.23
+13     08/04/2004        Satisfactory                  Satisfactory                               12.06
+14     03/30/2005        Satisfactory                  Satisfactory                               13.15
+15     11/28/2005        Satisfactory                  Satisfactory                               14.16
+16     06/30/2006      Moderately Satisfactory      Moderately Satisfactory                       14.80
+17     12/20/2006      Moderately Satisfactory      Moderately Satisfactory                       14.89
+
+
+
+
+                                                    5
+
+H. Restructuring (if any)
+Not Applicable
+
+I. Disbursement Profile
+
+
+
+
+                             6
+
+1. Project Context, Development Objectives and Design
+
+1.1 Context at Appraisal
+
+
+At the time of project appraisal, the World Bank assistance strategy for West Bank/Gaza (WBG)
+                                                                                    1
+
+highlighted the infrastructure gap, including inadequate power supply, as one of the key constraints to
+economic growth in the region, and called for the restoration of infrastructure, strengthening of
+institutions, and facilitation of private sector involvement in the economy. Key issues in the power
+sector at that time were identified as follows:
+
+    ·         A weak institutional framework, with most electric utility services provided by
+              municipalities operating under a complicated and conflicting overlay of authorizing
+              legislation;
+    ·         A poorly defined regulatory environment, leading to unclear objectives, sub-optimal
+              performance, and inappropriate PA intervention in the sector;
+    ·         Poorly designed tariffs, which failed to respond to market signals and provided inadequate
+              incentives for efficient energy use;
+    ·         Rising electricity demand, with load expected to increase by about 6 percent a year over the
+              period 1995-2005; and
+    ·         Underinvestment in the sector leading to a pressing need for rehabilitation and expansion of
+              the power system. In WBG, almost 20 percent of system demand (some 55 MW) was not
+              being met due to lack of capacity, and voltage fluctuations were severe.
+
+
+
+1.2 Original Project Development Objectives (PDO) and Key Indicators (as approved)
+
+
+The development objective of the project as stated in the PAD was to benefit electricity consumers,
+predominantly households, through sustainable improvements in the quality of electricity supply. This
+objective was to be achieved through fundamental power sector institutional reforms, implemented in
+parallel with reinforcement of the power system. In particular, the project was to:
+
+    (a)       Initiate restructuring of the power sector in accordance with the Palestinian Authority's (PA's)
+              Statement of Sector Development Policy and Action Program ("SSDP") issued by the
+              President of the PA and the Chairman of PEA in 1997;
+
+    (b)       Strengthen the Palestinian Energy Authority's (PEA's) capacity to put in place power sector
+              reforms and sector environmental regulations, and establish an overall institutional basis--
+              building on international best practices -for the sustainable operation of the power sector and
+              the safeguarding of consumer interests; and
+
+    (c)       Reinforce the power system in the central and southern regions of the West Bank (areas A
+              and B only), as the first step in the least-cost power system expansion plan aimed at the
+              efficient and reliable provision of electricity.
+
+
+
+
+1Presented in the paper entitled "A World Bank Group Strategy for the West Bank and Gaza," considered by the Board on May
+28, 1998.
+
+
+
+                                                            1
+
+Key project monitoring indicators (summarized from the PAD, Annex 1) were as follows:
+
+    ·        Power sector reforms including passage of Electricity Law and regulatory framework (policy
+             and guidelines) in place by end of project;
+    ·        Formulation and application of environmental policy guidelines and regulations;
+    ·        Higher efficiency in electricity distribution, measured by: (i) reduced technical and non-
+             technical losses, (ii) improved customer/employee ratio; and
+    ·        Improved quality of service, indicated by reductions in voltage fluctuation and the number
+             and duration of power outages.
+
+1.3 Revised PDO (as approved by original approving authority) and Key Indicators, and
+reasons/justification
+
+Not applicable
+
+1.4 Main Beneficiaries,
+
+The ultimate project beneficiaries were Palestinian electricity consumers in the region who would benefit
+from improved services as a result of the Project's support to the Palestinian Energy Authority to improve
+the legal and regulatory framework for the sector, and it's support to three local distribution companies;
+Jerusalem District Electric Company (JDECo), Hebron Electric Power Company (HEPCo), and Southern
+Electric Company (SELCo). The latter two companies were operated as departments of municipalities at
+the time of appraisal and their corporatization was a prior condition of disbursements on project components
+supporting their operations.
+
+1.5 Original Components (as approved)
+
+There are three main components:
+
+Component 1: Rehabilitation and upgrading of electric utility distribution facilities in the central West
+      Bank and the Hebron governorate (through the establishment of two new entities, the Hebron
+      Electric Power Company (HEPCo), and Southern Electric Company (SELCo)) and implementation
+      of a distribution dispatching center for the Jerusalem District Electric Company (JDECo). Total
+      cost for this component was estimated at US$76.3 million, of which the allocated Bank financing
+      was US$5.2 million.
+
+Component 2: Financing of a management contract and other technical assistance to strengthen sector
+      institutions, comprising four sub-components, including:
+
+    (i)      the three-year cost (fixed fees and performance incentive) of a performance-based
+             management contract for SELCo;
+    (ii)     technical assistance to JDECo in areas where its own capacity has potential for improvement;
+    (iii)    technical assistance to help the municipality of Hebron corporatize and commercialize its
+             electric utility operations; and
+    (iv)     technical assistance to the Palestinian Energy Authority to implement the actions specified in
+             the PA's SSDP.
+
+Total cost estimate for this component was estimated at US$12.2 million, of which the allocated Bank
+financing was US$7.3 million.
+
+
+
+
+                                                      2
+
+Component 3: Funding the initial startup and operating expenditures, and helping to strengthen both the
+Hebron and Southern electric companies' capacities to operate as financially sound and technically
+capable power distribution companies. Total cost was estimated at US$2.5 million, which was to be fully
+financed by the Bank.
+
+1.6 Revised Components
+
+Components were not revised.
+
+1.7 Other significant changes
+
+There were significant difficulties encountered in the implementation of Component 1 and Component 2
+(i), which led to changes in scope and design as follows:
+
+a)        The scope of Component 1 was curtailed during implementation owing to problems with two of
+the cofinancing agencies that were financing rehabilitation of the distribution networks. One of these
+cofinanciers, the European Investment Bank (EIB) suspended disbursements to the WBG in 2002 as a
+result of the PA's failure to meet repayment obligations on previous loans. This significantly reduced the
+funding available to JDECo for system improvements (all of the expected US$38.0 million from EIB was
+due to be received by JDECo, but only US$12.0 million had been disbursed at the time of suspension).
+Government of Italy was the other of these cofinanciers, and the availability of its planned funding of
+US$33.0 million at appraisal for network rehabilitation investments for the distribution utilities was
+delayed by an assortment of procurement issues. As a result, while about 26% of contracts for the supply
+of materials under Italian funding to JDECo were completed, only two of the three SELCo packages have
+been contracted, and delivery is not yet complete. At the time of project closing, the third package was
+awaiting clearance from Rome of the selected bidder. For the procurement of materials for HEPCo,
+contracts have not been finalized and it is not clear when the planned physical component of the Project
+will be completed. Currently, the Italian government has suspended the procurement process on the
+grounds that the legal status of HEPCo is unclear2. JDECo was able to provide US$14.2 million from its
+own funds (they were expected to provide only US$0.5 million of self-financing for distribution
+rehabilitation) to partially compensate for the loss of US$26.0 million from EIB and the procurement
+delays of Italian financing of about US$6.0 million that was allocated to JDECo. This amount (US$14.2
+million) that JDECo was able to finance from its own resources and the amount that was financed by the
+Bank (US$1.765 million) was sufficient to implement the main components (substation improvements,
+SCADA etc.). HEPCo and SELCo were only able to contribute about US$3.5 million and US$1.5
+million respectively when confronted by the protracted delay of US$24.65 million in Italian financing
+(US$11.05 million for HEPCo and US$13.6 million for SELCo), and so most of their planned network
+reinforcements under the project ­ which were to be financed almost entirely by the Italians ­ are yet to
+be implemented.
+
+(b)       Component 2(i) was intended to finance a performance-based management contract for the
+operation of SELCo. However, the newly-established company and the Bank were unable to agree on the
+terms and scope of the contract. As a result, more than 20 months after the initial approval of the Credit
+there had been no disbursement on the SELCo component of the project. In order to allow this
+component to move forward, and at the same time mitigate risks associated with SELCo's implementation
+capacities, it was agreed that a consulting firm would be engaged to provide technical assistance on
+
+
+2In late 2005, the local municipality liquidated the minority shareholdings in the utility, bringing it back under the sole
+ownership of the municipality, and began issuing invoices in the name of the municipality. At the same time, however, HEPCo
+continues to hold the bank accounts and audit reports continue to be prepared for the company
+
+
+
+                                                                3
+
+matters relating to design and implementation of the project. The consultant was engaged in July, 2002
+and provided training and technical support throughout the duration of the project.
+
+The Project's Closing Date was also extended three times for a total of 30 months due to the many delays
+caused by the Intifada (difficulties in moving consultants, utilities staff and materials into and within the
+region) and complications in the Italian cofinancing described above.
+
+2. Key Factors Affecting Implementation and Outcomes
+
+2.1 Project Preparation, Design and Quality at Entry
+
+The Project was not subject to a QAG review or rating at entry. The ICR rating for Quality at Entry is
+Satisfactory, based on the following factors:
+
+     (i)     the close link between the project's objectives and the Country Assistance Strategy;
+
+     (ii)    the consistency of the project design with both the development objectives and with best
+             practices in terms of promoting power sector efficiency;
+
+     (iii)   the strong external indicators that the project was both timely and supportive of government
+             priorities in terms of fostering economic growth in the region, as indicated by the
+             Memorandum of Understanding among PEA, NORAD, and the Bank on cooperation in the
+             development of the power sector signed on June 26, 1997, and the participation of other
+             donor agencies;
+
+     (iv)    the focus on establishing a legal and regulatory framework for sustainable sector
+             development which Government requested Bank assistance to put in place, and the fact that
+             the PEA was closely involved in the project definition and supported the concept and actions
+             in a Statement of Sector Development Policy; and
+
+     (v)     the measures taken to ensure that adequate procedures and funding were in place to mitigate
+             potential adverse environmental impacts.
+
+The project design was relevant to the needs. Two risks were significantly underestimated at the time of
+preparation and entry ­ the risk of renewed hostilities, and the breakdown of cofinancing arrangements
+for a significant part of the network rehabilitation components as described in Section 1.7 above.
+
+2.2 Implementation
+
+Implementation of the Project required considerable flexibility on the part of both the Borrowers and the
+Bank. The Bank agreed to SELCo's request to waive the requirement for a management contract,
+accepting instead a program of targeted technical assistance. JDECo increased its contribution to project
+financing in response to the suspension of EIB financing. Persistence in relations with the Italian
+cofinanciers contributed to the ultimate partial completion of components for SELCo designated for
+Italian cofinancing.
+
+2.3 Monitoring and Evaluation (M&E) Design, Implementation and Utilization
+
+The M&E indicators were appropriate to the monitoring of progress and achievements. During the early
+years of the Project, however, delays in the implementation of the HEPCo and SELCo components made
+it impossible to establish baselines and monitor progress with respect to some of the monitoring indicators.
+
+
+                                                       4
+
+In addition, there were delays throughout in monitoring the financial performance indicators for SELCo
+due to delays in finalizing audited financial statements while agreement was sought among the company's
+shareholders with regard to the value of fixed assets. Nonetheless, by project completion, data on
+virtually all indicators had been gathered and evaluated. One of the monitoring indicators for JDECo -
+the measurement of customers per employee - however, proved misleading under the circumstances,
+because the outbreak of hostilities led to a significant increase in non-payments among the utility's
+customers. As a result, JDECo was obliged to significantly increase its staffing (from 494 in 1999 to 563
+in 2002) in order to manage non-payments and ensure an adequate cash flow.
+
+2.4 Safeguard and Fiduciary Compliance
+
+Project financial management, procurement and disbursement were all managed in accordance with Bank
+Guidelines. Only the Environmental safeguard (OP4.01) was triggered by the project and the Project was
+rated as Category B. An acceptable Environmental Management Plan was formulated and satisfactorily
+implemented to address adverse impacts during construction.
+
+2.5 Post-completion Operation/Next Phase
+
+Operation of the investments will be handled by the beneficiary utilities. JDECo has a long experience of
+successful commercial operations.                The two new beneficiary utilities (HEPCo and SELCo) are
+corporatized, and extensive training has been provided under the project.
+
+Continued sustainability of operations and the reforms successfully undertaken to date will depend mainly
+on the following factors:
+
+     (i)      The uncertainty about the operations of the power networks and billing and collections by the
+              electricity supply corporations under the uncertain political and economic situation in the
+              Region;
+
+     (ii)     The continuation of interventions in the operations and finances of the new electricity supply
+              corporations by the municipalities that are the main shareholders in HEPCo and SELCo
+              following the transfer of their electricity businesses to these utilities; and
+
+     (iii)    The policies of the PA regarding the management and regulation of utilities, which are
+              needed to ensure that the utilities have the incentive to pay fully and promptly for their
+              purchases of bulk power from the Israel Electric Corporation, instead of following the
+              practice of the municipalities in leaving IEC to seek payment from deductions in PA's
+              clearance revenues.
+
+3. Assessment of Outcomes
+
+3.1 Relevance of Objectives, Design and Implementation
+
+The development objectives were clearly articulated and in line with the World Bank assistance strategy,
+and the strategy of the PA at the time that was set out in the PA's SSDP.3 The design of the three project
+
+
+3The key policy objectives for the power sector included rehabilitation of existing networks and services and extension of services
+to currently unserved communities; separation of regulatory from commercial functions; encouragement of private participation
+in sector operations and development; improving the operating efficiency of distribution utilities; and setting pragmatic tariffs
+that would promote the commercial viability of sector enterprises while providing lifeline rates for needy consumers.
+
+
+
+                                                                5
+
+components for achieving the Project Development Objective was consistent with sectoral best practices
+for achieving sustainable and cost-effective electricity supply through the participation of commercialized
+utilities within a legal and regulatory framework that protects consumers' interests. The Bank provided
+financing for technical assistance to support institutional strengthening, the development of the legal and
+regulatory framework, and implementation of the physical works by HEPCo and SELCo, while the
+Government of Italy and the EIB committed co-financing to acquire the materials and equipment needed
+to rehabilitate the distribution networks in the region. JDECo was an established licensee with the
+financial and institutional capacity to implement their investment components. Concerns about the
+capacity of HEPCo and SELCo to implement the physical works were to be addressed through technical
+assistance under components 2 and 3.
+
+The project was prepared and approved in 1997 ­ 1999 during ongoing peace talks between the Israeli
+and Palestinian authorities which held promise for Israeli withdrawal from the West Bank and Gaza
+territories and the establishment of a Palestinian state. The project's overall objective of sustainable
+improvements in electricity supply was both realistic and supportive of nation-building efforts.
+
+3.2 Achievement of Project Development Objectives
+
+By project closing, substantial progress has been made on the PDOs for institutional development and on
+fundamental power sector policy reforms. These institutional PDOs focus on broad objectives, namely:
+(i) Initiate restructuring of the power sector in accordance the PA's SSDP; and (ii) Strengthen the PEA's
+capacity to put in place power sector reforms and sector environmental regulations, and establish an
+overall institutional basis for the sustainable operation of the power sector and the safeguarding of
+consumer interests.
+
+The PA has made creditworthy progress by achieving most of its sector reform objectives as defined in its
+SSDP (which was issued during the time that the project was under preparation). The PA have either
+implemented most of the components of this strategy ­ such as the commissioning of a privately
+developed power plant in Gaza and the formation of distribution companies ­ or have progressed
+substantially - such as extending electricity services to unserved communities, developing pragmatic tariff
+setting guidelines, and separating the policy and regulatory functions in PEA from the commercial
+functions of the power sector in the distribution utilities.
+
+The project helped considerably with institutional restructuring by the formation of the two new
+distribution utilities - HEPCo and SELCo. The legal status of HEPCo has been challenged, but it has
+continued to function as a utility, albeit on a fledgling basis. The achievements of the distribution utilities
+are reasonably well-reflected in the PDO and intermediate outcome indicators, although the economic
+crisis that erupted at the start of 2006 has prevented further improvements in customer payments
+discipline.
+
+There are two main outstanding components of the PA's institutional development strategy:
+
+     (i)      Consolidation of networks and functions into a transmission company - which PEA has
+              justifiably not implemented yet because the network is not yet configured or operated in a
+              way that requires high-voltage transmission in the West Bank, and in Gaza there will be only
+              one transmission line (which would not justify a separate transmission company); and
+
+     (ii)     The establishment of an independent regulatory agency under an Electricity Law. The
+              absence of an Electricity Law, however, has neither impeded sector reform - as described
+              above ­ nor indicated reluctance by the PA to implement reforms and upgrade regulatory
+              capacity. Experience with power sector reform among developing countries since the project
+              was prepared indicates that the establishment of an independent regulatory agency is not a
+              priority at the WBG power sector's current stage of development, especially since
+              privatization of the utilities is not considered to be practicable at this stage. However, PEA
+
+
+                                                        6
+
+              did commission international consultants during project implementation to prepare an
+              Electricity Law which reflects the government's stated policies with respect to sector
+              restructuring and reform.     While the draft law has been submitted to the Palestinian
+              Legislative Council, its review and adoption have been delayed by changes in government.
+              When the new Council took power; the Council members sent the draft Law back to the
+              Palestinian Energy Authority for review and clarification. This does not necessarily signal a
+              problem with the principles of the legislation, since the new government was immediately
+              beset with a number of pressing problems. PEA had indicated that it expects that its adoption
+              is merely delayed. All of the legal documentation and by-laws for the proposed Regulatory
+              Agency have been completed. Once the Electricity Law is adopted, it is expected that the
+              regulatory body can become operational within a few months. The PEA has, however,
+              gained regulatory expertise and experience as the de facto regulator of the electricity sector.
+
+On institutional strengthening, distribution companies in the southern part of West Bank have been
+converted from municipal departments to corporate entities, with smaller supply operations (five
+municipalities were involved in the formation of SELCo) merged to achieve operating efficiencies.
+Studies have been completed by the PEA consultant relating to the establishment of a separate
+transmission company, and international consultants have been working closely with both HEPCo and
+SELCo to assist them in their ongoing development. Commercialization of both HEPCo and SELCo is
+progressing, although HEPCo has had some setbacks. In late 2005, the local municipality liquidated the
+minor shareholdings in the utility, bringing it back under the sole ownership of the government, and
+began issuing invoices in the name of the municipality. At the same time, HEPCo continues to hold the
+bank accounts and audit reports continue to be prepared for the company.
+
+The third PDO was to "reinforce the power system in the central and southern regions of the West Bank
+as the first step in the least-cost power system expansion plan aimed at the efficient and reliable provision
+of electricity". In terms of overall outcomes, the indicators demonstrate substantial progress in the
+efficient and reliable provision of electricity (see below). In terms of inputs, the investments were less
+than anticipated under the project because of delays/shortfalls in cofinancing. However, part of that
+shortfall was compensated with the utilities' own resources. Overall, investment in the central region was
+approximately as planned, while the southern region got significantly less than expected.
+
+There was also progress on reinforcing the distribution networks. A substantial amount of rehabilitation
+and expansion of lines and substations was completed in the JDECo service area. JDECo installed a
+modern SCADA system for communications among the power system operators, and a new computerized
+IT system for billing and collections that has improved customer service and reduced nontechnical losses.
+A GIS/NIS system has been procured and will interface with the SCADA and billing systems to form the
+core of an integrated MIS. IT systems have also been installed at HEPCo and SELCo to the same design
+and standards as those used by JDECO, which replaced the numerous scattered systems used by
+municipalities, and have thus improved service levels and efficiency. These physical improvements were
+achieved despite setbacks due to the suspension of EIB disbursements in 2002 as well as major delays in
+the procurement of those materials and equipment for rehabilitation of the distribution systems which
+were being funded by the government of Italy. Most of the contracts have now been completed and
+approved for Italian-financed equipment for SELCo and JDECo, and delivery is expected in the near
+future. However, quotations for equipment required by HEPCo significantly exceeded the funding
+envelope. HEPCo was reluctant to proceed with the procurement at the quoted prices and it is likely that
+this component of the Italian co-financing will be cancelled.
+
+The Project achieved significant improvements in the performance of the participating utilities, which can
+be attributed in large measure to the institutional strengthening and network rehabilitation efforts:
+
+
+
+
+                                                       7
+
+    (i)      JDECo reduced its technical losses from 10% to 8%, narrowed the range of voltage
+             fluctuations, and cut the duration of total annual outages from 950 to 480 hours between 2000
+             and 2006. Over the same period, it increased the number of customers served by 26.9%
+             (4.9% per annum) and the total MWh billed by 27.9% (5% per annum). JDECo had less
+             success in reducing non-technical losses. In an attempt to improve payment levels, the
+             company undertook an extensive program to cut off supply to non-paying customers and
+             introduce prepayment metering. Unfortunately, owing to the difficult economic situation,
+             this led to a sharp increase in illegal connections. Non-technical losses are now estimated to
+             be 12% (vs. 7% at the beginning of the project). JDECo has hired additional staff in an
+             attempt to reduce non-technical losses ­ which in turn has decreased its ratio of customers to
+             employees;
+    (ii)     HEPCo showed significant improvement in technical performance, although this is attributed
+             more to corporatization than to investments. Between 2003 and 2005, total losses dropped
+             from 19% to 16.6%, and the total duration of outages declined from 60 hours to 26 hours.
+             During the same period, HEPCo increased its customer base by an average of 3% per year
+             and increased the energy billed (MWh) by over 10% per year; and
+    (iii)    SELCo did not begin functioning as a utility until 2003, so comparative data is limited.
+             However, between 2004 and 2005, the company increased the number of customers served by
+             6.3%, and the total power delivered to customers by 15.8%.
+
+3.3 Efficiency
+
+The project's EIRR is estimated at 22.6%, and the Net Present Value at US$47.5 million (see Annex 3).
+An FRR was not estimated at the time of appraisal. However, the project preparation team carried out an
+assessment of the likely financial viability of the three participating utilities, and prepared pro forma
+financial statements based on projections of revenues, expenditures, and capital investment.             A
+comparison of these projected financial statements with actual results is included in Annex 9.
+
+3.4 Justification of Overall Outcome Rating
+
+Rating: Moderately Satisfactory
+
+As described in section 3.2 above, the project achieved most of its institutional development objectives in
+terms of the strengthening of sector institutions and the improvement in the performance of the utilities,
+and it made some progress in the establishment of a legal and regulatory framework for the power sector.
+In addition, the project enabled the sector to improve both the quality and quantity of electricity supply
+over the duration of the project - a key aspect of the overall development objective. At the time of
+appraisal, it was estimated that deterioration in the network would lead to a decrease in delivery capacity
+of approximately 3% per year, and a consequent gap between supply and demand. In fact, over the
+course of the project, the utilities increased their delivery of electricity supply from 900 GWh in 2001 to
+over 1,200 GWh in 2005. These accomplishments were realized notwithstanding the fact that the Second
+Intifada began in September 2000, shortly after the project's launch, and as a result, for much of the
+implementation period, movement of both goods and people was constrained, and the capacity to
+implement network improvements was severely limited. The main reason for downgrading the rating to
+"moderately satisfactory" is the shortfall in investment caused by the cancellation and delays in
+substantial amounts of cofinancing for network rehabilitation. This reason is complemented by a concern
+about the sustainability of some of the Project accomplishments for the operations of the power networks
+and billing and collections under the uncertain political and economic situation in the Region, continued
+interventions in the operations and finances of the new electricity supply corporations by the
+municipalities that are the main shareholders in HEPCo and SELCo, and the need for the PA to provide
+adequate incentives to the utilities to pay fully and promptly for their purchases of bulk power from the
+Israel Electric Corporation.
+
+
+                                                       8
+
+3.5 Overarching Themes, Other Outcomes and Impacts
+
+(a) Poverty Impacts, Gender Aspects, and Social Development
+
+Not applicable
+
+(b) Institutional Change/Strengthening
+
+Discussed above in Section 3.2
+
+(c) Other Unintended Outcomes and Impacts (positive or negative)
+
+Not applicable
+
+3.6 Summary of Findings of Beneficiary Survey and/or Stakeholder Workshops
+
+Not Applicable
+
+4. Assessment of Risk to Development Outcome
+
+Rating: High
+
+The sustainability of the Project is directly tied to the prospect of a peaceful settlement of the ongoing
+conflict in the region, and to the formation of a unified government with pro-active policies. In the
+absence of these factors, the distribution utilities will have difficulty in establishing and maintaining
+financial viability, and sector reforms are likely to continue to be postponed by a government that is
+distracted by other priorities.
+
+5. Assessment of Bank and Borrower Performance
+
+5.1 Bank Performance
+(a) Bank Performance in Ensuring Quality at Entry
+
+Rating: Satisfactory
+
+Bank performance during project preparation and appraisal is considered to be satisfactory. The Bank
+stipulated significant up-front actions which were required as a demonstration of Borrower commitment
+(Letter of Sector Development Policy, formation of SELCo and HEPCo). Provision was made for
+technical assistance to address any shortcomings in Borrower implementation capacity. Stakeholders
+(PEA, local municipalities, JDECo) were closely involved in defining the project's components, and
+environmental issues were addressed in accordance with Bank requirements.               The rehabilitation
+component of the project was based on a Generation, Transmission and Distribution Master Plan and
+Emergency Assistance Project for WBG which was prepared under a consultancy service contract (funded
+under the Technical Assistance Trust Fund). Under the contract, the detailed analysis made of existing
+WBG system load characteristics established the basis for projecting demand growth under low, base, and
+high-case economic conditions. The resulting master plan was technically sound and was based on
+various equipment standards that have historically been in use in WBG, and equally importantly, was
+accepted by the stakeholders as being appropriate for the development of the power system. While
+political risks were recognized as "Substantial" at the time of appraisal, the PA had been granted
+autonomy in areas covered by the project under the Peace Accords.
+
+
+
+                                                      9
+
+(b) Quality of Supervision
+
+Rating: Satisfactory
+
+Bank performance in supervision is also considered to be satisfactory. Supervision missions were carried
+out on a regular basis and staffed by a suitable skill mix. Early attention was given to organizational and
+procurement problems and the supervision missions showed appropriate flexibility in addressing issues
+during implementation (such as local government unwillingness to engage a management contractor for
+SELCo and withdrawal of EIB funding). In retrospect, it might be argued that more might have been
+done to address the slow progress of Italian co-financing. However, the issue was raised with the Italian
+Government as early as the 2002 supervision mission, and again during each of the subsequent
+supervision missions. Each time the mission received assurances that the problems would be addressed ­
+and in fact on each occasion some modest progress was made.               And while implementation was
+unacceptably slow, in the end it appears that most of the funds will be disbursed.
+
+(c) Justification of Rating for Overall Bank Performance
+
+Rating: Satisfactory
+
+Based on the above, the overall Bank performance on the project is rated as satisfactory.
+
+5.2 Borrower Performance
+(a) Government Performance
+
+Rating: Satisfactory
+
+The government generally provided the necessary ongoing support during the implementation of the
+project. While it proved unable to follow through on its commitment to the implementation of sector
+reforms (in terms of failure to achieve the support of the Legislative Council on establishing the necessary
+legal and regulatory framework), there was no interference with the implementation of TA and
+investment components of the project.
+
+(b) Implementing Agency or Agencies Performance
+
+Rating: Satisfactory
+
+Hebron Electric Power                There were some delays in initiating activities within SELCo
+Company (HEPCo)                      and HEPCo, possibly due to lack of experience on the part of
+                                     their municipal government stakeholders and also perhaps to
+Southern Electric Company            some mistaken expectations on the part of these stakeholders
+(SELCO)                              as to the financial and management implications of
+                                     establishing commercial enterprises. However, once these
+                                     were settled, the companies' management proved to be both
+                                     effective and supportive of the project.
+
+Jerusalem District Electricity       JDECo successfully implemented their parts of the project in
+Company Ltd. (JDECo)                 a timely fashion. Through to the end of 2004, JDECo was in
+                                     compliance with financial performance covenants and was up
+                                     to date on submission of audited financial statements.
+
+Palestinian Energy Authority         PEA also successfully implemented their parts of the project
+
+
+                                                     10
+
+(PEA)                                in a timely fashion
+
+
+
+(c) Justification of Rating for Overall Borrower Performance
+
+Rating: Satisfactory
+
+Taking into account the above discussions of the borrower's performance in project preparation and
+implementation by both government and the implementing agency, Borrower performance is rated as
+satisfactory.
+
+6. Lessons Learned
+
+1.      The project reinforces previous experience regarding the importance of maintaining flexibility in
+project implementation when working in conflict areas. The outbreak of hostilities only six months after
+project effectiveness was obviously a constraint on the timely and effective implementation of both TA
+and investment components. Nevertheless, significant advances were accomplished under the project.
+Investment priorities were re-evaluated as it became clear that cofinancing would be lower than
+anticipated and TA schedules were re-arranged as it was realized that delivery of co-financed materials
+would be delayed. At the same time, the Bank and implementing agencies maintained the momentum on
+those components which were relatively unaffected by the conflict and which were basic for long term
+development (e.g. training, implementation of IT systems, preparation of legal and regulatory documents).
+
+2.      The impact of political factors on the corporatization and commercialization of state-owned
+enterprises should not be underestimated. This is particularly true when the revenues of the enterprise
+have previously formed part of the general revenues of the government. In addition to losing day-to-day
+management control of the enterprise, the government may lose a significant part of its revenue base. The
+corporatization of the Hebron distribution company, and the founding and corporatization of SELCo both
+required substantial ongoing effort on the part of the Bank and PEA, even though these actions had been
+agreed prior to Board presentation. As of 2006, the municipal shareholders of SELCo were still debating
+the valuation of assets contributed to the merged company, while Hebron municipality had liquidated the
+minority shareholdings in HEPCo as a perceived first step in returning it to municipal government control.
+
+3.      Tied co-financing carries special risks, especially if manufacturers in the cofinancing country
+specialize in products that are not technologically compatible with the Borrower's systems. JDECO, for
+example, was unable to find an Italian manufacturer of distribution network SCADA systems. The
+limited number and relatively high cost of bids for other equipment demonstrate the constraints associated
+with being unable to procure from an internationally competitive selection of suppliers. Before relying on
+tied cofinancing, the Borrower should be aware of these limitations, and ensure insofar as possible that
+the donor country is able to supply equipment at a competitive price.
+
+4.      A centralized Project Management Unit would have helped to ensure better co-ordination
+between the various implementing agencies (JDECo, HEPCo, SELCo and PEA) as well as providing
+appropriate technical/procurement support mainly in contract management to these agencies.
+
+5.      The high customs duties imposed by Israel on the imported goods have hindered and slow the
+successful implementation of contracts by the implementing agencies. Such situation has worsened by the
+reluctance of Israel to give back such levies. This situation is expected to be experienced in future project
+and therefore should be addressed during future project preparation.
+
+7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners
+
+
+                                                     11
+
+(a) Borrower/implementing agencies
+
+Issues raised in the Borrower's ICR focused on (i) the difficulties associated with trying to implement the
+project when the movement of consultants and goods was highly constrained by the ongoing hostilities,
+and (ii) the problems encountered with procurement of goods to be financed by the Government of Italy,
+including quoted prices well in excess of original cost estimates, lack of qualified bidders, and problems
+with the performance of some of the selected bidders. These comments are borne out by the Bank's own
+observations of the events.
+
+
+
+
+                                                    12
+
+(b) Cofinanciers
+
+For the co-financed component, the implementation is still ongoing. Completion report was
+therefore not sought.
+
+(c) Other partners and stakeholders
+
+Not Applicable
+
+
+
+
+                                            13
+
+Annex 1. Project Costs and Financing
+(a) Project Cost by Component (in USD Million equivalent)
+
+
+                                                              Appraisal
+                      Components                               Estimate        Actual/Latest        Percentage of
+
+                                                               (USD M)       Estimate(USD M)         Appraisal
+
+REHAB. & UPGRADING OF ELECTRIC
+UTILITY DISTRIBUTION FACILITIES, AND
+                                                                     64.10                 40.58          63.31
+IMPL. OF A DISTRIBUTION DISPATCHING
+CENTER (SCADA ) FOR JDECO
+MANAGEMENT CONTRACT AND TECHNICAL
+                                                                     12.20                 11.45          93.85
+ASSISTANCE
+INITIAL STARTUP AND OPERATING
+                                                                      2.50                  1.74          69.60
+PROCEDURES
+                                     Total Baseline Cost             78.80
+Physical Contingencies                                                7.00                  0.00
+Price Contingencies                                                   5.20                  0.00
+                                     Total Project Costs             91.00                 53.77           59.09
+Front-end fee PPF                                                     0.00                  0.00           0.00
+Front-end fee IBRD                                                    0.00                  0.00           0.00
+               Total Financing Required/Available                    91.00                53.77            59.09
+(b) Financing
+
+
+                                                             Appraisal         Actual/Latest
+         Source of Funds                   Type of                                                  Percentage of
+                                         Cofinancing     Estimate (USD         Estimate (USD
+                                                                M)*                  M)*              Appraisal
+
+ EC: EUROPEAN
+                                                                    38.00                  12.00            31.58
+INVESTMENT BANK
+ ITALY, GOV. OF (EXCEPT
+FOR DEV. COOP. DEPT. -                                              35.00                    2.44             6.97
+MOFA)
+ LOCAL GOVTS. (PROV.,
+DISTRICT, CITY) OF                                                    3.00                 24.37            812.3
+BORROWING COUNTRY
+ SPECIAL FINANCING ­ Bank
+                                                                    15.00                  14.96            99.69
+Trust Fund for West Bank/Gaza
+TOTAL FINANCING                                                     91.00                  53.77             59.09
+* Figures are not directly comparable since EIB and Italian commitments were in Euros, which have significantly
+appreciated in value relative to the USD over the period of the project. The appraisal estimate for Component 1
+adds up to US$76.3 million when the contingencies are included.
+
+
+
+
+                                                         14
+
+Annex 2: Outputs by Component
+
+Component 1:
+
+This component included rehabilitation and upgrading of electric utility distribution facilities in the
+central West Bank and the Hebron governorate, and implementation of a distribution dispatching center
+(SCADA) for JDECo. (Total cost, US$76.3 million of which the Bank financing was US$5.2 million).
+
+All sub-components funded by the Bank were successfully completed. Under the JDECo program,
+primary lines were rehabilitated and expanded. In addition, 12 new substations (33/11kV) were
+constructed and 14 substations were rehabilitated. Following the suspension of EIB procurement in 2002,
+JDECo funded the remaining works planned under those contracts from its own resources. In addition,
+JDECo has acquired and installed a distribution SCADA system and an integrated Management
+Information System.
+
+Management Information Systems covering billings, finances, payroll and human resources were also
+installed at SELCo and HEPCo and are now fully functional.
+
+Of the distribution network rehabilitation components that were to be financed by the Italian government
+(estimated to total $35 million), to date all materials requested by JDECo have been delivered (at a cost of
+8.29 million). Contracts have been signed and approved for equipment for SELCo (8.69 million) and
+delivery is expected in the near future. Bid evaluation has been completed on a further contract for 5.5
+million and is awaiting clearance from the Italian Government. However, HEPCo and the Italian
+Government were unable to agree on the cost and quantities of materials to be provided, and at present the
+Italian Government has suspended procurement on the HEPCo components, on the grounds that the
+company's legal status is unclear. It appears unlikely that this component can be completed with Project-
+related financing.
+
+Component 2:
+
+Component 2 included funding for a management contract and technical assistance (TA) to strengthen
+sector institutions. The component comprised four subcomponents: (i) the three-year cost (fixed fees and
+performance incentive) of a performance-based management contract for SELCo; (ii) TA to JDECo in
+areas where its own capacity has potential for improvement; (iii) TA to help the municipality of Hebron
+corporatize and commercialize its electric utility operations (business plan implementation); and (iv) TA
+to PEA to implement the actions specified in the PA's SSDP. Total cost estimate for this component was
+US$12.2 million of which US$7.3 million was Bank financing.
+
+The first sub-component was modified during implementation when it proved impossible to agree with
+the newly established SELCo management on the scope and terms of the management
+contract. Ultimately, the firm of Norconsult was engaged to assist in the start-up of SELCo, and to
+provide technical assistance in the implementation of network rehabilitation and MIS components. The
+consultant has provided support in the procurement of Italian-funded distribution equipment for SELCo,
+and has also prepared bid documents for equipment that will be required by SELCo II (which will
+integrate additional distribution utilities in the Hebron area into the existing SELCo enterprise).
+
+With respect to subcomponent (ii), the firm of Norconsult was also engaged to assist JDECo in internal
+restructuring and implementation of physical and MIS components of the project. The restructuring is
+now complete, with three regional branches/business centers established, supported by the new
+information system. The company believes that the new structure has improved working procedures and
+management, resulting in higher operating efficiency and better cost control. In addition, at the request of
+
+
+
+                                                       15
+
+JDECo, Norconsult carried out a Tariff Study, and submitted the findings to the Israeli Regulatory
+Agency.
+
+Subcomponent (iii), assistance to Hebron municipality in establishing and commercializing its electricity
+distribution operations, was implemented under a Technical Assistance contract with Fichtner. The
+consultant has assisted the company in preparation of bid documents for equipment and materials,
+implementation of the MIS, and execution of various rehabilitation works financed by the company's
+internal funds. In addition, it has assisted in arranging training for 58% of the HEPCo staff.
+
+Finally, the assistance to PEA under subcomponent (iv) led to the preparation of a Draft Electricity Law,
+incorporating environmental standards and guidelines, and its presentation to the Legislative
+Council. Other outputs included a plan for the establishment of an independent regulatory authority, and
+a plan for the corporatization of the transmission network.
+
+
+
+
+                                                      16
+
+Annex 3. Economic and Financial Analysis
+.
+                                            Cost Benefit Analysis
+                                (US$ million, base 2000, 10% discount rate)
+ Economic Analysis
+
+                                                               Appraisal         Latest Estimate
+   PV Benefits                                                   $284.5               $298.8
+   PV Costs                                                      $195.6               $251.3
+   Net Present Value                                             $88.8                 $47.5
+   EIRR                                                          23.0%                 22.6%
+
+At the time of appraisal, the project's benefits were expected to consist primarily of increasing the
+capacity to provide electricity service to customers in the Jerusalem and Hebron districts. Consumption at
+the time was in the order of 750 GWh per year, and it was postulated that (a) this was the capacity of the
+distribution network and (b) absent the project; this capacity would decline by approximately 3% per
+year. With the project, it was postulated that distribution capacity could be increased to 800 GWh per
+year. The difference between the two projections ­ the increased capacity to deliver electricity to
+customers in the area ­ was valued at the cost of alternative diesel generation (estimated at US15
+cents/kWh). This saving constituted 85% of the project's benefits. Other benefits included savings in
+power factor correction penalties, reduced imports, and reduced losses in the distribution network.
+
+As of the end of 2005, increases in delivery capacity had far exceeded the projections at the time of
+appraisal. The three utilities together delivered 1,222 GWh of electricity to customers in their service
+areas. However, it is also clear that the appraisal estimates of the system's capacity to deliver electricity
+prior to the project were seriously under-estimated. In 2000, the utilities delivered approximately 950
+GWh (although this had fallen to less than 900 GWh by 2001, suggesting that the projections of declining
+capacity might have been reasonable). At this late date, one can only guess at what might have been the
+counterfactual had the project not been implemented. If it assumed that the system's base capacity was, in
+fact, 950 GWh rather than 750 GWh and that without the project, this capacity would have declined by
+3% per year, then the capacity of the system would have been only 815 GWh in 2005. Delivery of 1,222
+GWh constitutes a benefit of 407 GWh in additional capacity in that year (as well as lesser benefits in
+2002, 2003 and 2004).
+
+The benefit associated with the incremental supply ­ in terms of customer willingness-to-pay ­ is likely to
+lie somewhere between the tariff (approximately US11 cents/kWh) and the cost of substitute energy
+sources (assumed for this analysis to be the cost of diesel generation or US15 cents/kWh).        Assuming
+that the mid-point of these two values is a reasonable representation of customer willingness to pay, the
+IRR for the project over a 20 year life would be 22.6%, and the Net Present Value would be US$47.5
+million. The benefit calculations are summarized in the table above.
+
+There is considerable uncertainty regarding the extent to which the increase in electricity supply can be
+attributed to the investments made over the project period, especially given that the original estimates of
+system capacity clearly understated the potential supply capability of the system at the time of appraisal.
+However, the above estimates of willingness to pay for incremental electricity supply are also extremely
+conservative (a more detailed analysis, based on the cost of typical substitutes such as kerosene, charcoal,
+and/or LPG, would undoubtedly yield a higher value). Furthermore, even if the estimates of increased
+capacity attributable to the project are reduced by half, the project would still yield an IRR of 10.3%. In
+addition, while the post-project IRR analysis described above incorporates the benefits of loss reduction
+(through changes in the cost of electricity purchases required to meet demand), it does not take into
+account the value of service improvements. Reduction in outages in particular has been significant, with
+
+
+                                                     17
+
+the total duration of annual outages dropping by almost half in JDECo since the beginning of the project
+and by more than half in HEPCo since it began commercial operations in 2003. (SELCo was unable to
+provide comparative data on outages). While the value willingness to pay for avoided outages is debated
+(in many instances, the MWh of usage lost during an outage are simply made up at another time), it is
+generally accepted that customers are willing to pay at least some premium in order to avoid the
+inconvenience and potential equipment damage associated with sudden and unexpected loss of electricity
+supply.
+
+Finally, the above analysis does not take into account the environmental benefits associated with avoided
+use of diesel generators, or the reduction of equipment damages as a result of better frequency
+control. Hence, on balance, it can be concluded that the project will yield a more-than-acceptable rate of
+return on investment.
+
+Financial Analysis:
+
+There were no financial covenants attached to the Credit. Jerusalem District Electricity Corporation
+(JDECo) has been operating for years and has largely been able to generate enough revenues to cover
+operating costs. It has a low debt to equity ratio providing for opportunities for further leverage. This of
+course is contingent upon JDECo's continued ability to generate cash flows to cover debt service
+obligations (at present, it has an adequate debt service coverage ratio). The accounts receivable of JDECo
+has increased over the years, which currently stands at 220 days of sales equivalent compared to the
+appraisal estimate of 90 days.       It is imperative that JDECo takes steps to improve its collection
+performance.
+
+The other two entities Hebron Electric Power Company (HEPCo) and Southern Electric Company
+(SELCo) were envisaged to be fully operational by 2000. In reality however, HEPCo became operational
+in late 2004 and SELCo in late 2003 and they are yet to gain a sound financial position for future
+sustainability.
+
+
+
+
+                                                      18
+
+    Annex 4. Bank Lending and Implementation Support/Supervision Processes
+
+
+(a) Task Team members
+
+
+         Names                        Title                    Unit           Responsibility/Specialty
+Lending
+Supervision/ICR
+                                                                            Task Team Leader/ Financial
+Somin Mukherji          Senior Financial Analyst             MNSSD
+                                                                            Analyst
+Rene G. Mendonca        Consultant                           MNSSD          Power Engineer/PAS
+Adel Fahed J.Odeh       Financial Management Analyst         MNCO4          Financial Mgmt Analyst
+Khairy Al-Jamal         Senior Infrastructure Specialist     MNSSD          Implementation Specialist
+                        Senior Financial Management
+Siaka Bakayoko                                              MNAFM           Financial Mgmt Spec.
+                       Specialist
+Margaret Wilson         Consultant                           MNSSD          Primary Author
+Ahmed Merzouk          Sr. Procurement Specialist            MNCO4          Procurement Specialist
+Hayat Taleb Al-Harazi   Program Assistant                    MNSSD          Program Assistant
+Dominique M. Dietrich Language Program Assistant             MNSSD          Program Assistant
+Angeline Mani          Language Program Assistant            MNSSD          Program Assistant
+Zubair Sadeque          Consultant                           MNSSD          Financial Analyst
+Hisham Labadi           Consultant                           MNC04          Procurement Specialist
+
+
+(b) Staff Time and Cost
+                                                           Staff Time and Cost (Bank Budget Only)
+                Stage of Project Cycle
+                                                          No. of staff weeks   USD Thousands (including
+                                                                               travel and consultant costs)
+Lending
+                        FY96                                                                       134.98
+                        FY97                                                                       251.90
+                        FY98                                                                       172.22
+                        FY99                                                                       208.00
+                        FY00                                                                        49.73
+                        FY01                                                                         0.00
+                        FY02                                                                         0.00
+                        FY03                                                                         0.00
+                        FY04                                                                         0.00
+                        FY05                                                                         0.00
+                        FY06                                                                         0.00
+                        FY07                                                                         0.00
+
+
+                                                     19
+
+                          Total:           816.83
+Supervision/ICR
+                  FY00               21     94.33
+                  FY01               15     78.00
+                  FY02               13     57.21
+                  FY03               10     51.47
+                  FY04               12     56.79
+                  FY05               14     66.49
+                  FY06               26    103.42
+                  FY07               10     50.00
+                          Total:    121     557.71
+
+
+
+
+                            20
+
+Annex 5. Beneficiary Survey Results
+
+Not Applicable
+
+
+
+
+                                     21
+
+Annex 6. Stakeholder Workshop Report and Results
+
+Not Applicable
+
+
+
+
+                                      22
+
+Annex 7. Summary of Borrower's ICR and/or Comments on Draft ICR
+
+
+
+
+                                     23
+
+Borrower's Contribution for the Implementation
+
+             Completion Report
+
+
+
+
+               March 2007
+
+
+
+
+                    24
+
+Project Development Objective
+
+The development objective of the Electric Sector Investment and Management Project (ESIMP)
+is to benefit the electricity consumers, predominantly households, through sustainable
+improvements in the quality of electricity supply in the targeted areas of the project, through
+fundamental power sector institutional reforms (the policy components), implemented in parallel
+with reinforcement of the power system (the physical components). In particular, the project will:
+
+(a) Initiate restructuring of the power sector in accordance with the Palestinian Authority's (PA's)
+Letter of Power Sector Development Policy. This will involve the corporatization and
+commercialization of two new entities: the Hebron Electric Power Company (HEPCo) and the
+Southern Electric Company (SELCo)-the latter taking over the electric utility operations of five
+small municipalities in the area;
+
+(b) Strengthen the Palestinian Energy Authority's (PEA's) capacity to put in place power sector
+reforms and sector environmental regulations, and to establish an overall institutional basis-
+building on international best practices-for the sustainable operation of the power sector and the
+safeguarding of consumer interests;
+
+(c) Reinforce the power system in the central and southern regions of the West Bank in the least-
+cost power system expansion plan aimed at the efficient and reliable provision of electricity.
+
+Project Components
+
+
+
+Component 1: Rehabilitation and expansion of the distribution network - US$76.3 million
+The Bank, along with Italian and EIB parallel financing, would finance this component to
+rehabilitate, upgrade and expand the existing distribution networks in SELCo, HEPCo and
+JDECo, and it forms the critical initial part of the least-cost solution for power system expansion.
+This component would reinforce the network in JDECo (central region of West Bank) and
+SELCo & HEPCo (the southern region of West Bank).
+
+
+Component 2: Technical assistance to strengthen sector institutions - US$12.2 million
+This component would be financed by the Bank, with Italian parallel financing, and counterpart
+funding (US$3.0 million) by the project utilities (JDECo, HEPCo and SELCo), and aims to
+provide technical assistance to SELCo, HEPCo, JDECo and PEA.
+
+
+Component 3: Initial Startup and Operating Expenditures - US$2.5 million
+This component would be financed by the Bank. It would cover a portion of the startup costs of
+SELCo to operate as a financially sound and technically capable power distribution company.
+Funding would include provision of expert services, training, and goods related to the initial
+startup of the company. This component would also cover a portion of the startup cost to establish
+HEPCo's capacity to operate as a financially sound and technically capable power distribution
+company.
+
+
+
+
+                                                  25
+
+Achievement of Project Objectives
+
+Rehabilitation and expansion of the distribution network
+
+Several rehabilitation projects have been achieved specially in JDECo area while none of the
+rehabilitation projects in SELCo & HEPCo have been achieved due to reasons listed in section 4.
+
+Rehabilitation and expansion of the distribution network in JDECo
+
+Construction and commissioning of twelve 33/11 kV Turnkey substations
+This project aimed to rehabilitate 1 of the existing JDECo 33/11kV substations and 2 switching
+stations in the areas of Ramallah, Bethlehem, Jericho and Jerusalem, the project consists of the
+supply of power transformers, switchgears, ring main units and various equipments needed to
+implement the project. The project was finalized satisfactory.
+
+SCADA System
+This project is one of the most important projects that have been implemented in JDECo. The
+project was originally planned to be financed by Italy, but due to the delays occurred tin the
+bidding process as it has been tendered for two times and in both only one bidder submitted an
+offer that turned to be technically responsive but double the allocated budget, and due to the
+restrictions of the financing that the bid is subject to national competitive bidding with supply of
+material of Italian origin it turned to be non realistic to tender for the third time as only the same
+bidder participated in the first two. Due to the importance of the project JDECo decided to
+finance it and re-tendered for the third time but with an open international competitive bid (ICB).
+The decision turned to be right and JDECo could sign an agreement with an international
+contractor to implement the SCADA system and within the budget. The project is one of the most
+successful projects in JDECo.
+
+Rehabilitation of Overhead, underground Medium Voltage and Low Voltage networks
+The project consists of the supply of the needed materials to rehabilitate and reinforce the
+medium voltage and the low voltage networks in JDECo. The supply consists of supplying
+distribution transformers, under ground cables, conductors and insulators, switches, steel poles
+and arms. These supplies have been bought by floating 5 ICB tenders. The implementation of the
+rehabilitation projects has been carried by JDECo.
+
+Supply of Vehicles
+The project consists of the supply of one heavy truck with crane, two Hydraulic Basket Trucks,
+one truck with crane for Pole transport, two medium size trucks, five Mini Busses, two forklifts
+and one mobile crane, in addition another two utility vehicles were cancelled, as these are not
+made in Italy.
+
+Tools and test equipment
+The project consist of the supply of different test equipment, mainly Oil Treatment Plant, 3ph
+reference Energy Meter, 3ph Source, 3ph Network Analyzer, Volt and Ampere MV testing
+meters with sticks, and Hydraulic Cable Spiking Tools
+
+Network Information System (NIS) and Geographic Information System (GIS)
+This project was planned to be financed by the EIB loan, after tendering for the procurement of
+the NIS/GIS system and even receiving the no objection from the financier, JDECo has been
+
+
+
+
+                                                  26
+
+informed by the EIB that all disbursements have been "frozen" due to arrears with the Palestinian
+Authority.
+
+Attempts were made to transfer the project to be financed by Italy, after time consuming
+discussions with Italy they have agreed to finance the project but under the condition to re-tender
+for the project. The re-tendering process resulted in a high and over budget bids. JDECo decided
+to reject all the bids and to go for leasing the system with their own recourses for financing.
+
+Rehabilitation and expansion of the distribution network in HEPCo.
+None.
+
+All the obstacles in achieving results for the rehabilitation of HEPCO network is detailed in
+section 4.
+
+Rehabilitation and expansion of the distribution network in SELCo.
+None
+
+All the obstacles in achieving results for the rehabilitation of SELCo network is detailed in
+section 4.
+
+Technical assistance to strengthen sector institutions
+The technical assistance has been provided to all the beneficiaries i.e. JDECo, HEPCo, SELCo
+and PEA. The following sections illustrate the achievement gained by each one of them.
+
+Technical Assistance to strengthen JDECo
+The recruited consultant assisted JDECo in:
+    · Performing a detailed technical analysis of the network to identify the weakness and
+         suggest rehabilitation projects;
+    · Preparation of Restructuring/modernizing plan of JDECo as a corporate entity to enhance
+         its management effectiveness and the consultant supervised the implementation of this
+         plan. The new organizational structure is to meet functional business requirements, to
+         improve customer responsiveness, and improve cost effectiveness. The plan has been
+         implemented successfully;
+    · Preparation of the needed tender documents and evaluation reports to procure all the
+         supplies needed in the rehabilitation projects;
+    · In addition a great advantage in strengthening JDECo was the implementation of the new
+         IT systems comprised of Oracle Financials (including Stock system), Billing and
+         Customer Information System, Human Resources and Payroll, Archiving and Fleet
+         management system, new HR and Payroll system, and Archiving system. Training of the
+         staff turned out to be a major task during the implementation period. Training sessions
+         were held at JDECo training centre in Shuáfat as well as "on the Job" training at the
+         various Branches.
+
+Technical Assistance to strengthen HEPCo
+Making use of the available funds, HEPCo has started and gone live on 1/1/2005 in full power as
+a paperless company after the successful implementation of all financial, billing, and
+administrative software installed and the necessary hardware purchased with the allocation of
+Company Building Component. HEPCo's Consultants have as well contributed in this success by
+assisting in staff appraisal and drafting the operational and revaluation manuals.
+
+
+
+                                                   27
+
+HEPCo implemented an IT system similar to the one in JDECo including Oracle Financials
+(including Stock system), Billing and Customer Information System, Human Resources and
+Payroll, Archiving and Fleet management system, HR and Payroll system, and Archiving system,
+in addition to the needed staff training.
+
+Technical Assistance to strengthen SELCo
+SELCo recruited consultant assisted in:
+     · Preparation of modern organizational structure for SELCo and in recruiting the main key
+          person in the company.
+     · Preparation of the needed tender documents and evaluation reports to procure all the
+          supplies needed in the rehabilitation projects;
+     · Implementation of IT system similar to the system in JDECo and HEPCo.
+
+Technical Assistance to strengthen PEA
+The most important achievement gained for PEA component is laying down all the necessary
+steps needed to create a well regulated electricity sector and implement all the objectives and
+reforms indicated in the PA's SSDP, and laying the legal institutional, economic and financial
+and technical basis for efficient system development. PEA with the assistance of the consultant
+laid down all the necessary requirements ­legal, financial and technical requirements- to establish
+the Palestinian Electric Transmission Company (PETL), and the establishment and launching of
+the Palestinian Energy Regulation Commission (PERC). These two components are the most
+important and pivotal components of the energy sector structure foreseen in the LSP.
+
+The creation of PETL and PERC is waiting for the ratification of the Palestinian Electricity law
+by the Palestinian Legislative Council (PLC). The electricity law is also one of the major
+outcomes achieved during the ESIMP project.
+
+PEA is expecting a fast development of the energy sector as soon as the electricity law is ratified
+by the PLC.
+
+In addition to the above mentioned achievements, PEA could through the ESMP provide training
+for planning and maintenance purposes for the Palestinian utilities engineers and technicians.
+
+Initial Startup and Operating Expenditures
+
+HEPCo
+The project design has provided for a number of measures to improve the cash generation
+capability of the new operating utilities, among which funding for initial start-up and operating
+expenditures to operate as a financially sound and technically capable power distribution
+company. Funding would include provision of expert services, training, and goods related to the
+initial startup of the company.
+
+The initial startup cost for HEPCo not to mention that the core of the Company success was the
+allocation made for the startup expenses to finish the headquarter, main stores, procuring vehicles
+and other necessary operational expense
+
+SELCo
+The initial startup and operating expenditures could finance the procuring of vehicles, portion of
+employee's salaries and other necessary operational expense.
+
+
+
+
+                                                  28
+
+Major Factors Affecting implementation and Outcome
+Since the upraising of the Intifada in September 2000, the working conditions have in general
+been difficult, the utilities, suppliers and the consultant. The Israeli policy of closures and
+political unrest restricted movement of project staff / consultants. This policy imposed a delay in
+the supply and delivery of materials needed for the implementation of the rehabilitation projects
+which forced a bid delay on these projects.
+
+Most the bids financed by Italy where much higher than budget from 35%-100% higher than the
+anticipated budget. This forced the utilities and their consultants to cancel the bids or to re-tender
+which is a time and money consuming.
+
+The HEPCo rehabilitation projects financed by Italy have been cancelled after long tome for
+tendering, evaluation and no objection process from Italy.
+
+Some of JDECo contracts for the rehabilitation of the network financed by Italy have been
+cancelled and diverted to be financed by JDECo internal resources.
+
+The frozen of the EIB loan to JDECo due to the arrears between EIB and the PA affected
+performing the remaining projects in JDECo.
+
+The delays in processing the procurement procedures with the Italian financed projects resulted in
+disproportionate price increase sought by bidders especially due to the rapid increase of the
+copper and aluminum, this forced some of the bidders to request a big increase of their prices
+which affected and delayed the supply of materials especially for SELCo as none of its materials
+have been delivered up to date.
+
+The performance of some bidders was not satisfactory as anticipated which forced also another
+delays for the implementation of the rehabilitation projects.
+
+The HEPCo consultant has been unable to complete the remaining activities with respect to assist
+HEPCo in procurement aspects leading to contract award.
+
+By late 2005, on account of pressures applied by certain sections of the population forced Hebron
+municipality to issue the bills under the name of the municipality instead of HEPCo. As a result
+of this factor and the factor stated under paragraph 4 (c), the Rehabilitation Project Component
+was first postponed, then it was totally cancelled by the Italian Government.
+
+For SELCo several extra weaknesses points arose during the implementation phases of this
+project especially as the project was directed to small municipalities whose teams were not
+experienced enough to run a business of this size. In addition their has been weakness in the
+planned phases of the project as Phase I which includes five municipalities with startup budget of
+USD 2.3 millions, while Phase II that includes eleven municipalities and sixty nine village
+councils, but no budget to cover the cost of joining these municipalities and villages to SELCo.
+
+
+
+
+                                                 29
+
+Project Financing
+                      Source of Funds                           Actual/Latest Estimate (USD M)
+
+ EC: EUROPEAN INVESTMENT BANK                                                               12.00
+
+ ITALY, GOV. OF (EXCEPT FOR DEV. COOP. DEPT. -
+                                                                                             2.44
+MOFA)
+
+ LOCAL GOVTS. (PROV., DISTRICT, CITY) OF
+                                                                                            24.37
+BORROWING COUNTRY
+
+ SPECIAL FINANCING ­ Bank Trust Fund for West Bank/Gaza                                     14.96
+Total                                                                                       53.77
+
+Evaluation of Bank's Performance
+The Bank was very cooperative and comprehensive; especially when they have accepted the
+extension of the project twice to make sure that beneficiaries achieve some of the project
+objectives. Not to mention the cooperation between PEA, the utilities and closeness of the skilled,
+professional, and highly experienced Bank's staff in all the needed assistance, it has provided all
+necessary advice and guidance with enthusiasm that helped in achieving the development
+objectives for all PEA and utilities. Allow us to express our gratitude to all of them.
+
+The over all performance of the bank is highly satisfactory except for the performance of the EIB
+bank when stopped disbursement; in which affected the implementation of some projects.
+
+Evaluation of Borrower's Performance
+Despite of the fact that some components have not been achieved due to external factors such as
+the Intifada, the frozen of EIB loan, the un-approval of the electricity law and the delay of the
+procurement process, the borrower feels that his performance was highly satisfactory. As big
+portion of the development objectives especially the institutional part has been achieved.
+
+Key lessons learned
+The important lessons learned from this project are:
+    · Applying an International Competitive Biddings procedures and regulation for the
+        procurement of the goods, as this will ensure a more economical an least cost materials
+        and no big jump in the cost will be foreseen.
+    · The importance of having a Program Monitoring/Managing Unit (PMU) in similar future
+        projects.
+    · The rules and regulations for procuring materials shall be unified for all the project
+        components and financiers, it is not logical that each financier will have its own
+        procurement regulations and conditions in the same project.
+    · The cooperation between the beneficiaries and the World Bank staff is a major issue for
+        removing unexpected obstacles.
+    · The selection of the project consultant is a key factor of smooth and successful
+        implementation of the project who should have been involved in the startup operation of
+        SELCo.
+    · The assigning of the key persons (General Manager, Financial Manager, Technical
+        manager) of SELCo should have been given to an independent professional third party
+        and through them the experience can be passed successfully to newly-assigned and less-
+        qualified personnel.
+
+
+
+
+                                                 30
+
+Annex 8. Comments of Cofinanciers and Other Partners/Stakeholders
+
+
+
+
+                                    31
+
+32
+
+                                                                  Annex 9. List of Supporting Documents
+
+(a) Consolidated financial statements of JDECo, HEPCo and SELCo
+                                                                      Jerusalem District Electricity Corporation
+                                                                                    Income Statement
+                                                                              (Figures in Thousand NIS)
+                                       1998            1999               2000                2001                2002                 2003                  2004         2005
+                                      Actual    Forecast   Actual  Forecast   Actual   Forecast   Actual   Forecast   Actual   Forecast    Actual     Forecast   Actual  Actual
+ Electricity Sales Revenue             203,871   209,919   209,606 232,482    280,333  257,551    269,262  286,584    308,093  317,583       345,072   352,405   408,890 497,484
+
+ Operating Expenses
+ Electricity Purchased                 161,803   164,831   178,536 178,202    222,515   190,610   213,710  207,330    238,000  224,707       267,266   249,346   327,969 399,900
+ Depreciation                             2,347    6,404     3,484   9,052     19,233   13,616     21,637   17,268     22,822   19,094        26,339    20,098    27,212  28,653
+ Repairs and Maintenance                  7,064    2,247     5,502   3,176     12,004    4,778     14,557    6,059     13,210    6,700         9,409     7,052    14,199  15,131
+ Wages and Salaries                     20,732    23,842    24,850  27,418     25,861   31,531     25,024   36,260     26,791   41,699        32,774    47,954   36,289   46,043
+ Other Operating Expenses                 6,534    7,187     5,361   7,906      5,890     8,697     6,765    9,566      8,703   10,523        11,729    11,575    15,524  16,804
+ Provision for Bad Debts                           4,198     5,000   4,650      4,000    5,151      5,000    5,732     15,000    6,352        14,700     7,048     8,000   6,887
+ Provision for Severance Pay            12,630    11,921     4,689  13,709      6,355   15,765     17,085   18,130     16,205   20,850         2,966    23,977     6,818  12,640
+ Total Operating Expenses              211,110   220,630   227,422 244,113    295,859   270,148   303,778  300,345    340,731  329,925       365,184   367,050   436,011 526,058
+ Consumer Participation                 11,732    16,011    17,545  17,612     18,266    19,373    19,045   21,310     18,252   23,441        17,016    25,785    15,122  33,365
+ Other Income                             4,590    4,769     8,900   5,151      6,103    5,563      6,452    6,008      5,009    6,489        10,733     7,008     7,773   5,477
+
+ Operating Income                         9,083   10,069     8,629  11,132      8,844   12,339     (9,019)  13,557     (9,377)  17,588         7,638    18,148   (4,226)  10,268
+
+ Interest Income                        17,531    17,029    12,086  15,127     13,104   20,572     10,561   27,001      7,925   35,260        20,757    43,719     8,118  12,999
+ Existing Loans Interest Expense          (553)    (331)     (419)    (331)     (337)     (331)     (536)     (331)     (874)     (331)       (1,245)    (331)   (1,276)  (2,384)
+ ESIMP Loans Interest Expense                                    -  (2,689)     (474)   (7,326)    (3,873) (11,036)    (5,183) (12,241)       (5,369) (12,496)   (4,958)        -
+
+ Net Financing Revenues                 16,978    16,698    11,667  12,107     12,293    12,915     6,152   15,634      1,868   22,688        14,144    30,892     1,884  10,615
+
+ Restructuring and Network Rehabilitation Costs                  -            (5,733)              (6,696)             (4,473)                (3,386)            (1,397)       -
+ Management Contract Revenue                  -        -         -        -         -         -         -         -         -         -             -        -         -       -
+
+ Net Income Before Tax                  26,061    26,767    20,296  23,239     15,405   25,254     (9,563)  29,191    (11,982)  40,276        18,395    49,040   (3,738)  20,883
+
+ Income Tax                               9,540    8,030     5,000   6,972     8,274     7,576      1,000    8,757      7,000   12,083        16,000   14,712      5,000   7,233
+ Net Income After Tax                   16,521    18,737   15,296   16,267     7,131    17,678    (10,563)  20,434    (18,982)  28,193         2,395   34,328    (8,738)  13,650
+
+ Appropriation of Profit
+ Board Remuneration                          99      109      176      120       164       132           -     145        150      159           198      175          -        -
+ Declared Dividends                       1,328    5,353     1,328   4,648      1,770     5,051          -   5,838      1,002    8,055         1,463     9,808         -        -
+ Retained Earnings                      15,094    13,275    13,792  11,499      5,196   12,495    (10,563)  14,451    (20,133)  19,979           734    24,345   (8,738)  38,203
+
+ Times Interest Earned                 48.1      81.9       49.4     8.7       20.0      4.3       -1.2      3.6       -1.0      4.2        3.8         4.8       0.4      9.8
+ Return on Total Assets                7%         8%        5%       6%        1%        4%        -2%       4%        -3%       5%         0%          6%        -1%      2%
+ Return on Net Worth                   14%       14%       11%      11%        2%       11%        -3%      12%        -5%      15%         1%         16%        -2%      3%
+ Operating Ratio                       96%       96%       96%      96%       97%       96%        103%     96%        103%     95%        98%         95%       101%     98%
+ Provision for Doubtful Accounts as % of Sales    2%        2%       2%        1%        2%         2%       2%         5%       2%         4%          2%        2%       1%
+
+
+
+
+                                                                                           33
+
+                                                                    Jerusalem District Electricity Corporation
+                                                                                    Balance Sheet
+                                                                            (Figures in Thousand NIS)
+                                        1998          1999               2000                 2001                2002                2003                2004           2005
+                                       Actual   Forecast  Actual  Forecast   Actual   Forecast    Actual   Forecast   Actual   Forecast   Actual   Forecast   Actual    Actual
+Current Assets
+Cash and Bank Balances                  61,398   41,158    64,550  56,046     50,355    74,002     36,250   98,978     38,226  122,511     59,429   150,638    53,199    41,421
+Accounts Receivable                     86,102   74,766   83,102   73,248    112,036    70,562    150,284   70,664    229,068   78,308    208,345    86,894   248,646   312,907
+Provision for Doubtful Debts            (6,000)  (8,398) (11,000) (10,529)   (15,000)  (12,521)   (20,000) (14,496)   (52,159) (16,499)   (64,159)  (18,597)  (72,159)  (78,159)
+Materials and Supplies in Stores        14,659   16,853   18,237   23,820     17,404    35,832     37,163   45,442     37,208   50,247     28,942    52,889    29,899    29,724
+Other Current Assets                     1,118     1,286   15,057   1,479     41,098     1,700     32,683    1,955        148    2,249        122     2,586       238       405
+Total Current Assets                   157,277  125,665   169,946 144,064    205,893   169,575    236,379  202,543    252,491  236,816    232,679   274,410   259,823   306,298
+
+Restricted Assets
+Cash at Bank - for Severance Pay        23,747    34,476   37,387  46,814     48,083    61,003     38,768   77,320     39,689   96,085     40,607   117,664    46,227          -
+Cash at Bank - for Restructuring Project               -        -        -    44,058         -     11,306         -     3,075         -       405          -         -         -
+Fixed Assets
+Operating Assets                       102,142   112,356  122,961 158,803    633,725   238,883    648,213  302,947    660,461  334,979    680,779   352,596   710,067   737,533
+Accumulated Depreciation              (16,021)  (22,425) (21,712) (31,477)  (281,421) (45,093)   (306,034) (62,361)  (315,708) (81,455)  (341,989) (101,553) (369,201) (397,854)
+Net Operating Assets                    86,121    89,931  101,249 127,326    352,304   193,790    342,179  240,586    344,753  253,524    338,790   251,043   340,866   339,679
+Deferred Consumer Participation       (25,057)  (25,057) (31,441) (25,057)   (37,690) (25,057)    (45,835) (25,057)          - (25,057)          -  (25,057)         -         -
+Investments                                275       275    2,428     275      2,468       275      2,434      275      2,434      275      2,434       275     2,434     3,004
+Concession Rights                           50        50       50      50         50        50         50       50         50       50         50        50        50        50
+Total Assets                           242,413  225,340   279,619 293,472    615,166   399,636    585,280  495,717    642,491  561,693    614,966   618,385   649,400   649,031
+
+Current Liabilities
+Due to Banks                             7,234       661    1,941     661      3,212       661      1,093      661      5,280      661        748       661     1,775     9,447
+Accounts Payable                        24,474   12,041    19,588  13,028     32,883    13,951     40,470   15,183     85,888   16,466     38,357    18,265    48,720    43,344
+Income Tax Payable                      15,763     8,030   30,421   6,972     38,695     7,576               8,757      3,766   12,083     12,968    14,712    13,720     3,545
+Dividends Payable                        2,952     5,353    3,818   4,648      4,612     5,051      3,281    5,838      3,358    8,055      4,278     9,808     4,082     2,575
+Current Portion of Long Term Debt                           5,497              5,497                5,497   10,819      5,497   12,751      5,497    13,885     5,497     5,497
+Other Current Liabilities                2,877     3,107    2,942   3,356      3,450     3,624      3,893    3,914     11,213    4,227      6,662     4,565    10,358    15,433
+Total Current Liabilities               53,300   29,192   64,206   28,665     88,349    30,863     54,235   45,172    115,002   54,243     68,510    61,896    84,151    79,842
+Deferred Revenue                        16,969         -   25,722        -    24,805          -    15,517         -    15,529         -    33,167          -   50,460    59,088
+Reserve for Severance Pay               48,769    59,498   52,536  71,836     53,594    86,025     52,126  102,342     50,465  121,107     52,659   142,686    59,348    15,644
+ESIMP Loans                                  -         -        -  44,822     50,025   122,102     75,572  173,107     92,356  191,268     34,735   194,385    34,242    34,148
+Other Loans                              3,850     3,850    3,850   3,850      3,850     3,850      3,850    3,850      3,850    3,850     57,171     3,850    60,482    60,503
+Total Liabilities and                  122,888   92,540   146,314 149,173    220,623   242,840    201,300  324,471    277,202  370,468    246,242   402,817   288,684   249,225
+
+Shareholders' Equity
+Share Capital                            3,750     3,750    3,750   3,750      3,750     3,750      3,750    3,750      3,750    3,750      3,750     3,750     3,750     3,750
+Special Reserve                         40,353    40,353   40,353  40,353     40,353    40,353     40,353   40,353     40,353   40,353     43,053    40,353    43,053    43,939
+Fixed Assets Revaluation Reserve        35,624   35,624   35,611   35,624    291,654    35,624    291,047   35,624    275,008   35,624    256,772    35,624   238,711   221,318
+Compulsory Reserve                       1,875     1,875    1,875   1,875      1,875     1,875      1,875    1,875      1,875    1,875      1,875     1,875     1,875     1,875
+Retained Earnings                       37,923   51,198    51,715  62,697     56,911    75,192     46,955   89,643     44,303  109,622     63,274   133,967    73,327   128,924
+Total Shareholders' Equity             119,525   132,800  133,304 144,299    394,544   156,794    383,980  171,245    365,289  191,224    368,724   215,569   360,716   399,806
+Total Liabilities & Equity             242,413  225,340   279,618 293,472    615,166   399,634    585,281  495,716    642,492  561,692    614,966   618,386   649,400   649,031
+
+
+
+
+                                                                                            34
+
+                                                             Jerusalem District Electricity Corporation
+                                                                 Sources & Applications of Funds
+                                                                     (Figures in Thousand NIS)
+                                     1998          1999               2000              2001               2002              2003              2004         2005
+                                    Actual   Forecast  Actual  Forecast   Actual  Forecast  Actual   Forecast  Actual  Forecast  Actual  Forecast  Actual  Actual
+Sources of Funds
+Operating Income                      9,083   10,069    8,629   11,132     3,111   12,339   (15,716)  13,557  (13,850)  17,588    4,251   18,148  \(5,622)  10,268
+Depreciation                          2,347     6,404   5,691    9,052   259,709   13,616    24,613   17,268    9,674   19,094   26,281   20,098   27,212   28,653
+Plus: Non-operating Income           17,531   17,029   12,086   15,127    13,104   20,572    10,561   27,001    7,925   35,260   20,757   43,719    8,118   12,999
+Total Funds from Internal Sources    28,961   33,502   26,406   35,311   275,924   46,527    19,459   57,826    3,749   71,942   51,290   81,965   29,708   51,920
+Funds from External Sources
+Share Capital & Reserves                   -  10,729    3,754   12,338   257,101   14,189    (1,467)  16,317    (219)   18,765    4,894   21,579    7,420  (18,265)
+ESIMP Loans                                -        -   5,497   44,822    55,522   77,280    31,045   61,824   22,281   30,912  (52,123)  17,002    5,004    5,402
+Other Loans                                -        -        -        -         -        -         -        -        -        -  53,321         -   3,311       22
+Deferred Consumer Participation            -        -   6,384         -    6,249         -    8,145         - (45,835)        -        -        -        -        -
+Total Funds from External Sources          -  10,729   15,635   57,160   318,873   91,469    37,723   78,141  (23,773)  49,677    6,091   38,581   15,735  (12,840)
+Total Sources of Funds               28,961   44,231   42,041   92,471   594,797  137,996    57,181  135,967  (20,025) 121,619   57,380  120,546   45,443   39,080
+
+Applications of Funds
+Investment Program                    7,854   10,214   20,819   46,447   510,764   80,080    14,488   64,064   12,248   32,032   20,318   17,617   29,288   27,466
+Other Short Term Investment                -        -   2,153         -        41        -      (34)        -        -        -        0        -        -     570
+Debt Service
+Interest                                553       331     419    3,020       811    7,657     4,409   11,367    6,057   12,572    6,613   12,827    6,234    2,384
+Principal Repayment                        -        -        -        -    5,497         -    5,497         -   5,497   10,819    5,497   12,751    5,497    5,497
+Total Debt Service                      553       331     419    3,020     6,308    7,657     9,906   11,367   11,554   23,391   12,111   25,578   11,731    7,881
+Income Tax                            9,540     8,030   5,000    6,972     8,274    7,576     1,000    8,757    7,000   12,083   16,000   14,712    5,000    7,233
+Dividends                             1,328     5,353   1,328    4,648     1,770    5,051          -   5,838    1,002    8,055    1,463    9,808         -        -
+Board Remuneration                        99     109      176      120       164      132          -     145      150      159      198      175         -        -
+Other                               (37,925)  10,729   13,640   12,338    54,754   14,189   (42,066)  16,317   (7,311)  18,765   (1,751)  21,579    5,214  (46,227)
+Change in Working Capital            39,693   29,705   (4,645)    4,038   26,917    5,357    87,993    4,502  (46,644)   3,601  (12,161)   2,948      440   53,934
+Cash Increase (Decrease)              7,819  (20,240)   3,152   14,888   (14,195)  17,954   (14,105)  24,977    1,977   23,533   21,203   28,129   (6,231) (11,778)
+Cash Beginning of Year               53,579   61,398   61,398   41,158    64,550   56,046    50,355   74,000   36,250   98,977   38,226  122,510   59,429   53,199
+Cash End of Year                     61,398   41,158   64,550   56,046    50,356   74,000    36,249   98,977   38,226  122,510   59,429  150,639   53,199   41,421
+
+Debt as a % of Debt plus Equity         3%        3%      3%      25%       12%      45%       17%      51%       21%     51%      20%      48%      21%      19%
+Days of Sales in Receivables            143      130      145      115       146      100       204       90      271       90      220       90      222      230
+Current Ratio                            3.0      4.3      2.6      5.0       2.3     5.5        4.4     4.5       2.2     4.4       3.4     4.4       3.1      3.8
+Debt Service Coverage Ratio             35.1     77.0     51.1      9.4      42.4     5.1        1.9     4.3     (0.3)     2.6       2.9     2.6       2.1      5.7
+Self-Financing Ratio                    3.04   (1.19)     2.02    0.77       1.29    0.46     (0.44)    0.43      0.17    0.42      2.15    0.76      0.61   (0.67)
+
+
+
+
+                                                                                    35
+
+                              Hebron Electric Power Company
+                                      Income Statement
+                                  (Figures in Thousand NIS)
+                            2000      2001       2002      2003         2004        2005
+                           Forecast Forecast Forecast Forecast Forecast    Actual   Actual
+
+
+Electricity Sales Revenue   37,783     43,242    78,595    92,098  109,938        - 84,111
+
+
+Operating Expenses
+Electricity Purchased       23,772     26,231    29,395    33,300   38,905        - 79,394
+Depreciation                 1,766      3,070     4,143     4,734    5,133     136   4,347
+Repairs & Maintenance          400        659     1,100     1,464    1,668     101     266
+Severance Pay Expense          232        275       325       373      429     107     254
+Wages & Salaries             3,309      3,926     4,636     5,331    6,131   1,232   4,645
+General & Administrative
+Expenses                     1,324      1,570     1,854     2,133    2,452     831   1,264
+
+Doubtful Debts                 756       865      1,572     1,842    2,199        -    680
+Other Operating Expenses       331        393       464       533      613   3,031   1,673
+Total Operating Expenses    31,890     36,989    43,489    49,710  57,530    5,438  92,521
+
+
+Consumer Participation       2,992      4,118     5,282     6,295    8,313        -  2,715
+
+
+Operating Income             8,885     10,371    40,388    48,683  60,721   (5,438) (5,696)
+
+
+Other Income                      -          -         -        -        -     234   4,235
+TA Performance Bonus         (168)      (168)      (168)        -        -        -       -
+Technical Assistance         (716)      (460)      (230)         -       -        -       -
+Interest Expense             (231)      (635)      (967)   (1,146) (1,257)   (138)   (195)
+
+
+Net Income Before Tax        7,770      9,108    39,023    47,537   59,464  (5,341) (1,656)
+
+
+Income Tax                   2,331      2,732    11,707    14,261   17,840        -       -
+
+
+Net Income After Tax         5,439      6,376    27,316    33,276  41,624   (5,341) (1,656)
+
+
+Appropriation of Profit
+Board Remuneration             155        182       780       951    1,189        -       -
+Declared Dividends           1,554      1,822     7,805     9,507   11,893        -       -
+Retained Earnings            3,730      4,372    18,731    22,818   28,542  (5,341) (1,656)
+
+
+Times Interest Earned           35         15        41        42      48       -38      -7
+Return on Total Assets         9%         8%       21%       20%     21%    -129%      -1%
+Return on Net Worth           13%        14%       43%       39%     37%     100%      -1%
+Operating Ratio               78%        78%       52%       51%     49%          -  107%
+Provision for Doubtful
+Accounts as % of Sales         2%         2%        2%        2%       2%         -     1%
+
+
+
+
+                                          36
+
+                                     Hebron Electric Power Company
+                                              Balance Sheet
+                                        (Figures in Thousand NIS)
+                                   2000      2001       2002      2003          2004         2005
+                                  Forecast Forecast Forecast    Forecast  Forecast Actual   Actual
+Current Assets
+Cash                               13,747    21,627     45,599    74,787  111,019    1,401   15,867
+Accounts Receivable                15,527    14,809     23,686    25,232   27,108           148,597
+Provision for Doubtful Debts       (1,427)   (2,292)    (3,864)   (5,706)  (7,905)          (13,880)
+Net Accounts Receivable            14,100    12,517     19,822    19,526   19,203         - 134,717
+Materials in Stores and in Transit                                                            7,093
+Other Current Assets                                                                   544      118
+Total Current Assets               27,847    34,144     65,421    94,313  130,222    1,946  157,795
+
+
+Fixed Assets                       32,956    54,981     73,198    83,402   90,470    2,336  100,002
+Less: Accumulated Depreciation     (1,766)   (4,836)    (8,979)  (13,713) (18,846)   (136)   (4,483)
+Net Fixed Assets                   31,190    50,145     64,219    69,689   71,624    2,200   95,518
+
+
+Total Assets                       59,037    84,289    129,640   164,002  201,846    4,145  253,313
+
+
+Current Liabilities
+Income Tax                          2,331     2,732     11,707    14,261   17,840         -        -
+Electricity Purchases - IEC         1,981     2,186      2,450     2,775    3,242        72  64,338
+Board Remuneration                    155        182       780       951    1,189         -        -
+Current Portion of LT Debt               -          -         -         -        -        -        -
+Declared Dividends                    130        152       650       792      991         -        -
+Payables to Hebron Municipality                                                        483   31,021
+Other Current Liabilities                                                                78   1,044
+Total Current Liabilities           4,597     5,252     15,587    18,779   23,262      632   96,403
+
+
+Long Term Debt                     11,802    32,387     49,314    58,440   64,086    8,713   11,096
+Reserve for Severance Pay             426        700     1,025     1,398    1,827      141        67
+Total Liabilities                  16,825    38,339     65,926    78,617   89,175    9,486  107,566
+
+
+Shareholders Equity
+Share Capital                          30         30         30        30       30        - 152,745
+Reserves                           31,725    31,089     30,123    28,977   27,720         -        -
+Retained Earnings                  10,458    14,830     33,561    56,379   84,922   (5,341)  (6,997)
+Total Shareholders Equity          42,213    45,949     63,714    85,386  112,672   (5,341) 145,748
+
+
+Total Liabilities & Equity         59,038    84,288    129,640   164,003  201,847    4,145  253,313
+
+
+Debt as a % of Debt plus Equity       22%       41%        44%      41%      36%     258%        7%
+Days of Sales in Receivables          150        125       110       100        90        -     645
+Current Ratio                         6.06      6.50       4.20      5.02     5.60     3.08     1.64
+
+
+
+
+                                               37
+
+                                  Hebron Electric Power Company
+                                  Sources & Applications of Funds
+                                      (Figures in Thousand NIS)
+                                   2000       2001      2002     2003         2004         2005
+                                  Forecast Forecast Forecast Forecast Forecast   Actual   Actual
+Sources of Funds
+Operating Income                    8,885     10,371    40,388   48,683  60,721   (5,438)  (5,696)
+Depreciation                        1,766       3,070    4,143    4,734    5,133     136    4,347
+Plus: Other Income                       -          -         -        -       -     234    4,235
+Total Funds from Internal Sources  10,651     13,441    44,531   53,417  65,854   (5,068)   2,887
+
+
+Funds from External Sources
+Share Capital & Reserves                 -      (636)    (966)   (1,146) (1,257)        - 152,745
+Long Term Debt                     11,571     20,585    16,927    9,126    5,646   8,713    2,383
+Total Funds from External Sources  11,571     19,949    15,961    7,980   4,389    8,713  155,128
+
+
+Total Sources of Funds             22,222     33,390    60,492   61,397  70,243    3,646  158,014
+
+
+Applications of Funds
+
+
+Investment Program                 13,840     22,653    18,615   10,204    7,068   2,336   97,666
+
+
+Debt Service
+Interest                              231         635      967    1,146    1,257     138      195
+Principal Repayment                      -          -         -        -       -        -        -
+Total Debt Service                    231         635      967    1,146    1,257     138      195
+
+
+Income Tax                          2,331       2,732   11,707   14,261  17,840         -        -
+
+
+Dividends                           1,554       1,822    7,805    9,507  11,893         -        -
+
+
+Board Remuneration                    155         182      780      951    1,189        -        -
+
+
+Other                               (987)     (1,139)   (1,897)  (2,215) (2,628)   (141)  (13,806)
+
+
+Change in Working Capital          (1,056)    (1,373)   (1,458)  (1,646) (2,607)     (88)  59,493
+
+
+Cash Increase (Decrease)            6,154       7,878   23,973   29,189  36,231    1,401   14,465
+
+
+Cash Beginning of Year              7,593     13,747    21,625   45,598  74,787         -   1,401
+Cash End of Year                   13,747     21,625    45,598   74,787  111,018   1,401   15,867
+
+
+Debt Service Coverage Ratio           36.0       16.9      33.9     34.2    38.2   (36.9)     14.8
+Self Financing Ratio                  0.61       0.58      1.45     1.83    3.25   (2.13)   (0.88)
+
+
+
+
+                                            38
+
+                                                Southern Electric Company
+                                                     Income Statement
+                                                 (Figures in Thousand NIS)
+                                              2000      2001       2002         2003             2004       2005
+                                             Forecast Forecast Forecast Forecast   Actual  Forecast Actual Forecast
+Electricity Sales Revenue                     17,564     19,955    22,570  25,736       29  29,733   21,722 22,055
+
+
+Operating Expenses
+Electricity Purchased                         11,371     12,380    13,508  15,112         - 17,056   15,680 22,772
+Depreciation                                   1,622      2,753     3,415   3,795      122   3,852     576   2,407
+Repairs & Maintenance                            100        305       513     628         -    704      17     202
+Severance Pay Expense                            100        158       223     257         -    296        -       -
+Wages & Salaries                               1,431      2,250     3,193   3,672      347   4,222   2,377   2,899
+General & Administrative Expenses                572        900     1,277   1,469      233   1,689      695  1,950
+Doubtful Debts                                   319        362       409     466         -    539        -  1,881
+Other Operating Expenses                         143        225       319     367    2,406     422     872     590
+Total Operating Expenses                      15,658     19,333    22,857  25,766    3,108  28,780   20,216 32,701
+
+
+Consumer Participation                         1,423      2,046     2,548   3,046         -  3,821        -  1,104
+Other Income                                                                                                 3,056
+
+
+Operating Income                               3,329      2,668     2,261   3,016   (3,079)  4,774   1,506  (6,486)
+
+
+Incentive Management Fee                       (840)       (840)    (840)        -        -       -       -       -
+Fixed Management Fee                          (3,580)   (2,301)    (1,151)       -        -       -       -       -
+Interest Expenses                              (402)       (805)   (1,021) (1,154)      57  (1,154)   (110) (1,642)
+
+
+Net Income Before Tax                         (1,493)   (1,278)     (751)   1,862   (3,022)  3,620    1,397 (8,129)
+
+
+Income Tax                                          -          -         -    558         -  1,086        -       -
+
+
+Net Income After Tax                          (1,493)   (1,278)     (751)   1,304   (3,022)  2,534    1,397 (8,129)
+
+
+Appropriation of Profit
+Board Remuneration                                  -          -         -     37         -     72        -     25
+Declared Dividends                                  -          -         -    372         -    724        -       -
+Retained Earnings                             (1,493)   (1,278)     (751)     895   (3,022)  1,738    1,397 (8,153)
+
+Times Interest Earned                           (2.7)      (0.6)       0.3     2.6     54.0     4.1    13.7   (3.9)
+Return on Total Assets                         -4.1%      -2.3%     -1.1%   1.8%    -112%     3.3%    2.6%  -16.0%
+Return on Net Worth                            -10%         -9%       -6%     9%     101%     16%     -88%    84%
+Operating Ratio                                 82%        88%       91%     90%   10838%     86%      93%   141%
+Provision for Doubtful Accounts as % of Sales                2%        2%     2%       0%      2%       0%     9%
+
+
+
+
+                                                             39
+
+                                                 Southern Electric Company
+                                                        Balance Sheet
+                                                  (Figures in Thousand NIS)
+                                                2000       2001     2002         2003             2004        2005
+                                               Forecast Forecast Forecast Forecast   Actual Forecast  Actual Forecast
+Current Assets
+Cash                                             1,834      3,865     6,886  12,321   1,194   18,255   1,721     417
+Accounts Receivable                              6,038      5,472     5,078   4,901     168    4,998  48,641  18,800
+Provision for Doubtful Debts                     (552)      (914)   (1,323)  (1,789)       -  (2,328)       - (1,881)
+Net Accounts Receivable                          5,486      4,558     3,755   3,112     168    2,670  48,641  16,918
+Inventory                                                                                10            1,224   4,770
+Total Current Assets                             7,320      8,423    10,641  15,433   1,372   20,925  51,586  22,106
+
+Fixed Assets                                    30,545     51,277    62,836  70,441   1,441   71,587   3,258  31,845
+Less: Accumulated Depreciation                  (1,622)   (4,375)   (7,790) (11,585)  (122)  (15,437)  (698)  (3,105)
+Net Fixed Assets                                28,923     46,902    55,046  58,856   1,319   56,150   2,560  28,740
+
+
+Total Assets                                    36,243     55,325    65,687  74,289   2,691   77,075  54,146  50,846
+
+
+Current Liabilities
+Trade Payable including Municipalities' Payable       -         -         -        -     56         - 46,018  17,908
+Income Tax                                            -         -         -     558        -   1,086        -       -
+Electricity Purchases - IEC                        948      1,032     1,126   1,259        -   1,421        - 25,780
+Board Remuneration                                    -         -         -      37        -      72        -       -
+Declared Dividends                                    -         -         -      31        -      60        -       -
+Others                                                                                  175         -  1,049   3,489
+Total Current Liabilities                          948      1,032     1,126   1,885     231    2,639  47,068  47,177
+
+ESIMP Loans                                     20,118     40,237    51,031  57,722   5,415   57,722   8,483  13,023
+Reserve for Severance Pay                          150        308       531     788      22    1,084     177     328
+Total Liabilities                               21,216     41,577    52,688  60,395   5,669   61,445  55,727  60,528
+
+
+Shareholders Equity
+Share Capital                                      150        150       150     150      44      150      44      44
+Reserves                                        12,148     12,148    12,148  12,148        -  12,148     140     193
+Retained Earnings                                2,730      1,452       702   1,596  (3,022)   3,333  (1,765) (9,919)
+Total Shareholders Equity                       15,028     13,750    13,000  13,894 (2,978)   15,631 (1,582)  (9,682)
+
+
+Total Liabilities & Equity                      36,244     55,327    65,688  74,289   2,691   77,076  54,146  50,846
+
+
+Debt as a % of Debt plus Equity                   57%        75%       80%     81%    222%      79%    123%    390%
+Days of Sales in Receivables                       125        100        82      70   2,135       61     817     311
+Current Ratio                                       7.7       8.2       9.5      8.2     5.9      7.9     1.1     0.5
+
+
+
+
+                                                              40
+
+                                         Southern Electric Company
+                                       Sources & Applications of Funds
+                                          (Figures in Thousand NIS)
+                                   2000       2001      2002           2003           2004        2005
+                                  Forecast Forecast Forecast Forecast     Actual Forecast Actual Forecast
+Sources of Funds
+Operating Income                    3,329      2,668     2,261      3,016 (3,079)  4,774  1,506   (6,486)
+Depreciation                        1,622      2,753     3,415      3,795    122   3,852    576    2,407
+Total Funds from Internal Sources   4,951      5,421     5,676      6,811 (2,958)  8,626  2,082   (4,080)
+
+
+Funds from External Sources
+Share Capital & Reserves                 -          -         -         -     44        -     0        53
+Long Term Debt                     20,118     20,119    10,794      6,691  5,415        - 3,068    4,540
+Total Funds from External Sources  20,118     20,119    10,794      6,691  5,459        - 3,068    4,593
+
+
+Total Sources of Funds             25,069     25,540    16,470     13,502  2,502   8,626  5,150      514
+
+
+Applications of Funds
+Investment Program                 24,965     23,873    13,550      7,605  1,441   1,146  1,817   28,587
+
+
+Debt Service
+Interest                              402       805      1,021      1,154    (57)  1,154    110    1,642
+Principal Repayment                      -          -         -         -       -       -     -         -
+Total Debt Service                    402        805     1,021      1,154    (57)  1,154    110    1,642
+
+
+Income Tax                               -          -         -       558       -  1,086      -         -
+
+
+Dividends                                -          -         -       372       -    724      -         -
+
+
+Board Remuneration                       -          -         -        37       -     72       -      25
+
+
+Other                               (419)      (520)     (632)      (723)    (22)  (835)  (155)   (2,032)
+
+
+Change in Working Capital          (1,713)     (650)     (488)      (936)    (54)  (657)  2,851  (26,404)
+
+
+Cash Increase (Decrease)            1,834      2,032     3,019      5,435  1,194   5,936    527   (1,304)
+
+
+Cash Beginning of Year                   -     1,834     3,866      6,885       - 12,320  1,194    1,721
+Cash End of Year                    1,834      3,866     6,885     12,320  1,194  18,256  1,721      417
+
+
+Debt Service Coverage Ratio           12.3       6.7        5.6       5.4    51.8    6.5   19.0      -2.5
+Self Financing Ratio                  0.27      0.24       0.28      0.42  (1.96)   0.95  (0.44)     2.14
+
+
+
+
+                                                       41
+

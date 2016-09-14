@@ -1,0 +1,2783 @@
+Document of
+The World Bank
+Report No. T-6987-HU
+TECHNICAL ANNEX
+TO THE
+MEMORANDUM AND RECOMMENDATION
+OF THE PRESIDENT
+THE REPUBLIC OF HUNGARY
+PUBLIC FINANCE MANAGEMENT PROJECT
+NOVEMBER 8,1996
+Country Operations Division
+Country Department II
+Europe and Central Asia Region
+
+
+
+CURRENCY EQUIVALENTS
+(as on June 1996)
+Currency Unit = Forint
+1 Forint = US $0.0065
+US$]= 153 Forint
+1993   1994   1995  June 1996
+US$].00=      92.0   104.8  126.2  153.0
+PRINCIPAL ABBREVIATIONS AND ACRONYMS
+CAS           Country Assistance Strategy
+CBI           Central Budgetary Institution
+EBF           Extra-Budgetary Fund
+GDP           Gross Domestic Product
+GFMIS         Government Financial Management Information System
+GFS           Government Finance Statistics
+H/W           Hardware
+ICB           International Competitive Bidding
+IMF           International Monetary Fund
+IS           Information Systems
+IT           Information Technology
+LPF          Law on Public Finance
+MOF           Ministry of Finance
+NBII          National Bank of Hungary
+PFM          Public Finance Management
+PFMP         Public Finance Management Project
+PlFIRD        Policy and Human Resources Development Fund
+PSAL          Public Sector Adjustment Loan
+RDBMS        Relational Data Base Management System
+RFP          Request For Procurement
+S/W           Software
+SIF           State Insurance Fund
+SOE          Statement of Expenditure
+TA            T'echnical Assistance
+TOR           Terms of Reference
+TLS           Treasury Ledger System
+TSA           Treasury Single Account
+Fiscal Year
+January I - December 31
+
+
+
+PUBLIC FINANCE MANAGEMENT PROJECT
+TECHNICAL ANNEX
+TABLE OF CONTENTS
+Pge
+Loan  And  Project Summary ...................................................................i
+1. INTRODUCTION ...........................................................................................................1
+2. THE PREVIOUS SYSTEM AND ITS SHORTCOMINGS ........................................3
+Structure of Government ..................................................................3
+Budget Preparation .................................................................3
+Budget Execution ..................................................................4
+Fiscal Information  System  ..................................................................4
+Debt Management ...........                              ..4
+3. REFORM    STRATEGY  AND  PROGRAMS ..............................................................5
+A. IMF  Recommendations ...............................................................5
+B. The Government's Reform  Program  ................................................................                        6
+C.  Progress To-Date ................................................................8
+4. LESSONS OF EXPERIENCE AND BANK STRATEGY ..........................................9
+Lessons Learned ................................................................9
+Rationale for Bank Involvement ...............................................................                               10
+5. THE PROJECT ...............................................................                                                       10
+Objectives ................................................................ 10
+Project Description.                                               ............................................................... 10
+A. Budget Preparation  ...............................................................                                    11
+B. Treasury Operations ...............................................................                                    11
+C. Debt Management ...............................................................                                        12
+D. Public Finance Management Information Systems Network (PFM-IS Network) 12
+Project Administration  Support ............................................................                                 14
+IMF  Coordination ...........................................................                                                14
+Items to be Financed ............................................................ 14
+6. IMPLEMENTATION ARRANGEMENTS, ACTIVITIES AND SCHEDULES ..... 15
+Project Implementation Arrangements ...............................................................                          15
+Project Sustainability ...............................................................                                       16
+Project Launch, Monitoring and Evaluation ...............................................................  16
+
+
+
+Table of Contents (continued)
+7. PROJECT FINANCING AND COSTS                           ..                  ............................. 17
+Financing Plan ...............................                                              17
+Project Costs ...............................                                            18
+Procurement Arrangements ...............................                                 19
+Methods other than ICB ...............                                                   20
+Technical Assistance ............... 21
+Disbursement and Financing Schedules ...........................                           21
+Special Account ...........................                                                22
+Audit Timetable ...........................                                                 22
+8. BENEFITS AND RISKS ...............................       .                                   23
+Benefits ...............................                                                   23
+Risks ...............................                                                      24
+ANNEXES
+Annex I       Design and Implementation of a GFMIS
+Annex II    Schedule of Technical Assistance
+Annex III   Schedule of Hardware / Software and Training
+Annex IV    Project Cost and Financing Tables
+Annex V       Project Administration Activities to be Performed by MOF/NBH
+Annex VI   Project Implementation Arrangements, including Procurement and Disbursement
+Annex VII  Project Performance Indicators
+Annex VIII Project Implementation Schedule
+Annex IX    List of Selected Documents in Project File
+
+
+
+REPUBLIC OF HUNGARY
+Public Finance Management Project
+Loan and Project Summary
+Borrower:                The Republic of Hungary
+Implementing Agency:    The Ministry of Finance
+Beneficiaries:           The Ministry of Finance, The State Treasury
+Poverty:                Not applicable
+Amount:                 US$7.75 million
+Terms:                   Standard amortization term, grace period, and interest rate for fixed
+rate US Dollar single currency loans with an expected
+disbursement period of 3-6 years
+Commitment Fee:         0.75 percent on undisbursed credit balances, beginning 60 days
+after signing, less any waiver
+Financing Plan:          See para. 7.1
+Project ID Number:       43446
+
+
+
+
+
+
+1. INTRODUCTION
+1.1   Hungary has experienced a major public finance crisis starting in 1994. An excessively
+gradualist approach to the public sector reform, based on the desire to ensure social stability
+during the transition, has led to unsustainable levels of expenditures and fiscal deficits. The large
+budget deficits have expanded Hungary's public debt. With gross external debt of 70 percent of
+GDP, and a debt service of 8 percent of GDP, Hungary is one of the most heavily indebted
+countries.
+1.2   Faced with large internal and external macro imbalances, the Hungarian authorities
+announced in March 1995 a package of stabilization measures, including: (a) significant cuts in
+fiscal expenditures; (b) strict wage controls in the public sector; (c) increases in fiscal revenues;
+and, (d) an up-front devaluation of 9 percent and introduction of a pre-announced crawling peg.
+The stabilization efforts continued in 1996 and included a strict budgetary policy. This policy has
+led to significant improvements. The consolidated government deficit (excluding privatization
+revenues) is expected to be reduced to 4 percent of GDP in 1996 from a record level of 8.4
+percent in 1994. The estimated revenues and expenditures of the general government in 1996, at
+46 percent, and 50 percent respectively, are 7 and 11 percent, respectively, lower than in 1994.
+The primary balance of the general government (excluding interest revenues and expenditures)
+shows an even more radical improvement, from a deficit of 2.7 percent in 1994 to an expected
+surplus of 3.7 percent in 1997. These measures and further fiscal corrections are needed to
+maintain the budget and current account deficits at sustainable levels. Moreover, major structural
+reforms in the public sector and in the banking and enterprise sectors are necessary to reduce the
+size of the State, release resources for the private sector, and thus to ensure a high and sustainable
+growth.
+1.3   To address the most severe structural weaknesses in the public sector, the Government
+has prepared a plan for a comprehensive public finance reform. The reform of the public sector is
+expected to be fully implemented over a period of about four years, starting in 1996. The public
+finance reform program emphasizes institutional improvements that yield the largest budgetary
+savings, promote transparency of actions, while simultaneously increase the efficiency of public
+services and of the allocation of public resources. The program concentrates on restructuring and
+reforming: (a) the welfare system; (b) tax policy and tax administration; (c) public administration
+and public finance management; and (d) intergovernmental finances.
+1.4   The reform of public finance management is necessary to improve the allocation of public
+resources. The organization and financial management of government operations face several
+major problems. First, widespread earmarking of revenues reduces the flexibility in reallocating
+scarce public resources to priority needs. Second, anticipated budget management practices
+hamper effective expenditure control. Third, public debt management is inefficient and suffers
+from too fragmented responsibilities with independent borrowing authority granted to various
+
+
+
+2
+agencies. Fourth, the government financial information system is inadequate for budget planning
+and execution.a
+1.5   The Government has launched a three-year plan, starting in 1996, to improve financial
+planning, budget execution and a better coordination in financing government deficits. This plan
+involves major changes in institutional arrangements, including the budgeting process. Budgetary
+institutions at the central level are being rationalized; number of extrabudgetary funds reduced;
+skills required in public administration redefined; and the employment management and structure
+in the public sector reformed. In January 1996, the Government undertook a critical step to
+ensure budgetary control by establishing a Treasury, and introducing an interim Government
+Financial Management Information System (GFMIS). According to the 1996 Budget Law
+approved by Parliament in December 1995 and the amendment to the Law on Public Finances
+approved in November 1995, all central budgetary institutions and most extrabudgetary funds
+have been absorbed into the Treasury system. A Council of Treasury consisting of representatives
+from the MOF, the NBH and the Treasury has been established as a decision-making body to
+coordinate the monetary, fiscal and debt policies.
+1.6   The IMF has been advising the Government on setting up the Treasury and on key aspects
+of budget preparation and expenditure management over the last two years. The US Treasury and
+the UK Know How Fund are also rendering advice to the Government on budget and treasury
+matters. The Bank has been collaborating with both the IMF and the bilateral providers of
+technical assistance to assist the Government in its reforms and in preparing a Public Sector
+Adjustment Loan (PSAL).
+1.7   The Government has approached the Bank to finance the development and implementation
+of new systems, processes, procedures and methodologies required for the implementation of the
+new institutional structure and processes of public finance, associated with the revised budgetary
+processes and treasury operations and management. The Bank has evaluated the proposals and
+has found the proposed project justified for financing because it:
+-     addresses priority problems (chapter 2);
+-     fits within an overall program for public sector reform (chapter 3);
+-     takes into account lessons from prior Bank experience and is in accord
+with the Country Assistance Strategy (CAS) (chapter 4);
+-     has priority objectives and needed content (chapter 5);
+-     has reasonable costs and a feasible implementation plan (chapter 6 &7);
+-     would confer important benefits in public finance management (chapter 8);
+the risks are limited and worth taking (chapter 8).
+EI See International Monetary Fund, Hungary: Strengthening the Financial Management of
+Government Operations, Fiscal Affairs, July 1994.
+
+
+
+3
+Following an explanation of the current system in chapter 2, these points are elaborated in
+sequence in subsequent chapters.
+2.    THE PREVIOUS SYSTEM AND ITS SHORT COMINGS
+2.1   Previous analyses by the Hungarian Authorities and by the LIMF and the World Bank staff
+highlighted significant weaknesses in the budget system and the financial management of
+government operations. These have been reported on in previous Bank and IMF reports (e.g.
+Hungary--Strengthening the Financial Management of Government Operations--IMFJFAD, July
+1994, PSAL Concept Paper -January 1996- World Bank). The features of the previous system
+that hindered effective financial management in the central and local governments are summarized
+below.
+Structure of Government
+2.2   The structure of the Hungarian Government and the nature of the general government
+financial flows could be characterized as extremely decentralized, which significantly hindered
+effective budget preparation and execution, as well as cash and debt management. Lack of
+control over Central Budgetary Institution (CBI) activities also retarded potential efficiency
+improvements in resource allocation. CBIs, in addition to performning state tasks as specified in
+their enabling legislation, could supplement their resources by engaging in additional tasks, some
+of which are clearly commercial in nature. However, given the implicit subsidies on the inputs
+they used (equipment, labor, utilities), the prices charged for the goods and services sold by CBIs
+did not reflect the cost to society of the resources used. In addition, widespread earmarking of
+revenues reduced the flexibility in reallocating scarce public resources to priority needs.
+Budget Preparation
+2.3   Under the previous information system (para 2.7), the final data on budgetary chapter
+revenues and expenditures, including activities of the CBIs and Extra-Budgetary Funds (EBFs)
+that they supervise, were often not available. One result of this was a persistent underestimation
+of budgetary chapter revenues, generally the own revenues of CBIs. The unavailability of timely
+and sufficiently disaggregated data on CBI revenues and expenditure made it difficult to reallocate
+budgetary resources among CBIs both within budgetary chapters and among chapters. Moreover,
+limitations in the data reporting system hindered chapters and the MOF in examining the
+efficiency with which these programs are administered. Finally, although data on end-year cash
+balances for each budgetary institution (chapters, CBIs, FBFs) were available, the lack of detailed
+data on revenues and expenditures did not allow the MOF to adjust annual budgetary transfers in
+light of previous year's own revenue performance. Given the CBIs' ability to collect, retain and
+spend own revenues, a right explicitly given in the Law on Public Finance, the total revenue and
+expenditure levels proposed by the Government and approved by Parliament were in fact not rigid
+limits, but were instead indicative targets.
+
+
+
+4
+Budget Execution
+2.4   The decentralized nature of central government operations, and the absence of a central
+Treasury, posed difficulties in effective and efficient cash and debt management. Budgetary
+institutions in Hungary had individual bank accounts. Because the CBIs have independent
+responsibility for own revenues and total expenditures, and because of limitations on the
+timeliness of information generated by the previous system, the MOF and the NBH had
+difficulties in forecasting net government credit.
+2.5   The State Insurance Funds (SIFs) were separated from the state budget in 1989 and split
+into separate pension and health care funds in 1993. However, for some important aspects of
+debt and cash management, they were for all intents and purposes still part of the state budget.
+They had access to the state budget's Liquidity Fund to cover revenue shortfalls. Their revenue
+and expenditure accounts were separate from the Liquidity Fund accounts, however, and the
+MOF was not aware of their projected cash flows. This of course hindered efficient cash and
+debt management, and posed difficulties in formulating and executing effectively monetary
+policy.
+2.6   The SIFs, as well as particular EBFs, are granted, in the context of the annual budget,
+authority to borrow independently of the state budget. Allowing decentralized borrowing powers
+makes macroeconomic control difficult as it is more difficult to convince the independent
+borrowers of the need for adjustments in their activities consistent with changing economic
+circumstances.
+Fiscal Information System
+2.7   As mentioned above, the fiscal information system was inadequate in providing timely
+and sufficiently detailed data on government operations in a form that is useful for policy
+making, execution and control. It should be noted that, following the adoption of the Law on
+Public Finance (LPF), detailed semi-annual reports were required from all budgetary institutions
+at the central government level, as well as aggregated data at the local level. In addition, less
+detailed "flash" reports were required at the end of each quarter. In spite of these improvements,
+budget preparation, execution and control continued to be hobbled by the system. Without
+adequate time to analyze detailed data by institution and by program, the Government was not
+able to use public money efficiently. The budget continued to be prepared with less than
+appropriate knowledge of the present circumstances.
+2.8   The lack of timely information also did not allow adequate expenditure verification and
+control. Moreover, without an effective on-line system, it was not possible to effect rapidly
+cutbacks in budgeted expenditures that became necessary in the face of changing macroeconomic
+circumstances or revenue shortfalls. Finally, the lack of information did not allow appropriate
+consolidation of government revenues and expenditures.
+Debt Management
+2.9    Weaknesses were also present in the management of the public debt. Specifically these
+included: (a) fragmented institutional responsibilities for debt management; (b) independent
+
+
+
+5
+borrowing authority granted to certain government agencies; (c) government financing by the
+National Bank of Hungary (NBH); (d) excessive diversification of government debt instruments
+and of issuing techniques which hindered the deepening of the secondary market; and (e)
+insufficient emphasis on creating institutional conditions (in particular a strengthened legal and
+regulatory framework and adequate supervision) for the smooth functioning and development of
+this market.
+2.10  Shortcomings of the system highlighted in the foregoing paragraphs led to the
+development of the Government's reform program for fiscal management described below.
+3.  REFORM STRATEGY AND PROGRAMS
+A.   IMF Recommendations
+3.1   The main reform measures recommended by a series of IMF (Fiscal Affairs Department)
+missions are summarized below.
+3.2   The Budget Process The central government budget should include the detailed budgets
+of: the state, including the budgetary chapters; each of the CBIs and extra-budgetary funds. The
+approved expenditures for each budgetary chapter and each of the other central government
+agencies should represent mandatory limits for the budget year. Modifications to the approved
+budgets should, in principle, be authorized by Parliament through supplementary budgets.
+3.3   The current classification scheme for the budget should be revised, with a view to
+improving its usefulness for economic analysis and to allow accurate consolidation of
+intragovernmental flows of revenues and expenditures.
+3.4   Government agencies should be required to maintain records of (and once a computerized
+financial information system has been set up, register in it) all phases of expenditures, namely the
+commitment of funds, verification of the obligation to pay, issuance of the payment order, and
+actual disbursement of funds.
+3.5   Financial Management of Government Operations. As a matter of priority, and in line
+with the practice of most western economies, a State Treasury should be established within the
+Ministry of Finance. The Treasury should have as primary responsibilities: (a) planning and
+ensuring the orderly financial execution of the budgets of the central government, including the
+CBIs and the extra-budgetary and social insurance funds; and of the transfers between central
+and local governments; and (b) planning and coordinating the financing of government deficits.
+3.6   The Liquidity Fund of the state and the bank accounts of budgetary chapters, CBIs, extra-
+budgetary funds and social insurance funds should be consolidated into a Treasury Single
+Account (TSA) at the NBH. This step needs to be accompanied by the development and
+progressive implementation of a computerized, on-line government financial management
+information system (GFMIS), the main features of which are outlined below. The consolidation
+of the bank accounts of the above-mentioned entities into a single Treasury Account would be
+accompanied by the creation of ledger accounts for these agencies in the GFMIS. All revenues
+
+
+
+6
+would be deposited in the T'SA, but would also be credited simultaneously to the appropriate
+account in the GFMIS. Transfers between agencies would be registered in the GFMIS, but
+would not affect the TSA. Only payments to entities outside the system would be debited to the
+TSA. This, of course, would help reduce the financing requirements of the Treasury, and
+consequently the interest charges to the budget.
+3.7   The financial consolidation of government balances would be compatible with the
+continuation of a decentralized execution of the budgets of government agencies. The Treasury
+would continue to ensure an orderly flow of transfers from the state budget to the other agencies.
+The agencies would be able to effect (within the limit of the relevant budgetary allocation) any
+payment for which they had sufficient balance in their GFMIS account.
+3.8   An overview of the proposed GFMIS structure and functions is given at Annex I.
+B.   The Government's Reform Program
+3.9   The Government has now prepared, in association with Bank staff and following the IMF
+recommendations, a plan to address the most severe structural weaknesses in the public sector.
+Some initial measures have been implemented as part of the 1995 stabilization package and
+further measures were planned for 1996. The public sector reform program involves expenditure
+reforms, including a major reform of the local government and pension system; reductions in
+cash benefits combined with better targeting of transfers to the poorest households; and a plan to
+reduce employment in the civil service; revenue system reforms, including gradual reductions in
+payroll taxes; a realignment of the personal income tax structure; and improvements in tax
+administration; and reforms in budgetary institutions and the budgeting processes, including the
+establishment of a Treasury.
+3.10  The proposed reform program will introduce changes in the institutional structure of
+public finance and in the budgeting process. The program will focus as a priority on institutional
+improvements that yield the largest budgetary savings, promote transparency of actions and
+simultaneously reduce waste of state resources and increase the efficiency of public services.
+Complementing these measures, the Government is launching a three year program to establish a
+Treasury, to improve financial planning, budget execution and better coordination of the
+financing of government deficits generated by the various subsystems of public finance.
+3.11  Establishment of a Treasury. rhe Government has established a central Treasury to
+improve: (a) financial planning; (b) financial execution of the budgets of budgetary chapters,
+autonomous central budgetary institutions, extra-budgetary funds and Social Security funds and
+of transfers between central and local governments; and (c) planning and coordination of the
+financing of government deficits. The separate accounts of central budgetary institutions and,
+particularly, the liquidity fund -- the central MOF account, which is the net balance of many credit
+and debit accounts maintained by NBH -- have been progressively consolidated into a Treasury
+Single Account (TSA) maintained by NBH. This consolidation took place with effect from January
+1, 1996. This will be complemented by the development of a GFMIS, incorporating ledger
+accounts for both budget preparation and implementation and a system to monitor financial flows.
+As a result, all government revenues would be deposited in the TSA and simultaneously credited to
+the GFMIS. Transfers between agencies would be registered in the GFMIS but would not affect
+
+
+
+7
+the TSA position. Only payments outside of the TSA system would be debited. In this way, the
+Treasury system is expected to lead to a more efficient cash management and savings in financing
+of the Government.
+3.12  The Treasury has been structured into central and regional directorates. The central
+directorate would concentrate on policy, regulation and control over the Treasury operations, the
+execution of national cash and debt management, and would provide the executive and
+parliamentary bodies with financial management information for decision making. The regional
+directorates would perform the day-to-day Treasury and accounting services to the government
+agencies in their geographical areas, interface with the local branches of the National Bank of
+Hungary for access to the TSA, and with the central directorate for information exchange.
+3.13 Under a decree of July 1995 and an Amendment of the Act on Public Finance of November
+1995, the Treasury is expected to: (a) enforce a strict relationship between the budget appropriation
+and payments; (b) implement new systems for cash and debt management; (c) eliminate the transfer
+of cash in transactions between government agencies; (d) implement a homogenous accounting
+system and GFMIS to increase the transparency of budget execution and the quality of financial
+information available to government agencies; (e) implement a centralized TSA at the NBH; (f)
+ensure that all government receipts and payments to non-governmental agencies are transacted
+through the TSA; and (g) carry out detailed accounting for agencies connected to the system.
+3.14  The Government has set up a task force in the MOF, headed by a Deputy Secretary of State
+having the rank of Ministerial Commissioner, to fully implement the establishment of the central
+Treasury system. Implementation of the Treasury systems and of the GFMIS is expected to take
+place during 1996-98 with the following major actions:
+*     January 1, 1996 - Adjust legal framework for government financial management;
+adopt required budget and accounting nomenclatures; start operation of the Treasury Single
+Account; absorb all central budgetary institutions and extra budgetary funds into the
+Treasury circle; eliminate cash payments between government agencies, including
+collection of social security tax for public employees; start effecting payments against
+payment orders generated by the CBIs in response to specific vendor invoices, rather than
+by pre-financing agencies in anticipation of such payments. Government institutions would
+maintain detailed accounting records but would assure that accounting is based on the new
+classification system and Treasury management regulations.
+*     January 1, 1997 - Extend the above mentioned measures to other central budgetary
+organizations and public bodies, including the social security institutions; start providing
+detailed GFMIS based accounting and management reporting to the central government and
+its agencies. Government institutions would still retain parallel accounting as a security
+measure.
+
+
+
+8
+3.15  According to the original decree, Treasury operations were to be extended to local
+government (municipalities) and public bodies outside the central budget. However, due to the
+legislative complexity involved in the incorporation of local governments into the treasury circle,
+and the specialized nature of the local government financial systems, Government has
+subsequently decided that this issue required more examination. The above-mentioned decree
+was accordingly modified in April 1996, postponing the incorporation of the local governments
+into the Treasury.
+C.   Progress To Date
+3.16 Reforms have progressed substantially since the government decision of July 4, 1995,
+with a number of initiatives proceeding in parallel. These are summarized below.
+3.17  Treasury Operations. The January 1996 actions have been accomplished. The legal and
+policy steps have been implemented according to the timetable. The necessary high level
+amendments to the legal framework have been developed. The changes were approved by
+Parliament in November, 1995. The detailed regulations and procedures necessary for the day-
+to-day operation of a treasury system have been developed.
+3.18 An interim Treasury Ledger System (TLS) has been developed by the Treasury to
+accommodate appropriation accounting for the CBI's and EBF's (absorbed into the Budget) at an
+aggregate level. This system has been implemented from January 1, 1996. Some of the main
+conceptual elements of the treasury system, namely a single account for government operations,
+a centralized ledger system, and a payment system based on payment orders rather than advance
+funding are in place. However, the interim system does not include a number of important
+functions required in a full GFMIS and further conceptual design work is necessary.
+3.19  Budgeting. Work has commenced, with the assistance of the US Treasury, to classify the
+Budget consistent with GFS methodology, and develop a chart of accounts for use in the final
+Treasury System. The central budget preparation process is already well formalized and logical in
+approach.
+3.20  The budget preparation process is supported by a computer-based system capable of
+rapidly collating the figures from ministries (supplied by email, on diskette or on paper) and
+performing re-calculations where necessary. The system is also connected directly to the
+Parliament building to allow changes required by Parliament to be incorporated immediately into
+the database. The Budget Department is in the process of upgrading considerably the IT
+capability (the database software will be significantly enhanced with a move from MICROSOFT
+ACCESS to ORACLE).
+3.21  However, the fiscal information system must be upgraded, so that the final data on
+budgetary chapter revenues and expenditures, including central budgetary institutions and extra-
+budgetary fimds, are made available for the preparation of the annual budget and for effective
+budget execution and control. The Budget Department needs to improve its access to necessary
+information from local governments and from the Social Security Funds. Ultimately, not only the
+Treasury, but also local governments will need to update their information technologies to be able
+to support a proper budget preparation process.
+
+
+
+9
+3.22 Following recommendations developed under PSAL, the government program also
+acknowledges the need to improve coordination between the budget preparation and budget
+execution areas. This will involve bringing together the development of a budget preparation
+system with the work on the Treasury system. The databases of both budget preparation and
+budget implementation will be constructed on one identical chart of accounts and at the same level
+of detail. Thus, under the Public Financial Management Reform program, the existing databases
+will be consolidated, and compatible operating software systems will be developed and harmonized
+across the Budgeting Department and the Treasury.
+3.23 The IMF has been advising the Government on setting up the Treasury and on key aspects
+of budget preparation and expenditure management over the last two years. The US Treasury
+and the UK Know How Fund are also rendering advice to the Govermment on budget and
+treasury matters. The Bank has been collaborating with both the IMF and the bilateral providers
+of technical assistance to assist the Government in its reforms and in preparing a Public Sector
+Adjustment Loan.
+3.24 Debt Management. The Debt Management Office of the Treasury manages the issue and
+recording of domestic debt. The NBH is currently responsible for external debt management. The
+current set of systems used for management of the issue and recording of domestic debt
+instruments is fragmented. It includes five different groups of information systems to assist in the
+processes of public trading, auction of treasury bills, over-the-counter trading of government
+issues, and to assist in record keeping and analysis of domestic debt data. The Treasury has
+recently completed an analysis of the deficiencies of the current set of information systems to
+assist in the management of domestic debt and has developed a statement of overall functional
+requirements. The Treasury is examining proposals for the design and implementation of an
+integrated system for the management of domestic debt.
+4.    LESSONS OF EXPERIENCE AND BANK STRATEGY
+Lessons Learned
+4.1   Sector experience of the Bank and the Tax Administration Modernization Project (3635-
+HU) in Hungary indicates that projects with a sizable amount of technical assistance and
+information systems investment should: (a) be carefully focused, particularly to provide adequate
+attention to functional design issues prior to computerization issues to ensure effective and efficient
+implementation; (b) have the active support of government and ministry officials, to ensure
+properly considered and timely decision-making on crucial issues; and (c) have a well-defined
+procurement plan including terms of reference for consultants and studies, drafted and agreed with
+the Borrower prior to negotiations.
+4.2   Based on these lessons the Public Finance Management Project will focus on four specific
+areas for which govermnent commitment and financing have been secured. A procurement plan,
+including terms of reference for consultants and studies were drafted and agreed with the Borrower
+prior to negotiations, and finalized during negotiations. Also, given the importance of institutional
+
+
+
+10
+capacity building and information systems in the project, the project team will closely supervise
+handling of the design, procurement and implementation challenges.
+Rationale for Bank Involvement
+4.3   The project is consistent with the Country Assistance Strategy (CAS) for Hungary which
+was discussed by the Executive Directors on June 15, 1995. The objectives of the CAS are to
+help Hungary maintain macroeconomic stability and accelerate its growth to facilitate EU
+accession; reform public finance and social policy and strengthen the human resource base; and
+strengthen and privatize Hungary's financial and enterprise sectors. The PFMP will focus on
+reforming the institutional structure of public finance and on the budgeting process. By
+designing and implementing the necessary tools, the project will assist the Government in both
+implementing and monitoring the required measures of the public finance reform. The project
+will also complement the Public Sector Adjustment Loan, which is currently under preparation
+and aims at restructuring Hungary's social expenditures, particularly pension and health care.
+5.    THE PROJECT
+Objectives
+5.1   The overall objective of the project is to assist the Government to optimize the deployment
+and use of its financial resources through changes in the institutional structure of public finance
+and in the budgeting process by:
+(a)   introducing improved methods, guidelines and systems for budget preparation,
+macroeconomic forecasting and, particularly, preparation of forward estimates;
+(b)   ensuring smooth and timely execution of the budget, while minimizing the cost of
+government financing through the newly established Treasury;
+(c)   optimizing the management of public debt; and,
+(d)   designing and setting up coordinating mechanisms, policies, procedures and
+standards that would ensure that the different elements of the Government's Public
+Finance Management (PFM) network can function as an integrated whole.
+5.2   This project would assist the Government in designing and implementing a set of tools to
+enable it to move forward in the implementation of planned changes in the institutional structure
+ofpublicfinance and in the budgeting process.
+Project Description
+5.3   The project focuses on the key initiatives of the Government's program of Public
+Financial Management Reform. The proposed project is organized into four components and
+will provide technical assistance, computer equipment and software to assist the authorities to
+
+
+
+I1
+design, develop and implement processes, procedures, systems, related regulations and training
+programs for:
+(a)   Budget Preparation;
+(b)   Treasury Operations;
+(c)   Debt Management; and,
+(d)   Policies, procedures and standards for the PFM information systems network.
+(a) Budget Preparation (base cost US$0.978 million)
+5.4   For this component, technical assistance would be provided to: (i) develop improved
+methods and guidelines for budget preparation, macroeconomic forecasting and preparation of
+forward estimates; (ii) review the existing budget coding structures, and, if necessary develop
+and design a revised structure and chart of accounts conforming with the GFS and the EU
+classification methodologies and suitable for both budget preparation and implementation; and
+(iii) develop a functional design of systems, processes and procedures for budget preparation.
+The project would then provide technical assistance, computer hardware and software during
+implementation to:
+(a)   implement the revised budget coding structure and chart of accounts for the
+central government;
+(b)   develop detailed regulations and operating manuals;
+(c)   develop the technical design and implement an information system to assist the
+Government in the budget preparation process. This would include incorporating
+modifications to the existing information system for budget preparation so as to ensure
+that it is able to record the budget appropriations in the same form including the use of an
+identical chart of accounts and level of detailed breakdown that is used during the budget
+implementation phase by the treasury system; and
+(d)   design and develop a training strategy and plan for the implementation of the
+revised budget preparation system.
+(b) Treasury Operations (base cost US$3.97 million)
+5.5   Technical assistance is being provided under a PHRD grant to build on prior work done
+by the Govermnent towards the development and implementation of the interim treasury system
+which is now operational. Technical assistance will also be provided to develop the full
+functional design of systems, processes and procedures for expenditure control and treasury
+operations to complete the design of a full function Treasury Ledger System (TLS). Particular
+attention would be paid to incorporating all elements of the expenditure control process,
+including checking for budget appropriations, prior commitment and verification for receipt of
+goods and services, prior to authorizing payment. The necessary detailed regulations and
+operating manuals would also be developed. It is critical that work under the Treasury
+Operations component be closely coordinated with that of the Budget Preparation component and
+that the databases for both systems use an identical chart of accounts to provide for the proper
+
+
+
+12
+functioning of the budget execution processes. This will be ensured during the design of the
+Treasury system. During implementation, the project would provide technical assistance,
+computer hardware and software to enable the Government to complete the technical design of
+the system and implement the system at the Central Treasury and the Regional Treasury Units.
+(c) Debt Management (base cost US$1.63 million)
+5.6  In this area, technical assistance would be provided to enable the Government to develop
+improved methods, regulations and guidelines for debt recording, reporting and issuance. The
+work would be carried out in close cooperation with the agencies responsible for both domestic
+and foreign debt management to:
+(a)   develop improved methods and functional design of systems for ledgers of
+domestic, foreign and the aggregate public debt, and government sureties and advances;
+(b)   design an appropriate standardization of debt instruments, auction rules and
+calendar of issuance and refunding, for both the foreign and domestic debt; and,
+(c)   develop an action plan that would assist the government debt management offices
+coordinate and optimize their debt policies vis-a-vis the government securities market,
+including further institutional development of the central registries of dealers and
+investors, and surveillance of dealers and audit.
+(d) Public Finance Management Information Systems (PFM-IS) Network
+(base cost US$2.17 million)
+5.7   A number of different systems modules are required to cover the full functionality of a
+Government Financial Management Information System. Figure 1, below, shows the possible
+core elements of a PFM systems network for Hungary and the main information flows between
+elements. This Information Systems Architecture for PFM has been derived by analyzing data
+from a number of countries on public financial management processes and the information
+systems required to support these processes and applying the results to the Hungarian situation.
+The Y-axis lists the main functional processes associated with PFM and the X-axis the
+organizations normally responsible for these processes. Each box in this diagram lies at the
+intersection of the functional process and the organization(s) normally associated with the
+process and may be seen as a information support system for that process. Each such system
+could in practice comprise a number of subsystems. The main information flows between the
+systems modules are also shown in the diagram.
+5.8   More often than not, these systems are implemented as components of separate projects,
+responding to specific needs, with little appreciation of requirements in other areas and little
+thought given to critical interrelationships. The resulting information systems are often disparate
+and segmented with little or no capacity for sharing data. They have overlapping and sometimes
+conflicting functionality and provide incomplete coverage, particularly for managerial
+information requirements, which normally span several functional areas. Once the initial
+framework has been set up and the pre-requisites and criteria for integration have been spelled
+
+
+
+13
+~~-I-"-!~~~~~~~- -  - - - --- -   I     - 
+.    _.                                  ''
+. ,
+t~ ~~~~~~~~~~ ~    ~ ~~~~~~~~    - - - - - - - -s]] - - - - -E -| -1| -        
+- - - - - - - - - - - - - - C
+I   &~~~~~~~I
+
+
+
+14
+out and incorporated in the implementation plan, the actual implementation of systems modules
+would be carried out as part of individual projects for respective areas.
+5.9   For this component the project would provide technical assistance to develop policies,
+procedures and standards necessary for ensuring integration between the different elements of the
+information systems network and finance any hardware/software requirements for the
+implementation of these policies, procedures and standards (e.g., implementation of data
+administration standards, acquisition of tools for introducing formal systems development
+methodologies, communication technology for defining and implementing appropriate methods
+of communications between systems modules; etc.). The project would also finance the design
+development and implementation of those items/elements (e.g., common reference files) of the
+network that would need to be developed centrally and the design, development and
+implementation of interfaces, as required, between modules.
+Project Administration Support
+5.10  A unit in the NBH, responsible for coordination of Bank projects, and already staffed
+with personnel trained in Bank procedures for procurement and disbursement, will assist the MOF
+during project execution. Funds have been allocated under the project for additional short-term
+administrative support.
+IMF Coordination
+5.11  The IMF has been extensively involved in advising the Government in the areas
+addressed by the project and the Government has designed its reform program based on these
+recommendations. The Government has expressed a desire to ensure IMF involvement in the
+implementation phases of its reform program. The IMF would accordingly continue to advise
+the MOF/Treasury on the substantive aspects of the Budget Preparation, Treasury Operations and
+Debt Management Systems. A PHRD Grant has been providing funding during the preparation
+and functional design phases to finance technical assistance in budget preparation, accounting
+design, expenditure control, treasury operations and debt management, and for the design and
+development of the computer systems. PHRD grant and project financing would be available to
+the Government for the acquisition of specified services from normal sources of technical
+assistance, including the IMF, subject to contractual arrangements satisfactory to the Bank. The
+Bank would retain the overall supervision responsibilities as well as the supervision of project
+implementation, procurement and disbursement.
+Items to be Financed
+5.12 For each of the components described above, the project would provide financing for
+consultant services, computer equipment, software, telecommunications, support services, and
+technical contract staff capacity for the development and implementation of the budget preparation,
+the Treasury GFMIS and debt management application systems. Details of technical assistance,
+computer hardware and software, services and training are described in the Schedules attached at
+Annexes II and III.
+
+
+
+15
+5.13  Information technology goods consisting of computer hardware (UNIX-type computers,
+PC-type work-stations, associated systems software and telecommunications devices) would be
+contracted as part of an ICB package. Additional areas of contracting would include: (a)
+acquisition of application development tools and DBMS; (b) acquisition/development of
+application software for the budget preparation, treasury operations and debt management
+systems; (c) contract staff for systems development and implementation activities and for initial
+operation of the system; (d) systems integration and auditing services; and (e) training courses, site
+visits for Treasury/MOF finance and information technology staff.
+6.    IMPLEMENTATION ARRANGEMENTS, ACTIVITIES AND SCHEDULES
+Project Implementation Arrangements
+6.1    A detailed implementation schedule is given at Annex VIII. Implementation arrangements
+related to each project component are described below. These components are expected to be fully
+implemented over a four year period with most activities completed over three years. The Ministry
+of Finance would administer the funds under the project and coordinate project activities. The MOF
+has appointed the Deputy State Secretary, MOF, to serve as the Bank's counterpart for and
+coordinate the activities under this project. A unit in the NBH, responsible for an overall
+coordination of Bank projects, and already staffed with personnel trained in Bank procedures for
+procurement and disbursement, will assist the MOF during project execution and will coordinate
+periodic reporting requirements on project progress (Annexes V and VI). Four teams have been set
+up to implement the reforms in the areas of Budget Preparation, Treasury Operations, Debt
+Management, and to develop and implement policies, procedures and standards across the PFM-IS
+Network, respectively:
+(a)   the MOF Department of State Budget would lead the efforts related to the
+development of the policies, methods, guidelines for budget preparation, including
+methodology and functional requirements for preparing in-advance budgets, revision of the
+chart of accounts, in coordination with the Treasury Department, and the functional design
+of the computer systems required for budget preparation;
+(b)   the Treasury would coordinate the activities related to the development of the
+detailed regulations and the specifications of the processes, procedures and the functional
+design of the systems for expenditure control, cash management and treasury operations;
+(c)   the Debt Management Unit of the Treasury, would direct the Bank assistance in
+developing and implementing policies and information technology for public debt
+management; and
+(d)   activities related to setting up coordinating mechanisms, policies, procedures and
+standards to ensure that the different elements of the PFM systems network interface
+seamlessly would be coordinated from the office of the Deputy State Secretary, MOF.
+6.2   It is recognized that substantive coordination is required in a project of this sort to ensure
+that the new processes, procedures and methodologies for PFM, designed under the project, are
+
+
+
+16
+introduced across government in a coordinated and consistent manner. This type of coordination
+can only be achieved by pro-active participation and guidance from officials at the highest levels
+who are part of the overall government reform effort and are responsible for implementing the
+Government's financial reform program. This type of coordination and guidance is expected
+from the Deputy State Secretary (MOF) in his capacity as the overall project counterpart.
+Project Sustainability
+6.3   The sustainability of the project would largely depend upon the commitment by the
+authorities to the project objectives. As mentioned above, the Government has indicated its
+commitment to the public financial management reform, and set an explicit timetable for the
+implementation of the GFMIS and the treasury system. Work under this project builds on efforts
+already underway in the budget preparation, treasury operations and debt management areas. These
+efforts also give a strong indication of Government commitment.
+6.4   Another critical condition for project sustainability is that the Treasury be able to
+assimilate and retain the transfer of technology. As mentioned above, considerable progress has
+already been achieved by the Government on interim information systems in several areas and
+staff in the MOF/Treasury are familiar with the use of information technology. The project
+would build on existing efforts and supplement technological skills as required.  To
+institutionalize the technology changes smoothly, the PFMP would recruit foreign and local
+specialists and structure training programs for the staffs. The major investment in information
+technology would occur as part of the Treasury Operations component. The project would also
+rely on the Treasury's Information System Project Group to provide the technical skills required
+for systems development and maintenance in this area. For other areas where suitable skills are
+found lacking, the PFMP would permit the MOF/Treasury to recruit and finance technical staff
+from the market, on a consultancy basis. By developing long-term training strategies, the project
+would also ensure sustained institutional support and would extend relevant elements of the
+training program to budgetary chapters, central budgetary institutions and other agencies
+associated with the implemented systems. The increased participation of the local private sector
+in the systems development process would also help ensure sustainability.
+Project Launch, Monitoring and Evaluation
+6.5   Tracking key monitoring indicators is necessary to measure the inputs, key process
+milestones, track outputs and assess the impact of the project inputs on the project's major
+development objectives. A comprehensive set of project milestones and performance indicators
+have been developed (Annex VII). These will be used as a basis for monitoring and evaluating
+the project. A project launch work shop would be held in January 1997. A mid-term review
+(June 1998) has been incorporated to assess performance achieved and to review the
+appropriateness and continuing relevance of the project design. The project implementation
+schedule developed along with the Government appears at Annex VIII. Quarterly progress
+reports would be provided to the Bank describing the status of implementation and procurement
+activities. For maximum efficiency, project follow up will be managed from the resident mission
+in Budapest.
+
+
+
+17
+6.6  In view of the significant complexity and difficulty of technical assistance projects of this
+nature, Bank staff and consultant supervision inputs are expected to be high compared to the
+average but comparable to other similar projects. It is estimated that the requirements,
+summarized in the Table 1, will be in the range of 20-25 staff weeks/year. Supervision would
+include: (a) general portfolio management - review of procurement and consultant contracting
+documents, progress reports and correspondence; and (b) formal reviews- participation in the
+mid-term and other reviews; (c) supervision missions. Two supervision missions would be
+necessary annually each for a period of two weeks on average.
+Table 1: Supervision Plan
+Timing      Staff Weeks     Staffing
+FY97         22 weeks      Task Manager (8 weeks)
+Information Systems Specialist (8 weeks)
+Public Finance Management (PFM) Specialist
+(6 weeks)
+FY98          22 weeks      Task Manager (8 weeks)
+Information Systems Specialist (8 weeks)
+PFM Specialist (6 weeks)
+FY99          16 weeks      Task Manager (6 weeks)
+Information Systems Specialist (6 weeks)
+PFM Specialist (4 weeks)
+FY 2000       10 weeks      Task Manager (4 weeks)
+Information Systems Specialist (4 weeks)
+PFM Specialist (2 weeks)
+FY 2001       10 weeks      Task Manager (4 weeks)
+Information Systems Specialist (4 weeks)
+PFM Specialist (2 weeks)
+7.    PROJECT FINANCING AND COSTS
+Financing Plan
+7.1   The project cost is estimated at US$10.70 million equivalent, with a foreign exchange
+component of US$6.67 million. The proposed Bank loan of US$7.75 million will finance 72
+percent of the total project costs, 85 percent of foreign exchange and 41 percent of local costs.
+The MOF will finance the balance of project investment costs (about US$2.95 million)
+equivalent, including duties and taxes which are estimated at US$1.91 million equivalent.
+
+
+
+18
+Recurrent incremental costs, which comprise equipment operations and maintenance and
+facilities service costs, estimated at US$0.391 equivalent, will be financed entirely by the
+Government. The financing plan is summarized in Table 2. A more detailed breakdown of the
+financing is shown in Annex IV.
+Project Costs
+7.2    Total project costs by project component and by expenditure category are given in Annex
+IV. Total costs, including investment and recurrent costs for the project period, are estimated as
+base costs, plus physical and price contingencies, taxes and duties. Base costs were estimated in
+April 1996, using the experience of other Bank projects in the region, similar activities in
+neighboring countries and detailed input from various Hungarian counterparts (See Annex IV
+for the detailed estimates). Project costs include a physical contingency for unforeseen physical
+variations (US$0.468 million) equivalent to about 5 percent percent of the base cost of all
+project items. Price contingencies are calculated at US$0.865 million. The following rates were
+used to cover expected price escalation: local costs 11 percent for CY 1996-2000; foreign costs
+2.5 percent for CY 1996-2000.
+Table 2: Financing Plan by Financier and Component
+Total Cost, including contingencies, taxes and duties
+(US$'000)
+Component               IBRD       Percent    Govt.      Percent     Total     Percent
+Amount               Amount                Amount
+Investment Costs
+Budget Preparation           904      82.2        195        17.8      1,099        10.3
+Treasury Operations        3,406      74.9       1,140       25.1      4,546        42.5
+Debt Management            1,483      80.1        368        19.9      1,851        17.3
+PFM-IS Network             1,742      71.7        687        28.3      2,429        22.7
+Project Administration       213      56.2        166        44.8       379          3.5
+Support
+Total Investment Costs     7,748      75.2       2,556       24.8     10,304        96.3
+Recurrent Costs                -         -        391       100.0       391          3.7
+Total Project Costs        7,748      72.4       2,947       27.6     10,696       100.0
+Note: Totals may not add up due to rounding.
+
+
+
+19
+Procurement Arrangements
+7.3     Procurement arrangements under the Project are summarized  in  Table 3.   Deta.hi
+schedules are given in Annex VI.
+Table 3: Procurement Arrangements
+Total Cost, including contingencies, taxes and duties
+(US$ million) a
+Expenditure Type                      ICB              Other              NBF d              Total
+Equipment                        _
+Standard H/W, S/W                      3.24              0.58               1.91              5.73
+(3.24)            (0.58)c                               (3.82)
+Application S/W                                          1.76              0.228              1.98
+(1.76)e                               (1.76)
+Civil Works
+Site Preparation                                                           0.086              0.086
+Consulting Services                                      1.98               0.22              2.20
+(1.98)_                              (1.98)
+Training & Study Tours                                  0.195              0.111             0.306
+___________________________   ______________       (0.J95)f                              (0.195)
+Total                                  3.24              4.51               2.55             10.304
+_____________________________         (3.24)             (4.51)                               (7.75)
+Recurrent Costs
+Equipment   Operations   and
+Maintenance
+H/W, S/W  Maintenance/License                                               0.23              0.23
+Fees
+Telecommunications Costs       |  X                                        0.061             0.061
+Utilities Postage and Supplies    _              l                         0.043              0.043
+Miscellaneous                                                              0.058              0.058
+Total                                                                      0.391              0.391
+Total Project Costs                   3.24               4.51               2.94              10.70
+(3.24)            (4.51)                               (7.75)
+Notes:
+a:  Numbers may not add up due to rounding.
+b:  Figures in parenthesis are respective amounts financed by IBRD.
+c:  Includes International shopping (IS) for small amounts of goods for which the cost of ICB outweighs any possi .-
+price advantages. IS will be used for contracts up to an aggregate amount of $0.45 million; prudent Natic- -
+Shopping may be used for sundry items not exceeding $25,000 per contract up to an aggregate amount of $0.1
+million. Direct contracting for proprietary, time critical or special compatible equipment may be used up ta
+aggregate amount of $0.03 million equivalent subject to Bank's prior review.
+d: NBF = Not Bank Financed and includes $1.91 million in taxes and duties on goods to be paid by the Governmer..
+e:   Application Software estimated to cost $1.50 million equivalent would be acquired by Limited Internattio.-
+Bidding. Application software estimated to cost $0.26 million would be acquired by International Shopping.
+f:  Includes Bank financed consulting services and training to be procured in accordance with the Bank's guideli,e.
+for use of consultants.
+
+
+
+20
+7.4   Procurement of Goods. Equipment contracts which are estimated to cost more than
+US$300,000 equivalent per contract will be procured following international competitive bidding
+(ICB) procedures in accordance with the Bank's "Guidelines for Procurement Under IBRD Loans
+and IDA Credits" January 1995. Equipment procurement has been packaged according to related
+specialized fields. Computer Hardware and Standard Software procured through ICB will
+account for about 85 percent of the total equipment value (US$3.2 million out of a total
+equipment cost of US$3.82 million (excluding duties and taxes). Taxes are estimated at US$1.91
+million equivalent. The remaining 15 percent of the equipment value will be in packages
+suitable for procurement other than ICB. In the comparison of bids for equipment to be procured
+through ICB, local manufacturers, which have established to the satisfaction of the Borrower and
+the Bank that: (i) labor, raw materials and components from within the country of the Borrower
+will account for more than 30 percent of the ex works price of the product offered, and (ii) the
+production facility in which the goods will be manufactured or assembled has been engaged in
+manufacturing/assembling such goods at lease since the time of bid submission, would receive a
+preference in an amount equal to: (i) the amount of duties and other related import charges which
+a non-exempt importer would have to pay for the importation of the goods offered; or
+(ii) 15 percent of the CIF or CIP bid price of such goods if said duties and charges exceed
+15 percent of such price. Appropriate Bank standard bidding documents will be used for
+procurement of goods and equipment. (The General Procurement Notice for the project appeared
+in the July 1996 edition of Development Business Forum).
+Methods other than ICB
+7.5   Limited International Bidding (LIB) & International Shopping (IS). Contracts for
+application software purchase/customization, estimated to cost US$1.50 million equivalent,
+would be awarded under Limited International Bidding procedures in view of the fact that they
+would require specialized software and associated services available from a few sources.
+Procedures for International Shopping will be used for small amounts of equipment where the
+cost of ICB would clearly outweigh possible price advantages. Contracts for equipment not to
+exceed an aggregate amount of US$0.45 million equivalent, and contracts for custom
+development of application software estimated to cost US$0.26 million, will be awarded under
+International Shopping procedures, based on comparing price quotations obtained from at least
+three suppliers from two eligible countries, in accordance with Bank procurement guidelines.
+7.6   National Shopping (NS).  Minor sundry items, such as small lots of information
+technology and office equipment, not exceeding US$25,000 per contract, up to an aggregate
+amount of US$0.1 million equivalent, could be purchased on the basis of prudent national
+shopping by comparing price quotations obtained from at least three local suppliers, in
+accordance with Bank procurement guidelines.
+7.7   Direct Contracting (DC). Goods and technical licenses which the Bank agrees: (i) are of
+proprietary nature; (ii) the timely supply thereof is critical for efficient project execution; or
+(iii) need to be compatible with other installed equipment, may be procured through direct
+negotiations with property and/or copyright owners, on terms and conditions acceptable to the
+Bank. Such items include contracts for intellectual property such as books, technical journals,
+training materials, audio-visual materials, computer applications software, including annual
+
+
+
+21
+upgrading and licensing arrangements, copyrights, translation and reprinting rights for training
+materials, are estimated to cost under US$30,000 equivalent in the aggregate.
+7.8   Civil Works. Civil works to upgrade facilities to accommodate the information systems
+coming under the project represent an estimated value of US$0.086 million equivalent. These
+will be financed entirely by the Government. Table 1 of Annex VI shows the major procurement
+packages for goods.
+Technical Assistance
+7.9   Qualified firns will be invited to submit proposals for foreign technical assistance (TA)
+in accordance with the "Guidelines for the Use of Consultants by World Bank Borrowers and by
+the World Bank as Executing Agency", August 1981. Terms of reference for major TA
+components have been drafted and agreed with the Borrower. To keep the evaluation process
+manageable, no more than six (but at least three) proposals will be invited from a shortlist
+acceptable to the Bank. It is anticipated that technical assistance will be procured in packages at a
+total cost of US$1.98 million equivalent. As needed, the services of individual specialists for
+advisory services will be contracted on the basis of shortlists of eligible candidates. Out of the
+total TA, it is anticipated that about US$0.10 million equivalent of the aggregate for technical
+assistance would be for individual specialists.  Table 2 of Annex VI shows the major
+procurement packages for technical assistance.
+7.10 Bank Review. For goods, the Bank shall review the Borrower's procurement plans,
+decisions and procedures in accordance with Appendix 1 of the Guidelines for Procurement
+under IBRD Loans and IDA Credits (January 1995). In particular: (i) each contract estimated to
+cost US$300,000 or more, which will cover all ICB contracts; and (ii) all LIB and all direct
+contracts; shall be subject to prior review, in accordance with paragraph 2 of Appendix 1 of the
+Guidelines. Other goods contracts costing less than US$300,000, shall be subject to post review
+in accordance with paragraph 4 of the Appendix 1 of the Guidelines. For technical assistance
+contracts, the applicable review procedures are discussed in various sections of the Guidelines
+Use of Consultants by World Bank Borrowers and by The World Bank as Executing Agency
+(August 1981). Terms of reference for all consulting contracts would require prior review by the
+Bank. Consultants contracts above $100,000 for firms and above $50,000 for individuals would
+require prior review by the Bank. However, for technical assistance contracts under US$100,000
+for firms and under US$50,000 for individuals, the Bank will require prior review of only the
+terms of reference and short-lists of potential consultants.
+Disbursement and Financing Schedules
+7.11  Disbursements. To enable early start-up of the project, retroactive financing up to US
+$775,000 is provided to cover eligible expenses incurred from September 16, 1996, but not later
+than one year from the signing of the loan agreement. Disbursements against contracts for goods
+less than US$300,000 equivalent would be made on the basis of statement of expenditures
+(SOEs). Statement of Expenditures would also be used for all consulting firm contracts less than
+$100,000 and individual consultants contracts less than US$50,000 and for all expenditures on
+training, fellowships and studies. All related SOE documentation would be retained by NBH, the
+
+
+
+22
+implementing agency, and made available for subsequent examination by independent auditors
+and Bank supervision missions. The proposed Project is expected to be disbursed over a period
+of five years, which is considerably shorter than the relevant profile in the Region (about seven
+years). The shorter implementation period is possible due to the strong commitment of the MOF
+and generally high level of technical and organizational competency in the relevant agencies.
+The closing date will be June 30, 2001. A summary of the disbursement plan is shown in Annex
+VI (Table 3). Disbursements of World Bank Funds will be made as shown in Table 4.
+Table 4: Proposed Disbursement Categories
+Category               Amount of Loan        Percent of Expenditures to
+(US$ million equivalent)        be Financed
+Equipment                            5.00            100 percent of foreign
+expenditures and 100 percent
+of local expenditures (ex-
+factory cost) and 85 percent
+of other local expenditures
+Consulting Services                  1.80            100 percent of expenditures
+Train'mg                             0.20            100 percent of expenditures
+Unallocated                          0.75
+Total                                7.75
+Special Account
+7.12 The Borrower will establish and maintain a Special Account (as specified in the Loan
+Agreement) with an authorized allocation of US$700,000. This will be exclusively for making
+payments from the proceeds of the Bank Loan. The initial deposit of the authorized allocation
+will be limited to US$350,000 until the aggregate amount of withdrawals from the Loan Account
+plus the total amount of all outstanding special commitments entered into by the Bank shall be
+equal or exceed the equivalent of US$ 1,000,000:
+(i)   all applications for direct payment or special commitments must be for an amount
+not less than 20 percent of the initial deposit of the authorized allocation to the special
+account or not less than 20 percent of the full authorized allocation once available; and
+(ii)  applications for replenishment of the Special Account would be submitted on a
+monthly basis or when one third of the amount deposited has been withdrawn, which ever
+occurred earlier. Submission of replenishment applications takes precedence over the
+minimum size application as stated in (i) above.
+Audit Timetable
+7.13  Project Audits. Project Accounts and the Special Account will be audited in accordance
+with the Guidelines for Financial Reporting and Auditing of Projects Financed by the World
+Bank (March 1982). The Borrower will provide the Bank (within six months of the end of each
+
+
+
+23
+fiscal year), an audit report of such scope and detail as the Bank may reasonably request,
+including a separate opinion by an independent auditor acceptable to the Bank, on disbursements
+against certified statements of expenses (SOEs). The separate opinion should mention whether
+the SOEs submitted during the fiscal year, together with the procedures and internal controls
+involved in their preparation, can be relied upon to support the related withdrawal applications.
+7.14 Reporting and Annual Reviews. NBH will prepare semi-annual descriptive and financial
+reports on each project component, objective and activity (beginning from the date of Loan
+Effectiveness). The reports will describe: (i) current status; (ii) deviations, if any, from the
+implementation plan; and (iii) the reasons for deviations and corrective actions being taken.
+Reporting and Bank supervision will focus on in-depth reviews of: (i) the emerging policy
+framework; (ii) the effectiveness of component and sub-component activities and their
+consistency with agreements reached at negotiations; (iii) performance of the implementing
+groups and institutions; (iv) emerging needs for adjustments to project parameters; and
+(v) possible follow-up operations which could be supported by the Bank. Bank supervision will
+be based on the semi-annual progress reports and the annual evaluation of project activities by
+the NBH. This will be supplemented by a review of project expenditures and availability of
+financial resources, in addition to substantive discussions with technical assistance groups
+implementing and/or assisting in the implementation of various components, and discussions
+with responsible authorities. A mid-term review of the project is planned for June 1998. This
+Technical Annex will provide the basis for supervision and reporting.
+8.    BENEFITS AND RISKS
+Benefits
+8.1   The PFMP would lead to substantial financial and economic benefits. By developing the
+central Treasury system and optimizing the budgeting process and debt management, the project
+would contribute to reducing the Government's borrowing needs and costs. Tools and skills
+developed under the project would enable access to timely, accurate and consistent financial
+information to improve resource planning, cash management, budgeting, macroeconomic
+forecasting, and public expenditure management and control. Development and implementation of
+policies, procedures and standards for the PFM-IS network would enable the Government to
+obtain anticipated benefits from the substantial Information Systems/Information Technology
+(IS/IT) investments that are being made in the PFM area.
+8.2  Improvements in the public finance management would promote the capacity to properly
+formulate and execute fiscal policies. Particularly, the consolidation of various information
+databases, consistency in the classification of expenditure items, and an effective system to control
+expenditure and monitor cash flows would enhance transparency and accountability in the fiscal
+processes. Since these are within the direct purview of the state machinery, no alternate approaches
+to reforms appear feasible. The project would, however, explore alternative design strategies to
+enable the Government to decide on the most suitable configuration for the system. The project is
+crucial to the Government Public Financial Management Reformn and to transparency and
+accountability in government operations and its benefits would therefore be far-reaching.
+
+
+
+24
+Risks
+8.3   On the general level, in introducing an improved system of public finance, it may be
+difficult to overcome entrenched positions, attitudes and the many interests, which have benefited
+from financial uncertainties and lack of control. The enactment of the government decree setting
+up the Treasury and the adopted adjustments in the legal framework for government financial
+management have, however, significantly reduced these risks.
+8.4   Among the more specific risks, the project would need to cope with the organizational
+capacities of the MOF to manage the reforms under an extremely tight schedule and coordinate the
+inter-agency activities.  Other risks relate to the technological changes and the subsequent
+requirement on technical skills. To ameliorate these risks the PFMP will provide for: (a) the phased
+implementation of financial systems in a few key areas and building on work already accomplished
+by the Government in these areas; (b) structured development of new systems under the control of
+internationally experienced experts; (c) employment of technically proficient staff within the MOF
+and from the private sector for the technical design, development and implementation of the
+information systems; and (d) training and technical assistance for financial staff within
+Government. There is also a risk that a central organization established with the limited function of
+setting up policies, procedures and standards would interfere with or take over actual project
+implementation for the various information systems projects currently underway in the PFM area.
+This risk would be mitigated by restricting activities under this component to the scope outlined in
+the project documents.
+
+
+
+25
+Annex I
+Page 1 of 12
+Public Finance Management Project
+Design and Implementation of the Government Financial Management Information System
+(GFMIS)
+Structure of the System
+1.  In its ultimate physical configuration, the proposed system would consist of a network of
+computer units of varying capacity, linked by dedicated telecommunication lines. At the core of
+the system would be a central computer unit, located in Budapest within the Ministry of Finance,
+and supported by a few smaller units attached to regional branches of the proposed Treasury. To
+these units would be linked, through the telecommunication network, microcomputers located in
+the government agencies whose funds would be held in the TSA, and whose ledger accounts
+would be kept in the GFMIS. These agencies would include the budgetary chapters, the
+remaining extra-budgetary funds, the social insurance funds and those among the CBIs whose
+volume of operations funded by the budget would appear to justify a direct linkage to the system.
+Over time, the system could be extended to process the operations of the larger local
+governments, even if they were not required to keep their funds in the TSA.
+Functions of the system
+2.   A key characteristic of the proposed system would be that no operation involving a
+movement of public funds could be effected by any government agency linked to the system
+without registering the operation into it. This would ensure that the system provide a
+continuously updated and accurate picture of government financial operations, as they were
+being executed.
+3.   The system could also be designed to process in a speedy and efficient manner the various
+steps for the preparation of the budget. Once the budget had been approved by Parliament, the
+spending limits for each line item of each agency would be registered into the system. The
+system would then control the conformity of each proposed expenditure with the relevant budget
+allocation.
+4.   The implementation of the system would permit a more active and flexible financial
+planning and cash management by the Treasury. The Treasury would prepare rolling at least
+monthly (and preferably more frequent) financial plans, utilizing updated information received
+through the system from the tax and the customs authorities about expected collection of taxes
+and customs duties, and from the other agencies linked to the system about projected own
+revenues and expenditures. On the basis of this information, the Treasury would: prepare and
+execute a program of state budget transfers to each agency's account in the system, within the
+limit approved in the budget and in accordance with the cash needs of the agency; and design and
+update regularly, in close cooperation with the NBH, a program of government debt issues, with
+a view to ensuring that projected net outflows from the TSA (including for the payment of
+
+
+
+Annex I
+Page 2 of 12
+26
+maturing debt) could be financed without excessive and abrupt changes in the balance of the
+TSA.
+5.   The system would control the execution of the budget, ensuring the conformity of payment
+orders registered into it with the relevant budgetary allocation, the prior commitment and
+verification of the expenditure, and that the balance in the agency's ledger account would be
+sufficient to cover the payment.
+6.   The system would be programmed to effect automatically the accounting of each operation
+registered into it. Thus the system would generate complete and up-to-date reports and accounts
+of government operations, for the use of budget managers and of economic policy makers.
+7.   Access to the information generated by the system would, of course, be differentiated
+appropriately, according to the nature of the agency and the level of authority of the individual
+involved. The development of the system would include a careful design of internal controls and
+security routines.
+A possible implementation strategy for the system
+8.   The design of the logical structure of the system; the development and testing of its
+software; the specification, acquisition and installation of the required computer hardware and
+telecommunications lines; and the training of officials in the Ministry of Finance and the
+spending agencies in the use of the system, would require considerable time. The IMF
+recommended a progressive strategy of implementation of the system, beginning with linking to
+it the budgetary chapters, and the extra-budgetary and social insurance funds. The coverage of
+the system could be subsequently expanded progressively to: the main CBIs in Budapest; central
+government spending agencies in other regions; and the larger local governments.
+The Logical Operation of a Treasury Ledger System Within a Government Financial
+Management Information System
+9.    The objective of this section is to illustrate the methodology of a Treasury Ledger System
+(TLS) concept. A full functional analysis and system definition is required to articulate an
+operational system which can be computerized. A full implementation of treasury operations
+will require; first, the development of a TLS to be maintained and operated by the MOF; and
+second, the establishment of a Treasury Single Account (TSA) at the National Bank to
+consolidate the government's monetary assets. In this system the TSA is a government bank
+account to which all receipts are ultimately credited and all payments debited.
+10.   The central Treasury Ledger System serves as the key component, or data base, of the
+Government Financial Management Information System (GFMIS), upon which other
+components of a public expenditure management (PEM) process can be built. This modular
+approach to PEM is illustrated in Chart 1. The TLS combined with the Budget Implementation,
+Fiscal Reporting and Debt Management modules is often referred to as a Treasury System, to be
+operated by a Treasury Department.
+
+
+
+Annex I
+Page 3 of 12
+27
+Thus, the TLS will be used by the:
+a.    Budget Preparation Department and subordinate branches, in the course of
+budget preparation; and,
+b.    Treasury Department and subordinate branches, in the course of budget
+implementation (including, particularly, cash and debt management).
+11.   A basic underlying principle is that the system will be built along functional rather that
+organizational lines and will provide support to all organizational units involved in the PEM
+process. This approach has the advantage that it enables the creation of integrated systems and
+data bases in which the primary responsibility for the timely provision of a particular subset of
+data resides with the agency responsible for that function. However, all data in the system data
+bases are accessible by all relevant agencies (subject to appropriate authorizations). This design
+eliminates duplication in data gathering and, more importantly, enables all agencies entrusted
+with financial tasks to work with the same set of data, thereby ensuring consistency of data, a
+frequent deficiency when data are gathered and recorded separately.
+12.   The implementation of these processes could be effected in two ways, depending on the
+linkage of the spending units to the system--direct or indirect.
+
+
+
+28
+Annex I
+Page 4 of 12
+Chart 1
+Government Financial Management Information System--Modules I/
+Budget         F Economic   I        Internal and
+Ipreparation  I   I  Trends            l |External Controll
+Treasury Ledger
+System 
+I    (Data Bank)   I
+| ~      ~~~~ 1       I           F l  Debt       l
+Fiscal        I   Budget    I   I Management  |
+I Reporting  I   limplementation|    I - Internal  I
+lIl   I             l   |I- External  |
+|Budget Fsecution  IF|inancial Planning]  F inancial   1Accounting      l
+|- Appropriation    - Forecast of re- |    xecution      - Chart of
+- Commitment         venues and ex-  ||- Inflows to TBA |  accounts     l
+|- Verification    |  penditures       - Outflows from  ||- Accounting   l
+|- Funds Allocation|i- Forecast of debtl|  TBA             rules        l
+|  servicing      ||- Payments        - Controls     l
+|  ||- Cash management ||- Receipts  I                l
+1/ Each module is a set of operations utilizing the Treasury Ledger System (Data Bank) (TLS)
+with information flowing both to and from the TLS.
+
+
+
+Annex I
+29                                  Page 5 of 12
+13.   Thus, each of the sectors mentioned above will be responsible for the integrity and
+accuracy of the information data base that it maintains within the system. In return each will
+have access to information provided by the other MOF units. The information contained in the
+data bases would also be available to other ministries and government agencies on an "as
+required/approved" basis, to enable them to better manage their financial activities connected
+with approved programs.
+14.   To become a credible source of information for users, such an integrated system would
+need to be comprehensive in terms of coverage and be a source of reliable and timely data. The
+system's data bases would provide the MOF and other central agencies with a foundation for a
+comprehensive management information system related to the State's financial resources.
+15.   The GFMIS, including the TLS database, can also be viewed on a time line. Chart 2
+shows this relationship with year zero (YRO) as the year of budget execution. The GFMIS can
+be designed to contain data relating to a number of years: for historical analysis purposes, for
+budget preparation (including future year estimates called forward estimates) and for budget
+execution. YRO is further expanded in the chart to show key control fields after used in budget
+execution.
+16.   This section addresses in detail only the budget implementation process (those
+components specified under the Budget Implementation Box) and also addresses only
+expenditures in a detailed manner. The budget preparation process can be developed in a similar
+manner, to reflect the operation of the Budget Preparation Module, using the TLS as a database.
+Revenues collected by the tax and customs administration would be recorded at an aggregate
+level in the TLS, I/ and would be reconciled with deposits made in the TSA.
+Execution of budgetary expenditure
+17.   The various budget implementation activities (identified in Chart 1) are summarized in
+information flow terms in Chart 3. The process begins with the MOF recording the approved
+budget (and any amendments thereto) in the TLS by individual appropriation item or revenue
+estimate. Using this as a basis, commitment limits may also be determined, against which
+spending units can make commitments (the commitment stage). A funds allocation limit will be
+determined periodically on the basis of cash availability, to reflect an assessment of budget
+priorities for implementation and entered by the MOF against a suitable aggregation of
+appropriation items. When goods and services deliveries have been made, and bills received, the
+spending unit acknowledges the fulfillment of the commitment and confirms an obligation to pay
+(the verification stage). In the final stage, the spending unit makes (or authorizes) the payment.
+The revenue recording would be at a level of aggregation consistent with the estimates
+presented in the budget documentation.
+
+
+
+Annex I
+30                                                Page  6 of  12
+Chart 2
+Government Financial Management Information System--Data
+|         Aggregated        |         Treasury                |   Aggregated
+|           Ledger                      Ledger                       Ledger          l
+System
+YR     -5   -4   -3   -2        |-1        0              1             2          3     l
+LI             Budget
+Historic Economic         IExecution   Preparation| Forward Estimate
+|     Trend Analysis             I      I                     I
+|               Financial Control Stages for Expenditure                      1
+I                      and Revenue Operations
+Expenditure Appropriation | Commitment  | Verification |   Funds                  Payment
+Items                                                           I l  |  Allocationl       I
+Revenue   f    Revenue              Not               Not              Not        Actual
+Items      |   Estimates   j  Applicable I  Applicable   I Applicable | Revenuesi
+l   l           I                 I             I     and     I
+I   I           I                 I             I Receiptsl
+1/ An appropriation is the maximum amount of public funds authorized by the Parliament for expenditure on a
+particular purpose from the Consolidated Fund.
+2V Commitment is the process of entering into an arrangement that obligates the government to make expenditures of
+public funds.
+3/ Verification is the process of confirming an obligation to pay.
+4/ Funds allocation is the process of aflocating to spending units access to cash amounts for expenditure from the
+Consolidated Fund in the time period designated in the allocation advice.
+
+
+
+31                                                       Annex  I
+Page 7 of 12
+Chart 3
+Logical Flows--Budget Expenditures
+r--------- .        . . . . . . . . . . . . . . .  7    . . . . . . . . . . . . . . . .. R
+|   MOF      |                                               :                 SUd and|
+Treasury |                                                 :             |    Sui
+Sector |-- 8..8.
+.--------|V                                                               A   A   A
+_------            ,              .... 3......
+j I   MOF            |         Spending/| .............
+| | Budget  |- -          ... >lTechnical g....9..........
+81 | | Sector  V-            I  1 1 Ministryl
+I         -       21 1          
+I                  V   Vi    3V 4 1911 
+MOF    fl        I                                      I   I
+|| Regional   -     L         >l                        g    I 110
+I Treasury |I      I           I                         3      I
+I  Office  II   112            g          TLS           I
+.,        _              I                              I 
+A   A                     >g
+6 :5 :11                     I   Central Unit         g
+V    : :                       I                        I
+j            j      r------>E                           313                  Nat.Bk. ;
+*                       g                  | I  U   ITreasury 
+Sui              I       -                           1<                |  Single
+16 |  Account I
+I             I I IlH 
+14 V
+i                                                     F | Commerciall
+I------- ~~~   I |                                15 I   Banks
+I            II  4  I    I l'^I>_   
+,H,         I l                         '>e'.    Central
+|   Sud      l                                         Government |
+|I           | 10                                      Creditors*
+Legend:
+>.... Infonnation flow.
+_,   Financial flow.
+>    System Registration (SR) or information provided by the system.
+*   Suppliers and public employees.
+-j ,Entities lincked to the system, and entitled to receive information
+L---J  from it.
+r--,i Entities not linked to the system.
+Sud     Spending unit, direct;
+Sui      Spending unit, indirect
+
+
+
+32                                          Annex I
+Page 8 of 12
+Chart 3
+Logical Flows--Budget Expenditures (concluded)
+1.    SR--Budget appropriation limits per ministry.
+2.    SR--Quarterly limits on commitments.
+3.    SR--Budget appropriation and commitment limits per spending unit, by quarter.
+4.    SR--Actual commitments and verifications of ministries directly linked to the
+system.
+5.    Actual commitments and verifications of spending units indirectly linked to the
+system, in a parallel system.
+6.   Information on the budgetary and financial limits to the SU indirectly linked.
+7.   Indicative cash limits for subsequent months, specifying the main expenditures
+groups.
+8.    SR--Financial releases (funds allocations) to the ministries, for each expenditure
+group, taking into account the balances in the TSA and in the ministries'
+expenditure items.
+9.    SR--Financial releases to the SU accounts.
+10.   SR--Payment order (PO) to make expenditures, provided that they were
+previously committed and verified.
+II.   PO to make the Sui expenditures, provided that they were previously committed
+and verified.
+12.   SR--PO's issued by the Sui.
+13.   Daily file of the payments of Ministries and Spending Units.
+14.   Credit to commercial banks of the amount authorized for payment to central
+government creditors (suppliers, public employees, etc.)
+15.   Credit to central government creditors' accounts.
+16.   SR--Information on debits/credits made to the TSA.
+(SR= System Registration)
+
+
+
+Annex I
+33                                Page 9 of 12
+Information flow
+18.   The Budget Sector prepares and registers in the TLS the detailed allocation of budgetary
+appropriations by ministry and advises ministries accordingly (flow 1). This process would be
+automatically completed within the system once the Budget Preparation module is fully
+functioning. This would be done within the limits of the appropriation approved by the
+Parliament. The sector may also set and register quarterly limits on commitments by ministry
+(flow 2) and by category of spending (at the level of aggregation deemed appropriate).
+Ministries would then advise their respective spending units of the budgetary appropriations and
+commitment limits and enter the limits in the system).(flow 3).
+19.   Registration of actual commitments would be made in the treasury system by the
+ministries and spending units directly linked (Sud) to the system (flow 4), or by the spending
+units indirectly linked (Sui) in a parallel system through a Regional Treasury Office (RTO) (flow
+5). The Sui will be periodically informed by the RTO of their limits (flow 6).
+20.  In the verification stage, once all the requirements for a particular obligation have been
+met, the spending unit should confirm that the commitment is ready for payment (flow 4, Sud,
+and flow 5, Sui).
+21.  It should be noted that the process outlined above can be simplified for certain types of
+expenditure, either administratively or by automated procedures in the operation of the Treasury.
+For example, salary commitments may be entered only once a year on an estimated basis and
+adjusted as necessary during the year. The commitment (and verification) of small expenditures
+(up to a predetermined limit) could be entered into the system simultaneously with the order for
+their payment. However, the system must know in advance which expenditure items allow such
+simplification, to prevent misuse.
+22.   Commitment control for the current component of the budget can be operated
+satisfactorily on a within year basis, primarily as an aid to sound cash management activities.
+However, in the case of the capital component and major contracts, where the financial life of
+many contracts is more than one year, it is often useful to maintain an accurate record of the
+forward expenditure commitment generated by undertaking the project. If this is done, the
+Government has a better understanding of the flexibility concerning future expenditure decisions.
+This process can be accommodated in the TLS by extending the commitment control stage
+against each capital appropriation line item to cover 2 years beyond the budget year. As long
+term commitments are entered their financial impact is recorded, for the current budget and
+following years.
+23.   To encourage advance planning of larger expenditures, it may be appropriate for the
+MOF to propose limits on cash availability against spending unit expenditure items. These
+would be communicated to ministries by the Treasury Sector (flow 7) in accordance with the
+financial plan, specified by category of spending. Ministries would, in turn, advise spending
+units (flow 7). The advance knowledge of indicative cash limits, as well as of quarterly
+commitments limits, would allow agencies to make the best arrangements (including
+development of appropriate payment schedules within contracts) and to set priorities in a
+
+
+
+AnnexI
+34                                Page 10 of 12
+situation of scarce resources, so that any necessary cuts in planned expenditures could be made in
+a more orderly and effective way. (The proposed cash limits component of the process (flow 7)
+is not shown in the TLS control fields in Chart 2.)
+24.   After taking into account both the balance in the TSA and the balance in spending units'
+expenditure items in the system, the Treasury Sector would make funds allocations (set cash
+limits) to ministries for each category of spending (flow 8), thereby allowing them to distribute
+these financial releases (limits) among their respective spending units and enter the limits in the
+system (flow 9).
+25.   Under ideal circumstances, the allocation of funds would be consistent with the proposed
+cash limits communicated to the ministries earlier (flow 7). Quarterly limits would also be
+consistent with the quarterly commitment levels and the budget appropriation made on an annual
+basis, thereby minimizing the necessity to replan activities. The degree of consistency in the
+process would largely depend on the quality of the initial financial planning process and the
+revenue collection outcome.
+26.   Following the verification for a given expenditure, ministries and spending units directly
+linked to the system (Sud) would record the corresponding payment order in the system (flow
+10). The system would automatically check that the order falls within the funds allocation limit
+set for that Sud by the Treasury Sector. Spending units indirectly linked to the system would
+process a payment order through the RTO (flow 11). The latter would check the payment order
+issued by SUi and register it in the TLS (flow 12).
+Payment arrangements
+27.   At the same time as payment orders are registered in the TLS, the banking system must
+be advised in order to make the necessary payment (that is to transfer funds from the TSA
+account to the creditor). In a fully developed system this can be done automatically. At the end
+of each day, the TLS would structure a file with complete information on the creditors and
+payments to be made, as advised by ministries and spending units. This file would be sent to the
+National Bank, which holds the Government account (flow 13). The National Bank would
+transmit the relevant information (and funds) to each commercial bank (flow 14), to credit to the
+appropriate account (flow 15), and debit the TSA. The National Bank would confirm to the TLS
+the debits in the Government account (flow 16).
+28.   One category of payment is worthy of special mention--namely Civil Service salaries. In
+theory each payment of each civil servant could be treated as a discrete payment and processed in
+the manner already described. However, given the number of individual payments involved, the
+similar structure of each payment, the regular occurrence of payments, and the additional
+personnel issues which need to be considered, it is preferable to develop a separate sub-system for
+processing salary payments-usually referred to a payroll system-in a manner compatible with the
+overall expenditure process.
+
+
+
+Annex I
+35                                Page 11 of 12
+Computerization aspects
+29.   Computerization of such a budget implementation system through a centrally operated
+TLS needs to take into account the following factors:
+The accounting structure of the TLS should directly reflect the structure of the
+central government budget appropriation items approved by the Parliament. That
+is, there should be a common database and a one-to-one relationship. It should
+contain one item for each head of expenditure (appropriation) in the annual
+Budget Law, each head of receipt, and each refund of receipts;
+*     In many situations, the budget appropriation items will not be detailed enough for
+day-to-day operations and management, and ministries (or spending units) may
+wish to expand the central chart of accounts to allow proper expenditure control
+and transaction processing at a more detailed level. This can be achieved in one
+of two ways. First, the central TLS chart of accounts can be expanded to
+accommodate ministry and spending unit accounting requirements, with all
+transactions carried out as described above. Alternatively, ministries may utilize
+their own accounting (ledger) system, which can be connected to the TLS. This
+would allow much of the detailed transaction processing to take place on the
+ministry system, with only aggregate data consistent with the budget
+appropriation structure transmitted to the TLS; and
+e     The level of existing (or proposed) computerization at the ministries and spending
+units and the associated communication systems will determine the capability of
+units to be directly or indirectly linked to the central TLS. This aspect must be
+addressed early in the system development process.
+Incorporating control processes in the system
+30.   Control and/or certification of the actions of those implementing expenditure proposals
+and making payments is a recognized attribute of any public expenditure management system.
+The Attachment to this paper provides an outline of a control model which would be suitable for
+implementation in the context of a computerized Financial Ledger System described here. Once
+computerized, the TLS is clearly capable of undertaking many of the routine arithmetic checks
+necessary in the process, and can be utilized to 'intervene' at critical points, such as to ensure
+payments from the Government's account do not exceed budget appropriations, or some other
+determined limit, at the line item level. However, there still remains a requirement to confirm
+that certain actions have been performed properly, before any data are registered in the system.
+Control Process in Public Expenditure Management
+31.   The commitment to expend public money should be governed by an explicit set of rules
+and procedures to ensure that expenditures correspond to the amounts and purposes decided in
+the budget--and of course to prevent fraud and abuse. Included in this set of procedures is a
+requirement that a person independent from the preparation stages of the procurement/payment
+
+
+
+Annex I
+36                                  Page 12 of 12
+process confirm that correct actions have been taken. This confirmation process should be
+efficient and contain no redundant steps. In the commitment/payment/reporting process three
+clear stages can be identified:
+a.    Before the commitment is made (financial control--commitment stage):
+At this stage, it is necessary to confirm:
+that the proposal to spend money has been approved by an authorized person;
+that the budget has appropriated money for the purpose and sufficient money
+remains available in the proper appropriation category;
+that the expenditure is proposed under the correct category.
+b.    Before payment is made (accounting control--verification stage):
+Before money is withdrawn from the TSA it is necessary to confirm that:
+a valid obligation exists (established after the commitment stage);
+an authorized person has certified that the service has been performed as
+expected;
+the invoice or other document requesting payment is correct and suitable for
+payment; and
+the creditor is correctly identified.
+32.   Other requirements, such as confirmation that staff recruitment intentions are within
+approved limits, or that other specific administrative or special instructions have been complied
+with, may also be added to the control process at the first stage, or may be left to the
+responsibility of the spending agency concerned.
+c.    After final payment is made (audit):
+In the context of certifying the financial reports relating to the financial year in question,
+the Court of Audit would:
+*     examine and scrutinize any or all expenditures or transactions to the extent it
+chooses; and
+*     report any irregularities, in a manner and to whom it considers appropriate.
+33.   To protect against the risk of major fraud or abuse, in addition to application of the
+procurement regulations in force, a special committee can be established to review, before
+commitment, contracts of a value greater than a value set in law or regulation.
+
+
+
+37
+Annex II
+Page I of 2
+Public Finance Management Project
+Schedule of Technical Assistance
+Details of technical assistance to be provided are described in the table below:
+Type of Consultants             Type of services to be provided
+1.     Preparation and Desien Phase
+Budget preparation
+Short Term Experts:                       (i) Develop improved methods and guidelines for budget preparation, macroeconomic
+forecasting and preparation of forward estimates; (ii) Review the existing budget coding
+-Budget preparation, forecasting and forward   structures and design a revised structure and chart of accounts conforming with the GFS
+estimates                                  classification methodology; (iii) Develop a functional design of systems, processes and
+-Budget and program code structure         procedures for Budget Preparation.
+payment and expenditure control, cash
+management and banking                     Treasury Operations
+-Regulatory framework                      Build on prior work done by the Govemment of Hungary and the IMF and develop the
+-Public debt management system and debt    functional design of systems, processes and procedures for expenditure control and
+operations                                treasury operations. Develop Cash Management Procedures
+Cash Management
+Debt Management
+Develop improved methods and guidelines and the functional requirements for Debt
+Management.
+Information Systems Consultants            Develop technical systems design for the budget preparation, the treasury and Debt
+Management systems.
+Develop the technology architecture for implementing the budget preparation, debt
+management and the treasury systems and specify the H/W, S/W and communications
+design, systems software and application S/W environment (UNIX, DBMS & Application
+development tools)
+Identify application software for the Treasury system and determine customization
+requirements and specify the systems and program design for the Budget preparation and
+Debt Management systems.
+Specify the hardware and software requirements and prepare bidding documents in
+accordance with World bank Procurement Guidelines and format.
+PFM-IS Network
+During the design phase, review current and planned Infofmation Systems Projects in the
+PFM area and develop a framework that provides an overview of the systems network
+required to support PFM and specifies where current/ planned efforts fit in. Define an
+overall strategy and a medium term work plan listing actions that need to be taken to
+ensure that the different elements of the PFM IS network can interface seamlessly and
+that the Govemment obtains the anticipated payoff from its considerable investments in
+Information Systems in the PFM area.
+
+
+
+38
+Annex II
+Page 2 of 2
+2.        Imnlementation Pbase
+Information Systems Consultants            Budget Preparation. Treasury Operations and Debt Management Components
+-Project management and systems integration;
+-Assist the Government in the procurement of hardware and software;
+-Supervise installation and testing of H/W and S/W;
+-Supervise the custom development of application software for budget preparation and
+debt management by a local software house;
+-Assist in the acquisition, installation and testing of S/W for the treasury system
+-Develop operational guidelines, security and disaster recovery procedures
+-Develop procedures and check list for replicating systems at subsequent sites
+-Develop a plan for setting up the Informatics capability for the Treasury /MOF and
+specify organization structure and training/ skills requirements for this facility
+PFM, IS, EDI and Standards Specialists     PFM-IS Network:
+contracted to study interface/ standards/    PFM, IS and standards specialists to be contracted for the project would undertake the
+communications issues related to the PFM -  activities
+Network                                    listed in the work plan developed under the design phase to ensure that the different elemen
+of the
+PFM network interface seamlessly.
+Specific tasks would include:
+(a)      Definition of policies, procedures and standards that need to be specified for Dat
+administration and Systems development and management for all elements of the PFM
+systems
+network, and the appropriate organizational framework to implement these policies,
+procedures and standards.
+(b)      Identification, design and implementation of those elements of the data architect
+that would need to be maintained centrally for use by all systems modules across the netwo
+and the procedures and responsibilities for the maintenance of these common / reference
+bases.
+(c)      Researching the nature of the interfaces that the various systems modules would
+need to
+have with other elements of the PFM Information Systems Network for Fiscal Management.
+(d)      Definition of the technology standards that would need to be adhered across the
+systems network so as to ensure systems compatibility and ease of maintenance;
+(e)      Investigation of the feasibility of using Electronic Data Interchange (EDI) as a
+possible method of exchanging information between systems elements, in particular for
+exchange of
+information on budget planning, appropriation modification, expenditures, verifications, etc
+among CBls and the MOF/ Treasury.-
+Training Specialists                       -Develop a training strategy and plans for GFMIS implementation country wide
+-Develop end user manuals and training materials and documentation
+-Train end users at Pilot sites
+-Design and specify systems training facilities for the Treasury/MOF
+Project Administration Support
+Procurement, disbursement & accounting     To assist Government with Bank procedures
+specialists
+Translators and interpreters               To assist Project Teams
+
+
+
+39
+Annex m
+Page 1 of 2
+Public Finance Management Project
+Schedule of Hardware/ Software and Training
+Details of computer hardware, software, related equipment and training to be provided are
+summarized below:
+Item                                                    Remarks
+Hardware, Systems Software and Application Development
+Tools, DBMS's etc.
+Equipment (UNIX servers, work stations, networks, printers,  Each office would receive an appropriately sized
+UPS, site preparation), systems software and application  UNIX server, a LAN network, an RDBMS and
+development tools for the 20 regional treasury offices  application development tools, laser and line
+printers and windows based work stations and
+modem connections to enable connecting with the
+central office.
+Equipment upgrades as required for central facilities at the  As specified by project consultants
+Treasury Headquarters. (UNIX servers, work stations,
+networks, printers, UPS, site preparation), systems software
+and application development tools
+Equipment (as above) and systems software for the
+implementation of the Debt Management Systems
+Equipment and Systems Software for Budget Preparation   Enhancements and additions to existing equipment
+System.                                                and software as identified by project consultants
+Standard H/W and Systems Software for the Public Sector  Includes standard software for the implementation
+Financial Information Office                           of policies procedures and standards identified by
+project consultants, e.g. CASE tools, DA standards,
+systems development methodologies, etc.; and
+Office automation equipment and software.
+Application Software
+Application software for treasury system at center, regional  This includes costs for package software purchase
+units, and spending units ( budgetary chapters and CBI's) and   and customization as identified by project
+customization as may be necessary.                     consultants. In case package software is not
+available the application S/W would be custom
+developed.
+Enhancements to the Application Software for Budget
+Preparation System to enable integration with the Treasury
+System
+Application software for debt management system to manage
+issue and recording of domestic debt instruments
+Miscellaneous
+Office Equipment and Training facilities for Treasury
+Training
+Training for Treasury, Budget and Agency Staff          To enable staff to participate in training courses in
+Budgeting, Treasury operations, accounting, and
+debt management in the country and abroad.
+Training for Technical Staff                           To enable staff to participate in training courses in
+the country and abroad. Possible areas of training
+include: Systems Analysis and Development,
+UNIX, RDBMS, Application development Tools,
+Networks Project Management, End User Support.
+Study Tours and short training and orientation trips   To enable GOH officials to share and benefit from
+the experiences of other govemments in the areas
+of public financial management.
+
+
+
+40
+Annex m1
+Page 2 of 2
+Training
+1.    The training requirements for the project are divided into several areas:
+(a)   training in principles, concepts and methodologies of the subject areas covered by the
+project, namely, budget preparation, treasury operations and debt management;
+(b)    senior level management training orientation in the use of computer-based financial
+management information systems;
+(c)    end user training in the use of the computerized information systems to be set up under
+the project;
+(d)   technical training in the use of the specific tools to be employed for developing and
+implementing the information systems under the project, e.g., the chosen RDBMS, the
+operating system-UNIX, application development and Computer Aided Software
+Engineering (CASE) tools, etc.;
+(e)    more general training related to the design and development of information systems,
+implementation of formal systems development methodologies and data administration
+standards; development of policies, procedures and standards for the management of a
+government wide network of information systems; and
+(f)   training in Electronic Data Processing (EDP) project management and the provision of
+end user support to staff who will use the systems.
+2.    The project would provide financing for:
+(a)   the development of an overall training strategy to train users in the implementation of
+the systems country wide; the design and specification of in-house training facilities
+and/or identification of suitable training courses within the country and abroad; the
+development/acquisition of training materials, technical documentation and end user
+manuals;
+(b)   training courses to be arranged at site, or in local / foreign institutes to cover these areas.
+Staff to be trained under the project would include the MOF/ Agency and Treasury staff
+covered by the project and technical staff of the MOF/Treasury who will be involved in
+the development and implementation of the systems;
+(c)   study assignments for government officials in the budget, treasury and the debt
+management areas to enable them to benefit from the experiences of other Governments
+in these areas. This would include financing of courses/discussion trips on specific
+topics by experts from these governments/agencies to Hungary; and
+(d)    visits from experts on the development and implementation of policies, procedures and
+standards for a govemment wide network of information systems.
+
+
+
+41
+Annex IV
+Page 1 of 10
+Public Finance Management Project
+Project Cost and Financing Tables
+Table 1: Financing Plan by Financier and Expenditures
+Total Cost, including contingencies, taxes and duties
+(US$ 000)
+Expenditure             IBRD         Govt.        Total       Foreign        Local         Duties
+Type                                                         Exchange      (excluding        and
+taxes)        Taxes
+Equipment
+Standard H/W and S/W     3,814.9       1,907.4     5,722.3       3,814.9                      1,907.4
+Application S/W           1,757.8       227.3      1,985.2        1985.2 _
+Sub Total                 5,572.7     2,134.8      7,707.5       5,800.1          _           1,907.4
+Civil Works
+Site Preparation               -         86.4         86.4 __      _               86.4
+Consulting Services       1,981.1       223.0      2,204.0         345.6        1,858.4
+Training/ Study Tours      194.6        111.7        306.4         306.4
+Total    Investment       7,748.4     2,555.9     10,304.3       6,452.1        1,944.8       1,907.4
+Costs
+Recurrent Costs
+Equipment Operations
+and Maintenance
+H/W,  S/W,  Maint./                     229.3        229.3         229.3
+License Fees
+Telecommunications                       61.2         61.2                        61.2
+Costs
+Utilities, Postage and                   42.5         42.5                        42.5
+Supplies
+Miscellaneous                            58.4         58.4             -           58.4
+Printing
+Total                                   391.4        391.4         229.3          162.1
+Total Project Costs       7,748.4     2,947.3     10,695.7       6,681.4        2,106.8       1,907.4
+
+
+
+42
+Annex lV
+Page 2 of 10
+Table 2: Total Cost by Component and Expenditure
+Total Cost, including, contingencies, taxes and duties
+(US$ 000)
+Component               Budget      Treasury       Debt       PFM-IS       Project     Totals
+Preparatio   Operations  Managemen   Network         Admin.
+n                         t                     Support
+Expenditure Type
+Equipment
+Standard H/W and S/W        419.0      3,418.7        677.5     1,207.1                 5,722.3
+Application Software        257.6        576.8        617.1       533.6                 1,985.2
+Sub Total                   676.6      3,995.5      1,294.6      1,740.0                7,707.5
+Civil Works
+Site Preparation                                       86.4                                86.4
+Consulting Services         338.0        550.2        358.6       578.2        379.0   2,204.0
+Training Study Tours         84.9                     111.7       109.8                   306.4
+Sub Total                   422.8        550.2        470.3       688.0        379.0   2,510.4
+Total    Investment       1,099.5      4,545.8      1,851.3     2,428.8        379.0   10,304.3
+Costs
+Recurrent Costs
+Equipment
+Operations      and
+Maintenance Costs
+H/W,            S/W                                                            229.3      229.3
+Maintenance/License
+Fees
+Telecommunications                                                              61.2       61.2
+Costs
+Utilities Postage  and                                                          42.5       42.5
+Supplies
+Miscellaneous                                                      58.4                    58.4
+Printing
+Total Recurrent Costs                                              58.4        333.0      391.4
+Total Project costs       1,099.5      4,545.8      1,851.3     2,487.1        712.1   10,695.7
+o/w taxes                   139.7      1,139.6        225.8       402.4            -    1,907.4
+o/w foreign exchange        725.6      2,856.0      1,310.2      1,560.3       229.3    6,681.4
+
+
+
+Hungary
+Public Finance Management ProjeZt
+Expenditure Accounts by Components - Totals Including Contingencies
+All Detailed Tables (US$ '000)
+Project
+Budget    Treasury      Debt      PFM-1S  Management
+Preparation  Operations Management Network      Unit       Total
+1. Investment Costs                                                                                                             -
+A. Technical Assistance
+Experts                                            367.0      550.2      414.4      633.1      379.0    2,343.8           _ .
+Study Tours                                         55.9          -       55.9       54.9          -       166.6          O °
+Subtotal Technical Assistance                       422.8       550.2      470.3      688.0      379.0    2,510.4
+B. Equipment                                                                                                                3o,
+Standard HW&SW                                    419.0      3,418.7     677.5    1,207.1          -     5,722.3          .3 m         wJ
+Applications and Enhancements                      257.6      576.8      617.1      533.6          -     1,985.2
+Subtotal Equipment                                  676.6      3,995.5    1,294.6    1,740.7         -     7,707.5
+C. Civil Works
+Site Preparation                                       -          -        86.4                             86.4
+Total Investrnent Costs                              1,099.5    4,545.8     1,851.3    2,428.8      379.0    10,304.3
+I. Recurrent Costs
+A. Malntenance and Licenses                              -                                -       229.3      229.3
+B. Communicaton and Facilities Services                       -                -       58.4       103.7      162.1
+Total Recurrent Costs                                      -          -          -       58.4       333.0      391.4
+Total PROJECT COSTS                                  1,099.5    4,545.8    1,851.3    2,487.1      712.1    10,695.7
+Taxes                                                139.7     1,139.6     225.8      402.4          -      1,907.4
+Foreign Exchange                                    725.6    2,856.0      1,310.2    1,560.3     229.3    6,681.4
+
+
+
+Hungary
+Public Finance Management Project
+Expenditure Accounts by Components - Base Costs
+All Detailed Tables (USS '000)
+Project                  Physical
+Budget    Treasury       Debt      PFM-IS  Management                Contingencies
+Preparation  Operations Management Network       Unit        Total      %    Amount
+I. Investment Costs
+A. Technical Assistance
+Experts                                               316.7       439.9      355.4      542.5       316.7     1,971.3     5.0    98.6
+Study Tours                                            50.5           -       50.5       50.5           -       151.5     5.0      7.6
+Subtotal Technical Assistance                           367.2       439.9      405.9      593.0       316.7     2,122.8     5.0   106.1
+B. Equipment
+Standard HW&SW                                        378.8     3,030.0      606.0    1,060.5           -     5,075.3     5.0   253.8
+Applications and Enhancements                         232.3       505.0      545.4      474.7           -     1,757.4     5.0    87.9
+Subtotal Equipment                                      611.1     3,535.0     1,151.4    1,535.2          -     6,832.7     5.0   341.6
+C. Civil Works
+Site Preparation                                          -          -        73.3                      -        73.3     5.0      3.7
+Total Investment Costs                                    978.3     3,974.9     1,630.6    2,128.2      316.7     9,028.7     5.0   451.4
+II. Recurrent Costs
+A. Maintenance and Licenses                                 -           -          -          -       202.0       202.0     5.0    10.1
+B. Communication and Facilities Services                    -          -           -       48.9        83.1       132.0     5.0      6.6
+Total Recurrent Costs                                         -           -          -       48.9       285.1       334.0     5.0    16.7
+Total BASELINE COSTS                                      978.3     3,974.9     1,630.6    2,177.1      601.8     9,362.7     5.0   468.1
+Physical Contingencies                                   48.9       198.7       81.5      108.9        30.1       468.1       -        -
+Price Contingencies
+Inflation
+Local                                                86.0       320.4      129.9      204.4       172.0       912.7       -
+Foreign                                              36.3       204.7       84.2      107.4        17.2       449.9       -
+Subtotal Inflation                                    122.3       525.1      214.2      311.8       189.2     1,362.7       -
+Devaluation                                           -50.1     -153.0       -75.0    .110.7       -109.1     -497.8
+Subtotal Price Contingencles                             72.3      372.1       139.2      201.1        80.2       864.9     4.8    41.2
+Total PROJECT COSTS                                      1,099.5    4,545.8     1,851.3    2,487.1      712.1    10,695.7     4.8   509.3
+Taxes                                                   139.7     1,139.8      225.8      402.4           .     1,907.4     4.8    90.8           10
+Foreign Exchange                                        725.6     2,856.0     1,310.2    1,560.3      229.3     6,681.4     4.8   318.2           uq
+_.-
+
+
+
+Hungary
+Public Finance Management Project
+Project Components by Year - Base Costs
+All Detailed Tables (US$ '000)
+Base Cost
+1996     1997      1 998      1999     2000      Total
+Budget Preparation                       197.3     400.4     380.6          -               978.3
+Treasury Operatons                          -      855.3    1,938.6    1,181.1      -     3,974.9
+Debt Management                          116.2     607.2     553.8      353.5       -     1,630.6
+PFM-IS Network                           141.7     565.3     885.2      584.8       -     2,177.1
+Project Management Unit                  78.2      177.6     186.4      159.7       -       601.8
+Total BASELINE COSTS                       533.4   2,605.7    3,944.5    2,279.1      -     9,362.7
+Physlcal Contingencies                   26.7      130.3      197.2     114.0       -       468.1
+Price ConUngencies
+Inflation
+Local                                 35.1     259.9     398.9      218.8       -       912.7
+Foreign                               6.5       78.9     198.1      166.4       -       449.9
+Subtotal Inflation                      41.6     338.7     597.1      385.3       -     1,362.7
+Devaluation                           -19.3    -156.8    -215.1    -106.6                -497.8
+Subtotal Price Contingencies             22.3      181.9     382.0      278.7       -       864.9
+Total PROJECT COSTS                        582.4   2,917.9   4,523.7    2,671.7            10,695.7
+Taxes                                     54.2     444.6     883.0      525.5             1,907.4
+Foreign Exchange                        295.0    1,715.2    2,861.0    1,810.2            6,681.4
+-  =-  -   _. _  .      .            --       -     -    -  -    _          Pt~~~~~~~~3Q 
+wa ;
+<n az
+
+
+
+Hungary
+Public Finance Management Project
+Project Components by Year - Totals Including Contingencies
+All Detailed Tables (US$ '000)
+Totals Including Contingencies
+1996     1997      1998       1999     2000     Total
+Budget Preparation           214.2      444.4     440.9         -       -      1,099.5
+Treasury Operations              -      948.9   2,207.1    1,389.7            4,545.8
+Debt Management              124.7      679.7     638.1     408.8       -      1,851.3
+PFM-IS Network               156.0      639.5    1,011.3    680.4       -     2,487.1
+Project Management Unit       87.6      205.3     226.3     192.8               712.1
+Total PROJECT COSTS            582.4   2,917.9    4,523.7   2,671.7       -    10,695.7
+asa
+
+
+
+Hungary
+Public Finance Management Project
+Project Components by Year - lnvestmentlRecurrent Costs
+All Detailed Tables (US$ '000)
+Totals Including Contingencies
+1996     1997       1998       1999     2000      Total
+Budget Preparation
+Investment Costs                      214.2     444.4      440.9          -       -      1,099.5
+Subtotal Budget Preparation             214.2     444.4      440.9          -        -     1,099.5
+Treasury Operations
+Investment Costs                          -     948.9    2,207.1    1,389.7       -      4,545.8
+Subtotal Treasury Operations                -     948.9    2,207.1    1,389.7        -     4,545.8
+Debt Management
+Investment Costs                      124.7     679.7      638.1      408.8        -     1,851.3
+Subtotal Debt Management                124.7     679.7      638.1      408.8        -     1,851.3
+PFM-IS Network
+Investment Costs                      145.0     616.4      987.0      680.4        -     2,428.8
+Recurrent Costs                        10.9      23.0       24.4          -        -       58.4
+Subtotal PFM-IS Network                 156.0     639.5    1,011.3      680.4        -     2,487.1
+Project Management Unit
+Investment Costs                       87.6     126.7      126.7       38.0        -      379.0
+Recurrent Costs                          -       78.6       99.6      154.8       -       333.0
+Subtotal Project Management Unit         87.6     205.3      226.3      192.8       -       712.1
+Total PROJECT COSTS                     582.4    2,917.9    4,523.7    2,671.7       -    10,695.7
+Total Investment Costs                571.5    2,816.2    4,399.7    2,516.9       -    10,304.3
+Total RecurrentCosts                   10.9     101.7      124.0      154.8        -      391.4
+OQw
+
+
+
+Hungary
+Public Finance Managemnent Project
+Expenditure Accounts by Years - Base Costs
+All Detailed Tables (USS '000)
+Base Cost                          Foreign Exchange
+1996     1997      1998       1999     2000      Total      %      Amount
+I.nvestmont Costs
+A. Technical Assistance
+Experts                                         296.4      751.0     694.1      229.7       -     1,971.3    22.3     440.4
+Study Tours                                      45.5       65.7      40.4         -        -       151.5   100.0     151.5
+Subtotal Technical Assistance                     341.9      816.7     734.5      229.7       -     2,122.8    27.9     591.9
+B. Equipment
+Standard HW&SW                                  151.5    1,212.0   2,348.3    1,363.5       -     5,075.3    66.7   3,383.5
+Applications and Enhancements                    30.3      414.1     757.5      555.5       -     1,757.4   100.0   1,757.4
+Subtotal Equipment                                181.8    1,626.1    3,105.8    1,919.0      -     6,832.7    75.2   5,140.9
+C. Civil Works
+Site Preparation                                    -       73.3         -         -        -       73.3        ,                                     4
+Total Investment Costs                              523.7   2,516.1    3,840.2   2,148.7        -     9,028.7    63.5   5,732.8                           o
+II. Recurrent Costs
+A. Maintenance and Licenses                           -       50.5      50.5      101.0       -       202.0   100.0     202.0
+B. Conmnunicatin and Facilities Services            9.8       39.1      53.8       29.3       -       132.0       -         -
+Total Recurrent Costs                                 9.8       89.6     104.3      130.3       -      334.0    60.5      202.0
+Total BASEUNE COSTS                                 533.4   2,605.7   3,944.5   2,279.1         -     9,362.7    63.4   5,934.8
+Physical Contingencies                             26.7      130.3     197.2      114.0              468.1    63.4      296.7
+Price Contingencies
+Inflaton
+Local                                          35.1      259.9     398.9      218.8              912.7        -
+Foreign                                         6.5       78.9     198.1      166.4              449.9   100.0      449.9
+Subtotal Inflatlon                               41.6      338.7     597.1      385.3       .     1,362.7    33.0     449.9
+Devaluation                                      -19.3    *156.8    -215.1    -106.6        -      497.8        -
+Subtotal Price Contingencies                       22.3      181.9     382.0      278.7              864.9    52.0      449.9
+| TotalPROJECTCOSTS                                 582.4    2,917.9   4,523.7   2,671.7             10,695.7    62.5    6,681.4
+Taxes                                               64.2     444.6     883.0      625.5       .     1,907.4                 .
+Foreign Exchange                                  295.0    1,715.2   2,861.0   1,810.2        .     6,681.4
+00 C
+o 
+
+
+
+Hungary
+Public Finance Management Project
+Expenditure Accounts by Years - Totals Including Contingencies
+All Detailed Tables (US$ '000)
+Totals Including Contingencies
+1996     1997      1998       1999     2000      Total
+I. Investment Costs
+A. Technical Assistance
+Experts                                       327.5      867.9     850.5      297.9       -     2,343.8
+Study Tours                                    48.8       72.3      45.6         -        -       166.6
+Subtotal Technical Assistance                   376.3      940.1     896.1      297.9       -     2,510.4
+B. Equipment
+Standard HW&SW                                162.7    1,333.9   2,649.1    1,576.6       -     5,722.3
+Appliations and Enhancements                    32.5     455.8     854.5      642.3       -     1,985.2
+Subtotal Equipment                              195.2    1,789.7   3,503.6    2,219.0       -     7,707.5
+C. Civil Works
+Site Preparaton                                   -       86.4         -          -       -        86.4
+Total Investmnent Costs                           571.5   2,816.2   4,399.7    2,516.9        -    10,304.3
+II. Recurrent Costs
+A. Maintenance and Licenses                         -       55.8      57.0      116.8               229.3
+B. Communicaton and Facilities Services          10.9       46.1      67.0       38.0       -       162.1
+Total Recurrent Costs                               10.9     101.7     124.0      154.8       -       391.4
+Total PROJECT COSTS                               582.4   2,917.9   4,523.7    2,671.7        -    10,695.7
+
+
+
+Phy
+cot.
+r_Im
+8.  . Cost                     Phy lc tCedhgts                     Pd.CoC    l.                             Total Md. Coo.               11.6 Comd   PalO
+Local                                 Local                             Local                                 Local                           .Me.   COo an
+/ExcL    Dudes &              For.   (Eade   DOtl &             For.   (Exsc   OWks 6&                         ExcL    Dull9 6               ConL on   Physl
+Fo.Ex.ch.   Taxes)    Taxes      Total    Exch.  Taxes)   Taxes    Total   Exch.  Taxs)   Taxes    Total   For. EXeLc    Taoes)  T__ sx         TOt    9as,. Cosat   Coa,
+L hv"av.t.M Codst
+A. Tcealal AsstZes
+EVOIA                                           440.4   1.5309                1,971.3    22.0    76.5             966    23.0   250.9          -   273.9      405.4   1,650.4                2,343.6    2,2322    111.6                en
+a* dToax,                                       151.5         -                151.5     7.0       -         -     7.6      76        -        -     7.6       1686..                         108.0      1SO.?       7.9               0D
+toTeltkaAssiance                                  ss1s    1,530.9              2,122.     29.6    765         I-   a        x306 250.9              21i s       es20o  T.                  3              219.9
+1. Eqdpma
+Sld HISW                                       3,33t3.5       -   1,691.8   5,075.3   1692                84.0   253.8   262.2             131.1   3933      3.114.2         .   1,9074      5722.3    5.449.8    272.5
+Appcaonasd wEawca t                            1,757.4         -         -   1,757.4    87 9                 .     7.9   130.9        -        -   139.9    10e05.2          -         *     1.962      1,660.6     94.5
+SahtosllEqatpan.n                                5,140.9        -   1,691.9    6,632.7  257.0               646       341.6   402.1     -    131.1   533.2    5600.1 .I107.4                  77707.5    7340.      367.0
+mePpwalo                                            .       73.3                73.3              37         -     3.7              9.4              9.4                  e8.4                 8o.4       *2.3       4.1
+Tomt hsv.at Codu                                   5,7329    1,4.2  1691.8    926?   2836             0         46 4514  432             f  131.   B2            6.452.1  iti44       1,07.4 10,304.        ,0136    40.7
+L Rocmelt Comb
+A,Msnd Uusnuece    Lkcns                          202.0                    -     202.0    10.1        -        -    10.1    17.2                       1 -    17.2  229.3      -                220.3       210.4     10.9
+a. Caar606 xnacdFitiaesSorvScos                       -     1320           -     132.0       .     6.6       -       66        -    235          -    23.5                 162.1         -      162.1      154.3       7.7
+TolbRacwntCoUa                                      2o20       1320          -    3340      10.1      68         ,       7     72    23 -               40.7       2293      -162.1               391.4      3728       10.6
+Total                                              S,934t,   1736.2   1,691.8   9,382.7   26.7    8e 8             .    468.1   449.9  23      13t11iT           6,661.4   2,106.6   1,007.4   10.69.7   10,186.4    609.3
+0 3
+a
+
+
+
+51
+Annex V
+Page 1 of 2
+Public Finance Management Project
+Project Administration Activities to be performed by the MOF/ Treasury
+-     Coordinate day-to-day implementation of tasks under the project by the various
+implementing teams and agencies, as specified in the Project Technical Annex (TA).
+-     Organize monthly meetings with the various project component teams, to review
+progress on project implementation.  Organize and circulate agenda and other
+communications for the meetings. Record the minutes of these meetings. Convey the
+minutes in English, to the World Bank.
+-     Ensure that the Project Teams and evaluation committees have the necessary
+knowledge and expertise to conduct their work, including, for example to draft technical
+specifications and evaluate technical bid proposals. Procure necessary ad hoc TA to
+support these project groups. Also help organize study tours for selected group members
+as appropriate.
+Project Monitoring / Administration Responsibilities to be Performed by the NBH
+The tasks to be performed by the NBH for the project would include:
+-     In accordance with World Bank Procurement Guidelines: Consolidate requests
+for procurement of goods and services. Prepare, in conjunction with project teams,
+procurement documents (e.g., invitations to bid, standard bid documents, technical
+specifications, bid clarification, bid evaluation reports, etc.).  Obtain timely MOF
+approval for procurement documents. Obtain timely World Bank no-objections for
+procurement documents. In conjunction with the project teams, organize and help
+manage bidder conferences. In due time for bid evaluations, organize and support
+evaluation committees (as appropriate, economize evaluation efforts by identifying
+standing members to serve on various evaluation committees under the project). Chair
+evaluation committees. Ensure proper documentation of committees' deliberations and
+findings. Ensure timely MOF approval of evaluation committees' recommendations and
+of prospective contracts. As delegated by the MOF, sign contracts. Coordinate and
+manage contract awards. Track progress of procurement activities against the plans set
+forth in the Technical Annex. Highlight variations in progress, record reasons and
+identify remedial actions.
+-     Manage disbursement processes. In conjunction with the MOF and the National
+Bank of Hungary, establish and manage the project Special Account (including the
+preparation of account statements). Process loan disbursement applications. Verify
+disbursement information in signed contracts against Loan Agreement (the disbursement
+schedule and disbursement letter). Prepare withdrawal applications and obtain
+
+
+
+52
+Annex V
+Page 2 of 2
+authorizing signature from MOF. Arrange payments for against statement of expenses
+(SOEs). Track disbursements of the Bank loan and government funds. Monitor project
+expenditures and costs (local and foreign).
+-     Prepare and distribute consolidated, periodic reports of the project teams and
+consultants to the relevant government and other participating institutions, including the
+semi-annual and annual reports to the World Bank, reflecting: (i) the status of
+implementation progress, problems encountered, corrective actions needed, rationale for
+actions; and (ii) current costs of each project component and estimated costs of
+completion.
+-     As required, take actions to expedite project activities, including, but not
+restricted to, decision-making and document processing by the relevant governmental
+agencies. Monitor official documents and contracts as they pass through the approval
+processes.
+-     In a timely fashion, prepare and submit to relevant government institutions and
+the Bank of annual audit reports of project expenditure and accounts.
+-     Ensure accurate and timely compilation of project indicators by each
+implementation team.
+-     iFacilitate the preparation of the World Bank standard Implementation Completion
+Report (ICR).
+-     Carefully manage the records and official documents of the project.
+
+
+
+Annex VI
+Hungary - Public Finance Management Project
+Figure 2. Project Implementation Arrangements
+Implementing Agencies
+MOFrTreasury
+Project Counterpart
+State Deputy Secretary, MOF
+National Bank of Hungary
+Project Coordinadon Reporting,
+Procurement. Disbursement /Accountlng
+__    _ _ _      -_    _L                           .___ __             _   _ _
+Budget Preparation             Treasury  perations              Debt Management                  PFM-IS Network
+Team Leader                    Team Leader                     Team Leader                     Team Leader
+MOF                           Treasury                        Treasury                |MOF|
+I   ..  |  o  S~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0
+
+
+
+54
+Annex VI
+Page 2 of 4
+Public Finance Management Project
+Project Implementation Arrangements, including Procurement and Disbursements
+Table 1: Summary of Major Procurement Packages for Goods
+(Costs excluding taxes and duties)
+Component/             Estimated   Procurement  Start Doc.  Invitation    Award       Contract
+Package                  Cost        Method    Preparation                Contract   Completion
+US$ million                             .
+Budget Preparation
+Standard H/W, SIW           0.150           IS         9/96       10/96        1/97        12/97
+Application S/W             0.257           is         7/96       12/96        2/97        12/97
+Treasury Operations
+Standard H/W, S/W            0.30           IS         7/96        8/96        9/96        10/96
+1.98         ICB          7/96       7/96        9/96        12/97
+Application S/W              0.58          LIB         9/96        3/97        6/97         6/98
+Debt Management 
+Standard H/W, S/W           0.451          ICB        10/96        1/97        6/97         6/98
+Application S/W             0.617          LIB        10/96        3/97        6/97         6/98
+PFM IS-Network
+Standard H/W, S/W           0.804          ICB        10/97       11/97        2/98        12/98
+Application Software        0.306          LIB        10/97       11/97        2/98        12/98
+ICB = International Competitive Bidding
+LIB = Limited International Bidding
+IS = International Shopping
+
+
+
+55
+Annex VI
+Page 3 of 4
+Table 2: Summary of Procurement Packages for Technical Assistance
+Component             Est. Cost    Procurement  Start Tender  Invitation   Award     Contract
+Package               US$ million  Method        Preparation              Contract  Completion
+Budget Preparation
+Budgeting Experts     0.059       Individuals                             10/96       12/97
+IT & Training Experts   0.278     SL (Firms)    8/96           9/96        10/96      12/97
+Treasury Operations
+IT & Training Experts   0.550     SL(Firms)      8/96          9/96        12/96      12/98
+Debt Management
+Debt    Management 0.039          Individuals                              10196      12/97
+Experts
+IT & Training Experts   0.317     SL(Firms)      8/96          9/96        10/96      12/98
+PFM-IS Network
+Manager, PFM Experts, 0.521       SL             8/96          9/96       10/96      12/98
+EDI  Specialists,  IS             (Firms)
+Consultants, Standards
+Specialists
+Project
+Administration
+Support
+Procurement/          0.213       SL             8/96          9/96       10/96      12/99
+Disbursement/                     (Firms)
+Accounting Specialists
+SL = Shortlist
+
+
+
+56
+Annex VI
+Page 4 of 4
+Table 3: Disbursements by Semesters
+(Total Project Costs)
+(US$'000)
+Semester         IBRD          Costs to be     Cash Flow      Cumulative
+Financing       financed                       Cash Flow
+1                     -           291.2          -291.2          -291.2
+2                 214.9           291.2           -76.3          -367.5
+3                 214.9          1,458.9        -1,244.0        -1,611.5
+4                1,028.3         1,458.9         -430.7         -2,042.2
+5                1,028.3         2,261.9        -1,233.6        -3,275.8
+6                1,660.2         2,261.9         -601.6         -3,877.4
+7                1,660.2         1,335.8          324.4         -3,553.0
+8                 970.8          1,335.8         -365.1         -3,918.1
+9                 970.8               -           970.8         -2,947.3
+Total              7,748.4        10,695.7        -2,947.3        -2,947.3
+
+
+
+Annex VII
+Public Finance Management Project
+Performance Monitoring Indicators
+Component               Budget preparation
+Objectives              Introduce improved methods, guidelines, procedures and systems for budget preparation, macro economic forecasting and preparation of
+forward estimates.
+Input Indicators        Process Indicators                             Output Indicators                              Impact Indicators
+Consultancy Services    Appointment of Consultants;                    Improved methods and guidelines for budget     Revised methods and
+financed by the PHRD                                                   preparation, macroeconomic forecasting and     guidelines for budget
+and the project in various   Design of improved methods and guidelines for  preparation of forward estimates completed;  preparation macro-
+aspects of Treasury     budget preparation, macroeconomic forecasting and                                             economic forecasting and
+Operations, Cash        preparation of forward estimates;              Revised structure and Chart of accounts conforming   preparation of forward
+Management, Information                                                with GFS and EU classification methodologies   estimates adopted;
+systems design and      Revision of budget classification structure and chart  completed;
+development.            of accounts to conform with GFS and EU                                                        Revised budgetary code
+classification methodologies;                  Full functional design of systems, processes and  structure effective for all  <
+procedures for budget preparation, completed;  Government expenditure
+Hardware, Systems       Functional design of systems, processes and                                                   and revenue;
+Software and Application   procedures for budget preparation;          Detailed regulations and operating manuals
+Software required for the                                              completed;                                     Budget for FY 1998
+Budget Preparation      Development of detailed regulations and operating                                             prepared according to this
+system                  manuals;                                       Technical design of Budget preparation system  structure;
+completed;
+Development of Technical design of Budget                                                    Functional and economic
+preparation system;                            Training strategy, plan and materials for revised  analyses of budget
+Budget preparation system completed.          available from the new
+Development of training strategy, plan and training                                          system;
+materials for the implementation of the revised  Adequate numbers of staff trained in GFS
+budget preparation system.                    methodology;
+Training of staff and implementation of systems.  H/W, S/W delivered, installed and tested;
+Application S/W tested for the following minimum                            Q
+Acquisition of H/W, and S/W and Development of   functionality: Preparing budget estimates and
+application software                          maintaining budget appropriation data.                                          M
+0
+__________________Delivery, installation and testing of HIW and S/W;  IImproved systems Implemented.___________
+
+
+
+Component               Treasury Operation
+Objectives              Ensure smooth and timely execution of the budget, while minimizing the cost of Government financing through the establishment of
+improved Treasury operations and cash management processes, procedures and systems.
+Input Indicators        Process Indicators                            Output Indicators                             Impact Indicators
+Consultancy Services    Engagement of Consultants;                    Full functional design of systems, processes and  New management
+financed by the PHRD                                                  procedures Treasury Operations completed and  processes for budget
+and the project in various  Enhancement and migration of the current interim   implemented;                         execution ( Cash
+aspects of Treasury    treasury application system to a more robust form                                            allocation, commitment,
+Operations and Cash     incorporating the full functional design of a  Detailed regulations and operating manuals   payment processing and
+Management,            treasury system;                               completed and in use;                         receipts) in place and
+Information Systems                                                                                                 functioning;
+Design and              Upgrading the H/W and Systems Software at     Technical design of Treasury Operations system
+Development.            regional treasury units to a UNIX platform and  completed and implemented;                  Improved expenditure
+implementation of the full Treasury system at these                                        management information
+sites;                                       Adequate numbers of staff trained in the use of the   and improved controls of
+Hardware, Systems                                                     new Treasury Operations Systems;              expenditures throughout
+Software and Application  Design and development of interfaces for the seam                                         Government;
+Software required for the  less operation of the Treasury System with the  H/W, S/W delivered, installed and tested;                               en
+Treasury Operation      Budget Preparation, Debt Management and Cash    Application S/W tested for the following minimum   Improved Cash           o
+System at RTUs and      management systems;                           functionality: maintaining and processing cash  Management for the
+Center.                                                               allocation, commitment, payment and receipts  Government as a whole;
+Development of methodologies for effective cash   transactions and producing core financial reports
+management;                                  required by the MOF/ Treasury.                 Ability to produce fiscal
+accounts data consistent
+Development of a plan for upgrading the                                                     with international
+informatics capability for the Treasury /MOF for                                           standards
+the management of the above systems;
+Development of a training strategy and plan for the
+implementation of the revised Treasury Operations
+System.
+Acquisition, Delivery, installation and testing of
+H/W and S/W;
+x
+0
+I-i
+
+
+
+Component               Debt Management
+Objectives              Optimize the management of Public Debt
+Input Indicators        Process Indicators                            Output Indicators                             Impact Indicators
+Consultancy Services    Engagement of consultants                     Full functional design of systems, processes and  New management
+financed by the PHRD                                                  procedures Debt Management completed and      processes for Debt
+and the project in various  Development of improved methods and functional  implemented;                            Management in place and
+aspects of Debt         design of systems for ledgers of domestic, foreign                                          functioning;
+Management,             and aggregate public debt, and government     Detailed regulations and operating manuals
+Information systems     guarantees and advances;                      completed and in use;                         Improved Debt
+design and development.                                                                                             management information
+Design of an appropriate standardization of debt    Technical design of Debt Management system  and improved controls of
+Hardware, Systems       instruments, auction rules and calendar of issuance   completed and implemented;            borrowings in place;
+Software and Application  and refunding for foreign and domestic debt;
+Software required for the                                             Training strategy and plan;                   Improved Management
+Debt management system   Development of an action plan that would assist                                            for Government Public
+the govt. debt management offices to coordinate  H/W, S/W delivered, installed and tested;  Debt as a whole;
+and optimize their debt policies vis a vis the  Application S/W tested for the following minimum
+Government securities market;                 functionality: maintaining and processing public  Reduced borrowing
+debt data and producing core financial reports  costs.
+Development of the full functional, design of  required by the MOF/ Treasury.
+systems, processes and procedures for the                                                   Adequate numbers of
+management of Public debt                                                                   staff trained for the
+management of Public
+Design of an information system to assist the                                               Debt.
+government in the management of Public Debt
+Design and development of a training strategy and
+plan for the implementation of the revised debt
+management systems.
+Acquisition of H/W, and Systems S/W and
+development of Application Software                                                                                     lb
+Delivery, installation and testing of H/W and SIW; |_                                                                      K
+x
+0
+
+
+
+Component               PFM-IS Network
+Objectives              Design and set up coordinating mechanisms, policies, procedures and standards that would ensure that the different elements of the
+Government's PFM -IS Network can functional as an integrated whole.
+Input Indicators        Process Indicators                            Output Indicators                             Impact Indicators
+Consultancy Services    Hiring of Consultants;                        - Overall strategy and a medium term work plan  Effective and efficient
+financed by the PHRD                                                  completed and agreed upon by major stake      arrangements for sharing
+and the project         Definition of an overall strategy and a medium  holders;                                    data across the PFM -IS
+comprising, PFM,        term work plan listing to ensure that the different                                         Network and for
+Standards, EDI and IS   elements of the PFM IS network can interface  - Policies, procedures and standards for Data  developing a
+specialists.            seamlessly;                                   administration and Systems development and    Government wide MIS
+management for all elements of the PFM systems    for the PFM area.
+Hardware, Systems       Definition of policies, procedures and standards for  network, and the appropriate organizational
+Software, Methodologies,  Data administration and Systems development and   framework to implement these policies, procedures
+Tools and Application   management for all elements of the PFM systems    and standards; completed and implemented;
+Software required for   network and an appropriate organizational
+setting up standard    framework;                                     - Common elements of the data architecture needed                             g
+procedures for DA,                                                    centrally, identified and developed;                                          o
+Systems Development,   Identifying, designing and implementing common
+Data exchange, Interfaces  elements of the data architecture for central  -Inter-modular interface design completed and
+between modules, across   maintenance;                                interfaces implemented selectively;
+the PFM - IS Network.   Researching the nature of the interfaces that the
+various PFM systems modules;                 -Technology standards established;
+Definition of technology standards for the PFM IS
+network so as to ensure systems compatibility and   -H/W, S/W delivered, installed and tested.
+ease of maintenance;
+Acquisition of HIW, and Systems S/W and
+development of Application Software
+Delivery, installation and testing of H/W and S/W;   _
+0
+
+
+
+Annex VilI- Hungary- Public Finance Management Project
+1996                         1997             1            1998             1            1999
+ID   TaskName                                               Duration  M|A|MJIJJA|S|O  ND|J|F|M|A|M|IJJA|S|ON|DIJ|F|M|A|M|JIJAISIOINIDJ|F|M|A|MJIJASO
+I   Bak Project Processing                                       82d
+2        Appmaisal                                               JOd          Sf22
+3        Negotiations                                             4d                          |
+4        Board Approval                                           Id 1d                       U22
+S        Project Launch                                           Sdi
+I  i 2/13
+6    Set Up Pfokect Mag  ment Structur                           40d
+7        Select Project Team Leadem                               Sw                *     10i30
+9/5-   10/30                                
+8        Set up Administrave Arrangements                         Sw            9         j0/3()
+9    ComRonent: Budget Prepatlon                                330d'                    i        _,___               _|
+10       Sdect Budgeting Experts (IMF)                           30d
+II            Prepare TORs                                        Iw                1  1  11/6
+12            Prepare Shon List Obtain CVs                        2w                                                                                                                             ON
+13            Obtain Baok Cleaance                                Iw
+14            Select and Appoint Consultant                       2w
+Is            Specialists in Place                                Od                          12/l
+16       SelectIS&TrainingConsultants                           130d
+17            PepaeTORs                                           2w               I  I   11/13
+IS            Pepare Sht ListObtain CVs                          24w
+19            Obtain ank Ckamnce                                 24w                 ill                 4/30
+20            Seict and Appoint Consultants                      24w                   /1
+21            Specialists inPlace                                  Od                                    4/30
+22        Develop Functional Design                              120d
+23            Finalise budget preparation process                24w                   1                41
+24            Develop guidelines for macro economic forecasting  24w                                    4(D /
+Page                                                                                                   - H
+-NJ H
+
+
+
+Annex Vill- Hungary- Public Finance Management Project
+1996             1             1997        -                  1998             1             1999           A
+ID    TaskName                                                Duration  MAMJJIAIS              D      MAM IJ ASONDJFMAM JIJIAISIOINIDJ FIMIAIMIJ  JASO
+25             Develop guidelins for forward estimates             24w                 It /                 4/16
+26             Finalise chart of accounts                          24w
+27             Develop transaction documents                       24w
+28             Develop transaction flows                           24w
+29             Functional design, manuals, guidelines complete       Od
+30        Develop Technical System Design                           90d
+31             Develop High level Design and Technology Archite      6w
+32             Assess Existing System and Changes Required           8w                                    4/2
+33             Develop Detailed Desip                               12w          
+34             Complete Design Specifications                        Od
+35        Implement Changes to the Bud Prep System S/W             220d
+36             Prepare Short List of Contractors                    2w                      4'
+37             Obtain Bank Approval                                  1w                              I 1 5
+38             Send LOIs                                           0.5w
+5/      5/II                          
+39             Form Evaluation Committee                            2w                         1/9_
+40             Clarify TORs/ await bids                             4w                                   5/5                     ;
+41             Select contractor                                    2w
+6:          16i
+42            Obtain Bank clearance                                 2w
+43            Negotiate contract                                     Iw
+44            Award contract-05                                                                               7/7 59'*
+45             Develop/modify application SIW for Budget Prepar     16w
+46             Application S/W complete                              Od                                                      10/o9
+47        Procure Hardware and Systems Software                    106d
+48             Prepare Bidding Documents/ Specifications            4w                           2/6    15
+Page2 2                                                                                                    H
+1:7 -                                                                                                                                         I    N)~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~' 
+
+
+
+63
+Annex VIII
+Page 3 of 12
+0
+00
+0,
+------- -    - -------0-
+0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0
+-4   N4              C4~. N N                   00 
+x
+dC(~~~~~~~~~~~~~~~~ 
+rA~ ~ i
+G X                                  tj;U         d                              I
+E | g i   "  =   8               l                  l l  l
+e > S R ,_
+o       ._____....................__...._____._.  ..__.....___  . ....._.  ..._._.___ .Ur
+e o = _ X~~
+n~~~ e _                                              Is       
+X   0 a   _         '
+
+
+
+Annex Vil- Hungary- Public Finance Management Project
+1996                           1997              f             1998                           1999
+ID    TskitNNe                                                 Duration  M|A|MJ|J|A|SOI N|D J1F|M|A|MIJIJ1A|S|O|NID  JIFIMIAIMIJJA|S|O|N|DIJF|MAMJJASO
+73             Set up evaluation coœunittcc                          2w103i1i6i
+_~~~~~~~~~~~~~~~~~~~~0 i,                                                                                                                      I
+74             Receive Bids                                           Id
+id              1~~~~ If 2  12/12
+75             Evaluate bids                                         4w                         3    1/9
+76             Obtain Bank cleaunc                                    Iw                       iiof1/16
+77             Award contract                                         2w                                  0
+73         ntal Systems                                             131d
+79             Pepay Site                                             4w               10/ 3
+So             Reeeive H/W and Systems S/W                            Iw                            2S    16
+X1            Inshll & Test H/W and Systems Software                  4w                            I                              i
+3fl
+32             H/W and Systems S/W at Regional RTUs upaded            Od4
+4/3
+33        Select TraSay Experts                                      40d
+S4   lreTORs  2w   10/31   11/13 
+S5             Ptepae Shot L;st Obtain CVs                            2w                  11/1    I 27!
+I                                    I/1                             I '2
+96             Obtin Bank Clewancr                                    lw
+I1/I,   tlt20
+37             Seiect and Appoin Coultmt                              6w                  11/1      12/25
+SS             Specialists in Place                                   Od
+12/25
+89        Select IS & Training Consultimts                          130d
+90             PrepareTORs                                            2w                     l       31/
+1031    I/I
+91             Prepa  Short List Obtsin CVs                          24w                  11/1 4/30
+92             ObtainBank Ciearc.                                    24w         1    1/1                      4130                i
+93             Select and Appoint Consultant                         24w                  130
+11/1           1
+94             Speclaists an Place                                    Od                                       4130
+95        Develop Functional Design                                 260d                             __________
+96             Design Procses. Procedures and Manuals                52w                                                           i 12/24                        4|- XD
+Pe__ _4__ __________L ___..___ . 
+Page 4                                                                   H-
+
+
+
+Annex Vill- Hungary- Public Finance Management Project
+1996                           1997             J             1998                           1999
+ID    TaskNmnc                                                Duration  MiA|M|J|J|A|S|O N D J|F|M|A|M|J|J|A|S|O|N|D  J FFM|A  TJ |J|A|S|O|N|D|JIFIMIAIMIJIJ_1ASO
+97            Design Inifnation flows                              52w                           i12/24
+98            Desipn Trnsaction Documents                          52w
+126                       1~~~~~~~~12/24
+99            Design Reporting Fornats                             52w                                                            12/24
+100            Develop Iega Framework Rules and Regulations         52w                     I                                     12/24
+101            Functional design, processes, procedures an manual    Od
+12124
+102       Develop Technical Systems Design                         190d                               _     _ j _i
+103            Develop High Level Design and Technical architect     4w                                    119
+I  1 9
+104            Develop detailed design                              20w                            120 -               6
+105            Finalize specifications                               Od
+106            Seach For Application Softwae (UB)                   12w                           1              S/7         10Q9
+107            Fmalize Report/ Select package                        2w                                               10/30   11/12
+108       Procwe/ Custoniize Application S/W                       230d                                                                                                                                   O N'
+109            Obtain Bank Clearance for Procurement                 2w                           j                   10/30   11/12
+110            Contract with vendor                                  4w
+III            Customize Application S/W                            16w                                                      1             /1
+112            Application S/W Ready                                 Od
+113            Develop training program and materials               16w                                                              4/2
+114            Install and Test Application S/W                      4w                           ilS
+7/23     /19
+115            Train Users                                           4w                                                                         82~l
+116       Complete System Installation (Treasury ops.)               Od                                                                                 9/16
+_  61                          I                                 . i
+117   Comnponent: Debt Mlananefnent                                461dI                                                         i
+I1S       Selcet Debt Managnemnt Experts (MF)                       20d
+119            PrepareTORs                                           2w                10/31   1113j
+120            Prepare Shon List Obtain CVs                          2w                 fl. l    II/27                                                                                          ( .D
+Page                                                                                                     C
+Page 5                                                                                                  :~ I-
+NM H
+
+
+
+Annex Vil- Hungary- Public Finance Management Project
+1996             1             1997                           1998                           1999
+ID    TaskName                                                Duration  MFATMJJ |A|S 1         D|J|FIM|A|MIJ J|A|S O|NID1JIFIM|A|MIJ|JIA|S|O|N|D  J F|M|A|MIJ I A|S|O
+121            Obtain Bank Clearance                                 1w                 1
+122            Select and Appoint Consultant                         2w                 11/1   11in7
+123            Specialists in Place                                  Od
+124       Select IS & Training Consultants                          90d                       *
+125            PrepareTORs                                           2w                1/1    11
+126            Prepare Short List Obtain CVs                        16w                 1111             3/5
+127            Obtain Bank Clearance                                16w                 1
+128            Select and Appoint Consultant                        16w
+129            Specialists in Place                                  Od                     1
+130       Develop Functional Design                                120d
+131            Design Processes, Procedures and Manuals             24w
+11/1                 5/14
+132            Design Infoissation flows                            24w                   1IA                  5/14              ,O
+1~~~~~51
+133            Design Transaction Documents                         24wl l                      _          _   5/14
+134            Design Reporting Formats                             24w                      l                 5/14
+135            Develop Legal Framework Rules and Regulations        24w                       i
+136            Functional design, procedures and manuals complet     Od
+I            ~~~~5/14
+137       Develop Full System Design                               110d l
+138            Develop High level Design and Technology Archite      6w                                       /16
+139            Develop Detailed Design                              16w                               411              6
+140            Complete Design Specifications                        Od                                        1        6
+141       Select Debt Management System (S/W)                       70d
+142            Search For Application Software (LIB)                12w                                          8/7         10/29
+143            Fnalize ReportV Select package                        2w
+10/30   11/12                                                            (
+144       Procure/Customize Application S?                         110d                                                              _' .D
+Page 6                                                                                                    H
+
+
+
+Annex Vill- Hungary- Public Finance Management Project
+1996                          1997                           199S                           1999
+ID    TaskNamne                                               Duration  M|A|M|1IJ |A|SO    I D        E JFMIAMIJIJ |AS|ONDI|F|MAMJ  JIJJA|S|O|N|DJ |FIM|A|M|J J ASO
+145            Obtain Bank Clearance for Procurement                 2w                                                          I
+1             ~~~~10/30   1I/
+146            Contract with vendor                                  4w113    110
+147            Customize Application S/W                            16w                           .                      12/11            1
+148            Application S/W Ready                                 Od                           ,
+149       Cutiom Devdeopneni of Application S/W- Alt Scenam        260d                     I         i         -          -
+150            Prepare Short List of Contractors                     2w                     I         4/1     30
+151            Obtain Bank Approval                                  2W                                 5/1
+152            Send LOLr                                           0.5w                     i    .7   /11
+153            Form Evaluation Committee                             2w                                         8/11   U25
+154            C/arfy IORs/await bids                                4w                           .
+8/11     /
+155            Select contractor                                     4w                     J                       9      10/6
+156            Obtain Bank ckarance                                  2w                                               0/6   10/20
+157            Negotiate contract                                    Iw                     1                         (1/20 I]lo/2i
+15S            A ward contract                                     0.5w                                               10/27
+159            Develop application S/Wfor Debt Management           24w                     1                         10/30               /15
+160            Application SIW complete                              Od                                                                     /15
+161       Procure Hardware and Systems Software                    156d                     .
+162            Prepare Bidding Documents/ Specifications             6w                               41         /28
+163            Obtain Bank Clearance                                 2w
+5/29    1 1
+164            Issue tender documents ([CB)                         .w                                     6/12    18
+165            Hold bidders conference                               2w                                    6/19    i            
+166            Set up evaluation committee                           2w                                   5/29 i ,n
+167            Recelve Bids                                           Id                                            ,
+/315  F/31
+168            Evaluate bids                                        12w                                              I I         I                                                                   (D
+8/1 111aa  10/23                                                                    x
+Page7                                                                                                      H
+Ili
+
+
+
+Annex Vil- Hungary- Public Finance Management Project
+1996             j             1997                           1998                           1999
+ID    TaskName                                                Duration  M||          AS|O| IDJIF|M|A|M  J    LAS|OIND  J|F|M| MIJJALS O|N|D  J|FIM|A|M|J|J|AIS O
+169            Obtain Bank clearance                                 2w                                               0/24   1 l/o
+170            Award contract                                        2w                     j    ,                      1/ Ri20
+171       Install Systems                                          310d                             l                                          m
+172            Prepare Site                                          4w                                   5/29    6/2
+173            Receive H/W and Systems S/W                           6w
+12/19     1/29
+174            Install HIW and Systems Software                      2w                     I                                          12
+175            Develop training program and Materials                4w                     i8:-                                          .
+176            Install and Test H/W                                  2w                     i                                   2/13
+177            Install and Test Application S/W                      4w                                                              4/16      /13
+178            Train Users                                          12w                     1                                           5/14         5
+179       Debt Management System Installed                            i d                                                                       8/618V6
+180   Component: PFM- IS Network                                   796d                        m;
+181       Select Component ManageT                                  40d                     I
+182            Prepare TORs                                          2w                1
+183            Prepare Short List Obtain CVs                         2w                  1        1/27
+184            Obtain Bank Clearance                                 Iw                 11/i i  1/20
+IS5            Select and Appoint Consultant                         6w                  11/1  jl2/25
+186            Manager in Place                                      Od                     .    *
+187       Select PFM Experts, Standards Specialists, EDI specialis  90d                            12/25
+1IS            Prepare TORs-                                         2w                      L
+1/8
+189            Prepare Short List Obtain CVs                         2w                        t      1/22
+190            ObtainBankClearance                                   1w                        1/9  1/15
+191            Select and Appoint Consultants                       16w                        1/9
+192            Specialists in Place                                  Od                                                                                                                         Co
+Page 8                                                H
+.I-H
+
+
+
+Annex VilI- Hungary- Public Finance Management Project
+1996                           1997          -                 199S                            1999
+ID    Task Name                                                Duration  M|A||           J | S    D FMA   5JJ1A1         SO|N|D|JFMTAMg JJIAIS O1NIDIJIFIMIAMJIJAS
+193        Select IS Consultants                                     1 30di
+194            Prcpare TORs                                           2w                      L,26   1/8
+195            Prepare Short List Obtain CVs                         24w
+196            Obtain Bank Clearance                                 24w                         It9                6/25
+1 /9i               6/25
+197            Select and Appoint Consultant                         24w
+____________________________________________                     j   ~~ ~~1/9            25
+198            Specialists in Place                                    Od                                           6/25
+199        Develop Over All Framework For PFM * IS Network           16w
+5.1 _I0
+200        Develop Over Strategy and Medium Term Work Progra         12w                      i/21
+i          iU~~921 *  ZlI     
+201        Implement Work Program                                    160d                     I
+202            DefOine policies, procedurcs and standars for netwo   16w
+11/13            /
+203            Design and Implement organizational arrangements      16w
+3/5           6/24
+204            Develop and Implement Technology Standards for        24w                                                  11/13                   9
+205        Policies, Proeedures, standards for PFM IS Network in pi    Od
+206        Procure Hardware and Systems Software Necessary for P     106d                     !                                                 4/29
+207            Prepare Bidding Documenla/ Specifications              4w                                                              3J5
+203            Obtain Bank Clearance                                  2w
+209            Issue tender documents (ICB)                            Iw
+210            Hold bidders confcrenoe                                 2w                      1                                         4/1      2
+211            Set up evaluation eonunittee2                                                   I                                         4123     6
+2w~~~~~~~~~~~~~~~~~~/
+212            Receive Bids                                            Id                      1                                              642
+213            Evaluate bids                                          4w                                                                      6/4    4
+214            Obtain Bank eleance                                    2w                                                                        7/3   /16
+215            Award contract                                          2w 
+216        Install Systerns                                          16                                                                                                   
+___                                                                          ./1 .0_ 
+176t1
+0
+Page 9
+t .   ,-
+
+
+
+Annex Vil- Hungary- Public Finance Management Project
+1996             1             1997             1             1998                           1999        _
+ID    Task Name                                               Duration   MA        JJASIONIDIjTFMAMIJIJASIONIDJIFIMAMIJJIAISIOND  IFMIAIMJIJAS10
+217            Prepare Site                                    DN
+218            Receive H/W and Systems S/W                           4w
+219            Install H/W and Systems Software                      2w
+220            Install and Test H/W                                  2w
+i    f                i                  ~~~~~~~~~~~~10/9 <10/22
+221            Train Users                                           6w
+|    .                .                  ~~~~~~~~~~~~~~10/23-1213
+222        Systems Installed                                          Od
+223       Identify, design and implement common elements of dat     50w                                                                                   12/4
+224        Design implement interfaces between elements of the PF   50w                                                                                   12/4
+225   Project Complete                                                O
+C" D
+(D 
+rD
+O x
+0<
+Page 10                                                                                                   I-I
+I - 
+..                            .  .   .                                             N~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-
+
+
+
+Annex VlIl- Hungary- Public Finance Management Project
+2000                           2001                            2002                           2
+ID    Task Name                                                 Duration  N D JFMAMJJASOND  JFMAMJJASOND JFMAMJJASOND JFMAMI
+169            Obtain Bank clearance                                  2w
+170            Award contract                                         2w
+171       Install Systems                                           310d
+172            Prepare Site                                           4w
+173            Receive WW and Systems S/W                             6w
+174            Install H/W and Systers Software                       2w
+175            Develop training program and Materials                 4w
+176            Install and Test H/W                                   2w
+177            Install and Test Application SIW                       4w
+178            Train Users                                           12w
+179       Debt Management System Installed                             Id
+180   Componeat: PFM- IS Network                                    796d
+181       Select Component Manager                                   40d
+182            Prepare TORs                                           2w
+183            Prepamr Short List Obtain CVs                          2w                                      i
+184            Obtain Bank Clearance                                  I w
+185            Select and Appoint Consultant                          6w
+186            Manager in Place                                        Od
+187        Select PFM Expets, Standards Specialists, EDI special is   90d
+188            Prepare TORs                                           2w
+189            Prepre Short List Obtain CVs                           2w
+190            Obtain Bank Clearance                                  Iw
+191            Selct snd Appoint Consultants                         16w       i 
+192            Spceiiists in Place                                     Od
+0
+Pos 11
+
+
+
+Annex Vill- Hungary- Public Finance Management Project
+_  _ _   1    2000                              2001                             2002                             2
+ID  Task Name                                                      Duration NDJFMAMJJ ASONDJMAM                                         AISOINIDIJ|F|M|A|M|J|J|A|S|O|N|D|J|FIM|A|M|J
+217             Prepare Site                                              4w
+218             Receive Il1/W and Systemi S/W                             4w
+219             Install IVW and Systems Software                          2w
+220             Install and Test H/W                                      2w
+221             Train Users                                               6w
+222        Systemrs Installed                                              Od
+223        Identify, design and implement common elcments of dat         50w
+224        Design implement interfaces between elements of the PF        SOw      il/S
+225   Project Complete                                                     Od    1118
+"3
+N~(D
+0
+Page 12
+-IH
+
+
+
+73
+Annex IX
+Page 1 of 1
+Public Finance Management Project
+List of Selected Documents on Project File
+1.      IMF Report: Hungary: Strengthening the Financial Management of
+Government Operations, Fiscal Affairs, July 1994
+2.      Terms of Reference:
+(i) For the elaboration of the Public Finance Management Information System
+(PFMIS).
+(ii) The specification of the Budget Departments datamodel.
+(iii) Implementation of the Budget Departments datamodel.
+(iv) Specifications for the Treasury Ledger System (TLS), based on the
+PFMIS.
+(v) Planning systems and modules for the TLS.
+(vi) Establish data and information output systems for the PFMIS.
+(vii) Study on the integration of local governments into the Treasury.
+
+
+
+I
+
+
+
+
+
+
+IMAGING
+Re-port. No;       u  7 H U
+Type: 
+
+
+

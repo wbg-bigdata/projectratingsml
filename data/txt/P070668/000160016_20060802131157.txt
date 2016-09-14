@@ -1,0 +1,1493 @@
+The World Bank                               Human Development Sector Reports
+1818 H Street, NW                            East Asia and the Pacific Region
+Washington, DC 20433                         The World Bank
+USA
+Telephone: 202-473-1000
+Facsimile: 202-477-6391
+
+East Asia and Pacific Region
+Human Development Sector Unit
+http://www.worldbank.org
+
+
+
+
+                                                                CAMBODIA
+
+                                      Getting Girls Into School
+                                 Evidence from a Scholarship Program
+
+
+
+
+                                             March 2006
+
+                                                                         Report No: 36727-KH
+
+
+
+
+       Getting Girls Into School: Evidence from a Scholarship Program in
+                                                Cambodia
+
+
+                                               Deon Filmer
+                                             Norbert Schady
+
+
+                                             March 15, 2006
+
+
+
+
+_____________________________
+
+We thank Luis Benveniste, Pedro Carneiro, Eric Edmonds, T. Paul Schultz, Miguel Urquiola, and participants at a
+seminar at the World Bank for many useful comments. All remaining errors are our own.
+
+      CURRENCY EQUIVALENTS
+  (Exchange Rate Effective end March 2006)
+
+       Currency Unit =     Riel
+            Riel 4051 =    US$1
+               US$1 =      Riel 0.00024
+
+                FISCAL YEAR
+          January 1    ­    December 31
+
+
+
+    ABBREVIATIONS AND ACRONYMS
+
+
+
+
+CCT               Conditional Cash Transfer
+CR                Cambodian Riels
+DHS               Demographic and Health Survey
+JFPR              Japan Fund for Poverty Reduction
+LMC               Local Management Committee
+OLS               Ordinary Least Squares
+RD                Regression Discontinuity
+RGC               Royal Government of Cambodia
+SES               Socio-Economic Survey
+
+
+
+
+Acting Vice President:     Jeffrey Gutman, EAPVP
+    Country Director:      Ian Porter, EACTF
+    Country Manager:       Nisha Agrawal, EACSF
+     Sector Director:      Emmanuel Y. Jiménez, EASHD
+     Sector Manager:       Christopher Thomas, EASHD
+  Task Team Leader:        Luis Benveniste, EASHD
+
+                                                               Table of Contents
+
+Introduction.............................................................................................................................................1
+Data, Variables and Program Selection Rules ........................................................................................2
+Empirical Strategy ..................................................................................................................................8
+Results...................................................................................................................................................11
+Conclusion ............................................................................................................................................17
+Appendix ..............................................................................................................................................19
+References.............................................................................................................................................20
+
+Tables:
+
+Table 1    Characteristics of Scholarship Recipients and Non-Recipients at Baseline ...........................6
+Table 2    Basic Results on Program Impact.........................................................................................13
+Table 3    Bounding the Effects of Selective Attrition on Estimates of Programs Impact ...................15
+Table 4    Heterogeneity of Treatment Effects......................................................................................17
+
+
+Figures:
+
+Figure 1 Attendance and Enrollment Status by Decile, JFPR Application Data ..................................7
+Figure 2 Proportion of Girls Who Complete Grade 7 Among..............................................................8
+           Those Who Completed Grade 5 by Economic Status Decile, DHS Data...............................8
+Figure 3 Probability of Receiving a Scholarship, Within-School Ranking of Score..........................10
+
+
+Abstract
+
+
+         Increasing the schooling attainment of girls is a challenge in much of the developing world. In
+
+this paper we evaluate the impact of a program that gives scholarships to girls making the transition
+
+between the last year of primary school and the first year of secondary school in Cambodia. We show
+
+that the scholarship program had a large, positive effect on the school enrollment and attendance of girls.
+
+Our preferred set of estimates suggest program effects on enrollment and attendance at program schools
+
+of 30 to 43 percentage points; scholarship recipients were also more likely to be enrolled at any school
+
+(not just program schools) by a margin of 22 to 33 percentage points. The impact of the JFPR program
+
+appears to have been largest among girls with the lowest socioeconomic status at baseline. The results we
+
+present are robust to a variety of controls for observable differences between scholarship recipients and
+
+non-recipients, to unobserved heterogeneity across girls, and to selective attrition out of the sample.
+
+
+JEL Codes: I20, O12
+
+
+1.       Introduction
+
+
+         Increasing the schooling attainment of girls is a challenge in much of the developing world. In a
+
+large number of countries, especially in the Middle East and parts of Asia and Africa, overall education
+
+for girls is low, and lags significantly behind that of boys. Nonetheless, over 180 governments have
+
+adopted universal primary education and gender parity in schooling as Millennium Development Goals.
+
+These commitments notwithstanding, there is surprisingly little evidence on policies and programs that
+
+effectively raise school attainment, including for girls (see the reviews by Glewwe 2002; Case 2004).
+
+
+         In this paper we evaluate the impact of a program designed to increase the enrollment of girls in
+
+secondary school in Cambodia. Cambodia is recovering from many years of internal and external strife.
+
+The Khmer Rouge regime of the 1970s and Vietnamese occupation in the 1980s had severe repercussions
+
+for all aspects of the economy and society, including the education sector (see De Walque 2004). Most
+
+Cambodian children attend some schooling, but a large share complete only very few grades. According
+
+to the 2000 Demographic and Health Survey (DHS), 85 percent of 15 to 19 year olds had completed
+
+grade 1 while only 27 percent had completed grade 7, the first year of lower secondary. These
+
+percentages are lower for rural areas, 83 and 21 respectively, and lower yet for rural girls, 78 and 17
+
+respectively (Filmer 2005). To address these problems, the Cambodian government has initiated a series
+
+of reforms in the education sector, including scholarship programs for students from disadvantaged
+
+backgrounds.
+
+
+         The program we evaluate is the Japan Fund for Poverty Reduction (JFPR) scholarship program.
+
+This program selected 93 lower secondary schools and, within each of these schools, approximately 45
+girls who were beginning 7th grade were awarded scholarships of USD45 each. The value of the
+
+scholarship is large--in 2002, mean per capita GDP in Cambodia was approximately USD300 (World
+
+Bank 2005). Once a girl is selected for a JFPR scholarship, she is automatically eligible to continue
+
+receiving a scholarship for the three years of the lower secondary cycle. The JFPR program therefore
+
+attempts to increase the fraction of girls who make the transition from primary school to lower secondary
+
+school, and to encourage girls to complete the lower secondary school cycle. In 2003/04, there were 698
+
+lower secondary schools in Cambodia, so the JFPR scholarship program covered approximately 15
+
+percent of lower secondary schools in the country.
+
+
+
+
+                                                        1
+
+        Although the JFPR program is known as a "scholarship" program, it does not directly subsidize
+
+the fees paid by parents for the education of their daughters; rather, families receive cash transfers
+
+provided their daughter is enrolled in school, maintains a passing grade, and is absent without "good
+reason" fewer than 10 days in a year.1 The JFPR program therefore functions much like a "conditional
+
+cash transfer" (CCT) program of the sort that has been implemented in many Latin American countries.
+
+CCT programs in Latin America have been carefully analyzed--see for example, Schultz (2004) and
+
+Behrman, Sengupta and Todd (2005) on the PROGRESA program (now re-named Oportunidades) in
+
+Mexico, Bourguignon, Ferreira and Leite (2003) on the Bolsa Escola program (now re-named Bolsa
+
+Familia) in Brazil, and the reviews by Rawlings and Rubio (2005) and Das, Do, and Ozler (2005). In this
+
+paper we assess the impact of a similar program in a context with much lower income, lower enrollment
+
+rates, and weaker institutions.
+
+
+        As we show below, the JFPR scholarship program had a large, positive effect on the school
+
+enrollment and attendance of girls in Cambodia. Our preferred set of estimates suggest program effects
+
+on enrollment and attendance at program schools of 30 to 43 percentage points; scholarship recipients
+
+were also more likely to be enrolled at any school (not just program schools) by a margin of 22 to 33
+
+percentage points. The impact of the JFPR program appears to have been largest among girls with the
+
+lowest socioeconomic status at baseline. The results we present are robust to a variety of controls for
+
+observable differences between scholarship recipients and non-recipients, to unobserved heterogeneity
+
+across girls, and to selective attrition out of the sample.
+
+
+2.      Data, Variables, and Program Selection Rules
+
+
+        The main sources of data for the analysis in this paper are two: Application forms to the
+
+scholarship program and data on school enrollment and attendance from an unannounced school visit.
+
+The application form contains 28 questions about parental education, demographic composition of the
+
+household, ownership of various assets, housing materials, and distance to the nearest secondary school;
+
+applicants were also asked to specify the name of the secondary school they would like to attend, with the
+
+understanding that this should be one of the 93 schools that were eligible for the scholarship program.
+
+These forms were completed by a girl in class or at home; some provisions were made for teachers to
+
+verify that the data provided was accurate.
+
+
+
+1Scholarship recipients agree to use funds towards education, but no attempt was made to enforce this agreement.
+
+
+                                                        2
+
+         We use the information on the application forms to correct for observable differences across girls.
+
+Two things are worth noting here. First, application forms were handed out at the primary "feeder
+
+schools" to the 93 secondary schools included in the scholarship program. In practice, selection of the
+
+feeder schools, and selection of the girls who were encouraged to fill out application forms by the primary
+
+school teachers appears to have been somewhat ad hoc. Second, almost 30 percent of the application
+
+forms were not filled out completely. Because we use the characteristics on the application form to
+
+correct for differences across girls, the sample for our analysis is limited to girls whose applications were
+
+complete. Appendix One suggests that the differences between the full sample of girls and the sample of
+
+girls with completed applications are generally small. Nevertheless, the fact that our data are not from a
+random sample of 6th grade girls in the primary feeder schools to the JFPR secondary schools, or even of
+
+all girls who filled out applications, should be kept in mind when interpreting the results in this paper.
+
+
+         Once application forms had been filled out, they were forwarded from the primary school to the
+
+Local Management Committee (LMC) of the relevant JFPR secondary school. The LMCs were then
+
+tasked with identifying the 45 girls who were most needy and awarding them scholarships. To assist in
+
+this process, LMCs were given a set of weights that were to be given to each question, and a formula to
+
+aggregate responses into a final score. According to program administrators, these weights were
+
+developed somewhat arbitrarily. For example, applicants who had between 3 and 5 brothers received 1
+
+extra point, those with more than 5 brothers 2 extra points; applicants with 1 to 3 sisters received 1 extra
+
+point, those with 4 or 5 sisters received 2 extra points, and those with 6 or more sisters 3 extra points.
+
+(More points were meant to increase the probability of receiving a scholarship.) A number of
+
+characteristics, including having at least one parent who had completed at least primary school were
+
+meant to disqualify applicants from scholarships. However, the LMCs were given considerable discretion
+
+over the specifics of how to apply the selection rules--the Programme Implementation Manual states that
+
+"LMCs will have flexibility to adapt this process as they see fit." Once LMCs had chosen the girls who
+
+would be awarded scholarships, all applicants were notified whether they had been selected.
+
+
+         As we show below, it is useful for the analysis in this paper to have a measure of socioeconomic
+
+status (SES) that is close to that used by the LMCs to select scholarship recipients. We compare two
+
+ways of aggregating the information in the application form. First, we use the weights provided by the
+
+program administrators, and rank girls applying to a school by their score. By this measure, 75 percent of
+
+the girls are among the 45 girls with the lowest score and are scholarship recipients; the remaining 25
+
+percent are either girls who did not receive a scholarship despite the fact that they were among the 45
+
+girls with the lowest score, or they were girls who received a scholarship despite the fact that they had
+
+
+
+                                                       3
+
+relatively high scores or characteristics that were meant to disqualify them from scholarships. Second, we
+
+aggregate all of the responses to questions in the application form by principal components, and give each
+
+girl a score based on the value of the first principal component (see Filmer and Pritchett 2001). By this
+
+measure, 84 percent of the girls are ranked among the 45 poorest girls and are scholarship recipients.
+
+This evidence is consistent with the LMCs having successfully identified girls with the lowest SES on the
+
+basis of the responses to the application form without strictly following the weights assigned to each
+
+individual question. Because it better predicts scholarship receipt, we use the first principal component as
+
+our preferred measure of SES. In the discussion below, we refer to this as an applicant's "score".
+
+
+          The second source of data for this evaluation is based on an unannounced school visit to each one
+
+of the 93 program schools. These visits were carried out by an independent firm, hired specifically for
+
+this purpose. Enumerators were given a list of applicants to each JFPR school, without information on
+their scholarship status. Note that girls applied for the scholarship in 6th grade, during the 2002/2003
+
+school year, scholarships were first awarded during the 2003/04 school year, and school visits took place
+during the course of the 2004/05 school year. During the school visit, enumerators checked 8th grade
+enrollment rosters and physically verified whether or not a girl was attending an 8th grade class on the day
+
+of the visit.
+
+
+          On the basis of the school visits, we construct three measures of enrollment and attendance. The
+first is a dummy variable that takes on the value of one if the girl in question was enrolled in 8th grade at
+
+the JFPR school she had applied to. Note that a girl would only figure as enrolled by this measure if she
+
+enrolled in the school she applied to in two consecutive years, and did not repeat a grade. The second
+
+measure is physically verified attendance, a dummy variable that takes on the value of one if a girl was
+present in an 8th grade class at the time of the visit by the enumerators. This variable depends on
+
+enrollment; attendance, conditional on enrollment; and adequate grade progress in a JFPR school. The
+
+third variable is a dummy variable that takes on the value of one if a girl is enrolled at any school,
+
+regardless whether this is a JFPR school or not. To construct this third variable, we proceeded as follows.
+When an applicant to a given JFPR school did not appear on the 8th grade enrollment rosters, enumerators
+asked other 8th grade students in that school whether they knew the missing girl. If someone knew the girl
+
+in question, they were asked whether they knew she was definitely enrolled elsewhere; definitely not
+
+enrolled; or whether respondents were not certain about the enrollment status of the missing girl. On the
+basis of the enrollment registers and the questions asked of 8th grade girls during the school visits, we
+
+were able to establish the enrollment status of 95.2 percent of all of the girls who had completed
+
+scholarship applications. One way to think of the girls whose enrollment status could not be established
+
+
+
+                                                        4
+
+is as attritors out of the sample. The attrition rate, 4.8 percent, is low--as a point of comparison, attrition
+
+in a recent evaluation of school voucher scheme in Colombia was almost 50 percent (Angrist et al. 2002).
+
+Nevertheless, we carefully consider the extent to which selective attrition could bias our estimates of
+
+program impact.
+
+
+         Table 1 compares enrollment, attendance, and the characteristics of girls who were awarded
+
+scholarships and those who were not. The table shows that, on average, scholarship recipients had
+
+significantly lower socioeconomic status than non-recipients: Recipients had parents with lower education
+
+levels; they were more likely to live in a hut or a house with an earthen floor, and less likely to have
+
+houses made of high-grade materials like cement, brick, tiles, metal or fiber; recipients were also less
+
+likely to own any one of a number of means of transportation, less likely to own more than a hectare of
+
+land, less likely to regularly lend money, and more likely to have debts. These results confirm that the
+
+LMCs were successful at targeting scholarships to girls with lower socioeconomic status. Table 1 also
+
+shows that 86.7 percent of recipients, but only 64.6 percent of non-recipients were enrolled in a JFPR
+
+program school; 80.2 percent of recipients, but only 57.9 percent of non-recipients were attending a JFPR
+
+school on the day of the visit; for those whose enrollment status could be established, 89.5 percent of
+
+scholarship recipients but only 76.5 percent of non-recipients were enrolled in any school, JFPR or
+otherwise.2 Table 1 is consistent with a large program effect on school enrollment and attendance.
+
+
+         We next focus on comparisons of outcomes for girls with different levels of socioeconomic
+
+status, as measured by their score. In our sample, girls ranked 45 or lower by the score were 4.3
+
+percentage points more likely to be enrolled at a JFPR school than girls ranked 46 or higher (p-value:
+
+0.04); 3.9 percentage points more likely to be present on the day of the school visit (p-value: 0.08); and
+
+2.0 percentage points more likely to be enrolled at any school, JFPR or otherwise (p-value: 0.29). Note
+
+that we would expect that, in the absence of a program, girls with lower SES would be less likely to be
+
+enrolled and attending school. These comparisons, which abstract from any possible endogeneity of
+
+scholarship receipt, therefore provide further evidence of a JFPR program effect.
+
+
+
+
+2Comparisons for the full sample of girls, not just those with completed applications; also suggest that scholarship
+recipients were more likely to be enrolled and attending school. In the full sample, the difference in the probability
+of enrollment at a JFPR school is 22.1 percentage points; the difference in the probability of attending is 21.9
+percentages; and the difference in the probability of enrollment at any school, not just a JFPR school, is 12.1
+percentage points. All these differences are significant at the 1 percent level or better.
+
+
+                                                           5
+
+          Table 1: Characteristics of Scholarship Recipients and Non-recipients at Baseline
+
+                                                Recipients         Non-        Difference       P-value
+                                                                recipients
+Outcomes
+Enrolled in JFPR school                           0.87             0.65            0.22           0.00
+Attending on the day of school visit              0.80             0.58            0.22           0.00
+Enrolled in any school                            0.90             0.77            0.13           0.00
+Characteristics of applicants
+Parents own business                              0.00             0.08           -0.08           0.02
+Either parent is a government employee            0.01             0.14           -0.13           0.00
+Parent lends money regularly                      0.00             0.06           -0.05           0.05
+Parent completed primary school                   0.09             0.40           -0.30           0.00
+Parent completed secondary school                 0.01             0.06           -0.05           0.00
+Main part of house made of cement or brick        0.00             0.08           -0.08           0.00
+Roof made of tiles, metal or fibre                0.15             0.56           -0.41           0.00
+Land ownership by hh > 1 hectare                  0.07             0.33           -0.26           0.00
+Own a large asset (>1M riels)                     0.01             0.15           -0.14           0.00
+Own a truck                                       0.00             0.01           -0.01           0.02
+Own a car                                         0.00             0.01           -0.01           0.06
+Live with both parents                            0.70             0.83           -0.13           0.00
+Live with one parent                              0.23             0.19            0.04           0.27
+Live in a hut                                     0.53             0.30            0.23           0.00
+Earthen floor                                     0.35             0.28            0.07           0.10
+Family has motorbike or remorque                  0.04             0.27           -0.23           0.00
+Family has bicycle                                0.48             0.72           -0.24           0.00
+Family has ox and cart                            0.20             0.44           -0.24           0.00
+Family has pony and trap                          0.02             0.05           -0.03           0.22
+Family has no means of transportation             0.49             0.25            0.24           0.00
+Family has debts > 100,000 riels                  0.79             0.54            0.25           0.00
+Mean number of brothers                           2.26             2.36           -0.10           0.08
+Mean number of sisters                            2.84             2.70            0.14           0.10
+Applicant disabled                                0.04             0.02            0.01           0.05
+Other hh member disabled                          0.15             0.13            0.02           0.57
+Applicant or other hh member has disease          0.32             0.20            0.12           0.00
+Distance to secondary school (km.)                4.17             3.61            0.56           0.01
+
+Number of observations                            2765             858            3623
+Note: Outcomes are measured at the time of the school visit; applicant characteristics are based on the
+application form.
+
+
+
+
+                                                      6
+
+                                                                                                  Finally, we calculate the mean enrollment and attendance levels, separately for scholarship
+
+recipients and non-recipients, by deciles of the score. These results are presented in Figure 1. The lines
+
+corresponding to girls who were turned down for scholarships show that, among these girls, there are
+
+clear socioeconomic gradients in enrollment and attendance. Figure 2 presents a similar figure based on
+the 2000 Demographic and Health Survey; here too there is a clear schooling gradient.3 Figure 1 shows,
+
+however, that the gradient in enrollment and attendance has essentially disappeared among scholarship
+
+recipients. This is consistent with larger program effects among girls with the lowest SES, a point we
+
+examine more carefully below.
+
+
+                                                                                                  Figure 1: Attendance and enrollment status by decile, JFPR application data
+
+ JFPR applicants: Enrollment at a JFPR school, by                                                                                               JFPR applicants: Attendance on day of school visit,
+                                                                                                    scholarship status and decile                                                       by scholarship status and decile
+
+                                                                              1                                                                                              1
+
+
+
+                                                                               .8                                                                                             .8
+       nt
+         mell
+             ro                                                                  .6                                                                  cenadn                     .6
+               enfo                                                                                                                                        ttea
+
+                   tyilbiaborP                                                     .4
+
+
+
+                                                                                     .2                                                                        ofytilibaborP      .4
+
+
+
+                                                                                                                                                                                    .2
+
+
+
+                                                                                       0                                                                                              0
+
+                                                                                                   1  2   3  4      5     6  7   8      9  10                                           1  2  3    4     5     6  7   8      9  10
+                                                                                                                     Decile                                                                               Decile
+
+                                                                                                            Non-recipient      Recipient                                                         Non-recipient      Recipient
+
+
+
+
+   JFPR applicants: Enrollment at any school, by
+                                                                                                    scholarship status and decile
+                              wo
+                                kntn'odfi                                               1
+
+
+
+                                         p                                               .8
+
+                                          e-droreh                                         .6
+
+                                                  anywtne                                    .4
+                                                         mllornefoytilibaborP                  .2
+
+
+
+                                                                                                 0
+
+                                                                                                   1  2   3  4      5     6  7   8      9  10
+                                                                                                                     Decile
+
+                                                                                                            Non-recipient      Recipient
+
+
+Note: Dashed lines show 95 percent confidence intervals.
+
+
+3The exact list of socioeconomic variables in the DHS is not identical to that on the JFPR application form. We
+derive the index of socioeconomic status in the DHS from variables describing: the ownership of a bicycle, cart,
+boat, motorbike, car, truck, radio, television; the conditions of the dwelling such as hard roofing and finished
+flooring; the availability of electric lighting; the main source of drinking water; the type of toilet facilities; and the
+main type of cooking fuel used.
+
+
+                                                                                                                                                 7
+
+ Figure 2: Proportion of girls who complete grade 7 among those who completed grade 5,
+                              by economic status decile, DHS data
+
+
+                                                                1
+
+                               7e
+                                 adrg                            .8
+                                     detel
+                                          mpocev                   .6
+
+
+                                                ha
+                                                  ohwnoi             .4
+
+
+
+                                                        ort            .2
+                                                           oprP
+
+                                                                         0
+
+                                                                           1  2  3  4  5    6  7  8  9  10
+                                                                                       Decile
+
+                                                                                         DHS
+
+
+Note: Dashed lines show 95 percent confidence intervals.
+
+
+
+
+3.       Empirical strategy
+
+
+         The empirical strategy in this paper is based on comparisons between scholarship recipients (the
+
+"treatment" group) and non-recipients (the "control" group). The analysis begins with OLS regressions
+
+of a dummy variable that takes on the value of one if girl i is enrolled in school at the time of the follow-
+
+up survey (in the enrollment regressions) or attending school (in the attendance regressions), Yit, on a set
+
+of school-level fixed effects, c, a vector of baseline characteristics from the application form, Xit-1, and a
+
+dummy variable that takes on the value of one if a girl was a scholarship recipient, Si:
+
+
+(1)      Yit = c + Xit-1 + Si + it,
+
+The parameter  is a measure of the difference in the probability of enrollment or attendance between
+
+girls who received a scholarship and those who did not. Linear probability models are used to estimate
+
+(1); estimation by probit yielded very similar results.
+
+
+         As an alternative to OLS, we use propensity score matching to estimate program impact
+
+(Rosenbaum and Rubin 1983; Heckman, Ichimura, and Todd 1997). As a first step this involves a
+
+regression of a dummy variable that takes on a value of one if a girl received a scholarship:
+
+
+
+
+                                                                                             8
+
+(2)     Si = c + Xi + i,
+
+This regression is then used to predict the probability that each girl in the sample was awarded a
+
+scholarship, i, also known as the propensity score. The second step involves nearest-neighbor matching
+
+on the basis of the propensity score. Prior to matching, observations for which there is no "common
+
+support" are discarded. These are scholarship recipients who, because of their observable characteristics,
+
+had a probability of being awarded a scholarship that was so high that there are essentially no comparable
+
+girls who did not receive a scholarship, as well as girls who did not receive a scholarship who, because of
+
+their observable characteristics, had a probability of being awarded a scholarship that was so low that
+
+there are essentially no comparable girls who received a scholarship. Once observations have been
+
+matched, the estimated program impact is given by the mean difference in enrollment or attendance
+
+between the matched pairs of recipients and non-recipients. Matching is a nonparametric alternative to
+
+OLS, and is often believed to be less subject to mis-specification biases.
+
+
+        We do not believe that selection on unobservables is an important concern for our analysis.
+
+Students were enrolled in primary school at the time they applied for scholarships, while the selection of
+
+beneficiaries was done by the LMC of a JFPR secondary school. In general, members of the LMC would
+
+not know the girls in question, many of whom would live in different villages or urban areas; LMC
+
+members would therefore have little information (if any) on the academic ability or socioeconomic status
+
+of a given applicant above and beyond the information provided on the application form.
+
+
+        Although selection on unobservables seems unlikely, we use regression discontinuity (RD) to
+
+estimate treatment effects that are arguably robust to unobserved differences between treatment and
+
+control groups. The basic logic of RD exploits a discontinuous jump in the probability of receiving an
+
+intervention for observations above and below an eligibility threshold. If the control function used to
+
+capture the relationship between the covariate that determines eligibility and outcomes is correctly
+
+specified, and if there is no discreet jump in unobservables at the threshold, RD can provide estimates of
+
+local program effects that are as good as those derived from a randomized experiment (see Hahn, Todd,
+
+and van der Klaauw 2001, and Lee 2005). In the literature on schooling outcomes, RD approaches have
+
+recently been used to estimate the impact of class size on test scores in Israel (Angrist and Lavy 1999)
+
+and Bolivia (Urquiola 2006), financial aid on college enrollment in the United States (van der Klaauw
+
+2002), financial incentives for schools on test score outcomes in Chile (Chay, McEwan, and Urquiola
+
+2005), and pension income on enrollment in South Africa (Edmonds 2005).
+
+
+
+
+                                                       9
+
+                                                   The JFPR scholarship program established a cut-off in the maximum number of scholarships
+
+awarded per school at 45. In general, the school LMCs successfully identified girls with lower SES and
+
+awarded them scholarships. Figure 3 shows that the probability of receiving a scholarship for the 40
+
+applicants with the lowest score was very high: 0.87. Conversely, the probability of receiving a
+
+scholarship for girls ranked 50 or higher by their score was very low: 0.13. Between these ranks--that is,
+
+roughly corresponding to the threshold established by the fact that 45 scholarships could be awarded per
+
+school--there is a sharp drop in the probability of receiving a scholarship. The RD estimates of program
+
+impact exploit this discontinuity around the threshold given by the fixed number of scholarships within a
+
+school.
+
+                                                    Figure 3: Probability of receiving a scholarship, within-school ranking of score
+
+
+                                         1
+
+
+      phisral                             .8
+
+             hocs
+                 a
+                  gniviecerfoytili          .6
+
+
+
+                                              .4
+
+
+
+                                  baborP        .2
+
+
+
+                                                  0
+
+                                                    0                   20                  40                   60                   80
+                                                                                    Ranking by score
+
+
+                                        Note: The score is given by aggregating applicant characteristics by principal component analysis, as
+
+described in the text. These scores are ranked within schools.
+
+
+
+                                        Because the relationship between the rank of an application and scholarship receipt is not
+
+deterministic, this is a case of "fuzzy" (rather than "sharp") RD (Hahn, Todd, and van der Klaauw 2001).
+
+In a spirit similar to other applications of fuzzy RD, we estimate the following equation:
+
+
+
+
+                                                                                           10
+
+(3)      Yit = c + f(SESi) + Si + it,
+
+where SES is the value of the first principal component of the composite measure of socioeconomic
+
+status, and the function f(SES) is a flexible parametrization, such as a cubic. Equation (3) is then
+
+estimated by two-stage least squares, with Si instrumented with a dummy variable that takes on the value
+
+of one if a girl is ranked below 45 by the composite measure of SES. We also verify that the results we
+
+report are not sensitive to the exact parametrization used for the function f (SES), or to the choice of
+
+threshold within the 41-49 range for the SES rank within a school.
+
+
+         Finally, the paper presents evidence of heterogeneity in the JFPR program effects. For this
+
+purpose, we construct three dummy variables for girls who are below the median of the principal
+
+components measure of SES, girls for whom neither parent has completed primary school, and girls who
+
+lived more than 4 kilometers from the JFPR secondary school at the time they completed the application.
+
+We then run separate regressions which include one of these dummies Di, the dummy variable for
+
+whether a girl received a scholarship Si, and the interaction term (Di*Si):
+
+
+(4)      Yit = c + Xit-1 + Di + Si1 + (Di*Si)2 +eit,
+
+         Interpretation of the coefficients on these variables is straightforward: For example, in the
+
+specification that tests for heterogeneity of treatment effects by socioeconomic status, the coefficient  is
+
+an estimate of the difference in enrollment (or attendance) between girls of "low" and "high" socio-
+
+economic status; the scholarship effect for high-SES girls is given by the coefficient 1; the corresponding
+
+effect for low-SES girls is given by the sum of the coefficients 1 and 2. If 2 is statistically significant,
+
+there is evidence of heterogeneity of treatment effects.
+
+
+4.       Results
+
+
+A.       Main results of program impact
+
+         The main results of program impact are presented in Table 2. We present estimates of program
+
+effects with three dependent variables: Enrollment at the JFPR school that a girl applied to, school
+
+attendance at this school on the day of the unannounced school visit, and enrollment at any school.
+
+The first three columns correspond to OLS regressions of enrollment or attendance. Column 1 presents
+
+the raw difference between scholarship recipients and non-recipients; this corresponds to the differences
+
+in means in Table 1, and is included for completeness. Column 2 is based on regressions that include all
+
+of the characteristics on the application form; column 3 supplements these controls with school fixed
+
+effects. The fourth column reports program effects based on propensity score matching; the matching
+
+
+                                                      11
+
+equation includes all of the controls and school fixed effects. The last two columns correspond to the
+
+regression-discontinuity estimates of program impact. Both sets of RD results include the cubic in
+
+socioeconomic status and school fixed effects. Column 5 corresponds to a reduced-form model; in this
+
+specification, the dummy variable that takes on the value of one if a girl had a score that placed her
+
+among the 45 girls with the lowest SES in her school enters directly in the regression. Column 6
+
+corresponds to the instrumental variables specification; in this specification, the dummy variable for
+
+scholarship recipients is instrumented with the dummy variable for girls ranked below 45 by the
+
+composite measure of SES.
+
+
+         Table 2 suggests that the JFPR scholarship program had a large, positive effect on school
+
+enrollment and attendance. Controlling for observable differences between scholarship recipients and
+
+non-recipients, scholarships had an impact on enrollment at a JFPR school or attendance on the day of the
+
+school visit of between 29 and 43 percentage points; the estimates based on propensity score matching
+tend to be somewhat larger.4 The regression discontinuity results in the last column suggest a program
+
+impact of 30 percentage points on enrollment, and 43.6 percentage points on attendance, although the
+
+standard errors of these estimates tend to be much larger. If the identifying assumptions hold, these
+
+estimates should be purged of possible biases introduced by any correlation between the measure of
+scholarship receipt Si and the regression error term.5
+
+
+         The final row of the table presents estimates of the impact of the JFPR program on enrollment in
+
+any school, regardless whether this is a JFPR school or not. These estimates of program impact drop
+
+observations from the sample whose enrollment status is unknown; below, we return to calculations that
+
+bound the effects of selective attrition. The estimated program effects on enrollment at any school are
+
+generally smaller than those for enrollment at a JFPR school. The smaller program effects when the
+
+dependent variable is enrollment at any school, not just a JFPR school, is not entirely unexpected: JFPR
+
+
+
+4These estimates are not sensitive to how, exactly, we match scholarship recipients and non-recipients. For
+example, we experimented with various ways of trimming observations from the samples of recipients and non-
+recipients to ensure common support, as well as with specifications that did not include the school fixed effects;
+neither of these alternative specifications for the matching equation had an appreciable effect on our estimates of
+program impact.
+5To test the robustness of our results, we also experimented with other parametrizations, including formulations that
+included a quadratic and a log term, or a quartic in SES; the estimated program effects are always positive, and are
+reasonably close to those reported in Table 2. The estimated program effect on enrollment in a JFPR school in the
+specification with a quadratic and a log term in SES is 0.255, with a standard error of 0.121 that in the specification
+with a quartic in SES is 0.291, with a standard error of 0.249. Similarly, the results are not sensitive to the choice of
+threshold between 41 and 49. For example, the estimated program effect on enrollment in a JFPR school in the
+cubic specification with a threshold at 42 is 0.340 (with a standard error of 0.155); when the threshold is 48, the
+estimated program effect is 0.361 (with a standard error of 0.255).
+
+
+                                                           12
+
+scholarships were not portable--students who were awarded scholarships could only receive them if they
+
+enrolled in the school they applied to. Girls who were selected for JFPR scholarships would therefore be
+
+very likely to enroll in a JFPR school if they were to enroll anywhere; similar incentives did not exist for
+
+girls who were turned down for scholarships. Nevertheless, the results in Table 2 suggest substantial and
+
+significant program effects of the scholarship program on enrollment at any school, not just at JFPR
+
+schools.
+
+
+                                    Table 2: Basic Results on Program Impact
+
+                                               (1)          (2)           (3)          (4)           (5)          (6)
+                                             Raw           OLS          OLS +      Matching         RD            RD
+                                          difference                   school f.e.               (reduced      (instrume
+                                                                                                   form)          ntal
+                                                                                                              variables)
+ Enrolled at JFPR school                   0.222***      0.292***      0.303***    0.413***       0.065*        0.302*
+                                            (0.018)       (0.021)       (0.022)     (0.056)       (0.036)      (0.166)
+ Attending JFPR school on day of           0.223***      0.299***      0.313***    0.426***      0.094**       0.436**
+ visit                                      (0.018)       (0.022)       (0.023)     (0.056)       (0.040)      (0.188)
+ Enrolled at any school                    0.130***      0.178***      0.216***    0.333***        0.043         0.184
+                                            (0.017)       (0.021)       (0.022)     (0.058)       (0.033)      (0.141)
+ Note: Parameter estimates and standard errors corrected for heteroskedasticity (in parentheses). *** Significant at
+ the 1 percent level; ** at the 5 percent level; * at the 10 percent level. Column 1 includes no controls; column (2)
+ includes the full set of controls in table 1; column (3) includes these controls and school fixed effects; nearest-
+ neighbor matching in column (4) is done on the basis of the full set of controls and school fixed effects; the
+ regression discontinuity specifications in columns (5) and (6) include a cubic in socioeconomic status, and school
+ fixed effects. The sample size for the first and second rows is 3623, except for the matching estimates, which
+ drop observations for which there is no common support; the sample size for these matching estimates is 2601.
+ The third row drops girls whose enrollment status could not be established; the sample size is for the regressions
+ is 3472, that for the matching estimates is 2545.
+
+
+B.       Bounding the effects of selective attrition
+
+         We next turn to a discussion of how selective attrition could bias our estimates of program effects
+
+on the measure of enrollment at any school. It is difficult to correct for selective attrition in the absence
+
+of a credible instrument--a variable that predicts the probability of attrition, but is not correlated with the
+
+error term in the enrollment regressions (Fitzgerald, Gottschalk and Moffitt 1998). Since no such variable
+
+was apparent in our data, we calculated program effects under alternative assumptions about the
+
+enrollment behavior of girls whose enrollment status could not be established. Note that the enrollment
+
+rate among scholarship recipients is given by the following identity:
+
+
+(5)      Et = otEot + atEat
+
+where Et is the proportion of girls who are enrolled in any school. The subscript t corresponds to
+
+"treated" girls, and the subscripts o and a correspond to girls who are observed (not attrited) and not
+
+observed (attrited), respectively; ot is the proportion of scholarship recipients who have not attrited; Eot is
+
+
+
+                                                            13
+
+the enrollment rate in this group. at is the proportion of scholarship recipients who have attrited; Eat is
+
+the enrollment rate in this group. ot, Eot, and at, but not Eat, can be calculated from the data; Et can then
+
+be estimated under alternative values for Eat. Similarly, for girls who were not awarded scholarships:
+
+
+(5')     Ec = ocEoc + acEac
+
+where the subscript c corresponds to girls in the "control" group. Here too oc, Eoc, and ac, and
+
+assumptions have to be made regarding Eac. Following Smith and Welch (1989), we present values for
+(Et-Ec) for values for Eat and Eac ranging from 0 to 1.6 This corresponds to estimates of program impact
+
+on enrollment under alternative assumptions for the enrollment status of girls who had attrited out of the
+
+sample.
+
+
+         The results from these calculations are presented in Table 3. Consider first a scenario in which
+
+none of the missing girls are enrolled; under this assumption, total enrollment among recipients is 0.675,
+
+total enrollment among non-recipients is 0.879, and the estimated JFPR program effect on enrollment is
+
+20.4 percentage points. The corresponding scenario in which all of the missing girls are assumed to be
+
+enrolled suggests program effects of 10.4 percentage points. Following Manski (1989), it is also possible
+
+to calculate upper and lower bounds on the treatment effects. The upper bound corresponds to a scenario
+
+in which all the missing girls who are scholarship recipients are enrolled, while all missing girls who did
+
+not receive scholarships are unenrolled (program effect: 0.897-0.675 = 22.2 percentage points); the lower
+
+bound corresponds to a scenario in which all the missing scholarship recipients are unenrolled, while all
+
+missing girls who did not receive scholarships are enrolled (program effect: 0.879-0.793 = 8.6 percentage
+
+points). The bounds do not include zero, which suggests that selective attrition on its own cannot account
+
+for the fact that the estimated program effects on enrollment are positive.
+
+
+
+
+6Smith and Welch parametrize this as the enrollment ratio between attritors and non-attritors. We report this ratio
+in columns 2 and 5 of Table 3.
+
+
+                                                       14
+
+         Table 3: Bounding the Effects of Selective Attrition on Estimates of Program Impact
+
+                  Non-recipients                                                Recipients
+      Enrollment among non-attritors: 0.765                       Enrollment among non-attritors: 0.895
+           Proportion who attrited: 0.118                              Proportion who attrited: 0.018
+                      Ratio of                                                    Ratio of
+                    enrollment:                                                enrollment:
+ Enrollment:      (attritors / non-     Overall             Enrollment:       (attritors / non-      Overall
+   attritors         attritors)        enrollment             attritors          attritors)        enrollment
+     0.0               0.000             0.675                  0.0                0.000             0.879
+     0.1               0.131             0.687                  0.1                0.112             0.881
+     0.2               0.261             0.698                  0.2                0.223             0.882
+     0.3               0.392             0.710                  0.3                0.335             0.884
+     0.4               0.523             0.722                  0.4                0.447             0.886
+     0.5               0.654             0.734                  0.5                0.559             0.888
+     0.6               0.784             0.745                  0.6                0.670             0.890
+     0.7               0.915             0.757                  0.7                0.782             0.892
+     0.8               1.046             0.769                  0.8                0.894             0.893
+     0.9               1.177             0.781                  0.9                1.006             0.895
+     1.0               1.307             0.793                  1.0                1.117             0.897
+
+    0.123              0.161             0.689                0.101                0.113             0.881
+
+
+
+
+         Is it possible to make a plausible guess about where the program effects fall within these bounds?
+
+Recall that, by definition, attritors are not enrolled in a JFPR school. Arguably, the probability of
+
+enrollment for attritors who did not receive a scholarship could be approximated by the enrollment
+
+probability of other girls who were turned down for scholarships and did not enroll in a JFPR school, but
+
+whose enrollment status could be established on the basis of the answers provided during the school
+
+visits; this probability is 0.123. Similarly, the probability of enrollment for attritors who received a
+
+scholarship could be approximated by the probability of enrollment of other girls who received
+
+scholarships and did not enroll in a JFPR school, but whose enrollment status could be established; this
+
+probability is 0.101. Calculating the difference in total enrollment rates (Et-Ec) under these values for
+
+enrollment of attrited recipient and non-recipient girls, the estimated JFPR program effect is 0.191. Note,
+
+finally, that these calculations of bounds do not adjust for observable or unobservable differences between
+
+girls who received JFPR scholarships and other girls--they correspond to the raw difference in
+
+enrollment in Table 2. Given that scholarship recipients had lower socioeconomic status, on average,
+
+than non-recipients, the results presented in Table 3 are therefore likely to be downward-biased estimates
+
+of the true JFPR program effects under different assumptions about the enrollment behavior of attrited
+
+girls.
+
+
+
+
+                                                        15
+
+C.       Heterogeneity of treatment effects
+
+         We next turn to estimates of heterogeneity of program effects by the aggregate measure of
+
+socioeconomic status, by parental education, and by distance to school. These results are presented in
+
+Table 4. They correspond to OLS specifications that include all of the controls from the application form
+
+and the school fixed effects (Table 2, column 3).
+
+
+         The first panel in the table shows that the impact of the program is larger among girls from poorer
+
+households; for example, the first row in this panel suggests that the JFPR program increased enrollment
+
+at JFPR schools by 24.3 percentage points for girls with above-median SES, and by 43.9 percentage
+
+points for girls with below-median SES. The second panel of the table suggests that there is also
+
+heterogeneity of treatment effects by the level of parental education; the first row in this panel suggests
+
+enrollment effects of 24.2 percentage points for girls who have at least one parent who had completed at
+
+least primary school, compared to enrollment effects of 32.3 percentage points for girls where neither
+
+parent had completed primary school. The last panel suggests that enrollment effects are larger among
+
+girls who live at least four kilometers from the JFPR secondary school they applied to; the first row in this
+
+panel suggests enrollment effects of 25.4 percentage points for girls who live less than four kilometers
+
+from the school, and 37.2 percentage points for girls who live further away. Note that LMC members of
+
+the JFPR secondary school should be less likely to know girls who live far away, which minimizes the
+
+potential for selection on unobservables for this group. The fact that there are significant program effects
+
+among girls who live far from the school they applied to provide further reassurance that the estimated
+
+program effects are not driven by selection on unobservables.
+
+
+         The coefficients on the dummy variables for low SES, low levels of parental education, and girls
+
+living in more remote areas all suggest that, in the absence of the scholarship program, girls in these
+
+households were less likely to be enrolled in and attending school, as one would expect. However, the
+
+difference in enrollment and attendance by SES, parental education and distance to school is dampened or
+
+disappears entirely among girls who receive the JFPR scholarships. For example, the first column
+
+suggests that, in the absence of the scholarship, there is a difference of 24.3 percentage points in
+
+enrollment between girls with high and low SES; however, among girls who receive the scholarship, there
+
+is no difference in enrollment between girls with high and low SES. Put differently, because program
+
+effects are larger among girls with lower SES, the scholarship program eliminated the gradient between
+
+SES and school enrollment. The regression results in Table 4 therefore confirm the patterns observed in
+
+Figure 2. The scholarship program also reduced the gradient by parental education, although the
+
+
+
+
+                                                      16
+
+compensatory effect of the program is not large enough to bring girls with low levels of parental
+
+education to the same enrollment and attendance levels as those with higher levels of parental education.
+
+
+                                 Table 4: Heterogeneity of Treatment Effects
+
+                                           (1)                             (2)                              (3)
+                                 Enrollment at a JFPR         Attendance on the day of        Enrollment at any school
+                                         school                     the school visit
+By socioeconomic status
+Dummy variable Di=1                    -0.195***                        -0.187***                         -0.094*
+                                         (0.050)                         (0.050)                          (0.054)
+Dummy variable Si=1                     0.243***                        0.264 ***                        0.191***
+                                         (0.025)                         (0.027)                          (0.024)
+Interaction term (Di*Si)                0.196***                        0.164***                          0.096*
+                                         (0.048)                         (0.048)                          (0.053)
+By parental education
+Dummy variable Di=1                    -0.126***                        -0.072**                         -0.107***
+                                         (0.032)                         (0.034)                          (0.030)
+Dummy variable Si=1                     0.242***                        0.297***                         0.166***
+                                         (0.033)                         (0.038)                          (0.030)
+Interaction term (Di*Si)                0.081**                           0.021                           0.068**
+                                         (0.037)                         (0.042)                          (0.034)
+By distance to school
+Dummy variable Di=1                    -0.112***                        -0.125***                         -0.044
+                                         (0.038)                         (0.039)                          (0.038)
+Dummy variable Si=1                     0.254***                        0.265***                         0.187***
+                                         (0.024)                         (0.026)                          (0.024)
+Interaction term (Di*Si)                0.118***                        0.123***                           0.059
+                                         (0.040)                         (0.042)                          (0.040)
+Note: Parameter estimates and standard errors (in parentheses). Standard errors correct for heteroskedasticity and
+clustering at the school level. *** Significant at the 1 percent level; ** at the 5 percent level; * at the 10 percent
+level. All regressions based on OLS regressions with full set of controls and canton fixed effects.
+
+
+
+
+5.       Conclusion
+
+
+         Raising the schooling levels of girls is often regarded as an important priority for developing
+
+countries (World Bank 2001, Schultz 2002). In many developing countries the Mincerian rate of return to
+
+schooling for women is at least as large as that for men (for examples, see Deolalikar 1993 for Indonesia;
+
+Schultz 1993 for Thailand, Cote d'Ivoire and Ghana). There is also a large literature documenting
+
+associations between female education and a variety of social outcomes, including lower fertility,
+
+decreases in child mortality, improvements in child health and nutrition, and better education and child
+
+cognitive development (see reviews in Strauss and Thomas 1995; World Bank 2001).
+
+
+
+
+                                                           17
+
+         In this paper we estimate the impact of a scholarship program for girls on school enrollment and
+
+attendance in Cambodia. OLS estimates of program impact indicate that the program increased
+
+enrollment and attendance at eligible schools by approximately 30 percentage points, and enrollment at
+
+any school by about 22 percentage points; estimates of program effects based on propensity score
+
+matching are larger. The program effects we estimate are robust to a variety of concerns: Regression-
+
+discontinuity specifications suggest that our estimates are not driven by unobservable differences between
+
+scholarship recipients and non-recipients, and an application of bounds shows that selective attrition
+
+cannot account for the pattern of program effects we observe. Moreover, we find that program impacts
+
+are largest among girls who come from poorer households, have parents with less education, and live
+
+farther away from a secondary school. As a result, the JFPR program appears to have dramatically
+
+reduced socioeconomic gradients in enrollment and attendance.
+
+
+         Much of the existing evidence on the impact of demand-side incentives on schooling outcomes is
+
+based on evaluations in middle-income countries (for example Schultz 2004 and Behrman, Sengupta, and
+
+Todd 2005 on PROGRESA Mexico; Angrist et al. 2002 on a voucher program in Colombia; an exception
+
+is Ravallion and Wodon 2000 on the Food-for-Education program Bangladesh, a low income country).
+
+Our results suggest that even in one of the world's lowest income countries, with weak public sector
+
+institutions and relatively low quality schooling, demand-side incentives can effectively increase the
+
+school enrollment and attendance of girls. Indeed, the program effects we estimate are large compared
+
+with those found in wealthier countries: As a point of comparison, Schultz (2004) estimates that
+PROGRESA transfers increase the transition from 6th grade, the last grade in primary school, to 7th grade,
+
+the first year of secondary school, by 11.1 percentage points. Because enrollment rates in low-income
+
+countries like Cambodia tend to be much lower than those in middle-income countries like Mexico, the
+
+scope for improvements, and for potential program impact, may be larger in the poorest countries.
+
+
+         Our estimates of program impact leave some important questions unanswered. Chief among
+
+them is the effect of the scholarship on other schooling outcomes, including repetition rates, and measures
+
+of performance like test scores. Moreover, in the absence of empirical evidence on the effectiveness of
+
+other interventions to improve schooling outcomes in Cambodia, we cannot draw up convincing cost-
+
+effectiveness comparisons, or estimate whether the scholarship amount set by the JFPR program was "too
+
+large" or "too small" to induce a given change in girl enrollment. Nevertheless, given the paucity of
+
+evidence from low income countries, these estimates of large program impacts may be cause for
+
+optimism.
+
+
+
+
+                                                     18
+
+         Appendix: Comparing Applicants With Full Application Forms to Those With Only
+                                        Partially Completed Forms
+
+                                                      All applicants    Full application form
+Outcomes
+Enrolled in JFPR school                                    0.81                 0.82
+Attending on the day of school visit                       0.74                 0.75
+Enrolled in any school                                     0.87                 0.87
+Characteristics of applicants
+Parents own business                                       0.02                 0.02
+Either parent is a government employee                     0.05                 0.04
+Parent lends money regularly                               0.02                 0.01
+Parent completed primary school                            0.17                 0.17
+Parent completed secondary school                          0.02                 0.02
+Main part of house made of cement or brick                 0.03                 0.02
+Roof made of tiles, metal or fibre                         0.27                 0.24
+Land ownership by hh > 1 hectare                           0.14                 0.13
+Own a large asset (>1M riels)                              0.06                 0.05
+Own a truck                                                0.01                 0.00
+Own a car                                                  0.00                 0.00
+Live with both parents                                     0.73                 0.73
+Live with one parent                                       0.21                 0.22
+Live in a hut                                              0.44                 0.47
+Earthen floor                                              0.31                 0.34
+Family has motorbike or remorque                           0.11                  0.1
+Family has bicycle                                         0.55                 0.54
+Family has ox and cart                                     0.28                 0.26
+Family has pony and trap                                   0.03                 0.03
+Family has no means of transportation                      0.39                 0.43
+Family has debts > 100,000 riels                          0.7.0                 0.73
+Mean number of brothers                                    2.28                 2.28
+Mean number of sisters                                     2.79                 2.81
+Applicant disabled                                         0.04                 0.03
+Other hh member disabled                                   0.15                 0.14
+Applicant or other hh member has disease                   0.28                 0.29
+Distance to secondary school (km.)                         4.01                 4.04
+
+Number of observations                                    5134                 3623
+
+
+
+
+                                                    19
+
+                                                 References
+
+
+Angrist, Joshua D. 1997. "Conditional Independence in Sample Selection Models." Economics Letters.
+54(2): 103-112.
+
+Angrist, Joshua D., Eric Bettinger, Erik Bloom, Elizabeth King, and Michael Kremer. 2002. "Vouchers
+for private schooling in Colombia: Evidence from a randomized natural experiment." American Economic
+Review. 92(5): 1535-1158.
+
+Angrist, Joshua D., and Victor Lavy. 1999. "Using Maimonides' Rule to Estimate the Effect of Class Size
+on Scholastic Achievement." Quarterly Journal of Economics 114(2): 533-75.
+
+Behrman, Jere R., Piyali Sengupta, and Petra Todd. 2001. "Progressing through Progresa : An Impact
+Assessment of a School Subsidy Experiment", unpublished manuscript, University of Pennsylvania.
+
+Bourguignon, Francois, Francisco H. Ferreira and Phillippe G. Leite. 2003. "Conditional Cash Transfers,
+Schooling, and Child Labor: Micro-Simulating Brazil's Bolsa Escola Program." World Bank Economic
+Review. 17(2): 229-254.
+
+Case, Anne. 2004. "The Primacy of Education." Mimeo. Research Program in Development Studies,
+Princeton University. New Jersey.
+
+Chay, Ken, Patrick McEwan, and Miguel Urquiola. 2005. "The Central Role of Noise in Evaluating
+Interventions That Use Test Scores to Rank Schools." American Economic Review. 95(4): 1237-1258.
+
+Das, Jishnu, Quy-Toan Do, and Berk Özler. 2005. "Reassessing Conditional Cash Transfer Programs."
+World Bank Research Observer 20(1): 57-80.
+
+Deolalikar, Anil. 1993. "Gender Differences in the Returns to Schooling and School Enrollment Rates in
+Indonesia." Journal of Human Resources. 28(4): 899-932.
+
+De Walque, Damien. 2004. "The Long-Term Legacy of the Khmer Rouge Period in Cambodia." World
+Bank Policy Research Working Paper 3446.
+
+Edmonds, Eric V. 2005. "Child Labor and Schooling Responses to Anticipated Income in South Africa."
+Forthcoming in Journal of Development Economics. NBER Working Paper #10265.
+http://papers.nber.org/papers/w10265.pdf.
+
+Filmer, Deon, and Lant Pritchett. 2001. "Estimating Wealth Effects without Expenditure Data--or Tears:
+An Application to Enrollments in States of India." Demography 38(1): 115-32.
+
+Filmer, Deon. 2005. "Educational Attainment and Enrollment Profiles: A Resource Book based on an
+Analysis of Demographic and Health Survey Data." Development Research Group. The World Bank.
+http://www.worldbank.org/research/projects/edattain.htm.
+
+Fitzgerald, John, Peter Gottschalk, and Robert Moffitt. 1998. "An Analysis of Sample Attrition in Panel
+Data: The Michigan Panel Study of Income Dynamics." The Journal of Human Resources 33(2): 251-299
+
+Glewwe, Paul. 2002. "Schools and Skills in Developing Countries: Education Policies and
+Socioeconomic Outcomes." Journal of Economic Literature 40(2): 436-82.
+
+
+
+                                                   20
+
+Hahn, Jinyong, Petra E. Todd, and Wilbert Van der Klaauw. 2001. "Identification and Estimation of
+Treatment Effects with a Regression-Discontinuity Design." Econometrica. 69(1): 201-209.
+
+Heckman, James J., Hidehiko Ichimura, and Petra E. Todd. 1997. "Matching as an Econometric
+Evaluation Estimator: Evidence from Evaluating a Job Training Programme." The Review of Economic
+Studies. 64(4): 605-654.
+
+Lee, David S. 2005. "Randomized Experiments from Non-random Selection
+in U.S. House Elections." Forthcoming in Journal of Econometrics.
+http://elsa.berkeley.edu/~dslee/wp/randomizerdfinal2.pdf.
+
+Manski, Charles. F. 1989. "Anatomy of the Selection Problem." Journal of Human Resources. 24(3):343-
+360.
+
+Rawlings, Laura B., and Gloria M. Rubio. 2005. "Evaluating the Impact of Conditional Cash Transfer
+Programs." World Bank Research Observer 20(1): 29-55.
+
+Ravallion, Martin, and Quentin Wodon. 2000. "Does Child Labor Displace Schooling? Evidence on
+Behavioral Responses to an Enrollment Subsidy." Economic Journal. 110(462): 158-175.
+
+Rosenbaum, Paul R., and Donald B. Rubin. 1983. "The Central Role of the Propensity Score in
+Observational Studies for Causal Effects." Biometrika 70: 41-55.
+
+Schultz, T. Paul. 1993. "Investments in the Schooling and Health of Women and Men: Quantities and
+Returns." Journal of Human Resources. 28(4): 694-734.
+
+Schultz, T. Paul. 2002. "Why Governments Should Invest More to Educate Girls." World Development
+30(2): 207-25.
+
+Schultz, T. Paul. 2004. "School Subsidies for the Poor: Evaluating the Mexican Progresa Poverty
+Program." Journal of Development Economics 74(1) (Special Issue June 2004): 199-250.
+
+Strauss, John, and Duncan Thomas. 1995. "Human resources: Empirical modeling of household and
+family decisions," in Handbook of Development Economics Edition 1, Volume 3, Number 3, Behrman,
+Jere and Srinivasan, T.N. (eds): Elsevier.
+
+Smith, James P. and Finis R. Welch. 1989. "Black Economic Progress After Myrdal." Journal of
+Economic Literature 27(2): 519-64.
+
+Urquiola, Miguel. 2006. "Identifying Class Size Effects in Developing Countries: Evidence from Rural
+Bolivia." Review of Economics and Statistics 88(1): 171-77.
+
+Van der Klaauw, Wilbert. 2002. "Estimating the Effect of Financial Aid Offers on College Enrollment: A
+Regression­Discontinuity Approach." International Economic Review. 43(4): 1249-1287.
+
+World Bank. 2001. Engendering Development Through Gender Equality in Rights, Resources, and
+Voice. New York: Oxford University Press for The World Bank.
+
+World Bank. 2005. World Development Indicators. World Bank, Washington, DC.
+
+
+
+                                                   21
+
+                                          Sector Reports
+                              Human Development Sector Unit
+                                East Asia and Pacific Region
+                                         The World Bank
+
+
+
+Philippines Education Policy Reform in Action: A Review of Progress Since PESS and PCER, May 2004
+(Report No. 28063-PH)
+
+Vietnam Reading and Mathematics Assessment Study (Volume 1): How Measuring Achievement
+Distribution Informs Education Policy Development, August 2004.
+
+Vietnam Reading and Mathematics Assessment Study (Volume 2): Study Results, August 2004.
+
+Vietnam Reading and Mathematics Assessment Study (Volume 3): Study Methodology, August 2004.
+
+Timor-Leste Education Since Independence From Reconstruction to Sustainable Improvement, December
+2004
+
+Decentralization in Indonesia's Health Sector: The Central Government's Role, October 2004
+
+Education in Indonesia: Managing the Transition to Decentralization, August 2004
+
+Philippines Out of School Children and Youth in the Philippines: Issues and Opportunities, September
+2003. (Report No. 23132-PH)
+
+Cambodia Quality Basic Education For All, January 2005. (Report No. 32619-KH)
+
+Cambodia Public Expenditure Tracking Survey (PETS) in Primary Education (Report No. 34911-KH)
+
+
+
+
+                                                  22
+

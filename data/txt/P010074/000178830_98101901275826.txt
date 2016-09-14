@@ -1,0 +1,2216 @@
+-C/7 - -N - F                                            FFLUE COPY
+DOCUMENT OF INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+INTERNATIONAL DEVELOPMENT ASSOCIAT'ION
+Not For Public Use
+Report No. 72a-NEP
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+April 4, 1973
+Asia Region
+This report was prep4red for official use only F- the Bank Group. It may not be published, quoted
+or cite? without Bank Group aut'tornzation. The Bank Group does not accept sesponsibility for the
+accuracy or completeness of ibe report.
+
+
+
+
+
+
+CVRRENCY EQUIVALENTS
+Currency Unit - Nepalese Rupee (NR)
+US$1.00        - NRs 10.56
+NR 1           - US$.095
+NRs 1,000,000 - US$94,697
+MEASURES EQUIVALENT
+1 Kilometer (kin) - 0.621 statute mile
+FISCAL YEAR
+July 16 - July 15! -
+TITLES AND ACRONYMS
+CB   -  Central Battery (Exchange)
+CTB  -  Commonwealth Telecommunications Board
+HF   -  High Frequency Radio (3-30 MHz)
+ISB  -  Independent Side Bank (HF Radio System)
+JT'!  -  International Telecommunications Union
+M-Hz  -  Magahertz
+NTB  -  Nepal Telecommunications Board
+NTC  -  Nepal Telecommunications Corporation
+ODA  -  Overseas Development Administration (UF;)
+PBX  -  Private Branch Exchange
+SSB  -  Single Side Band (HF Radio System)
+STD  -  Subscriber Trunk Dialing (Direct Distance Dialing)
+Telex-  Teleprir,ter Exchange Switching System
+UIF  -  Ultra High Frequency Radio (300-3,000 MHz)
+VFT  -  Voice Frequency Telegraph
+VHF  -  Very High Frequency Radio (30-300 MHz)
+1/   Approximately - based on lunar calendar.
+
+
+
+GLOSSARY OF TECHNICAL TERMS
+Carrier Telephony          -  System of providing a number of telephone
+(Multiplexing)              circuits over one radio link, coaxial cable
+or pair of wires.
+Central Battery Exchange -  A manual exchange using a centraL battery fot
+signaling and energizing the telephone trans-
+mitter.
+Concentrator               -  A unit permitting connection of a number of
+subscribers over one or more circuits to an
+exchange or intemnational route.
+Crossbar                   -  An automatic telephone exchange switching
+system utilizing a connecting matrix of the
+crossbar type with common-control registers.
+Drop Wire                  -  A single-pair cable for connecting subscribers'
+premises to the nearest cable distribution point.
+Erlang                     -  Unit of traffic measurement equivalent to 3,600
+call secords.
+Fill                       -  Percentage of installed capacity of a cable (or
+telephone exch nge) actually in service.
+Independent Sideband       -  A system transmitting both sidebands without
+Radio System                the carri.-r and with an independent channel or
+channels on each -4iweband.
+Lincompex                  -  A linked compression expansion system used tc
+Improve the transmission and signal noise ratio
+oni HF radio systems.
+Magneto Exchange           -  One using AC current to both call the stbscriber
+and the exchange.
+Microwave                  -  Covers all radio systems working at frequencies
+above 1,000 MHz.
+Multiplexing               -  See "Carrier Telephony" above.
+Single Sideband            -  A system transmitting one sideband and suppress-
+Radio System                ing the carrier and other sideband during the
+process of modulation, thus economizing in power
+and bandwidth.
+Trailer Exchange           -  An exclhange alreadv installed lo a container or
+trailer which can be transported to any desired
+location and brougiht into service without the
+need to erect a building and install the equipment.
+
+
+
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Table of Contents
+SUMMARY AND CONCLUSIONS  ...............................   i-it
+I.     INTRODUCTION  ..........................................                            1
+II.     THE  ECONOMY AND THE SECTOR  ......                                                  2
+The  Country  ................                                               2
+The  Yconomy  ......................................                         2
+The Telecommunications  Sector  ....................                         2
+Existing Telecommunications  Facilities  ....                    .......     3
+Ongoing Works  ....................................                          4
+III.      THE PROGRAM AND THE PROJECT  ............................                           6
+The Program ......................................                           6
+The Project  ......................................                          6
+Cost of  the Project  ..............................                         6
+Contingencies  ....................................                          7
+Items  for IDA Financing  ..........................                         8
+Procurement  ...........8I ..........................                        a
+Disbursements  ....................................                          9
+Execution  ........................................                          9
+IV.    JUSTIFICATION OF THE PROJECT  ..........................    10
+Demand  for Telecommunications  Service  ....                   ........    10
+Least  Cost  Solution  ..............................                       12
+Return  on Investment ........ ....................    12
+V.    TRH. BENEFICIARY  ......................................                            13
+Organization  and Management  .......                 ...............       13
+Staff and Training ................................  13
+Staff  Levels  .....................................                        14
+Accounting  ......................................                          14
+Audits .......................................  15
+Tariffs .......................................  15
+This  report  is  based on  information  proviied  by  the NTB  and on  the  findings
+of a mission composed of Messrs. C.R. Dickenson and B. Holmgren which
+visited Nepal in September/October 1972.
+
+
+
+-2-
+Page No.
+VI.   FINAINCES   ...........................    , .,              16
+Past Finances .16
+Financing Plan ..............                          17
+Future Finances .19
+Fiscal Impact ..............                           20
+VII. RECONMENDATIONS .21
+ANNEX=S
+1.   Summary of the Law Estai'lishing NTB
+2.   International Statistical Data
+3.   Basic D.ata
+4.   Existiog Facilities and Ongoing Works
+5.   Annual Progratn Expenditures
+6.   Project Works
+7.   Estimated Schedule of Disbursements
+8.   Forecast of Demand for Subscriber Connections
+9.   Forecast of Telephone Exchange Capacity, Subscriber
+Connec ions and Extension Telephones
+10.   Performance Indicators
+11.   Telephone Trunk Revenue and Circuit Forecast
+12.   Rate of Return
+13.   Proposed Terms of Reference for Consultants
+14.   Principal Tariffs
+i5.   Income Statements
+16.   Balance Sheets
+17.   Funds Flow Statements
+iS.   Notes aud Assumptions on Financial Statements
+la.   Fiscal Impact of NTB's Operations
+Des,,and and Supply of Subscriber Connections - 7157
+Orgalizatior. - 7176
+Tele.,rair  Network - IBRD 1'1245
+Telenhone Network - IPRD 10246
+
+
+
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELEC OMRTNICATIONS PROJECT
+SUMMARY AND CONCLUSIONS
+I.        The project appraised in t;i.S report consists of the Nepalese
+rovernment's second telecormunications c.evelo ajent plan wh4 chl Is sched,tl. d
+to be carried out from July 1974 to Julv 1979. rhe estintat.ei cost of the
+project is NRs 83.2 (US$7.9) millioni wili' a foreicn exchange component of
+US$5.5 million equiva ent which would be financed by che proposed credit.
+ii.       The proposed credit would be tlie secoud for telecomzmunic.lAoits
+/ tievelopmenit in Nepal.  The first proie(t ftniaince.1 uder Cr'dLLt 1ib--fE:P
+was initial!v delayed but is ncw procoedlin; satisfactorilv with completion
+(lexpected in December 1974, about 18 months behind schedule.
+iii.      Nepal has one (if the lowest telephone densities in the world.
+There is at present virttally no long distance telephone service although
+limited facilities for message transinissit-.A by radio have been provi,ed to
+the 78 districts.  Improved facilities linc 'ding a long dirta! ce telephone
+network to eastern Nepal are being provide, .ader the first, 1;oje-t.  ihe
+project now proposed for IDA financing will further suDplement tl!se facilities
+and includes local exchange and network capacity for 10,600 subscribers
+connections, extension dnd improvement of rhe long distance tclephour
+facilities to eastern NeDal, provision of long distancc relephone faci.ities
+to western Nepal, and additional facilities for telex subscribers.
+iv.       h.'. 'orrower wouid be the Covernment of Nepal who woul.d loan cite
+funds to the beneficiary, the Nepal Telecommunications Bonri (NTB), whc
+would be responsible for the executiotn of the project.
+v.        All procurement unaer t'he project would he by internatiooal com-
+petitive bidding with the exception of the purch1ase of minor items not
+exceeding US$50,000 in total value? and the provision of microwave stanabh
+equipment and telephonie exchange extensions costing about US$0.5 million
+where NTB proposes for reasons of compatibility and econory to place orders
+with the original suppliers.
+rai ovi.   The selection of areas for service has been based on the concen-
+tracton of population, agriculture production, industry, administration,
+land tourism.  The sizes of the exchanges and the number of long distance
+yr tv    circuits have In the absence of historizal records been related to demo-
+p 2V   graphic considerations and dernand in similar areas of other developing
+r <     cnuntries.  The rate of return on the project is estimiated at about 2O/.
+vii.      Nepal's telecommutnications development is in its very early
+stages. The limited facilities provided for message transmission to tiie
+
+
+
+districts are operat'g at a considerable loss.  The long distance network
+to be installed unde; the first project which will contribute substantially
+to overall telephone revenues has rot yet been completed and revenues from
+the second project will only make an appreciable impact towards the end of
+the construction period: also, economies in scale will only become effective
+during the later stages of project construction. For these reasons the
+return on NTII's net fixed assets is only expected to reach a satisfactory
+flevel by FY MO30 but should subsequently show a continuing improvement.
+tAs a result of the program, the gross value of NTB's plant in operation will
+more than quadruple.
+viii.     The project is sultable for an IDA credit of US$5.5 million to be
+relent to the beneficiary for a term of 20 years, including a five-year grace
+period at ali interest rate of 7-1/42.
+
+
+
+NF PAL
+NEPAL TFLECOMkIUNICATIONS BO ' RD (NTB)
+APPP4AISAL OF A SECOND TEl_.OMMUBlCATTO::s PR&.T
+I.  INTRODUCTION
+1.01       The Nenalese Covernment, In Senter'ber 1972, re.quested IDA
+fivlancing for its second tewecr,un1c.-i:ns deve1v?ne;  pian which is ;'hed-
+uled to be carried out from  July 1074 te  Ic lv i979.  The ptojoct, wh1c1:
+tnis second Dlan, will  xte_nd telenhone cn'munications intol thfe 'jesterl. ,art.
+of Nenal and provide additionat capnc Iv co rientt growth ir tkose are.is in
+central Nena'. and the easterp Terni where f.icilirles airea.dy exist or -irv
+being provided under the first develepment pian (first project).
+1.02       The estimated cost of the proloct is 'i'rs 634  Ii             ; i I    .
+The foreign erchange com nonent of  SIPs 3H,.Z i!1'S. S  milirn wouid hd
+bv the pronosed credit of USS5.5 raillion eauiva.lent.  'I'he  Oeneficinrv 'v-ctI1d
+be the Nenal Teleconmmuinicatlons Board (NTR).  NTiS wonld !'e responsible for
+project executioIl.
+1.3       The Droposeri credit wouldI ,t TID(   'econd for      2, ,rj:imnicr1at c-!.
+develotlrent in Nepal.  The previous credtit '       -NE, --or l; .. -  million,
+anproved in November 1969, provided part. ot thc foretin exc1cLitze crnoonen;
+for the first project which was orifiral '  .lesilned to le undertaken dur;n-
+the peri'd July 1968 to Juzlv 1973.  tftrI''.tial] delavs in mak1;:g tile r-edi-
+effective due to delay in signing an aiTeevent  witl India for sore or the aid
+j  f provisions for the Project, and delavs in takinm  procurerent action, the first
+proiect is now proceedine satisfactorilv.  Fina~l completion is now exDecter
+rnecember 1974, some l" months behind schel-ul e.  The delay in coripietionI
+of tne first projecr 0ill noc affect comrmencsrent of th-c- second project where,
+in the early stages, .worK vi1 1 largel.v be coercernrt  %th' nrocure.:Ient and
+erection of build.ings.  In or6ler, horever,  to avoid dclavir4; certain irpor.
+tant s;ections of the nroject, and hearing ir, .m.Id the ccrvideribl. ri.ne
+involved in obtaining bids, s               mcutwnt rlanufacture and !e1il"ery of ctie cc1i,ip
+mont., it i   l desirable that NTA qhlouldR Initiace rro-turoienr iction ior the
+se;-mr..d nrojt.ct -arlv in 1973.
+1. - )4    This report is hased on infornation provided i, the Ni Ii .md r on te
+findings of a missioni coTmrosed of Messts. C. R. F,ickenson and B. :tol.z,ren
+which visited NeDal in September/October 1072.
+
+
+
+TI. I   'EC _E.OM7Y  A7) TFT; S';!CTili?
+T',e  Ktir.tliom  of Nepal  fern:s .?11 t1asit-we5st  r.ctan'le  I 2tween  China
+t;  wlte  nort'i and  India  to  the  southi.   Th.' co;intrv  extelnds  fromt  the  Terai
+t- Li ns ln the south through tlhe Siw31- llil hi';  Ind i,?ll aibhlaret I-aturt ! .s tO
+t      e 1'   of the  1! mialavas  and Ls, J I- rC'n . !uence , sub ject brthl  to  topo-
+t- p?- c  av.  c1': :'tic  extrem-s.   Tihle  nopu -tio:l at presoint pstitiatcc  at
+'. . r.-L  c.:   is  -rowinv>  at about  2.2 '1 . cr  anrum.   Th1-re  is  sole  iicrat ion
+tror  t',e  s0 chl,Iadc-.  to  thu- fvrtUlir  ce-trai' vallevs   nd  tCi,, Teral  ;ainis  and
+,,-   'a i; .1 tr."- rtmst been  an  I            ot rTi t  ' non; Ti[,e t whi -h  have
+ci--t;" .OpUl ;ttjon  rresskLrs.
+w      t- estimalaed    i. :2.9?.  J P1l- io    in  1Q 1) and  is  Rrmwrinp anr.ualyv
+,;  .a    berrs.   Per CRnt    !  oir: e is abOut IJ S$70PCC.   The prin-
+)for.tc  acti'itv  u s                                              f4cutune  in1  n  accol.rnt  for 7(t  O, total ',D'.
+",.7 f - as! 1rn ps amr ri., 'iute, set;lr, oil se-,ds a+:i. tlhlca,-, xnw cln ar
+i'*S'~  v rroduced  in  thtl   -nstern  rer3ii *                9  ia  also  soire  2rorpirnl- of  timbGr
+i':   r''e.-ral  and  western  arfas.             T5.r;, r   wr.ichCn  .    on:ect.rat.-:d  in  th.fj
+'t  Car-;  ' ,.i  -3ril  the  :iatmiani-u 7        iev,  -       -i    es about           OI  tot-l.  Thp.
+'1T.-4 ^rr Jrr ,      0i ! i   iCO   per  irear.  .s   ei':n ro    t   assume  P'tpc i'tance  in  the
+-y^;i try  2 ec(or."vy  a-mA  for.u -'n  eyc :.i                 '_in3.
+f ~ ~ ~ ~ ~ ~ ~ ~ ~ o ,n                           oc,;-11 c ,_I
+-     r:r.}  tha.in  ;a,  ,L1.^\__  ,,     t ;' i ~- '-          'S '- 1- itti  :rn
+*   -r  rt;ol 'rtl --t-  -'tAt' --'T-',jl      t           8 -e mt- '   ter,lf-v,r;,-hrftc   ' *itrX 's
+-.               -Vi'-   'it             -'             -      .  r'.  :  '  :'   .  .
+s-  . -t   '' .  'IT_ kl',*'F.'    '      <'-! trr  andw  t n:r.i-  jPId  ;.;''
+''    *, i  *flrs'4l'l-' I''      ''+       - t. 7: fOr'ni;710it  * 0( :vt-e*  tor
+e .  -  . or--s *    1* R  irt f -tt l* ;  *    tv  i,-1  :1rt of1  III,   ntfra-
+* I      -    :.T ~1 c:, .-. 2    K\  :    '             tc   -d  C'vatjtVu  I 
+-  rcs:  L''si1.ef,-r t~-c                                          of  -ll  public
+rv' (:-      t ' '-          ant i> ornat i meal  senrices  ti)
+T17 t "'S     t I         an  t'-.  11, 't7- n:  authtri i'J for pri no tclv--purated
+' 1 ; l ( :~ t I n', f; .,  ' .   A    iur,a'! ar'-  o f  thie  law  e ; t ah I ish op  N fB  is
+*  . f   ;e .
+
+
+
+2 06,         lThe poIi :y  di, -ec rio   of  MTD  's operat i or,  .s  v. st..-. 1v    bo0i rd
+or  Directors  'cnsitltinq of  five  mem.bers  un'Vi.r tile  chafrr:ar,:                        the
+Secretary  tfol Cnm!,unic ati1,,is           Cithtbsr ck;!'rbcvs of  itie  goaldi tire  '
+IMaitager; the  T nt er-S3ecre,a-.--s   ot             'iinistiies  oij  F'in.-t,e, C,f- rj-- .,r.
+Tndustry ; and  [he BI -: .  - ,of  ,Ji.               lt          f  iIv,! - .rc1c, -v  .iLd
+i'_4'ri's  Financial CoiAtr-yi.i.'r is 'c ;      oi <' '      r    11c          Vi.     t       .
+an  annual budget approlou1ai ro.  tar,fr   . d JStA ents are  sublject  r.kAe-nU.er,
+approval.   RecruItment and  d ismissal of gazt t .ed  stjff  is   f-a-' t     ith  Li-ho.gh
+the  Public  ;ervice  nowifssiovn.   NrB's  n ,a  i-tm,    affinu     &0l t.-.rina are
+di.scussed  in  Chapter   r. .hr  prsent   larg.-!tenu; provide  a ye;asonab  e  c.egree
+of autonormy  withli1'i     Hr  t    *lay--- fv OT              rhng
+.0  Gueri.-en~:  -, an.! cc:'.- der P~~t1    t i(T)l DWOV  t'I hI !I  ZOY                  i.
+ktve,rsicn of NTB  into  a  :I:-DOrritior.   TIC   o;:.;t2 v  .                 ui,i hav' L-i'r.   .
+tvrel  oer its  i;...c: ';.4 .   !                          t    r vt-re. r5:v,nei  -tiorsa.   '; ,    tty
+o-Anershlip  wou;u~ ''bt-fl     1   be  vet-:iT.. ;:Gve,rv.ent, hilt ri:< fe wo tl.t'!
+' mW"C SsiOn  for  ot4,!                      r. P1.r':     ml I :on  ie v      ol t 4  e  I:.;ttr4Ii i    .,e
+C:'l z ratLon  and1  i-:rEc .          oiL       ; e  B  -r;.  i ir.-. i'C ';. h" Ch ia r.  f  , vi
+Bioard  wotuld 'e  the  Ge  r.Ji :-Stater.                          Dt -,lhr ?i ect-rs out of  ;.i;;  ;.,
+emlce--ersI)ip  of  . Ive vi  1. be G0 e ruLme.i L  ioi            .   The  Cc      tcat
+ri.n;  Act, ur.der whl ch SepaJ  Yeteo.u.iv'-.cIons  Corporation  (NT;.! wn-Ad  ibe
+created, has bee.n  des  Wrce d to  i,e  Stait                 foi: gerieral aPpplikatior  to; ocher
+Corporatiio-s  and  ' ;r t1lt.i  te.,soi, the  ,rcvissons  are  of a broid  nta.dr- aTni
+the ot,eracioa  :- .TC  .    ev           .t-i :I   i . U, t.  rulTC                 t.  be  iss';ed  bv
+Glt.   rui-nin.t ard artiv .e--  fr - .>i !y  t.Ev   ;r,         ; on  fro'      i          . .    it
+h-its been agret.! d'.r:i   .   otiaifn:s  th.,r  2  ..i)v  01  any  pro, ,   .1 iules or
+ar-icles  applicabLe  co  tl-le  T2l econr-nunic .:tt  .i::  (.rorporationt be ;-               availa  le
+tC  the  Association  s.itt.  ienrtly  i.n  adv..!::e  for cmrnent befcrt  i.n-   , brmuehc.
+IU to  f%rce.
+;,.  .   f .                                     A. -   ... . .  . 
+2.7!.'i s   -'  e - I    ei c;xrCCt oI lipsft<z a;.'ltJ C/t. i J.!- I                      Z.i-
+ver"'  arljv  s aeVs  -:i;. 'nca  Ese  :ice esseat idally  avaliabi.e  .!: d                    w  :di' Xl-ces
+zxnd at. jjresr-,t  jrac t.i.l .i I  tO) w    n2  di stanc(-. nacwork  Hcr iv,rma                 p , i ij n 
+co.,versations.    lhe  reiŽ lepo '9  iel st LV aLt .iI y  1972 was  .ft  p.;    )  p ople-
+on- or  trie  ioCest ..  t;.e  Wuca - -- wle  . bElow   Lhe  average  fir   .e    pia;z
+:.J)Uitries  (Anzex  2 .   ±ie  p;t:aUXL" Of  tle lesal  t:iCpLo;O                                  ea--
+sovsh1 v  satisfactorV  ;>nt tietrdii is  nac  b  inE  r.g            .   .n;? Wift.itlg, m. ., _     t r;
+mna.ntaine&d1,  ls  considarshie.
+2.             t .limTT1l.l C r: 'n:.:`llC:Ations  :r.afily  ui.;e   fot  Lelegr<allh   .:-     ; ;;v
+been  provided  bt               cJ.S   li' ralito  sta..toni.'; urili h .perate  ol! ap,.. L. ;o
+basis .   These  statlon., ar.-c ieveriadenit. :,t   r;,Et  n:a n  cent et   an   r:',:  j;i! Of
+voice  transmission  I a.is  To  considerable  t0'fiJprt.ion o0 1fissa,;I  -
+2.10         lThe  International  celeconmutTiCf1tioCts  services  are  az ,OeIt
+not sa acifactory  in -that  the  l and  line  .    lniia  is su",i1ject  rJ  .1sr1 lecI nA
+da*  to  lanLdslides  and  flooding  dclncfn: Lun t4(.ttor:f  seaaon  and   fl                    - 13   it iVe
+IIF  radio  services  d3c ri4L  4, rovide  adesla:e  tra,smission  stanilsrds  Ftor
+phone service.
+
+
+
+-4-
+25.11         'M.ar 12'45  s'hows  the Hri radio  no-two-r   and  Maap  10246  the  telephone
+iacilitihs  etxisl.inv, and  hefrit provi;'.ed  urder  the  first and  sec-ond  projects.
+'i.sic  data  andi  supplenentary  infotmaticr  are given  in  .^nnexes  3 and  4 and
+7,re hbrie!ly  SPt out 1below.
+; a)   i'oc.nl  Telephone  Service
+1'         The   .nlY  teleplhone  exci.,inges  at presen:  In  onoration  are  two
+..sais,n  cro-;:l'av3   auto,natic  telephone  excharces  at Kat.'-tIandu  and Patan,                      v lIng
+;:apac,.ties  of  4,400  and  600  line- , rest,ect ivel v, a-&OO-CiB nanual exchange
+'t                                            Ir  tmaniua anl  four "cry  Sriaii ranrotai  e'h-rg.es witl. a  total capacit,  ,f
+') ' L'r.e'.  ;-!  llteri alorv  the lard  lii.'  roite  t!' Tndia.   The  tntvo    Installed
+i'-C;m       ca,)acit   ,t .lui-' 147_ cas  ;,450, -ith  4,'60  connected   ubscribers
+.  .,es:  th.-  TI'f!'t'r of   0ledhornes  tn .ci vice  trtalc'd  F ,75.
+''    nt:.}  tv  'ele C,.hol.e  pv      r
+.'.: i        Tat  or' v  OYii-it-:.". IC-'; distdi!:cct  r7.lt   avail cibit             tio  I interna-
+t-'.>-:'   rpnsd    T,ie  fr r  KVatr;'an-Iii via.k i!r('r;  t- Tn:'1ili.   This  line  also  cron-
+tAlCtr   t *s Y .lsr    n1' teC; ei:   *xchw:: ;     t  .   ) at'rian~ti4.    ,here  is  a  total
+4 a-:  cirrultt   wfs.ct  -ir*  ocretatf-O  ricNnu;.lv.
+L ' n:- rnal}  Teletr--iph!  Fa_.iLit 'f-'
+.:   :.  .<ri r;lielv  coti                           -,  '<"  *,:I)b.r're   ;r  '   s t-I.'ci'-. .   Ihere
+1     >'-       ').I-rai  st ;ti o'is  ;IcuchI'  $ri'  ut''I':- ,   i-d-   a I sno  f     -t'Ir.t '; as
+.-  r C        Il. 'A l    ai.c  r-) dIe-emn!t- n L   sta t       Y L r.rr-'c   ircas  ulh i   I      II toi
+.1.     ' a t     ct(1 tictS  .32t7,r!i'   i-'  ,. t'*  '-,  s      u,. -i- V.ii''  iA;
+"I.. *    r            t r ir.c:   ,:     . 55 - * -,   t 2! . .  .       , w   i . ;     t-
+f '  r.t, vI a                                                                      !  r t  r
+.~ ~ ~ ~ r .i-u .' _ _it .~i .~t .a ._  ..
+-    - 1'-~~~~2\ s~~~-r:~~-'.-  to  ~~~~~':u' I ''-'                              I 
+),-     ;;.='    -                                        a     p-: --'d '   '7CIiT Wtl   L* i tWl  *'Csr1
+-*     2r      , c r;2.ri L'   t rh - '. 'l t *r   . 'i s'sc  1'2 t (I   t -ten:i)nfl
+-  t ; R*r.: .to .,  I.-           t'¾   .4  '-.  br;ri i  -.u'acI ty v f 'i  .nual
+
+
+
+- 5-
+exchange, and two new automatic exchanges. Tn addition, eight manual ex-
+changes witlh a total capacity of 1,n1 lin-s will be provided.  A new maiwal
+international and domestic trunl. exchange is neurinP, completion at Kathmandu.
+A new Xathmandu-Birgunj microwave system will link un with microwave routes
+to Calcutta and Delhi and provide a high quality international service. A
+new microwave route from Kathmandu to Biratnaptar will serve a number of
+tow,ns in the eastern Terai. A micrownve routo is also being establishcd
+hetween Kathmandu and Pokhara.  HF radio telpehone links are being provided
+to Bhairawa and Nepalganj. Details of the ongoing expaAsion and expected
+completion dates are given in Annex 4. These works will be completed by
+December 1974.
+
+
+
+-6
+IT .]   'Il  PPt)C1',' *\'fl' Tlll        P"T' 1i-C7f
+to,  P rofer.-
+'?ie  prorrar  for  the   Julv  1lV3-?    te io, '0     ±s                       oi   Uvoz            r Ing
+-.rder  r           r ftrsrt  rr i( ct  (see  p.ar.w"rt:n >            7  abhe,)  .i:.,    .e    rc;)osed
+'p c.-rc   "re'' ''i    de'ec ri "ed  inl  ,.yr.>racli3 1'C' helm: .   Th'e  colst  01   thi   Pi -t-V rm-
+,;  c. ':~a~<   ~ ~ - e  '              ;illior, tU    1*.'.  - t'- iun)                     it tu l'    ,erci:;;
+(- 2:'".'  :'t""n('nt  of    S''i.    'illfnr    '''rii'.'ale:! r1; .    tnC                   :fl..    o'     c.-apital
+,< 4'rerct
+.                              i4.' ';'  j    *' t   '    ''   4, ;  ti.. *I'    'r
+-er  T-'r<I'-;ti.'Y'.'t:l .nSl.tls(l  '   . .i .'Y"'.I11Si' '>  U       '                 'r    l-i. .,:
+' C)    rtLfl'tOD;flC  ex\ClTh'   ecilLpI¾en .            ,l; t '   I .l J. I n              O          L-  L  -r -ei-
+worKs  to  provi 'e  aiour    ,                  . t!-,I         ; 7i¢? :WAnu? I  subscriber
+connrctions;  provigsi on  tof  i'CBy.               l  subscribers   .tflOr.1L'.Ž,
+.tr(-"''4c.:sv.
+t~
+,!      i ,-ri  r;l:iLr,.t'.11F  ¾!LI nfl:"' ''.       ..   U' -.                           t::
+} + * ~~~~~~~-  '   p::,.r+>  '.  r                               t z  - .
+i~~~~~~~~~~~~~i
+. . 1 - i (T                                              t    -l 'i- i r .f.  
+.  s  .,,   ;   .E    ',   .;   ,,    ,    1- 4   I   8   ,   .    .   .   .:    r   -  ' 
+*      1,    14r    t r ' 'A -     i .     i . . 7*    .pe''m.401   ~                 $r  .
+et                                    -- Li o                         v'      ln'. |' *
+
+
+
+-7-
+(NIRs million)           (1lSS thiousand) _       of Total
+Local Foreign  Total  'ocal  Fo             otal   Expenditure
+Local Exchange
+Fquipm.ent         4.12   13.96   18.08        3qn   1,322   1,712
+Distribution
+Setwork            3.55   12.76   16.31        3T6   1,2nS 1,944            21
+Subscribers'
+Apparatus           .54    3.40    3.94        51      322      373           h
+Microwave &
+IN'F/IF
+.Svstens           1.87    9.94   11.81        177      Q41   1,113          is
+HF Radio             .86    5.50    6.36         81      521      602        1I
+Line Circuits        .39      .59      .98       37       56       93          1
+Long Distance
+w itchinr.         .38    1.11      1.4n       36      105     '41
+Telex, Tele-
+C!raphs & Data      .20    2.03    2.23         I!      192     211           3
+Vehicles, Tools,
+Testing &
+Training            .18    1.53      1.71       17      145     1H, 
+Sites &
+Buildinp,s         3.75      -       3.7 r     35h      -       35rh
+Suhtotal     19.84   50.82   66.rO   1,c68lj  4,812   6,312            10or
+Physical Con-
+tingencies
+2-1/2%                11    1.27    1.68        3'    1i2(       1 ,
+Price Contin-
+gencies 12%         -      6. 9    6.n9         -      568      568
+(overseas pur-
+chases)
+CLustoms Out les    8.72     -_       8.7 2     826      -      _2,6
+T,lTNI.      24.97   58.18   83.15   2365 6        X')   7,86'
+3. n4     The project cost estimates for imnnorte(l enuinment and services
+are 1,ased on NTB's experience of prices obtained for the ongoing pro,ect
+and on rocent exterience of local exrenditure for civil %orks, buildings and
+installation. These estimates are reasonable. Customs duties of 15',. on
+imported equipment have been included in the project costs.
+Contingencies
+t. 5     A 12%. price contingency has been allowed for ov'ersea:; purchases to
+allow for possible price increases including tL'e effects (c" rzec,nt (1.angs if.
+currency varities.  Works wili largely be cnrried out by NTB's own staff
+which, as a result of the transfer fron G.overnment to NT'r, recently recelved
+substantial wage incrQases reflectinR an increase in hours of duty and
+
+
+
+->rodutr v! t-v    Fur ther imp tov  oenr s  in  protict Ivi tv   i                Ii'i     's .rer.at Ion
+- ir,a~-i n    .'h) i-iL           I- to  conciruct I -    staff an! will,  i  is con-idere,
+-.IIlt  i:  cost  iaV tns  .-  least equivalent to  pesibli  4a,-e  increases d1urin>'
+Lhe nroject reriod.   Local cost increases  for twe Tproject .are  theireforc
+un'hielv  to be si -ni ficant.  The pro,ect works are  thc maxiniur: that >iTPR is
+0-,e  to  undertake  and possible  increases  in  snecific  areas are  likely  to  be
+cr- rnensated  for hv  reluction; elseivhter.   Thef provision  for mThvsical cont.in-
+rv s  in  1'oth  local  and overseas  eXrTr'dItures h.ls therkiForoe been  li-ited
+- !       Provislon  '5is been made  for  n.;ih)o  incroases  i   cusntoms dL. ty
+'':.t4  rT'u f- tinf' frowm  'rice af*  quart;ity  variations for rv:erspas purcI.Ises.
+r - s.,.  or  I .  P\ 1z-Cin
+.^'A !     1'.E  r.eiit (s1 '4 VF '; 1 5;  ' viici'.i wJou     fin - o -    f  the
+.1   *s.Th0  :  e,l-t -i tCie proit.ct   1  t'rop' '' '.   Y he  I.oc i,  cott wi I
+.  -: local'   r res.'urc's.   rhe  i ttfrr rs ro ose1d  t'or IB).;  *'r'1 i
+:.~~~' ar .   M OW
+* ~~i~t't' ~vi t-~'lr~' cciuirs*ent                                   1 .  .
+-   .< re,  :iccesqorles  an.' su>'  ri>er: 'nirn:u.                                    1 5.'
+i-   r  ontvn -.,ire  rircu1' i  , I    ! ti
+* ~     ~~~ ;'  *;          *aj.t.Si;
+~-Ot.  Ntil.d   c  h), i:_ .   . .to-la   c_t    *.. __.
+. :                 c   t i,  \   .  ! . tor
+*    a;;  for  Lt.e  fol lowt-' cc,.!i-ment exters1o0ns  to. l)e contractce'
+,irial surn1  hr,   on grour.t3  of corsoatibilitv anfi tilt  ecunoniles
+-  -. *  ttk' -tse of exist i ;g  cOr;-u'n eo"iT'rlent, power suppl les, rack
+
+
+
+-9-
+(a)  Micrm.'ave a;di mrultipley enuii*rienrt estirmtted tn cost
+1tSq25O,OGO to extend the svsterm  nurchase.  throuch
+international tender under Credit 166-NFP-
+(b)   telephone ,-witchinrs equip-ert estin.1te.  to COSL
+US$S80,000 to extend an exchar%e nrovidesI tihrough
+Indian aid; and
+(c)   telephone eychanne interface and' swite'inr equiprient
+estimated to cost US$13^,n)O(  to anlov intoxn-orkinic
+with and extension of two exchmin5es nronvte!& bv ITS Al!
+after limited international t"-nder.
+There Is a 5% custoTns  i'mtv oreference for goods fron conoinwealth countries.
+Nit NTB will evalduate all tenders on the basis of C.T.r. price.
+Itisbursements
+3.n8       The proposed IPA credit would he  1i!t!'vrsed. a.ainr:t tTj- C.i.r.
+cost of irntorted equipr-'nt and materials a3P' t'le foreirn exchange  costs
+of services and trainin(>.  EstirateO disbursenent-; from th. nronoseŽd
+credit are shown in Annex 7.  As tihe project is pirt of n c:ontinuin!'
+investment progran, it is pronosed that ar" savinrs be mide al?ailable aftor
+constul tation with, IDA, for the purchase of a lditional  i torc.s s  t!e s.ime
+t',pe.
+T'x,cltitl
+3q ro'1  The nro ie rct *jI 1  o ji 1' v h   ;.? e'u f(Ib hv    'tS':'t        A E; si s a'I-,
+aoe rri t Ire,  fro.  tin0 contractors for the irtal lat io  o'  t!''- -iiCrow.Ivt
+'vsctenc lad thle auitmnatic telenu-Tiene                 A-,,,n;s.      sictanc   t,i   ilqo be
+rc"njireot 'or t'c' of-taile(i ernIneeri!- o' the  lut onatic teletone h '.flanC5
+:,rpsaratin:, of m"Prcfirationq nnd Pval'iitienn  nf hlds.   NTI is takinr' jrn, ..j .
+.A*:ionil ;  .a-ti..: :i ;attale teienor,vun" it;nn-                 - (tnlm'  -  ft ;.4)5" i'
+tV".o.'e ol t't    lith the services of this oxnert .anc! wi tn tci.e in.  i!
+lit ion an4 trairin'- assistanre to he nino',           under snLeinneut conrrirt,  ; i,
+sulhe   hle to cnarr- otit the Project. ant  qubse"-uent1v onerate the nitte-r!,.
+
+
+
+- 10 -
+TI   .TI'T                       I r  I ' T' '!y    p I    T'I.:''
+O i          'l1T:e  proiPvrt  is   Otent      iLe' to  nrevvi d,  infraqtr;ic turc  c.;scn.   al  it,
+t!v  sLI.-' 2'; fu 1I eiV(' I *e    IT Ce IIt  Cf  i'Lt4I; L l' .  ;t" r i c u I   t ire  r a IiL L,iI r i srn .  i`w  present
+ir;uelqu.ttc  cormunitcation  fad ilAitit-r  .r. nriw.iv  hi  leder  nroduction.  di strihu-
+t-;on and marketing.  There is also R nee', for improved and exPmanded tele-
+nnu-iunl(-ntion   facilities  in  order  to  meG W                       im   requirerm-i's  of  a*i,iiv r..itra-
+tio., health and other social services.
+,*  )         T-h.'  pro1 ect   ; II  extcn6  tvtoruio;i        :   jil tir i               i 'i    wu.torn   Nesal
+Ar   o t r- r  .aronqs  prox  . dil'  re'al'               'OC.?   :! :'d  l-.-  tii ;t :'CL  serk i '                  t-r
+1"(   tl+*'n:,       .t vill  3'cO                      11o :   iL; L '1.l    fC i  i t ¾        is   ;         nr  t l oI)L iOni
+,+    ;l  r,  r,.  en              n-:'.iv   x:tx I: Ir'.-cs   !n.I  tr''-  V  e' :.rt-. tf 1     v i''wt;!  tT  loall'
+'; ' . n-"  ;ir~n   irtcrn.tr ic-ial.         tr.0Cfic   t -r" t'  r''            'rrivred   r        h-bi' i tv.
+:.    --r-iSt.  ~i;nr  1       :.idistion.tl  a:s       s.    i^.   8:g.-t.^:n.! i
+re u5  w:'j i i  not:,   i'eove    :'. t- 1 t(      e  Lo-,:l   ! rIlI'    '.t   :-;  t1,  r 1:               W:I i.  11
+'''- r              '-i  t' j It, :Nr   v r,-'-t  r'   '2r,  2
+* . ~~~~~itL.':{>At>                                                                                              ii* r  -  .   t  * r  C  *ts 1 tt 10ti
+t I- -       **  r, . -t'1o   e      vsvtr   -    lr   .  :'X.- .-'            e8. * '.'-      :.'         !.: .-  r   C -
+-               '  rie-rt ('Ont-ali   atnllt.           . ''  *<    , il''  !':t' .'11 (  '2            *2;11' "-.oi'l
+' r -.; under  r tiltivat irn,    mr              i'. ' ti           i   :..     ';  '' I
+-.    , .  -r'r'.  -Ir    ', -r'.    2he ,at'';   '; .'r         t'.'-;-           tiis
+ri  t ~ ~    ~ ~ i
+- -         -r- - -  -          :i;'      V.r 'frr. l             '.r! . v .'  r -          -.        *
+'.:'  't  5' .:'- Q*\'.x 1' ;m.tc, '    ro' .     1        ¾ -' .rei.9' 'r1'     le 'r'c.!"  .   [  m  ",i tie  fo .   .   n-
+I .~~~P:1    t   errIrL   II 'r A nle-Il *  -'; t'  tt"    wilfI  "tt-  i:i  Iv U
+ffi * e W~~~~~~~~~~~~~~~~~~T-                                ' i{.{   8 Lrs  l oftol -¢It.l'
+. .\ .' I      r r  .1 tVe  * *o , T t V r     i  *or  t   s '   tit i f ; ' .'        .I' t'S ,
+~1 -''    '"     '>- .' r  c 'onne; j. - i. tt r,-c'.*         r. l'   .   if- t  An  ne x-  n.
+A'.-@<                                                                                   ' ;u   I,  tt X!-!:.  ri ..lrt!fst*q(  . -,  L;
+g >   a ,,  /  ..   - r - * f <t[IC t  7          - -t   1-z- no  ri,-        Lvff     %T .   I     C.;c 
+-    ,    ,,. !  ' for *  1:;  ,',.r,*'fNr  i- l     .t   - !.....'  r  t , .-    ' I. !,,    *     - '    -
+{  >t   i  ;,    ;l,-vj,-ssl;- ~~~ -ro.it,r..;  ,            or,ifrs  (!r ri.-w^sEit!td    for  -lati-
+~ {ff   | . 'n-*;i  It, orrnrs  ;-  tliwicf>4i''t^>    il    l-s.Le      '1
+"' '+  ti .  4f.11t]  ts   t!!.3  'y-(1;0''!  fc.r  tl'ev  i jflC1110C  o,r"!N-  11      II!-1, t   C,. tL : 
+§t-~ttb -l--E; c(-;;.)roC(nn}ec  iw  , *-  f {r- : *l  t   n  Avlnsw          s 
+
+
+
+. 1i1 -.
+4. f         1 While recent  r             1rth  .r  loc.al li'nmarO.  for E-it} irriidkt ;ind  r   ..:
+has been  at  17   por annurn,  sorm  reduction mm: be  1-N-e0CLOd  .Xt(`r tiO ,' lt lt
+nlihtes of dev.olonment.   In forecasti-  futlirt- reouiremren! ; *or a] lre.,-
+a corqer'rvat lye  10.7  n.- r arx.ir  ;*rotti-   re  I-'- 'wer-r  inn i'rl.   Anmx.e            *.rt
+onit  th:e  estirtred  r"-iiroerent s  as rel ite,!  t,-. te-  cvonsiqtolrt  )n' out linen  ir
+t'i s and  the  precerlin-  trsn  aragrn;s.   Annex                 o r/ives details  of  LtIe  pro-
+nosvd  exchanse,  inctallations  and  eLstliritd  r-onnertions.   Crowth  demwiu
+a:n.d  actual zand exnected  achievement  is s-o'wn  {rnphirallv  in Chart  71;7.
+Vvep witth  the  ronse rva tive  1 ); 1-r ;nnur               Irease  in  di-'int.  -11V  - J.. ot
+tot-'l  defImind will '1  e met h'- thw  end ci( 1o       7 '.  The  tele-Olroe  d lelsi t L ' ill
+thon  tie about fl. 1   rter  I(I People  whirt '         - st;ll verv  Ir;   '.!en ctiv'  iret
+¶i-th other developi-ne  cointitries.   Perfonriacer  indicator- showin, t':  ex-
+recto(' achievement dttritn   the  cronstrrution  nerlo.- are  sbiov  iie  Annex  11'.
+() I.opo P;srarcr 1'elenhzno. <er-i -                     -
+.'17          The  townis selectd  f'or  connc-i -i.-  'o   l'.  in  ; k          i't mdi` ti'. ',:Lei
+n'tvorks wilt  nori"alv1,.  '-  ithse to   e  *' --ovi rd  wil' loral    r:it   .    ( !n
+hi4ntafnr   circutit  requi ren.tq  for  4., 'r o--e.tin- theser  -t    is hitve  br
+es;t in.mte.' or  the hasi   f ot  tl'e  arti cipitf   .: sfcri ber cr,ne.   i otv-  ani  i''l -
+factors   based  on  the  ex-erience  of  oTher  s  *j]ilar countrios  for  Lm  ':ri'i
+nait!n, andT temn'natin' trunk  traffic.   Forr'nsr'o  er cir@uit  re;iuiretl,lt.!;
+are sot Cotr in Annex 11.
+(c)   Telex  'ervico
+Te, r?-r i- it  driFo r t I .    .r-VvL   It  L;t:    . I                  tm    .
+,tI ,it i  3&l smhc:c r'V,' r -1   'Ich i   21'l   1    r.-    i       r- 'o ed. %, (,    :f
+tIt t'" S i    or rf  tl   nte-or;  .i'l'  li  -.  .  '                            - '    -           -
+''.l  *'rnrt-  to  1>'-rr  1mm'l",  *.'iri jq  *robdl'. r'''',--'  iv  .                    .:-,  .-;  Iii
+1wt   -rrr {, j rltf,   Ij     .1   t r- wirwi  ,-               R     ,i        -.t!i
+/5t-  t   rtt.   -rs.t-rm  7'r .
+1i   ,  'esidt'S  . lom.hu   for  i:jtern,ati-nali  cill , ;i' rir                i]s ii) ht,te ;
+qu'Jm';cri1cr's  connected  to  TT.   T i        .   'O'Osi te  'su'abh1 -i.t  n e- ter.;d-!
+iutoratic diali-n  nottnr,: timdCr  the  thirdl develorrent  p! a:.
+(;t'   Tltrl. .   i   ;r i
+;n.A '"      Te  '-ro ' !     ' -artern  for  tt- i;teornatloriov *tl       ri    s Lt:, she'.':
+an  arnnil  increasr of  1 K' for  telenhone  at,O  1    fn- tol  "ra:*  tr-f r
+0olt2.  ,f existin"  te!enilonr- arn.! (0r' o   t t t-ra-nl  triffi(   '  :i Ath
+Incli.  'rlo  nrirTarv  route  'or  interi-nto   rr-!  tL-.f-Ij     i   v-ia  1Ied  I ; i
+to  T rnel a -hi  i ch   s s-.b oc   to  i nt errup t i     i-   i ir In  '  ro rosoo:: ni -ind.
+o:wtoim'  rroi1ccr  tooet"t,.r t.'i t0  -n  irtorl'enooftjtir     trvilii fy r; i   t    l-, l
+lve  ir, -'roved  rel inhi1i'  Follo-1i  w   ilo.  irs;t-i   I              (or e ,e i ^ rno.'ivo' .vo.
+'K'e0 SeotIo   pro irct  'il I nrIrvi(ro  .de-1rim-ti r-        amfl-l   fact I Ii,'rt:)
+cirrinfi *'   aritv s'lrtr   t .   th.- P:--PcreA  c-ro-.rl  ever  !he  er-rit.-    Orl(..
+
+
+
+- 17 -
+A, 10        rhe Neoalese  covernennnt has dleirlcd  tn estahIis   ar. a Iternative
+route  for  international teleconrmunicntions  traffic te countries ot-:er than
+Tfdi., iF Pnr-sVble vi.a ionP Kong:  alternatIvlv vii Thniland.   A now   Th-h-'ower
+PS-) 1U  lirk  capable of providin- three  snevc$T  and  six  tcle-rapl- channels  .s i-
+eluied  in the  nroiect and will replace the  o istin r equi'mient used  fcor
+telex -ind teleoraph  private wire services  only.   Thie oxisting vcmiuipr.X.nt
+.111 then be eiffectively used for  Internal  servicqs.
+!.r:u't Cost Sinlution
+4.11         Tn  irder  to meet  the  forecast  drc'nd for qorvico at lvatSt cost
+it is nocos-arv  to make the correct tpenel o"-ca R/ecoanmic  dt isinons
+nlannino  the oasic network  structure and  then  to  fellow an  oLirL i.nilii  !nth
+tvith  rsqnert  to the desirn, direnqsions and  tiol"t'' C   the variou5 components
+installed  annualiv -as part of the cont1ly:rti.s d!evelnpm.ent prograv,.
+'.15 IAIthou ph network  (lesi n is  In its eariv sta-es,  tf-t1-a iel                  taA  lcci-
+sisons hve helv      taken  tand a national  nmutrhsrinv adr, routiiif T)1 ]n ,          r= e   ouL
+wir !-iitablls, trans-iission  stanrdards andi has,t, on  tie  '.'i  a; crsi.non coratrol
+"nui;rno.t .   loth  existtng  automatic excIhmi-e-  ire of tiht  com-on >nitrol
+tvnv.   Thfe choic   ct  ccmrtn"n control  enPouinrnit 'fr tho  xcrhanngo-  J!i,i micro-
+-ave  and  1'Prr radio enqilpment for the  lonir £ dtance  nrtw.or- is soendl.v  bCiseL1
+Inv if tCe lcast cost solution.
+I n      c¾    a seC  of katI.o tt,u,   i f n r' v rnorT] ox  Inil   ' .<r£-: , .
+'  stud"- of the riost ecenmisc haS iS  !er ¶':ture r4 velone  a               .s t'f   
+-.ace.tn 'ised  tuL'  nTes%Pnt value  studi os of altatn.t;   e'.r tj          ' naI ic-
+>T. d.    tchanl cir exch.tnces are  heboin,  2r':crr   i tt-                         .    ' ,it    re
+'~.-;or:e   's1i 'o p'id1ls. ensteuro least coiqt.   .   u use  of tr;aile r     .       ;'*,'hc uo
+.'''''.e"  Is  4usti`tie     bv the    ir ''f' our  tan ine  'lera,  t .                 .
+2. .rtn>  .it    .; *ŽrewtI .                  .di- .      t'e  r-"ven2   .2..;<s
+-iA:n- V.'I L` i  nr o:!-i  a' s.rc--.i,.    'r t                a... O:Xt 0.   :  ;;
+nc-r(i-'"- >ri:ti'r'-  -', i?pr-"rl.f.*  -4' ar;1 i:i            1    ..'  .
+cant'. :: !'u   *t velnorlnct nrocoss-.
+*~~~ ~~        t t.i . i t;r i   o:n t! lt''  i'-  --'  itii r' t .. t;..
+-* ;    i-. .c r       .       .s-ttreTi 01  ex-vct. . T-11.  'ST :Artri'.l'it ;iIc L... th
++- 8:< es . ,!tul  'in. ci'r,tlrl cnt;t -            t oIf t:?'.ea  .irI dut! P7ti
+!'-*t'  ;- *      ,   -  i-i .20 ' .  '-I'h  01505 1'' t; ?<1 j oSi.i'ltO  1r(' r ven  in'
+-t rurii in *a:--             -         r F- *ause  (.I) I he
+ro -t t .'eIc-itelv mf' 15.irl t`''   I    ht  "'fitS  to  the iru  -;u-!ihors,
+.0    q     n        O. U t'.e  ft.]l I nst v s  eyt(-n',   ;   ser vi c   t:' o  : *1ra.If; LVCfl
+: ,  E't'i7  i,'-.fi tI  ill  olni v be obtainrod wnen  alditioral :lies -Ire con-
+#  w - * 5 :  ar".uc, ac.4  (j) the 'ro in   t i  dis-' i- -W' mal n Iv  t- ')rcv iid
+'5  0t  ..rr-rnp    'is'Ss, tourism  i)i  anricilu itI   i i ;  probable
+t  ."sI 'Ki :t'rrs.  o!"n`ffti:t.   \ sens Itivitv  a1-1l1vsis ha; pel narri&'i out,
+* ~ ~ .  ina''s avor.al- it  corbhin;tio. of t!-. main oatrar- totsr.e- -ould
+t.  a  r e ot  r-turn  of iint leofi thian 14$ .
+
+
+
+- 13 -
+V.  TIF BrvrIrVIA!'Y
+S. 0 1     The Nepal Telecom-unications Boartd (''"). t1tc 1-. neficiary of tOC
+proposedt credit, is thc sole responsible authority for all telecommunica-
+tions services in Nenal (riaragrarths ?.'h and 2.n(,).
+Or'.-nization and Management
+5. n:!     NTB's organization (Cliart 7176), whic': is based on tibc reconmenni-1-
+tions of the consultants financed under the first credit, is anerropr.:iLtc for
+"enal 's develoning telecommtunications system.  Thc hcadquarters is locaL--l
+at Kath-.andu arcl cons'sts of three d-partnents -- i:n'inPerIn-; Finance:
+Busiress mnd Personnel.  Three refional offices. ea.ch undvr thc control (if
+a rvioninl manager, will have territorial rrsnorsihilities.  The r^-gIonal
+office at Kat!wiandiz, the most significant anc irnortant of t'eso regions,
+hlas alreadv been set un.  Creatior of the otWier regions will follbw the
+extension of telephonn facilities ir the areas concerned.  The regicnal
+llnnagers' resnonsibilities are to deal tr.th subscriber relations, maintenance,
+onerations and minor construction works within their revions.  The proposed
+conversion of NTTB into a cornoration (paracianh 2.n?) is unlikely to necessi-
+tate major changes in NTB's irternal or'da.ization.
+Staff and Training
+S.n        The present cthief executive of 'NTI  is capable and well qualified.
+T':e 'Nep-valese Cevernment lhas agreed to infur¶! the Asroc-fti   of ai'.v  ut;ru
+>ronnose. anpoilirtent to this key position.  Tlc ser'.'i ce5 o  four senior
+ox"atriate  advisers were obtained in 1071 throuath the Colomtbo Plan in order
+o facilitate the e'fective operation of NTr alonc  crmmercial Iin--s and the
+-troduction of ncw, en-ineering svsteris and techininut.s.  7hese oxPerts hold
+t;e nositions of Financial Controller. Chief Enginepr, Business M.anaoer and
+Tr'-onal. Manar.er Kathmandu.  Ner-tlose counternartF have been placed with
+thotse exnerts.  Local anpointmpnts to these ton nosts shouldi tOhrefore h.
+'o-sible within two years as tho experts' contracts exnire.
+fi.et    Staff emnloved at executiv^ l"ve]s are trernicallv compete'rt.
+oTic results from rovernment's policy of rrovidin- ur1verqitv srholarship;
+for selecred nersons who agree to enter (overnrent service, followed h:
+overseas nost-eraduate telecommunications trajnin" each ve.ar for four to
+six graduates.
+5. 5       ThP situation is not as satisfactorv ir rep-eoct of tthe technicia'l
+-rades.  YTB had themselves taken action to improve stani.:rds bv oneratin2
+a small school providine limited vocational  instruction fnr e%Astinv
+technical staff atnd net' emnrlovees.  The sottinp tin of a trninirv! center
+under UNTP auspices should by now have )r-een COMONlted bIL has heern held ,re
+.7ue to delavs in reaching a decision on Vwich dPnartnrnt shoultl be ro-sponsiihle
+for the center and in nrovidine the renlilred acconmodation.  It wat con firm.u*'
+Aurin!j negotiations thlt these problLns hadI heen resolved n;ud c. ohocl
+
+
+
+-14 
+would be operating in temporary accommodation by not later than July 1973.  In
+the seantime the four experts who have already arrived in Nepal ware being
+utilized for on-the-job training.
+Staff Levels
+5.06       At the time of the appraisal for the earlier projec.t serious
+overstaffing existed throughout the organization, with a totl sti,aff of
+over 1,200.  After allowing for staff er-ployed operating the telegri;h
+services the number of staff per 1,000 trlephones was abouit 180, compared
+with about 20 to 140 in other developing -ountries.  While it was d'fficult
+at this early stage in its development with a widely spread low-censity
+network and serious transportation problems to compare %71P, witlh other
+telecommunications organizations, a need for improved productiviLY w'S
+opa rent.  The Government ay'reed to adopt rvasures to impre'  IW nor per-
+formanre and produccivity wiiich, although iititially  necessiZt.. I', trarsfer
+of people to othier employment, will facilitatc thu economirC dICV. 1oP7:-ent of
+the network and an ultimate increase in employment.  Thc number of staff has
+so far been reduced by 17,' to 999 over a period c1urinI: whlch an ancrease of
+75$' in size of the telephonie network has taken place.  fire :irest nt number of
+sta.f  per 1,1CQ  telephones is 118.  Furthier i:nprovements i- proeu.cttlvity
+are op1inned tinder the new project; however, the proposed e.3tablishme.ia pro-
+vides for a total staff of 1,478 by 1G90 with 1,010 er-ploved for thie tele-
+phone service; a level of staff of 5R ;er 1,000 teicphoncs;.  'It :as been
+agreed *iuring negotiations that the existA'ng ecvenant whi.ck ir g,.erJ tir-is
+requires an improvement Ln product. vity shojld he rt-peat          rih- rn     C .   ^re,1t.
+Agreeient.  Indicators which will be appil. I to o, tr-ire fut:;  rformflance in
+iicnroving productivity are set out in Arnnex 1it.
+..ccc,untttv
+* . l'A ial  Ih ai; tr.tG    wertt not preDa.r i  .  .:   . .i     .    . *          -
+ri. Pea , Mwik,i ,: _   .    .         . ri .-               d
+-  -  - 'S* . ' -ktot     lat-o!     rhan!  .!.... .............. I. t' *, {.5   .-- t   -., .......... ,,
+t  :-,iue 'asitants i: <, -<-p, r <l.,                         : .i.
+-       t-nieir rkcotntne"ud.Li 1-Cs, :5    l   tit           -iercial
+i. r i2   . T    .  began only in .July V?        'iver, ,-        r.  I.'-! ra
+-i tt    i;l.' .  n- ilm 117 3, the s-.e- ;    t *:_ be i   .r   ior a  ar
+.k-:- V tw ti i t zi v informaition  :.litating h.tter inter a_ contfol
+!*s Shtiul' be followed bv tftritr t.r-temetveY    ;. t .rhI  at1-,a     of
+n l:.:ir budgeting and cost accounting.  In view of the limiteul size
+M, N   nroposes to arratigk with .its auditors (A.F. wer5u5o:  & Co.)
+'-a l]    .tle systeris accor, ing tn terms of reference -iatisfactory
+. I. u prop'rsed, credit incluides a -sum to cover this coc,t estimated at
+I,  ''-.aft te-,-rs of reference are included' in Annex 11.  ile implementa-
+_ .  can `1 t e ;andled by Mr}V  own staft 'narigraph 5.03)
+
+
+
+- 15 -
+Audits
+5.09      The existing credit agreement requires that the auditors' reporL
+should be received by IDA within five months of the end of the fiscal year.
+The completion of the first audit, i.e., for year ending July 16, 1971, was
+delayed by some six moaths due to the Auditor General requiring that the
+contract with the auditors should be with himself instead of tTB. The audit
+was finally completed in Auguii. 1972, but submission of thie auditors' report
+to IDA was delayed until the approval of the Auditor General was obtained
+in January 1973. The audit for fiscal year 1972 is underway and i-, was
+confinned during negotiations that the report winl be submitted immediately
+upon completion.  This arrangement is satisfactory.
+Tariffs
+5.10      Details of existing tariffs are given in Annex 1t.  The tariffs
+for local telephone services are 12% and 20,. lower respectively than in
+India and Pakistan. However, the service provided in the two principal
+towns in Nepal is now limited to local calls anid even with provision of
+long distance facilities the service cannot be considered to be of equivalent
+value to that in India or Pakistan.  Also, to enable maximum utilization
+and optimum revenues from the long distance facilities, it is desirable to
+connect rapidly an adequate number of subsc-ibers in the smaller towns
+where the demand would be elastic in relatic to local service tariffs.
+5.11      The HF radio telegraph network, the main existing long distance
+service, which fulfills a useful role in providing communications to remote
+areas, is unprofitable at present telegraph tariff levels which are on the
+low side, particularly when the high costs of operating the network are taken
+into consideration (paragraph 6.03). Tariffs established for long distance
+telephone services are at similar levels to those in other developing
+countries.  No cheap night rate has, however, been provided for.
+5.12      Covernment plans to meet local financing requirements through
+itcreasing teleLommunication tariffs (paragraph 6 10).  It was agreed
+during negotiations that increased tariffs so st'uctured as to facilitate
+a balanced development of the network taking into account the factors discussed
+in paragraph 5.10 above would be introduced with effect from July 16, 1973.
+Part of the increase will come from increased telegraph tariffs since this
+service is operating at a considerable loss, as indicated in paragraph 5.11
+ahove.  Consideration will also be given to the introduction of a cheap night
+rate for long distance calls which would attract new traffic during hours
+when the network would otherwise be under-utilized.
+
+
+
+- 16 -
+VI. FINANCES
+6.01      N13's financial results have been poor in the past because of
+inefficiencies and the nature of the network it operates. However, with
+expansion and structural changes of the network, with increased productivi-
+ties of staff and increased efficiency, and with the tariff increase, the
+financial results are expected to improve rapidly to become quite satis-
+factory towards the end of this decade. Of the funds required for the
+program, almost one-third are expected to come from NTB's own resources.
+As a result of the program, the gross value of NTB's plant in cperation
+will more than quadruple.
+Past Finances
+6.n-      In accordance with a covenant under thie first crenit, fTB started
+to produce annual audited financial statemenets beginning wit1: fl..cal year
+1971.  Income Statements, Balance Sheets and Funds Flow Stat.eotts are given
+in Annexes 15, 16 and 17. Notes and assumptions made are given in Annex 18.
+6.03      In 1971 and 1972 the net losses on NTB's operations w--re NRs 290
+thousand and NRs 110 thousand, the operating ratios 947. and 9q', and the
+rate of return 1.2% and .57., respectively.  These poor ffnar.cil  results
+are largely due to the follaozing: (i) the HIF radio netwo-rK operates at a
+loss which In 1971 was estimated to exceedi NRs 1.0 millioni pe-  annfum --
+without the HF network, the rate of return in that year wou¾' have been 8;R;
+(ii) the very small telephone network (less than r000 telepho-es) does nrit
+allow any eronomies of scale: anrd (iii) thert is v.  ;,al 'l nr.e        tanc
+telephone network which would allow more inle:isivc uLIc o: L.- sti:Y
+facilities and also in itself would be in iriport.nr s,urce *t .i:onal
+revenue.s.  the resuilt in 1'371 was ai.-) ,fteted bv a r.or --;rt-wr,
+f.or con.sultfnts (pan,iarln 5.tt.'u2
+f .'14   :.1B's finar; i81 jil,itiOt: i ..  <,,Ly 1 f', tt72i/IS ,-,r s., 
+
+
+
+- 17 -
+Millions    Millions
+ASSETS                                  NRs      US$ equiv.    Z
+Plant in Operation
+Gross Value                            39          3.7
+Deprecdation                           15          1.4
+Net Value                           24         2.3         51
+Plant under Construction                 11          1.1         23
+Current Assets                           12          1.1         26
+Total Assets                       47          4.5        100
+LIABILITIES
+Equity                                   40          3.8         85
+Long-teiim Debt                           4           .4          9
+Current Liabilities                       3           .3          6
+Total Liabilities                   47         4.5        100
+6.05      Plant in operation is valued at cost of the exchange rate prevail-
+ing at the time of acquisiti-n. A substan:ial portion acquired before 1967
+has accordingly been entered into the books at the pre-1967 foreign exchange
+rate of NRs 7.65 to USSI.  However, in light of the relatively high prices
+paid for this equipment, the present book values still appear realistic.
+The accumulated depreciation which amcunts to 38% of gross value is realistic.
+6.06      Cash and bank deposits totalling NRs 9 million, or akbout one
+and a half times fiscal year 1972 revenue, are substantial but temporary
+due to the delays in execution of the ongoing project which they will help
+finance. The accounts receivables position is now satisfactory with most
+accounts kept on a current basis.
+6.07      The long-term debt is mainly the disbursed portion of Credlt 166-NEP.
+The proceeds of t'is credit are being relent to NTB by the Government at
+6-1/2% and repayable over 19 years including five years of grace.
+Financing Plan
+6.08      Funds needed for the expsnsion of the telecommunications network
+in Nepal during the 1973-1979 period and the sources from which they would
+be met are summarized below. Forecasts of NTB's sources and uses of funds
+are given in Annex 17.
+
+
+
+- 18 -
+Years ending July 16:                         1973 - 1979
+Mill.ion
+NRs                      X
+USES
+NTB
+First Project                            28                    21
+Proposed Project                         83                    63
+-  Future Project                           10                     7
+Working Capital and Other                 2      123            2     93
+Indian Aid Project                                   9                   7
+TOTAL USES                                   132                  100
+SOURCES
+Internal Resourcos
+Tnternal Cash Generation                 65                    49
+Less:  Debt Service                      28       37          21      28
+Subscriber Deposits                                  6                   4
+Borrowing
+166-NEP                                  14                   11
+Pvopueed Credit                          58                   44
+Other                                     3       75            2     57
+Grants
+Government                                5                     4
+India                                     9      14                   11
+TOTAL SOLURCES                               132                  1UO
+Note: Totals may not add up due to roundings.
+6 .9      Of total requirements of funds, 28% would come fromi internal cash
+generatior., 4, from subscriber deposits, 57% from borrowings and 11% from
+grants.  The Covvrt:tne'. grant is an appropriation already made in the 1972/73
+budget for the first Project. The Indian grant is the value of plant which
+is being constructed h5  India as part of the first project and which will
+he handed over to the Government of Nepal after it has been commissioned.
+6.10      The financing plan is based on construction costs including cus-
+toms duties of 15!. on imported materials and an increase in telecommunica-
+tions tariffs to provide an increase in total revenues of about 15% on
+existing revenues effective July 1973. During negotietions the tariff
+structure and the amount and timing of the necessary increases in the
+telecommunications tariffs were agreed. During the ?roject period, tariffs
+will then only be red-iced after the agreement of IDA. Furthermore, since
+
+
+
+- 19 -
+the financing plan is based on NTB's cash position as of July 16, 1972, which
+was substantial (oaragraph 6.06), the Government confirmed durting negotiations
+that no fuinds had been transferred from NTB since July 1972 and also agreed
+riot to transfer funds during the construction period from NTB without submitti.g
+a financing plan acceptable to IDA.
+6. 11     The relending terms for the proceeds of the new credit have been
+assumed to be 20 years including five years of grace with an interest rate
+of 7-1/4%, equal to the present Bank lending rate. Recent loans by the
+Covernment to its agencies have ranged bt-tween 5% and 7-1/2%. The terms of
+the proposed reletiding agreement were agreed during negotiations.
+6.12      Since re'yenues from the project will start accruing only towards
+the end of the construction period, temporarv short-term finanice estimated
+at about NRs 2.0 million would be required in 1977, to be repaid in the
+following year.  During negotiations, the Government coafirmed that
+short-term finance will be made available to NTB as and when the need
+rrises.   -
+6.13       In view of the limitations imposed by the financing plan, no new
+wqorks outside of the project involving a capital expenditure exceeding
+NRs 10 million (USS1.0 million) will be undertaken during the period of
+execution of the project except after consultation with IDA.
+Future Finances
+6.14       Forecast Income statements and Balance Sheets for the fiscal year
+ending 1973 to 1Q80 are given in Annexes 15 and 16.  Notes and Assumptions
+are given in Annex 18. Salient features are shown below:
+Yea_  r._din _July 16:         1973  1974  1975  1Q76  1.77  1978  1979  19811
+'et Income (Loss)
+('JPs million)              (.8)    .4   1.0   2.2   1.5   1.9   4.1   7.6
+Operating Ratio (,)           106      87    80    71    73    72    67    6'
+Rate of Return (%)            neg.   3.2   5.2   7.7   6.8   6.7   8.6  11.4
+Debt/Capitalization (%)        14      25    32    43    48    49    49    48
+Carrent Ratio (times)         3.0    1.9   1.4   1.2   1.1   1.1   1.1   1.1
+6.15      Operating revenue is expected to increase on the average by 24'
+per annum mainly due to the growth of the network, but al,so due to the
+increase in tariffs in FY 1974; without tariff increases, the increase wouldl
+be 21.6% which results from the provision of a long distance network and
+a growth in subscribers connections of 19% per annum.  Performance indicators
+for expected revenue per subscriber over the 1974-1979 period are given in
+Annex 10. OperatinS; expenses (excluding depreciation) are projected to
+increase by about 16, per annulm. This would cover the cost of reasonable
+
+
+
+- 20 -
+additional staff requirements (paragraph 5.06) and other operating expenses
+arising otlt of expanded operations. The operating ratio would decrease from
+106%i in 1973 to 61%o in 1980 which would be satisfactory. NrTB is expected
+to continue to nake a loss in fiscal year 1Q73 but should operate profitably
+from 1974 onwards.
+6.16       D)ue partly to lelays in conpletin:g the first proect, the eaxistinR
+rate of returr covenauit (8Z by fiscal year evding July 1974) will not be met
+until 1979 even with the assun-ed tariff 4ncrease.  It is now proposed
+to require a rate of return of 5% in fiscal years 1975-1979 and 10% from
+fiscal year 1980. This was agreed during negotiations. Perfiormnce indicators
+showing the expected rates of return over the 1974-1979 periodi are shown in
+Annex 10.
+6.17       NTB's financial position is expected to be satisfactory during
+thie project period. At the end of 1979, the debt-capitalizatioi ratio would
+be 497; thiis would still leave a margin for future borrowing.  The current
+position is projected to be quite satisfactory through the whole period.
+6.18       The debt service covenant of the present agreement. wihich requires
+XTB to obtain IDA agreement before contracting new debt unless Ohe debt
+service coverage exceeds 1.5, will be repeated under the new credit.
+Fiscal   pt
+6.19       The fiscal tmpact of NTB's operations will be quite coisiderable
+and favorable. During the 1973-1980 period, as detAilled in Annex 19, the
+Government will receive \Rs 39 maillion resulting from N7.  F :   ODewirions.
+This amounts to abour twc times total Government investments in  ATB.  After
+1980, with the realization of econonicq of scale, and t'.e chans,c 'nA strutture
+of NTB's operati4ns, the fiscal impact should become even rx.rc f tv-)rabe.
+
+
+
+- 21 -
+VII.  RECOMMENDATIONS
+7.01       During the loan negotiations agreement was reachecd on the following
+principal points:
+(a)  In the event of NTB being converted into a corporation
+rules and articles pertaining to its onerations will
+be made available to IDA suffic'entlv in advance for
+comment prior to being brought into force (paragraph 2.07);
+(b)  Government will ensure that NTB will continue to adopt
+measures to improve the labor performance and productivity
+staneards of its employees (paragraph 5.06);
+(c)  Audit reports will be submitted within five months of the
+close of the fiscal year (paragraph 5.09);
+(d)  Tariffs will be established at a level adequate to meet
+the financing plan and will not be reduced during the
+constructior. period (paragrapih 6.10);
+(e)  Funds will only be transferred from NTB after IDA's approval
+(paragraph 6.10);
+(f)  The proceeds of the credit will be relent to NTB on terms
+and conditions satisfactory to IDA (par,.graph 6.11);
+(g)  No additional works outside of the ar,rced program involving
+a capital e.penditure exceeding NRs 10 tUSS1.0) miLllion
+will he undertaken during the project period *ithout the
+prior agreement of IDA (paragraph 6.13);
+(h)  NTB will maintain tariffs at a level adequate to assure
+a min&-num rate of return on average net telecommunications
+assets in service of 5Z in fiscal years 1975-1979 and of 10%
+thereafLer (paragraph 6.16); and
+(i)  No debt will be incurred except with the agreemenit of IDA
+unless historical 12 months' internal cash generaition would
+cover maximum future debt service at least 1.i times (para-
+graph 6.18).
+7.02       The proposed project constitutes a suitable basis for an IDA
+Credit of US$5.5 million.
+March 26, 1973
+
+
+
+ANNEX I
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Summary of the Law Establishing NTB
+General
+1.        The law that establishes and regulates NTB was enacted on
+October 17, 1969. NTB, which Is fully owned by the Government, is a cor-
+porate body and is entitled to acquire, own and dispose of movable and
+immovable property. NTB is responsible for the establishment, operation
+and extension of domestic as well as international telecommunications
+facilities within Nepal and/or any other functions or duties as specified
+by the Government. NTB may, with the approval of the Government, frame
+necessary rules for the discharge of its functions, duties and the use of
+its authorities. The Government can issue orders and rules from time to
+time in matters relating to the functions *f the Board.
+Finance
+2.        The fund of NTB shall consist of the following and its expenditure
+shall be met out of this fund: (a) money received from Government; (b) con-
+tributions from fore,ign agencies received through Government; (c) revenue
+earned out of the services rendered by NTB; and (d) miscellaneous income of
+NTB.
+3.       .NTB shall deposit its fund with the Rastra Bank and its branches
+where'ier available and, in places-where there is nio Rastra Bank, it shall
+deposit its fund in such banks as decided by NTB. Any surplus funds after
+providing for all expenses and necessary reserves for the next year have
+to be transferred to the Government at the end of each fiscal year.
+Accounts and Audit
+4.        NTB shall maintain its accounts of incomes and expenditures in
+such form as approved by His Majesty's Government. NTB's accounts shall
+be audited by an independent firm of auditors appointed by NTB.
+Employment
+5.        NTB may hire the staff needed to conduct its functions in accord-
+ance with the principles and procedure approved by the Public Service Com-
+mission.  NTB call employ expatriates or personnel from foreign agencies.
+February 28, 1973
+
+
+
+AI"IEX 2
+I  .I
+I
+.f D 
+if
+I~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ I'               ;
+
+
+
+ANNEX 3
+Page 1
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Basic Data
+July 1972          July 1979
+Actual            Forecast
+(I)  Local Telephone
+Numbor of telephone stations                  6,750              23,000
+Number of subscriber connections              4,563              17,400
+Annual growth in subscriber
+connections (last 3 years)                     -        20%
+Expected growth in subscriber
+connections                                    -        19%
+Number of telephone exchange
+- Total                                          7                  25
+- Automatic                                      2                  15
+- Manual                                         5                  10
+Installed capacity - Total                    5,450             20,400
+- Automatic              5,000              19,400
+- Manual                   450               1,000
+ExchanSe fill                                   84%                 85%
+Unsatisfied demand for subscriber
+connections
+- Total                                      1,970                 960
+- As a percentage of satisfied demand          43%                  6%
+- As a percentage of total demand              30%                  5%
+(II)  Long Distance Telephone
+Number of long distance circuits                  8                 220
+Total c.rcuit miles                             320              14,000
+(III)  Telegraph and Telex
+HF radio stations                                78                  70
+Public teleprinter circuits                     -                     8
+Telex subscribers                                13                  80
+
+
+
+ANNEX 3
+Page 2
+July 1972          July 1979
+Actual            Forecast
+(IV) International
+Telephone circuits
+(a)  Lanolitne and microwave                    6                 20
+(b)  HF radio                                   3                  7
+Telegraph circuits
+(a)  L.andline and microwave                    2                  6
+(b)  HF radio                                   4                  4
+Telex circuits
+(a)  Landltne and microwave                     1                  6
+(b)  HF radio                                   1                  3
+Leased circuits                                  2                 10
+(V) Staff
+Total Staff                                    999              1,480
+Telephone staff                                540              1,010
+Staff per 1,000 subscriber connections         118                 58
+Staff per 1,000 telephones                      80                 44
+February 28, 1973
+
+
+
+ANNEX 4
+Page 1
+NEPAL
+No.PAL TELECOMMUNICATIONS BOARD (NTB)
+APPIATSAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Existing Facilities and Ongoing Works
+(a) Local Telephone Facilities
+1.   The only local telephone exchanges at present in operation
+are as follows:
+Kathmandu Central       ARF Crossbar       4,490 lines
+Patan                   ARF Crossbar         600 lines
+Biratnagar              CB Manual            400 lines
+Hitaura                 Magneto                20 lines
+Bhainsee                Magneto                10 lines
+Amlekgunj               Magneto                10 liros
+Simra                   Magneto               10 lines
+TOTAL                      5,450 lines
+2.   There are 4,563 working exchange lines giving an exchange
+fill of 84%.  The total number of teleplhones in service
+is 6,750.
+3.   In the subscriber's distribution network wide use is made
+of armored cable laid direct in the grouni and cables in
+conduits are restricted to certain main sections. Paper
+insulated and lead sheathed cable is generally utilized.
+Aerial cable is used in outlying and rural districts and
+is now generally of the plastic insulated and sheated self
+supporting type.  Cross connection cabinets are used as
+appropriate to give flexibility. Open wire is utilized for
+the longer subscribers lines and PVC drop wire in other cases.
+4.   Modern types of subscribers instruments provided by NTB have
+been installed since 1970. Prior to tlat subscribers pur-
+chased their own instruments and some difficulty resultq on
+occasion due to the inadequate transmission offered by
+certain of these instruments. The majority of PBXs are at
+present privately owned; however, to achieve standardiza-
+tion, improve transmission and obtain revenue advantages,
+NTB intends progressively to offer PBS services on a rented
+basis.
+
+
+
+ANNEX 4
+Page 2
+5.   The exchanges, associated distribution network and suab-
+scribers apparatus are generally well maintained. Over
+loading problems exist in one section of Kathmandu exchange
+and on the Singha Durbar PABX. Some redistribution of
+subscribers is being uncertaken in Kathmandu e :change but
+final correction of the present problems must await the
+installation of additional equiprmient.
+(b)  Lons Distance Telephone Facilities
+The only existing long distance telephone facilities are
+provided over the landline route to India which, besides
+providing for International facilities, makes some provision
+for domestic long distance traffic. The facilities availa-
+ble are provided over 3 - 242 lbs per mile copperweld pairs
+on steel pcles and are as follows:
+Bhainsee        1       Physical pair in either direction
+11itaura        1       Physical pair in either direction
+plus tlhree carrier channels
+Amlekgunj       1       Physical pair in either direction
+Simra           1       Physical pair in either direction
+In all eight circuits are in use with a total circuit
+mileage of 320. Service is unreliable and tends to be
+interrupted for considerable period during the monscon
+season due to landslides and flooding. Point to poin.-
+telephone calls can also be made by means of the HF radio
+network on a simplex basis between Kathniandu and the
+outlying stations.
+(c) Domestic Telegraph Facilities
+Some 87 telegraph offices are In operation witha service
+provided on a telephone/telegram basis over the HF, point
+to toint radio network or a few sections of landline - one
+master, thirteen area control and 65 dependent stations
+compise the HF SSB network. Miaster control is at Kathmandu
+wit1, area controls at Biratnagar, Ilan, Okhaldhunga.,
+Jalesware, :;itaura, Bhairawa, Pokhara, Baglung, Dang, Jtuila,
+Nepalgunj, Mahendranagar and Dhangarl.  The equipment cor.-
+sis.ts of 100 W SSB trars.eceivers for intermittent operation
+with power supplied from 1.2 KW motor alternators.
+
+
+
+ANNEX 4
+Page 3
+(d) International Facilities
+The primary routing is over the landline to India with
+an eight channel carrier system and a six channel VF
+telegr.Lph system both of which terminate at Patna. These
+provide three speech circuit Kathmandu - Delhi; three
+speech circuit Kathmandu - Calcutta; one telegraph channel
+to Delhi; and one telegraph channel to Calcutta. A separate
+landline carrying one physical speech circuit links Biratnagar
+and Jobgani. Other facilities available over HF radio are:
+I speech circuit Kathmandu - Delhi
+1 speech circuit Kathmandu - Calcutta
+1 speech circuit Kathmandu - Bombay
+Speech circuit schedules to Rawalpindi and Dacca
+I teleprinter circuit Kathrmandu - Delhi
+1 teleprinter circuit Kathmandu - Calcutta
+i teleprinte.- and 1 telex circuit Kathmandu - Bombay
+Teleprinter schedules to Rawalpindi and Dacca
+i telex and I PW channel to hlong Kong.
+These services are provided by means of:
+2-1 hV SSB transmitters usea for telephone services
+3-1 KW SSB transmitters used for telegraph services
+1-10 kV ISB transmitter used for telephone and
+telegraph services but now 15 years old and
+unreliable
+1-5 KW1 ISB transmitter used for telephone services
+7-ISB/SSB receivers
+4 HF radio terminals
+4 channels ARQ equipment
+International telephone facilities are terminated on
+a temporary 3 position sleeve control boarcl at
+Kathmandu (as also are the existing internal long
+distance services over the Indian land line). In-
+ternational telex services terminate on a 30 lines
+concentrator at Kathmandu. Public telegraph circuits
+terminate on teleprinters in the Central Telegraph
+Office.
+(e) Ongoing Works
+Works still to be completed under the ongoing project
+with likely dates for completion are:
+
+
+
+ANNEX 4
+Page 4
+(i) Indian Grant
+Birgunj 300 line Pentaconta Exchange
+and Distribution Network with land-
+line circuits to Kathmandu               December 1972
+Kathmandu 6 position International
+Switchboard                              December 1972
+Kathmandu 4 position Trunk Switchboard  December 1972
+(ii)  Indian Grant
+Biratnagar 1,300 line Pentaconta Ex-
+change and Distribution Network          December 1974
+Janakpur 200 line CB Kanual Exchange
+and Distribution Network                July 1974
+Jhapa 100 line Pentaconta Exchange
+and Distribution Ne-.work                September 1974
+(iii)  NTB Financed
+Patan 400 line ARF extension               June 1974
+Kathmandu 1t000 line ARF extension
+(400 lines completed)                   December 1972
+Birgunj 700 line Pentaconta extension   December 1973
+(iv)  IDA Financed
+Hitaura 200 line CB manual exchange
+ar.d Distribution Network               February 1973
+Pokhara 15.0 line CB manual exchange
+and Distribution Network                February 1973
+Bhairawa 100 line CB manual exchange
+and Distribution Network                 June 1973
+Nepalgani 200 line CB manual exchange
+and Distribution Network                 August 1973
+Rajbiraj 100 line CB manual exchange
+and Distribution Network                 October 1973
+Malangwa 50 line CB manual exchange
+and Distribution Network                June 1973
+Dharan 400 Automatic Exchange and
+DiLrribution Network                     December 1974
+Micrnwave system Kathmaadu - Pokhara)
+)   September 1974
+Kathmandu Pulchowki - Birgunj)
+Microwave system Pulchowki - Biratnagar December 1974
+These systems will provide 70 telephone circuits with a
+circuit "'ileage of 4,000.
+
+
+
+"W ..                                                                                                                                                                                              1 3i,                                                                                                       Li             51~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~4!~.
+414,  .n.*cw~~~~~~~~~~~.:  A.. f.~~~1517
+b                                                                                                                                                                                                                                                                                                                     Id.~~~~~~~~~~~~~~~~~~~~~~~~~
+-   ~~~   ~ ~ ~   -   ______________                                  1~~~~~~~~~~~~~"   --         ~       ~       ~      ~      ~                                     7                                       *'~~~~~'h           ~          ~         ~                                      T44~~~~1~~~'''~~~,k0
+
+
+
+ANNEX 6
+Page 1
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Project Works
+1.   LOCAL EXCHANGE AND NETWORK
+Estimated In-
+Service Dates     Capacity
+(a)  Automatic Exchanges
+(i) New Exchanges
+Kathmandu Suburban                December 1977        5,000
+Bhaktapur                         March 1978              200
+Banepa                            September 1978           50
+Bttwal                            September 1977          200
+Bharatpur                         December 1977           100
+TOTAL                                          5,550
+(ii) Trailer Exchanges
+Kathmandu Central                 December 19714        1,000
+Kathmandu Suburban                March 1975
+(Later used to ^xtend Patan           1978)            800
+TOTAJ. 1800
+(iii) Additional Capacity in Existing
+Automatic Exchanges
+hiratnagar                        December 1978           700
+Dharan                            September 1978          400
+TOTAL                                          1,100
+Biratnagar was provided under Indian aid: Dharan will
+be retendered and will in part be financed under
+Credit 166-NEP. Extension purchase should, it is
+proposed, be negotiated with the original suppliers.
+
+
+
+ANNEX 6
+Page 2
+(iv) Conversion of existing manual exchanges at
+the same time providing additional capacity
+Size of New
+Estimated in      Size of Manual       Automatic     Added
+Service Dates    Exchange Replaced    Exchange        Capacity
+Pokhara       September 19.9            150                500          350
+Janakpur      March 1979                200                400          200
+Bhairawa      September 1978            100                400         300
+Nepalgunj     December 1978             200                500          300
+Hitaura        tarch 1977               200                500          300
+TOTAL                                 850              2,300       j,450
+(b)  Manual Exchanges - an additional four exchanges
+and three extensions
+Exchange
+Estimated In-     hew Exchange                    Estimated        Extensions
+service Dates        Capacity                  Completion Dates    Capacity
+Surkhet Sept. 1977        100         Rajbiraj     December 1978
+Dhankuta Sept. 1977       '00        Malanguwa    December 1978
+Tansen Dec. 1978          100         Jhapa        March 1979
+Sirahwa Dec. 1979          10
+(c)  Additional cable, wire, fittings and subscribers'
+apparatus and PBX's to connect an additional
+8,373 subscribers during the project period and a
+total of 10,000 stations.
+(d) A 600 line PABX for Government IIQ.
+2.  LONG DISTANCE
+Estimated
+Completion Dates
+(a)  Stand-by equipment on the existing Pulchowki -
+Biratnagar and Pulochowki - Birgunj microwave
+systems                                                March 1975
+(b)  Additional multiplex equipment on the above
+systems to provide 72 additional circuits
+ot about 5,664 circuit miles total                     March 1975
+(c)  lwelve additional VF telegraph circuits on
+the above system                                       Manr   475
+These systems were purchased through international
+tender under Loan 166-NEP. It is proposed that
+purchase of the additional equipment should be
+negotiated with the original supplier.
+
+
+
+ANNEX 6
+Page 3
+Estimated
+Comp'etion Dates
+(d) New neicrowave systems:
+Pulchowki - Bhairawa                               July 1977
+Bhairawa - Nepalgunj                               July 1977
+(e)  Multiplex equipment for the above to provide
+a total of 24 speech circuits of about 2,736
+circuit miles and six VF telegraph channels             July 1977
+(f) Four dupLeA HF links to Mahendranagar,
+Dhangari Jumla and Okhaldhunga                          December 1978
+(g)  Trunk switching equipment to provide the
+following capacities:
+Total
+Exchange           Terminating Capacity
+Kathmandu                  150 )
+Pokhara                     12 )
+Biratnagar                  48 )                   December 1976
+Janikpur                    12 )
+B3hairawa                   12 )
+Nep.lgunj                   12 )
+(h) Additional line wire and route material to
+provide six circuits to rural exchanges having
+a total distance if about 90 circuit miles,
+together with 4 VHF systems and 2 open wire             Phased
+carrier systems providing 48 circuits of about          over
+1,520 circuit miles total                               Program
+3.   TELEGRAPHS
+(a) A manual telex exchange with terminations for
+50 local and 30 long distance subscribers               December 1976
+(b) Ninety teleprinters for additional teles
+subscribers, the public service and leased
+circuits                                                Various
+
+
+
+ANNEX 6
+Page 4
+Estimated
+Completion Dates
+4.   tNTERNATI0NAL
+(a) Additional Multiplex and VF Telegraph
+Equipment tor international services
+(24 Speech and 6 Telegraph)                             March 1973
+(b) A 10 KW ISB Transmitter Associated Receivers
+Terminals and Lincompex Equipment                       March 1976
+5.   MISCELLANEOUS
+A new headquarters building in Kathmandu,
+vehicles and training and testing equipment             December 1976
+February 28, 1973
+
+
+
+ANNEX 7
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+estimated Schedule of Disbursements
+IBRD Fiscal Year                Cumulative Disbursement
+and Quarter                      at End of Quarter
+(US$000)
+1973/74
+December 31, 1973                          120
+March 31, 1974                             150
+June 30, 1974                               190
+1574/75
+September 30, 1974                         220
+Decembe.: 31, 1974                         630
+March 31. 1975                             810
+June 30, 1975                            1,040
+1975/76
+September 30, 1975                       1,410
+December 31, 1975                        1,730
+March 31, 1976                           2,200
+June 30, 1976                            2,650
+1976/77
+September 30, 1976                       3,040
+December 31, 1976                        3,480
+March 3:, 1977                           3,730
+June 30, ;977                            3,980
+1977/78
+September 30, 1977                       4,150
+December 31, 1977                        4,480
+March 31, 1978                           4,750
+June 30, 1978                            4,900
+1978/79
+September 30, 1978                       5,040
+December 31, 1978                        5,220
+March 31, 1979                           5,400
+June 30, 1979                            5,500
+Notes: These figures are based on: negotiation of
+contracts with previous suppliers US$0.5 million;
+a likely effective date of July 1973 for the
+proposed Credit; estimated lead times for
+placing orders and for deliveries based on
+recent experience; and the expected work pro-
+gram and estimates of the time for processing
+payment documents.
+Disbursements are expected to end June 30, 1979.
+March 19, 1973
+
+
+
+NUAL
+NEPAL TELEM00OM4    TICA N10NS BOARD (WrB)
+Forecast of Domd for Subscriber Connection.
+Estimated Demand
+Actual Daand in Areas already          in Areas to bei                                            4and
+Served-July 1972              Served-July 1973                           Fercast Dem&nd  -         '                          Mt (i)
+Population 1/  Capacity   Subscriber   Wtiting              Per 100  Per 1007
+?A rJnd           l v.i; 1-97& 7    J 1 72  Co. Li t                   1 T,    0D-  Po.,                                1                          9!.Z  7  8'9 9            1 O7k      93
+67,000           600          540          230     770    1.2          *          -          8:       'J70   .,'7'.   1^    !,,300   ;,430    ;,570        I,'-0      1
+143,000            -        2                 i       3       e        295                            105      115      13       140     150       165       180       3
+J                 t  OOO18,000      10             -           -        _       _        5        45            500      550     600      6f,      730      800       880       970     97
+P22R2ng              400                           -                                   1.S          6             6        6       9        9        9       12        12       12      83
+i!ree             9w0            10            2            -        -      -                                  6       6                 I'       e       9        10        11     91
+i,-ta~rai         16,000            20           13                                    1 -  i.                  260     290      220      35i      33r     430       470       '2'     88
+1,700            10            2                    -       -        .2         4              4       5        E        7       8        9        10        11     91
+400            10            6                                   1-  .        6             6        6        9        9       9       12        12        12     83
+Y.slangwa          9,000              -                                         -                  '5            50       55       60      66       73       Sc        88        97     93
+draha              6,000             -            -            _               -        .2        12            13       14       15       17       19      21        23        25     20
+lSnakpur          20,000                                                       -       1 .       200            27)    c4.o      2-;0     290      320     350       390       430      72i
+iPs' t  ra,j      12,000              -           -            -        -      -       1.0        1 '0          130      140      150     170      190      210      230       25D      68
+Biratnagar        72,000           400          400          4140     0    1.2          -          -           96      ,060 ,0   1,170   1,290   1,420   1,563    1,710    1,880       90
+' n ran           31,000              -           -                           1-                  465           510      560     620      680      750      820       900      990      71
+Bhalrapur         12,000                                                               1.0        120           130      140      150     170      190     210       230       250      64
+P Akhara          20,000                                                              21.0         00           220      240      260     290      320      350       390      430      79
+Hh,iraerr         17,000              -           -            -        -      -       1.0        170           190      210      130     250      270      300       330      360      75
+N'eapganij        22,030              -           -                                    1.0        JP0           240      260     290      320      350      390      430       470      74"
+5sutWa1           14,000                          -                     -              1.0        140           15$      170      ;30     210      230      250      280       300      60
+Bhark-pu;r         7,000              -           -                                                70            80       90      100     110      1.0      130       140      150      47
+2aflepa            7,000              -           -            -        -      -       1.0         TO            eO       e5       95     105      :15      125      140       155      26
+Si:rkhet           3,000             -            _                     -      -       1 0         30            35       40      45       50       55       60       65        70      71
+Dhankuta           3,000              -                                        -         5         45            50       55      60       70       30       90      100       110      45
+Tar.sen             7,-                                                                1.0      __               80       90      1X0     110      120      13       140       150      2
+-,)"AL       071O                                     1970   6 510                    ?    ,7714       1,3    11,377 1253   13,OO  15,10S  16,708   1,3375   20,19S ,
+I/ ^ased on proJection of lQ61 eers,s wid revised figi,re, wvheT-e nv;  2.!.
+D' 2erand  -,r ;;bbscr:.er               pe,ecttona p.r 100 popuwiaAn is   "2. 2.- ;
+experteric, in 'ther l,-ss developed countries.
+3.' ':otal lemani f,r sibscriber connections is arrivel it by m'.Itiply'.!i.. the
+p,p,llation V':uri. with the figure for demand per 100 po,illt ion.
+.' Basd    i0, 10lO  enn.sl growth on 1972.
+5/ Based e-, the propoeed construction program.
+Jamnary 9, 1971
+
+
+
+A.  f J~.1y 1t:                1Q'                                    17                                                                           17
+As   tr July 16    gXChtf    SubScrIbe r  iL.R.neh   SubscrIber                                                       cb&W    Smb.er
+Er-.                            :.p.cIty  ConhtectIsos  Eute,,.lons   C.pic1ty  Cofinectiu.t  EttensimLs   cap.clty  Cormectu.  btoilns   C..Lty   Cooo.etlom.
+I','r.1                      A Ii.O          9,600)                 A 5.000        42 )                   A5,000           ,700  )               A5,000         5.300
+-      e     r-rlE _) 2.139           -              )      2,UtW                         -)      286Q       T1l000              -)
+*   b                                              .3bt  _                   .            - )                                   -  )                            -         )
+Puatn                           A   600          54.0J                A   600          570                   A1,000           680                  A1,000            760
+shBi-P -w                                                                                       -     .                                - .
+-. r   js                      it   10             _            _     A   300          26(           *0      A1,O00           b50           50     A1.000            500
+Y  . .,a '                                                      _           10           L                   K "    10          6            _           10            8
+K    10            2            -           10            L           _      N    10            6            -     i    10             8
+N  M              1                  K   200            80          10      K   200          160           15      K   200          t80
+A:K-wu  M    10 3     J               Ntt   10            4                  i    10            6            -     K    10             a
+r                t 10  6  -          K    10            8                                     I10                       10           10
+!it, t STYS  -  -         -     K    50           30            5      N    50           40           10     n    50            50
+J.n-Krup-                                                       -                        -            -      t   200          100           10     K   200           120
+'-tbir-:  _  _K_  _      _        IO 100          60           10    IK 100              so
+N    0 -r  t8                         K   400           i0           60      N   400 k00                    70     A1,300            800
+h-t          _            _            -           _            _-_                       _            _     A   400           180
+OAsp. th.4r.pur                       -           _            _                         _            _            _            _           _ .    K    100          60
+-.ear       -      U   150           60           60     N   150            80           60     F   150          100
+hh--                                  -            -            - _1   100               30          10      K   100           60           20     N   1OO            80
+5e;.14scJ                             _            _            ,            _           ,            _      i   200           60           10     K   200            so
+5.460       ?,1           ,197        6.4          5,650        2.565        8,660       6,81,        2,830       10,86.0       B. 324
+P-ir,.. Y.., (6t               -            -                25. 3        23.8        173          23.6         20.7         12.8         26.6         22.1
+Fxt  '.1VU             lt~    8t.6                                   82.6                                  80. 8                                  76.8
+A .                                               9)  9                                 88                                     8.3                                    90
+= -t oc  .,,rc1   -oh-44,~ uf trl-ler tYPe I.oblle); Mn
+-t iniateY  ma, eebn
+Jau..7r 10, 1913
+
+
+
+AsTI0  $MD (UT)
+MYi. SaWmribe Cam.ctl_ md kttrton T. Se
+.                                    blag        hIc,b5SCI r  rn   Sebgc r  rxch.we  Sab.c,iber                   !cbe. 3ubcroi=er                     xh g   SAbscrIb,?
+IL      a.t   Cr wetlonc br.slrs   Cltc                CeCtiomlmuL                Cw7cltr  C-eire  elnis   C'tendaw C&Dnel^   c!  t                       n  CAP--ltY  ceCt&on UE.ir.
+A 5,000       6,000                  A S000        6.800                  A  5,000  )  7,400  )                A 5,000  )   8,600  )                 A 5,Oc0        9,900
+0w     T 1.000)                 3 3,200    T11,OO)                 3   3,520      T ,IO    )             )    3,770    TS1  C     I           )   4,150       71S,o,000                  4,570
+S800 )B o80D                                                )              A S00)                )              A 5.00 )               )A50
+A1,000          0 ee                 A 1,000          930 D               AT 1,800        1,150  )             AT 1,800        1,200  )              AT 1,800        1,Ino           -
+_           .           .            .           .           -                   .                  .     A   200          140           I      A   200         1S 
+60    A 1,000          580           70     A 1,000          650          80      A 1,000         730°           O     A1,000           80           100     A 1,000          4.0         120
+# U    10         10           ..   M    10            10           -      M    10           10           .     M    10           10                  N M   o           10           -
+K        0    10           10                10           1                         0 10   10                           10           10No10                                 0
+e8    K200            200           20    A   500           300          30     A5SO             350           35     A   500          400          10      AS500           460           50
+10    10            .          10          10                  N x   10          12                  N    10           10           *     N    .0           10           -
+*    10          10                         o 1D       10           -      N    10           10                 N    10           10            -     N    I0          1            -
+12    N    50           50           12     N    50           50          32           50          50           12     N   150           75          15     M   150           90           15
+_                        *            *           _            _           *     M -  -  -  -  N    10
+15    If  200          150           16    M   200          180           o      N   200          200          20      A    .00        280           30     A    00          320           35
+12    N   100           90           12     N   10           100          15 Ns  100              100           15     M   300          150          20     N   300          170          .5
+80    A 1,C0           960          100     A 1,300        1,150         120     A 1,300        1,300          130     A 2,000        1,500         150      A 2,0O0       1,700          17)
+20    A   1.00         380           10    A   10            10           to     A 400            400           60     A   8C0          600          70      A   800         700           75
+10    N   100           80          10    I   100            90           10     M   100          100           10     N   200          140          15     N   200          160          20
+80    I   150          120           90     N   150          140         100     N   150          150          150     A   500          300         160     A   500          340         200
+30    K100              90           30    M   100          1100          30     N   100          100          50      A   4.00        250           60     A   100          270          ?o
+15    N   200          120          20      N   200         170           25     N   200          200           13     A   500          1°0          35     A 500           310            10
+-                                                       .s  1 A 200      120          12     A   200          160           20     A 20             180 IS
+_ -  .                  _     M -  100          50            5     A   100           60           10     A   100                       12
+*  -                                 -                                    ~     ~     ~~~~~~~                 ~~~~~~~~~~                           ~~~~~~~~~~~~-  -    A    50  30  5  A    50  W1  5
+*  -  -                                   -                 8~~~ ~~~~                      ~~~~~~~                ~~~~ ~~~~100,  30  5   8100  1.0  5   8100  5c
+*  -  *  -  -     8100              30           5     8100         4     0            5     8100              50
+_ _          _           _                 -       _                -           *       .           _          N   10_           30                      1go           30           5
+252     11,640       9,7X0        3,620       11,540      10,700        I.,010     17,440       12,500       4,399       20,440      15,175        1,900      20,450       17,415       S,l,S
+.2.3       7.1A        16.5         II.3         a.          10.3        10.8        46.2         16.8          9.7        37.2         21.4        11.4            -        14.7         :4.9
+e3.3                                 9 .9                                  71.8                                 71.2                                  85.B
+89                                   91                                   91.                                   96                                    91.
+
+
+
+ANNEX 10
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECO'iD TELFCOMMUNICATIONS PROJECT
+Performance Indicators
+1.        A set of four indicators which will help monitor NTB's performancr
+has becu established. NTB should agree to report semi-annually on actual
+achievements related to the performance indicators. At the end of the fisr:li
+year, NTB should also report on the expected achievements for the next ftisc.;
+year.
+2.        Performance Indicators:
+Year ending July 16:          1974    1975    1976    1977    1978    1979
+Telephone Subscribers
+Added - Net (number)          1,168   1,508   1,374   1,000   1.800   2,625
+Employees (number)              1,200   1,300   1,300   1,375   1,450   1,4W)
+Telephone Revenue per
+Subscriber (NRsj              1,172   1,331   1,552   1,607   1,665   1,719
+lRate of Return (%)              3.2      5.2      7.7     6.8      6.7      8.6
+March 19, 1973
+
+
+
+.........3Q  .......       b 
+. . . .. . . . . . . . . . . ..   -I
+. .ts .N^@ . . .       . . . .|
+sLS -1                                      2 
+z t   I ^ f  c.  
+,                                           
+r                                     t    .   ... }   
+.     1¢  ;    #* ,  NC  Qf  *ge.  u*  
+V ,                   
+
+
+
+AI.NNA 1 1
+L ~~~.KGUJECM3~~~~~ I~~fl                             ~A                                                                        EX )
+* 7,Wk b.. A            ..rit ?.t
+S"ertb    (thWA.   (tbrAb                 mcils       (th. 2d   (thoW.    6-.1 (d eic          th-urnt    (towA    ^erio ra   (thwu    (th-WdaX                 7 Tfftc    Groulas4  p,o2 *o-,*  Rqulr_t.
+!|~~~~~~~~~~~~Et                                                                    f r da 4., ot dcute*}                  f d51uMz) 2!.    AEO                              AL3rl) 
+250         le1          290               325          36           3             375         272          4.3          *30           312          4.99       *.5          ?           .5         12
+50          10           36                5           36            Ss            62          45           72           82            59           94.         9          3
+163         120          2                 19          136           331           2160        17           61T3 hi0                   213         S323         3.1        (3)        *.0          11
+193          769        2,79                100          73           219           123         91           273          160           116         361         1.7         P.
+3905        78         269               1.22m         8N8         2.66r         1,600 1,313              3."          i.600         1,160        3,Ulo       16.7         (6)        27.3         41
+83          203          m8               '00          290           870           500         363        1,2O9          690           471       1,613         6.8          6
+aS          6X7         186                95          69           207           120          87          261         1*0            109          327        1.6          6
+130          95          226               165         103           352           225         163          391          320           232          53         3.3         (5)         3.3          9
+9f          43          103               10          173S          17            175         127          303          260           189          3.         2.7         (6)         5. S3
+165          65          19S               V35         136           602           250         131          563          325           236          726        3.0         (7)         3.9         10
+60         22            53           160         102           245         170           123          295         1.8         6
+- -               25           9           22            55          60            96          63            67          U3           .7         6
+*  .         15          11             4.         60            29           12          .         (8)          .4           2
+.           -                  135         8            24            35          25           75           45            33           99          .5         7
+1i          8            19            35          23           60           65            33           79           5         6
+*  .           -            ~~      ~    ~      ~     ~~     ~~13  8  1 9  130   2            53          .3         6
+-           '            '0 o                                        646           40          29           66           *5            33           53 3        4          1
+-.-o--  ........9.     ~                    . _*6  _.-                             70          51           20          145           lOS           4.3       L5          (9)         1.5 
+3.U'                     %,'1              3,660                     6,920         6,662                    8,763        5.752                     0o,637                              60.1         125
+T..;,*9t0                                                                          9.175                                10.550
+10,200                                     11.60X                                  13.837                                16.3o2
+117                                         110                                    169
+5,930                                       7.030                                   ,8669                                10.790
+381                                        606                                     641                                    662
+
+
+
+AN"N9X 12
+Page 1
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Rate of Return
+Project Period
+1.        The rate of return calculations are ba5ed on costs and revenues
+in the 24-year period beginning in 1974 and ending in 1997. This corresponds
+to an estimated average project lifetime of 20 years, commencing in 1978,
+v.?hen on average the equipment will be put into operation. The increments
+dtue to the project to number of staff, gross value of plant in operation
+and number of subscriber connections which have been estimated for each
+year in this period are listed on page 3 of this Annex, together with the
+costs and benefits resulting from these incrimental changes.
+Revenues
+2.        All revenue estimates are based on the tariff with the amendments
+agreed during negotiation. The number of subscriber connections made
+Possible each year by the project has been obtained fror Annex 9. The
+deposit of NRs 500 required for a subscriber connection is treated as a
+revenue when paid and as a cost when repaid at the end of the period. RentL.s
+and call charges are based on present averages for local service (NRs 700)
+and projected averages for trunk service (Annex 11). For telex and leased
+circuits, the incremental revenue from 1974 has been attributed to the
+project. No telegraph revenue has been attributed to the project.
+'.osts
+3.        The additional  vaff necessary because of the project has been
+estimated from NT3's deta,,ed staffing plans.  From 1981 through 1986, a
+portion of existing staff has been allocated to the project.  Staffing cosLs
+r,ave been arrived at by multiplying additional staff by the average salary
+including provision for pension.
+e.        Expenses for spare materials, services, etc. have been estimated
+to 2.5% of average incremental gross value of plant in operation net of
+duties.
+Project expenditures excluding contingencies and duties have
+been obtained from Annex 5. The residual value of the project after 20
+years (in 1997) is estimated at NRs 8 million which is mainly the copper
+value of cables.
+
+
+
+ANNEX 12
+Page  2
+Rate of Return
+6.        The rate of return is 20%, which is the discount rate which equates
+the present worth of the project's costs and attributed revenues.
+Sensitivity Analysis
+7.        A sensitivity analysis was made by varying the main parameters
+to their extremes (the probability of such an event is close to zero) giving
+the following results:
+Rate of Return
+Case                      Description
+A    15% increase in construction cost and revenue slip /1             16
+B    25% increase in operation cost                                    19
+C    25% increase in revenues                                          25
+D    25% decrease in revenues                                          14
+E    10% increase in construction cost,
+10% increase in operation cost, and
+10% decrease in revenues                                         16
+/1   The construction period will be increased by two years, the construction
+expenditure increased by 15% which is allocated over year 1980 and 1981
+and benefits will be delayed by two years.
+March 19, 1973
+
+
+
+rJF2AL
+NEPAL TFLECOMMUNICATIONS BOARD (NTB)
+Incremental Costs and Revenues Attributable to the Project
+(1)    (2)    (3)    (4)    (5)    (6)    (7)    (8)    (9)    (1o)  (13)   (24)
+Year ending July 16       I974   1975   1976   1977   1978   1979   1980   1981   1982   1983   1q86   1997
+PPROJECT 7;CREMENTS
+Plant Commissi-nel
+- Diring the year           (NRs million)    -   1.32   7.05  16.52  18.29  12.81   7.95   2.72             -       -       -      -
+- Total, Ehd of Year                          -   1.32   3.37  214.89  43.18  55.99  63.9L  66.66  66.66  66.66  66.66  66.66
+Oper3tinr' Costs (-xcl. DeDrec.) "-    .02    .12    .42    .85   1.24   1.50   1.63   1.67   1.67   1. 67   1.67
+Ehployees                     (Number)        4       h       4     69    140    177    177    187    198    205    231    231
+Cost per Employee               (NRs)    3,219  3,380  3,549  3,726  3,912  4,109  !,314  4,314  4,1314  4,314  4,314  4,314
+Cost of BInployees          (NRs million)  .13    .13    .14    .25    .55    .73    .?6    .80    .85    .88    .99    .99
+Subscriber Connections
+- Ehd of Year                 (Number)      190    841  i,520  2,190  3,770  6,445  8,685  9,295  9,755  9,795  9,825  9,825
+- Increase                                  190    650    780    570  1,580  2,675  2,210         610      60)    40       10      -
+- Average                                    95    51.5  1,230  1,905  2,980  5,107  7,565  8,990  9,525  9,775  9,815  9,815
+Installation and Deposits (NRs million)  .13    .46    .55    .40   1.11   1.87   1.57            .43    .32    .03    .01  -L.91
+Rentals and Call Charges          IF        .11    .66   1.87   3.02   4.87   8.58  13.05  15.61  16.54  16.97  17.04  17.04
+Other Revenue                      "          -    .18   .J8    .73   1.28   1.48   1.38   1.90   1.90   1.90   1.90   1.90
+COSTS AND REV>IJES
+Capital Cost                (NRs milliDn) 2.53  11. 64  21.53  15.00  10.52   :.39           -       -      -       -       -       -
+Operating Cost                     ,,       .13    .15    .26    .67   1.4±0   1.97   2.26   2.L3   2.52   2.52   2.66   2.66
+Residual Value less Deposits    "             -           -       -      -       -       -          -       -       -       -   3.09
+Jperatirig Revenuce                          .24   1.3c,  Ž.90   4.15   7.26  11.93  1'.5)  17.94  18.76  18.90  13.95  18.94
+'a% 
+Marc!± 1Q. 19'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                    -~~~~. 
+
+
+
+ANNEX 13
+NEPAL
+NEPAL TELECOMMJNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Proposed Terms of Reference for Consultants
+1.        The present budgetary control procedures and expenditure accounting
+systems of NTB are maintained in the form prescribed for a department of
+Government. The prime accounting records produced-thereunder do not lend
+themselves to direct integration into a commercial accounting structure and,
+furthermore, cannot provide essential management control information.
+2.        The consultants will be required to:
+(a) examine the existing budgetary control procedures of
+NTB and recommend a system suitable to the specific
+needs of NTB having regard for the commercial accounting
+standards required of NTB, and w-th particular reference
+to the provision of effective management control;
+(b) examine the system of accounting for total expenditure
+-and recommend a system that will provide for the
+production of both regular, fully integrated, manage-
+ment accounts and statutory financial accounts. The
+system should on a regular basis to the extent possible
+.separate costs for the main services given by NTB and
+provide accounting information in a detail and manner
+that will make possible analysis of the cost of the
+various aervices NTB is providing; and
+(c) examine the present working of the internal audit system
+of NTB and recommend a system suitable to the particular
+requirements of NTB, that will provide for internal audit
+to be conducted independently of the accounting system,
+with no administrative functions placed on the internal
+auditors.
+March 19, 1973
+
+
+
+ANNEX 14
+Page 1
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Principal Tariffs
+(As of July 16, 1972)
+NRs   US$ Equiv.
+1.   Local Telephone Service
+Rental (incl. 100 free calls /1)         per month        40.00       3.79
+Call Charge /1                           per call            .20       .02
+Extension telephone                      per month         25.00      2.37
+PBX - for 15 lines                   per exchange line   25.00       2.37
+PBX - for 50 lines                   per exchange line   35.00        3.31
+Deposit (refundable)                   per main line    500.00    47.35
+Deposit (refundable)                   per extension    250.00    23.67
+Installation (actual cost of
+materials is also charged)                              30.00      2.84
+2.   Long Distance Telephone Service
+Charge per Minute
+(each pulse is charged NRs 0.2)
+Distance          Pulse Periods
+Class         (km)        (seconds)
+1             - 25         30.0                             .40       .04
+II          26- 50         15.0                             .80       .08
+III         51-100          7.5                            1.60       .15
+IV         101-200          5.0                            2.40       .23
+V          201-400          4.0                            3.00       .28
+VI         401-800          3.0                            4.00       .38
+For 3-minute calls between public call offices
+over the HF radio network, the charge is NRs 5.00.
+/1   In manual exchanges, local calls are not charged.
+
+
+
+ANNEX 14
+Page 2
+NRs   US$ Equiv.
+3.   International Telephone Service
+NTB share
+Charge per 3-minute call to   _NRs
+India-Zone 1               6.30                   24.00     2.27
+India-Zone 2               6.30                   18.00     1.70
+Japan                     16.00                   90.00     8.52
+U.K.                      16.00                   9C.00     8.52
+U.S.A.                    16.00                  102.00     9.66
+4.   Domestic Telegraph Service
+Ordinary
+Nepalese script (incl. 30 letters)    per message         1.50       .14
+English script (incl. 10 words)         per message       1.7-       .17
+per letter         .0I       .005
+5.   International Telegraph Service
+Ordinary
+India, Pakistan                     per message-minimum  6.40        .61
+per word          .31)     .03
+Japan                               per message-minimum 14.70       1.39
+per word         '.10       .20
+United Kingdom                      per message-minimum 11.90       1.13
+per word         1.70      .16
+United States of America            per message-minimum 17.50       1.66
+per word         2.50       .24
+Letter Telegrams. Half the rate
+of ordinary telegrams.
+6.   Telex Service
+Rental                                   per year    5,000.00   473.48
+India                                 per 3-minttes      18.00      1.70
+Hong Kong                             per 3-min_tues     45.00      4.26
+March 19, 1973
+
+
+
+A" !M 1,
+rjFrAL TELFCnrtliU-:ICATi(WFJ    P'OAPD
+INtC0t1F STATFMiFNTS
+f0:05 THOUlSANuDS
+v  aR;  >t*;<, JtiLY  If,:  1971-   19ir           1 979       1>)74~ ^1r ORCSTI)i77-
+)F'ERATII r, R.VE.tiUFS
+-z4it.TALS                      3040        310't       35t75        I11 i:I                7 hi?       P I, L       vw _      -a,.
+-t-OCAtl  CALl-S                     n                  .)   O        C'1?.        ?          if[ rlr               lll 9le)'
+-DOW!1STIC  TRItJJK               1,30        4r;n )       )           ,nq      2Aq         476?        ,A3           ^7(          -
+- IJTERNIAT I OJAL                311         ,tb Srii v                            ;           1too                1  
+-I N-I T AL LA ToJ 1n OP4                                              ?1          r^          7           fos        <  
+TO TAt T! LE r t10fOif          I 1, I       <7 ^!      ij 5 n                       ?r    -77- i       -!^i       ;           -;
+rt ) E K                 '         50         4n^         , 5         759       1tt>:3      1. .' L     17'''         ' 
+TfA    T IFfRP lt,                       1A3,         -, -        91 11  C1- 1;,
+T(iTAt. TAi FORAP1               1?7         5777>         .
+tOPFPATlI?,, !FXPEt,sr
+TOTAtOFELS_ ?37 Ir.,{r.r  ; - r7r, Pt-- e
+.F' I'iCOItE iEF.II P.7,? i                                                             %_.n--St ~>^;^'r?i~i y __
+I' TLRL IT '%lIT CA P I T          ''        l                       ^,          r             '        7 ^
+*T  P'¢f):!                    _I           lre         _r1         _-                       ?"!                    l5I        -_ 
+. 7: TIJIR,!'
+". .  ,;- T:  r   3-!-       l           ^,4        -.3          3i,2, 3      .                      r,,            , 
+F   .,~c .- 1)          i ''CAV!   3*tr-                      ,        ^;t.'  6?4...7 I~7 9   7 1 )a   r;    
+IN).   ly    >  R.       +)r.             it        ;*  t1e               ~^' '1*)71'^ 1*it                                      ' ''_
+.)F AW..GrROSS ASSET             ,.,         .''        '.t'         .!         r,-i                     .,         r.,..
+* ,P T1IJ<N)
+
+
+
+A¶I" C 13
+Ck- T-  ~7!N      :r-\ )IA
+ACTurv.                                                                       F)R(-A'.I                                    __T_
+-F   k:JLY   1                        7                            7' '17      1I17'3    ~      7     ~     1~' ~         17                               '
+-YPREC IAT ION-                               -         1     i2          '                                                       ..                    -
+O   P.  FPM.ri~v                                                                                                                                         
+$T(17                           4'~~~~~~~~~~                                                       rnI7
+;JP PE iT   Al,S f TS1
+----- L-2'--------;----- 
+T       RE.   C.! I V!.
+~~~-  -~~~~~~-..                                .~~~~~~~
+-  .   FTTI        !                                     4-7'-7  -                         -                                                                   -          -7 '
+*.A: L I 
+--------     ------
+------------------  ~       ~       ~      ~      'F             ..C'
+AT
+
+
+
+';FftwAL Tf`Ls7C0ft!`UtJtCATl nf:e. 7eAr:n
+r Uti[)C FLOVICTATf r rTNT
+(PARS T; lOUSANDt7t)
+AC TuaL                                                             FnRrtfCAST                                   _       _ _              T(  I 
+t !AD  tX         .;        i          .iLt  '      7l    I     17+3     19 P7             1Q75            1';77i '    1977            19178  l        17r  *--
+I  R (:  I R ATI   M.C'  r,i                                                                                     ic .rlr
+i_ 0-1 TR I '.T [ Ir'll,
+h;,OVl R,41il '.              .             *         1 77           4 i771                            r
+litlIAN    AtP                                                                                       ^A.'
+C    R . I T X 17TA     
+t'Ar)          1P..(,
+_;T~A _7 _       _____7    
+A~P, I, r- I c,'
+0 ul   TL !P. T 1 ,-.
+PPOof~l C 7  I  1PORAfRAt  l           J. ?'7 ) 2  -7 r7  ,,,r  -7't
+1*;IA'. A l :  :R( .1! CT                               r         .-                  >       ,:,.__{   
+. - \ - A ! 4 1 r i i - r ^ r - r~~~~2~7                                                 -"    _7                IT            >,; ~ r 7   n!
+T    JtR. 
+, rD,,.  TC.°17                                                              7  7~        I -l I         1 7w^r1 1 1   .._r
+. - . :r- AT I ot7N';
+_   _      _      _   _ _   _ _   _ _   _      _      _ 
+.~~~~~~~~~~~~~~~~~~~~~~~~ I I- 7  ;c 4i ;ws1o ?i-;#  -  1r: ,>       
+IrlTAJ  MLI tau rATl: I 0-; '             -7'7         8 1 r        P", .r 1 '7    ?        t   i_77, 1-,r -7  -r ;.77,r   -7- ',-  .....
+-..   I tTV1,',A 
+
+
+
+AWNNEX 18
+Page 1
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECr
+Notes and Assumptions on Financial. Statements
+A.   Income Statements
+1.        Rentals.  The forecast is based on the revenue per subscribet in
+1971 and 1972 which averaged about NRS 700 per annum; from 1974 with the
+proposed rental increase this will increase to NRs 820.
+2.        Local Calls.  The free call allowance will be decreased from
+I0^ to 50 calls per month effective July 1973.
+3.        Domestic Trunk.  See Annex 11.
+4.        International.  Revenues are exp.'cted to increase  yv the number
+of subscribers and by improved facilities.
+5.        Installation.  The charge per installation, which has averaged
+about NRs 80, has been assumed increased to NRs 200 effective July 1973.
+6.        Domestic Telegraph.  Traffic is expected to decline with inprove-
+ments in the long distance telephone network. Effective July 1973, an
+increase of domestic telegraph tariffs which would increase charges in
+FY 1Q74 by 25% was agreed during negotiations.
+7.        International Telegraph.  Traffic is expected to decline slightlv
+over the period for the same reasons as above.
+8.        Telex.  Service started only in 1972 and revenues in that year
+are only for part of the year. Telex revenues are expected to increase wit.h
+adlditional subscribers and improved facilities.
+9.        Labor.  The number of staff as of July 16, 1972 was 999 which  T,
+expects to bring down to 930 by July 1973.  The additional staff necessary
+for new facilities lhas been estimated for each year and would be 540 by 19'0h.
+which would increase total staff to 1,480 or by 497. A new salary structlre
+resulting from the transfer of the staff from Government service to the
+service of the Board, effective July 17, 1972, has been approved, which hais
+increased the average annual expense to NRs 2,930 per year. Labor expenses,
+i.e., salaries, wages, allowances and pension costs, have been projected on
+the basis of projected staff levels and average expense per employee, which
+is assumed to increase by 5% per year (the quality of staff will go up).
+
+
+
+ANNEX 18
+Page 2
+The pension liability incurred each year, estimated at about 8% of expenses
+for salaries and allowances, has been included in the salary expense. Be-
+ginning in 1974, pensions are expected to be handled by the Social Security
+Corporation.
+10.       Materials.  In 1972, materials were about 2.5% of average gross
+value of plant in operation and that figure has been applied in the projec-
+tion.
+11.       Depreciation.  In agreement with the average for the past two
+years and in line with experience in other countries, depreciation has been
+calculated as 5.5% of average gross value of plant in operation.
+12.       Other Income - Net.  The expenses for the IDA financed consultants
+were charged to 1971 and therefore the figure is abnormallv highi.  In the
+future revenues are expected to net out expenses.
+B.   Balance Sheets
+13.       Fixed Assets.  Work in progress which includes advances and
+letters of credits has been projected as the total of construction during
+the year and 50% of construction during the previous year. Gross value
+of plant in operation at the end of a year is equal to the total of gross
+value of plant in operation at the beginning of the year and construction
+less increase in work in progress during the year. Indian aid provisions
+have been added to gross value of plant in operation amounting to NRs 6.7
+million in 1973 and NRs 6.3 million in 1975.
+14.      Inventories.  For the HF equipmnent, inventories are roro ected
+to renain on the same level.  For the rest of the equipment, inverteries
+have been assumed at 2% of gross value of plant in operation (e:xc1oding
+PF plant).
+15.       Accounts receivables.  Following assumption has been. made:  local
+telephone servlire - two month revenues. trunk service - one c/uUi  of gross
+reveinues; domestic telegraph - cash payments only: international telegraph -
+decliiiiniz fr im uresent level and leased circuits and telex - one anti one
+bhlf montit oil  ross revenues.  New proced'ires for the accounting of
+revenues with debtors ;edgers are now being introduced and, by the end of
+this ffscal ve.ir (.h;'y 16, 1973), thle assumptions above are expected to be
+:' .1 .   !     .
+i'.       or'-rerm Debt Gross.  The pension 'und, projected as the accuimu-
+17teo toLal of annual pension provisions, is inciuded.  By 1974, administra-
+tion of N'Tfi's pensions together with the pension fund are expected to be
+).anded over to a scparate government-owned agency.
+Accourt: Pavable.  This has been projected on the assumption
+th.a,t 1:ie6 r:wre than one year old will be settled as of July 1973 and
+e nanges thereafter will be related to changes in revenues for international
+telex. tolepher;e and telegraph.
+
+
+
+ANNE'X 18
+Page 3
+C.   Funds Flow Statement
+18.       Contributions - Government.  The Government has already made an
+appropriation for fiscal year 1973 of NRs 4.77 million for the purchase
+of equipment under the first project.
+19.       Contributions - Indian Aid.  This represents the value of plant
+which is being constructed under an Indian aid project and which-will be
+handed over to NTB when commissioned (the value of the plant is estimated
+at NRs 13 million whereas the spending during the project period is only
+NRs 9 million).
+20.       Loan t4 - Pension Provision.  In fiscal 1973, NTB is expected
+to continue to make a provision for pension liabilities incurred, which
+amount has been treated as long term borrowing.
+21.       Construction - Indian Aid Project.  See paragraph 19 above.
+22.       Debt Service - Amortization.  When NTB hands over the management
+of pensions to the Social Security Corporation in 1974, the accumulated
+pension liability estimated at NRs .75 million will also be handed over.
+23.       For details of NTB's debts and debt service see page 4 of this
+Annex.
+March 19, 1973
+
+
+
+~~~~~~D 18
+Page 4t
+.'l 'Lr.( V'U.jCAT[IOl .OARLW
+49,O.'    .)"AL. -                       :*nl~                  ?7       ~ h              0          C          0          0          4
+44A,~    04)44'.  4                                             228    IOU8?    19f.12         1'S0?       8186       4I-q
+4.'. * !                                              a4JR        0          410                              0      30)44      544')
+T`ALI C&4 4444;PT
+44'44'. 17          -          0           '~~~~~~~~~1 6044  12704       Me0        Inc0       17030      P70 o        "
+l.A                    ,          0          41          1         ~     ~    ~~         ~~~~~~~~~~~~~~0  0  0  7W,  41
+t.R!. tpt 1. T8 I1NVL5.                                                11.1       .)40        1?I      14¶A         49
+.1.         4            4*       7A44                      -~~.1?q   n
+1Ž    2 o-'     121        100i4
+'1  7                                -      ??.S       '414.~4
+7 A4  ..-44                                                  .          -  -.                                                   4
+.*4,14L*.   -~~~~~~~~~~~~      140                              17~~~~~40 ',810  
+A .                                                             .                            3'4'4~~~~~~~~~~~~~~~~~~~~i  ,    1,447
+'.444   4 -        7     "                     1,'                         A    ',4.)j 7klV- I 
+~~R~                                                 t' ?4      l."~~~
+-  C  4~~         .44       A,.'9A     44'        A4 447     4'A'         <'~43
+'-1.44  l'.4444:1 -
+
+
+
+ANNEX 19
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTB)
+APPRAISAL OF A SECOND TELECOMMUNICATIONS PROJECT
+Fiscal Impact of NTB's Operations 1973-1980
+1.        The fiscal impact of NTB's operations will be considerable and
+quite favorable. During the 1973-1980 period, the Government will receive,
+as summarized below, principal and interest on the proceeds of the two
+credits passed on to NTB on commercial terms; customs duties on imported
+eauipment; and dividends. Offsetting items will be service charges payable
+to IDA, and an appropriation for the ongoing project already made in the
+1972/1973 Government budget.
+(NRa millions)
+Interest
+NEP 166                                       6.2
+Proposed                                     16.7      22.9
+Principal
+NEP 166                                        7.4
+Proposed                                      4.7      12.1
+Customs Duties                                            8.7
+Dividends                                                 2.0
+Total Funds Accruing to Government                  45.7
+Less:  Service charges to IDA                             2.4
+Government contribution                            4.8
+Net Funds Accruing to Government 1973-1980          38.5
+March 19, 1973
+
+
+
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD (NTBI
+DEMAND AND SUPPLY OF SUBSCRIBER CONNECTIONS 1960-1980
+(Years ending July 16)
+Jo                    _                                                    -r-_____
+20  ____ _____                                                 _____             I_                          --_   --_-_____ -__
+Esiruated drntnd m-
+areas .ncluded n the
+P,rogam I1 0% ann ual growth )    
+--- --------                             - 4- r                                                      ..
+IUnsaissi.ed dtru rd   deCtWlId n
+7  F   ]                                     |      s wed          /~~~~~~~~~~~~~~~~~wa, pm".11d ,-
+t4  _ _ _  _  _ _ __ _ _   -D e r ia n dc m   a r e a s              1            _      !7.           . .   -
+t   L--          _    _               vs~~~~~~~~~hire lehephone  -     >                                ,_
+se-ce.5 avadased
+F                                      t117%jinual rgonth,l
+cormnect.ons at July 16, 1972
+72P   ___  |                Suppl9f Inumbe, of conneced               _                 r
+subscr,beri, 20% annualWromihl         }
+-                         -_ ______                 __ v_    --i- ~- --t-   ~ ~ -t--- .----.-- -.--~--- ~-
+.],   I                                                  l            l,           ,.           11 I  I 
+6 j                                                 Aual             _  /___ _____              \__ _ ____-_ ______AtF
+60   61    62    63    64    65   66    67    68    69    70    71    72    73    74    75    76    77    78    79    rr
+
+
+
+NEPAL
+NEPAL TELECOMMUNICATIONS BOARD
+ORGANIZATION
+8OARU 01 OfU4FCIORi
+CH1AIRMAN
+(SECRETARY FOR COMMUNICAII)NS,
+ANOI FOUR MEMBERS
+GLNERAL MANAGER
+BUSINESS. ADMINISTRATION    |          FINANCE DEPARTMI NT                                                                                          ENGINEMNG DFPARTMENT
+AND PERSONNEL DEPARTMENT                 FINANCIAL CONTROLLER                                                                                              CIEF ENGINEEF
+BUSINESS MANAGER                     (SECRETARY TO BOARDI
+q   PERSONNEL   l  q   ACCOUINTS   |                                           *                  H       PLANNING ANU WORKS
+ADMINISTRATIOhN                                                                                                                                       ANEACtADTANN
+FIELD ORGANIZATION
+r__r._____________________________                                                                                       ___ __
+BIRATNALAR REGION                                                  r       KATIHMANOU REUGION                                                           BIRGUNJ REGION
+REGIONAL MANAGER UIRAINAGAR                                                IILU1,IN' L    L                                     REG-I   MANAGER SIR-                                I
+I  I,SIN~S  IOM    HA                   AC(OU'.'                           FNGINI -iGN  EE01%,
+r' LC. _AP" _E.v  ES
+
+
+
+\_.                  *~~~~r S.. 
+N E P A L
+.' ,- »                                                               NEPAL TELECOMMUNICATIONS BOARD
+30r                                                                       TELEGRAPH  NETWORK   OPERATING  OVER  HF  RADIO  AND  OPEN  WIRE  LINES
+(           ,( - -                                               \                                                    (AS  OF  OCTOBER I912)
+e   eA - .A%~                            -.... _                                                    AREA  CONTROL  STATIONS                    t4DTE:    CONTNOI. STATIONR QATEO L T SA
+Ji       A ' w  \ -                                                   *       SATITE  STATIONS                            TREE MEiA,CONTROL STATIOEI     OAERATE 04 A
+INIERNATIONAL  HF RADIO  ROUTES            6A4~ To A uASTEF  COL  STATION  T
+S                                         r t   ;    P .'               --  INTERNAL  HF  RADIO  ROUTES
+TEL PDONR tONVEfRATI0NI MAY TAKEO PLACE ON
+h/AACI,                                                          e                                                              LA ND RINE  ROUTES                         AMEDB LA IN  tASIS OVR E  THIE DOMJ3TIC HF RADIO
+FVAAfS R4^ 4( JS                                r                                                                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AND Lt4t NETWORKS
+ZONAL *OUNDARIES                           hOTE3
+,A A., r  "  fl ;                                               -      -     INTERNATIONAL  SOUNDARIES                   TA  INTERNAI,ONAL H  RADIO SRE'fCES tO
+FIAL.#.4OI AVODACCAO ERATE ON ACREOIULE
+0                                                                                 B.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~OSIS ONL T.
+GULAO)AF-*''' 'I 
+-,A ~ ~ ~ ~ ~    ~     ~      ~     ~     ~     ~     ~     ~    ~      A~
+2,  *.                             A                                             BAA A  A , ,,,
+> -- ^~"%o*, ,jjA VAI                                  I..
+- ~ ~ ~ ~ ~ ~ ~~2                              \a. -                        sir ' .. .S ,,i,. .6.At Z~ #V*                                  _ *4             t<>          p                /
+'AN -rX           ,   '                                                                                                                      /nS~_,,  AAtfi{                                                I KK I M
+I~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~O ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ I
+S*  \.       :                                                                       I oMETRes                                                                                       BANGLADESH- /- 
+\ <\~cfrTowI          .U- .
+.~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~AV ._0 .A    C4
+
+
+
+N E P A L
+NEPAL TELECOMMUNICATIONS BOARD
+- TEL      ,       A .  i EEPHONE    NEtWORKC,I
+FACILITIES AiVAILABLE PRIOH TO ONGOING PROJECT
+>   '                             .        J       <                                                          * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~UIMAruCt  I11FtC~ 101.t t XCiA i(r5
+|~~~~~~~~~~~~~~~~~~~~                                                                                                            f ACItLITIESi PROVIDED fOTt UNDERt ONCOlhli PRCi;ECT {t1;6 NEPt
+-NtW AUTOJMATIC I
+!                                                             0 .   *  <  o    AIRTOMATIC NTItAC11i'i i.NU(NAC (X:HihN(fS
+S ---     MANUAL   N s Air EA   rnAr o ie chJn q   Of   leSS  tIi   t 0  "  it I Qn
+…MICOwAvI SYSVLN%
+jI                                                                                       U                                            *,  -   TANTiIIX"   OvUTES
+/-  o' .1                                     , ,     Sif RAPIO LiNKS
+/ ,) s  l  ,,   J                                      QPROFSED PROJECT
+NE AU'OMATO  C A XCHANGIS
+i\                                       g    A_r0-MATIC * M `IPLACI NG?AA i   EXA' CHANGEIS
+0    I  tAMANN.L  N CNAN ES
+1.-                      U    ~~~~~~~PURIC CALN libTICI AILT
+lp                                                                                         WCAUW~~~~~~~~~~~~~~~ 1Mr~IVAVE O IMF 11SYSIEAts
+..        ,,         ~          vrLAND to LITS
+>~~~~~~~~~~~~~~~~~~~~~~~N                                                                       N bOTE   iNN .H OMNO LNONrnSTANNir rT OASTNIJi.CAtiO
+, ,>                                                                     ~~~~             ~~~~~~~~~~~~~~~~~~~~~~~~~\ .> f., hit %TNA.i. Ni.> h  nN.O*i *AbN NTTO  i-+T Oi..,TNiI
+K ~ ~  ~     ~     ~     ~ ~ . 7-'                                                                                                                        nonetaN  ONNiWVcI  ai. r osn,llaCso,sN0o  MNoiNosTAnn.st
+i sI ~~~~N                                                                                           _    -Xi  w. .  x  
+;   ~   i   T_                                                      >        i~'                                                        /SIKKIM
+,   :                    Ct t  4                                      >                                                *,;    :.,~~~~~~~-N.                   (I
+C, - M ! .bE;~INIRNAJOAI BOVNJ)JAR15, AEtt.~)4-f
+.A  *'i                                                                                                                                 S |                                    CN5NlO^    olDilSV   ^W     w     
+i  TTi~A   A                                          :::......
+26-            ,   / t            t0    * O          IC O      10                                                              JOOGANI
+L , I                                                                          '"'b} "" NIIG~1                                                                                    BANGLADESh41-
+\<           AhaA                                                                                                                 r                                                     ,              A
+
+
+

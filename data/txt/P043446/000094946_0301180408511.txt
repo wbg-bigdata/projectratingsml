@@ -1,0 +1,879 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No: 25248
+IMPLEMENTATION COMPLETION REPORT
+(SCL-41130; TF-29488)
+ON
+A LOAN
+IN THE AMOUNT OF US$ 7.75 MILLION
+TO
+HUNGARY
+FOR A
+PUBLIC FINANCE MANAGEMENT PROJECT
+12/30/2002
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective November 2002)
+Currency Unit = Forints
+I Forint = USS 0.004
+US$ I = 234 Forints
+FISCAL YEAR
+January 1  December 31
+ABBREVIATIONS AND ACRONYMS
+AHIR          Database of Govenurnent Financial Information
+CAS           Country Assistance Strategy
+FAD           Fiscal Affairs Depa-tment
+GDP           Gross Domestic Product
+GFMIS         Government Financial Management Information System
+GFS           Government Finance Statistics
+H/W           Hardware
+ICB           International Competitive Bidding
+IMF           International Monetary Fund
+IS           Information Systems
+IT           Inforrnation technology
+MOF           Ministry of Finance
+NBH           National Bank of Hungary
+PFM           Public Finance Management
+PFMP          Public Finance Management Project
+PSAL          Public Sector Adjustment Loan
+QAG           Quality Assurance Group
+S/W           Software
+TA            Technical Assistance
+TLS           Treasury Ledger System
+TSA           Treasury Single Account
+Vice President:  Johannes F. Linn
+Country Director:  Roger W. Grawe
+Sector Manager    Helga Muller
+Task Manager:    Hiran Herat
+
+
+
+HUNGARY
+Public Financial Management
+CONTENTS
+Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         2
+4 Achievement of Objective and Outputs                                             3
+5. Major Factors Affecting Implementation and Outcome                              8
+6. Sustainability                                                                  8
+7. Bank and BorTower Performance                                                   9
+8. Lessons Learned                                                                10
+9. Partner Comments                                                               11
+10. Additional Information                                                        12
+Annex 1. Key Performance Indicators/Log Frame Matrix                              13
+Annex 2. Project Costs and Financing                                              14
+Annex 3. Economic Costs and Benefits                                              16
+Annex 4. Bank Inputs                                                              17
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components              19
+Annex 6. Ratings of Bank and Borrower Performance                                 20
+Annex 7. List of Supporting Documents                                             21
+
+
+
+
+
+
+Project ID: P043446                                     |Project Name: Public Finance Management Project
+Team Leader: Hiran Herat                                 TL Unit. ECSPF
+ICR Type. Core ICR                                       Report Date: December 30, 2002
+1. Project Data
+Name. Public Finance Management Project             L/C/TF Nunber SCL-41130; TF-29488
+Counny/Department. HUNGARY                                             Region- Europe and Central
+Asia Region
+Sector/subsector: Central government administration (100%)
+KEY DATES
+Original           Revised/Actual
+PCD:   10/13/1995                            Effective  01/01/1997         02/07/1997
+Appraisal:  08/01/1996                               MTR: 06/30/1998           09/17/1998
+Approval:  12/05/1996                             Closing  06/30/2001         06/30/2002
+Borrower/Implementing Agency:  REPUBLIC OF HUNGARY/MINISTRY OF FINANCE
+Other Partners:
+STAFF                Current                                  At Appraisal
+Vice President:     Johannes F. Linn                          Johannes F. Linn
+Country Manager:     Roger W. Grawe                           Jean-Michel Severino
+Sector Manager:      Helga Muller                             Michel Noel
+Team Leader at ICR:  Hiran Herat                              Hiran Herat
+ICR Primaiy Author:  Ali Hashim, Hiran Herat; Hana
+Polackova Bnxi
+2. Principal Performance Ratings
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly
+Unlikely, HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+Outcome: S
+Sustainability -HL
+Institutional Development Impact: SU
+Bank Performance: S
+Borrower Performance: S
+QAG (if available)       ICR
+Quality at Entry: S                      S
+Project at Risk at Any Time: No
+
+
+
+3. Assessment of Development (Dbjeceve and Design, eand of QuaiHty at Entry
+3.1 Original Objective:
+The overall objective of the project was to assist the Government to optimize the deployment and use of its
+financial resources through changes in the institutional structure of public finance and in the budgeting
+process by: (a) introducing improved methods, guidelines and systems for budget preparation,
+macroeconomic forecasting and, particularly, preparation of forward estimates; (b) ensuring smooth and
+timely execution of the budget, while minimizing the cost of Government financing through the newly
+established treasury; (c) optimizing the management of public debt; and (d) designing and setting up
+coordinating mechanisms, policies, procedures and standards that would ensure that the different elements
+of the Government's Public Financial Management (PFM) network can function as an integrated whole.
+3.2 Revised Objective
+The objectives were not revised
+3.3 Original Components:
+The Public Finance Management Project (PFMP) focused on the key initiatives of the Government's public
+finance management reform and was organized into four components as follows:
+(a)    Budget Preparation: This component was designed to assist in development and
+implementation ofimproved methods, guidelines, systems, processes, procedures and operating
+manuals for budget preparation, macroeconomic forecasting and preparation of forward
+estimates, and training MOF and agency staff for the implementation of the revised budget
+preparation system.
+(b)    Treasury Operations: This component was to build on prior work done by the Government,
+and: (i) develop the full functional design of systems, processes and procedures for budget
+implementation, expenditure control and treasury operations through the introduction of a
+Treasury Ledger System (TLS); (ii) assist the Treasury in developing methodologies for
+effective cash management; and, (iii) design, develop and help implement a training strategy
+and plan for establishing the revised budget execution processes and the new treasury system.
+(c)    Debt Management: Work under this component was to involve the: (i) development of
+improved methods, regulations, guidelines and information systems for the recording, reporting
+and issuance of government debt; and (ii) design and development and implementation of a
+training strategy and plan for the implementation of the revised debt management system.
+(d)    Public Finance Management Information Systems Network: In Hungary, a number of the
+systems required to cover the full functionality of a Government Financial Management
+Information System had already being implemented as part of separate projects (e.g., systems
+for tax, customs, health insurance and social security administration). This component was
+intended to identify the interfaces between these systems by the development of a data model
+encompassing the data entities involved, and put in place policies, procedures and standards
+that would ensure better integration between these systems.
+The Quality Assurance Group (QAG) review (see 3.5) of the project stated with regard to the design of the
+project: "It was well designed and based on strong commitment by the borrower to modernize its public
+finance system to help prepare for entry to the EU. With only two counterpart agencies-the Treasury and
+MOF, the project was a clean focused, straightforward operation". A PHRD grant was approved to
+prepare the project, and was utilized to initiate activities under all four components.
+3.4 Revised Components:
+-2 -
+
+
+
+The objectives of the first three components remained unchanged. However, activities under the last
+component - PFM informnation systems network - were restricted to the development of a data model that
+defined the relationships of the major data entities that were involved in public finance business processes
+and on data which is captured by the various systems used for public finance. The data model was useful
+for the development of data bases that would be used for budget planning during the budget preparation
+phase and for budget control and fiscal reporting during the budget execution phase. Developments under
+this component were financed by the Borrower and the funds earmarked for this component were
+re-allocated to meet the investment requirements for the Treasury system.
+3 5 Quality at Entry:
+Quality at Entry for this project was assessed in a QAG review of a cohort of four ECA technical
+assistance projects carried out in August, 1998. The review rated the quality at entry as satisfactory. The
+objectives were consistent with Government priorities and were proven feasible during implementation.
+The counterparts were involved in all phases of project preparation and design. The QAG report stated:
+"The project met a critical need. Ownership was strong and counterparts were capable. The project was
+ready for implementation at approval. Like most TA operations, there was no conditionality and no explicit
+policy content which was being covered in a separate adjustment operation."
+4. Achievement of Objective and Outputs
+4.1 Outcome/achievenment of objective.
+The overall objectives of the project have been accomplished and the achievement of objectives can
+therefore be rated as satisfactory. The Government launched a three-year plan, starting in 1996, to
+improve financial planning, budget execution and a better coordination in financing government deficits.
+This plan involved major changes in institutional arrangements, including the budgeting process.
+Budgetary institutions at the central level were rationalized; the number of extra-budgetary funds reduced;
+the skills required in public administration redefined; and the employment management and structure in the
+public sector reformed. In January 1996, the Government undertook a critical step to ensure budgetary
+control by establishing a Treasury, and introducing an interim Government Financial Management
+Information System (GFMIS). According to the 1996 Budget Law approved by Parliament in December
+1995, and the amendment to the Public Finance Law approved in November 1995, all central budgetary
+institutions and most extra-budgetary funds were absorbed into the Treasury system. The specific outputs
+for each of the project components are described below.
+4.2 Outputs by comnponents:
+Treasury Component:
+The objectives of the Treasury component of the project have been accomplished. This component is rated
+satisfactory. The necessary legal framework that authorizes the Treasury to control budget execution is in
+place. A Treasury organization has been set up with a central office m Budapest and with 18 branches in
+each of the provinces. All Government funds are controlled by the Treasury and are placed in a treasury
+single account (TSA), with appropriate sub accounts, in the Central Bank of Hungary. In 2001, as part
+of some amendments to the Public Finance Law, the Treasury was spilt into two organizations with the
+State Treasury retaining the accounting function. A new organization, translated approximately as the State
+Public Finance organization was created and given the responsibility for the budget planning aspects of the
+Treasury's functions.
+The central features of a full function Treasury system have been implemented and the system continues to
+function satisfactorily. The main features of the treasury system are:
+- 3 -
+
+
+
+o Budget appropriations, as approved by Parliament and prepared in accordance with Government
+Finance Statistics (GFS) compliant budget classification structure, are loaded into the system at the
+start of the year. Budget apportionments, dividing the budget appropriations according to the budget
+organization's monthly expenditure plans are also loaded into the system. These form the monthly limits
+to expenditures. Changes to budget appropriations due to budget transfers, or to budget
+apportionments, due to changes in expenditure plans are used to update the budget data in the system.
+This set of data are used to control budget execution during the course of the year. This data is housed
+and maintained by the TSA system developed under the project, and maintained by the newly created
+Public Finance agency.
+o In the case of the investment budget, commitment transactions for contracts in excess of a pre-
+specified limit are also sent by the respective budget organization entering into the commitment to the
+Public Finance Agency (originally part of the Treasury) and recorded in the system. These transactions
+are used to update the expenditure plans for the organizations in the TSA system.
+o Expenditure transactions from all ( about 1600) budget organizations funded from the central budget
+are routed to the appropriate branch of the Treasury as they arise during the course of the year. The
+Treasury checks to see whether these are within the authorized limits and then issues instructions to the
+central bank, which holds the Treasury single account, to pay approved expenditures.
+O Revenue receipts for tax and non tax revenues are deposited by taxpayers in designated Banks and are
+then transferred to the appropriate Treasury revenue accounts in the Central Bank. In this way
+Treasury has control over all government financial resources.
+o The nature of the data transfer connection from the budget organizations to the Treasury varies. Three
+modes are possible: Electronic connection to the Treasury branch, data transfer via computer
+compatible media- diskettes, and hard copy depending on the available facilities. Eventually all
+transactions will be routed electronically as the underlying telecom infra structure improves. The
+Treasury and its branches have been connected to the GIRO system that enables them to transfer and
+receive information from the Central Bank.
+o The Treasury system, called the T2002 system, handles about 2.5- 3.0 million financial transactions
+per month (including payroll transactions).
+o The MOF has an electronic connection to the Treasury and has access to up to date figures on
+expenditures and revenue receipts enablmg it to formulate fiscal policy measures. Previous years data
+on actuals are useful in the preparation of the next year's budget.
+The project has financed the hardware and software required at the Central Treasury Office, and the 18
+branch offices, the telecommunication connections between the central Treasury and its branches, the
+electronic connections between the MOF and the Treasury, the connections to the GIRO, and connections
+to those budget organizations that have an electronic interface with the Treasury. The application software
+for the Treasury system has been custom developed using an ORACLE DBMS from the Government's own
+resources and using outside contractors. The Treasury maintains these systems with the help of outside
+contractors and has a 50 person strong in-house IT department.
+Budget Preparation Comaponeng
+Budget management also accomplished all its objectives identified by the project and the component is
+-4 -
+
+
+
+rated satisfactory. Achievements have been made in establishing medium-term fiscal franework and in
+promoting transparency of the budget preparation process. The medium-tern fiscal framework is
+supported by new Budgetary guidelines and by newly developed capacities of the MOF in macroeconomic
+forecasting and medium-term revenue and expenditure projections. Since then, improvements have
+continued, albeit at a slower pace. Delays have been mainly apparent in the process to move toward more
+performance oriented budget management.
+During 2000-2002, a number of important amendments to the Law on Public Finance have established the
+basis for a medium-term fiscal framework and further tightened the rules for issuing government guarantees
+and momtoring of all major explicit contingent liabilities. On the medium-term fiscal framework, in
+addition to providing 3-year cash flow projections on budgetary and expected contmngent liability outlays
+with each budget since 1999, in 2001 the Ministry of Fmance launched preparation of a two-year budget of
+binding nature. Perhaps most important on the monitoring of contingent liabilities, the Law on Public
+Finance now (effective January 1, 2002) establishes a detailed reporting requirement for all agencies
+covered by any kind of government guarantee or involved in activities of fiscal nature. This reporting
+requirement now covers even the Hungarian Development Bank, a relatively large and growing source of
+fiscal risk in Hungary. The reporting requirement is now enabling the Ministry of Finance to expand
+coverage and improve the quality of its analysis of fiscal risks. While the risk assessments remain
+confidential at the Ministry of Finance, the comprehensive list with face values of all credit guarantees and
+list of other major explicit contingent liabilities are public, reported on the Ministry's website. The Law on
+Public Finance has been complemented by a new Accounting Law that, among others, requires more
+information on assets and both direct and contingent liabilities, and by a Government Decree that requires
+that accounting and reporting of the Hungarian State Treasury is in line with the new Accounting Law.
+During 2001-2002, the Ministry of Finance continued to improve the coverage, quality and relevance of
+government financial information contained in the AHIR database (database of government financial
+information). According to the new amendments to the Law on Public Finance, the AHIR database now
+provides 1991-2002 series for general government financial data, covering central government,
+extra-budgetary funds, social security, sub-national governments, and also non-government units whose
+activities can be qualified as quasi-fiscal. The database is structured according to a four-digit functional
+and economic classification, consistent with the GFS and COFOG classifications and with a bridge
+available to the SNA93 and ESA95 systems of national accounts. The connection between the AHIR
+database and budget database has also been improved to support budget preparation and evaluation.
+As a result of greater transparency regarding the budget, direct and contingent liabilities and assets of the
+central and sub-national governments, the Hungarian society has started to exhibit a greater public
+awareness and independent views on government fiscal performance. Since 2001, several local research
+institutions and media have been reporting "adjusted" deficit figures that reflect government off-budget
+activities (for example, an extensive program of road construction financed through the Hungarian
+Development Bank and its newly established Road Construction Corporation). Discussion on fiscal risks
+has reached such a high profile that, in the 2002 election campaign, major opposition parties promised that,
+if elected, they would cover all off-budget activities and fiscal risks in the government budget. Overall, the
+State Audit Office has played an increasingly visible and positive role in promoting fiscal discipline and
+transparency. Its reports analyzing the Government's performance on the budget and contingent liabilities
+have been made public through the Office's website and press-conferences.
+The project has financed hardware and software for the financial database. The Bank assisted the Ministry
+of Finance in obtaining grant finance from the European Union (through PHARE project) and OECD,
+which included long-term resident advisors and training for MOF staff. This grant financing was used in
+- 5-
+
+
+
+lieu of the funds allocated under the Bank loan, which was re-allocated to the Treasury component. In
+addition, technical assistance was provided by Bank supervision missions, which frequently included
+intemationally-recognized experts and practitioners and involved intensive brainstorming on the details of
+possible budget reforms, and through seminars and policy hotline of the Quality of Fiscal Adjustment
+Thematic Group.
+IDebt Management
+The objectives of the Debt Management component have been achieved and the component is rated
+satisfactory with the development of improved methods, regulations, guidelines and information systems for
+the recording, reporting and issuance of government debt, including training.
+In April 2001, the Government transformed its debt management office into an autonomous Government
+Debt Management Agency, a limnited liability company, that is owned by the Republic of Hungary.
+Ownership responsibilities are carried out by the Ministry of Finance. The Ministry of Finance, along with
+the Hungarian State Fund Company and Office for General Government (both previously Hungarian State
+Treasury) and the Debt Management Agency are represented in the Debt Management Agency's Executive
+Board. The Debt Management Agency continues to be audited by independent auditors as well as the State
+Audit Office. The objective of this institutional change has been two-fold: a) further limit interference
+between monetary and debt management policies; and b) remove wage limits and thus reduce turnover and
+improve the quality of staff.
+In August 2001, at the suggestion of the Debt Management Agency and the Central Bank, the Government
+adopted a new debt management strategy. The new strategy promotes the issuance of domestic currency
+denominated debt and a more complete consolidation of domestic and foreign debt management practices.
+The strategy reflects on the following macroeconomic developments: a) liberalization of the capital account
+in Hungary, b) accumulation of excess liquidity in the domestic currency market (that is, the central bank's
+request for support in its sterilization effort), and c) Hungary's expected EU accession and adoption of the
+euro (that is the need to further develop the domestic bond market and make it competitive in the EU
+context). Capital account liberalization, and particularly, the expected adoption of the euro have boosted
+investors' confidence and thus also raised the demand of foreign residents for domestic currency
+denominated debt. Effectively, the Debt Management Agency has not issued any foreign currency
+denominated debt since mid-2001.
+The Debt Management Agency, independent in establishing and implementing all other aspects of debt
+management strategy, has further focused on the development of the domestic government bond market.
+With debt portfolio maturing on average in less than 2 years, the Debt Management Agency has actively
+tried to reduce the issuance of Treasury bills (changing the role of T-bills from deficit financing to liquidity
+instrument), issue new bonds with longer maturities (including, for instance, an introduction of the 15-year
+domestic currency denominated bond in 2001), expand the issuance of 3-year bonds and stop issuance of
+the 2-year bonds. Furthermore, the Debt Management Agency has been working to bring the institutional
+arrangements and procedures in the government bond market to the EU standards (for instance, by
+changing the interest rate calculation method from linear to accrual and from 365 days to the actual number
+of days), and to enhance liquidity of the domestic government bond market (for example, by reducing the
+variety of government bonds and expanding the volumes of each bond issue, and as proposed, by
+introducing foreign primary dealers and market makers in the secondary market). Moreover, the Debt
+Management Agency is continuously enhancing its debt management benchmark to consolidate foreign and
+domestic debt. Presently the benchmark has the following aspects: a) on foreign debt: currency - 100% in
+euro, interest rate - 20% in floating and 80% in fixed rate bonds, b) on domestic debt: interest rate -
+- 6 -
+
+
+
+expanding share of fixed rate bonds, maturity - expanding from 2 years further up, and c) on reserves:
+amount - 4 weeks oi required govemment spending (so far on the budget and direct obligations, not
+contingent obligations).
+The Debt Management Agency has also launched an intemal reorganization to consolidate the management
+of domestic and foreign debt portfolio and establish a shared back office, middle office and front office.
+The back office is developing a new consolidated debt data system (tuming the GTM system, financed by
+the Public Finance Management Project, into a back-up facility). The new system is expected to serve as
+the basis for both existing and new middle- and front-office modules. The middle office introduced new
+models and practice in risk analysis, which includes the analysis of explicit contingent liabilities as well as
+the entire portfolio of govemment debt. Training on the operations of the system was provided to the
+agency staff.
+The Project financed hardware and software to the Agency for implementing its debt management strategy.
+In addition, as with the Budget component, the Bank was instrumental in assisting the Agency to mobilize
+free advisory services and training from the European Union, OECD, US Treasury and even from the
+World Bank through the European Borrowers' Forum, and thus was able to reallocate some of the project
+resources from consulting services to hardware and software.
+PFM Network:
+The revised objectives of this component have been achieved. The activities under the component were
+restricted to the development by MOF of a data model that defines the relationships of the major data
+entities that are involved in public finance business processes and data which is captured by the various
+systems used for public finance. The data model is being used to develop data bases that would be useful
+for budget planning during the budget preparation phase and for budget control and fiscal reporting during
+the budget execution phase. No Bank funds were used for this component. Funds allocated to this
+component were diverted to meet the investment requirements for the Treasury system.
+4.3 Net Present Value/Econom ic rate ofreturn:
+N/A
+4.4 Financwal rate of return:
+N/A
+4.5 Institutional development impact:
+The project has had a significant institutional development impact. The Hungarian Government has been
+able to put in place a fully functioning Treasury organization with 18 offices in each of the provinces and
+the center. All government financial flows relating to expenditures and receipts have been restructured and
+are routed through the Treasury. Spending units bank accounts have been closed and a Treasury single
+accounts set up with the NBH. Associated systems and procedures implemented under the project enable
+better control on the use of Government financial resources and ensure that they are spent on items for
+which they had originally been approved. The system enables better cash management and Government has
+a good idea of the total cash resources available to it at a given point in time thereby enabling it to better
+formulate its borrowing strategy. Efficiencies in budget execution achieved by the system, enabled the
+Government to meets its financial obligations within the stipulated contractual time limits.
+The new legal and regulatory framework for budget preparation and debt management, along with
+- 7-
+
+
+
+improved analytical and IT capacity at the MOF and Government Debt Management Agency have made a
+major contribution to the reliability and relevance of financial information available to the Government.
+Furthermore, the new approaches, such as the medium-term expenditure framework and government debt
+management strategy have improved accountability in government decision making and in policy
+implementation. Finally, these steps have also boosted overall transparency of the management of budget,
+debt and fiscal risks in Hungary.
+5. MWajor Factors Affecdng implementation andt Outcome
+5.1 Factors outside the control of government or imnplementing agency:
+The public finance management structures and institutions inherited from the socialist days were not
+adapted to a market economy and called for far reaching institutional and policy reforms, which at times
+were slow in coming. Timings and the scope of interventions that were intended to reform the existing
+structures were in turn delayed. However, in the case of the areas targeted by this particular project the
+delays were not significant.
+5.2 Factors generally subject to government control:
+Smooth implementation of the project depended on ownership of project activities, by the Government
+collectively and the implementing agencies individually. For the most part, the implementing agencies
+cooperated fully to meet the objectives of the Govermnent's reform program supported by the concurrent
+PSAL operation.
+5.3 Factors generally subject to implementing agency control:
+A project manager, with experience in Bank procedures was appointed, who coordinated the administrative
+activities of the three entities. Project accounts and audits were submitted on a regular basis. The projects
+audits were timely, and the audit opinions were always unqualified.
+5.4 Costs andfinancing
+The final project cost was US$10.39 million as compared to appraisal estimate of US$10.70 million
+equivalent. The Bank loan of US$7.26 million financed 70 percent of the total project costs. Of the original
+Loan of US$7.75 million, $490,000 remained un-disbursed and was cancelled. The original closing date of
+the project was extended from June 30, 2001 to June 30, 2002, at the request of the Borrower. As of June
+30, 2001, the project objectives were achieved however, some funds still remained (approximately
+$850,000) and the Govermment wanted to utilize these funds to strengthen the treasury functions further in
+line with the project objectives. As mentioned above, the Bank was instrumental in obtaining donor funded
+grants and technical assistance, and as a result, several technical assistance activities were funded by
+Grants and not Bank financing, which allowed the Borrower to request re-allocation of funds within the
+categories.
+6. sustaWnability
+6.1 J?ationale for sustainability rating:
+Achievements under the project are expected to be sustainable. The Institutional building activities
+supported by the project included the setting up of the systems and procedures for budget preparation,
+budget execution/treasury operations and debt management have been operating successfully over the last
+two years of project implementation as has been described under the section describing the achievement of
+project objectives. The institutional structures and systems have now become an operational part of the
+arrangement for public finance management in Hungary. Funding under the budget has been provided to
+the treasury for maintenance and upgrading of hardware and software procured under the project. In view
+of this, it can be concluded that the achievements under this project are expected to be sustainable.
+- 8-
+
+
+
+6.2 Transition arrangement to regular operations:
+The Institutions and systems set up as part of this project are now routinely used by the Government as
+part of its apparatus for public finance managements. The transition to regular operations has already
+successfully taken place.
+7. Bank and Borrower Performance
+Bank
+7.1 Lending:
+The Bank's performance in all aspects of the project cycle was satisfactory. Project design for the Treasury
+system in particular was based on IMF recommendations. Close liaison with the IMF contributed to
+suitable project design. There were no significant deviations from Bank policies or procedures during
+project preparation. This project supported policy dialogue undertaken at the time of project preparation
+under a Public Sector Adjustment (PSAL) operation, and was consistent with the CAS (June, 1995) for
+Hungary. Bank and IMF staff assisted the Government in identifying key areas that needed technical
+assistance to support the policy reforms being proposed under the PSAL operation.
+7.2 Supervision:
+Soon after project approval, the Task Team Leader (TTL) was posted to the Bank office in Budapest. This
+contributed very significantly to the quality of project supervision since the implementing agencies were
+readily available to get Bank advice on both the substantive and procedural aspects related to project
+implementation. The TTL was able to solve all procedural problems associated with Bank procurement and
+financial management on site and was able to quickly get relevant technical advice on budget management,
+debt management and treasury and informatics issues from team members at headquarters. This mode of
+operation made the supervision process a continuous activity rather than being confined to formal
+supervision mnissions. The Bank team was also ably supported by both the Disbursements and the Legal
+Departments.
+A QAG review of a cohort of technical projects undertaken for ECA rated the quality of supervision for
+the project as satisfactory. The Treasury component moved very quickly, within about a year of
+effectiveness the bulk of the loan was disbursed five times the appraisal estimate. The Treasury system
+implemented under the project is functioning well, processing and government receipts and expenditures
+against a TSA set up at the National Bank of Hungary. The significant advances have also taken place in
+the budget formulation and debt management areas with new methodologies systems and procedures in
+place and functioning.
+7 3 Overall Bank performance:
+In view of project outcomes and the quality of supervision the overall Bank performance is assessed as
+satisfactory
+Borrower
+7.4 Preparation:
+The Borrower was involved in the preparation and design phases and quickly assumed the leadership in
+formulating and executing project activities. In view of the proactive role played by the Borrower,
+Borrower performance can be rated as satisfactory. The QAG review mentioned above, stated that Bank
+supervision played essentially a supporting role to the Governments' energetic leadership, offering advice,
+illuminating choices, exposing authorities to experiences elsewhere and encouraging collaboration among
+agencies . The Bank also helped shape the terms of reference for technical assistance to be financed by
+other donors, thus remaining involved in capacity building.
+-9-
+
+
+
+7.5 Government implenmentation perforinance:
+The Ministry of Finance was responsible for overall project coordination. Execution of individual
+components was delegated to the respective departments e.g. the Budget departnent of the MOF for the
+Budget management component, The Treasury for the Treasury component and the Debt Management
+Agency for the Debt Management component.
+7.6 li?plementingAgency-
+The implementing agencies mentioned above were responsible for the individual components.
+They were very responsive to the irnplementation needs of the project and generally excellent cooperation
+was established with the task team and maintained through out the project. A project manager and an
+assistant was retained by the entities and unit in the National Bank of Hungary was responsible for
+maintaining project accounts and the financial management aspects of the project, including project audits.
+Since this person unit was well versed with Bank procedures, these tasks were accomplished very
+efficiently.
+7.7 Overall Borrower performance:
+Overall performance of the Borrowers implementing agencies can be assessed as satisfactory
+0. Lessons Learnedi
+There are some lessons to be learned from this project:
+(i)    Strong conmmtnment of the Government: It was recognized that substantive coordination was
+required in a project of this sort to ensure that new process, procedures and methodologies for public
+finance management which were designed under the project were introduced across Government in a
+coordinated and consistent manner This type of coordination was possible only by pro-active participation
+and guidance from officials at the highest levels who were part of the Government's overall reform effort
+and were entrusted with implementing the Government's financial reform program. Strong and continued
+Government commitment to public finance management reforms despite several staff changes at the highest
+level in the MOF during the latter part of implementation was a key factor in the success of this project.
+(ii)   Focused and a well deTmed program: This was especially applicable to the Treasury
+component. In the design of this component, attention was carefully focused particularly to provide
+adequate attention to functional design issues prior to computerization issues, to ensure effective and
+efficient implementation. As a result, the execution of this component and its effectiveness has been
+excellent.
+(iii)  Availabiity of qualfied staff: The availability of qualified and committed staff at all three
+institutions was another major factor in the smooth and efficient implementation of all components. A core
+group of experts within each institution were assigned for the implementation of the components, and for
+the most part were retained through implementation.
+(iv)   Flexibdiity in design of components: The Bank and the counterparts worked closely to be
+flexible on the designs and approaches to imnplement best practice solutions. Through Bank supervision
+missions, experts from various countries were made available to the counterparts to discuss and brainstorm
+with them the advantages and disadvantages of the different public finance management systems and
+procedures used by different countries, which enabled the counterparts to have a better understanding of
+their own requirements and not be confined to one particular system that may not have been the most
+optimal. This flexibility, also led to a reduction in the cost of the PFM network component, which was
+- 1 0 -
+
+
+
+restricted to the development by the MOF of a data model that defined the relationships of the major data
+entities that were involved in public finance business processes and data bases which were used for the
+various systems used for public finance.
+(v)    Continuity of project staff: The same Bank team that was at appraisal of this project was
+involved with the project through to completion. In addition, the team leader was posted to the Bank's field
+office in Budapest, which made communications with the participating institutions much smoother and
+project administration very efficient.
+9. Partner Comments
+(a) Borrower/implementing agency:
+Background
+In the middle of 1990's the Hungarian Government decided to launch reform of public finance
+management. The reform was initiated by IMF recommendations and associated by Bank. The reform
+program aimed to change the public financial sector institutional structure and the budget planning and
+management processes. The Government launched a three-year program to establish Treasury for
+budgetary transparency and reduce waste of resources and increase efficiency and improvement of financial
+planning. The consolidation started from January 1, 1996. The Treasury was based on county (regional)
+structure with directorate in each capital of county. The Headquarter and the Budapest Branch formed in
+Budapest. 18 branches forned in counties based on National Bank of Hungary branch network.
+Project Objectives and Components
+The Project objective was to assist and support Government to optimize the deployment of the reform
+components. The reform components aimed to introduce new budgeting method, to minimize the cost of
+government financing, to optimize the management of public dept and to launch new integrated Public
+Financial Management. The Public Financial Management Project (PFMP) had four components to
+achieve objectives. (1) Budget Preparation was designed to support development and implementation new
+budget preparation methods and system. (2) Treasury Operation was founded to assist Treasury in
+development effective cash management and in development the procedures of budget information. (3)
+Debt Management contained the development new improved methods and information systems for
+management of Governrnent debt. (4) Public Finance Management Information Systems Network
+component aimed to identify interfaces between different systems which managed Government financial
+information separately. This component also assisted to develop data models, procedures and standards.
+Implementation experience and achievement of Objectives
+All of the objectives have been accomplished. The Government three-year-plan to improve financial and
+budget management started in 1996 has been successfully finished. The budgeting process was
+rationalized.
+(1) Budget Preparation Component has been accomplished by PFMP. Based on the medium term fiscal
+framework a number of changes made in the Law of Public Finance. The two-year budget was launched
+by Ministry of Finance. The Ministry of Finance has formed the database of Government financial
+information which covers all of the relevance Government financial information. This database improved to
+better support budgeting procedures.
+
+
+
+(2) Treasury Operations Component has been successfully finished. The Treasury organization founded
+with Headquarter, Budapest Branch and 18 branches in each county. The Treasury controls Government
+funds. The treasury single account has taken place. Based on the Public Finance Law changes the
+Treasury split to three organizations in 2001. (i) Debt Management Agency manages Government debts.
+(ii) State Treasury covers accounting functions. (iii) State Public Finance Office manages the budget
+planning functions. These three organizations manages treasury functions effectively and transparently,
+improved the control functions. The treasury and budgetary management systems have been deployed,
+including IT systems. There are electronic interfaces between systems to keep data up-to-date and
+real-time. The systems are connected to other relevant financial systems via electronic interfaces too. The
+number of transactions of treasury system increase year by year. The treasury system manages millions of
+transactions by month.
+(3) Debt Management Component has been accomplished. The Government formed the Govermnent Debt
+Management Agency in 2001. The Agency is owned by Republic of Hungary with the Ministry of Finance
+ownership responsibility. The Government launched the new debt management strategy. The Agency
+focuses to the development of the domestic Government bond market. The Agency reorganized its
+organization to manage tasks effectively, formed back office, middle office and front office. The Agency
+deployed new processes, hardware and software elements and IT system to manage new procedures. The
+PFMP supported the Agency to implement new strategy.
+(4) Public Finance Management Infornation System Network component accomplished together with
+Treasury Operation component. This component supported the identification of data entities which are
+relevant for public finance processes. The Project assisted to define new data models for budget planning,
+controlling and reporting.
+Ba]sk Performainace
+There were not any inconveniences or troubles about procurements which were executed in accordance
+with rules of procurements of the Bank. The consulting, supporting and controlling activity of the Bank
+was advantageous and adequate. The amount of the loan and the timeframe of project were harmonized
+with objectives. The original plan of financing was well-founded. There is no doubt that the Project
+objectives and results are advantageous. The Project successfully finished all of the components.
+Assessment of Omtcome
+The new implemented public finance management procedures and systems are still being used. The PFMP
+catalyzed the Hungarian Government's public finance reform deployment. The new procedures, budgeting
+and controlling methods, the new legal and organizational background have improved the public finance
+management efficiency and transparency.
+(b) Cofinanciers:
+N/A
+(c) Other partners (NGOs/private sector).
+N/A
+10. Addfitfionall rmformtdon
+N/A
+- 12-
+
+
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+Outcome I Impact Indicators:
+*   -      - EIndicator/Matrix  . .         Projected in last PSR       -        Actual/Latest Estimate-l
+Budget Preparabon.                   Introduce improved methods, procedures and Methods, procedures and systems for budget
+Introduce improved methods, procedures and systems for budget preparation, macro  preparabon, macro economic forecasting and
+systems for budget preparation, macro  economic forecasting and preparation of  preparabon of forward estimates implementd
+economic forecasting and preparation of  forward estimates                 and in operation
+forward eshmates
+Treasury operations:                 Revised funchonal and technical design of  Treasurey single account in operation
+- Revised functional and technical design of systems, processes and procedures for
+systems, processes and procedures for  implementing a central payment process
+implementng a central payment process  through the Treasury
+through the Treasury .
+Debt Management                      Establish debt database that would integrate Data base established and in operation
+- Establish debt database that would  data for domestic and foreign public debt
+integrate data for domestic and foreign public
+debt
+Output Indicators:
+Indicator/Matrix - -               Projected in last PSR ..   .   -E                       e
+Improved methods and guidelines for budget Improved methods and guidelines for budget Improved forecasting techniques and forward
+preparabon, macroeconomic forecasUng and preparabon, macroeconomic forecastng and estimates adopted
+preparaton of forward estimates      preparation of forward estimates to be
+completed
+Revised structure and chart of accounts  Revise structure and Chart of accounts  New structures and chart of accounts
+conforming with GFS and EU classification  conforming with GFS and EU classification  implemented and in operation
+methodologies                        methodologies to be completed
+Full functional design of systems, processes Full functional design of systems, processes Systems completed and in operation
+and procedures for budget preparation  and procedures for budget preparation,
+completed
+Detailed regulations and operating manuals  Detailed regulations and operating manuals  Manuals completed and are being used
+for Budget preparation               completed
+Adequate numbers of staff trained in GFS  Adequate number of staff trained  Adequate number of staff have been trained
+methodology
+Full funcbonal design of systems, processes Full functional design of systems, processes Design of new system completed and
+and procedures for Treasury Operations  and procedures for Treasury Operations  implemented. STA in operation
+completed                            completed and implemented
+Adequate numbers of staff trained in the use Adequate numbers of staff trained in the use Adequate number of staff trained in the use
+of the new Treasury Operations Systems  of the new Treasury Operations Systems  of the new system
+HiW, SAN delivered, installed and tested  HIN, SM1 delivered, installed and tested  Systems installed and provide required
+functionality
+Full functional design of systems, processes Full functonal design of systems, processes Systems and processes implemented and in
+for Debt Management completed        for Debt Management completed and     operabon
+implemented
+Detailed regulations and operabng manuals  Detailed regulations and operaUng manuals  Manuals completed and in use
+prepared                             completed
+HAN, SAN delivered, installed and tested  HAN, SAN delivered, installed and tested  Systems implemented and provides required
+funcbonarity
+End of project
+-13 -
+
+
+
+Anmex 2. IPnroect Costs and Financ¢ing
+Project Cost by Component (in USS million equivalent)
+.-.1 FVaksalt  Actual/Latest  Percentage of
+Estimate      Estimate      Appraisal
+- Project Cost By Compoonent          US$ mnilion   US$ million
+Budget Preparation                                  1.10           1.58           1.44
+Treasury Operations                                 4.50           6.62           1.47
+Debt management                                     1.83           2.11           1.15
+PFM-IS Network                                      2.42           0.00          -2.42
+Project Manag,ement                                 0.85           0.08          -0.91
+Total Baseline Cost                                10.70          10.39
+TotaD Project Costs            10.70          10.39   1
+Total Financing Required             10.70         10.39   1
+Project Costs by Procurement Arrangements (AppraisaD Estimate) (US$ million equivalent)
+'  x w=>0- r';   '  'Procurement Method
+Expendit,ure Category' .   C           NC8         Other        N.B.F.     Total Cost
+1. Works                     0.00         0.00         0.00         0.09         0.09
+(0.00)       (0.00)       (0.00)        (0.00)      (0.00)
+2. Goods                     3.24         0.00         0.58          1.91        5.73
+(3.24)       (0.00)        (0.58)       (0.00)      (3.82)
+3. Services                  0.00         0.00         3.74         0.45         4.19
+(0.00)       (0.00)        (3.74)       (0.00)      (3.74)
+4. Training                  0.00         0.00         0.19         0.11         0.30
+(0.00)       (0.00)        (0.19)       (0.00)      (0.19)
+5. Recurrent Costs           0.00         0.00         0.00         0.39         0.39
+(0.00)       (0.00)        (0.00)       (0.00)      (0.00)
+6. Miscellaneous             0.00         0.00         0.00         0.00         0.00
+(0.00)       (0.00)        (0.00)       (0.00)      (0.00)
+Total                     3.24          0.00         4.51         2.95        10.70
+(3.24)       (0.00)        (4.51)       (0.00)      (7.75)
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+Procurement Method
+Expenditure Categbry.,   [CB           NCB             2        N.B.F.    Total Cost
+Expenditure                           ~~~~ ~~~Other _ _ _ _ _ _
+1. Works                     0.00         0.00         0.00         0.00        0.00
+(0.00)       (0.00)       (0.00)      (0.00)       (0.00)
+2. Goods                     4.41         0.00         2.29         2.91        9.61
+(4.41)       (0.00)       (2.29)      (0.00)       (6.70)
+3. Seovices                  0.00         0.00         0.56         0.22        0.78
+- 14 -
+
+
+
+(0.00)         (0.00)         (0.56)        (0.00)        (0.56)
+4. Training                      0.00           0.00           0.00          0.00          0.00
+(0.00)         (0.00)         (0.00)        (0.00)        (0.00)
+5. Recurrent Costs               0.00           0.00           0.00          0.00          0.00
+(0.00)         (0.00)         (0.00)        (0.00)        (0.00)
+6. Miscellaneous                 0.00           0.00           0.00          0.00          0.00
+(0.00)         (0.00)         (0.00)        (0.00)        (0.00)
+Total                         4.41           0.00           2.85          3.13          10.39
+(4.41)         (0.00)         (2.85)        (0.00)        (7.26)
+"Figures in parenthiesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+2Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+managing the project, and (ii) re-lending project funds to local government units.
+Project Financing by Component (in US$ million equivalent)
+1" n - - 1 I - I ~~~~~~~~~~~~~~Percen0'ge of A.'ppraisaiI
+IJ '<rO °"Conivonent  | C  -  ppraisal Estimate -  _ L   Actual/Latest Estimate I .  -            ! ,-!-  
+=  ~     - __          _ =                                             _  _ __        _ -  -_     _. .
+1- - Bank      Govt.   .'4 CoF. -   Bank      Go%..     CoF.     Bank   Gov'.  Col.
+Budget Preparation        0.82      0.28                 1.28      0.30              156.1   107.1
+Treasury Operation        3.27      1.23                 4.14      2.48               126.6  201.6
+Debt Management           1.41      0.42                 1.78      0.33              126.2   78.6
+PFM-IS Network            1.75      0.67                 0.00      0.00               0.0     0.0
+Project Management        0.50      0.35                0 06       0.08               12.0   22.9
+-15 -
+
+
+
+AffunneT. 3. EconennDc Cost§ andl B3eneTits
+N/A
+-16-
+
+
+
+Annex 4. Bank Inputs
+(a) Mzssions
+Stage of-Project Cycle            No. of Persons and Specialty      Perfonnance Rating
+(e.g. 2 Economists, 1 FMS, etc.)  Implementation Development
+Month/Year   Count        Specialty                  Progress   Objective
+Identification/Preparation
+11/1995                 6   INFORMATION
+TECHNOLOGY SPECIALIST
+(2)
+SENIOR FINANCIAL
+ANALYST
+PUBLIC SECTOR
+MANAGEMENT SPECIALIST
+ECONOMIST (2)
+Appraisal/Negotiation
+02/1996                  5   INFORMATION
+TECHNOLOGY
+SPECIALIST
+SENIOR FINANCIAL
+ANALYST
+PUBLIC SECTOR
+MANAGEMENT
+SPECIALIST
+ECONOMIST (2)
+10/1996                 3   INFORMATION
+TECHNOLOGY SPECIALIST
+SENIOR FINANCIAL
+ANALYST
+PUBLIC SECTOR
+MANAGEMENT SPECIALIST
+Supervision
+02/1997                  3   TASK MANAGER (1);             S           S
+SYSTEMS SPECIALIST
+(1); PUBLIC FIN.
+ECONOMIST (I)
+09/1997                  3  TASK MANAGER (1);SYSTEM        S           S
+SPECIALIST (1); PUBLIC
+FIN.ECONOMIST
+03/1998                  3  TASK MANAGER (1);              S           S
+SYSTEMS SPECIALIST (1);
+PUBLIC FIN. ECONOMIST (I)
+09/1998                  3  MISSION LEADER (1);            S           S
+SYSTEMS SPECIALIST (1);
+PUBLIC FIN. ECONOMIST (1)
+06/1999                  3   TASK MANAGER (1);             S           S
+SYSTEMS SPECIALIST (1);
+PUBLIC FfN. ECONOMIST (1)
+12/1999                  3  TASK MANAGER (1); SR.          S           S
+SYSTEMS SPECIALIST (1);
+FINANCIAL ECONOMIST (1)
+-17-
+
+
+
+05/2000                     1   TASK MANAGER (1)                  S            S
+12/2000                     2   TASK MANAGER(I)                   S            S
+SR. SYSTEMS SPECIALIST (1)
+06/2001                     2   TASK MANAGER (1); SR.             S             S
+SYSTEMS SPECIALIST
+12/2001                     1   TASK MANAGER(I)                   S            S
+11CR
+06/2002                     2    TASK MANAGER (I);                S             S
+DNFORMATION
+TECHNOLOGY (1)
+(b) Staff:
+Stage of Project Cycle.  1              Actual/Latest Estimate
+No. Staff weeks             US$ ('000)
+Identification/Preparation
+Appraisal/Negotiation
+Supervision                           40.62                     299,986
+ICR                                     4.00                     11,032
+Total                                  44.62                    311,018
+- 18 -
+
+
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+Rating
+Eli Macro policies                     O H   OSUOM      O N   * NA
+OI Sector Policies                     OH    OSUOM      ON    * NA
+D Physical                             O H   OSUOM      O N  * NA
+CJ Financial                           O H   OSUOM      O N  * NA
+Ol Institutional Development           0 H   O SU O M   0 N   0 NA
+OI Environmental                       O H   OSUOM      O N   * NA
+Social
+El Poverty Reduction             O H   OSUOM      O N  * NA
+FO Gender                        O H   OSUOM      O N  * NA
+El Other (Please specify)        O H   OSUOM      O N  * NA
+I Private sector development           0 H   O SU O M   0 N   * NA
+I Public sector management             0 H   * SU 0 M   0 N   0 NA
+3 Other (Please specify)               O H   OSUOM      O N   * NA
+-19 -
+
+
+
+Anxnex 6. Ratings of IBank %nd BSoirroweir Performance
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+6.1 Bank performance                                 Rating
+O Lending                                            OHS OS       OiU    OHU
+OI Supervision                                       OHS OS       OLU    OHU
+O Overall                                            OHS OS O U O HU
+6.2 Borrowerperformance                              Rating
+OI Preparation                                       OHS OS       O  U   O HU
+OI Government implementation performance             O HS O S     0   U  0 HU
+OI Implementation agency performance                 OHS OS       O   U  O HU
+El Overall                                           OHS OS       O  U   O HU
+- 20 -
+
+
+
+Annex 7. List of Supporting Documents
+Staff Appriasal Report, Technical Annex No. T-6987-HU
+Bank Mission Back-to-Office Reports and Aide-Memoires from 1997-2002
+-21 -
+
+
+
+- 22 -
+
+
+
+
+
+
+Report No.:        25248
+Type:     ICR
+
+
+

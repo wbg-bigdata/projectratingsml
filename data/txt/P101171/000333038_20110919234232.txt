@@ -1,0 +1,974 @@
+﻿                                        64565 v1
+                       Document of
+                    The World Bank
+
+
+                                                   Report No:
+
+
+
+
+                 RESTRUCTURING PAPER
+
+                         ON A
+
+           PROPOSED PROJECT RESTRUCTURING
+                   JANUARY 13, 2009
+
+IN SUPPORT OF THE SECOND AND THIRD PHASES OF THE SYSTEM
+
+
+
+                        TO THE
+
+                 ARGENTINE REPUBLIC
+
+
+                    September, 7 2011
+2
+                        ABBREVIATIONS AND ACRONYMS
+
+AFIP    Federal Public Revenue Administration (Administración Federal de Ingresos
+        Públicos)
+AGN     Auditor General’s Office (Auditoria General de la Nación)
+ANSES   National Social Security Administration (Administración Nacional de Seguridad
+        Social)
+APL     Adaptable Program Loan
+APN     National Public Administration (Administración Pública Nacional)
+BCP     Business Continuity Plan
+CNCPS   National Coordination Council for Social Policies (Consejo Nacional de
+        Coordinación de Políticas Sociales)
+CSIRT   Computer Security Incident Response Team
+DNPDP   National Directorate of Personal Data Protection (Dirección Nacional de Protección
+        de Datos Personales)
+ESAS    Security Awareness Statement
+IBRD    International Bank for Reconstruction and Development
+G-to-C  Government to Citizens
+ICT     Information and Communication Technology
+LUA     Students File (Legajo de Alumnos)
+MECON   Ministry of Economy and Public Finance (Ministerio de Economía y Finanzas
+        Públicas)
+M&E     Monitoring and Evaluation
+ONTI    National Office of Information Technology (Oficina Nacional de Tecnología
+        Informática)
+PCU     Provincial Coordinating Units
+PDO     Project Development Objective
+RENAPER National Registry of People (Registro Nacional de las Personas)
+SINTyS  Social and Fiscal National Identification System
+SOA     Service-oriented Architecture
+SOP     Standard Operating Procedure
+SWED    Servicio Web de Envío y Descarga (Web service to send and download)
+
+                Regional Vice President:        Pamela Cox
+                       Country Director:        Penelope J. Brook
+               Sector Manager / Director:       Alberto Leyton /Arturo Herrera
+                      Task Team Leader:         Ana Bellver Vázquez-Dodero
+                             ARGENTINA
+     SOCIAL AND FISCAL NATIONAL IDENTIFICATION SYSTEM –SINTYS- II
+                               P101170
+                             CONTENTS
+
+                                                                                                                     Page
+A. SUMMARY ............................................................................................................... 4
+B. PROJECT STATUS ................................................................................................. 4
+C. PROPOSED CHANGES .......................................................................................... 6
+D. APPRAISAL SUMMARY ....................................................................................... 7
+ANNEX 1: RESULTS FRAMEWORK AND MONITORING.................................... 8
+ANNEX 2: COST PER COMPONENT........................................................................ 21
+
+
+
+
+                                                             4
+ SOCIAL AND FISCAL NATIONAL IDENTIFICATION SYSTEM –SINTYS- II
+
+                             RESTRUCTURING PAPER
+
+
+
+
+SUMMARY
+The proposed changes aim at supporting the project as it moves from the expansion stage
+to the consolidation stage and ensuring its sustainability after closing. The proposed
+modifications include: (i) changes to intermediate indicators, aimed at revising the
+results framework to provide for indicators that have continued relevance and that can be
+realistically measured at exit given project progress and the actual parameters of the
+system established under the project; and (ii) reallocation of remaining loan proceeds to
+address the financial requirements of the consolidation stage and to adjust for changes in
+prices. The restructuring does not modify the PDO and prospects for achieving the PDO
+under the restructured project remain positive.
+
+
+PROJECT STATUS
+The project has been performing satisfactorily. Outcomes have been positive during the
+first two and a half years of project implementation. Most PDO and intermediate
+indicators are being achieved as planned. Progress towards the achievement of the PDO
+includes the expansion of the percentage of univocally identified physical and juridical
+persons, which has already reached 92% and 55% respectively; the expansion to other
+government agencies and programs of consistent common processes to identify entities
+and assets, and the consolidation of the information exchange network, which maintains
+97 percent availability. The expansion of the IT infrastructure of SINTyS is being
+finalized, with the implementation of a safe room and the inauguration of a new location
+with improved IT and information security, which contributes to ensure data protection
+and accessibility. The project has initiated the consolidation phase, based on a greater
+focus on services, the institutionalization of the program and data quality management.
+In terms of implementation progress, the project has disbursed about 67% of the IBRD
+loan, with project components and sub-components advancing satisfactorily as discussed
+below.
+
+Component 1 - Institutional and Legal Framework: The objective of this component is to
+support the development and implementation of the legal and institutional framework
+required to ensure the continued institutionalization of SINTyS in the Argentine public
+sector at national, provincial and municipal levels.
+
+Steady progress has been made in this component as SINTyS was incorporated into the
+structure of the public administration as a National Directorate, with the approval of
+Decree 78/07, followed by Decrees 486/10, 487/10 and 488/10 appointing the National
+Director, the Director of Informational Technology Integration and the Director of
+                                            5
+Technology for Information Exchange. In addition, the move of SINTyS to a new
+location, especially furnished to host the safe room, additional equipment and most of
+SINTyS staff have further contributed to SINTyS institutionalization as well as the
+increase in the budget allocation for the program (Decree 2052/10 that increases the
+outstanding loans of CNCPS, to strengthen services provided by the SINTyS, financed by
+IBRD Loan No. 7572). Currently 11 of the 23 provinces have SINTyS Provincial
+Coordinating Units (PCU) and are interconnected to the network, processing information
+exchange services to agencies of their respective jurisdictions in a decentralized way.
+Progress has also been made in the definition of the legal framework that facilitates the
+exchange of information conducted under SINTyS, which helps ensuring quality and
+privacy.
+
+Component 2 - Information Management and Data Quality Framework: The objective of
+this component is to support SINTyS management information, with particular emphasis
+on improving the data quality across the system.
+
+SINTyS has established a successful data quality management at headquarters and in the
+provinces with SINTyS nodes (11 provinces). The data quality services provided to the
+provincial; nodes by central level include data standards for specific topics, templates,
+personal training, validation of the results of the mapping data (cross) and integration. A
+detailed data quality operational manual has been developed, with a methodology and
+detailed instructions. The quality of data services provided by both the central office as
+SINTyS provincial nodes to agencies include: presentation of the results of the data
+mapping and individual applications for data integration.
+
+Component 3 - Technological Framework for the Information Exchange: The objective
+of this component is to support the expansion and institutionalization of information
+exchange that would: (1) eliminate barriers to information exchange among participating
+institutions by continuing the implementation and financing of nodes at the national and
+provincial levels; and (2) assist municipalities participating in the system with technical
+assistance and targeted financing for software and hardware.
+
+Significant progress has been made in the acquisition, installation and operation of the
+technological infrastructure for SINTyS. The new data center (safe room) was recently
+put into operation which combined with all the other equipment ensures the SINTyS
+counts with cutting edge technology to support the delivery of its services.
+
+Component 4 – Information Security: The objective of this component is to support the
+further development and implementation of a robust information security architecture and
+framework to ensure that SINTyS can run operations safely and reliably.
+
+Progress has been made in the implementation of SINTyS security controls of
+information in the new location of Central SINTyS which hosts the new data center and
+the Network Operations Center. In addition other physical and environmental security
+controls including the uninterruptible power source, a generator for air conditioning
+equipment, and monitoring system based on closed-circuit television contribute to create
+a modern data center to support its activities in a safe and operationally effective way.
+Once central SINTyS complete replication of their systems at the primary (new) location,
+                                            6
+the current location (secondary) will be used as a contingency site and will operate in a
+"active-passive" mode.
+
+
+PROPOSED CHANGES
+Results/indicators: The restructuring proposes changes to the project’s results
+framework and intermediate indicators. These changes aim at adapting the results
+framework to properly reflect project progress as well as SINTyS challenges in face of
+the consolidation phase. The following indicators are being changed
+    • Component 1: The revision of four indicators in this component responds to the
+       need to reflect the current institutional arrangement of SINTyS. The SINTyS
+       Advisory Body (indicator 1,1.i) has been constituted as part of the CNPS, which
+       holds monthly meetings and the Provincial Advisory Body (indicator 1,1.ii) has
+       been replaced by the Annual meetings with provincial coordinators. Indicator
+       1.2.i has been revised to clarify the role of the DNPDP in determining access
+       rights to information. Indicator 1.2.ii has been revised, to clarify the fact that
+       SINTyS cannot grant access to individual citizens as it is not the owner of the
+       information.1 However, SINTyS will inform in its website to which agency the
+       citizen need to go in case of errors by theme.
+       The indicator associated with user’s forums (1.1.iii) has been dropped as the
+       elaboration of data quality standards, M&E, infrastructure framework, etc. has
+       been centralized in SINTyS.
+    • Component 2: Indicators 2.1.i and 2.1.ii have been revised semantically, to
+       properly reflect the implementation of information exchange standards.
+       Indicators 2.2.vi and 2.2.vii associated with registries of student population have
+       been dropped as the Project does not need to monitor LUA anymore to get the
+       data for persons under 18 years old.
+    • Component 3: Indicator 3.1.i has been dropped as it was related to a specific
+       technology. Since SINTyS now interacts through different technologies, such as
+       web services, there is no need for having an indicator like this. Indicator 3.2.i has
+       been semantically revised.
+See Annex 1 for more details on results indicators.
+
+Financing:
+
+     •    Project Costs. The proposed restructuring will not change the overall project cost
+          and costs per component will be only slightly affected due to savings in the
+
+
+1
+  The pretended mechanism would certainly be useful for citizens, particularly for those who need to rectify errors,
+even when it exceeds SINTyS's institutional mandate. However, there exist some constraints that would turn its
+practical implementation unfeasible. Some of these constraints are: (i) In order to allow citizens to access their personal
+data in compliance with national laws ('habeas data'), a mechanism for robust authentication has to be devised,
+implemented and maintained, capacity that largely exceeds SINTyS's current possibilities. In order to develop that
+capacity, SINTyS should grow considerably to allow for the required granularity country wide; (ii) By giving direct
+access to citizens, SINTyS's operational model would change from G-to-G (government to government) into G-to-C
+(government         to      citizen),     what      would         in        turn        increase       the       associated
+information security risks by a manifold.
+                                                            7
+          acquisition of the safe room, inflation as well as depreciation of the exchange rate.
+          Annex 2 summarizes the changes in the costs per component.
+
+     •    Reallocations. Reallocations include an increase in the goods category, due to the
+          need to continue with investment in IT infrastructure to support the provision of
+          SINTyS services, as well as an increase in consultants’ services and non
+          consultants’ services, due to inflation. Works associated with the installation of
+          the safe room were not needed and consultant services provided by firms were
+          less required due to the decision to protect information security and share as less
+          as possible with external providers. Therefore, funds from categories (2) and (3.a)
+          are reallocated to other categories. Relocations from category (5) correspond to
+          the funds of the Project Preparation Facility (PPF) that were not used by project
+          effectiveness and that are therefore reallocated to other categories. Due to delays
+          in UNOPS procedures, there will be a change in the procurement agent, from
+          UNOPS to the PIU in the use of the remaining funds of the PPF.
+          All these require a reallocation of the loan proceeds as per below.
+                                   Table 1. Allocation per expenditure category.
+             Category                 Amount of the Loan            Percentage of Expenditures to be
+                                            Allocated                          Financed
+                                       (expressed in USD)                 (inclusive of Taxes)
+         Current         Revised     Current         Revised             Current               Revised
+(1). Goods                         11,329,700      12,905,181              100%                No change
+(2). Works                           200,000             0                 100%                No change
+(3). Consultants’
+services under the
+Project:
+a) provided by a firm               1,190,000        74,492                100%                No change
+b) provided by                      3,772,000      3,980,446               100%                No change
+individual consultants
+(4). Non-Consultant                 1,969,000      2,159,506               100%                No change
+Services, training and
+operating costs
+
+(5) Refund of the                   1,489,300       830,375     Amount payable pursuant        No change
+Project Preparation                                               to Preparation Advance
+Advance                                                            Section 2.07 (a) of the
+                                                                    General Conditions
+(6) Front-end Fee                    50,000          50,000     Amount payable pursuant        No change
+                                                                   to Section 2.03 of this
+                                                                 Agreement in accordance
+                                                                with Section 2.07 (b) of the
+                                                                    General Conditions
+TOTAL                              20,000,000      20,000,000
+
+
+
+
+APPRAISAL SUMMARY
+The proposed restructuring does not change substantially the scope of the project nor the
+amount of funding, and therefore it does not alter the project’s economic and financial
+
+
+                                                     8
+viability. There are no new social or environmental issues. It does not trigger new risks
+or exceptions to Bank policy.
+
+
+
+
+                                           9
+                                                                  ANNEX 1:
+                                                      Results Framework and Monitoring
+                      ARGENTINA: SOCIAL AND FISCAL NATIONAL IDENTIFICATION SYSTEM –SINTYS- II
+Project Development Objective: The project's development objective is to identify social and/or fiscal attributes of physical and legal persons in Argentina, through a sustainable
+information exchange system, aimed at improving the efficiency, effectiveness, and impact of social services and fiscal programs at all levels of government in Argentina. The
+specific objectives to be pursued under this operation are: (i) to expand and consolidate the network underlying the exchange of social and fiscal information among public agencies
+at the national, provincial, and municipal levels of government, with provisions to ensure data protection, accessibility, and the quality and accuracy of information; and (ii) to
+consolidate the institutionalization of SINTyS as an independent national entity responsible for coordinating and setting standards governing the exchange of information within
+Argentina's public sector.
+    Project Outcome Indicators            Core D=Dropped             Baseline (Actual at the                                    Cumulative Target Values*
+                                                   C=Continue         time of restructuring
+                                                   d                                                    YR 1                  YR2               YR 3            YR4               YR5
+                                                N= New
+                                                R=Revised
+                                                                  UoM             Value
+                                                                                                      2011                 2012              2013
+The number of government agencies               Continued
+and programs using consistent
+                                                                                                        24
+common processes to identify                                                        16                                      28                38
+entities and assets has increased
+from 16 to 38.
+The percentage of physical persons              Continued
+that can be identified univocally by
+                                                                                    31                  45                  60                92
+SINTyS has increased from 31
+percent to 92 percent
+The percentage of the juridical                 Continued
+persons univocally identified has
+                                                                                    41                  50                  55                70
+increased from 41 percent to 70
+percent.
+The percentage of the population                Continued
+with family relationship data has
+                                                                                     9                                      17                32
+increased from 9 percent to 32                                                                          14
+percent.
+Population identified with a level of           Continued
+confidence equal or greater than 75
+                                                                               35,2 million            36,5                37.2              38.2
+percent has increased from 35.2 to
+38.2 million.
+The number of data types for which              Continued
+                                                                                     0                  0                   30                50
+SINTyS and ONTI have issued
+
+
+
+
+                                                                                          10
+information-exchange standards has
+increased from 0 to 30.
+The information exchange network                       Continued
+                                                                                               97                    97                      97                  97
+maintains 97 percent availability.
+The number of “highly critical�?                        Continued        Highly
+vulnerabilities exploited by                                            critical
+penetration test activities in a                                        vulnera-
+scenario simulating a legitimate                                        bilities by
+                                                                                                0                     2                      1                    0
+SINTyS user from a participating                                        service
+government agency as a proportion
+of services available to agencies has
+decreased from 2 to 0.
+Amount of incorrect benefits not                       Continued
+awarded due to SINTyS in a given                                                                0                   43,8                     45                  51
+year (in US$ Million).
+Increase in tax collections due to                     Continued
+SINTyS in a given year (in US$                                                                  0                    2,1                    2.3                  2.6
+Million).
+                                                                                          Intermediate Results
+
+Component 1: SINTyS’ Institutional and Legal Framework
+Subcomponent 1: Institutional Framework
+Intermediate Result (Subcomponent 1.1):
+SINTyS’ institutional framework, including its institutional imprint, governance structure, and inter-jurisdictional arrangements, are conducive to its medium- and long-term sustainability.
+Revised Intermediate Result (Subcomponent 1.1):
+Unchanged
+SINTyS advisory body in place,                         Revised                          CNPS                CNPS monthly             CNPS monthly          CNPS
+with representation from key                           (no change                       monthly             meetings                 meetings              monthly
+agencies at the national level                         in indicator.                    meetings                                                           meetings
+(DNPDP, ONTI, RENAPER, AFIP,                           Change in
+ANSES), and meets regularly.                           measureme
+                                                       nt as the
+                                                       SINTyS
+                                                       adbvisory
+                                                       body was
+                                                       replaced by
+                                                       the CNPS
+                                                       monthly
+                                                       meetings)
+
+
+
+
+                                                                                                     11
+Provincial advisory body in place,      Revised         Annual            Annual meetings     Annual            Annual
+with representation from provincial     (no change      meetings with     with provincial     meetings with     meetings
+authorities, and meets regularly.       in indicator.   provincial        coordinators        provincial        with
+                                        Change in       coordinators                          coordinators      provincial
+                                        measureme                                                               coordinators
+                                        nt as the
+                                        Provincial
+                                        advisory
+                                        body was
+                                        replaced by
+                                        the annual
+                                        meetings
+                                        with
+                                        provincial
+                                        coordinator
+                                        s)
+Users’ forum is in place, with          Dropped         Used regularly    Used regularly as   Used regularly    Used
+representation of government            SINTyS          as per progress   per progress        as per progress   regularly as
+agencies from all levels of             elaborates      report.           report.             report.           per progress
+government, with various task           data quality                                                            report.
+forces focusing on, among others,       standards,
+data quality, M&E, priority             M&E,
+planning, infrastructure, and           infrastructu
+security, meeting regularly.            re
+                                        framework,
+                                        etc.
+The number of provinces that are        Continued
+financing the salary of the SINTyS
+                                                              4                   6                  8               12
+Provincial Coordinator has
+increased from 4 to 12.
+                                        Continued       Monthly M&E        Monthly M&E        Monthly M&E         Monthly
+An M&E system with a focus on,
+                                                        progress report    progress report    progress report       M&E
+among others, information
+                                                           with key           with key           with key         progress
+exchanges, data quality,
+                                                          indicators.        indicators.        indicators.      report with
+technological framework, security,
+                                                                                                                    key
+and overall performance, is in place.
+                                                                                                                 indicators.
+                                                         SIGEN and
+SINTyS’ systems are audited
+                                                           AGN
+regularly by a qualified external
+auditor.                                Continued
+
+Subcomponent 2: Legal Framework
+
+
+
+
+                                                                   12
+ Intermediate Result (Subcomponent 1.2):
+ SINTyS’ legal framework and corresponding operational mechanisms are consistent with Argentina’s legal framework, with regard to the protection of personal information, effectively safeguarding
+ citizens’ privacy and confidentiality.
+ Revised Intermediate Result (Subcomponent 1.2):
+ Unchanged
+ DNPDP is formally involved in                        Revised                         Conversations       Access profiles        Access profiles      Access
+ validating access rights to                                                          with DNPDP          and use of             and use of           profiles and
+ information (access profiles) and the                                                                    services (and any      services (and        use of
+ use of SWED. [Replaces: DNPDP                                                                            modification to        any                  services (and
+ is formally and routinely involved in                                                                    these) are             modification to      any
+ (1) determining the access rights to                                                                     formally               these) are           modification
+ information of individual agencies                                                                       validated with         formally             to these) are
+ and (2) monitoring its compliance.]                                                                      DNPDP                  validated with       formally
+                                                                                                                                 DNPDP                validated
+                                                                                                                                                      with
+                                                                                                                                                      DNPDP
+ A formal mechanism has been                          Revised                                             SINTyS will            SINTyS will          SINTyS will
+ established that allows individual                                                                       inform in its          inform in its        inform in its
+ citizens to verify the accuracy of                   SINTyS                                              website to which       website to           website to
+ their personal information and, in                   cannot                                              agency the citizen     which agency         which
+ case of errors, correct it.                          grant access                                        need to go in case     the citizen need     agency the
+                                                      to                                                  of errors by           to go in case of     citizen need
+                                                      individual                                          theme.                 errors by theme.     to go in case
+                                                      citizens as                                                                                     of errors by
+                                                      it is not the                                                                                   theme.
+                                                      owner of
+                                                      the
+                                                      information
+                                                      .2 However,
+                                                      SINTyS
+                                                      will inform
+                                                      in its
+                                                      website to
+                                                      which
+
+
+2
+  The pretended mechanism would certainly be useful for citizens, particularly for those who need to rectify errors, even when it exceeds SINTyS's institutional mandate. However,
+there exist some constraints that would turn its practical implementation unfeasible. Some of these constraints are: (i) In order to allow citizens to access their personal data in
+compliance with national laws ('habeas data'), a mechanism for robust authentication has to be devised, implemented and maintained, capacity that largely exceeds SINTyS's current
+possibilities. In order to develop that capacity, SINTyS should grow considerably to allow for the required granularity country wide; (ii) By giving direct access to citizens, SINTyS's
+operational model would change from G-to-G (government to government) into G-to-C (government to citizen), what would in turn increase the associated
+information security risks by a manifold.
+
+
+
+
+                                                                                                  13
+                                           agency the
+                                           citizen need
+                                           to go in
+                                           case of
+                                           errors by
+                                           theme.
+Subcomponent 3: Expansion at the Subnational Level
+Intermediate Result (Subcomponent 1.3):
+SINTyS is effectively decentralized at the subnational level, with provinces playing a key role in facilitating the exchange of information among provincial agencies and their municipalities.
+Revised Intermediate Result (Subcomponent 1.3):
+Unchanged
+The number of provinces that have         Continued
+established their provincial
+                                                                                               13                    21                      24                   24
+coordinating units has increased
+from 13 to 24.
+The number of provincial agencies         Continued
+that routinely exchange information
+                                                                                               63                    79                      85                   92
+under SINTyS has increased from
+63 to 92.
+The number of municipalities that         Continued
+routinely exchange information
+                                                                                               11                    66                      88                   126
+under SINTyS has increased from
+11 to 126.
+The benefits from the exchange of         Continued
+fiscal and social information by
+                                                                                              233                    319                    367                   473
+subnational governments have
+increased from 233 to 473.
+Component 2: Information Management and Data Quality Framework
+Subcomponent 1: Development of Data Standards
+Intermediate Result (Subcomponent 2.1):
+The information being exchanged through SINTyS conforms to the standards established jointly by SINTyS and ONTI.
+Revised Intermediate Result (Subcomponent 2.1):
+Unchanged
+The number of national agencies                         Revised
+implementing national information
+Exchange standards (Replaces: The
+number of national government                                                     2                        3                          3                       4
+agencies that have implemented
+national information-exchange
+standards has increased from 0 to
+
+
+
+
+                                                                                                     14
+4.)
+
+The number of provincial agencies           Revised
+implementing national information
+Exchange standards (Replaces: The
+number of provinces that have                                                4          5     6      7
+adopted national information-
+exchange standards has increased
+from 0 to 6.)
+Subcomponent 2: Increasing Data from Authentic Sources
+Intermediate Result (Subcomponent 2.2):
+Data being exchanged through SINTyS is originated by an authentic source.
+Revised Intermediate Result (Subcomponent 2.2):
+Unchanged
+The percentage of information                        Continued
+exchanged through SINTyS that is
+                                                                            100%    100%     100%   100%
+provided by an authentic source has
+increased from 14 to 23.
+The number of provinces in which                     Continued
+the registries of physical persons
+(registros civiles) have information                                         13         17    19     22
+in electronic form has increased
+from 13 to 22.
+The percentage of overall                            Continued
+information from registries of
+                                                                                              75
+physical persons that is available in                                        31         60           92
+electronic form has increased from
+31 percent to 92 percent.
+The number of provinces in which                     Continued
+registries of juridical persons
+                                                                                              12
+(registros de personas jurídicas)                                            6          10           18
+have information in electronic form
+has increased from 6 to 18.
+The percentage of overall                            Continued
+information from juridical persons
+registries that is available in                                              41         50   55      70
+electronic form has increased from
+41 percent to 70 percent.
+The number of provinces with                         Dropped
+registries of the student population
+(legajos de alumnos) in electronic
+
+
+
+
+                                                                                   15
+(legajos de alumnos) in electronic                    The
+form has increased from 8 to 18.                      Project
+                                                      does not
+                                                      continue
+                                                      to monitor
+                                                      the LUA
+                                                      as it was
+                                                      aimed at
+                                                      getting
+                                                      data for
+                                                      persons
+                                                      under 18
+                                                      years old.
+                                                      Dropped
+
+                                                      The
+                                                      Project
+                                                      does not
+The percentage of overall                             continue
+information from registries of the                    to monitor
+student population that is available                  the LUA
+in electronic form has increased                      as it was
+from 43 percent to 75 percent.                        aimed at
+                                                      getting
+                                                      data for
+                                                      persons
+                                                      under 18
+                                                      years old.
+The number of provinces where the                     Continued
+registries of deeds (registros de
+                                                                                                                                 16
+propiedad) have information in                                  10                                     14                                               20
+electronic form has increased from
+10 to 20.
+The percentage of overall                 Continued
+information from registries of deeds
+that is available in electronic form                            61                                     70                                               85
+                                                                                                                                 75
+has increased from 61 percent to 85
+percent.
+Subcomponent 3: Information Management and Data Quality at the Agency Level
+Intermediate Result (Subcomponent 2.3):
+Participating government agencies at all levels of government are aware of the importance of strengthening their own information management processes and ensuring good data quality. They are
+effectively implementing quality control and monitoring mechanisms when originating the data and updating it routinely.
+
+
+
+
+                                                                                                  16
+effectively implementing quality control and monitoring mechanisms when originating the data and updating it routinely.
+
+Revised Intermediate Result (Subcomponent 2.3):
+Unchanged
+Percentage on compliance with the                      Revised
+minimum and desirable quality
+standards of the databases received
+from national, provincial and
+municipal agencies (Replaces:
+Initial assessment of key information
+                                                                               50                      55                 65   75
+management weaknesses of
+individual agencies, including data
+quality, has been conducted and a
+capacity building strategy has been
+formulated)
+
+The number of government agencies                      Continued
+utilizing Web services for data entry
+                                                                               7                       17                 27   40
+(such as prefilling of data fields) has
+increased from 7 to 40.
+Percentage of capacity building in                     Revised
+Quality of Data in the provincial
+nodes to enhance capacities towards
+decentralization (Replaces: The
+                                                                               30                      40                 50   70
+number of government agencies
+utilizing data quality intelligence
+tools has increased from 0 to 10.)
+
+Subcomponent 4: Developing SINTyS’ Information Management and Data Quality Framework
+Intermediate Result (Subcomponent 2.4):
+The information that is exchanged through SINTyS is of high quality.
+Revised Intermediate Result (Subcomponent 2.4):
+Unchanged
+An information management                  Continued
+framework that includes, among
+others, decentralized data quality
+management (Stage III) has been
+approved by the midterm review.
+Component 3: Technological Framework for the Information Exchange
+Subcomponent 1: Consolidation of the Enabling Environment for the Information Exchange
+
+
+
+
+                                                                                                  17
+Intermediate Result (Subcomponent 3.1):
+The SOA architecture is defined and implemented in stages.
+An M&E framework for the exchange is implemented.
+Revised Intermediate Result (Subcomponent 3.1):
+The SOA architecture is defined and implemented in stages.
+An M&E framework for the exchange is implemented.
+The SOA is defined during Year 1                        Dropped
+and implemented in stages with 10
+percent of activities during Year 2,                    This
+20 percent in Year 3, and 40 percent                    indicator
+in Year 4.                                              was
+                                                        related to
+                                                        a specific
+                                                        technolog
+                                                        y. Since
+                                                        SINTyS
+                                                        now
+                                                        interacts
+                                                        through
+                                                        different
+                                                        technologi
+                                                        es, such as
+                                                        web
+                                                        services,
+                                                        there is no
+                                                        need for
+                                                        having an
+                                                        indicator
+                                                        like this
+An M&E system is designed during                        Continued                              Monthly M&E                Monthly M&E                 Monthly            Monthly
+Year 1 and implemented during                                                                  reports to                 reports to                  M&E reports        M&E
+Year 2, with full monitoring of the                                                            management                 management                  to                 reports to
+exchange beginning during Year 2.                                                                                                                     management         manageme
+                                                                                                                                                                         nt
+Subcomponent 2: Expansion and Consolidation of the Exchange
+Intermediate Result (Subcomponent 3.2):
+The system is expanded to all provinces and selected national agencies, support special projects with infrastructure needs, provide maintenance and reengineering to the infrastructure and
+telecommunication network.
+The critical systems are in a secure data center with full redundancy and control center.
+Revised Intermediate Result (Subcomponent 3.2):
+Unchanged
+
+
+
+
+                                                                                                    18
+Number of national and provincial                         Revised           6 SPFO nodes
+                                                                                                                                                    4 SPFO
+nodes connected and in operation.                                          are connected, 7
+                                                                                                     4 SPFO nodes            4 SPFO nodes            nodes
+Number of institutions on Stage III                                       are in the process
+and number of municipal offices in                                             of being
+operation. (Replaces: Number of                                             connected, of
+                                                                                                                                                  2 SPFOnode
+national and provincial nodes                                                which 1 is in
+                                                                                                   2 SPFO node are on     2 SPFO node are on      are on Stage
+connected and in operation. Number                                             Stage III.
+                                                                                                     Stage III and 30       Stage III and 30       III and 30
+of institutions on Stage III and
+                                                                                                    municipalities are     municipalities are     municipalitie
+number of municipal offices                                               No municipalities
+                                                                                                       connected.              connected              s are
+connected and in operational.)                                             are connected.
+                                                                                                                                                   connected
+The number of government agencies                         Continued                 3                       3                      4                   5
+that perform fully decentralized
+information exchanges has increased
+from 3 to 5.
+Guarantee at least 99 percent up                          Continued
+                                                                                   99                       99                     99                  99
+time during Years 1 to 4.
+A secure data center and control                          Continued                                 60 percent of the       40 percent of the
+center are designed during Year 1                                                                     activities are          activities are      Centers are
+                                                                                 None
+and put into operation during Years                                                                 implemented for       implemented for both    operational
+2 and 3.                                                                                              both centers.             centers.
+A partner institution and/or                              Continued
+provinces that will provide space for
+SINTyS redundancy on a secure
+                                                                                                                             . Implement the
+data center is(are) identified during                                            None              Sign agreement(s).                                   .
+                                                                                                                          redundand data center
+Year 1, an agreement is signed
+during Year 2, and put into
+operation during Year 3.
+Subcomponent 3:Service Delivery
+Intermediate Result (Subcomponent 3.3):
+Web-services tailored to users’ needs are available to participant institutions
+A pilot for an institutional data owner to provide the view to citizens of own data is assessed.
+Revised Intermediate Result (Subcomponent 3.3):
+Unchanged
+2 services the interact with other                        Continued
+                                                                                    3                       2                      2                   2
+agencies
+If feasible, a pilot is designed during                   Continued                                  Assessment has
+                                                                                 None
+Year 1, implemented during Years 2                                                                 been made. It is not
+and 3, and evaluated during Year 4.                                                                feasible to perform
+
+
+
+
+                                                                                                       19
+    and 3, and evaluated during Year 4.                                                               feasible to perform
+                                                                                                            a pilot.3
+    Component 4: Information Security
+    Subcomponent 1: Strengthening of the Security Enabling Environment
+    Intermediate Result (Subcomponent 4.1):
+    Security plans related to security management, infrastructure, and risk management are implemented.
+    Internal and external audits of SINTyS information security practice are carried out on a quarterly basis.
+    Revised Intermediate Result (Subcomponent 4.1):
+    Unchanged
+                                                             Continued                                  Sintys operates its own VPN-based network with national
+                                                                                                       reach, and granular internet access at each Node, arbitrated
+    Establish an information security                                                                 by strong security policies and proper perimeter defenses. A
+    architecture and framework by                                                                          bidding process to acquire a meshed MPLS service
+    which SINTyS can conduct business                                                                  architecture is pending approval at ONTI. The only public
+    safely and reliably and implement                                                                 services offered by SINTyS are a static-content institutional
+    60 percent of it in Year 2, 30 percent                                                            web site and e-mail with PGP support. Services to Agencies
+    in Year 3, and 10 percent in Year 4.                                                                     are delivered with a combination of multi-factor
+                                                                                                     authentication features that include static IP validation, X.509
+                                                                                                                 certificates, and user/agency credentials.
+                                                             Continued                                Beginning in 2007, SINTyS started to hire external audits by
+                                                                                                      world-class security professionals. Although audits were not
+    At least 3 audits are conducted every
+                                                                                                          conducted in 2008 due to financial reasons, they were
+    year by an external (private) firm
+                                                                                                        resumed in 2009. Last year two full-blown pentests and a
+    testing the robustness of the system
+                                                                                                      social engineering audit were conducted. Currently, there is
+    and the control environment.
+                                                                                                       an on-going bidding process for the present year edition of
+                                                                                                                                 the audits.
+                                                             Continued                                AGN has been auditing SINTyS but only on administrative
+                                                                                                       and financial issues. On the other hand SIGEN has audited
+    At least 1 logical and physical
+                                                                                                          SINTyS on information technology matters, including
+    security audit is conducted every
+                                                                                                       information security aspects. Latest audits were conducted
+    year by the internal (SIGEN/AGN)
+                                                                                                        during several auditing practices thru 2007 and 2008. No
+    auditors.
+                                                                                                         audits have been conducted ever since. It's important to
+                                                                                                     remark that SINTyS has no influence whatsoever on SIGEN's
+
+3
+ The pretended mechanism would certainly be useful for citizens, particularly for those who need to rectify errors, even when it exceeds SINTyS's institutional mandate. However, there
+exist some constraints that would turn its practical implementation unfeasible. Some of these constraints are: (i) In order to allow citizens to access their personal data in compliance
+with national laws ('habeas data'), a mechanism for robust authentication has to be devised, implemented and maintained, capacity that largely exceeds SINTyS's current possibilities. In
+order to develop that capacity, SINTyS should grow considerably to allow for the required granularity country wide; (ii) By giving direct access to citizens, SINTyS's operational model
+would change from G-to-G (government to government) into G-to-C (government to citizen), what would in turn increase the associated
+information security risks by a manifold..
+
+
+
+
+                                                                                                          20
+                                                                                                                          auditing agenda.
+
+                                                        Continued                                 This practice has been in place since its conception back in
+SINTyS National Office reports
+                                                                                                  2008. All agency heads from both VUO and Web Services,
+users’ activity to agency heads on a
+                                                                                                  receive a monthly usage report to leverage internal controls
+monthly basis.
+                                                                                                           within the agency under their supervision
+Subcomponent 2: Operational Strengthening and Support of Security Aspects
+Intermediate Result (Subcomponent 4.2):
+The information security practice within SINTyS is performed by specialists with the appropriate level of skill sets and the greatest degree of commitment to the project.
+The personnel forming the core group of the information security practice within SINTyS are well-trained in their respective areas and are required to upgrade their skill sets to meet the changing needs of
+the environment.
+Training programs are conducted periodically to maintain basic information security awareness among the internal user community at SINTyS Central and the provinces.
+Every SINTyS personnel has to undergo the training program and endorse a Security Awareness Statement (ESAS).
+A formal Business Continuity Plan (BCP) has to be established to ensure that SINTyS’ day-to-day operations are not affected in the event of natural or a constructed crisis situation.
+The BCP has to be tested and rehearsed by simulating crisis scenarios and role-playing multiple times during a calendar year.
+Results of the simulated tests have to be shared with Management and included into the BCP for future reference.
+Security events at all five layers of system composition (application, desktop, network, server, database) have to be monitored and correlated to proactively detect any potential anomalies and raise an alert
+for further attention.
+Formation of a computer security incident response team (CSIRT) within SINTyS that clearly defined roles and responsibilities and a set of standard operating procedures (SOP) that have to be taken in
+the wake of a computer related emergency situation.
+Security framework works in an independent environment from SINTyS
+Revised Intermediate Result (Subcomponent 4.2):
+Unchanged
+The number of personnel                                 Continued
+comprising the core information
+                                                                                  4                        8                           9
+security team at SINTyS Central has
+increased from 4 to 8.
+Number of hours each information                        Continued
+security personnel has undergone
+through in order to update/upgrade                                               16                       32                          40
+his skill level has increased from 16
+to 40.
+Percentage of users that have signed                    Continued
+a Security Awareness Statement
+                                                                                 0%                       50%                        80%
+[ESAS] has increased from 0
+percent to 100 percent.
+Number of hours of such training                        Continued
+programs held in a calendar year                                                  4                        8                          12
+amount to 8.
+By midterm, the BCP plan is being                       Continued
+                                                                                  0                        2                           2
+tested twice a year.
+
+
+
+
+                                                                                                     21
+Approval records for ratifying all              Continued
+                                                            Some informal
+activities for executing major
+                                                            procedures in        Formal procedures in place
+changes in the system and at the
+                                                               place
+network level.
+Events are captured and reported as             Continued
+part of the daily MIS reporting to
+the process owners. All significant
+                                                                70%          100%                     100%
+events are reviewed for anomalies
+and all exceptions are investigated
+further.
+By midterm, roles and responsibility            Continued
+matrix for incident response team
+and define a set of standard                                    50%          100%                     100%
+operating procedures for handling
+computer security incidents.
+Component 5: Project Management
+Intermediate Result (Component 5):
+Financial sustainability is ensured
+Revised Intermediate Result (Subcomponent 5):
+Unchanged
+At mid-term a five-year plan                    Continued
+has been presented for
+SINTyS’ financing, including,
+among others, sources of
+financing for human resources,
+technological upgrade, renewal
+and maintenance at the
+national, provincial and
+municipal levels.
+
+
+
+
+                                                                            22
+                                           ANNEX 2:
+                                      Cost per component
+        ARGENTINA: SOCIAL AND FISCAL NATIONAL IDENTIFICATION
+                         SYSTEM –SINTYS- II
+
+                                       Current cost    Disbursed     Proposed         Cost after
+                                      (Million US$ )               reallocation of   reallocation
+                                                                    undisbursed
+                                                                        funds
+
+I. SINTyS’ Institutional and Legal        0,93           0,57            0              0,93
+Framework
+1.1. Institutional Framework              0,52           0,12           -0,4            0,12
+1.2. Legal Framework                      0,07           0,17           0,18            0,25
+1.3. Expansion at the Subnational         0,34           0,28           0,22            0,56
+Level
+II. Information Management and            2,12           0,48          -1,18            0,94
+Data Quality Framework
+2.1. Development of Data Standards        0,49           0,19          -0,22            0,27
+2.2. Increasing Data from Authentic       0,8            0,05          -0,65            0,15
+Sources
+2.3 Information Management and            0,39           0,24           0,13            0,52
+Data Quality at the Agency Level
+                                          0,44                         -0,44
+2.4. Developing SINTyS’ Information
+Management and Data Quality
+Framework
+III. Technological Framework for          11,23          6,73           1,39            12,62
+the Information Exchange
+                                          2,11           3,25           2,74            4,85
+3.1. Consolidation of the Enabling
+Environment for the Information
+Exchange
+3.2. Expansion and Consolidation of       6,13           2,74          -0,08            6,05
+the Exchange
+                                          2,99           0,74          -1,27            1,72
+3.3 Service Delivery
+                                          5,37           3,22          -0,35            5,02
+IV. Information Security
+4.1. Strengthening of the Security        0,47           3,15           4,37            4,84
+Enabling Environment
+4.2. Operational Strengthening and         4,9           0,07          -4,72            0,18
+Support of Security Aspects
+II. Project management                    0,35           0,39           0,14            0,49
+Unallocated
+Total                                      20            11,39                           20
+

@@ -1,0 +1,930 @@
+                                                                  87059
+                     PES Learning Paper 2008-1
+
+
+Assessing the Potential for Payments for Watershed Services
+         to Reduce Poverty in Highland Guatemala
+
+                Stefano Pagiola, Wei Zhang, and Ale Colom
+
+
+
+
+                                July 2008
+
+     Latin America and Caribbean Sustainable Development Department
+                               World Bank
+                            Washington DC, USA
+Abstract	  
+It has often been assumed that payments for watershed services (PWS) would go mostly to poor
+land users, thus contributing to poverty reduction, but there has been little empirical
+verification to date. This paper uses data from highland Guatemala to assess the potential for
+PWS to reduce poverty by examining whether the recipients of payments for environmental
+services are likely to be poor. The watersheds in which PWS would be feasible due to the
+presence of downstream water users are mapped, and compared to maps of poverty rates and
+densities. Poverty rates vary substantially in areas where PWS could be developed. The total
+number of poor that could potentially be reached if PWS mechanisms were developed in all the
+water supply areas is 1.76 million, or 34 percent of the country’s poor (excluding Petén).
+
+Authors	  
+Stefano Pagiola is a senior environmental economist and Wei Zhang is a consultant, Environment
+Department, World Bank. Ale Colom is an independent consultant. 	  
+
+Keywords
+Payments for environmental services (PES), mapping, environmental services, watershed,
+poverty, Guatemala
+
+Acknowledgements
+Work on this paper was initiated in conjunction with the preparation of a proposed World Bank
+project, the Western Altiplano Natural Resources Management Project, that would have piloted
+the use of PES in Guatemala. However, the National Assembly never voted on the project, and it
+was ultimately cancelled. The research for this paper was financed in part by a grant from the
+Norwegian Trust Fund for Environmentally and Socially Sustainable Development. A poster based
+on this paper was presented at the Annual Meeting of the American Agricultural Economics
+Association, Orlando, Florida, July 27-29, 2008.
+
+Cover	  photo
+Agricultural area in the Guatemalan highlands (Stefano Pagiola).
+
+
+
+
+PES	  Learning	  Papers	  
+PES Learning Papers draw on the World Bank’s extensive experience in supporting programs of Payments
+for Environmental Services (PES). They are part of a larger effort by the World Bank to provide open
+access to its research and make a contribution to development policy discussions around the world.
+The PES Learning Paper series disseminates the findings of work in progress to encourage the exchange of
+ideas about PES. An objective of the series is to get the findings out quickly, even if the presentations are
+less than fully polished. The papers carry the names of the authors and should be cited accordingly. The
+findings, interpretations, and conclusions expressed in this paper are entirely those of the authors. They
+do not necessarily represent the views of the International Bank for Reconstruction and
+Development/World Bank and its affiliated organizations, or those of the Executive Directors of the World
+Bank or the governments they represent. The boundaries, colors, denominations, and other information
+shown on any map in this work do not imply any judgment on the part of The World Bank concerning the
+legal status of any territory or the endorsement or acceptance of such boundaries.
+      Assessing the Potential for Payments for Watershed Services
+               to Reduce Poverty in Highland Guatemala
+                     Stefano Pagiola, Wei Zhang, and Ale Colom
+
+
+                                   Introduction
+       Payments for Environmental Services (PES) have come into increasing use as a
+conservation instrument in developing countries, particularly in Latin America
+(Landell-Mills and Porras, 2002; Pagiola and others, 2002a; Pagiola and Platais, 2007;
+Wunder, 2005; Wunder and others, 2008). PES programs seek to capture part of the
+benefits derived from environmental services (such as clean water) and channel them
+to natural resource managers who generate these services, thus increasing their
+incentive to conserve them. Many have assumed that these payments would go mostly
+to poor land users, and thus contribute to poverty reduction (Kerr, 2002; Landell-Mills
+and Porras, 2002; Pagiola and others, 2002; Grieg-Gran and others, 2005; Pagiola and
+others, 2005; Ravnborg and others, 2007). There has been little empirical verification
+of this assumption to date, however. In this paper, we assess the potential for PES to
+reduce poverty by examining whether the recipients of payments for environmental
+services are likely to be poor.
+       Because most land users in upper watersheds and other marginal areas are
+thought to be poor, and because most environmental services are thought to come
+from such areas, it is natural to assume that most PES recipients would be poor. We
+use data from highland Guatemala to examine this assumed close spatial correlation
+between areas of high poverty and areas that provide environmental services. We first
+identify specific watersheds in which PES mechanisms could potentially be developed,
+based on the presence of significant downstream water uses such as hydroelectric
+power (HEP) generation, domestic water supply, and irrigation. Conservation
+payments from water users will only be received by land users in watersheds that
+provide water to those users. We then compare these areas with the spatial
+distribution of poverty in the country, allowing us to ask two questions that are
+central to the likely impact of PES on poverty. First, how many of the potential
+providers of water services are poor? The local poverty impact of a particular PES
+mechanism on poverty will depend on whether potential providers are poor or not.
+Second, how many of the poor are potential water service providers? Even if most
+potential PES recipients are poor, it may be that few of the poor are potential PES
+recipients. The potential impact of PES on poverty at a national scale will depend on
+whether many of the poor are in fact in areas where PES mechanisms might be
+implemented. To our knowledge, this is the first effort to systematically assess the
+potential for PES and compare it to poverty levels at a countrywide scale.
+       Our focus in this paper is on PES for water services, which constitutes the most
+common form of PES program, and one with substantial potential for future growth
+(Pagiola and Platais, 2007). We shall use the term payments for water services (PWS)
+to distinguish such programs from PES programs more generally.
+
+                                          1
+                      Payments for Environmental Services
+        The PES approach is aimed at addressing the classic problem of environmental
+externalities. Land uses can provide a variety of environmental services ranging from
+the regulation of hydrological flows to biodiversity conservation and carbon
+sequestration. However, land users typically receive no compensation for the
+environmental services they generate for others. As a result, they lack incentives to
+provide these services, which will tend to be under-provided. The PES approach seeks
+to address this problem directly, by establishing a mechanism through which service
+users can compensate land users that provide the desired service, or that adopt land
+uses that are thought to provide it (Pagiola and Platais, 2007; Wunder, 2005).1
+Payments for Environmental Services are a market-based instrument to improve the
+provision of indirect environmental services in which service users pay service
+providers to provide a well-defined service (or land use that provides it) in a
+conditional and voluntary transaction. The PES approach is attractive in that it (i)
+generates new financing, which would not otherwise be available for conservation; (ii)
+is likely to be sustainable, as it depends on the mutual self-interest of service users
+and providers and not on the whims of government or donor funding; and (iii) is likely
+to be efficient, in that it conserves services whose benefits exceed the cost of
+providing them, and does not conserve services when the opposite is true (Pagiola and
+Platais, 2007).
+       Interest in the use of PES has been especially high in Central and South
+America. Costa Rica and Mexico have the most elaborate PES programs, offering
+payments in large areas nationwide. Costa Rica’s Programa de Pago por Servicios
+Ambientales (PPSA) program pays land users to conserve forests, establish
+plantations, or adopt agroforestry practices (Pagiola, 2008). Mexico’s Pago por
+Servicios Ambientales Hídrologícos (PSAH) program pays forest communities to
+conserve forests (Muñoz and others, 2006). These two programs are unlike most other
+PES programs in Latin America, however, in that they are ‘government-financed’ or
+‘supply-side’ PES programs (Pagiola and Platais, 2007; Engel and others, 2008)
+financed primarily by the countries’ governments rather than directly by service
+users—by allocating part of fuel tax revenues in the case of Costa Rica, and by
+allocating part of water fee revenues in the case of Mexico. Another large-scale
+government-financed PES program is found in China: the Sloping Land Conversion
+Program (SLCP, also known as ‘Grain for Green’) pays farmers to retire erosive
+agricultural land and reforest it (Bennett, 2008).
+       Other PES programs have been developed at a local scale, usually in specific
+watersheds, with financing from service users. In Ecuador, Quito’s water utility and
+electric power company pay to conserve the watersheds from which they draw their
+water (Echavarría, 2002a). In Costa Rica, the public service utility of Heredia pays for
+watershed conservation with funds from a special fee on consumers (Barrantes and
+
+1
+    Some use the term PES much more generally, to refer to any market-based instrument, or
+    indeed any mechanism that provides an incentive for conservation. We use the term here
+    much more narrowly, and our conclusions as to the possible links to poverty only apply to
+    this specific instrument.
+
+                                              2
+Gámez, 2007). Many small towns have similar schemes, including Pimampiro, Ecuador
+(Wunder and Albán, 2008); San Francisco de Menéndez, El Salvador (Herrador and
+others, 2002); and Jesús de Otoro, Honduras (Mejía and Barrantes, 2003).
+Hydroelectric power producers in Costa Rica (Pagiola, 2008) and Venezuela (World
+Bank, 2007), are also paying to conserve their watersheds, as are irrigation systems in
+the Cauca Valley of Colombia (Echavarría, 2002b).
+       As these examples indicate, use of PES has been focused primarily on water
+services—explicitly so in the case of most locally funded PES mechanisms, where
+water users have been the primary, if not the sole source of funding. Among the
+national programs, Mexico’s PSAH Program (as its name implies) focuses on water
+services (other, smaller programs pay for land uses designed to preserve biodiversity
+or sequester carbon). Costa Rica’s PSA Program formally tries to generate four
+services: water, biodiversity, carbon, and scenic beauty. However, water services are
+becoming increasingly important in the PSA Program because of the introduction of
+additional funding from a water tariff. As noted, in this paper we shall refer to PES
+programs that focus on water as PWS.
+        A few PES projects have focused on biodiversity, almost always with funding
+from outside the country—usually from the Global Environment Facility (GEF) or from
+conservation NGOs such as Conservation International, The Nature Conservancy (TNC),
+or the Worldwide Fund for Nature (WWF). A major limitation of most such funding is
+that it is generally only short-term.
+      There are also a growing number of projects that focus on carbon
+sequestration, buyers who need to buy carbon credits to meet commitments under
+the Kyoto Protocol’s Clean Development Mechanism (CDM) or national laws (World
+Bank, 2008). In Latin America, the World Bank’s BioCarbon Fund, for example, has
+signed Emission Reduction Purchase Agreements (ERPAs) with projects in Colombia,
+Costa Rica, Honduras, and Nicaragua. The potential for land-use based carbon
+sequestration under the CDM is limited, however, by restrictive rules on eligibility and
+by low overall ceilings on the amount of emissions credits that can be generated in
+this manner. There have also been projects that sell carbon sequestration services to
+the voluntary (or ‘retail’) market, which is much less restricted, but is also smaller
+and tends to pay less (World Bank, 2008).
+
+                                  PES and poverty
+        The PES approach was conceptualized and undertaken as a mechanism to
+improve the efficiency of natural resource management, and not as a mechanism for
+poverty reduction. However, many proponents have argued that PES can also have
+positive impacts on poverty (Landell-Mills and Porras, 2002; Pagiola and others,
+2002a). Pagiola and others (2005) examined the main linkages that have been
+hypothesized to exist between PES and poverty. They identify three key questions: (1)
+Who are the actual and potential participants in PES programs, and how many of them
+are poor? (2) Are poorer households able to participate in PES programs? And (3) are
+poor households affected indirectly by PES programs? In this paper, we focus on the
+first of these questions.
+
+                                           3
+       Because environmental services tend to be site-specific, PES programs are
+almost invariably spatially targeted. In particular, because of their focus on water
+services, PWS programs are usually targeted to areas that are important for water
+supply. Mexico’s PSAH program, for example, based its definition of eligible areas on
+areas located in the recharge area of overexploited aquifers, in watersheds with high
+water scarcity, or in areas with high flood risk (Muñoz and others, 2006). Costa Rica’s
+PPSA program has hitherto been targeted primarily based on biodiversity
+considerations, although agreements with individual water users have resulted in
+specific watersheds being targeted for conservation (Pagiola, 2008). The introduction
+of the water tariff is making water services more prominent among targeting criteria.
+A quarter of the revenue from the water tariff is earmarked for use in the PSA
+program, and this revenue must be used in the same watershed in which it has been
+generated (Pagiola, 2008). Small-scale PWS mechanisms are almost all limited to the
+specific watersheds supplying water to the users providing financing.
+       The main mechanism by which PWS programs are assumed to contribute to
+poverty reduction is through the payments they make, which are thought to go mainly
+to poor land users. This hypothesized impact depends on the presumption that the
+land users in upper watersheds who would be recipients of PWS payments would tend
+to be among the poorer members of society. It has long been argued that land users in
+marginal areas such as the steep slopes of upper watersheds tend to be poor (CGIAR,
+1997; Heath and Binswanger, 1996). Nelson and Chomitz (2007) refer to this
+hypothesized link between poverty, environmental degradation, and hydrological
+impact as the ‘forest-hydrology-poverty nexus’.
+        In Guatemala, Nelson and Chomitz (2007) find that the most hydrologically
+sensitive watersheds (defined as watersheds in which the interface between
+agriculture and forest is found on slopes of 8 percent or more and represents a
+significant proportion of the watershed’s area) also tend to have the highest
+concentration of poverty. The 77 most sensitive watersheds had a poverty rate of 70
+percent and included a third of the country’s poor. They find a similar result in
+Honduras, although the relationship there is less pronounced.
+       Although these findings are tantalizing, they do not take into account the
+extent to which watersheds provide services. First, some hydrologically sensitive
+watersheds may not have potential for being included in a PWS program as they may
+have very few downstream water users. Second, the role of PWS is not limited to
+avoiding deforestation so as to avoid further loss of ecosystem services. It may also
+include restoration of ecosystem services in watersheds where they have already been
+lost or degraded. Indeed, these longer-settled watersheds may be more important
+from a water service perspective because of their greater concentration of population
+and other water users. These watersheds, however, may have much lower
+concentrations of poor inhabitants. Thus in Costa Rica’s densely populated Cordillera
+Volcanica Central area, many landowners are relatively well-off urban dwellers. As a
+result, a large proportion of participants in Costa Rica’s PPSA program in this area
+were found to be urban dwellers with substantial non-agricultural income (Ortiz and
+others, 2003; Miranda and others, 2003).
+
+
+                                          4
+       Our focus here is on watershed-scale PES mechanisms in which service users
+make payments to providers. PES programs that are financed by the government
+rather than users, such as the national-scale programs in Costa Rica and Mexico, are
+able to—and often required to—specifically address poverty and other social criteria.
+Thus, the delineation of eligible areas in Costa Rica’s PPSA program is based, in part,
+on an explicit poverty criterion. This is possible because the bulk of its funding comes
+from a fuel tax. Likewise, Mexico’s PSAH program, which is financed by a share of the
+revenue from water fees, gives additional points to applications from poorer ejidos,
+thus increasing their chance of being accepted and receiving payments. The vast
+majority of PES mechanisms, however, are local—typically at the scale of a
+watershed. Funding generated specifically from service users is all explicitly targeted
+to meeting service user needs. Within this context, poverty objectives can be
+addressed only indirectly.
+       There is a clear need, therefore, to have a better sense of who the potential
+participants are. As PWS programs are tied to areas with substantial downstream
+benefits, they cannot be targeted to areas of high poverty. The composition and
+structure of the population in the upper watershed will matter both to the success of
+the PWS program itself and for its impact on poverty levels.
+        In this paper, we extend the work of Nelson and Chomitz (2007) by explicitly
+examining watersheds that are important for water service provision, and so have
+significant potential for development of PWS mechanisms. We then examine both the
+poverty rate and the poverty density in these watersheds.
+
+                   Mapping areas that provide water services
+       Mapping the areas that supply water services links the supply and demand of
+services in a spatially explicit way, allowing us to identify and prioritize areas with
+potential for PWS implementation. We mapped the areas that provide water services
+(‘water supply areas’) first by identifying the location of the intakes from which users
+obtain their water. We then delineated the portions of the watershed that contribute
+to those intakes using the closest 100m contour line up to the limit of the watershed,
+based on the principle that ‘water flows downhill’.2
+       We use the watershed map of Guatemala developed by Nelson and Chomitz
+(2007) to ensure comparability with the poverty map they prepared (see below). They
+generated a 100-meter hydrologically correct elevation surface by interpolating
+contour lines and spot heights in combination data on rivers and lakes.3
+      We focus on the larger, formal sector water users. There is also a considerable
+amount of direct use of water by rural households. Transaction costs make it
+impractical in most cases to base PWS mechanisms on such dispersed users. We focus
+
+2
+    See Pagiola and others (2007a) for additional details.
+3
+    This map differs slightly from the watershed map produced by the Ministry of Agriculture,
+    Livestock, and Nutrition (MAGA), but the differences are too small to materially affect the
+    results of this analysis. Neither the MAGA map nor Nelson and Chomitz’s (2007) map would
+    be detailed enough to allow planning of specific mechanisms.
+
+                                               5
+solely on users of surface water, as groundwater flows are insufficiently understood to
+allow the recharge areas of specific wells to be mapped with confidence. We limited
+our analysis to the highland areas of Guatemala, omitting the northern Petén
+department. Petén accounts for about a third of Guatemala’s land area, but only 3
+percent of its population and 4 percent of the poor.
+       For each user, we also collected information on the nature and magnitude of
+their water use. This information allows us to construct indices of the relative
+importance or “value” of water supply areas. At present these indices are use-
+specific, due to the very different nature of the uses. These indices give a broad
+sense of the extent to which payments might be made.
+Hydroelectric power producers
+       HEP producers have a high potential for PWS because of the vulnerability of
+their activities to sedimentation and lack of water. Indeed, HEP producers are well
+represented in current PWS mechanisms. In Costa Rica, for example, many public-
+sector and private sector HEP producers are paying for conservation of the watersheds
+from which they draw their water through the country’s PSA Program, generating
+payments of about US$0.5 million and conserving about 18,000 ha annually (Pagiola,
+2008). Other HEP producers have arranged bilateral payment deals with landowners
+(Rojas and Aylward, 2002). In Venezuela, power company CVG-Edelca will be paying
+0.6 percent of its revenue (about US$2 million annually) to conserve the watershed of
+the Río Caroní, where 70 percent of the country’s HEP is generated (World Bank,
+2007).
+       HEP producers are the easiest water users to map, as their location and
+installed generating capacity is well documented (Figure 1A). Moreover, the number
+of such users is small. The shading in Figure 1A reflects the importance of each water
+supply area, in terms of installed generating capacity per hectare. It is interesting to
+note that the highest value areas are not those in the watershed with the largest HEP
+plant, but rather in watersheds with medium-sized plants. Because of its large size
+(545,000 ha), the water supply area serving the largest HEP plant (Chixoy, 300MW) has
+a value index of only 0.55KW/ha. The highest-value water supply area, at 3.45KW/ha,
+is the 13,100 ha upper watershed of Río Las Vacas, which provides water to the 45MW
+Las Vacas plant.
+Domestic water supply systems
+       Domestic water supply systems have also been frequent participants in PES
+mechanisms in Latin America. Urban areas that are paying to conserve their water
+supply areas range from large cities like Quito, Ecuador (Echevarría, 2002a), to mid-
+size towns like Heredia, Costa Rica (Barrantes and Gámez, 2007), and to poor rural
+townships like Pimampiro, Ecuador (Wunder and Albán, 2008).
+
+
+
+
+                                           6
+A: Hydroelectric power generation                              B: Domestic water supply
+
+
+
+
+     C: Large-scale irrigation                                      D: Coffee mills
+
+               Figure 1: Water supply areas for principal surface water users
+
+
+                                             7
+       There are large number of domestic water supply systems in Guatemala, with
+as much as 70 percent of households having access to piped water (World Bank, 2004).
+These systems are operated by a wide variety of agencies, as Guatemala is the only
+Central American country that does not have a national public corporation that
+manages domestic water supply in most urban areas (Walker and Velásquez, 1999).
+The domestic water supply sector is comprised of three components: (a) service to
+the Guatemala City metropolitan area, provided mainly by the Municipal Water Firm
+of Guatemala City (Empresa Municipal de Agua de Guatemala, EMPAGUA); (b) other
+urban areas, served by municipal governments, either directly or through public
+corporations; and (c) rural areas served by Community Based Organizations (Foster
+and Araujo, 2004). This study focuses on urban water supply systems that serve 1,000
+household and more, mainly due to data availability constraints. Data on the location
+of water intakes were obtained by contacting EMPAGUA and municipal governments
+directly. Usable data were obtained for EMPAGUA and for 47 municipal water supply
+systems.
+       The water supply areas serving domestic water supply systems are shown in
+Figure 1B. In comparison to water supply areas serving HEP plants, which average
+about 70,000 ha, the water supply areas serving domestic water supply systems tend
+to be small, with an average size of less than 11,000 ha (Table 1 below). On average,
+these water supply areas serve 1.08 households per hectare. The water supply areas
+serving EMPAGUA are even smaller, with a mean size of 4,100 ha, but their value is
+much greater, as they serve 11.53 households per hectare on average.
+Irrigation
+      Irrigation systems have been among the earliest to make direct payments for
+watershed conservation, in Colombia’s Cauca Valley (Echevarría, 2002). In general,
+however, they are very poorly represented among current PES mechanisms.
+       Guatemala has a relatively small irrigated area of 130,000 ha (FAO, 2007)
+divided into private, state, and small-scale ‘minirriego’ systems. Documentation of
+water withdrawal and intake location of irrigation systems was even more limited
+than for domestic water supply. We focus on larger systems, with a minimum of 500
+ha under irrigation. As with municipal water systems, most information was obtained
+by contacting water users directly. Here, too, only approximate information could be
+obtained.
+       The water supply areas serving large irrigation systems are shown in Figure 1C.
+These areas vary widely in size, with an average area of about 64,000 ha (Table 1
+below). On average, these water supply areas serve 0.14 ha of irrigated area per
+upstream hectare. Again, the most important water supply areas are not necessarily
+those that serve the largest irrigated areas.
+Other water users
+       Industrial users have also been participants of PWS programs. For example,
+bottler Florida Ice & Farm is paying for watershed protection in Costa Rica (Pagiola,
+2008). In Guatemala, the use of water by industrial users is very poorly documented.
+Moreover, these users proved very resistant to attempts to gather information.
+                                         8
+Because of this, we were only able to gather data on a small proportion of all users,
+primarily coffee mills. The water supply areas (see Figure 1D) serving these mills have
+an average area of about 21,000 ha (Table 1). Their mean value in terms of
+production is 37.6 quintals (qq) per hectare.4
+Summary
+       We identified about 1.9 million ha in highland Guatemala with significant
+potential for development of PES mechanisms due to the presence of significant
+downstream water uses. This area is under-estimated in that data could only be
+obtained for a subset of all users. In addition, our analysis does not include relatively
+smaller users, who can undertake PES mechanisms on small scale. For example,
+several small communities along the edge of the Pico Bonito National Park in
+Honduras are paying to conserve their water sources (EcoLogic, 2006). On the other
+hand, the area of PWS potential over-estimates the area in which PWS mechanisms
+could actually be implemented. Water users may only be interested in paying for the
+services if there is an actual or perceived threat and if cost of payment is smaller
+than the cost of alternatives solutions. Furthermore, institutional constraints (such as
+insecure land tenure and collective action problems among service users) and
+technical constraints (such as the lack of monitoring) could also pose obstacles to the
+establishment of PWS programs in many cases.
+
+                                     Mapping poverty
+       With about 56 percent of its population under the poverty line, Guatemala has
+one of the highest poverty rates in Central America (World Bank, 2004). Poverty is
+predominantly rural and extreme poverty is almost exclusively rural, with over 81
+percent of the poor living in rural areas. Poverty is a national problem, with relatively
+high levels throughout the country, but with pockets of particularly high poverty. A
+‘poverty belt’ runs through the northern and northwestern regions.
+       We use the watershed-level poverty map for Guatemala developed by Nelson
+and Chomitz (2007), based on a poverty map developed by a team from the National
+Institute of Statistics (INE), the Presidency’s General Planning Secretariat
+(SEGEPLAN), and the University of Rafael Landívar (URL), using the methodology
+developed by Poggi and others (1998). Essentially, the approach uses detailed data
+from small-sample household budget surveys from 1988-89 to obtain a predictive
+relationship of poverty rates, and then applies the relationship to municipio-level
+data (the highest available level of disaggregation) from the 1994 census to estimate
+spatially-specific poverty rates across the country. Similar approach have been
+applied in many countries (Bedi and others, 2007, compile examples from 12
+countries). Nelson and Chomitz allocated population from this municipio-level map to
+the watershed map they had developed (see above). Where watershed boundaries
+intersected municipio boundaries, population was pro-rated to each watershed
+assuming a uniform population density.
+
+
+4
+    1 quintal (qq) is equivalent to 45.45 kilograms or 100 lbs.
+
+                                               9
+          A: Poverty incidence in highland Guatemala
+
+
+
+
+           B: Poverty density in highland Guatemala
+Figure 2: Spatial distribution of poverty in highland Guatemala
+
+
+                              10
+      Figure 2 shows the resulting watershed poverty maps for highland Guatemala. The
+top panel shows poverty incidence: the proportion of the population in the watershed
+whose income is below the poverty line. The bottom panel shows poverty density: the
+number of poor people per hectare. These maps show that poverty is a national problem
+in Guatemala, with relatively high poverty rates in many areas, especially the northern
+and northwestern regions. Areas of high poverty incidence are spatially autocorrelated,
+as are areas of high poverty density.5 However, areas with high poverty rates are not
+necessarily areas of high poverty density, and vice versa.6 Previous efforts to map
+poverty have found similar results. Areas with high poverty rates often have low
+population density, and thus a small absolute number of poor people. Poverty density is
+often highest in or near urban areas, but the concentration of better-off households in
+these areas means that poverty rates tend to be lower.
+       Two weaknesses of this approach need to be highlighted. First, conversion of the
+municipio-level poverty map to watersheds assumes that both population density and
+poverty rates are uniform across the municipio. If people are concentrated in flatter
+areas, the population of watersheds with steep slopes will tend to be over-estimated.
+Conversely, if most better-off people live in flatter areas, the poverty rates in such
+areas will tend to be under-estimated. These weaknesses were already present in the
+original watershed poverty map, but are magnified in our analysis as we focus on
+portions of each watershed. As such, we are unable to look into within-watershed
+variations in poverty between water supply areas and non-water supply areas. Second,
+the information available does not allow us to distinguish landless households. This is an
+important limitation, as PWS payments are payments to land users. In Guatemala, about
+54 percent of the rural population are landowners, 19 percent are tenants, and 27
+percent are landless. Among the rural poor, 59 percent are landowners, 20 percent are
+tenants, and 21 percent are landless (World Bank, 2004). It seems likely that the
+landless poor will tend to cluster in areas with reasonable potential for employment,
+either in agriculture or in other sectors. These would seem unlikely to be found in the
+upper parts of watersheds.
+
+                        Are potential service providers poor?
+       The first question we examine is whether most potential participants in PWS
+mechanisms are poor. In Figure 2A, the map of water supply areas is compared to the
+map of poverty incidence in highland Guatemala. As can be seen, poverty rates in the
+water supply areas vary substantially. While some water supply areas have poverty rates
+as high as 97 percent, others have low poverty rates (Table 1). In general, water supply
+areas located in the north and northwest tend to have high poverty rates. The water
+supply areas for HEP have relatively high poverty rates of 67 percent on average, but
+with a very high variance. Poverty rates are lowest (29 percent)in the EMPAGUA water
+supply areas, because of their proximity to the Guatemala City metropolitan area.
+
+5
+    Moran’s index of spatial autocorrelation is I=0.35 for poverty incidence and I=0.29 for poverty
+    density. Both are significantly different from zero at the 0.01 level.
+6
+    Pearson's product-moment coefficient between poverty rate and poverty density is only 0.11,
+    indicating a week positive correlation.
+
+                                                11
+Table 1: Poverty incidence and density in water supply areas
+                                 Mean size         Poverty rate (%)           Poverty density (poor/ha)
+Type of water user                  (ha)         Mean     Min     Max          Mean      Min      Max
+HEP producers                      70,000         67        0       97           1.12    0.01      9.55
+                                 (141,000)       (21)                           (1.35)
+
+Domestic water supply
+! Municipal systems                 11,000         56         0      91           1.50      0.01      9.55
+                                   (16,000)       (23)                           (1.57)
+! EMPAGUA systems                    4,100         29         1      57           1.04      0.01      2.09
+                                    (4,800)       (16)                           (0.72)
+
+Irrigation systems                  64,000         51       11       82           0.75      0.15      2.33
+                                   (73,000)       (17)                           (0.43)
+
+Industrial users                    21,000         57         0      86           0.83      0.01      2.00
+                                   (36,000)       (27)                           (0.32)
+
+All water supply areas                             62         0      97           1.03      0.01      9.55
+                                                  (21)                           (1.07)
+
+Entire country (except                             65         0      98           0.83      0.01      9.55
+  Petén)                                          (19)                           (0.98)
+Notes:   Standard deviation in parentheses.
+
+       Figure 3 shows the distribution of watersheds with water supply areas according
+to their poverty rates. As can be seen, most watersheds have relatively high poverty
+rates. Over a quarter have poverty rates above 80 percent and almost 50 percent have
+poverty rates above 70 percent. The overall average poverty rate in water supply areas
+is only 44 percent (total number of poor in water supply areas, 1.76 million, divided by
+total number of people living in water supply areas, 3.97 million), however, which is
+lower than the national average of 53 percent (Petén excluded).7
+       All water supply areas are not equivalent. Some have substantial potential for
+PWS because of the importance of downstream water uses, while others have limited
+potential. Figure 4 plots poverty rates in the water supply areas against indicators of the
+importance of the areas. These plots indicate that there is essentially no correlation
+between the importance of a water supply area and the poverty rate of people living
+there. Some areas with very high value have high poverty rates (for example, the water
+supply area of the Santa Maria and Canadá HEP plants, which generates 0.64 KW/ha, has
+an average poverty rate of 67 percent), while others have much lower poverty rates (for
+example, the water supply area of the Jurun Marinal and El Salto plants, which
+generates 0.85 KW/ha, has an average poverty rate of less than 1 percent).
+
+7
+    There are also missing values of poverty for watersheds that are mostly scattered along the coastline.
+
+                                                    12
+                             30
+
+
+                             25
+      Number of watersheds
+
+                             20
+
+
+                             15
+
+
+                             10
+
+
+                              5
+
+
+                              0
+                                  0-10   10-20   20-30   30-40     40-50    50-60   60-70   70-80   80-90   90-100
+                                                                 Poverty rate (%)
+
+Figure 3: Distribution of watersheds that contain water supply areas according to
+                                their poverty rates
+
+
+
+
+Figure 4: Relationship between poverty rate and importance of water supply areas
+
+
+
+
+                                                                     13
+               0.7
+
+
+
+
+                                                                                 0.29
+                                                                               0.09
+
+                                                                      0.09
+                                                             0.15
+
+                                                      1.35
+                     1.03         0.21
+                                0.04
+        1.14
+                                                                       Poverty rate
+    0.05
+                                                     Water users             Missing value
+                                         KW/ha       HEP                     0.00 – 0.25
+                                         hh/ha       Domestic water          0.25 – 0.50
+                                       Irrig ha/ha   Irrigation              0.50 – 0.75
+
+                                         qq/ha       Coffee mills            0.75 – 0.86
+
+           Water supply areas
+
+      Figure 5: Poverty rate and water supply areas near Sierra de las Minas
+
+       The area of the Sierra de las Minas mountain range illustrates the divergence
+between the value of water use and poverty (Figure 5). To the south of the mountain
+range, the Motagua River valley has a large concentration of high-value water users,
+including several HEP plants (with more planned), large commercial irrigation
+systems, agro-industrial producers, and several bottlers (including Coca Cola, Pepsi
+Cola, and several beer and rum producers). These users draw their water either from
+surface sources flowing south from the Sierra de las Minas, or from groundwater fed
+from the same area. There is clearly substantial potential to develop PWS mechanisms
+in this area, although problems of collective action are likely to arise. Indeed, the
+WWF and a local NGO, the Foundation for the Defense of Nature (Fundación
+Defensores de la Naturaleza, FDN), are working to do this (WWF, 2006). Poverty rates
+
+                                             14
+in this area, however, are very low, so any payments are unlikely to be received by
+poor households (indeed, the primary objective of the Water Fund established by the
+WWF is to finance conservation activities in the Sierra de las Minas Biosphere Reserve,
+not to pay landholders to change land uses). Conversely, the northern slope of the
+Sierra, which drains to the Río Polochic, has very high poverty rates, being settled
+mainly by smallholder farmers belonging to indigenous groups. This area, however,
+has very low potential for PES as shown by our analysis (the only water user of any
+size is a coffee mill, which draws its water from a small water supply area).
+
+          How many of the poor are potential service providers?
+       We now turn to the question of the number of poor people who might
+potentially be reached by PWS. Figure 2B compares the water supply areas with the
+poverty density map of highland Guatemala. As in the case of poverty rates, the
+poverty density in water supply areas varies substantially, from almost 10 poor people
+per hectare, to none. The average number of poor people per hectare in water supply
+areas is about 1, being slightly higher in the water supply areas of domestic water
+supply systems and HEP producers, and slightly lower in those of irrigation systems
+and industrial users.
+
+                                 50
+
+
+                                 40
+          Number of watersheds
+
+
+
+
+                                 30
+
+
+                                 20
+
+
+                                 10
+
+
+                                  0
+                                      0-0.5   0.5-1       1-2         2-3     3-4   >4
+                                                  Poverty density (poor/ha)
+Figure 5: Distribution of watersheds that contain water supply areas according to
+                              their poverty densities
+
+       Figure 5 shows the number of watersheds in water supply areas according to
+their poverty density. The pattern is the opposite of that in Figure 3: most watersheds
+that contain water supply areas have low poverty density. Over a quarter of
+watersheds have less than 0.5 poor/ha, and almost two-thirds have less than 1
+poor/ha. The average poverty density of 0.95 poor/ha in watersheds with water
+supply areas is slightly more than the average poverty density in the country
+(excluding Petén) of 0.75 poor/ha, but the difference is not significant at the 5
+percent level.
+
+
+
+                                                            15
+                                            Discussion
+       Our results do not support the commonly held image of most potential PES
+recipients as poor. The image holds true in some cases, but not all. While there
+certainly are many watersheds with potential for PWS with high poverty rates, there
+are also many such watersheds with very low poverty rates.
+      The total number of poor that could potentially be reached if PWS mechanisms
+were developed in all the water supply areas is 1.76 million, or 34 percent of the
+country’s poor (excluding Petén). This is, of course, an upper bound.
+       PWS are unlikely to be developed everywhere. In some cases, the potential
+damage to water services may be low, because of the nature of the watershed or of
+the water users’ infrastructure; alternatively, water users may have cost-effective
+engineering solutions to such problems. In others, collective action problems may
+impede the development of PWS mechanisms. Presumably water users would be most
+interested in establishing PWS mechanisms in high-value water supply areas; they
+would presumably also be willing to pay more to protect such areas. However, as was
+shown, poverty is not correlated with the value of the service provided by a given
+water supply area.
+       In some cases, targeting of PES programs may go beyond targeting individual
+watersheds to targeting specific areas within those watershed. Within a watershed,
+some lands may be particularly important from the perspective of generating the
+desired environmental services (for example, riparian lands often play an important
+role in preserving water quality, and steeper slopes in avoiding sedimentation). Which
+area is critical depends on the specific service being sought, and so may vary from
+case to case. If payments are targeted to such areas, poorer households will receive
+payments only to the extent that they have land within them. However, to date few
+PES programs have been targeted to this degree. Costa Rica’s PSA program, for
+example, only targets individual watersheds to a limited extent, and does not target
+specific areas within those watersheds (Pagiola, 2008). Most PES programs, including
+Costa Rica’s PSA program, are evolving towards more targeted approaches, so this
+issue will become more salient. In Mexico, the pilot PES program in the Coatepec
+watershed targets specific areas within the watershed (Muñoz and others, 2006).
+      As PWS are payments for land use, only landholders will be eligible. Poor
+households that are landless will by definition not be able to participate, no matter
+how PES is targeted.8 To date, few PES programs have been implemented in areas
+where land rental is common, so it is difficult to predict how participation might be
+
+
+8
+    The landless poor may experience indirect impacts through labor markets—benefitting if
+    implementation of PWS mechanisms results in increased labor demand, or being harmed if it results
+    in reduced demand. The potential for adverse effects through reduced labor demand is particularly
+    significant in Guatemala, where many of the poor depend on agricultural employment (World Bank,
+    2004). However, the relatively small areas in which PWS might be employed mean that even if
+    PWS-supported practices are less labor intensive the overall effect on labor markets will likely be
+    small. Even in Costa Rica, with a relatively large area under PES contracts, a GCE analysis found
+    very limited labor market impacts (Ross and others, 2007).
+
+                                                 16
+affected in such areas, and whether poorer households would be particularly
+affected.
+       Even in cases where PWS mechanisms emerge and poor households are eligible
+to participate because they manage land in target areas, other obstacles may arise.
+Pagiola and others (2005) point out that, even if they are eligible, poor households
+will only participate in a PWS mechanism if they are both interested and able to do
+so. They may not be interested, for example, if the payment offered is insufficient to
+compensate them for the opportunity cost of the foregone land uses. To the extent
+that poorer households have less land, they may use what they have more intensively,
+and thus have a higher opportunity cost of land than better-off households.
+Alternatively, if their land is less productive, they may have a lower opportunity cost
+and so be more interested in participating at a given payment levels. Perhaps more
+important, poorer households may be less able to participate. They may lack titles to
+their land, for example. If participation requires making up-front investments (for
+example, to reforest degraded areas), they may be less able to finance these
+investments.
+       In at least two cases, the results thus far are promising. Pagiola and others
+(2007b, 2008) found that poorer households were able to participate to a substantial
+degree in a PES program being implemented by the GEF-financed Regional Integrated
+Silvopastoral Ecosystem Management Project at sites in Colombia and Nicaragua—
+indeed, by some measures they participated to a greater extent than better-off
+households. This is a particularly promising result in that the Silvopastoral Project
+provides a strong test of the ability of poorer households to participate as it requires
+participants to make substantial and complex land use changes. Nevertheless, one
+should not jump to the sanguine conclusion that all poor farm households everywhere
+will always be able to participate in PES programs. Both PES programs and local
+conditions differ from case to case, and there may well be cases where otherwise
+eligible poor households may find it difficult or impossible to participate.
+       As Pagiola and other (2005) note, the extent to which poorer households are in
+fact able to participate in a given PWS mechanism depends on the specific
+characteristics of both the households and the PWS mechanisms. It is possible to
+design PWS mechanism so as to reduce obstacles to the participation of poorer
+households, but not all PWS mechanisms may make the effort to do so. In fact, some
+PWS mechanisms may actively avoid enrolling poorer households because of the
+higher transactions costs that may be involved. Wunder and Albán (2008), for
+example, note that the PROFAFOR program that pays landholders in Ecuador to
+reforest has introduced a minimum contract size of 50 ha.
+       In considering how to best design a PES program so as to improve its poverty
+impact, it is important not to fall into the trap of considering the program as being
+primarily a poverty reduction tool. Making poverty reduction objectives predominate
+is understandably attractive, but would prove ultimately self-defeating. PES programs
+will not be sustainable unless service recipients are satisfied that they are receiving
+the services they are paying for. Subordinating the objective of generating services to
+that of poverty reduction risks failing to deliver on the services, and thus undermining
+
+                                          17
+the very basis of the program. Once service users cease paying, neither poverty
+reduction nor resource management objectives will be reached. Thus there are many
+things that PWS mechanisms cannot do, no matter how desirable they might be from a
+poverty reduction perspective. They cannot, for example, target their interventions
+to areas of high poverty, as these may not be the areas that generate the desired
+services. Within an area that generates services, they can try to design the payment
+mechanism so as to allow the poor to participate. PWS programs also cannot choose
+to promote particular land use practices solely on the basis of the poor being able to
+undertake them. But they can seek to provide support to poor land users, including
+technical assistance or access to inputs and credit, so that they can adopt the desired
+land use practices.
+       Participation is a threshold issue; anyone who does not participate is unlikely
+to benefit from a PWS mechanism. For poor households that do participate in a PWS
+program, the actual impact on their well-being will depend on how the payment
+offered compares to the cost of participation (the opportunity cost of the foregone
+land use, plus any out of pocket costs resulting from participation).9 This is an area in
+which empirical data is particularly scarce, as opportunity costs on individual holdings
+are very difficult to estimate. Whatever its amount, PWS payments may also be
+attractive to poorer households because they are fixed, as long as they comply with
+the terms of their contract. In contrast, other revenue sources they may have access
+to may well vary substantially based on factors completely outside the household’s
+control. Revenue from farming activities, for example, will depend on the weather
+and on market conditions. Having part of their income not affected by such factors
+may thus be very attractive to poorer households.
+
+                                             Conclusions
+       As an initial effort to compare potential for PES to poverty, the analysis is
+necessarily crude. Improvements are needed in both the mapping of water supply
+areas (primarily by filling gaps in the information available on many water users and
+delineating hydrologically correct water supply areas) and the spatial mapping of
+poverty (by increasing the resolution, improving mapping along watershed rather than
+administrative boundaries, and distinguishing land users from landless poor).
+       Maps of water supply areas such as those developed here can be useful tools in
+targeting efforts to develop PES mechanisms, by identifying the areas that supply
+services, and gauging the relative importance of each areas. Combining such maps
+with poverty maps can provide an additional targeting criterion, allowing
+governments and donors to prioritize areas where PES has the highest potential of
+both improving service provision and reducing poverty. It can also provide useful
+information on the issues that might arise in implementing a PES mechanism.
+Attempting to do so in an area with many poor people will face problems that may
+not arise in an area with relatively better off people.
+
+9
+    As participation in a PES program is voluntary, it is probably safe to assume that participants will
+    be at least no worse off by joining than they would be by not joining. Were this not the case, they
+    could simply decline to participate.
+
+                                                  18
+                                         References
+Barrantes, G., and L. Gámez. 2007. “Programa de pago por servicio ambiental hídrico de la
+   Empresa de Servicios Públicos de Heredia.” PES Learning Paper No.2007-1S. Washington:
+   World Bank.
+Bedi, T., A. Coudouel, and K. Simler (Eds). 2007. More Than a Pretty Picture: Using Poverty
+   Maps to Design Better Policies and Interventions. Washington: World Bank.
+Bennett, M.T. 2008. “China's sloping land conversion program: Institutional innovation or
+   business as usual?” Ecological Economics, 65(4):699–711.
+CGIAR (Consultative Group on International Agricultural Research). 1997. “Report of the study
+   on CGIAR research priorities for marginal lands.” Rome, Italy: CGIAR.
+Echevarría, M. 2002a. “Financing watershed conservation: The FONAG water fund in Quito,
+   Ecuador.” In S. Pagiola, J. Bishop, and N. Landell-Mills (Eds.), Selling Forest
+   Environmental Services: Market-Based Mechanisms for Conservation And Development.
+   London: Earthscan.
+Echevarría, M. 2002b. “Water user associations in the Cauca Valley: A voluntary mechanism to
+   promote upstream-downstream cooperation in the protection of rural watersheds.” Land-
+   water linkages in rural watersheds case study series. Rome: FAO.
+EcoLogic. 2006. “Case study: Village-led watershed management in Honduras.” Paper
+   presented at the 4th World Water Forum, Mexico City, Mexico, 16-22 March, 2006.
+Engel, S., S. Pagiola, and S. Wunder. 2008. “Designing payments for environmental services in
+   theory and practice: An overview of the issues.” Ecological Economics, 65(4):663–674.
+FAO (Food and Agriculture Organisation). 2007. AQUASTAT main country database. Rome:
+   FAO. (Accessed Sept. 2007.)
+Foster, V., and M.C. Araujo. 2005. “Does infrastructure reform work for the poor? A case
+   study from Guatemala.” Policy Research Working Paper No.3185. Washington: World Bank.
+Grieg-Gran, M., I.T. Porras, and S. Wunder. 2005. “How can market mechanisms for forest
+    environmental services help the poor? Preliminary lessons from Latin America.” World
+    Development, 33(9):1511–1527.
+Heath, J., and H. Binswanger. 1996. “Natural resource degradation effects of poverty and
+   population growth are largely policy-induced: The case of Colombia.” Environment and
+   Development Economics, 1(1):65-84.
+Herrador, D., L.A. Dimas, and V.E. Méndez. 2002. “Pago por servicios ambientales en El
+   Salvador: Oportunidades y riesgos para pequeños agricultores y comunidades rurales.”
+   FORD Foundation Payment for Environmental Services in the Americas Project. San
+   Salvador: Fundación PRISMA.
+Kerr, J. 2002. “Watershed development, environmental services, and poverty alleviation in
+   India.” World Development, 30:1387-1400.
+Landell-Mills, N., and I. Porras. 2002. Silver Bullet or Fools' Gold? A Global Review of Markets
+   for Forest Environmental Services and their Impact on the Poor. London: IIED.
+Mejía, M.A., and G. Barrantes. 2003. “Experiencia de pago por servicios ambientales de la
+   Junta Administradora de Agua Potable y Disposición de Excretas (JAPOE) de Jesús de
+   Otoro, Intibucá, Honduras.” Tegucigalpa: PASOLAC.
+
+
+
+                                               19
+Miranda, M., I.T. Porras, and M.L. Moreno. 2003. “The social impact of payments for
+   environmental services in Costa Rica: A quantitative field survey and analysis of the Virilla
+   Watershed.” Markets for environmental services No.1. London: IIED.
+Muñoz, C., A. Guevara, J.M. Bulás, J. M. Torres, and J. Braña. 2006. “Pagar por los servicios
+   hidrológicos del bosque en México.” In: S. Pagiola, J. Bishop, and N. Landell-Mills (Eds.),
+   La Venta de Servicios Ambientales Forestales, 2nd edition. Mexico: INE.
+Nelson, A., and K. Chomitz. 2007. “The forest-hydrology-poverty nexus in Central America: An
+   heuristic analysis.” Environment, Development and Sustainability, 9(4):369-385.
+Ortiz Malavasi, E., L.F. Sage Mora, and C. Borge Carvajal. 2003. “Impacto del programa de
+    pago de servicios ambientales en Costa Rica como medio de reducción de la pobreza en
+    los medios rurales.” Documento de Trabajo No.8. San José: RUTA.
+Pagiola, S. 2008. “Payments for environmental services in Costa Rica.” Ecological Economics,
+   65(4):712–724.
+Pagiola, S., and G. Platais. 2007. Payments for Environmental Services: From Theory to
+   Practice. Washington: World Bank.
+Pagiola, S., N. Landell-Mills. and J. Bishop. 2002. “Making market-based mechanisms work for
+   forests and people.” In: S. Pagiola, J. Bishop, and N. Landell-Mills (Eds.), Selling Forest
+   Environmental Services: Market-Based Mechanisms for Conservation And Development.
+   London: Earthscan.
+Pagiola, S., A. Arcenas, and G. Platais. 2005. “Can payments for environmental services help
+   reduce poverty? An exploration of the issues and the evidence to date from Latin
+   America.” World Development, 33(2):237–253.
+Pagiola, S., A. Colom. and W. Zhang. 2007a. “Mapping environmental services in highland
+   Guatemala.” PES Learning Paper No.2007-4. Washington: World Bank.
+Pagiola, S., A.R. Rios, and A. Arcenas. 2007b. “Poor household participation in Payments for
+   Environmental Services: Lessons from the Silvopastoral Project in Quindío, Colombia.” ES
+   Learning Paper No.2007-5. Washington: World Bank.
+Pagiola, S., A.R. Rios, and A. Arcenas. 2008. “Can the poor participate in payments for
+   environmental services? Lessons from the Silvopastoral Project in Nicaragua.”
+   Environment and Development Economics, 13(3):299–325.
+Poggi, J., J.O. Lanjouw, J. Hentschel, and P. Lanjouw. 1998. “Combining census and survey
+   data to study spatial dimensions of poverty.” Policy Research Working Paper No.1928.
+   Washington: World Bank.
+Rojas, M., and B. Aylward. 2002. “The case of La Esperanza: A small, private, hydropower
+   producer and a conservation NGO in Costa Rica.” Land-water linkages in rural watersheds
+   case study series.” Rome: FAO.
+Ross, M., B. Depro, and S.K. Pattanayak. 2007. “Assessing the economy-wide effects of Costa
+   Rica’s Payments for Environmental Services Program.” PES Learning Paper 2007-3.
+   Washington: World Bank.
+Walker, I., and M. Velásquez. 1999. “Regional analysis of decentralization of water supply and
+   sanitation services in Central America and the Dominican Republic.” Environmental Health
+   Project Activity Report No.65. Washington: USAID.
+World Bank. 2004. “Poverty in Guatemala.” Washington: World Bank.
+World Bank. 2007. “Venezuela Expanding Partnerships for the National Parks System Project:
+   project appraisal document.” Report No.37502-VE. Washington: World Bank.
+
+                                              20
+World Bank. 2008. State and Trends of the Carbon Market 2007. Washington: World Bank.
+Wunder, S. 2005. “Payments for environmental services: Some nuts and bolts.” CIFOR
+  Occasional Paper No.42. Bogor: CIFOR.
+Wunder, S., and M. Albán. 2008. “Decentralized payments for environmental services: The
+  cases of Pimampiro and PROFAFOR in Ecuador.” Ecological Economics, 65(4):685–698.
+Wunder, S., A. Engel, and S. Pagiola. 2008. “Taking stock: A comparative analysis of payments
+  for environmental services programs in developed and developing countries.” Ecological
+  Economics, 65(4):834–852.
+WWF (World Wide Fund for Nature). 2006. The Water Fund: Sierra de las Minas, Guatemala.
+  Guatemala City: WWF Central America.
+
+
+
+
+                                             21
+

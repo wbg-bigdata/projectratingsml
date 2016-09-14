@@ -1,0 +1,2816 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 15411
+IMPLEMENTATION COMPLETION REPORT
+PAKI STAN
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(LOAN 2792-PAK)
+MARCH 6, 1996
+Energy and Project Finance Division
+Country Department I
+South Asia Region
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EOUIVALENTS
+Currency Unit            = Pakistan Rupee (Rs)
+Appraisal Year 1985      = US$ 1.0 = Rs. 17.0
+Intervening Year 1990    = US$ 1.0 = Rs. 22.0
+Completion Year 1994     = US$ 1.0 = Rs. 31.0
+GOP AND WAPDA'S FISCAL YEAR (FY)
+July I - June 30
+MEASURES AND EOUIVALENTS
+I kilometer (km)                  0.6214 miles (mi)
+I ton                        =    1000 kilograms (kg)
+=    2200 pounds (Ibs)
+I kilovolt (kv)              =    1000 volts (V)
+I megawatt (MW)                    1000 kilowatts (kW)
+1 megavolt-ampere (MVA)      =    1000 kilovolt-amperes (kVA)
+1 kilowatt hour (kWh)              1000 watt-hours (Wh)
+I gigawatt hour (GWh)              1 million kilowatt hours (kWh)
+ACRONYMS AND ABBREVIATIONS
+ESL-II           Second Energy Sector Loan (Ln. 3107-PAK)
+GOP              Government of Pakistan
+ICG              Internal Cash Generation
+ICR              Implementation Completion Report
+ERR              Economic Rate of Return
+JEXIM            Export-Import Bank (Japan)
+MMS              Maintenance Management System
+MWP              Ministry of Water and Power
+ODA              Overseas Development Administration (United Kingdom)
+SAR              Staff Appraisal Report
+USAID            United States Agency for International Development
+WAPDA            Water and Power Development Authority
+
+
+
+IMPLEMENTATION COM(PLETION REPORT   FOR OFFICIAL USE ONLY
+PAKISTAN
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(Loan 2792-PAK)
+Table of Contents
+Page No.
+PREFACE
+EVALUATION SUMMARY
+PART I - PROJECT IMPLEMENTATION ASSESSMENT ...............................................1
+Project Identity and Background ............................................... 1
+A.  Evaluation of Objectives.                                                                          1
+B.  Achievement of Objectives.                                                                         2
+C. Financial Performance                                          .5
+D.  Major Factors Affecting the Project.                                                               7
+E.  Project Sustainability.                                                                            8
+F.  Performance of Bank and Cofinanciers.                                                              9
+G. Borrower Performance.                                                                               9
+H. Assessment of Outcome .10
+1. Future Operation .10
+J. Key Lessons Learned                                           .11
+PART II - STATISTICAL TABLES ...........................                                                       13
+Table I Summary of Assessment .13
+Table 2 Related Bank Loans .14
+Table 3 Project Timetable .17
+Table 4  Cumulative, Estimated and Actual Disbursement .18
+Table 5 Key Indicators for Project Implementation .19
+Table 6 Key Indicators for Project Operation .21
+Table 7 Studies Included in Project .22
+Table 8A  Project Costs ...........................................                                           22
+Table 8B  Project Financing ...........................................                                       22
+Table 9   Economic Costs and Benefits ...........................................                             23
+Table 10  Status of Legal Covenants ...........................................                               25
+Table 11  Compliance with Operation Manual Statements ...........................................             25
+Table 12  Bank Resources: Staff Inputs ...........................................                            25
+Table 13  Bank Resources: Missions ...........................................                                26
+APPENDICES
+A.    Mission's Aide-Memoire (with Operation Plan) .27
+B.  Borrower's Evaluation .33
+C.  Lead Contractor Comments .52
+Harbin Power Engineering Company Limited (China) .53
+Cockerill Mechanical Industries (Belgium) .61
+MAP IBRD No. 26851
+This document has a restricted distribution and may be used by recipients only in the performance of their
+I official duties. Its contents may not otherwise be disclosed without World Bank authorization.         l
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(Loan 2792-PAK)
+Preface
+This is the Implementation Completion Report (ICR) for the Power Plant Efficiency Improvement
+Project, for which Loan 2792-PAK in the amount of US$70 million was approved on April 7, 1987, and declared
+effective on November 18, 1987.  The loan was closed on June 30, 1994, after two extensions.  Final
+disbursement took place on December 23, 1994, at which time a balance of US$552,595 was cancelled.
+The ICR was prepared by Messrs. M. Manrai of the Energy and Project Finance Division (now retired)
+and R. Aziz of Pakistan Resident Mission as Task Managers and Waqar Haider (Consultant). It has been reviewed
+by Mr. Per Ljung (Chief) and Ms. Zoubeida Ladhibi-Belk, Principal Power Engineer from the Energy and
+Project Finance Division, and Mr. F. Ahmed, Project Adviser, Country Department I, South Asia Regional
+Office.
+Preparation of this ICR began during the Bank's final supervision mission during May 1994.1 It is based
+on material in the project file. The Borrower contributed to the preparation of the ICR through views reflected in
+the mission's aide-memoire (Appendix A), preparing its own evaluation of the project's execution (Appendix B)
+completion, and by commenting on the draft ICR. The generous assistance to the mission provided by officials of
+Water and Power Development Authority is gratefully acknowledged.
+The project benefitted from cofinancing provided by the United States Agency for International
+Development, the Export-Import Bank of Japan, and the Overseas Development Administration (ODA, United
+Kingdom). Although the cofinanciers declined the offer to prepare a separate evaluation, ODA's valuable
+comments were considered while finalizing the report.
+Included as Appendix C are comments from two contractors associated with project implementation who
+were invited to respond to an evaluation of their services by the Bank and the Borrower.
+IA completion mission was undertaken in December 1994 to continue this activity.
+
+
+
+
+
+
+IlPLEMENTATION COMPLETION REPORT
+PAKISTAN
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(Loan 2792-PAK)
+Evaluation Summary
+Introduction
+Thermal power plants are a major consumer of hydrocarbons, but generally their consumption
+efficiencies are low. Because of severe capacity constraints, the Water and Power Development Authority
+(WAPDA) also uses some of its relatively inefficient combustion turbines more extensively than the normal peak-
+load operations. Thermal plants constitute about 50% of WAPDA's total generating capacity. Their efficient
+performance is crucial to WAPDA's operations. Therefore, a project was developed to rehabilitate some of the old
+thermal plants with low operating efficiencies, and to convert two combustion turbines to combined cycle
+operation. The Bank appraised the project in 1985, and a loan of US$70 million was approved in 1987.
+Project Objectives
+The objectives of the project were to: (a) improve the efficiency with which hydrocarbons were used by
+WAPDA in power generation; (b) provide about 120 MW of additional generating capacity through
+rehabilitation, and another 80 MW through the conversion of combustion turbines to combined cycle operation;
+and (c) continue the institution building efforts by strengthening WAPDA's capability in the operation and
+maintenance of thermal power stations and spare parts management. The objectives were clear, realistic and
+consistent with the Bank's and GOP's strategy for the power sector.
+Implementation Experience and Results
+The project achieved its sectoral, physical, and financial objectives substantially (paras 3.2, 3.10 and
+4.3). The achievement of institutional objectives was however only partial (paras 4.6 and 4.7). The start-up of
+the project was late, and its actual implementation was about three years behind schedule.  Based on the
+consultants' detailed design, the scope of the rehabilitation component was enhanced during project
+implementation, from 120 to 283 MW, including the re-commissioning of two units of 130 MW of the Multan
+Power Station. Recommissioning of Multan Power Station involved mainly refurbishing and repair of generators
+and turbines, cleaning of condensors and repair of air seals. These routine maintenance activities did not require
+the purchase or installation of any major equipment items but, added substantial (130 MW) capacity to the grid.
+Most of the project activities relating to rehabilitation component have been completed, resulting in the restoration
+of 256 MW of generation capacity by June 30, 1995. WAPDA is arranging funds for the restoration of the
+remaining 27 MW (para 3.5). The Kotri and Faisalabad combined cycle components (88 MW each) were
+significantly delayed, but were completed in November 1994, after which they underwent trial run before being
+taken over by WAPDA during December 1995 (para 3.6). With the gradual implementation of Maintenance
+Management Systems, the forced outage rates have also been reduced. However, other efficiency indicators,
+notably reduction in fuel use per kWh of electricity generated, do not appear to indicate any significant
+improvements (para 3.8 and 3.9). The factors which affected the achievement of physical objectives were frequent
+changes in design (para 11.2) and poor management by the combined cycle contractor' (para 5.4). The
+performance of the Bank and WAPDA during project implementation was satisfactory (paras 7.4 and 8.6).
+The disbursement schedule was seriously affected because of substantial delays, and actual disbursements
+were only about 25% of that originally envisaged (US$30 million) during the first two years. A substantial
+portion of the Bank loan (about 65% or US$45 million) was disbursed during FY91 to FY93, when major
+activities on the project were undertaken (para 5.11). The total cost of the project, as implemented, was about
+US$176 million; this indicates an increase of 8.0% relative to the appraisal estimate with a decrease in the
+rehabilitation component and a substantial increase in the combined cycle component (para 5.8).
+Reference Appendix C.
+
+
+
+-ii-
+Sustainability and Proiect Outcome
+The main achievement of the project has been the restoration of 256 MW of generating capacity at a
+relatively low cost (para 5.8); in addition, the increased generation from combined cycle units involves no
+additional fuel costs. WAPDA has agreed under the Operation Plan to review the performance of the plant every
+quarter. The project is sustainable and its outcome clearly satisfactory (paras 6.1 and 9.1).
+Summarv of Findings
+Through the Project, WAPDA was able to restore/recover additional capacity of 256 MW at a cost much
+smaller than the estimated cost for building new capacity. It has also gained additional capacity of 88 MW
+through the conversion of combustion turbines to combined cycle operation at Faisalabad and Kotri. It has,
+however, not been able to improve the fuel consumption efficiencies at most of the rehabilitated plants. During
+implementation of the project, a team of WAPDA professionals gained valuable experience; however, there
+remains a need for enhancing their contracts and procurement management, implementation scheduling and
+contract supervision skills. WAPDA has successfully installed a sophisticated Maintenance Management System
+at Guddu, and it is being extended to other stations (para 3.7).  The training and transfer of technology
+component relating to the refurbishment of gas turbine blades at the Central Repair Workshop, Faisalabad were
+delayed and therefore, could not be completed under the project (para 3.5).
+Future Operation of the Project
+In order to sustain the operation of the project, the following measures must be undertaken: (a)
+agreement on a satisfactory set of performance indicators for rehabilitated plants (e.g., gross heat rate or fuel use
+per kWh; forced outage hours; energy generated, plant and load factors; outage hours due to spare parts
+shortages; and total inventory costs per year); (b) regular monitoring and comparison of performance indicators of
+rehabilitated plants with other plants; (c) development of planned maintenance programs; (d) a comparative
+analysis of the performance of Kotri and Faisalabad combined cycle plants with other similar plants in the system;
+and (e) development of a comprehensive project proposal for starting efficiency improvement schemes at other
+plants. As part of project's Operation Plan, WAPDA has agreed to review the performance of plant quarterly
+(para 10.5). The Bank will monitor the plant performance quarterly through supervision of WAPDA's ongoing
+Power Sector Development Project (Ln. 3764-PAK), and during the preparation of the proposed Energy
+Efficiency and Conservation Project.
+Key Lessons Learned
+Closer Supervision by WAPDA. WAPDA should strengthen its systems for supervision of all its on-
+going projects to get timely feedback for taking remedial actions. In this regard, it should ensure greater liaison
+between its project managers, engineers and the consultants engaged in assisting it in supervising a project. In
+order to avoid delays and cost over-runs, it is proposed that all ongoing projects be reviewed in sufficient detail,
+at least each quarter, by the top WAPDA management. This should be in addition to day-to-day coordination
+(para 11. 1).  These reviews should include meetings with the project staff and consultants, site visits,
+identification of implementation problems and remedies, and timeframes for executing the remedial actions.
+Design Modifications During Implementation. The feasibility study in October 1985 had identified
+capacity recovery and efficiency improvement schemes, preliminary lists of equipment to be installed, and costs
+for different thermal plants. For some of the project components, these equipment lists were modified on the
+basis of detailed designs prepared by the project consultants. While some modifications based upon detailed
+analysis are inevitable, one of the key lessons of the project is that substantial changes in the original design make
+it difficult to evaluate the project outcome compared to the appraisal estimates, both in terms of project costs as
+well as the specific benefits to be achieved (capacity recovery, efficiency improvements, etc.).  It is necessary
+
+
+
+-iii-
+that in projects of this nature in addition to design criteria, detailed design and the bidding documents are
+prepared and agreed during appraisal as recommended in Bank guidelines (para 11.2)
+Institution-Buildinn Components. Institution building was a major objective. The project provided for
+training of WAPDA's engineering staff in design, maintenance and repair including spare parts management
+system of conventional and combined cycle thermal plants with a utility of proven track record. Although the
+loan was extended twice, WAPDA could only procure equipment and machinery required for repairs etc., but
+could not implement the training component. For procuring training of such a complex nature, detailed scope and
+terms of reference should have been agreed at appraisal and a competent consultant engaged to evaluate the
+proposals. WAPDA is now planning to finance the training and transfer of technology program through JEXIM
+financing (para 4.7).
+Future Projects in the Subsector
+The Bank has underlined the necessity of reforms in the power utilities of the public sector and has also
+stressed the importance of involvement of private sector for the development of power. To assist in this regard,
+two loans are currently ongoing which provide a fund for financing eligible private sector subprojects: the Private
+Sector Energy Development Project, Ln. 2982-PAK, was approved in 1988 and was used solely for the
+construction of the Hub Power Project. The fund was replenished in 1994 with the approval of Ln. 3812-PAK to
+continue financing of the Hub Power Project, and to finance other eligible power projects. The first project to
+reach financial closure under the second loan is expected during FY96 with the approval of the Uch Power Project
+in parallel with a Bank Guarantee operation.
+The Bank approved in June 1994 US$230 million for the Power Sector Development Project (Ln. 3764-
+PAK) to finance, inter alia, the restructuring and privatization of WAPDA. A loan of US$350 million for the
+Ghazi-Barotha Hydropower Project (Ln. 3965-PAK) was approved in December 1995, to finance not only the
+construction of the hydropower plant, but also to consolidate the power sector reform program begun under
+previous Bank loans.
+Another important area is the conservation of energy through efficiency and demand side management.
+In this regard, the Energy Efficiency and Conservation Project is included in the FY97 lending program. Thus,
+the Bank has begun to shift available funding from the public sector power utilities for development of its
+generation, transmission and distribution facilities, to an increased role for the private sector and to the
+conservation of energy through efficiency in end use.
+
+
+
+
+
+
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+Power Plant Efficiency Imnrovement Proiect
+(Loan 2792-PAK)
+PART I - Project Implementation Assessment
+Proiect Identity
+Project Name:         Power Plant Efficiency Improvement Project
+Loan No.:             2792-PAK
+RVP Unit:             South Asia Region
+Country:              Pakistan
+Sector/Sub-sector:    Energy/Power
+Background
+1.1    The Water and Power Development Authority (WAPDA), was established as a semi-autonomous body
+in 1959 to coordinate the development of Pakistan's water and power resources.  It is responsible for the
+generation, transmission and distribution of electricity throughout the country, except the greater Karachi area,
+which is served by Karachi Electric Supply Corporation. WAPDA is organized into two largely independent
+Wings, one for water and the other for power generation, transmission and distribution activities. WAPDA, as
+used in this report, refers exclusively to the planning, construction and operation of power facilities.
+1.2    In June 1986, WAPDA's total installed capacity was 4,949 MW, comprising 2,897 MW (59%) of hydro
+and 2,052 MW (41 %) of thermal units. The maximum potential output of hydro stations amounted to about 3,100
+MW, when all the reservoirs were full, and to about 1,000 MW during the dry seasons. The large fluctuation in
+the potential hydro capacity between high and low-water months, and other capacity constraints, necessitated a
+more extensive use of thermal capacity (especially the more expensive combustion turbines meant for peak load).
+1.3    The project, whose main objective was to rehabilitate some of the existing thermal plants with low
+efficiency, was appraised in September 1985, and approved by the Bank's Board on April 7, 1987. The Loan and
+Guarantee Agreements were signed on April 22, 1987, and the loan was declared effective on November 18, 1987
+(after two extensions in the target date for effectiveness). The original Closing Date for the loan was June 30,
+1992; following two extensions of one year each, the loan was officially closed on June 30, 1994.
+A. Evaluation of Obiectives
+2.     Proiect Obiectives and Description
+2.1    The objectives of the project were to: (a) improve the efficiency with which hydrocarbons were used by
+WAPDA in power generation; (b) provide about 120 MW of additional generating capacity through rehabilitation
+of existing thermal units, and about 80 MW through the conversion of combustion turbines to combined cycle
+operation; and (c) continue the institution building efforts initiated under Bank Group's earlier lending operations
+by strengthening WAPDA's capability in the operation and maintenance of thermal power stations and spare parts
+management.
+2.2    The project provided for:
+(a)    equipment, spares, tools and other materials required for the rehabilitation of steam units and
+combustion turbines at Sukkur, Guddu, Faisalabad, Quetta, Multan, Kotri and Shadra;
+(b)    equipment, materials, civil works and services for conversion of eight combustion turbines to
+combined cycle operation at the Kotri and Faisalabad power stations;
+
+
+
+-2-
+(c)    consultancy services for detailed engineering, preparation of bidding documents, supervision of
+implementation and development of systems for maintenance and spare parts management; and
+(d)    training of WAPDA's staff in the design, operation and maintenance of thermal plants.
+2.3    The project was prepared on the basis of a feasibility study conducted by WAPDA in October 1985 with
+the assistance of consultants funded by USAID2 (para 11.2). The consultants assessed the operational status and
+maintenance requirements of WAPDA's thermal generating units, and formulated a work program and
+investments required to improve the thermal efficiency of each unit, and the time schedule for its implementation.
+In view of WAPDA's limited experience in the design and engineering of steam and combined cycle power plants,
+consultants were recruited to assist WAPDA's staff in the detailed design, preparation of bidding documents and
+implementation schedules, and to supervise implementation of the project. These consultants, financed by ODA3
+and later by the Bank, also assisted in the development and implementation of maintenance and spare parts
+management systems, as well as the training of WAPDA's staff in their use.
+2.4    The project was to be implemented concurrently at seven different locations, and involved procurement
+of a large variety of equipment and materials financed by a number of donor agencies. Because WAPDA's
+experience with the coordination of such activities was limited, WAPDA also agreed to establish under the
+General Manager (Thermal) a Plant Efficiency Improvement Group whose responsibilities were to (a) coordinate
+the implementation of the project; (b) liaise with the consultants; and (c) form the counterpart staff within
+WAPDA to be trained in the development and implementation of modern systems for maintenance and spare parts
+management.
+B. Achievement of Obiectives
+3.1    Macroeconomic Policies. There were no macroeconomic policies in the project. However, the project
+envisaged satisfactory resource mobilization by WAPDA.
+3.2    Sectoral Obiectives.    In late 1980, the Government of Pakistan (GOP) launched a major program to
+accelerate the development of the energy sector by formulating a long-term strategy. Apart from enhancing the
+role of the private sector, the above strategy aimed at improving the operational efficiency of its main public
+energy sector entities, which included WAPDA. By end 1994, WAPDA's installed generating capacity was
+10,675 MW of which about 5,850 MW was thermal. Due to hydrology constraints, WAPDA is forced to use
+thermal plants extensively. These thermal power plants are a major consumer of primary energy (oil, gas, coal),
+but the efficiency with which fuels are consumed to generate electricity is relatively low. The deterioration in the
+efficiency of steam plants has been largely due to postponement of scheduled maintenance, inspections and
+overhauls necessitated by system capacity constraints, and shortage of spare parts.  The overall capacity
+constraints in the power system force WAPDA to use some of its relatively inefficient combustion turbines more
+extensively rather than restrict their use to the normal peak-load operations. To determine whether the efficiency
+of such thermal plants could be improved significantly in a short period of time with comparatively small capital
+investments (e.g., by rehabilitating and retrofitting steam units and converting suitable combustion turbines to
+combined cycle operations), WAPDA carried out a feasibility study in October 1985 with the assistance of
+consultants, financed by USAID, which confirmed the viability of efficiency improvement program. This study
+formed the basis of the project, partly funded by the World Bank. The sectoral objectives, which were to develop
+an efficient thermal generation system in the public sector and to enhance the role of the private sector, were met
+substantially through the design and the execution of the project.
+3.3    Physical Objectives. While the feasibility study had identified about 120 MW  of capacity additions
+which would be possible through the rehabilitation of existing units, the detailed analysis carried out by the design
+consultants identified an additional 163 MW of capacity which could be restored, primarily through the re-
+comnmissioning of the Multan power station (150 MW). The scope of the rehabilitation component was thus
+revised by WAPDA to involve the recovery and restoration of about 283 MW of capacity; a number of specific
+2United States Agency for International Development.
+3Overseas Development Administration, United Kingdom.
+
+
+
+-3-
+schemes were developed and lists of equipment/major works were suitably modified. The conversion to combined
+cycle at the Kotri and Faisalabad stations was anticipated to add about 80 MW of generating capacity, which was
+increased to 88 MW on the basis of the bids submitted by the contractors.
+3.4    Project Start-up and Implementation Schedule. The project consisted of three distinct components: (a)
+the rehabilitation of steam and combustion turbine power plants at seven locations mentioned in para 2.2(a); (b)
+conversion of combustion turbines to combined cycle operation at the Kotri and Faisalabad power stations; (c)
+development and implementation of the Maintenance Management System.
+3.5    Work on the rehabilitation component of the project was initiated in February 1987 with the help of
+ODA financed consultants. This resulted in restoration of 256 MW of generation capacity by June 30, 1995.
+WAPDA is arranging funds for the remaining 27 MW. Activities relating to technology transfer and training for
+repair and maintenance of thermal plants at the Central Repair Workshop, Faisalabad were delayed and could not
+be completed under the project. WAPDA is trying to arrange funds from JEXIM4 or other possible sources to
+finance this technology transfer and training program.
+3.6    The implementation of the Kotri and Faisalabad combined cycle components was significantly delayed,
+but was completed in November 1994. These units were put on trial run on October 16, 1995 and September 12,
+1995 respectively, and were taken over by WAPDA during December 1995.
+3.7    With the assistance of its consultants, work on the Maintenance Management System (MMS) component
+progressed according to the plan. The main objectives of MMS were to reduce unplanned outages at thermal
+plants by introducing comprehensive and integrated management systems, improving operational efficiency and
+providing improved managerial control. The initial design, development and implementation of MMS was
+completed at Guddu (steam power plant, gas turbines and combined cycle units) by October 1994, and was in
+different stages in planning and implementation at Muzaffargarh and Jamshoro. MMS also provided for the
+setting up of Power Plant Maintenance Group at WAPDA's Head Office. Similarly, systems for strategic
+planning for scheduled outages and maintenance programs, and for thermal efficiency monitoring and control,
+were also developed under this program. Training in Non-Destructive Testing and Environmental Monitoring
+and Control components were added to MMS when the closing date was extended in 1994, and are currently
+being implemented. The MMS component of the project has assisted WAPDA in preparing detailed outage plan
+for 1995-96.
+3.8    Physical Achievements. To date, the rehabilitation program has successfully recovered 256 MW  of
+capacity at a fairly low cost (relative to capital cost for new plants) at the Guddu, Faisalabad, Quetta, Shahdra and
+Multan power stations. However, evidence regarding efficiency improvements at the existing stations does not
+indicate any major gains. For reasons explained below for example, the heat rate (or alternatively fuel use per
+unit electricity generated) appears to have deteriorated for a majority of the plants (see Table I below, and Table
+6, Part II).
+Export Import Bank of Japan
+
+
+
+-4-
+Table 1: Physical Achievements of the Project
+Plant/Unit              SAR        Revised      Achieved      Target Heat    Actual Heat
+Target      Target                       Rate           Rate
+(MW)        (MW)         (MW)        (BTU/kWh)    (BTU/kWh)
+SAR           FY94
+|Sukkur Steam                       6.9         10.0         0.0          12081            NA
+Guddu Steam                        53.4         45.0         37.0          8902            NA
+Faisalabad Steam                    4.0         19.0         19.0          9568           12075
+Quetta Steam                       10.4         7.0           4.0         11426          20857
+Multan Steam                        6.7        152.0        152.0          9683           12641
+Kotri Gas Turbine                  12.4         3.0           3.0         15027           16151
+Faisalabad Gas Turbine              8.5         12.0          6.0         14366           18305
+Shahdra Gas Turbine                 6.6        24.0          24.0         13671          22330
+Guddu Gas Turbine                   9.0         0.0           0.0         17000            NA
+Quetta Gas Turbine                  1.4         10.9         10.9         14323            NA
+Sub-Total                         119.3        282.9        255.9
+Conversion to combined cycle       80.0         88.0         88.0
+Grand Total                       199.3        370.9        343.9
+3.9     Because of severe capacity constraints, WAPDA has been unable to take plants out of service (e.g., for
+carrying out efficiency tests) to ascertain operational performance prior to, and after the completion of the
+rehabilitation program. During the preparation of this Implementation Completion Report (ICR), a comparison of
+performance data for all the plants rehabilitated under the project was carried out by WAPDA to determine the
+factors that have accounted for the increased fuel consumption per unit of generation. A copy of the explanatory
+note prepared by WAPDA following this review is attached, along with the Borrower's Evaluation in Appendix
+B. On the basis of this review, a number of factors (which are specific to each plant) have accounted for the
+apparent deterioration in performance. In particular, these are as follows:
+(a)    Most of the units are designed to use natural gas as the primary fuel; however, the
+availability of natural gas for the power sector has been increasingly constrained since
+the early 1990s, necessitating the use of fuel oil, which has led to reductions in
+operational efficiency;
+(b)     Some of the units do not appear to have been run at the economic loading capacity, in
+part due to the requirements for system stability. In such instances, the operation of the
+plant is not primarily for generating electricity, but for other objectives e.g.,
+maintaining voltage stability, etc. The operation of these plants at sub-optimal loading
+also appears to have contributed to increased fuel consumption;
+(c)    Again, primarily for the purposes of system stability, some units have been loaded at
+minimal capacity, or kept on hot standby basis for extended periods by the National
+Power Control Centre. The idle running of units at such times utilized fuel, but did not
+generate electricity; and
+(d)    Finally, it needs to be acknowledged that rehabilitation is an ongoing activity, and the
+rehabilitation of some components enhances the need for replacement of other
+components (which may not have been foreseen earlier), delays in which can lead to
+reduced efficiencies. While discussing the Operational Plan, agreement was reached
+with WAPDA on a program for regularly reviewing on a continuous basis the
+operational performance of the various plants, and for identifying and implementing
+rehabilitation programs.
+
+
+
+-5-
+3.10    The rehabilitated plants and the combined cycle plants are all under operation. The operational data for
+thermal plants for the last three years is presented in Table 6, Part-II. It can be observed that forced outage for
+the first two quarters of 1994 are 25,500 hours, compared to 30,000 hours for year 1993, showing a downward
+trend. Energy generation (GWh) and plant availability factors for these thermal units during the last few years,
+also indicate performance improvement. In conclusion, the physical objectives have been substantially met.
+C. Financial Performance
+Financial Obiectives
+4.1          To ensure that adequate funds were available for the implementation of WAPDA's investment
+program, WAPDA has agreed under ongoing operations with the Bank on an internal cash generation covenant,
+which requires WAPDA to generate annually from internal sources at least 40% of its capital expenditures,
+averaged over the previous, current and ensuing year, taking into account changes in working capital. WAPDA is
+also required to consult with the Bank before incurring new debt should it be unable to maintain a debt service
+coverage of at least 1.5 times. WAPDA's tariffs are set to ensure that these two financial objectives are met. By
+and large, WAPDA has achieved these financial performance targets satisfactorily since FY85.
+4.2           Past and Present Financial Performance.  Part II, Table 9 provides a comparison between
+appraisal estimates and actual performance for selected financial indicators during FY86-93, while Table 1 below
+provides a summary of WAPDA's financial performance during FY90-95:
+Table 1: WAPDA'S FINANCIAL RESULTS, FY90 FY95
+KEY FINANCIAL INDICATORS            FY90      FY91       FY92        FY93       FY94       FY95
+UNAUD.
+kWh Generated (Millions)             31427      34345      38067       40791      42396     45917
+kWh Sold (Millions)                  24121      26584      29267       31272      32131     35081
+Average Revenue/kWh Sold (R.)          1.06      1.16        1.27        1.26      1.41       1.75
+Increase in Average Revenue (%)        11.9      10.2        11.9        5.0       12.4       13.9
+Operating Revenue (R./kWh Sold)        1.09      1.19        1.33        1.39      1.55       1.77
+Operating Expenses (R./kWh Sold)        .61       .70        .82         .92       1.08       1.14
+Net Operating Income (R./kWh Sold)     .48        .51        .53         .51        .50       .63
+Investment Program (R. Million)      16764      16030      24804       22310      25591     26395
+Internal Cash Gen. (%) 3 Yr. Avg.     40.7       47.3        50.0       44.0       28.0       39.9
+Rate of return on Avg. Net Fixed       20.8      19.0        19.2       18.6       16.4       19.0
+Assets (%) aI
+Debt Service Coverage Ratio             1.8       1.5         1.6        1.4        0.9        1.5
+Debt Equity Ratio                     58:42     57:43       56:44      57:43      56:44      57:43
+{On historical cost basis.
+4.3          WAPDA's overall financial performance during the period has been satisfactory. Its self-financing
+performance has been sufficient (exceeding 40%) in all the years, except in FY94 due mainly to WAPDA's
+retirement of its second bond issue of Rs 5.6 billion which it was unable to roll-over because of unfavorable
+market conditions. A substantial tariff increase in November 1994 (averaging 24%) led to an improvement of
+WAPDA's financial performance, enabling it to meet the financial covenants during FY95. Thus, WAPDA is
+expected to earn a satisfactory rate of return on net fixed assets during FY95 of about 19.0%. Average revenue
+has steadily increased from Rs 1.06/kWh in FY90 to Rs 1.75/kWh in FY95. Operating revenues increased from
+
+
+
+-6-
+Rs 1.09/kWh in FY90 to Rs 1.77/kWh in FY95 representing an average annual increase of 10.8%, while
+operating costs increased at an average rate of 13.3% during the same period. The faster increase in operating
+expenses is due to a lower recovery of fuel costs in FY94 and FY95 and higher fuel costs resulting from an
+increase in thermal generation to compensate for the low hydro generation during these two years. With average
+inflation rates running a about 10 - 12% during the period, WAPDA has been achieving rates of return well above
+inflation, based on assets valued at historical book values, the normal practice of public sector agencies in
+Pakistan.
+4.4          While WAPDA's debt-equity ratio has been satisfactory at about 57:43, WAPDA has had to resort
+to substantial short-term borrowings in recent years, in part due to its high levels of receivables, especially from
+government agencies and departments, and the difficulty in mobilizing long-term financing due to the general
+tightness in credit markets. WAPDA also faced increasing difficulties in its bond issues due to the removal of
+GOP guarantees. In future, there is a need to monitor WAPDA's debt-servicing capacity in order to avoid
+expensive short-term borrowing.
+4.5          Accounts Receivable. The level of WAPDA's overall accounts receivable has been increasing over
+the past three years, from 22% of sales in FY92 to 26% in FY95. As of February 1995, total receivables
+amounted to Rs 14.8 billion representing about 3.8 months average sales. While receivables from private sector
+consumers, amounting to about Rs 9.7 billion, represent 2.6 months sales, those from Government departments
+and agencies, amounting to Rs 5.1 billion were equivalent of 6.3 months sales. Under the ongoing Bank loans,
+GOP agreed to ensure that all Federal and Provincial Government departments and agencies would settle all bills
+for the supply of electricity within three months. To ensure this, the Cabinet has taken several important
+decisions providing for: (a) recovery of arrears through budgetary releases and deductions at source; (b)
+withholding of payments due by WAPDA to those Government agencies in arrears; (c) disconnection of
+defaulters; and (d) monthly reporting of status of arrears to the Economic Coordination Commnittee. These
+decisions are now being implemented by WAPDA. As a result, the Government adjusted about Rs 3.0 billion of
+receivables from Government departments and agencies against amounts payable by WAPDA to the Government
+in FY95. Thus, Government receivables are now about 2.6 months of billing.
+Institutional Obiectives
+4.6         Management, Professionals and Other Staff. WAPDA's managerial and professional staff is well
+qualified and competent, particularly in operating and carrying out rehabilitation work at thermal power plants. It
+was therefore able to undertake the project in a systematic and professional manner. However, the specific
+project-related expertise, specially in the areas of contracts management, procurement, activities monitoring and
+project cost control systems, has been somewhat deficient, resulting in implementation delays.
+4.7         One of the main components of the project was to provide training to WAPDA's engineering staff
+in the design, maintenance and repair including spare parts management system of conventional and combined
+cycle thermal plants. It was planned to train the engineers in an international utility with a proven track record.
+The procurement of sophisticated workshop machinery especially for repair and testing of hot gas path
+components of the thermal units was included in the project. The loan was extended twice to enable WAPDA to
+complete the implementation of this component. Although necessary machinery for repairs was procured,
+WAPDA could not arrange for the training. WAPDA is now trying to arrange funds from JEXIM Bank or other
+possible sources. Because of failure to acquire the needed training under the project, the institutional objectives
+were met only partially.
+4.8         Economic Rate of Return (ERR).  In order to determine the economic benefit of the project,
+operating data for the rehabilitated plants has been collected. Actual investments (less taxes and duties) have been
+estimated and expressed in constant 1994 Rupees; operating costs and revenues have also been estimated based
+upon assumptions on load factor, operating losses and historical split between generation and
+transmission/distribution. The project yields an ERR of 24.35%, based upon WAPDA's average revenue,
+economic cost of input fuel and current level of operating expenses, excluding depreciation and interest charges.
+This compares favorably with 16% estimated during appraisal. This ERR does not take into account benefits
+relating to greater reliability of supplies, and for the consumer surplus, based on consumers' willingness to pay
+for electricity.
+
+
+
+-7-
+D. Maior Factors Affecting the Proiect
+Combined Cycle Component
+5.1         Factors Not Subiect to Governmental Control. In view of the higher cost of bids received for this
+component, the project was faced with a financing shortfall amounting to almost 40% of the total foreign currency
+requirement. While the financing gap was subsequently covered through JEXIM Bank cofinancing within the
+1994 Second Energy Sector Loan (ESL II, Ln. 3107-PAK), the large gap between the bids received and estimated
+costs indicates that the cost estimates prepared by the consultants were under-estimated.
+5.2         Disbursements under the JEXIM  loan were delayed by about 12 months in the following
+circumstances. Following a decision in late 1991 by the Islamic courts in Pakistan regarding interest payments
+under Islamic Law, JEXIM sought clarifications from the government regarding the possible implications of this
+decision on its loan. Following the receipt of these clarifications, disbursements under the Loan were permitted by
+JEXIM.
+5.3         Factors Subiect to Implementing Agency Control.  The bids received for the combined cycle
+components were substantially higher than estimated. As a result, considerable time elapsed between the receipt
+of bids and WAPDA's decision on contract award, while WAPDA re-evaluated the merits of the component on
+the basis of these higher costs. The selected bidder subsequently refused to accept the award, and the components
+were re-tendered. Implementation of this component was thus initiated about three years later than the appraisal
+timetable. Had WAPDA acted quickly, this delay could have been avoided.
+5.4         The implementation of the combined cycle units at Kotri and Faisalabad was not entirely
+satisfactory, and these units were completed about three and a half years after contract signing; the contractual
+period for installing these units was approximately 18 months. In its evaluation of the project (Appendix B),
+WAPDA has attributed these delays to weaknesses in the lead contractor's effective control over sub-contractors,
+and the coordination of shipment and erection of equipment, and civil works. WAPDA's concerns over these
+delays were conveyed to the contractors on a number of occasions (e.g., during the regular project review
+meetings, meetings with the Chief Executives of the contractors, and through formal letters in August and
+November 1993). In their response to these observations (Appendix C), the lead contractors have acknowledged
+that the project involved coordinating the activities of a number of suppliers and manufacturers; however, they are
+of the view that effective coordination of these activities was ensured. They also refer to delays in payments by
+WAPDA, largely because of the delay in disbursements under the JEXIM loan (para 5.2).
+Rehabilitation Component
+5.5         Factors Not Subiect to Governmental Control. This component of the project suffered delays
+primarily because of the severe power crisis in the country, with the result that the plants could not be taken off
+from the system for the planned periods for rehabilitation work. As a result, the project schedule could not be
+adhered to, and work was undertaken only when the plant had to be shut-down for other reasons.
+5.6         Factors Subiect to Implementing Agency Control.  The project consultants were appointed in
+February 1988, instead of the planned June 1987. Similarly, WAPDA counterpart staff was posted only by April
+1988, after a delay of about nine months. This delay meant that actual work plans for the rehabilitation component
+were also finalized by the consultants/WAPDA staff later than planned.
+5.7         Plant equipment and components were delivered late by some contractors/suppliers, resulting in
+implementation delays. Some delays also took place because of delayed clearances at the port, and non-payment
+of the necessary levies by WAPDA. The civil works contractor completed the new workshop building at
+Faisalabad late due to contractual problems with WAPDA, which delayed setting up of the new workshop
+facilities.
+
+
+
+-8-
+Proiect Costs
+5.8         The total cost of the project as implemented, was about US$176 million with an increase of 8.0%
+relative to the appraisal estimate of US$163 million. The above cost included a marginal reduction in the
+rehabilitation component (US$59 million versus the appraisal estimate of US$75 million), while the cost of the
+combined cycle component was substantially higher than estimated (US$117 million versus US$87.8 million).
+The actual finances provided by various donors are: Bank - US$69.4 million, USAID - US$13.8 million, and
+ODA - US$9.9 million. The increased cost of the combined cycle component was covered through JEXIM Bank
+cofinancing (US$31.2 million) under ESL-II. Table 8 of Part-II presents a detailed breakdown of project costs and
+the financing plan.
+Extension of Closing Date
+5.9         The loan account was originally scheduled to be closed on June 30, 1992. However, because of
+considerable delays in starting and implementation of the project, especially the combined cycle components,
+successive Bank supervision missions had reported on these delays, and recommended that the Bank management
+agree to an extension in the closing date. The date was first extended to June 30, 1993, and subsequently to June
+30, 1994. While a few activities relating to the full commissioning of combined cycle units at Faisalabad/Kotri
+and technology transfer were ongoing, no further extension in the loan closing date was considered essential, and
+the loan was closed on June 30, 1994.
+Procurement
+5.10        Because the actual efficiency improvement schemes were developed by the project consultant on the
+basis of which specific equipment and components were ordered, there was a major difference in the list of items
+procured for the rehabilitation component, as well as the overall cost (US$15 million instead of US$41 million as
+approved). On the other hand, equipment for conversion of combustion turbines to combined cycle operation was
+procured according to the envisaged scheme, even though the cost estimates turned out to be highly under-
+estimated. There were 122 contracts (covering both goods and civil works) on the rehabilitation component. The
+equipment and materials financed under the project were generally procured under international competitive
+bidding procedure, in accordance with the Bank guidelines.
+5.11        Disbursements. The disbursement schedule was seriously affected because of substantial delays in
+the start-up of the project. During the first two years, actual disbursements were only about 25% of that
+originally envisaged (US$30 million). A substantial portion of the Bank loan (about 65% or US$45 rnillion) was
+disbursed during FY91 to FY93, when major activities on the project were undertaken. Total disbursements up to
+December 1994 amounted to US$69.447 million, and an amount of US$552,595 was cancelled on December 23,
+1994, the date of the last disbursement under the loan (Part II, Table 4).
+5.12        Environmental Aspects. Because of waste heat recoveries and use of fuel gases for increased power
+generation, the project has contributed towards safeguarding environment by reduction in air pollution, and
+decreased water contamination, but no quantitative assessment has been made.
+E. Proiect Sustainability
+6.1         The project has been successful in recovering capacities with a modest investment, and all the
+rehabilitated plants are generating more electricity than before the project was initiated. With the commissioning
+of combined cycle units at Faisalabad and Kotri (converted from combustion turbine to combined cycle
+operation), these plants are likely to contribute significantly in bridging the supply-demand gap. Since marginal or
+no additional fuel supplies were needed (waste heat is being recovered and used), this has meant additional
+electricity at a relatively low cost. The project is, therefore, sustainable and viable because of its very essence;
+however, a number of steps must be undertaken to ensure the continued sustainability of the project benefits over
+the economic life of the assets (para 10.6).
+
+
+
+-9-
+F. Performance of Bank and Cofinanciers
+World Bank Performance
+7.1         The initial proposal for rehabilitation of thermal units and improvement of efficiency levels was
+developed by WAPDA on the basis of study carried by USAID sponsored consultant. The Bank appraised the
+proposal and agreed with WAPDA on baseline fuel consumption levels for different units, and the targets to be
+achieved through the implementation of the project. The Staff Appraisal Report (SAR), proposed generalized
+efficiency schemes, and conversion of combustion turbines to combined cycle operation at Faisalabad and Kotri.
+The SAR was based upon sound energy efficiency and conservation principles, and the Bank provided a good
+overall framework for undertaking this project. In retrospect, the project would have benefitted from preparation
+of detailed designs and tender documents as recommended in Bank Guidelines. However, only design criteria was
+agreed as a basis for project preparation and appraisal. Overall, however, the Bank's performance during
+identification, preparation and appraisal was satisfactory.
+7.2         The Bank's performance during the course of the project showed that a close but friendly control
+was being kept over progress, costs and allocation of funds. The Bank allowed WAPDA to use available funds for
+project components if they met the project objectives, and it also allowed an extension of time beyond that
+initially agreed.
+7.3         The Bank carried out eight supervision missions, almost one each the year and with a reasonable
+continuity in staff drawn from headquarters and Resident Mission (Part II, Table 13). The frequency of the
+supervision missions is deemed adequate, keeping in view the cost involved in assembling and bringing a multi-
+disciplinary team to the field. However, the supervision teams always had a large agenda, in addition to
+supervising this project, and had to carry out supervision, planning, preparation and appraisal of other projects as
+well during their missions. This left limited time for the missions to carry out a detailed review of the progress
+on the Power Plant Efficiency Improvement Project, for site visits and meeting the implementation staff, and for
+providing support and assistance in resolving implementation problems.
+7.4         Bank supervision was largely concentrated on overall financial matters, contractual issues and
+implementation schedules. Performance deficiencies were highlighted by different supervision missions, and
+WAPDA was asked to carry out remedial actions.  Primary responsibility for the achievement of project
+objectives rested with WAPDA and its consultants; nevertheless, it is felt in hindsight that there may have been
+opportunities for more intensive Bank supervision (e.g., site visits and closer interaction with the consultants and
+contractors) through which the Bank could have reinforced WAPDA's supervision of the project. Despite this,
+the Bank's overall performance during supervision is considered satisfactory.
+Cofinanciers' Performance
+7.5         The project was unique in that a number of cofinanciers (USAID, ODA and JEXIM) also provided
+the required financing, with the Bank being the major contributor. There were delays in the payment of funds due
+to the contractor from the JEXIM loan. This caused considerable problems to the contractor, and was a major
+cause of delays (para 5.2).
+7.6         ODA was the provider of consultancy services for the project (para 2.3).  ODA staff also
+maintained a close but friendly watch over all aspects of the project. Unfortunately, the combined cycle
+component extended beyond the limit of their allocated funds, and WAPDA was obliged to arrange consultancy
+funding from the World Bank. USAID funding, in the form of grant money, was made available as per plans
+(para 2.3), and no problems were experienced.
+G. Borrower Performance
+8.1         The project was identified and prepared jointly by WAPDA and the World Bank based on a USAID
+sponsored consultant's study and recommendation. WAPDA's performance during identification and preparation
+was satisfactory.
+
+
+
+-10-
+8.2         WAPDA undertook the project with the full commitment and seriousness, for the obvious gains it
+had to offer; however, WAPDA's performance in implementing this project suffered because of a variety of
+controllable and uncontrollable factors, which resulted in implementation delays.
+8.3         The rehabilitation component was highly dependent upon the strict adherence to the program of
+planned outage, and completion of all the preceding activities (e.g., detailed design, manufacturing and
+fabrication, procurement, and deliveries of the necessary material and manpower at site. WAPDA, therefore,
+needed a specialist project implementation group with the requisite expertise and skills. Instead of a separate
+group, WAPDA's field teams of engineers were under the control of a Project Director both for rehabilitation and
+combined cycle components supported by the head office staff, and this delayed implementation.
+8.4         Because of the severe capacity constraints, WAPDA was not in a position to take plants out of the
+system according to the planned schedule for the purpose of rehabilitation. In some instances, a two-month
+planned outage of a plant/unit would have meant significant capacity gains much earlier than actually realized.
+8.5         WAPDA's teams included engineers of all types of disciplines. This enabled WAPDA's engineers
+to become familiar with tasks such as design criteria plant performance monitoring, specification of replacement
+parts, their procurement, putting into service and commissioning of different units, and measurements of
+efficiency improvements. Similarly, teams allocated to combined cycle projects participated with the consultant in
+drawing up the specifications, bid receipt and analysis, award of contract, progress monitoring and site
+supervision, up to commissioning and subsequent take-over of the plants. WAPDA teams were also extensively
+involved in the setting up of the Maintenance Management System at Guddu power plant, and other thermal units
+in the country.
+8.6          Although the project was completed with a delay of almost three years, WAPDA benefitted through
+the professional experience gained during implementation. Given the constraints under which the project was
+implemented, WAPDA's performance during project implementation was satisfactory.
+H. Assessment of Outcome
+9.1          Among the project gains are the following: (a) recovery of about 256 MW  of capacity through
+rehabilitation; (b) addition of 88 MW capacity through waste-heat recovery, by converting combustion turbines to
+combined cycle operation; (c) installation of a Maintenance Management System, resulting in greater plant
+availabilities, reduction in forced outage hours, and hence greater generation; and (d) development of certain in-
+house capability for perpetuating similar activities in the future. Areas where the project outcome has been less
+than satisfactory are: (a) fuel consumption of the plants or the heat rate; (b) contracts and procurement
+management, and implementation of scheduling and supervision, and (c) institutional strengthening through
+training and transfer of technology. On balance, the overall assessment of outcome can be termed clearly
+satisfactory because the project was implemented at a particularly difficult time by WAPDA, and a number of
+factors (planned outage, availability of donor's funds, etc.) were beyond WAPDA's operational control.
+1. Future Operation
+10.1        Operational Plan.  In order to sustain the benefits of efficiency improvements at the thermal
+power plants, an Operational Plan covering the technical, commercial, financial and institutional aspects has been
+agreed with WAPDA. This plan identifies the staffing and other resource requirements, defines the specific
+performance indicators, and describes the understanding reached with the borrower on follow-up actions by
+WAPDA and the Bank. The Operation Plan is included as part of Appendix A.
+10.2         Technical Aspects.  The Maintenance Management System should be installed at rehabilitated
+plants, to monitor plant performance, in accordance with the indicators specified (para 10.5). Systems for
+collecting and analyzing operating data should be reviewed and strengthened, and preferably computerized
+databases developed. The information so generated should be the basis for developing planned maintenance
+schedules/programs which would enable maintenance activities to be carried out in a timely manner. Combined
+cycle plants at Faisalabad and Kotri would benefit from computerized control systems, rigorous monitoring and
+
+
+
+-11-
+operational controls, modem workshop facilities, spare parts and testing equipment, and trained staff for
+operations. The performance of these two plants vis-A-vis similar plants in the system needs to be evaluated.
+10.3        Financial Aspects. WAPDA needs to ensure adequate budgetary allocations for meeting operations
+and maintenance requirements for the rehabilitated units, so that financial constraints do not impede the required
+maintenance activities or the operational performance. Also, it needs to generate adequate resources for funding
+its investment program, including rehabilitation, which has been found to be very cost effective. Agreements
+with the Bank under ongoing projects require WAPDA to contribute through internal cash generation at least 40%
+of the funds required for financing its future capital expenditures.
+10.4        Institutional Aspects. WAPDA has acquired valuable experience in rehabilitating and improving
+efficiency of its thermal plants through undertaking this project. This experience should be institutionalized by
+creating a project group under the General Manager Thermal (Operations), which should be suitably funded, and
+should carry out rehabilitation and maintenance work on a continuous basis. A system of regular training should
+be institutionalized so as to continually upgrade the capabilities of this group.
+10.5        Performance Indicators.  A formal program for monitoring the performance (relative to design
+standards and specified operating conditions) of the rehabilitated plants as well as the combined cycle units needs
+to be put in place. In this regard, selected performance indicators that were discussed by the completion mission
+with WAPDA include: (a) gross heat rate (BTU/kWh), or fuel use per kWh; (b) forced outage hours during a
+period; (c) energy generated (GWh/year); (d) plant and capacity factors; (e) outage hours due spare parts
+shortages; and (f) total inventory costs. As part of the Operational Plan agreed during the completion mnission,
+this review of plant performance would be carried out by the General Manager, and Chief Engineer (Operations)
+every quarter, and reviewed by Member (Power) every six months, after which decisions on remedial measures
+would be taken and implemented during the following period.
+10.6         Follow-up by the Bank. Under follow-up operations with WAPDA (and in particular during the
+preparation of the proposed Energy Efficiency and Conservation Project), Bank should review and monitor
+progress on selected technical, financial and institutional aspects. These are as follows: (a) institution of a regular
+monitoring  system,  with  specified  performance  indicators,  and  reviewing  the  performance  of
+rehabilitated/combined-cycle plants; (b) establishment of a project group in WAPDA, with suitable budgetary
+allocations to carry out a rehabilitation program at other plants; and (c) ensuring that the Maintenance
+Management System has been installed at thermal power plants, planned outage program is being adhered to, and
+suitable allocations made for overhaul and maintenance work. It is recommended that the Bank's Operation
+Evaluation Department review and evaluate the impact of the project.
+J. Key Lessons Learned
+11.1        Closer Supervision by WAPDA. WAPDA should strengthen its systems for supervision of all its
+ongoing projects to avoid delays and get timely feedback for taking remedial actions. In this regard, it should
+ensure greater liaison between its project managers, engineers and the consultants engaged in supervising the
+projects. In order to avoid delays and cost over-runs, it is proposed that all ongoing projects be reviewed in
+sufficient detail, at least each quarter, by the top WAPDA management in addition to day-to-day coordination.
+These reviews should include meetings with the project staff and consultants, site visits, identification of
+implementation problems and remedies, and timeframes for executing the remedial actions. The system of project
+supervision should be institutionalized by creating/strengthening a specialist group to prepare periodical reviews,
+and to keep WAPDA management informed of the status and factors accounting for delays in ongoing projects.
+In this regard, the quarterly progress reports required by the Bank should be used more as a management tool
+rather than a product just to satisfy Bank's requirements.
+11.2        Design Modifications During Implementation. The 1985 feasibility study (para 2.3) had identified
+capacity recovery and efficiency improvement schemes, preliminary lists of equipment to be installed, and costs
+for different thermal plants. For some of the project components, these equipment lists were modified on the
+basis of detailed designs prepared by the project consultants. While such modifications based upon detailed
+analysis are inevitable, one of the key lessons of the project is that changes in original design make it difficult to
+evaluate the project outcome compared to the appraisal estimates, both in terms of costs as well as the specific
+
+
+
+-12-
+benefits (capacity recovery, efficiency improvements, etc.) to be achieved. This situation can be avoided if
+detailed design and bidding documents are prepared and agreed during appraisal which is recommended in Bank
+guidelines.
+11.3       Institution-Building Components.  Institution building was a major program  objective, and
+provisions were made for training of staff and transfer of technology. Through this project, WAPDA engineers
+have acquired the capability to undertake efficiency improvement projects in future; systematic Maintenance
+Management System are also being implemented at different thermal plants. WAPDA should, however, ensure in
+future projects that progress on institution-building activities takes place along with physical work, and any
+deficiency or delays on this count should be taken up with senior management at an early stage.
+
+
+
+-13-
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+Power Plant Efficiency Improvement Proiect
+(Loan 2792-PAK)
+Part n - Statistical Tables
+Table 1: Summary of Assessments
+A. Achievement of Objectives      Substantial        Partial        Neeligible     Not Applicable
+Macroeconomic Policies            0                0                O               (1)
+Sector Policies                  (,)               O                O                0
+Financial Objectives             (V)               O                0                0
+Institutional Development         0               (/)               0                0
+Physical Objectives              (3)               0                0                0
+Poverty Reduction                 0                0                0               (v)
+Gender Concerns                   0                0                0               (V)
+Other Social Objectives           0                0                0               ()
+Environmental Objectives          0                0                0               (/)
+Public Sector Management          0               (/)               0                0
+Private Sector Development        O       0                         0               (V')
+Other (specify)                   0                0                0               (/)
+B. Project Sustainability           Likelv                  Unlikely                  Uncertain
+(H)                      0                          0
+C. Bank Performance              SaEisaNorv                Satisfactory               Deficient
+Identification                    0                       (/)                        Q
+Preparation Assistance            0                       (3)                        o
+Appraisal                         0                       (I)                        0
+Supervision                       0                       (1)                        0
+Highly
+D. Borrower Performance          Satistactory             Satisfactory                Deficient
+Preparation                       0                       (1)                        0
+Implementation                    0                       (/)                        Q
+Covenant Compliance              (V)                       0                         0
+Operation (if applicable)         0                       (')                        0
+E. Assessment of Outcome          SaPis anorv    Satisfactory  Unsatisfactory      Unsaicorv
+0            (1)               O                   0
+
+
+
+-14-
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+Power Plant Efficiency Improvement Proiect
+(Loan 2792-PAK)
+Table 2 - Related Bank Loans and Credits
+Cr./Ln. No.       |                                     1 Yr. of
+and Title        |             Purpose                | Apprv.          Status          Comments
+A. Precedin2 Onerations
+Cr. 213-PAK WAPDA        Upgrading capacity of Transmission    1970        Closed          Completed with delay of
+Power Project            Network                                           (12/31/78)      five yrs.
+(WAPDA l)
+Ln. 1208-PAK Second      Finance part of 500-kV Trans. System.   1976      Closed          Successfully completed,
+WAPDA Power Project    connecting hydro in north and thermal               (9/30/82)       with 1 year delay.
+(WAPDA II)               gen. in south
+Cr. 968-PAK Third        Finance 4-year tranche of program for    1979     Closed          Successfully completed but
+WAPDA Power Project    dev. of secondary transmission                      (12/31/85)      with 3 year delay.
+(WAPDA III)                                                                                                           l
+Ln. 2499-PAK             Finance 4-year tranche of program for    1985     Closed          Successfully completed, but
+Fourth WAPDA Power       development of secondary                          (12/31192)      with 3 year delay. PCR
+Project (WAPDA IV)       transmission.                                                     dated 6/21/95.
+Ln. 2556-PAK Fifth       Assist WAPDA in reinforcement of      1985        Closed          Completed but with a delay
+WAPDA Power Project    EHV power transmission network                      (12/31/93)      of 3 years. Guddu-Jamshoro
+(WAPDA V)                reducing transmission losses                                      section completed in August
+1995.
+Ln. 2698-PAK Kot Addu   Installation of 200 MW additional      1986        Closed          Completed with two years
+Combined Cycle Power    generating capacity at Kot Addu Power              (6/30/93)       delay. PCR dated 11/27/95.
+Project (WAPDA VI)       Station.
+Ln. 2792-PAK Power       Finance program for rehabilitation of 7    1987   Closed          Subject of this ICR.
+Plant Efficiency         power plants and addition of combined             (6/30/94)       Completed with two years
+Improvement Project      cycle generation at 2 power plants.                               delay.
+(WAPDA VII)
+B. Following Operations
+Ln. 3147-PAK              Installation of 2 single circuit 500-kV  1989    Ongoing         Original Closing date 12/95;
+Transmission Extension    transmission lines between Hub Power                              extended to 12/96.
+and Reinforcement         Complex and Jamshoro; installation of
+Project (WAPDA VIII)      a third single circuit 500-kV line
+between Guddu and Multan and a
+second single-circuit 500-kV line
+between Multan and Lahore via Gatti;
+extension and reinforcement of existing
+500-kV substations at Lahore, Gatti,
+Multan and Guddu.
+
+
+
+-15-
+Cr./Ln. No.                      Purpose                Yr.             Status              Comments
+and Title                                              of
+Apprv.
+Ln. 3148/Cr. 2078-PAK    Extending the supply of electricity to  1989    Ongoing after    Original Closing Date 12/95;
+Rural Electrification    new villages and settlements;                  substantial      extended to 6/97.
+Project (WAPDA IX)       connecting to the grid settlements of           delays in start-
+electrified villages; expanding                up.
+consumer connections; reinforcing and
+rehabilitating existing distribution
+network; extending electricity supply to
+tubewells; mapping of all villages and
+settlements; and installing load
+management schemes.
+Ln. 3764-PAK Power       Restructuring and privatization     1994        Ongoing         Closing Date 6/99
+Sector Development       component to implement a Strategic
+Project (WAPDA X)        Plan including reorganization and
+corporatization of WAPDA; investment
+component to implement a timeslice
+(1995-1998) of WAPDA's investment
+program.
+Ln. 3965-PAK Ghazi       Assist GOP in its efforts to: (a)   1995        Project         Not yet effective.
+Barotha Hydropower       develop domestic energy resources and           approved
+Project (WAPDA Xl)       reduce load-shedding in a cost effective        12/19/95
+and environmentally sustainable
+manner; (b) reinforce and complement
+the reform program for the power
+sector; (c) strengthen WAPDA's
+capability to address environmental and
+resettlement issues related to
+hydropower projects; and (d) further
+r ationalize the use of electricity.
+C. Related Loans
+Ln. 2552-PAK Energy      Finance GOP's program for policy    1985        Closed          Successfully completed.
+Sector Loan              reform and inst. development during             (12/31/88)
+Sixth Five Yr. Plan (FY83-88).
+Ln. 3107-PAK Second      Finance GOP's program for policy    1989 &      Closed          ICR under preparation
+Energy Sector Loan       reform and inst. development during  1991       (12/31/94)
+Seventh Five Yr. Plan (FY89-93)               .
+Ln. 2842-PAK Refinery    To improve operational efficiency at  1987      Ongoing         The balancing and
+Energy Conservation and   NRL by reducing energy consumption,                            modernization components
+Modernization Project    increasing crude processing capacity,                           have been completed; Closing
+and modifying the output mix to better                          date extended to June 30,
+match product demand.                                           1996 to allow for completion
+of captive power plant
+utilizing exhaust gases
+Ln. 3252-PAK Corporate   Finance program for restr./privatization   1990 &  Ongoing      Being Implemented
+Restructuring and System    of SNGPL, and expansion of its   1991
+Expansion Project        transmission and distribution network
+capacity by about 50%. Under the
+project, SNGPL constructed a pipeline
+between Multan and Kot-Addu for
+supplying natural gas to the power
+station
+
+
+
+-16-
+Cr/Ln. No.                                                Yr.
+and Title                      Purpose                   of          Status               Comments
+Apprv.                                               l
+Ln. 3500-PAK Domestic    Accelerate development of           1992        Ongoing        Being Implemented
+Energy Resources         hydrocarbons by PS resources, delivery
+Development Project     to consumers, enhancing commercial
+orientation of public-sector entities, and
+GOP regulation/policy-making
+Ln. 2982-PAK Private     Assist GOP in mobilizing private sector  1988   Ongoing        Implementation of private
+Sector Energy            financing for energy investments and                           sector projects was
+Development Project      develop institutional framework for                            substantially delayed during
+(PSEDP I)                sustaining private sector                                      FY90-93; construction of Hub
+investment/operations in the sector                            Power Project is now
+proceeding satisfactorily.
+Closing Date extended to Dec.
+31, 1999 (to correspond with
+PSEDP-II)
+Ln. 3812-PAK Second      To replenish the PSEDF established  1994        Ongoing        Being implemented
+Private Sector Energy    under Ln. 2982-PAK for financing
+Development Project      private sector investments in energy
+(PSEDP-II)               and infrastructure projects.
+
+
+
+-17-
+Table - 3: Project Timetable
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+Steps in project cycle                 Date planned *                    Date actual/
+latest estimate
+1. Identification                                                          October 1985
+2. Pre-appraisal
+3. Appraisal Mission                                                    September 20, 1985
+4. Negotiations                                                        December 18-23, 1986
+5. Letter of dev. policy                  Not Applicable                  Not Applicable
+6. Board presentation                      March 1987                      April 7, 1987
+7. Signing of the loan                     April 7, 1987                  April 22, 1987
+8. Loan Effectiveness                      July 6, 1987                 November 18, 1987
+9. First tranche release                  Not Applicable                  Not Applicable
+(if applicable)
+10. Mid-term review                              -                             None
+11. Project completion                     March 31, 1990                  December 1994
+12. Loan closing                           June 30, 1992                    June 30, 1994
+* As given in the Staff Appraisal Report, March 7, 1987, and Memorandum of the President to
+the Executive Directors, March 19, 1987
+
+
+
+-18-
+Table - 4: Cumulative Estimated and Actual Disbursements
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+(US$ thousands)
+Financial Year/       Appraisal          Actual                   Cumulative
+Semester              Estimate                              Appraisal       Actual
+FY1988:
+Jul-Dec              5000                   0                5000              0
+Jan-Jun              1000                5040                6000          5040
+FY1989:
+Jul-Dec             10000                   0               16000          5040
+Jan-Jun             14000                2590               30000          7630
+FY1990:
+Jul-Dec             15000                1490               45000          9120
+Jan-Jun             12000                 610               57000          9730
+FY1991:
+Jul-Dec              7000                1670               64000          11400
+Jan-Jun              5000               13610              69000          25010
+FY1992:
+Jul-Dec              1000                6030               70000         31040
+Jan-Jun                -                 5400               70000         36440
+FY1993:
+Jul-Dec                -                 9590               70000         46030
+Jan-Jun                -                10060               70000         56090
+FY1994:
+Jul-Dec                -                 7430               70000         63520
+Jan-Jun                -                 1110               70000         64630
+FY1995:
+Jul-Dec                -                 4817               70000         69447
+Total                70000               69447
+Amount Cancelled:                 US$552,595
+Date of last disbursement:        December 23, 1994
+
+
+
+-19-
+Table - 5A: Key Indicators for Project Implementation
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+Key hnplementation                                         Planned                Actual
+Indicators/Plant Name                                        Date                   Date
+I. CONTRACTUAL ACTIVITIES:
+A. REHABILITATION PROJECT:
+Guddu:
+Engineering and design, contract award, and equipment delivery   Jun 88                 June 91
+Rebuild and test                                                 Dec 89                 June 92
+Multan:
+Engineering and design, contract award, and equipment delivery   Jun 88                 June 91
+Rebuild and test                                                 Nov 89                 June 92
+Shahdra:
+Engineering and design, contract award, and equipment delivery   Apr 88                 June 91
+Rebuild and test                                                 Nov 89                 June 92
+Quetta:
+Engineering and design, contract award, and equipment delivery   Mar 88                 June 91
+Rebuild and test                                                 Dec 89                 June 92
+Kotri:
+Engineering and design, contract award, and equipment delivery   Jun 88                 June 91
+Rebuild and test                                                 Dec 89                 June 92
+Faisalabad:
+Engineering and design, contract award, and equipment delivery   Jul 88                 June 91
+Rebuild and test                                                 Dec 89                 June 92
+Sukkur:
+Engineering and design, contract award, and equipment delivery   Oct 88                 June 91
+Rebuild and test                                                 Dec 89                 June 92
+B. COMBINED CYCLE AT FAISALABAD:
+Prep of specs, issue of tender
+Documents receipt, bid evaluation
+Award of contract                                                May 88                 Jan 91
+Main residential civil works                                     Jul 90                 Dec 93
+Circulating Water System works                                   Mar 90                 Mar 94
+Manufacture of eqpt, inspection, shipment, delivery at site      Dec 89                 Aug 94
+Installation of plant and equipment                              Mar 90                 Aug 94
+Testing and commissioning                                        Jun 90                 Dec 94
+C. COMBINED CYCLE AT KOTRI:
+Prep of specs, issue of tender                                                          Mar 90
+Documents receipt, bid evaluation                                                       Jul 90
+Award of contract                                                May 88                 Jan 91
+Main residential civil works                                     Jul 90                 Aug 94
+Circulating Water System works                                   Mar 90                 Feb 94
+Manufacture of eqpt, inspection, shipment, delivery at site      Dec 89                 Aug 94
+Installation of plant and equipment                              Mar 90                 Dec 94
+Testing and commissioning                                        Jun 90                 Dec 94
+D. MAINTENANCE MANAGEMENT SYSTEMS:
+Establishment of the Group/Team at Lahore & Guddu                Oct 92                 Oct 92
+Refurbishment of office and recruitments                         May 92                 May 92
+Installation of computer and software                            Jun 92                 Jul 92
+Training, and start of operation at Guddu                        Dec 92                 Dec 92
+Preparation of PRA code, plant assets register                   Jan 93                 Apr 93
+Identification of requirements, and preparation of work list     Dec 92                 Jun 93
+Preparation of work bank                                         Dec 93                 Dec 94
+Implementation of MMS                                            Dec 93                   Cont
+
+
+
+-20-
+Table - 5B: Key Indicators for Project Implementation
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (LOAN 2792-PAK)
+Key Implementation                                             Planned             Actual
+Indicators/Plant Name                                            Date               Date
+II. PHYSICAL WORK:
+A. Multan Steam:
+Generator/Turbine refurbishment I & 2                                     1990-91             1991-92
+Steam chest replaced Unit 1 & 2                                            1990-91            1991-92
+Acid cleaning condenser Unit 3                                             1990-91            1991-92
+Repair air htr seal Unit 3                                                1990-91             1991-92
+Acid cleaning condenser Unit 4                                             1990-91            1991-92
+Rewinding of generator Unit 4                                              1990-91            1991-92
+B. Guddu Steam:
+Condenser cleaning, bumers repair,                                         1990-91            1991-92
+replacement of servo unit/CW pumps for Unit 1                              1990-91            1991-92
+New LP rotor, Condenser cleaning, burners repair,                          1990-91            1991-92
+replacement of servo unit/CW pumps for Unit 2                             1990-91             1991-92
+C. Faisalabad Gas Turbine:
+Replacement of Filters, Unit I to 8                                        1990-91            1991-92
+D. Faisalabad Steam:
+Acid clean condenser/boiler, overhaul of rotor #1                          1990-91            1991-92
+Acid clean condenser/boiler, NDT replace tubes #2                          1990-91            1991-92
+E. Kotri Gas Turbine:
+Replacement of Filter, cleaning of compressors 1&2                         1990-91            1991-92
+F. Ouetta Steam:
+Refurbishment of dry-type cooling towers Unit I & 2                        1990-91            1991-92
+Improved O&M procedures, Unit 1 & 2                                        1990-91            1991-92
+Compressor refurbished Unit 3                                              1990-91            1991-92
+Generator winding cleaned Unit 4                                           1990-91            1991-92
+Generator rotor cleaned Unit 5                                             1990-91            1991-92
+G. Shahdra:
+Oil coolers cleaned, fans adjusted Unit 3-6                                1990-91            1991-92
+H. Sukkur Steam:
+Replacement of instrument/boiler control system 1-4                        1990-91            1991-92
+
+
+
+-21-
+Table - 6: Key Indicators fbr Project Operation
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+A. Capacity Recovery (MW):
+Plant/Unit                SAR              Revised              Actual          Achievement
+Target             Target            Achieved          Remaining
+Sukkur Steam                      6.9               10.0               0.0               10.0
+Guddu Steam                      53.4              45.0               37.0                8.0
+Faisalabad Steam                  4.0               19.0              19.0                0.0
+Quetta Steam                     10.4                7.0               4.0                3.0
+Multan Steam                      6.7              152.0             152.0                0.0
+Kotri Gas Turbine                12.4                3.0               3.0                0.0
+Faisalabad Gas Turbine            8.5               12.0               6.0                6.0
+Shahdra Gas Turbine               6.6              24.0               24.0                0.0
+Guddu Gas Turbine                 9.0                0.0               0.0                0.0
+Quetta Gas Turbine                1.4               10.9              10.9                0.0
+Total (Re-hab)                  119.3             282.9              255.9               27.0
+Combined cycle operation:
+Faisalabad                       40.0              44.0               44.05               0.0
+Kotri                            40.0              44.0               44.0                0.0
+Grand Total                     199.3             370.9              343.9               27.0
+B. Heat Rate (BTU/kWh):
+Plant/Unit                SAR                           Actual Achievement
+Target           FY1987             FY1991            FY1994
+Sukkur Steam                  12081             13563              19100                NA
+Guddu Steam                    8902             10129              10366                NA
+Faisalabad Steam               9568              9898              12332              12075
+Quetta Steam                  11426             12866              22654              20857
+Multan Steam                   9683              10006             12392              12641
+Kotri Gas Turbine             15027             15428              17059              16151
+Faisalabad Gas Turbine        14366             14706              17838              18305
+Shahdra Gas Turbine           13671             14471              21217              22330
+Guddu Gas Turbine             17000              17000              NA                  NA
+Quetta Gas Turbine            14323              14657             17228                NA
+Note: Heat rates were specified unit-wise in the SAR; simple averages for the plant have been used for this Report
+C. Other Parameters:
+Parameter                   Units               Actual Achievement                 Remarks
+FY1991  FY1992  FY1993  FY1994
+Forced Outage               Hours       NA       NA       30000    25500            Only for the first two quarters
+Energy Generated            GWh        17950    18400    19500    25400             FY1994 figures are prorated on the first
+two quarters
+Plant Availability                      NA       84.4%    80.0%    92.8%            FY1994 figures are average for the first
+two quarters
+D. Details of work still to be done:
+1. Technology transfer and training to be launched at Central Repair Workshop, Faisalabad
+2. Erection, commissioning and training on specialized equipment
+3. Implementation of Maintenance Management Systems at remaining thermal plants
+4. Refurbishment of cooling towers of Units I&2 at SPS Faisalabad
+5 Combined cycle plants at Kotri and Faisalabad were commissioned and taken over by WAPDA in December 1994.
+
+
+
+-22-
+Table - 7: Studies Included in the Project
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+Name of the study      Purpose as defined at       Status        Impact of the
+appraisal/redefined                           study
+There were no studies under the project
+Table - 8A: Project Costs
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+(US$ million)
+Investment Costs                   *   APPRAISAL ESTIMATE *    *  ACTUAL/LATEST ESTIMATE *
+Local     Foreign         Total      Local        Foreign      Total
+Cost      Exchange        Cost       Cost        Exchange       Cost
+I. Civil Works                             7.2          0.5          7.7        3.0            6.5          9.5
+2. Main Plant Rehabilitation              11.2         29.6         40.8        0.0            15.1        15.1
+3. Conversion to CC                       11.2         27.0         38.2        4.7            72.3        77.0
+4. Fuel Handling System                    0.5          0.9          1.4        0.0             0.0         0.0
+5. Substation Equipment                    1.9          4.4          6.3        0.0            13.8        13.8
+6. Workshop Equipment                      1.8          4.4          6.2        0.0             5.0         5.0
+7. Township                                0.9          0.0          0.9        0.8             0.0         0.8
+8. Consultancy & Training                  0.6          6.2          6.8        1.2            10.7        11.9
+9. Admniistration                          4.0          0.0          4.0        3.6             0.0         3.6
+9A. WAPDA Overheads                        0.0          0.0          0.0       40.0             0.0        40.0
+BASE COSTS                                39.3         73.0         112.3      53.3           123.4       176.7
+Physical Contingencies                     4.7          8.7         13.4         -             -            0.0
+Price Contingencies                        8.1         13.1         21.2         -                          0.0
+Interest during construction               1.7         14.2         15.9         -             -            0.0
+TOTAL COSTS                               53.8        109.0         162.8      53.3           123.4       176.7
+Note: WAPDA Overheads include interest charges,$5.715 million for balance work during FY1995,etc
+Table - 8B: Project Financing
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+(US$ million)
+**** APPRAISAL ESTIMATE **** *** ACTUAL/LATEST ESTIMATE ***
+Local        Foreign       Total        Local        Foreign       Total
+Cost        Exchange       Cost          Cost       Exchange       Cost
+1. IBRD (Loan 2792-Pak)                    0.0         70.0         70.0        1.5            67.9        69.4
+(Loan 3107-Pak)                   0.0          0.0          0.0        0.0             0.6         0.6
+2. USAID                                   0.0         15.0         15.0        0.0            13.8        13.8
+3. JEXIM (through Loan 3107-PAK)           0.0          0.0          0.0        0.0            31.2        31.2
+4. ODA                                     0.0          5.3          5.3        0.0             9.9         9.9
+5. WAPDA                                  53.8          0.0         53.8       51.8             0.0        51.8
+6. GOP                                     0.0         18.7         18.7        0.0             0.0         0.0
+TOTAL                                     53.8        109.0        162.8       53.3           123.4       176.7
+Note: Conversion rate used for Rs/$ equivalent is:
+FY1988 17.56; FY1989 19.18; FY1990 21.39; FY1991 22.37; FY1992 24.78; FY1993 25.95; FY1994 30.16
+
+
+
+-23-
+Table - 9: Economic Costs & Benefits6
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+I. FINANCIAL RESULTS:
+FY1986    FY1989        FY1991      FY1993
+Actual    Estimated     Actual     Estimated      Actual      Estimated       Actual
+kWh Generated (Millions)     21055        28403       28898       34672         34345        41614         40791
+kWh Sold (Millions)          15504        21870       21982       26697         26584         32043         31272
+kWh sold/kWh generated (%)  73.64%      77.00%       76.07%     77.00%        83.23%        77.00%        76.66%
+Average Revenue/kWh (Paisa)   74.39      108.44        94.40     129.66        116.50        146.07         26.20
+Operating Revenue, Costs & Income (Million Rs):
+Total Operating Revenue      11760        24082         1587       5059          1605          7340          3515
+Total Operating Expenses:
+Fuel Cost                     3200         6616        6228       10591          9150         16123         11771
+Other Operating Costs         4616         7392        6805       10818          9434         15526         16955
+Total                         7816        14008        13033      21409         18584         31649         28726
+Net Income Available          3944        10074        8554        3650         13021         15691         14789
+I. PROJECT RESULTS (DIRECT BENEFITS):
+% Increase
+FY86        FY88         FY89       FY90          FY91          FY92          FY93  FY86-FY93
+Installed Capacity (MW)       4040         5549         5949      6409          7053           7493         8152    101.78%
+Maximum Demand (MW)           3933         5031         5440      5680          6090           6532         7522      91.25%
+Maximum Load Shed (MW)        1643         1126         1830       1666          879           1393         1456    -12.84%
+Generation (GWh)             21055        27451       28898      31427          34345         38066         40791     93.74%
+Energy Sale (GWh)            15504        20702       21982       24121         26584         29267         31272    101.70%
+Losses incl Auxil. (%)      26.36%      24.59%       23.93%     23.25%        22.80%        23.12%        23.34%     -12.94%
+Transmission Line (Km)       20607        21730        22167      22729         23533         23794         24647     19.60%
+Grid Stations (No.)            488          527          546        556           573           584           593     21.52%
+Transformer Capacity(MVA)    15277        19481        21203      22273         23740         25564        28175      84.43%
+Consumers (000):
+Residential                 3780.0       4530.0       5080.0     5468.0        5805.0        6220.0        6623.0    75.21%
+Commercial                   830.0        960.0       1040.0      1089.0       1135.0        1186.0        1221.0    47.11%
+Industrial                    130.0       147.0        150.0       159.0        163.0         169.0         172.0    32.31%
+Bulk Supply                     1.6         1.9          2.1        2.2           2.3           2.4           2.5    56.25%
+Others                        135.4       137.1        146.9       152.8        155.7         158.6         157.5    16.32%
+Total                       4877.0       5776.0       6419.0     6871.0        7261.0        7736.0        8176.0    67.64%
+Villages Electrified          2577        2440          2301       3096          4047          3649          4824     87.19%
+Consumption (GWh):
+Residential                   4514         1054         1068       1106          1152          1192          1303     48.91%
+Industrial                    5894         7236         7579       8360          9114         10213         10912     85.14%
+Bulk Supply                   1215         1571         1877       1818          1895          2091          2020     66.26%
+Others                        3006         4551         4519       5190          5806          6080          5817     93.51%
+Total                        15504        20702        21982      24121         26585         29267         31272    101.70%
+Per Capita Consump. (kWh)      169          212          220        234           250           267           276     63.31%
+6 Based on comparisons with appraisal estimates.
+
+
+
+B. Econornic rate of return
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+Year  --------- PROJECT COST ----------   Energy  ----------------- PROJECT BENEFITS ------------------    Discounted                    Discounted          Net
+Capital   Fuel      0 & M    Total    Gene-   Energy    Sale   Benefits Benefits   Fuel             Total         Cost              Benefits       Benefits
+Cost     Cost      Cost      Cost      rated    Sold       Price    From   Attrib to  Cost   Benefits    10%            12%      10%       12%
+Sale   Project  Recovery
+---------- Million Rs. ----------    MkWh         MkWh    Ps7/kWh   ---------- Million Rs. -----------  --------------- Million Rs. ---------------
+1988   164.49      0.00      0.00   164.49       0.00      0.00    85.00       0.00      0.00     0.00      0.00   149.53   146.B6        0.00      0.00  -164.49
+1989    62.41      0.00      0.00    62.41       0.00      0.00    85.00       0.00      0.00     0.00      0.00    51.58    49.75        0.00      0.00   -62.41
+1990   173.62      0.00      0.00   173.62       0.00      0.00    85.00       0.00      0.00     0.00      0.00   130.44   123.58        0.00      0.00  -173.62
+1991   518.27      0.00      0.00   518.27       0.00      0.00    85.00       0.00      0.00     0.00      0.00   353.98   329.37        0.00      0.00  -518.27
+1992    77.55      0.00      0.00    77.55       0.00      0.00    85.00       0.00      0.00     0.00      0.00    48.15    44.00        0.00      0.00   -77.55
+1993   138.95      0.00      0.00   138.95       0.00      0.00    85.00       0.00      0.00     0.00      0.00    78.43    70.39        0.00      0.00  -138.95
+1994     3.38  1075.35   112.35  1191.08  1605.00  1235.85    85.00  1050.47   598.77  1075.35  1674.12   611.21   538.79   859.09   757.29   483.04
+1995     0.00  1075.35   112.35  1187.70  1605.00  1267.95    85.00  1077.76   614.32  1075.35  1689.67   554.07   479.69   788.24   682.43   501.97
+1996     0.00  1075.35   112.35  1187.70  1605.00  1284.00    85.00  1091.40   622.10  1075.35  1697.45   503.70   428.30   719.88   612.12   509.75
+1997     0.00  1075.35   112.35  1187.70  1605.00  1300.05    85.00  1105.04   629.87  1075.35  1705.22   457.91   382.41   657.44   549.04   517.52
+1998     0.00  1075.35   112.35  1187.70  1605.00  1308.07    95.00  1111.86   633.76  1075.35  1709.11   416.28   341.44   599.03   491.33   521.41
+1999     0.00  1075.35   112.35  1187.70  1605.00  1308.07          85.00  1111.86   633.76  1075.35  1709.11   378.44   304.85   544.58   438.69   521.41
+2000     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   344.03   272.19   495.07   391.68   521.41
+2001     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   312.76   243.03   450.06   349.72   521.41
+2002      0.00  1075.35   112.35  1187.70  1605.00  1306.07    85.00  1111.96   633.76  1075.35  1709.11   284.33   216.99   409.15   312.25   521.41
+2003     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   258.48   193.74   371.95   278.79   521.41
+2004      0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   234.98   172.98   338.14   248.92   521.41
+2005     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   213.62   154.45   307.40   222.25   521.41
+2006     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   194.20   137.90   279.45   196.44   521.41                                                     NJ
+2007     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   176.54   123.13   254.05   177.18   521.41
+2008     0.00  1075.35   112.35  1187.70  1605.00  1308.07    85.00  1111.86   633.76  1075.35  1709.11   160.49   109.93   230.95   158.19   521.41
+Total 1138.66                                                                                                      5913.17  4863.76  7304.49  5868.32  6612.54
+Benefit-Cost Ratio                1.24      1.21
+Net Present Value              1391.32  1004.56
+Economic Rate of Return (ERR)                      24.35%
+Assumptions:
+1. The year-wise phasing of the project cost excludes interest during construction, and duties, etc.; all costs and benefits are expressed in constant
+1994 prices; costs are expressed in border price equivalent using SCF of 0.85 (same as used in Ghazi-Barotha Feasibility Study)
+2. The revenue attributable to the project is calculated from annual energy generation and sales attributed to rehabilitated units. This energy is valued
+9 57% of the final (average) sale price. The balance is attributable to transmission/distribution costs. This breakdown is estimated by WAPDA based on
+weighted 5-years FY88-FY93 average of operational cost, and net return/kWh accrued in the respective facility.
+3. The amount of fuel cost has also been included in the income/benefit stream as it is recovered from the consumers through the levy of FAS
+Source: IOPDA and mission estimates
+7 Ps = Pakistan Paisa.
+
+
+
+-25-
+Table - 10: Status of Legal Covenants
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-PAK)
+Agreement  Section  Covenant  Present   Original   Revised                    Description of the                  Comments
+Type      Status  fulfillment fulfillment                   covenant
+date       date
+Loan       5.01            1          C      June 30                 WAPDA to have its accounts and  Complied
+2792-PAK   Ibl (i)                           each year                financial statements and Special
+Account audited by independent
+auditors.
+5.01           1          CD     Dec 31                   Submission by IaPDA certified   Complied
+(b) (ii)                         for each FY              copies of its financial              (May 15, 1994)
+statements, as so audited.
+5.01           1          CD                              WAPDA to keep separate account  Complied
+(c)                                                      of its Statements of Expendit-  (February 1994)
+ures (SOE), to be included in
+annual audit report.
+5.02           2          C      June 30                  Maintain self-financing ratio   Complied with for
+(c)                              each year               of 40%.Review compliance prior  FY93; For FY94,ICG was
+to end of FY, and promptly take 28%, and 39.9% for
+necessary measures, if               FY95 based on unaudited
+covenant would not be met.           results.
+5.03           2          CP    June 30                   WAPDA not to incur debt unless  Debt service coverage
+(c)                              each year               net revenue shall be at least   for FY1994 was 0.9 times,
+1.5% of estimated debt service  and 1.5 times for FY95,
+requirements.                        based on unaudited results.
+Key:
+Covenant type:                                                            Status:
+I = Accounts/audits complied with                                       C -Covenant complied with
+2 = Fin performance/rev gen from beneficiaries                          CD   Complied with after delay
+3 = Flow & util. of project funds                                       CP = Conplied with partially
+4 = Counterpart funding                                                 NC   Not complied with
+5 = Mgmt aspects of proj/executing agency
+6 = Envirornmental covenants
+7 = Involuntary resettjement
+8 = Indigenous people
+9 = Monitoring, review and reporting
+10 = Proj implementation not covered by 1-9
+11 = Sectoral/cross-sectoral budget/allocs
+12 = Sectoral/cross-sectoral policy regulatory/institutional action
+13 = Other
+Table - 11: Compliance with Operational Manual Statements
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+All Bank Policies complied with.
+Table - 12: Bank Resources: Staff Inputs
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+Stage of Project                                                   Actual
+Cycle                                                        Weeks
+1. Through Appraisal                                                 25.0
+2. Appraisal - Board                                                   6.9
+
+
+
+Table - 13: Bank Resources: Missions
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT (Loan 2792-Pak)
+Project Stage   Month/Year       No. of persons  Days in field       Staff skills                       Ratings            Types of Problems
+I     Through                                                                                          Status        Status
+Appraisal       Mar-87           NA                 NA (1)           Power Engineer
+Fin. Analyst                 Not Applicable
+2.    Appraisal to
+Board Approval  Apr-87           NA                 NA (2)           Power Engineer
+Fin. Analyst                 Not Applicable
+3.    Supervision
+Supervision 1    Oct-87                2              4              Power Engineer                I             I
+Fin. Analyst
+Supervision 2   Jul-88                 4              4              Task Manager                 1              1         */refers to project management rating
+Power Engr.
+Fin. Analyst
+Supervision 3   Mar-89                 4              10             Task Mgr                     2*             1         */refers to project management rating
+Power Engr.
+Fin. Analyst
+Supervision 4   Jul-90                 2              7              Power Engineer               2*             1         */refers to project management rating
+Consultant
+upervision 5    May-91                 3              5              Sr. Power Engr.               2             1         Proj. 15 mths behind schedule against SAR time-table
+Fin. Analyst                                          Closing date extension recommended, 06/30/92 to 06/30/93
+Supervision 6   Jun-92                 3              3              Sr. Power Engr.               2             1         Combined cycle conversion at Faisalabad and Kotri behind schedule
+Fin. Analyst
+Consulting Engr.
+Supervision 7   Mar-93                 2              4              Prin. Pow. Engr.              2             2         Conversion to combined cycle more than 20 mths behind schedule
+Consulting Econ.                                      2nd Extension considered for closing date of 06/30/93
+Development impact downgraded due to serious delays
+in combined cycle conversion
+Supervision 8   May-94                 2              3              Sr. Power Engr.               2             2         Further delays in combined cycle retrofitting at Faisalabad
+Prin. Pow. Engr.
+4.    Completion       Dec-94                 2              4              Prin. Power Engr.
+Consulting Engr.              2             2
+
+
+
+-27-
+Appendix A
+PAKISTAN
+Power Plant Efficiency Improvement Project
+(Loan 2792-PAK)
+Implementation Completion Report
+Aide-Memoire
+Introduction
+A World Bank mission comprising Rashid Aziz (Bank Staff) and Waqar Haider (Consultant) visited WAPDA
+from September 13 to 26, 1994, to prepare the Implementation Completion Report (ICR) for the Power Plant Efficiency
+Improvement Project (Loan 2792-PAK). The Bank loan for this Project was closed on June 30, 1994. This aide memoire
+presents the mission's findings and recommendations, which would be confirmed through a post mission letter from the
+Bank's management. The mission would like to record its appreciation for the courtesies and cooperation extended by
+WAPDA during the mission.
+A. Proiect Appraisal
+1.     Proiect Obiectives.   The objectives of the Project were to: (a) improve the efficiency with which
+hydrocarbons were used by WAPDA in power generation, (b) provide about 120 MW of additional generating capacity
+through rehabilitation of existing thermal units, and about 80 MW through the conversion of combustion turbines to
+combined cycle operation; and (c) continue the institution building efforts initiated under Bank Group's earlier lending
+operations by strengthening WAPDA's capability in the operation and maintenance of thermal power stations and spare
+parts management.
+2.     Proiect Description.  The Project provided for:
+(i)    equipment, spares, tools and other materials required for the rehabilitation of steam units and combustion turbines
+at Sukkur, Guddu, SPS Faisalabad and GTPS Faisalabad, Quetta, Multan, Kotri and Shadra;
+(ii)    equipment, materials, civil works and services for conversion of eight combustion turbines to combined cycle
+operation at the Kotri and Faisalabad power stations;
+(iii)   consultancy services for detailed engineering, preparation of bidding documents, supervision of implementation
+and development of systems for maintenance and spare parts management; and
+(iv)   training of WAPDA's staff in operation and maintenance.
+The Project was appraised in March 1987, and approved by the Bank's Board on April 7, 1987. The Loan and
+Guarantee Agreements were signed on April 22, 1987, and the Loan was declared effective on November 18, 1987 (after
+two extensions in the target date for effectiveness. The (original) Closing Date for the Bank Loan was June 30, 1992.
+3.     Proiect Cost and Financing. The total cost, including taxes and duties, price and physical contingencies, was
+estimated at about US$ 147 million. The total financing required, including interest during construction of US$ 16
+million, was about US$ 163 million, of which US$ 109 million was in foreign exchange. The Bank Loan of US$ 70
+million was expected to cover 64% of the foreign exchange requirement; the foreign exchange requirement was to be
+partly covered through cofmancing by USAID (US$ 15 million) and the Overseas Development Association (ODA) of UK
+(US$ 5.3 million equivalent). In addition the Government was to provide about US$ 18.7 million to cover the balance of
+
+
+
+-28-
+the foreign exchange requirement, while WAPDA was expected to contribute US$ 53.8 million equivalent towards funding
+the local cost component of the Project.
+4.     Project Preparation. The Project was prepared on the basis of a study conducted by WAPDA with the assistance
+of consultants (M/S Stone & Webster) funded by USAID. The consultants assessed the operational status and maintenance
+requirements of WAPDA's thermal generating units, and formulated a work program and investments required to improve
+the thermal efficiency of each unit, and the time schedule for its implementation. In view of WAPDA's limited experience
+in the design and engineering of steam and combined cycle power plants, it was agreed that WAPDA would recruit
+consultants to assist WAPDA in the detailed design, preparation of bidding documents and implementation schedules, and
+supervision of implementation. In addition, WAPDA agreed to recruit consultants to assist in the development and
+implementation of maintenance and spare parts management systems, as well as for the training of WAPDA's staff in their
+use.
+5.     Implementation Arrangements. The Project was to be implemented concurrently at seven different locations, and
+involved procurement of a large variety of equipment and materials financed by a number of donor agencies. Since
+WAPDA's experience with the coordination of such activities was limited, for this Project WAPDA agreed to establish
+under the (then) General Manager (Thermal) a plant improvement group whose responsibilities were to (a) coordinate the
+implementation of the Project; (b) liase with the consultants; and (c) form the counterpart staff within WAPDA to be
+trained in the development and implementation of modem systems for maintenance and spare parts management.
+B. Project Implementation Experience
+1.     The Project has been implemented by WAPDA on the basis of the following four components:
+i.    The rehabilitation of steam and combustion turbine power plants at seven locations;
+ii.    Conversion of combustion turbines to combined cycle operation at the Kotri power station;
+iii.    Conversion of combustion turbines to combined cycle operation at the Faisalabad power station;
+and
+iv.    Development and implementation of a Maintenance Management System MS)
+1.     The rehabilitation component of the Project has almost been completed with the exception of one technology
+transfer program to be launched at Central Gas Turbine Workshop Faisalabad, and refurbishment of cooling towers units
+1&2 at Faisalabad. The works for the refurbishment of cooling towers at Multan power station are in progress. Also some
+miscellaneous jobs are under progress at different locations. The rehabilitated units are in operation. Work on this
+component was initiated in February 1987, with the help of consultants M/S EWBank (EPL), and completed in about 37
+months, in January 1991. While the feasibility study had identified about 120 MW of capacity additions which would be
+possible through the rehabilitation of existing units, the detailed design work carried out by EPL identified an additional
+163 MW of capacity which would be restored, primarily through the re-commissioning of the Multan power station (130
+MW). The scope of the rehabilitation component was thus revised by WAPDA to involve the recovery and restoration of
+about 283 MW of capacity. To date, almost 253 MW of capacity has been restored at the Guddu, SPS Faisalabad, GTPS
+Faisalabad, Kotri, Quetta, Shahdra and Multan power stations. Table 6 of Annexure II provides details of the capacities
+restored at different stations, along with MW restoration. The balance capacities yet to be recovered are also shown. The
+technology transfer and training for repair and maintenance of thermal plants is yet to be launched at the Central Repair
+Workshop, Faisalabad. Contracts already awarded for installation services of different machinery to be installed in newly
+constructed building at Faisalabad are yet to be carried out. The left-over works including electrification of new Workshop
+are expected to be completed in the next 9 - 10 months.
+
+
+
+-29-
+3.      As regards the Kotri and Faisalabad Combined Cycle components, these have been significantly delayed, and are
+now expected to be completed by end-December 1994. Significant among the factors accounting for the delays in the
+implementation of these components were the following:
+(i)    The bids received for these components were substantially higher than estimated; as a result, considerable
+time elapsed between the receipt of bids and WAPDA's decision on contract award, while WAPDA re-
+evaluated the merits of the component on the basis of these higher costs.  The selected bidder
+subsequently refused to accept the award, and the components were re-tendered. Implementation of this
+component was thus initiated about three years later than the appraisal timetable.
+(ii)   In view of the higher cost of bids received for this component, the Project was faced with a financing
+shortfall amounting to almost 40% of the total foreign currency requirement. While the financing gap
+was subsequently covered through funding through JEXIM Bank cofinancing for the Second Energy
+Sector Loan, the sharp divergence between the bids received and estimated costs indicates that the cost
+estimates prepared by the consultants were a substantial under-estimate.
+(iii)    While the financing gap was covered through the JEXIM Loan, disbursements under that loan were also
+delayed by about 12 months, on account of the decision by the Islamic courts (in late 1991) regarding
+interest payments under Islamic laws.
+(iv)    The performance of the contractor/supplier for the combined cycle units at Kotri and Faisalabad has also
+not been entirely satisfactory, as evidenced by the fact that the installation of these units has not yet been
+completed almost three and a half years after the signing of the contract; the contractual period for the
+installation of these units was approximately 22 months.
+4.      The MMS has been successfully installed at one power station (Guddu), and is currently being installed at
+Jamshoro. With the assistance of consultants funded by ODA, systems and software for the implementation of the MMS
+has been developed, including timetables for planned outages and maintenance work, and inventory control procedures.
+Thermal efficiency monitoring and control work is underway, according to the plan but with some minor delays. This
+component is expected to be completed by December 1994.
+5.      Project Results. While the information provided to the mission indicates that the rehab program has successfully
+recovered about 253 MW of capacity at a fairly low cost (relative to capital cost for new capacity), the evidence in
+particular regarding efficiency improvement at the existing stations does not indicate sufficient gains. For example, the
+heat rate (or alternatively fuel use per unit electricity generated) appears to have deteriorated for a majority of the plants
+(details are provided in Annexure II, Table 6). According to WAPDA, in view of the constraints on the power generating
+system, the utility has to date not been able to take the units out of service for performing efficiency tests (as have been
+recommended on a number of occasions by Bank supervision missions) to determine the extent of performance
+degradation, and take suitable remedial measures. Also, WAPDA does not appear to have instituted a mechanism for
+regular monitoring of operational performance by senior management, and identification and implementation of remedial
+steps. It is essential that, in order to derive the full benefits expected from the Project, formal procedures for such
+monitoring and follow-up actions be introduced as soon as possible.
+6.     Proiect Costs and Financing.    The total cost of the Project, as implemented, is about US$ 176 million; this
+indicates, an increase of 8.0% relative to the appraisal estimate. The above cost included a marginal reduction in the
+rehabilitation component (US$ 59 million versus the appraisal estimate of US$ 75 million) while the cost of the CC
+component is substantially higher than estimated (US$ 117 million versus US$ 87.8 million). As indicated in para 9 above,
+the increased cost of the CC component was covered through JEXIM Bank cofinancing for the Second Energy Sector
+Loan. Annexure II, Table 8 presents a detailed breakdown of Project costs and the financing plan.
+
+
+
+-30-
+7.     Disbursements. The actual disbursements on the project up to end-September 1994 is $ 67.015 million
+(Annexure II, Table 4). It is estimated that there would be additional payments of $ 1.5 million for the work that has
+already been completed or equipment supplied, and the remainder (approximately $ 1.485 million) would be cancelled as
+non-utilized.
+8.     Compliance with Covenants.     The major covenants agreed under the Project relate to the financial
+performance of WAPDA; in particular, WAPDA had agreed to finance 40% of its average capital investment program
+through internal cash generation. In addition, WAPDA has agreed not to incur additional debt unless its net revenues are
+at least equal to 1.5 times its debt service requirements. During the period of implementation of this Project WAPDA has
+successfully complied with these covenants - the level of internal cash generation has been in line with the agreed targets,
+while its debt service coverage ratio has also been adequate (with the exception of FY94 when the ratio fell to 1.4 times).
+9.     Operational Plan.       The mission also discussed with WAPDA officials a Plan for the operation of the
+components installed and/or rehabilitated under the Project, with a view towards sustaining the benefits of the Project for
+the expected life of these assets. The operational plan covers, inter alia, the technical and institutional arrangements
+required for effective operation of these assets, indicators or targets that could be used for measuring the achievement of
+Project objectives, the resources (technical and financial) which WAPDA would need to allocate annually towards the
+operation and maintenance of these assets, and an indicative timetables for monitoring the continued achievement of the
+performance indicators by both WAPDA and the Bank. A draft of the Operational Plan that was discussed with WAPDA
+is attached in Annex 1.
+10     Client Evaluation.     As per the Bank guidelines, WAPDA would submit its own evaluation of the Project
+which would be appended to the ICR. It has been agreed that it would submit its evaluation by November 15, 1994.
+C. Conclusions
+1.     While significant delays were experienced in the implementation of the Project, and the Closing Date was
+extended by two years, the overall outcome of the Project appears to be satisfactory. In particular, an investment of only
+about US$ 60 million has enabled WAPDA to recover about 250 MW of generating capacity (which represents about 5%
+of total thermal capacity). A life extension of 10 to 15 years operation of the rehabilitated power plants in particular at
+NGPS Multan carried out under Power Plant Efficiency Improvement Project is envisaged. The latest machinery and
+equipment for repair and maintenance of Hot Gas Path Components has been procured for installation at Central Repair
+Workshop, Faisalabad. This would carry out overall maintenance and repair jobs of the Hot Gas Path components and
+machinery of all Power stations of WAPDA. The technology transfer program is part of the Rehabilitation Project which
+would enable repairing and maintenance of Hot Gas Path components at Central Repair Workshop Faisalabad by WAPDA
+staff itself. WAPDA should consider to continue similar Rehabilitation Program to its other thermal power plants to
+further improve the efficiency and strengthening the power generation system. It may hire local/foreign consultants for
+support.
+2.     In addition, the conversion to CC operations at Kotri and Faisalabad would provide an additional 88 MW  of
+capacity, with no additional fuel costs. However, benefits in the form of efficiency gains (e.g. through reductions in fuel
+cost per unit of electricity generated) do not appear to have been realized. Finally, the introduction of formal and more
+rigorous Maintenance Management Systems has resulted in improved plant availability factors, reduction in forced
+outages, and thereby increased thermal generation.
+3.     In order to sustain the benefits of the Project over the life of the assets, WAPDA needs to:
+(i)    ensure that the maintenance requirements (financial and staff) are adequately catered for in the annual
+budgets;
+
+
+
+-31-
+(ii)   institute more rigorous and timely mechanisms for performance monitoring and for conducting efficiency
+tests, including periodic review by WAPDA management;
+(iii)   evaluate the effectiveness of the maintenance and stores management systems developed under the
+Project, and extend these to all its generating facilities as soon as possible; and endeavor to enhance on a
+continuous basis the capability of its operating staff and managers through training and exposure to
+modem techniques, for which resources must be identified and allocated as part of the annual budgets.
+Attachment
+Operation Plan
+
+
+
+PAKISTAN - POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+WAPDA VTl (LOAN 2792-PAK)
+OPERATION PLAN
+ITEM                    PRESENT STATUS AND FUTURE PLANS                                                          PERFORMANCE INDICATORS                                                                TARGET DATE
+Project Constructioti      The pcrfortnance tests are due its  ar 9d 5 and  otri are now u dsr trial runt           The plants were completed after delay. WAPDA should ensure that all                   WAPDA to closely monitor
+Completion                 The penaovce by  Are                                                                     contractual tests are perfornied by the contractor before taking over the             contractor performance to ensure
+plants.                                                                               timely completion.
+Project Operaton           I. WAPDA needs to ensure adequate budgetary allocations for ulsecting operations and     Adequate budgetary allocations                                                        Annually during budget preparation and
+Instituttutal              maintenance (O&M) requirentents for the rehabilitated units,                                                                                                                   approval
+Arrangements
+2 WAPDA needs to generate adequatc resources for fmding isivcstroent program, including
+rehabilitation, which has been found to be very cost effective.                          Self financing of 40% of average capitat expeniditures                                Annual reviews and monitoring by
+WAPDA - overall                                                                                                                                                                                           WAPDA and the Bank
+3. WAPDA should complete the tranisfer technology and traininig program earlier included in
+this project.                                                                                                                                                                  Project proposal to be prepared by June 30,
+WAPDA would develop a Project proposal with possible    financing from JEXIM          1995
+Project Operation          1. The Project has contributed to enhancing WAPDA's capabilities for plant operation and  Contparison of performance indicators of rehabilitated plants with other plants lo be  By June 30, 1995
+Instituional               maintenance: the benefits of the Project need to be cvaluated.                           undertaken, to establish the extent of efficiency gains.
+Arrangements                                                                                                                                                                                                                                        tS
+2. Maintenance Management Systems insLtaied (or being installed) at rehabditated plants, to  Selected performance indicators for rehabditated plants, to be monitored periodically by
+Project specific           monitor plant performance; systems for collecting and analyzing operating data are being  WAPDA:                                                                               Monitoring by General Manager/Chief
+strengthened; planned maintenattce programs are being developed.                                                                                                               Engineer (Operations) every quarter;
+a: Gross heat rate (BTUl/kWh), or fuel use per kWh;                                   review by Member (Power) every six
+b: Forced outage hours per year;                                                      months.
+c: Energy generated (GWhtyear);
+d: Plant and Load Factors;
+e: Outage hours due to spare parts shortages;
+f: Total inventory costs/year.
+3. Faisatabad and Kotri CC plants would benefit from computerized control systems, rigorous
+motitoring and operational controls, modem workshop, spare parts and testing facdities, and
+trained operations staff.                                                                WAPDA to make a comparative analysis of performance of Kotri and Faisaiabad CC plants    by June 30, 1995
+with other similar plants in the system.
+
+
+
+- 33 -                                   APPENDIX B
+Page 1 of 19
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(Loan 2792-PAK)
+BORROWER'S EVALUATION
+PAKISTAN iWATER AND POWER DEVELOPMENT AUTHORITY
+Office of the
+General Manager  (Thermal)
+WAPDA: Wapda House,  Lahhore.
+No.  2.Z9    4  /LM T./PP T                B/W.B.                  Dated    J7 __ _ 94
+The World Ban',L
+Resident  Mission  in Pakistan,
+P.O.Box  1025,
+Islamabad.                                                       2 0 NOV 134
+t ECEIVEDv
+Attention           MR RASHID AZIZ
+Subject    :        POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(LOAN 2792-PAK) IMPLEMENTATIION COMPLETION
+REPORT (ICR)
+Dear Sir,
+Further   to   this office  letter No.   11555/IGMTHIPD/IRHW.B.   dated
+15.11.1994   alongwith   Draft  BorrowserS   Evaluation,   please   find
+enclosed herewith  "final Borrowers Evaluation,"  as desired.
+Thanks.
+Yours faithfully
+,~HN~D N,,S   ,44 t7A1R) , ,/   £ '
+Deputy Director (Rehb.)
+fort- General tlanaget- (Therrmal)
+This section has been prepared by the Borrower, and its contents are not attributable to the World Bank. The
+section consists of several parts, i.e., the initial evaluation (Letter No. 26634 dated November 17, 1994), and at
+the Bank's request, a follow-up evaluation of the efficiency/heat rates observed in selected plants following
+their rehabilitation (Letter No. 28408 dated December 12, 1994). Only the text of the Borrower's contribution
+is attached with this report; additional details, tables and a matrix of actions taken and planned, are filed in the
+World Bank's Asia Region Information Center.
+
+
+
+APPENDIX B
+~ 34 -                         Page 2 of 19
+WATER AND POWER DEVELOPMENT AUTHORITY
+POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(IBRD - LOAN NO. 2792 PAK)
+BORROWERS EVALUATION
+INTRODUCTION
+1.   GENERAL
+1.1 On the request of Government of Pakistan, USAID arranged
+services of M/5. Stone & Webster Engineering Corporation of
+USA  to  carry   out a study of existing thermal  plants  in
+respect of their rehabilitation and efficiency improvement.
+They made detailed recommendations in the form of a Report
+submitted in October 1985. On the basis of these recommenda-
+tions, the PC-I proforma was prepared and submitted to
+Government which was approved by ECNEC in its meeting held
+on 29.10.1987. The scheme incorporated the rehabilitation of
+existing steam and gas turbine power stations at Sukkur,
+Guddu, Multan, Quetta, Faisalabad, Kotri and Shahdara re-
+storing  241  MW (Part-I). The scheme was  revised   by  the
+Consultants EPL to identify the total recoverable potential
+of 283 MW restoration. In addition setting up of 44 MW
+Combined Cycle at Kotri and 44 MW Combined Cycle at Faisala-
+bad (Part-II) and (Part-III) thus providing a total increase
+of 371 MW.
+1.2 The Power Plant Efficiency Improvement Project involved
+Rehabilitation of the existing WAPDA Power Generation facil-
+itie5 in Pakistan, and the retrofitting of Combined Cycle
+Steam Generating Plant and Equipment to four of the Gas
+Turbine Generators at both Faisalabad and Kotri.
+It was intended that this project be financed by a combina-
+tion of funding from the World Bank, USAID, ODA and CDC
+(UK), WAPDA and Government of Pakistan. The consulting
+services were financed by the ODA upto a fixed limit. In
+accordance with the ODA s recuirements, Ewbank Preece Ltd
+(EPL) have been associated with British Electricity Interna-
+tional (BEI) and National Enqineering Services Pakistan
+(Private) Limited (NESPAK) to provide the necessary consult-
+ing expertise. EPL have been the Lead Consultants and have
+been directly involved in the Combined Cycle part of the
+Project. BEI are responsible for the rehabilitation work.
+National Engineering Services of Pakistan (NESPAK) are to
+provide input to EPL in Civil Engineering, Switchyard and
+various technical and local expertise matters including
+certain sections of the Specification.
+After award of the Combined Cycle Contracts the Project was
+to be run from the Lahore Office and staff from UK seconded
+to that office. The objective was to facilitate technology
+transfer from UK to Pakistan by the -engineers from both
+countries working in close collaboration during the engi-
+neering phase of the Project. However this was changed and
+the engineering work was carried out by EPL - UK.
+
+
+
+35 -                          APPENDIX B
+Page 3 of 19
+2.   SCOPE OF WORK
+Following   initial   agreement  with  the  ODA,   EPL   was
+Authorized to proceed with the Project in May 1987, and work
+has proceeded on this basis.
+A further proposal dated July 1988 incorporating the latest
+project requirements at that time was accepted and formed
+the basis of the Contract with ODA which was concluded in
+May 1989.
+2.1  Rehabilitation Project
+The objective of the Rehabilitation was to renovate existing
+plant with a view to restoring or improving on original
+performance. It is a requirement that this enhanced condi-
+tion be sustained over a period of 15 years and the appro-
+priate Management Systems be developed to support this. This
+involves training, provision of Technical Data, Efficiency
+Monitoring Support Systems, Work Control and Maintenance
+Planning, Workshop Development and Spares Inventory System.
+The Rehabilitation was achieved by a logical sequence of
+actions. Firstly Plant condition is established by holding a
+Plant status review at each Site and determining the causes
+of reduced availability and efficiency. A plan for remedial
+action is then developed and a work list produced so that
+resource requirements can be established.
+Sources  of funds are identified and approval  sought  while
+organizations with an appropriate capability are invited to
+bid for and carry out the work against Technical Specifica-
+tions provided by the CONSULTANTS in consultation with WAPDA
+Rehabilitation Team.
+The  procurement  of  resources and materials was  timed  to
+coincide with Plant outages and the Site work standards and
+progress checked by the Rehabilitation Engineers, North and
+South.
+Throughout the Project, the resident staff in Pakistan were
+reinforced by visiting specialists and by the use of
+sophisticated services from laboratories and engineering
+departments.  The  efficiency  specialist  monitored   Plant
+improvements during the Projects.
+The Consultants part in the Rehabilitation was completed at
+the end of December 1990.
+The Rehabilitation exercise ranged over all aspects of
+Thermal Plant including efficiency monitoring. Some 270
+major task were undertaken which included a MMS pilot
+scheme. The 37 month programme extended from May 1987 to
+June 1991.
+
+
+
+- 36 -                         APPENDIX B
+Page 4 of 19
+The Rehabilitation teatn was formed under the direction of
+the Director Rehabilitation who reported directly to the
+General Manager (Thermal). The training and Management
+Systems were introduced by providing examples of Central
+Electricity Generating Board (CEGB) methods and establishing
+their relevance to the Pakistan environment. This was an
+iterative process demanding commitment from WAPDA at higher
+management levels to agree and set up the policy for adop-
+tion followed on by an active involvement and commitment of
+the staff at the stations.
+The overall resultant gain to the system was 253 MW which
+does not include the Combined Cycle target of 88 MW. Records
+show that the achievements have been maintained. The current
+ODA project with National Power International (NPI) setting
+up Maintenance Management Systems at all major plants will
+ensure retention of maximum efficiency.
+A numbers of items were left outstanding which included the
+Cooling Towers at Multan & Faisalabad, Technology Transfer
+for Gas Turbine repair and the Faisalabad Workshop.
+The details of major jobs accomplished under the Rehabili-
+tation Programme are recorded in Annexure-III.
+LATEST STATUS AND ACHIEVEMENTS OF REHABILITATION PROJECT
+This Project commenced work in February 1987 with the help
+of Consultants M/s. EPL and completed its tenure of 37
+months in January 1991. Most of the works were completed
+during this period. WAPDA staff would supervise and complete
+the remaining works which remains under execution at sites.
+Uptill now almost 253 MW capacity restoration have been
+achieved at GTPS Shahdara, TPS Guddu, SPS Faisalabad, GTPS
+Faisalabad, TPS Quetta and NGPS Multan while an estimated 30
+MW capacity restoration at different Power Stations is
+expected in due course. The Graphic representation of MW
+restoration is attached for reference (Annex-I).
+IMPORTANT LEFTOVER JOBS UNDER REHABILITATION PROJECT
+In addition to some miscellaneous jobs, an important project
+of Technology Transfer and Training to be launched at Cen-
+tral Repair Workshop, Faisalabad for repair and maintenance
+of Thermal Power Plants has been initiated. The contract for
+refurbishment of cooling towers at Multan has beer awarded
+and is in progress by Hamon, France. Also tender documents
+regarding refurbishment of coolirnc towers at SPS Faisalabad
+have been revised under World Banr: guidelines and are yet to
+be floated.
+
+
+
+_ 37 _                          APPENDIX B
+Page 5 of 19
+The services of expatriates are required to complete the
+erection, commissioning and training at WAPDA workshop,
+Faisalabad for the specialised equipment, i.e. Heavy Duty
+Lathe, Vacuum Furnace, Electro Discharge Machine, Vertical
+Turning Lathes, Special Grinding Machines, Horizontal Boring
+&  Milling Machine & Plasma Spray equipment, etc.  The  con-
+tracts for these services are being amended for completion
+upon installation of power supply system to the new workshop
+building at Faisalabad Central Turbine Workshops.
+The contract for 2 Nos. Overhead Travelling Cranes have been
+awarded and installation is likely to be completed within
+next six months.
+The contract for installation of power supply equipment at
+Faisalabad  workshop  has  been  awarded  and  supplier   is
+expected to commence the work shortly.
+The Chinese team for erection of 80 Ton O/H Travelling Crane
+has installed the crane but it is still not operative due to
+pending commissioning of same. The Chinese team has been
+reinvited to commission the crane.
+The detail of leftover jobs and its funding under ESL-II-
+3107 is placed at Annexure-II.
+REASON OF DELAY FOR REHABILITATION PROJECT
+The actual work on this project commenced from February
+1988. The overall Rehabilitation Project ran about 30 months
+behind the original time schedule as stipulated in PC-I i.e.
+30.6.1990 due to following reasons:-
+a)   The  Project  posts  of  officers/officials  could   be
+ordered in April/May 1988.
+b)   The  British  consultants M/s. Ewbank Preece  Ltd  were
+appointed and started working on this project in
+February 1988 instead of June 1987.
+c)   The  late preparation of Rehabilitation works plan  and
+its services by the Consultants and under-estimation of
+works.
+d)   Overall  power crisis and load shedding in the  country
+prevented    plant   shutdowns,   thus   delayed    the
+implementation of Rehabilitation project.
+f)   Late  completion of civil works by the  contractor  for
+new workshop building at Faisalabad-.
+
+
+
+- 38 -                         APPENDIX B
+Page 6 of 19
+2.2  Combined Cycle Plant
+The retrofitting of Steam Cycle Equipment comprises of the
+addition of four Heat Recovery Steam Generators (HRSG) at
+each of the Faisalabad and Kotri sites (one HRSG for each
+Gas Turbine to be retrofitted), and single condensing Steam
+Turbine at each site, complete with Cooling Towers, Build-
+ings, Electrical Switch and Distribution Equipment and all
+Pipework, Fittings Controls and Ancillary Equipment.
+The first set of tenders for Faisalabad and Kotri were
+received and adjudicated in 1988 when it was agreed that
+both contracts be awarded to Toyo Engineering Corporation of
+Japan.
+Pre-contract negotiations with the recommended Tender howev-
+er were ultimately unsuccessful and Toyo subsequently with-
+drew their offer. In view of this WAPDA called in the Bid
+Security Bond.
+Following these unsuccessful negotiations WAPDA decided not
+to proceed with the Combined Cycle Conversion plan; however
+the Pakistan Government insisted that the project should go
+ahead and additional tenders be sought.
+Prior to re-tendering WAPDA requested that the scope of work
+and equipment supply be amended to reduce the cost. The bid
+Specifications and associated drawings were therefore amend-
+ed by EPL and NESPAK in accordance with WAPDA requirements.
+The balance of plant was then specified and procured through
+USAID and WAPDA resources.
+The revised Bid Specification was issued and tenders re-
+ceived and adjudicated in 1990. The Contracts for Faisalabad
+and Kotri were awarded on 1st January 1991 to the HPEEC/CMI
+Consortium in the total sum of US$ 84 million.
+The Contractor has not managed the project well. The
+programmed completion date was 31st October 1992 when both
+plants were to be available for commercial service, after a
+guaranteed construction period of 670 days.
+The work has been subject to numerous delays and following
+meetings  held  in  Kotri  in 12 and 13  June  1994  and  at
+Faisalabad on 14 June 1994, HPEEC issued their latest
+programmes   for  the  completion  of  both  projects.   The
+programmes indicate 30 day reliability run commencing late
+September 1994 for Faisalabad and early October 1994 for
+Kotri.
+Reasons for delays
+a/ acceptable delays - eg floods both China & Site, late
+payments & custom clearance.
+
+
+
+- 39 -                           APPENDIX B
+Page 7 of 19
+2/
+b/ Unaccepable delays - Lack of Management skills.
+- Lead  contractor  admits  that  he   is
+unable to control main Sub-contractor
+i.e. HEPEC & NEPDI.
+- Planning   procedures   and   are   not
+understood   therefore    co-ordination
+becomes ineffective.
+- Working hours of all Chinese staff have
+always  been  unacceptable. 3-3'4   hour
+lunch break are insisted upon by all
+Chinese.
+- Uncoordinated shipment of materials &
+equipment.
+- Uncoordinated Civil & Erection Work.
+Steps  taken  by WAPDA/Consultant to correct  the  situation
+from the outset of the Contract were Design Review & Con-
+tract meetings, which have been held to guide the Contractor
+while Weekly & Monthly Progress Meeting are held at site
+when again guidance on progress and procedures are offered.
+WAPDA have brought to the notice of the Contractor's Presi-
+dent, their deep concern at progress and quality.
+3.   PROJECT FINANCING
+The financing resources of the Project were as under:-
+i)   IBRD Loan No. 2792-PAK amounting US $ 70.00 million was
+allocated for this Project.
+ii) Co-financing to the tune of $ 15.0 million was arranged
+by USAID as a loan.
+iii) JEXIM Bank Loan amounting US $ 36.00 million was ar-
+ranged to partly cover Kotri Combined Cycle Project
+Funding.
+iv)  Consultancy charges of UK £ 6.0 million aid as  foreign
+component for the consultants were arranged by M/s.
+ODA. UK.
+v)  Local  Rupee component was borne by WAPDA from its  own
+resources  for  the  taxec  &  duties  for  import   of
+equipment and materials, civil works, interest as well
+as the local cost of the consultants as per contract
+between M/s. Ewbank Preece Ltd and-WAPDA.
+2/ Reference Appenclix C.
+
+
+
+- 40 -                          APPENDIX B
+Page 8 of 19
+4.   EVALUATION OF WAPDA'S PERFORMANCE DURING PROJECT
+During implementation of both the Rehabilitation exercise
+and that of the Combined Cycle plant, WAPDA had teams of
+engineers in the field under the control of a Project Direc-
+tor. All engineering disciplines associated with the partic-
+ular work in hand were represented on the teams. By this,
+WAPDA engineer became familiar with such Rehabilitation
+tasks as plant performance monitoring, the Specification of
+replacement parts, their procurement, putting into service
+and commissioning and finally the measuring of efficiency
+improvements. Similarly the teams allocated to the Combined
+Cycle Projects joined the Consultant in drawing up the
+Specifications, bid receipt and analysis, award of contract,
+progress monitoring and Site supervision up to commissioning
+and subsequent takeover of the plant.
+The principal lesson learned during the project is the need
+for firm control over contractors to ensure that programmes
+are  met, targets are within the Contractors  resources  and
+Senior Staff's Planning and coordination meet the targets.
+At the time of writing NPI, under an ODA funded project are
+actualy setting up a Maintenance Management Systems with a
+WAPDA group. This is taking place at Guddu Power Plant and
+it is programmed to be extended to all other Thermal Plants
+in the future.
+4.1 EVALUATION OF IBRD JEXIM BANK AND ODA PERFORMANCE DURING
+COURSE OF THE PROJECT
+The Bank's performance durinq the course of the Project
+showed that a close but friendly control was being kept over
+progress, costs and the allocation of funds. Considerable
+tolerance was shown by the Bank in allowing WAPDA to draw
+on the available funds and also it allowed extension of time
+beyond that initally agreed.
+Difficulties arose in the payments of funds due to the
+Contractor from the Jexim Loan. This caused considerable
+problems to the Contractor and was possibly a major cause
+for some of the delays. WAPDA was obliged to step into to
+assist the Contractors at one point.
+ODA was the provider of the Consultancy Services for the
+Project. They also maintained a close but friendly watch
+over all aspects of the Project. Unfortunately the Combined
+Cycle portion of the Project extended beyond the limit of
+their allocated funds and WAPDA was. obliged to arrange
+Consultancy funding from the World Bank. This source has
+again ended with the final commissioning still to be
+completed before the end of this year.
+
+
+
+APPENDIX B
+- 41 -                           Page 9 of 19
+ANNEXURE-I
+PAGE - 1/4
+HU RESTOATIOI &V R"9lLITATIOt
+MEGAWATT         PPEIP PZUECT hWDA
+166~~~~~~~~~~~~4
+15e
+140
+129
+lie
+90
+79
+60
+56
+40                 37
+3           l                                 24
+i s                 ||12 311 
+FSD GA  FSD STM   G  K7R   MTNH  Xl    sU    ax
+iMIl RESTORED 253   EMi TO BE RESTORED 31
+WAPDA THERMAL POWER STATIONS        ESTIMATED ACHIVEABLE
+WHERE REHABILITATION CARRIED        MEGWATT = 283
+OUT
+
+
+
+APPENDIX B
+-42 -                                                     Page 10 of 19
+ANNEXURE-I
+PAGE - 2/4
+WPDA POkR PLANI EFFICIeCY IFIr(WET PROJECT
+STATIOIAIISE  W FECOVERY AI4D  AIJR N F  CARIED WI
+POER             OUTT                                     MW YET TO E   TTit MWTD ME        MJOR
+STATION         RESTORATION                     RESTOED  RESTORD         FESTORED           i 0 R K S
+FAISkLAAD GT
+Unit-I          Dirty Rotors                     0.75                                       Replaced filters
+Oil Cooling Problems                       0.75                            To Replace oil coolers
+Unit-2          Dirty Rotors                     0.75
+Oil Colinp Problems                        0.75                                     -do-
+Unit-.           Dirty Rotors                    0.75
+Oil Cooling Problems                       0.75
+Unit-4           Dirty Potors                    0.75
+Oil Cooling Probleas                       0.75                                     -do-
+Unit-5           Dirty Rotors                    0.75
+Oil Cooling Problems                       0.75                                     -do-
+L4nit-6          Dirty Rotors                    0.75
+Oil Cooling Problems                       0.75                                     -do-
+Unit-7           Dirty Rotors                    0.75
+Oil Cooling Problems                       0.75                                     -do-
+Dhit-S           Dirty Rotors                    0.75
+Oil Coolinq Problems                       0.75           !. r-
+FAISALABAD ST
+Unit-I          Poor corndenser                  5 il                                       kid cleaninq Condenser
+kid Cleaning Boiler
+Vacuum Poor
+Boiler Per,. LP Rotor Blades    5 MN                                       Overhaul Rotor
+Urnit-2          Poor Condenser Vacuus           5 W                                        Acid Clean Condenser
+Poor Boiler Perf. Boiler
+Leakage                         4 m                       !9 M             Acid Clear, Boiler
+NDT Replace Thin Tube
+
+
+
+APPENDIX B
+-43 -                                                         Page 11 of 19
+ANNE XURE-I
+PAGE - 3/4
+PM                 J OlTUT                       Sw         MW YET TO BE   TiOTg L    TO BE    1JOR
+STATION          RESTORATION                     RESTORED  RESTOEU         RFSTI:rD            N 0 R K 5
+6UWll TPS
+Unit-I           Poor Con,denser                 5 N                                           Condenser Cleaned
+Vacu.. Damiaged                 S M                                           Burners Repaired
+Burners. Worn                              2 M                                Replace servo unit
+Turbine
+control valves,
+Leakirna Tee Pcs                           2 th                               Replacemnt Tee Pieces
+Worn :  Pumps                   6 1W                                          Replace CW Pumps
+Ur,it-2          LP Rotor Blades                 5 NW                                          New Rotor Fitted
+missing
+Poor ccndaenser                 5 NW                                          Condenser Cleaned
+Vacuum Damaged                  5 5                                           Surners repaired
+Burners Worn                               2 MN                               Replace Servo Units
+Turbine Control
+Valves Leaking                             2 fW                               Replace Tee Pcs
+Tee Pcs. Worn
+CN Puw                          65 PM                       451 4             Replace Cl Pups
+KOTRI GTPS
+Unit-.           Poor ST Air Coolirng             1.5                                          6T Air Filters &
+Compressor cleaned
+Ortit-4          Poor ET Air Cooling              15                                                  Qo-
+NWMS NLTAN
+IMt-I            6Heerator out of Service        6;                                            Generator & Turbine
+Refurbished
+Steam ctest cracked                                                           Steam Chest Replaced
+it-2                    Cr-di-                   65                                                   -do-
+Unit-,           Poor Cornenser                   6.5                                          kid Clean Ccondeser
+vacuum poor                                                                   Repair Air Rtr Seal
+Boiler Draught                             7
+LkAit-4          Pocr Condenser                 6. 5                                          kid Ciear, Condenser
+Vaccum Generator                                                             Remind Gen,erator
+Damaaed                         6
+
+
+
+APPENDIX B
+Page 12 of 19
+ANNE XURE-I
+PAGE - 4/4
+PER               OUTPUT                                      * YETo TOEE    7T"L NI TO PE         MJOR
+STATION           RESTORATION                      FUSTORB   RSTORED          FE STOED             N O R KI S
+WJETA TF2
+Unit-I            Poor Vacuua                      2                                                uild new Cooling Towers
+Unit-2            Poor 'Yacuu                      2-do-
+tkrit-1&2         Poor Operating &                             3                                   Improve OperatinQ &
+Maintenance Procedures                                                          Mainteriance Procedures
+Unit-3            Peplace Coapressor               0.85                                            Compressor refurbished
+Blades
+L,nit-4           Dirti 6er, WlriOinQ              8                            1G 6en. Windinq Cleaned
+unit-5            Dirty Ber. Rotor                 2                                                ern. Rotor Cleaned
+SHAHDmAr TPFS
+Ur,it-i           Load Lestricted                  6                                               Oil CooIers Cleaned
+due to Hiqh Lube                                                                 & Fans Adjusted to
+Oil Tep                                                                           Ikprove Cooler
+Perforeance
+Unit-4               Do-                                                                                  O-
+Lhit-5              -do-                           6                                                     -do-
+Unit-6              -do-                           6                             24                      -dO-
+UrLit-I           Poor Boler                                    2.'                                Replace Boiler
+Cor,tr;l                                                                        Control
+ir,it-2             -dc-                                        2.5                                       -do-
+Ur,it-.             -do-                                        2.5                                       -d-
+lir,it-4           --do-                                        2.5             *.1
+25.  S        3C1  4:                W
+_   = = =    _ _  =_==  =====    = = ==-----    -   -=           =   =  =   =
+
+
+
+APPENDIX B
+- 45 -                        Page 13 of 19
+ANNEXURE-II
+PAGE - 1/1
+DETAILS OF LEFT OVER JOBS AND ITS
+FUNDING UNDER ESL-II-3107
+P.O. NO. DATE        DESCRIPTION                     AMOUNT
+NAME OF FIRM
+37/GMT. 22.7.90      Installation Supervision of   $  15,750
+Masinexportimport,  Vertical Turbine Lathe
+Romania.
+36/GMT. 22.7.90           -do-                       $  23,250
+Masinexportimport,
+Romania.
+34/GMT. 4.8.90       Installation supervision of   $  30,450
+Masinexportimport,  Plasma Coating Mfachine.
+Romania.
+71/GMT. 6.1.91       Installation supervision of   $   7,965
+Miller Thermal,      Plasma Coating Machine
+USA.
+35/GMT. 20.6.90      Installation supervision of   $ 153,978
+China National,      Heavy Duty Lathe & Extended
+China.               Services for 90 days.
+104/GMT. 31.8.91    Installation supervision of   $  12,000
+Peabody UK           Burner Management System
+110/GMT. 26.12.92   Local goods for cooling          $ 165,166.00
+ADK, Lahore          towers Units 3&4 at NGPS       Rs   5,037,580
+Multan & erection
+installation.
+100/GMT. 22.5.91    Installation of 80 Ton Crane  $  48,450
+Taiyuan China
+109/GMT. 1.11.92    Cement Lining NGPS Multan        Rs  3,091,000
+ECL Karachi                                        = $      102,000
+08/GMT. 6.11.92      Extended services for           £  25,600
+Efco, UK             installation of Vacuum        = $  41,000
+Furnace (40 days)
+Services of          Layout Planning & Services    $  50,000
+Expatriate           coordination for inspection
+consultant           & installation of machinery
+Mr Mike Clare        as well as training of WAPDA
+staff.
+
+
+
+APPENDIX B
+-46-                        Page 14 of 19
+ANNEXURE-III
+PAGE - 1/1
+DETAILS OF MAJOR JOBS ACCOMPALISHED
+UNDER REHABILITATION. PROGRAMME
+NGPS MULTAN        - Rewinding of Generator 1, 2, 3, 4.
+- Refurbishment of Steam Turbine Units 1,2,3,4.
+TPS GUDDU          - Replacement of 132KV SF6 Circuit Breakers.
+- Replacement of C.W. Pumps.
+- Replacement of valves.
+- Replacement of Burners.
+GTPS FAISALABAD   - Exhaust stack extension units I to 8.
+- Improvement of lube oil coolers.
+- Replacement of Air filteration system units I
+to e.
+SPS FAISALABAD    - Reblading of Steam units I & 2.
+- Boiler insulation.
+- Burner Management System.
+TPS SUKKUR         - Installation of new air ventilation system.
+TPS QUETTA         - Dry  cooling  towers  new  installation   and
+refurbishment.
+- Silencers on 25 MW Gas Turbine.
+GTPS KOTRI         - Replacement of Air filteration system units 3
+& 4.
+GAS TURBINE
+CENTRAL WORKSHOP
+FAISALABAD         - Extension of building
+- Installation of new equipment and sophistica-
+ted machinery for refurbishment of steam &
+gas turbine blades & components.
+GENERAL            - Modernisation of control and  instrumentation
+of steam units.
+- Remote Drum Level indication system.
+- Equipping chemical laboratories and workshops
+of Thermal Power Plants.
+- Combustion monitoring system.
+
+
+
+- 47-                ~~~~~APPENDIX 13
+Page 15 of 19
+__    Pakistan Water And  Power Development Authority
+Office of the
+TeieDhones f
+Telegrams                                           General Manager(D&D)Thermi
+WAPDA:WAPDA House, Lahore.
+No.'~ 84/GMT/PD/RH/. B.                                    Date   /2/1 2/1994
+The World Bank,
+Resident Mission in Pakistan,
+P.O.Box 1025,
+Islamabad.
+Atten: Mr. Rashid Aziz
+Subject: POWER PLANT EFFICIENCY IMPROVEMENT PROJECT
+(LOAS  2792-PAK) IMPLEMENTATION COMPLETION
+REPORT (ICR)
+Dear Sir,
+Reference meetings with Mr. Manrai and Mr. Rashid Aziz
+regarding factors and technical reasons which resulted in high
+average values of Heat Rate BTU/KWH at respective Power Plants.
+The SAR target achievements for heat rate as tabulated
+(B) for Faisalabad Steam, Multan and Shahdara Gas Turbine are
+different from those advised by the manufacturers designed/actual
+at full load.
+In this regard please find herewith final version of
+Table (B) Heat Rate (BTU/KWH) corrected upto date. Moreover, the
+factors and technical reasons resulting in high average values
+for Heat Rate BTU/KWH have been consolidated and summarized on
+pcwer station basis as per attached statement. This information
+has been compiled from the data received from the respective
+power stations.
+If deemed necessary these pages may be included in the
+final Implementation Completion Report. We have also put up the
+case to Member (Power) for his kind information through internal
+noting.
+Encl/As above.                            Yours faithfully
+(SYED ABID ALI3
+CHIEF ENGINEER(D&D) THERMAL
+for     GENERAL MANAGER (THERMAL)
+
+
+
+APPENDIX B
+- 48 -                     Page 16of19
+FACTORS AND TECHNICAL REASONS RESULTING IN HIGH
+AVERAGE VALUES FOR HEAT RATE BTU/KWH :
+GUDDU STEAM
+1)  Units No. 3 & 4 were commissioned in 1980 and Combined
+Cyle Plant to these units was added in 1986/87 at TPS
+Guddu. It is natural to increase the consumption of
+steam with addition of CCP. The steam units are basicIl-
+designed for natural gas firing but instead mixed gas
+firing is being adopted which has calorific value less
+than the natural gas, as such the heat rate values show
+higher figures.
+2)   The air preheater tubes are damaged/bloclced causing
+drop in boiler efficiency as a result 80% load is being
+utilized resulting in higher heat rate. Also some steam
+is being used for heating purposes to the oil c1-tstions
+and its related accessories which causes more conGumptLion
+of fuel.
+3)   Formerly-the generation of Guddu was based on utilizing
+gas as a main fuel. Now a days 75% oil is being used on
+steam units 3&4.
+QUETTA STEAM
+The load on steam units is kept at 4 MW instead of
+designed 7.5 MW to avoid boiler tube leakings and
+boiler choking thereby giving high heat rate value.
+MULTAN STEAM
+1)   The boilers are basically designed for gas firing but
+since 1986 there is almost 100% oil firing thereby
+resulting in decreased efficiency of the boilers giving
+gradual increase in the heat rate values.
+2)   The air preheater choking resulted in shortage of.
+combustion air due to inefficient soot blowing system
+which badly effected the efficiency of boilers and
+resulted in higher heat rate values.
+FAISALABAD GAS TURBINE
+1) The compressor blades havre not been replaced on any
+unit since commissioning uptill now with continuous
+service of more than 20 years thereby resulting in
+reduced compressor discharge due to its fouling/
+sharpness at the edges of blades causing higher heat
+rate average values.
+2) The hot gaa path components of any unit were not
+replaced and the old ones are in use after repeated
+repairs from WAPDA workshops.
+contd...
+
+
+
+APPENDIX B
+-49 -                      Page 17 of 19
+SHAHDARA GAS TURBINE
+1)    Combust8r temperature restricted to 750 0C instead
+of 800 C by the manufacturer Fiat thereby reducing
+the loading capacity to 75% of design load. Result-
+antly average heat rate values increased.
+2)    Frequent number of starts also resulted in higher
+heat rate values as during the starting/shutdown
+period fuel is consumed without any out-put.
+3)    25 years elapsed since commissioning. Deteriorations
+of the significant components of machines with the
+passage of time results in higher heat rate values.
+4)    Further more, quite often machines are kept at
+minimum load cf 07 MW by National Power Control
+Centre as per system demand. Operating the Unit at
+minimum load certainly increases average heat rate
+value.
+5)    Cleaning of lube oil coolers of Fiat machines were
+carried out by station staff as per rehabilitation
+programme. This resulted in improvement of availability
+factor of the machine especially,in summer season
+but did not contribute towards decrease of heat rate.
+QUETTA GAS TURBINE
+1)    Load on gas turbines during the summer season is
+to be reduced to 40% due to high lube oil temperature
+and excessive vibration problems, thereby resulting
+in higher heat rate values.
+2)    During the winter the load has to be reduced due
+to low gas pressure and many abortive starts are
+required towards realizing of each successful start
+of the units resulting in uneconomical operation
+giving higher heat rate values.
+FAISALABAD STEAM
+The steam Units 1&2 were commissioned in 1966/67.
+There is slight increase in heat rate during the
+course 1991 to 1994 due to the following reasons :
+- Load is restricted to avoid tube leakages.
+- The cooling towers efficiency is degraded with the
+passage of time.
+contd...
+
+
+
+APPENDIX B
+-50 -                           Page 18 of 19
+KOTRI GAS TURBINES
+1)   The running of the Gas Turbine on partial loads
+as per demand of the NCC/RCC.
+2)   The high ambient temperatures forced the Gas
+Turbine Units 1,2,3 & 4 to operate at minimum
+loads during summer, which renders a comparatively
+higher heat rate of Gas/HSD oil per KWH in summer.
+3)   During start-up sequence of CEM Gas Turbines Units
+1&2 which are used for peak load sharing and
+start/stop daily, the gas is discharged into the
+atmosphere till the pilot gas is ignited, which
+adds to the wastage and causds higher heat rate.
+
+
+
+FINAL VERSI0O  OF r"".:-LE (B) HEAT RATE (2TU/KwH)
+Power Plant                  SAR Target   ALctual/Designed          1987          1991         1994
+=-s per ICR    at full load
+Sukkul'                       12081            12081.             13563          19100         20036
+Guddu Steam                    8902             8902              10129          10366         10363
+Faisalabad S3team              9568            11286              11825          11927         12076
+Quetta Steam                  11426            '11426             16384          22654         20857
+14ultan Steam                  9683            10342              10006          123O2         12641
+Kotri Gas Turbine             15027            15027              17771          16538         16480
+Faisalabad Gas Turbi,e        14366            14 566             147-6          17838         18305
+Guddu Gas Turbine.            17000            17000              17000            -             -
+Quetta Gas Turbine.           14323            14323              14657          17228         15823
+Shahdzrra Gas Turbine.        13671            14955              19390          21251         22330
+C>
+_ %
+
+
+
+-52-                                             A2pendix C
+Page I of 11
+IMPLEMENTATION COMPLETION REPORT
+PAKISTAN
+Power Plant Efficiency Improvement Project
+(Loan 2792-PAK)
+LEAD CONTRACTOR COMMENTS
+The Harbin Power Engineering Company Limited (China) and the Cockerell Mechanical Industries (Belgium) were
+invited to respond to an evaluation of their services by the Bank and Borrower.
+Each company responded, and their comments are included in this appendix.
+
+
+
+-53-
+ADpendix C
+Page 2 of 11
+HARBIN  POWER ENGINEERINO COMPANY LIMlTED
+.s.hk: *,8;at=en  s ~ Add: No.45 Xusheng.St. DongU Dist. Harbin China
+Tel:(0451) 2682171 Telex: 87192 HPEEC CN
+Fax(0451) 2682279  Post Code :150046
+Ref No:
+Date: c.6 30, / ?95
+Mr. Per Ljung                      FAX NO. 001 202 4776391
+Chief                              PAGE: 8 ( Including the attachments)
+Energy and Project Finance Division
+Country Department I
+South Asia Region
+The World Bank
+SUB:    PAKISTAN - Power Plant Efficiency Improvement Project
+Loan 2792-PAK
+Implementation Completion Report
+Dear Sir,
+I'm very pleased to receive the captioned document -- Implementation Completion
+Report ( ICR ) for the Project of Power Plant Efficiency in Pakistan on Oct.16,
+1995. I scrutinized the ICR prepared by your staff as well as the Borrower's
+Evaluation prepared by the Borrower. From the above-mentioned document, I can
+perceive that the ICR was earnestly and systematically prepared by your staff. The
+description in the ICR, including the relevant evaluation and statistics are significant
+and valuable to us. As the contractor, I express my sincere thanks on your work. As
+far as the combined cycle component is concerned, in a sense, we agree with the
+overall evaluation, i.e., "not entirely satisfactory" . We admit that some
+improvements should be made in some respects . However, we can not accept the
+evaluation stated in Paragraph 5.4 (P8) of ICR and Paragraph 2.2 (P7) of Appendix
+B. For the sake of clearer understanding by you of the true situation of the project
+implementation, it is necessary for us to make some explanations as follows:
+
+
+
+-54-
+Appendix C
+Page 3 of 11
+The Contract of Kotri & Faisalabad Combined Cycle Project was signed between
+WAPDA and HPEEC/CMI in Pakistan on Ist January, 1991. We have substantially
+achieved the project objectives. The following table is the milestones of the project
+MILESTONES OF
+KOTRI AND FAISALABAD COMBINED CYCLE POWER PLANTS
+CONTRACT NO. 70002
+KOTRI               FAISALABAD
+SYNCHRONIZING                    OCTOBER 1994          SEPTEMBER 1994
+RTR  TEST                    DECEMBER 11, 1994  DECEMBER 8,1994
+PERFORMANCE TEST                MARCH 28, 1995         APRIL 26,1995
+POWER GENERATION                118,700,000 KWH         77,400,000 KWH
+(UP TO SEP.18, 1995)
+TAKING OVER CERTIFICATE   SEPTEMBER 16,1995  SEPTEMBER 16,1995
+OPERATION SITUATION            PROMISING              PROMISING
+All the foregoing achievements are made by overcoming great difficulties. It is well
+known that we encountered a series of problems since the outset of the project.
+Some of which are beyond of our control, such as the late project payment & interim
+payment, Bankruptcy of BCCI, Flood disaster in China and Rainstorms in Pakistan
+etc. It caused considerable problems to us and consequently resulted in the delay of
+project progress. Concerning the reasons of delay, I have written many letters to
+Pakistan Water and Power Development Authority (WAPDA) and the British
+Consultant (EPL) over the past few years. Included as attachment I is a summary of
+the reasons of delay. Among of above reasons, the late payment is the key one of the
+construction delay. Enclosed is a separate brief description on it (Attachment 2).
+I would like to, inter alia, make the following clarification corresponding to the
+"unacceptable delays" (Para 2.b of P7) listed in Appendix B in the way of item by
+item.
+* Lack of Management Skills
+The Project of Kotri & Faisalabad Combined Cycle Plants is a complicated
+international one. The feature of the project is difficult in technology, high in
+standard, tight in construction period and complicated in management &
+coordination. Only as far as the project team is concerned, it consists of the staff
+(experts and workers) from China, Belgium, Pakistan, U.K., Ireland and Japan etc.
+From the outset of the Project, we paid great attention to the composition of the
+2
+
+
+
+-55-
+Appendix C
+Page 4 of 11
+project team, including the Chinese staff and cooperation partners from other
+countries. In particular, most of the Chinese staff involved in the project have ever
+worked for Guddu or Jamshoro power stations in Pakistan for more than I year and
+enjoyed rich experiences in the field of power plant construction in Pakistan. Just
+benefited from the rich experiences enjoyed by the Project team, although we
+encountered a series of difficulties from the beginning of the Project, as the lead
+contractor, we are capable of giving proper instructions to our sub-contractors and
+cooperating & coordinating with our partners in an effective way further to achieve
+the project objectives with our utmost efforts. The table of milestones shown above
+can prove that HPE is competent and qualified in terms of management.
+* Lead contractor admits that he is unable to control main sub-contractor. i.e..
+HEPF.C & NFPDT
+First of all, I must clarify that we have never admitted that we are not able to control
+HEPEC & NEPDI. On the contrary, I'd like to hereby reiterate that we have full
+capability of controlling our subcontractor including HEPEC & NEPDI. During the
+implementation of the project, indeed, HPE had different opinions with our
+subcontractors in solving some problems, however, through earnest discussions, we
+can always reach agreements eventually and our subcontractors fully carried out the
+final decisions made by HPE. With the project progressing, we have been
+strengthening and improving our control over the subcontractors in the effective way
+including by the means of finance and personnel adjustment.
+e Working hours of all Chinese staff have always been unacceptable. 3-3.5 hour
+lunch break are insisted upon by all Chinese.
+It's well-known that Pakistan is one of the hottest countries in Asia. During the
+period of May to August per year, the highest temperature at noon is normally
+around 50 OC at sites. At the time of non-urgent schedule, we allowed the workers
+to have a 2- hour lunch break (including the lunch time) so as to guarantee the
+quality of construction. In the meantime, what I'd like to emphatically point out
+is, at the time of urgent schedule e.g. commissioning, RTR. etc., the workers
+often worked overtime (more than 10 hours per day). The average working hours
+of Chinese staff is 8 hours per day. Generally speaking, most of the Chinese staff
+are diligent and hard-working. It's unfair and non-objective to draw the above
+underlined conclusion of "Working hours of all Chinese staff have always been
+unacceptable, 3-3.5 hour lunch break are insisted upon by all Chinese."
+3
+
+
+
+-56-
+Appendix C
+Page 5 of 11
+* Uncoordinated arrangement in-respects of planning procedures. civil & erection
+work and shipment of materials & equipment.
+Early back to the end of 1990, before the implementation of the project, in
+accordance with the requirement of the tender document, we worked out a well-
+conceived schedule of the project based on the normal circumstance including the
+program of all key links, such as civil & erection work, shipment of material &
+equipment, etc. However, due to the continuos occurrence of uncontrollable events,
+e.g., late payment, late custom clearance, flood disaster in China & rainstorm in
+Pakistan and bankruptcy of BCCI etc. It caused considerable problems to us. In this
+case, the original schedule did not apply to the changed situation and had to be
+modified. Thereupon, we instantly adjusted the original schedule based on the actual
+circumstance so as to guarantee the progress into full play. In addition, the hidden
+projects and altemation of drawings also forced us to modify our schedule which
+had been approved by the consultant.
+.1 hope that the aforementioned explanation will be helpful for you to have a fiurther
+realization about the implementation of the project. There is an old saying in China
+"Saying is Believing" . We are confident that you will draw a conclusion that BPE
+is a competent and responsible contractor with rich experiences if you can pay a visit
+to the sites. In the meantime, as the contractor, we will do our best to improve our
+work to achieve the project objectives in strict accordance with the Contract
+Documents.
+I transmit this document (one letter of clarification and two attachments) to you by
+fax first, the original one will be mailed to you by EMS soon afterwards.
+Yours Sincerely,
+ZHAO JIE
+PROJECT GENERAL MANAGER OF
+COMBINED CYCLE PROJECT
+4
+
+
+
+-57-
+ADnendix C
+Page 6 of 11
+A1TACHMENT I
+THE SUMMARY OF THE REASONS OF DELAY
+1. Delay of Contract Payment
+The delay of Contract Payment caused a chain reaction, that is, a series of delay. On
+one hand , the delay of advance payment caused the time-losing, for instance, the
+sub-contract of geological prospecting; on the other hand, the delay of interim
+payment ( non-effectiveness of JEXIM Bank Loan for Kotri Plant) nearly resulted in
+the situation of standstill at Kotri Site.
+2. The Late Payment of Custom Duty by WAPDA
+Due to the non-payment of Custom Duty by WAPDA in time at Karachi port,
+consequently it caused the late delivery of required equipment at both sites, such as
+the structural steel work of turbine house. Moreover, it seriously delayed the
+progress of structural steelworks erection for Turbine Generator House at Faisalabad
+Site.
+3. Approval and Alteration of Drawings
+3.1 The Shuttle Time of the Approval of Drawings
+The approvals of drawings were prolonged. This is in contradiction with the
+time requirements of equipment manufacture and construction at sites.
+3.2 The Alternation of Drawings
+As for the intake water project from canal and air filters fitted with the gas
+turbine at Kotri site, we had to alter the drawings.
+4. The Hidden Projects
+The hidden projects such as original foundation of gas turbine and canal side work at
+Kotri site caused the delay for submitting the design drawings and the construction
+progress.
+
+
+
+-58-
+Appendix C
+Page 7 of 11
+2
+5. Force Majeure
+5.1 The flood disaster in China
+5.2 The Rainstorm Disaster at Kotri site in 1992 and 1994
+5.3 The Bankruptcy of BCCI
+
+
+
+-59-
+Appendix C
+Page 8 of 11
+ATTACHMFNT 2
+THE BRIEF DESCRIPTION ABOUT THE INCURRED
+CONSEQUENCES DUE TO THE LATE PAYMENT
+As far as the combined cycle component is concerned, the payment situation was
+unsatisfactory from the outset. It caused a chain reaction, i.e., a series of delay. First
+of all, the advance payment (90%) was delayed by more than one month, the balance
+of advance payment (10%) was delayed by more than half a year. The delay of
+advance payment caused the time-losing of subcontract, e.g., the subcontract of
+geological prospecting, the procurement of some equipment, etc. Following the late
+advance payment, almost the verification of all the progress payment invoices were
+delayed. The delayed time varied from several days to several months. It arouse
+many difficulties in terms of the arrangement of work at both sites.
+In comparison with the above difficulties, inter alia, what I'd like to point out is the
+serious incurred consequences due to the non-effectiveness of JEXIM Bank Loan.
+It's known to us that the disbursement under the JEXIM Bank Loan were delayed
+by more than 12 months from the February of 1992. It nearly resulted in the
+situation of standstill at Kotri site. As the lead contractor, we had two options at that
+time: One was to suspend the project till the final settlement of the delayed payment;
+the other was to maintain the slow progress at both sites with very limited fund. In
+view of the Sino-Pakistan friendship and the good reputation of China Harbin Power
+Engineering Co.Ltd (HPE in short, formerly known as HPEEC before the end of
+1994) in Pakistan as evidenced by the fact that HIE successfully completed the
+construction of Unit 4 at Guddu power station and Unit 2,3 & 4 at Jamshoro power
+station on the turn-key basis in 1986 and 1992 with good quality and quick
+construction. Having made the frank and eamest discussion with the customer, we
+chose the latter. In other words, we didn't choose the easy way to us, i.e., to extricate
+ourselves from the trouble situation due to the late payment which beyond our
+control. As a matter of fact, in this case, it is reasonable, understood and blameless
+for a contractor to do so. However, on the contrary, as a contractor with good
+reputation, in order to take responsibility for the customer, we had the courage to
+choose the hard way at the risk of our fame and finance. Taking the procurement of
+equipment and the arrangement of personnel for instance only, on one hand,
+
+
+
+-60-
+ApDendix C
+Page 9 of 11
+2
+because we could not make payment to the supplier in time, most of the suppliers
+suspended even stopped the production of the ordered equipment. It took
+considerable time for them to re-start the production; on the other hand, in order to
+maintain the progress at sites, we could not recall our experts and workers back to
+China. On average, their duration in Pakistan were prolonged by another one to two
+years. Only as far as the staff expenditure ( salary & allowance ) during the
+prolonged period is concemed, we made the extra payment amounting to millions of
+US Dollars. In a word, it is hard to have a complete description about the incurred
+consequences due to the late payment in a few sentences. It is by overcoming the
+unimaginable and immeasurable difficulties that we achieved the project objectives.
+I sincerely request your deep understanding on the foregoing description.
+
+
+
+-61--
+Anvendix C
+Page 10 of 11
+3IZ              j I  I  ICOCKERILL              Seraing, November 17, 1995
+MECHANICAL
+INDUSTRIES
+O/Ref: 911/PS/BD/95/7580                     The World Bank
+E/01/14.301                                  1818 H Street N.W.
+E/01/14.325                                  Washington, D.C. 20433
+U.S.A.
+To the attention of Mr. PER LJUNG
+Chief Energy and Project Finance Division
+Country Department I, South Asia Region
+CopV oer fax to nr 00/1/202,477.8598
+Dear Mr LJUNG,
+*Subiect :   PAKISTAN - Power Plant Efficiency Improvement Project
+Loan 2792-PAK
+Implementation Completion Report
+We are sorry to answer so late to your October 2, 1995 letter by sending you
+our remarks concerning the draft of the Implementation Completion Report.
+we would appreciate if you could precise in this report that, in the
+HPEEC/CMI Consortium, the responsibilities were shared as follows :
+HPEEC is the leader of the Consortium and is responsible for the Power Plant
+completion on both sites.
+CMI is responsible for the basic engineering and the performances of the
+Combined Cycles.
+rt is important for CMI to point out that they have no responsibilities in
+the important postponement of the completion dates.
+On an other hand, we would like to send you, in annex, a copy of the Ewbank
+Preece letter ref LEH022/WFK/70002/FO1 dated August 17, 1995 confirming the
+good guarantee performance tests on KOTRI and on FAISALABAD sites.
+Thank you in advance, Dear Mr. LJUNG, to complete your report accordingly.
+Sincerely,
+Phrrg SMAL
+Senior Pr*a Maar
+Pl bl MEUN
+MW of Makd n and 8ale
+CMI S A                  Tel: .32 41 .3021 11  Siege Social: SERAING . BELGIOUE  CCP: 00011415591-79
+1. avenue Greiner        Fax: .32 41 - 30 21 13  RCLg: 140 259             GS :24040007229-55
+8- 4100 SERAING - BELGIOUE    Telex: 41093 CMI 8  T.V.A.: BE 422362 447 09.2713  88L :340-0000134-75
+
+
+
+-62-
+Avpendix C
+Page 11 of 11
+29.U8.1995*00462 1
+Opt  Rip. Co?P.  Rgs
+AchY.                          EWBANK PREECE
+RPEEC                                          A.0.
+HPEEC Site Office                                            -
+GTPSFaialabad                                   PS         
+17 August 1995
+Adw Mr Thao Jie                                                           ____
+GeneralProject lMwage                                              - _                  I            N
+DeW Sir
+Water and Power Development Authority
+Fasalabad and Kotri Combined Cycle Power Plants
+Contrct 70002
+Guaraatee Performance Tests
+W' o emowledge receipt of single copies of performance test reports for the FPaah  a  KotXri Combined Cyclb
+Plnts. which were forwarded to um by your Site Offices in early June 1995. The repotts have been reviewed and we
+am pleased to confurm that the outputs of each plnt comply with the puaranteed valuae in the respective Contracts.
+We would also coifrtm tht the output of the water tratment plant at Kotri complies with the Coract guarntees.
+W. wish to congratulte HPEEC and CMI on successfully proving the outputs of the respective pla  and tnst that
+wvery effort will now he made to complete the significnt amount of outstanding work and to clear sufficient mtnber
+of ddefecs to allow the Taking Over Certificates for the plans to be issued in the very near future.
+In accortice with HPEEC Site Office lener reference LSES33/WJCr7000YK dated 8 June 1995 we have arranged
+fot the original performane teat records to be returned to you, and these can be collected at your carliest convenience
+from EPL Lahor Office.
+Your faithfuy,
+W F Kidd
+for Ewbank Preece Lmitad
+cc:      Wapda                    laore Office
+Wapda          -         Fisaluhd Office
+Wupda          -         Kotn Site
+EPL Lahore Office
+Nespak
+cw<
+L.b-Bk h   L..d
+.U  _     T uK 117J
+o, .44 tOt 127) in lio
+hi.b. NW ,,         F,,,,,                                                  s.nut te 2 tta
+
+
+
+MAP SECTION
+
+
+
+
+
+
+LAHORE RING          TURKMENIT                     CHI_
+Mvngio   D LLLRo,)                 Are oL+    {   r  '*'.                        /  dsn
+Go, <   \ ,  K  S K                                                              J
+R/ZAVI                          A FGH 8NISTAN          IV1.'                                                                       t*o   
+RUND  W                            PAKISTAN    J
+LAHORE
+Mullo  , k                                                                                                                                'I ND IA-  Tal INDIA  TApj-6ion
+NEW KOT...
+AKHPAT           A,.b-o S-                                                   tADJ.                                      ......
+3/
+Dmo No/Ai 
+FAISALABAD RING                                                                             A _          -           PESHARD         iN
+L/dewoI    TOmbT_,bo.                                                                                                                      AND
+N t KS K )  /      \ BUNIV ,  KASHMIR
+KSKA
+GAUL~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~L
+GATTI                          CHASHAA         DAUD
+OADA NWAA                                                  NUCLEAR  /     KHEL
+NISHATARAD     *            _       /, 59           A    /           -       /z;i8 ROAD
+S D    0%!                                                                          LtD  AL              ,\- AA
+ROAD   M/IM,WP,~oo90 I                                                                                             A         up ~ t
+>. _._  //OZ~~~~~~~HOB t l
+YOUSAH  WAL     A                        30
+/      *        OQUETTA                                      mu
+(   \    \          _         /         ~~~~~~~~        ~~BAHAWAWR JR 
+-  m         <         ^ ~~~~~~~~R Y. KHANS  
+SHIKAPUR o/-.           /                                                    PAKISTAN
+OKHUZDAR                        PUR                /               ,--    POWER PLANT EFFICIENCY
+,  /<.-,/ j  -'IMPROVEMENT PROJECT
+MAIN POWER STATIONS AND HIGH VOLTAGE
+e,  /      ,                                             ~~~~~~~~TRANSMISSION LINES
+DADU        /jPROPOSE0 OR
+//               I.,MURON                    '\~~m                               CONSTRUCTIION                TRANSMISSION LINES
+-26'                                                                                                                            50 k0  \    soo Lv        26 -
+|   tAMSHORO                                                                                           vSUBSTATIONS
+)HALA ROAD                                                                            5  `v
+'    RHUB                                                                                                              2  /K  0?O        00 Lv
+HYDERABAD                                                                    *
+-OWER SATILONS
+KARACHI NUCLEAR       .                                                                                                           IC,F I.C
+POWER PLANT                                                                                               A       A        IbLklMAI
+0 BADIN                          NJCtA
+A     r  b io                                                                                                             AjOR CITIES
+p                                        /'--J        0      50      100    150    200                                    -'~  IE.IERNATIONAI HOUNDTARIES 
+I   I          IS     20
+_  66   2                  KILOMETERS                                                     74
+6&1
+
+
+
+
+
+
+
+
+
+IMAGING
+Report No:       15411
+Type: ICR
+
+
+

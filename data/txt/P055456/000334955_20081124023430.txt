@@ -1,0 +1,1613 @@
+                                      Documentof
+                                  The World Bank
+
+
+
+
+                                                       Report No.: 46288-IN
+
+
+
+
+                  PROJECTPERF'ORMANCEASSESSMENT REPORT
+
+
+                                         INDIA
+
+     TELECOMMUNICATIONS SECTORREFORMTECHNICAL ASSISTANCE
+                              PROJECT(LOAN4555-IN)
+
+
+                                    October 23,2008
+
+
+
+
+Sector Evaluation Division
+Independent Evaluation Group (World Bank)
+
+Currency Equivalents(annual averages)
+
+Currency Unit =Indian Rupees (NR)
+
+1998                      US$ 1.00              INR41.5
+1999                      US$ 1.00              INR43.1
+2000                      US$ 1.00               INR45.1
+2001                      US$ 1.00               INR47.3
+2002                      US$ 1.00               INR48.5
+2003                      US$ 1.00               INR46.3
+2004                      US$ 1.00               INR45.1
+2005                      US$ 1.00               INR44.0
+2006                      US$ 1.00               INR45.3
+
+AbbreviationsandAcronyms
+
+ASMS         Automated Spectrum ManagementSystem
+BSNL         Bharat Sanchar NigamLtd
+CAS          CountryAssistance Strategy
+DOT          DepartmentofTelecommunications
+FDI          ForeignDirect Investment
+GO1          Government of India
+HF           HighFrequency
+IC1          Informationand CommunicationInfrastructure
+ICR          ImplementationCompletionReport
+IEG          IndependentEvaluationGroup
+IEGWB        IndependentEvaluationGroup (World Bank)
+ITU          InternationalTelecommunicationUnion
+MOC          Ministry of Communications
+NFAP         NationalFrequencyAllocation Plan
+NSMS         NationalSpectrumMonitoring System
+PDO          ProjectDevelopmentObjective
+PIU          Project ImplementationUnit
+PMC          ProjectManagementConsultant
+PPAR         Project PerformanceAssessment Report
+SACFA        StandingAdvisory Committee onRadioFrequencyAllocation
+SHF          Super HighFrequency
+TRAI         TelecomRegulatoryAuthority of India
+TDSAT        TelecomDisputes SettlementandAppellate Tribunal
+TEC          Telecommunication Engineering Center
+UHF          Ultra HighFrequency
+VHF          Very HighFrequency
+WMO          Wireless Monitoring Organization
+WPC          Wireless PlanningandCoordinationWing
+
+FiscalYear
+
+Government:      April 1 March 31
+                         -
+
+Director-General, IndependentEvaluation                 : Mr.Vinod Thomas
+Director, IndependentEvaluationGroup (World Bank)       : Ms.CherylGray
+Manager, Sector EvaluationDivision                      : Ms.MonikaHuppi
+TaskManager                                             : Mr.PeterFreeman
+
+                                                             i
+
+
+ IEGWB Mission: Enhancingdevelopmenteffectivenessthrough excellence and independencein evaluation.
+
+
+About this Report
+       The IndependentEvaluationGroupassessesthe programs and activitiesof theWorld Bank for two purposes:
+first, to ensurethe integrityof the Bank's self-evaluationprocessand to verifythat the Bank'swork is producing the
+expected results,and second, to helpdevelopimproved directions,policies, and proceduresthroughthe
+disseminationof lessonsdrawnfrom experience.As part of this work, IEGWBannually assessesabout25 percent of
+the Bank's lendingoperationsthrough fieldwork. Inselectingoperationsfor assessment, preferenceis givento those
+that are innovative,large, or complex; those that are relevantto upcomingstudiesor countryevaluations;those for
+which ExecutiveDirectorsor Bank managementhave requestedassessments;and thosethat are likelyto generate
+importantlessons.
+       To preparea ProjectPerformanceAssessment Report (PPAR), IEGWBstaff examine projectfiles and other
+documents, interviewoperational staff, visit the borrowing country to discuss the operationwith the government,
+and other in-countrystakeholders,and interview Bank staff and other donor agency staff bothat headquartersand
+in local offices as appropriate.
+       Each PPAR is subject to internal IEGWBpeer review, Panel review, and managementapproval. Once cleared
+internally,the PPAR is commentedon by the responsible Bank department. IEGWBincorporatesthe commentsas
+relevant.The completedPPAR is then sent to the borrowerfor review; the borrowers' comments are attached to
+the document that is sent to the Bank's Boardof ExecutiveDirectors.After an assessment report has beensent to
+the Board, it is disclosed to the public.
+
+About the IEGWB RatingSystem
+       IEGWB's use of multiple evaluationmethodsoffers both rigor and a necessary level of flexibilityto adapt to
+lending instrument,projectdesign, or sectoralapproach. IEGWBevaluators all apply the same basic methodto
+arrive at their project ratings. Following is the definitionand rating scale used for each evaluationcriterion
+(additionalinformationis availableon the IEGWBwebsite: http://worldbank.org/ieg).
+       Outcome: The extent to which the operation's major relevantobjectiveswere achieved,or are expected to
+be achieved, efficiently.The rating has three dimensions: relevance, efficacy,and efficiency. Relevanceincludes
+relevanceof objectivesand relevanceof design. Relevanceof objectives is the extent to which the project's
+objectivesare consistentwith the country's current development prioritiesand with current Bank country and
+sectoralassistancestrategies and corporate goals (expressed in Poverty ReductionStrategy Papers,Country
+AssistanceStrategies,Sector Strategy Papers, Operational Policies). Relevanceof design is the extent to which
+the project's design is consistent with the stated objectives. Efficacy is the extent to which the project's objectives
+were achieved,or are expectedto be achieved, taking intoaccount their relativeimportance. Efficiencyis the
+extent to which the projectachieved, or is expectedto achieve, a return higher than the opportunitycost of capital
+and benefitsat least cost comparedto alternatives.The efficiencydimension generally is not appliedto adjustment
+operations. Possibleratingsfor Outcome: Highly Satisfactory, satisfactory, Moderately Satisfactory,Moderately
+Unsatisfactory,Unsatisfactory,Highly Unsatisfactory.
+       Risk to DevelopmentOutcome: The risk, at the time of evaluation, that developmentoutcomes (or
+expectedoutcomes)will not be maintained (or realized). Possibleratings for Risk to DevelopmentOutcome: High
+Significant,Moderate, Negligibleto Low, Not Evaluable.
+       Bank Performance: The extent to which services provided by the Bank ensuredquality at entry of the
+operationand supported effectiveimplementationthroughappropriatesupervision(including ensuringadequate
+transitionarrangements for regularoperationof supported activities after loanlcreditclosing, toward the
+achievement of developmentoutcomes. The rating has two dimensions:qualityat entry and quality of supervision.
+Possibleratings for Bank Performance: Highly Satisfactory, Satisfactory,ModeratelySatisfactory,Moderately
+Unsatisfactory,Unsatisfactory,Highly Unsatisfactory.
+       BorrowerPerformance: The extent to which the borrower(includingthe governmentand implementing
+agency or agencies)ensured quality of preparationand implementation,and compliedwith covenants and
+agreements, toward the achievementof developmentoutcomes. The rating has two dimensions: government
+performanceand implementingagency(ies)performance.Possibleratings for BorrowerPerformance: Highly
+Satisfactory, Satisfactory, ModeratelySatisfactory, Moderately Unsatisfactory, Unsatisfactory, Highly
+Unsatisfactory.
+
+
+                                                                          ...
+                                                                         111
+
+
+
+Contents
+
+PRINCIPAL RATINGS               ....................................................................................................................        V
+
+
+KEY STAFF RESPONSIBLE                      ..........................................................................................................       V
+
+
+PREFACE     ......................................................................................................................................         vi1
+
+
+SUMMARY     ......................................................................................................................................         IX
+
+
+1.      BACKGROUNDAND CONTEXT                                   ......................................................................................      1
+
+
+2.      THE INSTITUTIONAL FRAMEWORK SECTOR OVERVIEW                     .                                          .......................................  2
+
+
+3.      THE PROJECT              ...................................................................................................................        3
+
+
+4.      IMPLEMENTATION                   ............................................................................................................       5
+
+
+5.      MONITORINGAND EVALUATION                                   ...................................................................................      7
+
+
+6.      PROJECT OUTCOMES                        .....................................................................................................       8
+
+
+ANNEX A BASIC DATA SHEET
+           .                                     ..................................................................................................        17
+
+
+ANNEX B CONSULTANCIES CONDUCTED BY TRAl UNDERTHE WORLD BANK LOAN
+           .
+NO .4555-INAND          THEIR UTILIZATION                    .......................................................................................       20
+
+
+ANNEX C BORROWERCOMMENTS
+           .                                               .........................................................................................       24
+
+
+
+
+This reportwas preparedbyPeter Freeman. who visitedIndiato assess projectperformanceduring
+February. 2008 .RomaynePereiraprovidedadministrativesupport.
+
+
+                                                   V
+
+
+
+PrincipalRatings
+
+                                         ICR*               ICRkeview*                      PPAR
+                                                  -____
+Outcome                        Satisfactory        Moderately Satisfactory ModeratelySatisfactory-
+Institutional                  Substantial              Substantial
+Development
+Impact**
+Riskto                                                                             Negligibleto Low
+Development
+Outcome
+Sustainability***                 Likely                  Likely
+Bank                           Satisfactory             Satisfactory           ModeratelySatisfactory
+Performance
+Borrower                       Satisfactory             Satisfactory           ModeratelySatisfactory
+Performance
+* The ImplementationCompletion Report (ICR) is a self-evaluationby the responsibleBank department. The
+ICR Review is an intermediate IEGWBproductthat seeks to independentlyverify the findings of the ICR.
+**AS of July 1,2006, InstitutionalDevelopment Impactis assessed as part of the Outcome rating.
+***ASof July 1,2006, Sustainabilityhas been replacedby Riskto DevelopmentOutcome. As the scales are
+different, the ratingsare not directly comparable.
+
+
+
+Key StaffResponsible
+
+Project              Task ManagedLeader             Division Chief/               Country Director
+                                                    Sector Director
+Appraisal              Rajesh B Pradhan            MarilouJane D Uy                 Edwin R Lim
+Completion                Peter L Smith             Philippe Dongier               Fayez S Omar
+
+
+                                             vii
+
+
+Preface
+
+        This is the Project Performance Assessment Report (PPAR) for the India
+Telecommunications Sector Reform Technical Assistance Project (Loan 4555-IN), for
+which the World Bank approved a loan o fUS$62.00 million equivalent on June 6,2000.
+At appraisal the total project cost was estimated to beUS$72.00million, with US$lO.OO
+million to be contributed bythe Government of India(GOI). Duringproject
+implementationthe GO1requested two cancellations o f the loan inthe amounts o f
+US$20.00 million and US$7.67 million inJanuary 2004 and February 2006 respectively.
+After a final cancellationo fUS$5.71 million at project closure, which was 15 months
+later thanplanneddue to implementation delays, some US$28.62 millionhadbeen
+disbursed, or 46 percent o f the original loan amount. The final total project cost disbursed
+was US$29.88 million.
+
+        The project was selected for assessmentbecause o f the importance it accorded to
+strengthening the regulatory and dispute settlement framework inIndia so as to enable
+acceleration insector growth. There were also important lessons to be learned from the
+process o fmodernizing the country's radio frequency management and licensing
+systems.
+
+        IEGpreparedthis report based on an examination o fthe relevantProject
+Appraisal Document (PAD), ImplementationCompletion Report (ICR), legal
+agreements, project files and archives, as well as other relevant reports, memoranda, and
+working papers. Discussions were also held with Bank staff inboth Washington D.C. and
+inNewDelhi. An IEGfieldmissionvisitedIndiainFebruary2008, conducted site visits,
+anddiscussed boththe project andthe effectiveness o fBank assistancewith relevant
+officials and stakeholders. The mission appreciates the courtesies and attention given by
+these interlocutors as well as the support provided by the Bank's office inNew Delhi.
+
+        Following standard IEGprocedures, copies o f the draft PPARwas sent to
+government officials and agencies for their review andresponses received are included in
+Annex C.
+
+
+                                              i x
+
+
+Summary
+
+    This is the Project Performance Assessment Report (PPAR) for the India
+TelecommunicationsSector Reform Technical AssistanceProject (Loan 4555-N), which
+was intendedto support the reform o f the country's telecommunications sector. An
+acceleration o finvestment and interest from the private sector began after legislation for
+major sector reform was enacted in 1994, but grew exponentially from 1999 after further
+reforms were introduced. Boththe fledglingregulatory agencies that were created andthe
+responsible government department needed urgentcapacity buildingsupport to
+strengthen their ability to meet the unprecedented demand for their services.
+
+    The project development objective (PDO) was "to strengthen elements o f the policy
+andregulatory environment to promoteprivate sector investmentand competition inthe
+telecommunications sector inIndia". This was to be achieved by assisting the Department
+o f Telecommunications (DOT) to strengthen its functions, including modernizationo f its
+radio frequency management and licensingsystems, andby strengthening the capacity o f
+the Telecom Regulatory Authority o f India (TRAI) andthe Telecom Disputes Settlement
+and Appellate Tribunal (TDSAT) to regulate the sector.
+
+        The project preparationteam recognizedthe importance o f monitoring and
+evaluation (M&E) anddevised acceptable indicators for the main outputs, but made little
+attempt to deal with the attribution question inrespect o f measurable outcomes-
+probably because the PDO as framed was so broad. M&E design was thus inadequate.
+Duringimplementation this aspectreceivedmore attention. TRAI, for example, hasput
+inextensive work to ensurethat the activities ofthe stakeholders inthe sector are
+monitored regularly and produces a quarterly report detailing inter alia ownership,
+growth, costs andmarket share. Overall, M&Ewas modest.
+
+    Taking into account the progress towards achieving the PDO andthe assessments o f
+relevance, efficacy and efficiency, IEG's overall project outcome rating i s moderately
+satisfactory. While the capacity buildingcomponents were substantially accomplished,
+the shortcomings inrespect o f the equipment component, which was by far the largest in
+the project, were too important to permit a fully satisfactory rating. Project delays ledto
+thebenefits o fthe new systems not beingfully realizeduntilover three years after the
+original closing date o fthe project. Also, the Super HighFrequency (SHF) portion o f the
+project was cancelled andwhile at this time only ten percent o f interferencecomplaints
+arise from use o f the spectrum above the 3 GHz band, this percentage may grow inthe
+future. Itwas not feasible to calculate an economic rate o freturn for this project, but there
+is no doubt that boththe above factors would have negatively affected the benefit stream
+and added to the costs. Inaddition, too much capital was tied-up inthe appraisal cost
+estimates for the project, and inthe end less than halfo fthe original project cost estimate
+was actually disbursed.
+
+    Though only partly attributable to the project, the ongoing liberalization o f the sector
+has continued at a very fast pace. Foreign direct investment has continued to increase,
+call charges have fallen, andteledensity has improved dramatically. The capacity
+buildinginitiative inthis project has helpedto strengthen agencies that have come to be
+
+                                                X
+
+
+
+well regarded andindeedhave an internationalreputation. TRAI andTDSAT receive
+visits from other developing country agencies eager to learn from the Indianexperience.
+Implementation o f sector reform has receiveda substantial overhaul duringthe last five
+years andis well set to cope with a technological environment o f constant change. Some
+concerns are evident due to a lack o f suitably qualified staff inthe DOT, but this is part o f
+a generic problem inthe Indian civil service which the GO1i s addressing separately. On
+balance, telecommunications and technology inIndiaare on track to be amongst the best
+inthe dynamic andcompetitive market inAsia, andthe risk to development outcome of
+this project failing is seen as negligible to low.
+
+    The Bank dida goodjob inadvocating the expansion o fthe project designto give
+general institutional support to the sector reforms. It also supervised the capacitybuilding
+component well, was flexible, andgave additional advice on technical and strategic
+issues at the government's request which it clearly valued. However, the cost for the
+project was seriously over-estimated despite the use o f experienced consultants, more
+thought could also have gone into the design of the monitoring indicators specified, and
+the implementationrisks, though properly identified, were under-estimated. The
+supervisionproblems o fthe equipment procurement, installation andcommissioning
+were well-documented and it is clear that considerable discussion took place concerning
+the inadequacy o fthe project implementation unit (PIU) andthe need to retain an
+experienced project manager. The overall rating i s moderately satisfactory.
+
+    The Borrower participatedwith commitment duringpreparation, but loan negotiations
+were delayedby around eight months awaiting the appointment o fconsultants to assist
+the Wireless Planning and coordination Wing (WPC) to prepare biddingdocuments. This
+delay was due to difficulty insecuring government approval for the selection o f
+consultants under Bank guidelines, which differ from government procedures.
+
+    The performance o fthe implementing agencies inrespect o f capacity buildingwas
+very positive and few significant problems were encountered. However, the WPC
+component experienced considerable delays because o fproblems with contractors, and a
+lack o f empowerment and decision-making capacity inthe PIU. The Borrower rating,
+overall, is moderately satisfactory.
+
+    A number o fimportant lessons canbe gleanedfrom the design andimplementationo f
+thisproject:
+
+e        When the experience o f the implementingagency inmanagingprojects i s limited,
+         and especially when such projects are complex, it is essential to appoint a project
+         management consultant early-on to compensate for any gaps inexpertise. Most o f
+         the difficulties experienced inthe implementationo f the Telecom Sector Reform
+         Project, involving the modernizationo f the country's radio frequency and
+         licensing system, were attributable to inability to take decisions and lack o f
+         capacity to find solutions to problems;
+
+e        Ina sector where technology advancement is akeydriver ofchange, itis
+        necessary to build sufficient flexibility and foresight into the projects. Inthe India
+         Telecom Reform Project, flexibility allowed for project realignment during
+
+                                           x i
+
+
+   implementation, whenrequired, thus facilitating a redefinition o fneeds. An
+   example o fthis was an unexpected need to gain an understanding o ftelevision
+   broadcasting signal technology. However, with regardto the need for foresight, a
+   better understanding o f the relationship betweenrapid technological change and
+   project costs couldhave avoided a serious overestimate of equipment costs, and
+   this would have saved US$ 331,000 infront-end fees, while the Bank would have
+   better utilized part o f its loan. Obsolescence also occurs more quickly inthe
+   telecommunications field andso it is critical to avoid delays inproject
+   completion;
+
+0  Investingincapacity buildingand institutional development i s critical to ensuring
+   effective project implementationandproject sustainability. This was a crucial
+   aspect of strengthening the regulatory and dispute settlement framework inIndia.
+   However, it i s equally important inensuring operational effectiveness, especially
+   for equipment design, procurement and installation. Such investments need to be
+   supported by clear leadership and a willingness to implement reforms at a senior
+   level. Sometimes the prevailing organizational andbusiness culture can impede
+   satisfactory progress due to competing priorities and agendas. When such a
+   serious blockage i s encountered the issue should be elevated to an appropriate
+   level o f decision-making and, ifnecessary, pursuedon a programmatic or multi
+   agency basis.
+
+
+
+
+                                                              Vinod Thomas
+                                                             Director-General
+                                                                Evaluation
+
+
+                                                    1
+
+
+ 1.        Backgroundand Context
+
+ 1.1     India, with a population o fjust over a billionpeople i s the second most populated
+country inthe world. Prior to the midnineties, its telecommunications*industry was stagnant
+-teledensit? hadgrownbyonly 1.92percentin50years(1948-98). Therewasahighlevel
+o funmet demand for basic telephone service and inadequate availability, especially inrural
+areas. Applying for a telephone service under the state-owned monopoly was a burdensome
+process and customer service was often dismal. Thus the move to encourage competition and
+the rapid expansion o f the subscriber base inIndia inthe last ten years has been a remarkable,
+success story and one inwhich there is considerable learning for other countries wishing to
+undertake a similar transition.
+
+ 1.2     Duringthe last ten years teledensity inIndiahas grownto 18percent (2007), and
+recently the mobile subscriber base has been growing by 6 million every month. Tariffs
+charged have consistently fallen, and Indianow has the fourth largest telecom network after
+China, the US, andthe Russian Federation. This has attracted significant foreign direct
+investment, stimulated economic growth and encouraged the location of business process
+outsourcing. The Indiantelecom service industry is contributing at least 2.7 percent o f the
+country's total GDP3.
+
+1.3      A keyresource for wireless technology based information andcommunication
+infrastructure (ICI) i s the radio spectrum, and it is imperative that it is monitored and
+managed inthe most efficient and transparent manner inthe interest o f the country as a
+whole4. Convergence incommunication technologies, services and firms has also blurredthe
+boundaries betweenthe telecoms andbroadcasting sectors, and impacted the demand for the
+use o fthe radio spectrum.
+
+1.4      The reform o fthe telecom sector beganwith the acceptance o f a new National
+Telecom Policy in 1994 which was followed by an even more ambitious plan in 1999. This
+caused a surge indelivery that placedunprecedented demands on the authorities responsible
+for its implementation. The 1999 updated policy acknowledged that proper management o f
+India's radio spectrum is critical and that a key objective was to achieve efficiency and
+transparency inspectrum management.
+
+1.5      The Telecommunications Sector Reform Technical Assistance Project was approved
+inJune 2000 andaimedto strengthenthe respective government institutions to meetthese
+challenges. While the success o f the implementationo f the reform measures can only partly
+be attributedto the project, it certainly played a crucial role inthe ensuing transformation.
+This report evaluates the extent to which this technical assistanceproject met its development
+goals, supported the telecom strategy o f the Government o f India (GOI), and extracts what
+lessons can be learned from the implementationexperience.
+
+
+ Henceforth called "telecom" inthis report
+ Telephone lines per 100persons.
+3Telecom Regulatory Authority ofIndia estimate, 2007.
+4Briefing Report "Radio Spectrum Management Development ion India" World Bank, June 2006
+
+                                                2
+
+
+
+2.        The InstitutionalFramework-Sector Overview
+
+2.1     It is essentialbefore proceeding further to understandthe basic institutional
+framework for telecoms inIndia. The responsible ministry is the Ministry o f
+Communications (through the Telecommunications Commission charged with formulating
+the sector strategy, andthe Department o f Telecommunications [DOT]-the licensing
+authority). In 1994, the monopolistic nature o f service provisionwas changed, opening-up
+the operationofbasic and cellular services to private investors. Inorder to regulate the new
+environment, the Telecom Regulatory Authority of India (TRAI) was established in 1997'.
+TRAIis a statutory body with quasi-judicial powers responsible for inter aliarecommending
+the needs and timingo f entry o fnew service providers, the terms and conditions ofthe
+licenses, technical compatibility and effective interconnectionbetween service providers, and
+ensuring compliance o f license conditions with universal service obligations andother
+internationallypracticed common regulatory principles, consistent with India's World Trade
+Organization commitments.
+
+2.2     Because there was a conflict o f interest as the DOT was boththe main operator and
+the licensing authority, the government and service provision functions were separated in
+1999. The service function was corporatizedas Bharat Sanchar Nigam Ltd. (BSNL) in2000
+andpart o fthe government function ofDOT is carried out bythe principal agency, the
+Wireless Planning andCoordinationWing (WPC) which is responsible for radio frequency
+spectrum policy, planning,licensing, administration, monitoring and enforcement. The
+Wireless Monitoring Organization (WMO) i s the field agency o fWPC, while the
+Telecommunications Engineering Center (TEC) i s responsible for setting technical standards
+for equipment andnetwork interconnection. A Standing Advisory Committee on Radio
+FrequencyAllocations (SACFA) is responsible for formulating India's National Frequency
+Allocation Plan, recommendingon major frequency allocation issues, andproviding site
+clearances for the installationofradio equipment.
+
+2.3     In2000, the disputes settlement function formerly vested inTRAIwas transferred to
+a new body, the Telecom Disputes Settlement and Appellate Tribunal (TDSAT), which
+meant that appeals no longer neededto involve the highcourts. Prior to the establishment of
+TDSAT, TRAI, with limitedin-house expertise, was being overwhelmed by court challenges
+from powerfbl public and private operators. Since the appointment o f the chairperson and
+members o f TDSAT were made inconsultation with the ChiefJustice o f India, the
+impartiality andhighstanding o fthe tribunal were assured. This left TRAI to focus on
+regulatory matters and restored its credibility.
+
+
+
+
+ Telecom Regulatory Authority of IndiaAct, 1997
+
+                                                3
+
+
+
+
+3.       The Project
+
+ProjectObjective
+
+3.1     The stated development objective o fthe project (PDO) as articulated inthe PAD and
+unchanged duringimplementationwas as follows:
+
+"To strengthen elements of thepolicy and regulatory environment topromoteprivate sector
+investment and competition in the telecommunications sector in India ''
+
+3.2     This was to be achieved by assisting the DOT to strengthen its government functions,
+including modernization o f its radio frequency management and licensing systems, andby
+strengthening the capacity o f TRAI and TDSAT to regulate the sector.
+
+3.3     The development objective, thoughbroadlyworded, has two elements (regulatory
+strengthening andprivate sector promotion). Both were substantially relevant to the 1998 and
+2005 Country Assistance Strategies (CAS), which stressedimproving the effectiveness o f
+government and promoting private sector-led growth. The latest CAS aims to create a well-
+regulated, but competitive enabling environment, enhancing private sector entry, and
+participation andinvestment inthe Indian economy-especially        infrastructure. The project
+also sought to assist the implementationo f the country's recently updated National
+Telecommunications Policy. Itprovided institution buildingfor the newly established entities
+o f TRAI and TDSAT.
+
+3.4    Originally, the GO1hadbeen interested inBank assistance largely for the
+procurement o f technical services and equipment for radio spectrum monitoring and
+management as a result o f increased demand due to sector reform already initiated in 1994.
+The Bankteam, however, successfully and appropriately convinced GO1that to accelerate
+sector growth there was a need to provide special support to the new sector institutions and to
+the successful introduction o f the updated policy initiative involving capacitybuilding
+through consultancy studies, training andtechnical assistance.
+
+ProjectComponents and Costs
+
+3.5    DOT Component (US$56.38 million)
+
+    1.     Assistance to the DOT (headquarters) to support the strengthening of DOT'S
+           government functions by financing provision o f equipment, consultants' services,
+           andtraining, (0.15 percent o fDOT component cost).
+
+    2.     Support to the WPC for equipment andtechnical assistance inthe field o f
+           spectrum management (98.85 percent o fDOT component cost) as follows:
+
+                                                 4
+
+
+               Procurement and installationo f an automated spectrum management system
+               (ASMS)to automatically process requests for the assignment ofradio
+               frequencies, wireless licenses etc.;
+
+           0   Procurement and installation o f a national spectrum monitoring system
+               (NSMS) through upgrading the radio monitoring facilities o f the WMO-the
+               field organizationof WPC. The two systemswere to be set up inan integrated
+               manner, with connectivity with the wireless monitoring headquarters, four
+               regionalheadquarters (located at Chennai, Delhi, Kolkata, and Mumbai) and
+               22 wireless monitoring stations throughout India;
+
+               Technical training o f staff assigned to operate and maintain these systems, and
+               for WPC's senior management;
+
+               Technical assistanceto WPC for settingup a Project Management
+               Consultancy (PMC) to assist inexpeditingthe procurement process and to
+               strengthenWPC's institutional capabilities.
+
+     3.    Technical assistance for capacity buildinginthe TEC, comprising awareness o f
+     emerging technologies, and staff training that included seminars, attendance o f external
+     formal training programs, in-house training, a tour o f regulatory agencies, and staff
+     exchanges, (1.O percent o f DOT component cost).
+
+3.6    TRAI/TDSATComponent (US$5.62million)
+
+       1.      Support for TRAI comprising technical assistance to strengthen the
+       organization's ability to regulate the sector. It includes support for consultancy
+       studies on priority regulatory issues and staff training, (90 percent o f TRAI/TDSAT
+       component cost);
+
+       2.      Assistance to TDSAT to support the implementationo f a program o ftechnical
+       assistance for strengthening the institutional capabilities o f TDSAT inthe areas o f
+       adjudication and dispute resolution, (10 percent o f TRAVTDSAT component cost).
+
+3.7    The costs for the project components are given inTable 3.1 below:
+
+Table 3.1 Components and Costs (US$ millions) for the Telecommunications Sector
+Reform Technical Assistance Project (Loan: 4555-IN)
+
+COMPONENT                    APPRAISAL      APPRAISAL     APPRAISAL    ACTUAL     ACTUAL      ACTUAL
+                             BANK           BORROWER      TOTAL        BANK       BORROWER    TOTAL
+
+
+DOT COMPONENT (HQ,TEC&       56.38          9.49          65.87        25.27       5.00       30.27
+WPC)
+REGULATORYCOMPONENT (TRAI     5.62          0.51           6.13         2.73       0.00        2.73
+
+
+TOTAL                         62 00         10 00          72 00       28 00       5.00       33.00
+
+                                                5
+
+
+
+
+4.        Implementation
+
+Qualityat Entry
+
+4.1     The project was not reviewed bythe World Bank's Quality Assurance Group prior to
+appraisal. The ICR team believed, however, that the project was satisfactory at entry because
+the project design factored inIndia's telecoms background, the needs and objectives o f the
+GOI, as well as the policies andtrends pertinent to the sector. The PAD clearly hadidentified
+the importance o f technical assistance to the various agencies andthe project design took into
+account the need for additional capabilities for spectrum management resulting from sector
+growth.
+
+4.2     On the other hand, although duringpreparation a risk was identified that the
+equipment provided bythe project might not be implemented ina timely and effective
+manner. Mitigating measures to address this issue, inthe event, proved insufficient. This was
+inpartbecausethe project management consultants were not recruitedearly enough, butmay
+also have been due to the degree o f complexity o f the WPC component. The estimated
+project costs were also far too high.Moreover, comparatively little thought was given to
+project M&E.InIEG's view the quality at entry was moderately satisfactory.
+
+ImplementationProblems
+
+4.3     The institutional strengthening elements o fthe project were mostly concludedwithout
+any serious issues arising, although inthe case o fTRAIthere was some initial delay in
+utilizing available funds because there was the possibility that TRAI would be subsumed
+withina larger body-the     Convergence Commission o f India. However, this didnot
+eventuate, and the utilization o f finds then accelerated.
+
+4.4     The component encountering most o f the difficulties inimplementationwas the
+procurement and installationo f equipment for WPC. There were persistent delays throughout
+project implementation. The quality o f some work was unsatisfactory and had to be redone-
+the failure rate o f core equipment was also unusually high.There were divergences between
+the contractor and the WPC regarding the procedure for verification o f the accuracy o f
+measurements andthe interpretation o f results, while frequent changes inthe composition o f
+the contractors' team made it difficult to maintain consistency. Divergences between the
+WPC and the WMO on technical procedures also caused some delay due to an unclear chain
+o fresponsibility for choosing testingprocedures.
+
+4.5     An insufficient number o f full-time staffwas available for the Project Implementation
+Unit(PIU) which seriously weakened effective project implementation.Theworkload of
+both WPC and WMO staff was steadily increasing at this time without any commensurate
+increase instaffing. Consequently the Bank supervisory team repeatedly recommended to the
+implementing agency to urgently strengthen the PIU with adequate staff on a full-timebasis.
+However, there was a reluctance to hire foreign consultants, and a project management
+
+                                                        6
+
+
+consultant was only appointed inJune 2003, commencinghis assignment inAugust 2003-
+three years after the project became effective6.
+
+4.6      The problems described above could havebeen minimizedby strengthening the
+PIU's capacity and appointing a PMC at the outset. Even this, however, would not
+necessarily have resolved all the delays, since WPC andWMO (sometimes with differing
+agendas) didnot always take advantage o fthe PMC expertise, even after the PMC was
+appointed. As pointed out inthe ICR, the incentives and organizationalculture withinDOT
+constrained its ability to make quick decisions and provide timely solutions to problems7.
+Delays inprocurement, for example, are commonly experienced inother Bank-financed
+Indiaprograms, andthis generic issue may need to be addressedon a multiagency basis. The
+potentialbenefits o fthe new spectrum management and monitoring system were thus
+delayed and overshadowed by disagreements over contractual issues. Continuous
+implementationdelays eventually resultedinan extension o f the closing date to March2006
+(from December 2004), cancellationo fpart o f the loan, and the project at times being
+classified as "at risk".
+
+4.7      Three loan cancellations took place duringimplementation. InJanuary 2004 US$20
+millionwas cancelled. This was, according to the ICR, due to savings through the use o f
+international competitive biddingprocurement procedures and a reduction inequipment
+prices due to advances intechnology. IEGconfirms that while these reasons were valid, the
+size o fthe amount estimated at appraisal remains a cause for concern, since there was a
+substantial opportunity cost o f capital unnecessarily tied-upthrough this over-estimate,
+which was clearly too generous.
+
+4.8      The second cancellationwas for US$7.67 million inFebruary 2006, largely due to the
+persistent delays inthe implementationo fthe WPC component, even after extension o f the
+closing date, andthe final cancellationo fUS$5.71 millionreflected the fact that the super
+highfrequency (SHF)fixed andmobilemonitoring system couldno longerbecompleted
+before the closing date. Although there was some speculation that the GO1might find the
+SHF from own finds, at the time o fthe IEGmissionit was evident that the monitoring
+equipment for the SHF would not be supplied as WPC andthe contractor had not been able
+to reach agreement on specifications. Thus inthe end only 46 percent o fthe loan was
+disbursed, the remainder being cancelled.
+
+Demandfor the RadioSpectrum
+
+4.9      The demand for the radio spectrum inIndia i s high, especially because o fthe
+enormous growth o f cellular subscribers and internet users. Spectrum usage remains largely
+
+
+
+ The time line of events during implementation i s recordedinconsiderable detail inthe ICR, Annex 9, from
+which this information i s drawn.
+ Public disclosure o f the ICR was authorized inSeptember 2006. Some o fthe problems discussed relate to
+more generic problems throughout the Indiancivil service. These are acknowledged by the GOI, which has set
+up a Commissionto look at the potential for streamlining deliveryofpublic programs and improving service to
+the public. For further reading see, for example, the Economist leader andbriefing on India's civil service,
+(March 8,2008).
+
+                                                    7
+
+
+inthe handsofgovernment or quasi government bodies includingdefense, civil aviation,
+space, shipping, railways, police, broadcasting andothers. Historically, mucho f the spectrum
+was allocated before technology began to make huge demands on it. Because some allocated
+bands o f the airwaves are overcrowded, customers have increasingly been complaining o f
+poor connectivity leading to an excessive number o f "dropped calls". This issue may be
+resolvedwith a reallocation from some o f the departments including the military,but efforts
+to release spectrum currently assigned to such users is proving to be a slow process. Inthe
+meantime technological advances have enabled more efficient use o fthe spectrum with more
+calls to be packed-in to a given space usingso-called third generation (3G) networks.
+However, this is not a long-term solution.
+
+4.10     Current spectrum management practice inIndia is based on a traditional centralized
+command model, but a growing number o f countries are beginning to turnto alternative
+marketbased approaches to spectrum management, whereby the spectrum allocations are
+auctioned. IEGbelieves that this approach has merit, but that WPC would need to recruit
+staff with economic skills and the appropriate government departments would have to
+establish a set o frules for this to work. However, there are precedents inother countries
+(Ofcom, the independent telecomregulator inthe UnitedKingdom, for example) that could
+be adapted for local use. The lifetime o f spectrum licenses inIndia is also relatively short in
+duration incomparisonto internationalpractice. Considerationcould also be given to
+elevating the status o f spectrummanagement inIndiato a higher level o f government. In
+some countries this means there would be a greater degree o f independence with a reporting
+line to the Prime-Minister's Office or to the Cabinet Secretariat.
+
+5.         Monitoringand Evaluation
+
+Design
+
+5.1      Designingperformance indicators for institutional performance andregulatory quality
+can be a challenge, and inthis instance the result was at best modest. Project preparationtook
+place in 1999before it was common practice inthe Bank to give serious attention to M&E in
+all sectors'. There was also little attempt to deal with the attribution question inthe design. In
+the PAD there was a proposal to measure the increase inforeign direct investment (FDI) in
+the sector since this would at least inpart have been due to improvements inthe effectiveness
+o f the regulatory environment. Similarly, it was indicatedthat there should be evidence that
+the GO1was continuing with its commitment to sector reform as articulated inits National
+Telecom Policy o f 1999,including further liberalization o f the sector. One measure o f the
+latter was deemed to be evidence o f licenses issued for inter-circle domestic long distance
+service. All these indicators were inline with the PDO, but it was difficult inboth cases to
+isolateprogress due solely to the project. The mainreason inthis regard was that the PDO
+was so broad inscope.
+
+
+
+
+ A report on "Performance Indicators for the Telecommunications Sector" was preparedin2004 inhlfillment
+o fone ofthe requirements ofthe Wapenhans Report to prepare performance indicators for each sector.
+
+                                                          8
+
+
+5.2       The goal to assign frequencies for earmarked bands within 15 days o f application by
+2004 was aimed at improving efficiency inradio frequency allocation and thus improving the
+regulatory environment. However, it was probably too challenging a target given the
+bureaucratic andpolitical constraints prevailing. Inaddition there were sensible output
+indicators measuring progress with equipment installation, the publishing o f a National
+Frequency Allocation Plan (NFAP),and completion o fnumerous studies, mainly for TRAI.
+These enabledproject progress to be monitored properly duringimplementation.
+
+Implementation
+
+5.3       Although the PAD proposal o fmeasuringthe FDIwas dropped from the key
+performance indicators duringimplementation(as shown inthe ICR log frame), the ICR
+authors nevertheless did obtain and include inthe ICR text useful FDIstatistics for the sector.
+These were very positive, although there is still a question o f attribution; the extent to which
+this goodperformancewas dueto the Bankproject ispartlyconjectural. Therewas, however,
+a good effort to monitor the indicators devised, and inthe case o fthe studies undertaken for
+TRAIthere was a useful annex inthe ICRinwhich there was an indication o fthe outcome o f
+each study completed andhow the results were utilized. Inthe view o fthe IEGteam this
+added value. However, implementation o fM&E i s considered to be modest.
+
+Dissemination
+
+5.4       The mainmilestones indicated above and a considerable amount o f additional
+informationpertainingto the sector is publishedby TRAI as part o f its information disclosure
+initiative. Since 2006 this information has been available on its website inthe form o f a
+detailed quarterly report o fperformance indicators'. Dissemination o fM&E is regarded as
+substantial and industry sources such as the Association o fUnited Telecom Service Providers
+o f Indiaconfirmed that there is an active utilization o fthe informationprovided. The overall
+rating for M&E as a whole is modest.
+
+6.          Project Outcomes
+
+6.1       Because the umbrella-like PDOwas so broadly worded and involved a number o f
+organizations, the relative achievements o fthe intermediate outcomes ineach case will first
+bereviewed, andthen an overall assessmentmade o fthe outcomeunder the ratings insection
+seven.
+
+Departmentof Telecommunications
+
+DOTHeadquarters
+
+6.2       This component was very small insize, consistingo f strengthening the department's
+functioning through provision o f consultant's services, and some training courses. The main
+
+
+9The quarterly report is available electronically to the public o n TRAI's website and contains a wealth of
+statistics monitoring service performance, quality aspects, the size o f the subscriber base and financial
+information includingcosts of making calls andusing facilities.
+
+                                                      9
+
+
+item, a local consultant's study, was to assesspolicyandregulatory options for the rapid
+expansion o frural communities inIndia, taking into account key factors such as the
+economics o frural telecommunications anddevelopments intechnology. This was
+undoubtedly a useful piece o fwork to establish a basis on which to launch an improvement
+inrural coverage. TheBankhas encouragedtheDOTto take thismatter further and
+commence with pilot implementation, but there is currently still some debate as to the best
+way to finance such an initiative.
+
+ TelecommunicationsEngineering Center
+
+6.3      This was also a small, but important component comprisingnine international
+training programs and costs to cover participation o fDOT staff at a number o fmeetings
+organized bythe International Telecommunication Union (ITU). Since TEC provides
+technical support to the DOT on technology matters, the training programs helpedtowards
+strengthening institutional capabilities andwere designed to suit the specific requirements o f
+TEC. The training courses covered a range o ftopics including number portability and other
+advances inswitching technologies, intelligent network systems, and converged networks. A
+total of 38 persons participated.
+
+6.4      Some 31staff members attended the ITUmeetings; one visible output o fthis has
+beena number o fpapers presented to I T UStudy Groups by DOT staff, butmore importantly
+the publication o fspecifications covering awide spectrum o ftelecommunications
+technologies including next generation networks, and Wimax technologies. Once these new
+standards were ratified by ITUmember states, this enabled the Indiantelecommunication
+market to acquire the latest equipment technology to provide new and quality services. IEG
+observed that the extreme competitiveness o fthe market ensured that the adoptionby the
+private sector was almost immediate. While it is not possible to fully measure the extent o f
+the impact ofthis technical assistance, the work has clearly been successfully implemented
+andthe telecommunicationmarket, accordingto the users interviewed by IEG, has benefited
+as a result.
+
+Equipment and technical assistancefor the WirelessPlanning and Coordination Wing
+
+6.5     This component accounted for the largest portion o fthe project cost by far and also
+encountered the most difficulties inimplementation. As described inmore detail insection 4,
+project progress was adversely affectedby administrative weakness and lengthy procedures.
+Persistent delays continuing after extension o fthe project closing date ledto the cancellation
+o fthe SHF portion o fthe monitoring system covering about 10percent o f the spectrum. At
+closure, the monitoring system covering the HighFrequency (HF), Very HighFre uency
+(VHF) andUltraHighFrequency (UHF) bands was not fully functional andtested!',                    but at
+the time o fthe IEGmission the system was commissionedand inuse byWMO, and some
+problems o f significant local interference experienced initiallyhadbeen resolved.
+Nevertheless, the delays caused a longer period o f time and inconvenienceduringwhich an
+efficient monitoring capability was lacking. Inadequate staffing was also reported from the
+
+
+loFor example, the antenna towers at two sites, Goa andJallandhar, hadbeendelayed due to landdisputes and
+the mobile units hadnot been fully deployed.
+
+                                                      10
+
+
+regional offices which on occasion affected monitoring coverage'              '.Training   had generally
+been conducted successfully intandem with the equipment roll out. The Indianmanufactured
+vans housingthe mobile monitoring unitswere also cumbersome and may face some
+restrictionswhen used inhillyareas or on narrow roads.
+
+6.6       The ASMS was installed and partially automated. Fullautomation as originally
+envisaged hadnot yet occurred,'* but the time taken to assign frequencies for earmarked
+bands had fallen considerably (usually within the range o f 16-25 days), but not to the
+ambitious target o f 15 days set as a target inthe PAD. Approval o f less agencies i s now
+required andin some instances assent i s assumed ifno objection is receivedwithin a month
+o fthe application. SACFA has permittedmore exemptions inrespect o f site clearance, and
+BSNL i s no longer on the SACFA board since it cannot be both a referee andplayer.
+Applicants are also now informedimmediately iftheir application is rejected.
+
+6.7      Itwas intendedthat aNationalFrequency Allocation Planwouldbepublishedevery
+two years and this was achieved in2000,2002 and 2004. However, the plandrafted in2005
+had not yet been finalized inFebruary 2008 at the time o f the IEGmission.
+
+TRAI/TDSAT
+
+TelecomDispute Settlementsand Appellate Tribunal
+
+6.8      The recently established agency TDSAT was required to buildits capacity, learn from
+other practices around the world, and raise awareness o f its work program and activities with
+its users. Through the technical assistanceunder the project a local area network (LAN-
+based) reference library was set up and a website established which gave access to consumers
+on all cases that had been considered.
+
+6.9      Legal precedents are ascertainable by the public inrespect o f issues scheduled to
+come before the Tribunal. Decisions o fthe Tribunal are postedwithin30 minutes o f the
+verdict. Seminars, study tours and training programs have also been conducted for its staff
+and to create awareness by consumers. The impact o fregional seminars has been directly
+reflected inthe number o f cases and references receivedby TDSAT (up bybetween 40 and
+60 percent). Exposureto international experience has also led TDSAT to propose
+improvementsto legal procedures and dispute resolution ina rapidly changing regulatory
+environment, while regulatory risk has been reduced through the speedy handling o f appeals.
+Duringthe final year o fproject implementation the processing rate for casesreceivedwas
+recorded as above 90 percent for the year.
+
+
+
+
+''''
+  WPC (including WMO) has a total of about 400 sanctioned technical staffpositions, of which about 30
+ ercent remain vacant. Staffnumbers do not reflect the enormous growth inspectrum-based services inIndia.
+  Some key agencies such as defence and aviation still have to formally agree to the assigned frequencies and
+inthis sense fullautomationhas stillnot occurred.
+
+                                               11
+
+
+TelecomRegulatory Authority of India
+
+6.10    From its inception TRAI has played a key role inhelping the telecom sector to
+transform to the needs o f a modern India and cope with the phenomenal growth o ftelecom
+services. Ithas also supported the sector inincreasingthe availability andreacho f especially
+mobile andinternet services including the rural areas. The project supported 33 consultancy
+appointments and 32 training activities or programs. This has enabled a rapidexpansion o f
+TRAI's ability to play a catalytic role inreform and to shape the environment for competition
+andprivate investment. This view IEGconfirmed was supportedbyassociations such as the
+Association of United Telecom Service Providers o f India.
+
+6.11 A comprehensive list o f consultancy studies andtheir results was provided inan
+        Annex to the ICR (reproduced inthis PPAR as Annex B).IEGcommends the way in
+        which these assignments were linked to outcomes. Three typical examples (out o f 33)
+        are given below:
+
+        Study on the cost of capital: The study was carried out to decide the rates o f return to
+        be given while finalizing pricing andinterconnect user charges for the telecom
+        industry as well as the quantumo f Access Deficit Charges. The inputs received from
+        the study have beenused to standardize the methodology to estimate the cost o f
+        capital.
+
+        Consultancy and Workshopon Broadband Technologies: A detailed recommendation
+        on growth o f internet and broadband was sent to GOI, which issued the GO1
+        BroadbandPolicy o f 2004.
+
+        Consultancyfor Advising T M Ion Cable TVServices: The studyhelpedTRAI to
+        formulate its recommendations on issues relating to broadcasting and cable services.
+
+6.12    Arguably, this component had the most impact interms o f the PDO. TRAI clearly
+played an important andcatalytic role inthe reform andtransformation o f the telecom sector
+andis generally regarded as a very successful agency.
+
+6.13    Overall, taking the outcome o fthe five subcomponents o fvarying size into account,
+their respective impacts needto be weighed-up carefully. The equipment-intensive WPC
+component, for example, was not fully completed even at the time o fthe IEGmission, but
+boththe ASMS and the NSMS are now functioning systems and clearly credit needs to be
+given for this. The technical assistance funds aimed at capacity buildinghave also beenwell
+utilized andhave made a significant difference inthe sector. The Bank clearly also added
+value with impartial advice and through its international experience.
+
+7.        Ratings
+
+Relevance
+
+7.1     As indicatedinparagraph 3.3 the project was substantially relevant taking into
+account boththe CAS and GO1strategies for the telecom sector. Officials inTRAI and
+
+                                                 12
+
+
+TDSAT inparticular were very complimentary about the level andtimeliness o f the Bank
+support. Institutionbuildingwas an important factor inenabling the GOI's telecom policy to
+be realized. The project objectives were therefore highlyrelevant. Project design was
+modestly relevant inthat insufficient attentionwas givento M&E and the issue o f attribution.
+Overall, relevance i s rated as substantial.
+
+Efficacy
+
+7.2     The over-arching PDO has two elements, namely, promoting private investment and
+competition inIndia's telecom sector and, strengthening the policy andregulatory
+environment.
+
+7.3      Liberalization o fthe telecom sector has ledto many public andprivate firms
+competing and investing (element 1) inthe Indian telecoms market. BSNL, BhartiAirtel Ltd,
+Reliance Communications Ltd andVides Sanchar Nigam Ltdwere all issued licenses for
+inter-circle domestic long distance service duringproject implementation. Relative freedom
+o f entry into the market has resultedinthere now being7 wireline, 12 wireless, 13 (main)
+broadband, and 32 internet service providers. The market, however, is dominated by a few
+large firms. BSNL still provides 83 percent o fthe wireline services, while 86 percent o f
+internet services are providedby the top five 0perat0rs.l~Nevertheless the market is vibrant
+and fiercely competitive, especially inrespect o fwireless providers. The wireline services are
+considered less lucrative and therefore fewer firms are willing to enter this market. Table 7.1
+below also shows the phenomenal growth inthe sector over the last ten years.
+
+Table 7.1 Growthof Indian Telecom Sector 1997-2007
+
+
+
+
+Source: TRAI. Data as o f March31, 2007.
+
+
+
+
+l3Data fiomTRAI Performance Indicators Report, Jan 1,2008.
+
+                                                 13
+
+
+7.4      The number o fwireless subscribers has grown almost exponentially, while the
+number of fixed wireline subscribers has peaked. Inthe nine month period that has occurred
+since the figures given inthe table above, the number o f fixed wireline subscribers has
+actually fallen to 39.58 million. FDIinthe telecom sector has grown more than five times
+over the decade, while the cost o f a local phone call has fallen from nearly 17 INRto just one
+INRperminute,thoughthisis also partlydueto technologicalchangetoo.
+
+7.5      While a number o f factors have contributed to the huge expansion o fthe sector, TRAI
+has linked major milestones to the rate o f growth including permitting tariffreductions, the
+introduction o f a unified access regime, lowering access deficit charges, allowing cheaper
+handsets to be sold, and allowing cheaper intra-network calls. Most o f these measures
+resulted after multiple consultationpapers that were fbnded under the Bankproject. IEG
+contends that while the effect o f the technical assistance (and Banktechnical advice) was
+often not readily measurable, TRAI, other agencies, and their users were very positive about
+the support given from the project and indicated that the project didplay a substantial role.
+Efficacy is rated substantial for PDO, element 1.
+
+7.6       Onthe repulatorv side (element 2) a number o fissues were analyzed with a view to
+improving the policy and regulatory environment inthe sector. These included policy
+guidelines andrulings on specific problems including spectrum management, licensing and
+inter-connectionissues, as well as regulations pertaining to broadcasting and cable services.
+Muchwas done to improve awareness of issuesby the public including seminars and
+workshops, but also through the development o fbetter websites, performance indicators, and
+appropriate training. TRAI has produced a handbook for consumers which outlines the rights
+ofthe consumer andincludes a charter for the provision o ftelecom services. There is also a
+list o f consumer organizations registered with TRAI. The ability o fthe DOT to manage the
+allocation o fradio frequencies and ensure compliance with laid-down standards has also
+improved, despite initial delays. The investments incapacity buildingwere all carried out
+according to schedule and staff interviewed confirmedthat the training was vital to enable
+them to fulfill their functions ina fast-changing environment. Efficacy i s rated substantial for
+PDO, element 2, and also substantia2 overall.
+
+Efficiency
+
+7.7       It is on the efficiency side where the project hadthe most shortcomings. Project
+delays insystems installation ledto the benefits o f the new systems not being hlly realized
+untilover three years after the original closingdate ofthe project. The SHF portiono fthe
+project was also cancelled andwhile at this time only ten percent o f interference complaints
+arise from use o f the spectrum above the 3 GHz band, this percentage may grow inthe
+future. Itwas not possible to calculate an economic rate o freturn for this project, because o f
+a lack o f suitable data andbecause o f attribution issues, but there is no doubt that both the
+above factors would have negatively affected the benefit stream and added to the costs. In
+addition, there i s the fact that too much capital was tied-up inthe initial capital estimates for
+the project, andinthe end less than halfo f the original project cost was actually disbursed.
+Efficiency is rated modest.
+
+                                                 14
+
+
+OverallRating
+
+7.8     Taking into account the progress towards achieving the PDO and the assessmentso f
+relevance, efficacy and efficiency, IEG's overall rating is moderately satisfactory. The
+shortcomings inrespect o f the equipment component, which was by far the largest inthe
+project, were too important to permit a fully satisfactory rating.
+
+Riskto DevelopmentOutcome
+
+7.9     The capacitybuildinginitiative inthis project has helped to enhance the capacity o f
+agencies that are well regarded and indeedhave an international reputation. TRAI and
+TDSAT receivevisits from other developing country agencies eager to learnfrom the Indian
+experience. Performance monitoring, dispute settlement andpublic awareness aspects inthe
+sector have been particularly well handled. The DOT has been able to make an important
+contribution at the working groups o f the ITU. Sector reform has received a substantial
+overhaul duringthe last five years andi s well set to cope with a technological environment o f
+constant change.
+
+7.10    The ASMS and NSMS are functioning adequately, but have not yet reached their full
+potential, since the former i s not yet fully automated as originally envisaged and the latter
+lacks the capability to monitor the SHF part o f the spectrum. There are also still problems in
+the allocation of spectrum between the public and private sectors and an overall spectrum
+management plan i s lacking. This i s also reflected inthe lack o fpriority givento publishing
+the IWAP.Some concerns are evident due to a lack o f suitable qualified staff inthe DOT, but
+this ispart o fa generic probleminthe Indiancivil service which the GO1is addressing
+separately. Onbalance, Indiai s on track to develop into a dynamic and competitive
+communication and technology market inAsia, and the risk to development outcome o f this
+project failing i s seen as negligible to low.
+
+Bank Performance
+
+7.11    The Bank did a goodjob inconvincing GO1to expand the project design to give
+general institutional support to the sector reforms. The Bank's international experience and
+impartial advice certainly added value to the rollout o fthe training and other technical
+assistance and inparticular helpedbuildthe reputation and credibility o f TRAI. It also
+supervised the capacity buildingcomponent well and gave specific advice at GOI's request
+which it received verypositively. The Bank showed flexibility in a fast-changing
+environment. For example, when TRAI's role was extended to include broadcasting signals
+andthe authority had an urgent needto buildcapacity inthat domain, the Bank was able to
+accommodate this addition swiftly.
+
+7.12    However, the cost estimation for the project was seriously over-valued despite the use
+o f experienced experts indetermining "appropriate" amounts. More thought could have gone
+into the monitoring indicators specified, and the implementation risks, though properly
+identified, were under-estimated. Quality at entry was moderately satisfactory. The
+supervision problems o fthe equipment procurement, installation and commissioning were
+well-documented andit is clear that extensive andrepeateddiscussion took place concerning
+
+                                                      15
+
+
+the inadequacy ofthe PIU andthe need to retainan experienced project manager. Butthe
+discussions didlittle to change the situation on the ground andinterventions at a higher
+management level by the Bank do not appear to havebeen effective.14 Quality o f supervision
+is rated as moderately satisfactory and overall Bankperformance i s deemed moderately
+satisfactory.
+
+BorrowerPerformance
+
+7.13    Government. The Borrower participatedwith commitment duringpreparation, but
+loan negotiations were delayed by around eight months inthe appointment of consultants to
+assist WPC to prepare biddingdocuments. This delay was due to difficulty insecuring GO1
+approval for the selection o f consultants under Bank guidelines, which differ from GOI's
+ownprocedures. However, given the large portfolio o fBank-supported projects being
+handledby the GOI, this delay i s surprising. Some o fthe later difficulties experienced during
+implementation could also havebeenunblockedwith more proactive action from
+government. Moderately satisfactory.
+
+7.14    ImplementingAgencies. The performance o f the agencies inrespect o f capacity
+buildingwas very positive and few significant problems were encountered. However, the
+WPC component experienced considerable delays because ofproblems with contractors, and
+a lack o f empowerment and decision-making capacity inthe PIU. Conversely, the PIUcould
+haveplayed a more proactive role inbringingto management's attention issues that needed
+urgent resolution. Moderately satisfactory. The overall Borrower performance is rated
+moderately satisfactory.
+
+8.      Lessons
+
+8.1     A number o fimportant lessons canbe gleaned from the design andimplementationo f
+thisproject:
+
+e       Whenthe experience o fthe implementing agency inmanagingprojects is limited, and
+        especially when such projects are complex, it is essential to appoint a project
+        management consultant early-on to compensate for any gaps inexpertise. Most o fthe
+        difficulties experienced inthe implementationo f the Telecom Sector ReformProject,
+        involving the modernizationo fthe country's radio frequency and licensing system,
+        were attributable to inability to take decisions and lack o f capacity to find solutions to
+       problems;
+
+e       Ina sector where technology advancement is akeydriver ofchange, itisnecessary to
+       buildsufficient flexibility and foresight into the projects. Inthe IndiaTelecom
+        Reform Project, flexibility allowed for project realignment duringimplementation,
+       when required, thus facilitating a redefinition o fneeds. An example o f this was an
+       unexpected need to gain an understanding o f televisionbroadcasting signal
+       technology. However, with regardto the need for foresight, a better understanding o f
+
+
+14Onmost missions the issues were raised at least at AdditionalSecretary level
+
+                                          16
+
+
+   the relationship betweenrapid technological change andproject costs could have
+   avoided a serious overestimate o f equipment costs, and this would have saved US$
+   331,000 infront-end fees, while the Bank would havebetter utilizedpart o f its loan.
+   Obsolescence also occurs more quickly inthe telecommunications field and so it i s
+   critical to avoid delays inproject completion;
+
+e  Investing incapacity buildingandinstitutional development is critical to ensuring
+   effective project implementationandproject sustainability. This was a crucial aspect
+   o f strengthening the regulatory anddispute settlement framework inIndia. However,
+   itis equally important inensuring operational effectiveness, especially for equipment
+   design, procurement and installation. Such investments need to be supported by clear
+   leadership and a willingness to implement reforms at a senior level. Sometimes the
+   prevailing organizational andbusiness culture can impede satisfactory progress due to
+   competing priorities and agendas. When such a serious blockage i s encountered the
+   issue shouldbe elevated to an appropriate level o f decision-making and, ifnecessary,
+   pursued on a programmatic or multi agency basis.
+
+                                           17
+
+
+Annex A. BasicData Sheet
+
+TELECOMMUNICATIONS          SECTORREFORMTECHNICAL              ASSISTANCEPROJECT
+(LOAN 4555-IN)
+
+
+                   ata(amountsin US$million)
+                                               _I--
+
+                                         Appraisal       Actual or       Actual as % of
+                                         estimate     current estimate appraisal estimate
+Total project costs                        72.00           33.00               45.8
+Loan amount                                62.00           28.00               45.2
+Cofinancing
+Cancellation                                               33.38
+
+
+
+
+ProiectDates
+                                               Original                    Actual
+--I___
+Negotiations                                  04/24/2000               04/24/2000 I_-_-_-
+
+
+
+
+Board approval                                06/06/2000               06/06/2000
+Signing                                       08/11/2000               08/11/2000
+Effectiveness                                 08/29/2000               06/29/2000
+Closing date                                  12/31/2004               03/31/2006
+
+
+
+StaffInputs(staffweeks)
+                                              ActualLatest Estimate
+                                 No. Staff weeks                     US$ (`000)
+Identification/Preparation             12.2                              94
+AppraisaVNegotiation                   56.0                            353
+Supervision                            56.0                            557
+ICR                                      8.3                             72
+Total                                133.0                            1,076
+
+                                                 18
+
+
+Mission Data
+                     Date      No. of Persons and Specialty (e.g. 2   Performance Rating
+                (month/year)        Economists, 1 FMS, etc)          Implement.  Develop.
+                                                                      Progress    Object.
+Identification/ Dec. 1997             1 Sr. Private Sector
+Preparation                           DevelopmentSpecialist,
+                                      1Economist
+               Apr. 1998              1 Economist, 1 Senior
+                                      FinancialAnalyst, 1 Private
+                                      Consultant
+                Oct. 1998             1 Sr. FinancialAnalyst, 1 Pr.
+                (pre-appraisal)       Telecoms Engineer, 1
+                                      ProcurementAnalyst, 1
+                                      Financial Management
+                                      Specialist, 1 Pr. Financial
+                                      AnaIyst
+Appraisal/      Mar. 1999       8     1 Sr. FinancialAnalyst, 1 Pr.
+Negotiation                           Telecoms PolicySpecialist, 1
+                                      Pr. Telecoms Engineer, 1 Sr.
+                                      ProcurementSpecialist, 1
+                                      Financial Management
+                                      Specialist, 1Telecoms
+                                      Advisor, 1 Economist, 1
+                                      Director
+               Jan-Feb 2000     3     1 Sr. FinancialAnalyst, 1          S         S
+                                      ProcurementAnalyst, 1 Sr.
+                                      ProcurementSpecialist
+Supervision    Sept-Oct2000     3     1 Pr. Telecoms Policy              S         S
+                                      Specialist, 1 Senior Financial
+                                      Analyst, 1
+                                      ConsultanVEngineer
+               Mar-Apr.2001     1     1 ConsultanVEngineer               S         S
+               Sept. 2001       2     1 PrincipalTelecom Specialist,     S         S
+                                      1 PrincipalTelecom Engineer
+               Nov.2002         2     1 Lead Telecom Specialist, 1       U         S
+                                      consultant
+               May 2003         1     1Telecom Engineer                  S         S
+               Sept. 2003       3     1 Lead Telecom Specialist, 1       S         S
+                                      Consultant/Engineer,1 Senior
+                                      Counsel
+               Dec.2003         1     1 ConsultanVEngineer               S         S
+               Mar.2004         2     1 Lead Telecom Specialist, 1       S         S
+                                      ConsultanVEngineer
+               Sept-Oct.        3     1 Lead Telecom Specialist, 1       S         S
+               2004                   ConsultanVTelecom Engineer,
+                                      1 Lead OperationsOfficer
+
+                                    19
+
+
+           Date    No. of Persons and Specialty (e.g. 2  Performance Rating
+       (month/year)     Economists, 1 FMS, etc)         Implement.  Develop.
+                                                         Progress    Object.
+       Mar 2005     3     1 LeadTelecom Specialist, 1       S         S
+                          ConsultantlTelecom
+                          Engineer, 1 Sr. ICT Policy
+                          Specialist
+       Oct 2005     4     1 LeadTelecom Specialist, 1       U         S
+                          ConsultanVTelecomEngineer,
+                          1 Lead OperationsOfficer, 1
+                          Sr. ICT PolicySpecialist
+ICR    Mar 2006     3     1 LeadTelecom Specialist, 1
+                          Sr. ICT PolicySpecialist
+       May 2006     3     1 LeadTelecom Specialist, 1
+                          Sr. ICT Policy Specialist, 1
+                          ICT PolicySpecialist
+
+                                          20
+
+
+Annex B ConsultanciesSupervisedby TRAI underthe
+            -
+World BankLoan(No. 4555-IN) and their Utilization
+
+
+    ConsultancvincludingWorkshom &- Utilization
+                 ~~     ~~~
+
+
+
+
+    Seminars
+
+1.  StudyonAccounting Separation           Study was utilized for finalizing the Accounting
+    (Consultant-M/s A.F. Ferguson)         Separation Regulation for telecommunication
+                                           services
+2.  Study onthe Cost of Capital            Studywas carriedout to decide the rates o freturn
+    (Consultant-M/s CRISIL)                to be usedwhile finalizing pricingand Interconnect
+                                           User Charges (IUC) for the telecom industry and
+                                           the quantum o fAccess Deficit Charges (ADC). The
+                                           inputsreceivedthrough the study have beenusedto
+                                           standardize the methodology to estimate the cost of
+                                           capital.
+3.  Studyon the Quality of Service ofBasic Studywas to assist TRAIinits function to monitor
+    and Cellular Services (Consultant-     the quality o f service providedbythe service
+    IMRB,NewDelhi)                         providers andto ensure the quality of service. The
+                                           consultant carried out a detailed objective
+                                           assessment o f the quality service providedby the
+                                           Basic and Cellular Service Providers against the
+                                           parameterslaid down inthe Quality of Service
+                                           Regulation for a period of four quarters (October
+                                           2001 to September, 2002) and also the subjective
+                                           assessment o f the customer satisfaction survey.
+4.  Short consultancy on estimation of     Through this study, the consultants submitteda
+    ADC/IUC based on forward looking       software as well as amodel for calculation of
+    LRIC and other models (Consultant-M/s  IUC/ADC inIndia, which was utilized for
+    ANALYSYS ConsultingLtd.,U.K)           finalizing the IUC Regulation.
+5.  Short consultancy on Implementationof  Thereport was utilized for finalizing the IUC
+    InterconnectionUsage Charge (IUC)      Regulation.
+    Regime inIndia (Consultant -Mr.
+    Edgardo Sepulveda, Canada).
+6.  Competition Seminar -Seminar was       Utilizedfor framing the recommendation on DLC
+    organized on 6-7, October, 2003 by     and IPLC competition issues and access to landing
+    TERI on behalfo fTRAI                  stations.
+7.  Mergers & Acquisitions inthe Telecom   The report was utilized for finalizing the
+    Industry:Lessons from other countries  Recommendations on Mergers and Acquisitions in
+    (Consultant-M/s ICRA Advisory          the telecomindustryinIndia.
+    ServicesLtd.)
+
+                                           21
+
+
+-
+8.  Consultancy and Workshop on             A detailed recommendation on Growthof Internet
+    Broadband Technologies and related      and Broadband was sent to the Government and the
+    regulatory issues-Workshop was          Government issuedthe BroadbandPolicy, 2004.
+    organizedby ICRIER on behalf o f TRAI
+    on 2gthand 30thJanuary 2004.
+    (Consultant: Mr.Christopher Stanford
+-   Beale).
+9.  Consultancy for advising TRAI to        The study helpedTRAIto formulate its
+    finalize                                recommendations on issues relating to broadcasting
+    Recommendations/Regulations/Tariff      and distribution of TV channels.
+    Orderson Cable TV Services
+    (Consultant-M/s Media PartnersAsia
+-   Ltd).
+10. Study on the assessmento fmonthly       Inthe absenceofstructured data, this limitedsurvey
+    cable rate and revenue share            helpedTRAIto focus onrelevant issuesrelatingto
+    arrangementbetween Broadcasters,        Broadcasting and Cable Services.
+    MSOsand local cable operators
+-   (Consultant -M / s IMRB,New Delhi)
+11. Follow-up Studyto finalize              The study helpedto formulate TRAI's
+    Recommendations/Regulations/Tariff      recommendations on issues relating to broadcasting
+    Orders on Cable TV Services             and distributionof TV channels.
+    (Consultant-M/s MediaPartnersAsia
+-   Ltd.)
+12. Study on Guidelinesfor Competition in The reportprovides a comprehensive framework
+    a Multi-service, Multi-operator Network pertaining to various competition-related issues
+    (Consultant -M / s M c Kinsey & Co)     relevant for India. The case studiedreferences given
+                                            inthereportareusedto understandthe
+                                            InternationalPractices on a number o fregulatory
+-                                           issues.
+13. Study on Spectrum Policy: Efficient     Studywas utilized for finalizing the detailed
+    Utilization, Management and Pricing     recommendations on Spectrum Issues.
+    (Consultant-M/s Aegis System Ltd.,
+-   U.K.)
+14. Development of User Specific            Results of the analysis on comparison o f Tariff
+    Application Software for comparison of  Plans givenby the consultant were posted on
+    Tariff plans intelephony inIndia-       TRAI's website for information o fthe consumers of
+    (Consultant-M/s TERI) Phase- 1& 2.      Mumbai and Delhi.
+15. Study onQuality o f Service ofBasic and Studywas to assistTRAIinits function to monitor
+    Cellular Services (Consultant -M / s    the quality of service providedby the service
+    IMRB,NewDelhi)                          providers and to assure the quality o f service. The
+                                            consultant carriedout a detailed objective
+                                            assessment of the quality service providedby the
+                                            Basic and Cellular Service Providers against the
+                                            parameters laid down inthe Quality o f Service
+                                            Regulation for a period of four quarters (October,
+                                            2003 to September, 2004) and also the subjective
+-                                           assessment o f customer satisfactory survey.
+16. Implementation of I S 0 9001:2000      TRAIobtained I S 0 9001: 2000 certificationonits
+-   Quality Management: (Cons. RITES)       functioning, procedures and processes.
+
+                                            22
+
+-
+17, Number Portability (Consultant -M / s        Consultant's report was utilized for finalizing
+     O W ' UK)                                   Recommendations on Mobile Number Portability
+-                                                whichhave been sent to the Government.
+18. Directory Enquiry(Consultant -M / s          Study report was utilized for finalizing
+     K.M.D.Consultants)                          Recommendations on publication of Telephone
+                                                 Directory and Directory Enquiry Services already
+-                                                sent to the Government.
+19.  Studyon growth of Internet (Consultant      A detailed recommendation on growth of Internet
+    -Prof.DheerajSanghi,IIT,Kanpur)              and Broadband was sent to the Government and the
+-                                                Government issued the BroadbandPolicy, 2004.
+20.  Studyofissuesrelating to Migration          A DetailedRecommendation onMigrationfrom
+     from Ipv4 to Ipv6 inthe country             Ipv4 to Ipv6 was sent to the Government.
+     (Consultant -Mr.LatifLadid,
+     Luxemburg)
+21.  Studyon Auditing ofBillingand             ~~Consultant's report was utilized for finalizing
+     Charging (Consultant -M/sTUV                Regulationon Code of Practice for Meteringand
+     SuddeutshlandIndiaPvt. Ltd.,jointly         BillingAccuracy.
+-    with M / s BABT, UK)
+22.  Short Consultancy on Spectrum Policy        Studywas utilized for finalizing the detailed
+     (2"d Study): (Consultant-M/s Aegis          recommendations on Spectrum Issues.
+     System Ltd.UK)
+23.  InternationalTrendon Digitalization of      Reportwas utilized for finalizing TRAI's
+     Cable Network (Consultant-M/s Media         Recommendations on Digitalizationo f Cable TV.
+-    PartnersAsia Ltd.)
+24. Digitalization of Cable Network              Reportwas utilized for finalizing TRAI's
+     (Technical and Costing)  -(Consultant-      Recommendations on Digitalization of Cable TV.
+-    M / s Ernst & Young)
+25.  InternationalTrend on Satellite Radio - Inputsreceivedthrough the study were utilized for
+    (Consultant -M / s Telecom Strategies        finalizing TRAI's Recommendations on Satellite
+     Inc. Ltd., USA)                             Radio.
+26.  Short training-cum-consultancyon            Study was utilizedto obtain inputson growth of
+     `Study ofMobile Services Growthin           mobile services inChina for comparative analysis
+    China' (Consultant -Mr.DuncanClerk)          withthe growthtrendincellular servicesinIndia.
+27.  Short training-cum-consultancyon            Study was utilized for finalizing the detailed
+     Spectrumrelated issues (Consultant - recommendations on Spectrum Issues.
+-   Mr.DavidSallant)
+28.  Short Consultancy on Study o f              The report o f the study as given by the Consultant
+    IPLC/DLC inIndia (Consultant -M / s          was usedto Benchmark the tariffs obtained inthe
+    Ernst& Young)                               KeyAsia-Pacific markets inrespect o fIPLC &
+                                                DLC. Further, the InternationalRegulatory
+                                                Practices governingRegulation o f IPLC & DLC
+                                                 sector as given inthe report was utilized inthe
+                                                 framing of Tariff Policy for these services inIndia.
+29. Regulatory issues relatingto Access          Studywas conducted to assess the suitability of
+    Service Provision by Cable T.V.             Cable TV network for voice telephony. Consultant
+    Operators (Consultant- Mr.KnudEric          recommended that the existing Cable TV network
+    Skouby o f Denmark)                         inIndiaisnot suitable for voice telephony. Onthe
+                                               basis of Consultant's report and its own analysis,
+                                                the Authority decided not to make any
+-                                              recommendation on the subject at this time.
+
+                                             23
+
+
+
+                                              Convergence Bill, which was to be presentedto the
+                                              Parliament. The main features of the report were
+                                              forwarded to the Government. Inaddition, the
+                                              report has also beenutilized inframing
+                                              recommendations on UnifiedLicensing.
+3 1.   Study on Affordability of              Report o fthe Consultant was utilized for Tariff
+       Telecommunication Services             Rebalancing exercise conducted byTRAI.
+       (Consultant -NCAER, New Delhi)
+32.    Study on Interconnection Benchmarking  Objective o fthe study was to gather international
+     I Ratesfor India (Consultant -M / s      experience on interconnection benchmarking rates
+       OVUM,U.K.)                            1inorder to work out anappropriate rate for India.   1
+Source: TRAI
+
+                                      24
+
+
+Annex C.BorrowerComments
+
+
+               Smt. Aparna Sinha
+               Deputy Director(FB)
+               Tek23093404
+               Fax:23092477
+
+
+
+
+      Dear Ms. Huppi,
+
+             Please refer to World Bank's fetter dated 3rdJune 2008 seeking GO1
+      comments on the draft Project Performance Assessment Report         - World
+      BankassistedTelecom Sector ReformTA Project.
+
+             This Department had taken up the matter with Telecorn Regulatory
+      Authority of India (TRAI) and Ministry of Communication & Information
+      Technology (MoC&lT). The comments received from TRAf and MoC&IT on
+      the said draft report are enclosed for your consideration and for appropriate
+      inclusionof the same inthe final report.
+
+             With regards,
+
+
+                                                                 Yours sincerely,
+
+      End: AIA                                                       w/
+                                                                  (Aparna Sinha)
+
+      Ms. Monika Huppi
+      Manager
+      Sector Evaluation Division
+     IndependentEvaluationGroup
+     The World Bank,
+      1&?8 H Street N.W.,
+     Washington D.C. 20433 U.S.A,
+     Through New DelhiOffice.
+
+02-112008-Coord                                         3 a t d :94.07.2908
+
+To,
+?he Deputy Director(FB)
+Departmentof EconomicAffairs
+(Fund Bank-VI)
+Ministryof Finance,
+NorthBlock, New elelhi
+
+Sir,
+
+Subject : Telecornrnutllcationa Sector Reform Tecimicai Assistance
+             ProjectL.M.4855-fM Reg Cornnenblviews d DOTOR the draft
+                                     -
+             projectperformanceassessmentreport
+
+
+      With reference to Department of Economic Affah O.M. No.711197-FB.VI
+dated 9" June 2008, f am directed to inform that the ghm~afjonin respect of
+                                                             is on the
+the ImplementationCompletionReportand we have no
+TRAI made in the Draft Project PerformanceAssessmentZ-sortcommentstoline of
+                                                                       offer
+on the subject.
+
+
+                                                            Vmrs faithfuIty,
+                                                                  A
+
+
+
+
+                                                         Tei No. 23231929
+
+                                26
+
+
+                             Nd. 8/39/2005-Restg.
+                      Ministryof Communicationsand IT
+                      Departmentof Telecommunications
+                20, Ashoka Road, Sanchar Bhawan,New Delhi.
+
+                                           '   Dated: lgthSeptember,2008
+
+
+                          OFFICEMEMORANDUM
+
+
+
+Subject       India -Telscom  Sector Reform TA project Comments on
+                                                         -
+              draft ProjectPerformanceAssessmentMissionregarding.
+
+
+      T!w undersignedis directedto refer to your Office OM No. 711197-FB-
+VI d&es PJum2008 on the above subject and to convey the comments of
+the Dqmiment inthe enclosedAnnexure on some specific Parasof the draft
+Project ?erformance Assessment Report of Independent Evaluation Group
+(IEG), b"P'orldSank on "India Telecommunications Sector Reform Technical
+                             -
+Assistance Project". The Department agrees with remaining paras of the
+above said draft report.
+
+Enclcsxe: As above.
+
+                                                                --%-Ad
+                                                            (S.P.Sharma)
+                                                  Under Secretary (Res$.)
+                                             Ph: 233720681FAX: 23372499
+
+Comments of Deparfment of Tslecorn on draft Project Performance
+Assessment Report of independent E v a w n Group, World Bank on
+"India Tetecorn Sector Reform Vechniczd rcsSIsaaKlcePr~iect"
+       -
+Para4.5   Consultants were hired in the voject as and when it was
+          required.
+
+Para4.6   WPC Wing of the Departmer;*,:?sictaken advice from PMC on
+          each and every issueduringtheir tP-nUre under the project.
+
+Para4.8   Contractors couid not complete tfre works on time, due which
+          loanamount couid not befully udikzecf.
+
+Para 6.5  Report mentioned that perskeiit . belays continuing after
+          extension of the project closing 4Se led to the canceltation of
+          the SHF part of the project has been proposed for cancellation
+          as the Contractors are unable   meet technical specifications.
+
+Para 6.6  Report stated that Automated +wetrum Management System
+          (ASMS) was installed and p&h:ljj       wtomated. This is not
+         correct. The ASMS has been r t e fully operational and is in
+          US@.
+
+Para 6.7 The draft NFAP 2005 is c M f b@ngfinalized taking into
+         account the recommendationcf -FJWRC 2007.  -
+Para 7.10 Due to inadequate staffing, the&?u`potentialof ASMS and NSMS
+         could not be exploited,
+                                  ***
+
+

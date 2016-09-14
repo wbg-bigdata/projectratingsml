@@ -1,0 +1,1196 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No: 22281
+IMPLEMENTATION COMPLETION REPORT
+(CPL-41460; PPFB-P2940)
+ON A
+LOAN
+IN THE AMOUNT OF US$10 MILLION
+TO THE REPUBLIC OF
+KAZAKHSTAN
+FOR A
+REAL ESTATE REGISTRATION PILOT PROJECT
+June 1, 2001
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective March 19, 2001)
+Currency Unit = Tenge
+1 Tenge = US$ 0.007
+USS 1 = 145.5 Tenge
+FISCAL YEAR
+January 1 -  December 31
+ABBREVIATIONS AND ACRONYMS
+BTI                 Bureau of Technical Inventory
+CEL                 Committee for External Loans
+CIS                 Commonwealth of Independent States
+CRS                 Committee for Registration Services
+GIS                 Geographic Information System
+GISKhAGI            State Institute for Agricultural Aerophotogeodetic Research
+GosNPCzem           State Scientific Research Center for Land
+GPS                 Global Positioning System
+ICB                 International Competitive Bidding
+IT                  Information Technology
+Land Committee      State Committee for Land Relations and Land Management, later reorganized into
+the                        Republican Agency for Management of Land Resources
+MOJ                 Ministry of Justice
+NGO                 Non-government organization
+OED                 Operations Evaluation Department of the World Bank
+PIU                 Project Inplementation Unit
+PPF                 Project Preparation Facility
+QAG                 Quality Assurance Group of the World Bank
+RDBMS               Relational data base management software
+TOG                 Technical Oversight Group of the Project Implementation Unit
+Vice President:   Johannes Linn
+Country Manager/Director:    Kiyoshi Kodera
+Sector Manager/Director:   Joseph Goldberg
+Task Team Leader/Task Manager:    Edward Cook
+
+
+
+FOR OFFICIAL USE ONLY
+KAZAKHSTAN
+KAZAKHSTAN REAL ESTATE REGISTRATION PILOT PROJECT
+CONTENTS
+Page No.
+I. Project Data                                                                          1
+2. Principal Perfornance Ratings                                                         1
+3. Assessment of Development Objective and Design, and of Quality at Entry               2
+4. Achievement of Objective and Outputs                                                  4
+5. Major Factors Affecting Implementation and Outcome                                   13
+6. Sustainability                                                                       14
+7. Bank and Borrower Performance                                                        15
+8. Lessons Learned                                                                      17
+9. Partner Comments                                                                     18
+10. Additional Information                                                             22
+Annex 1. Key Performance Indicators/Log Frame Matrix                                    23
+Annex 2. Project Costs and Financing                                                    24
+Annex 3. Economic Costs and Benefits                                                    26
+Annex 4. Bank Inputs                                                                    27
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components                    29
+Annex 6. Ratings of Bank and Borrower Performance                                       30
+Annex 7. List of Supporting Documents                                                   31
+This document has a restricted distribution and may be used by recipients only in the
+performance of their official duties. Its contents may not be otherwise disclosed without
+World Bank authorization.
+
+
+
+
+
+
+Project ID: P046044                                        Project Name: KAZAKHSTAN REAL ESTATE
+REGISTRATION PILOT PROJECT
+Team Leader: Edward C. Cook                                TL Unit: ECSSD
+ICR Tvpe: Core ICR                                         Report Date: June 13. 2001
+1. Project Data
+Name: KAZAKHSTAN REAL ESTATE REGISTRATION L/C/ITFNumber: CPL-41460;
+PILOT PROJECT                                                  PPFB-P2940
+Country/Department: KAZAKHSTAN                                             Region: Europe and Central
+Asia Region
+Sector/subsector: AG - Agency Reforn; BI - Institutional
+Development; UM - Urban Management; VM -
+Natural Resources Management
+KEY DATES
+Original            Revised/Actual
+PCD:  01/26/1995                               Effective: 08/16/1997          08/11/1997
+Appraisal:  06/28/1996                                 MTR:
+Approval:  04/03/1997                               Closing: 06/30/1999           12/31/2000
+Borrower/lImplementing Agency: REPUBLIC OF KAZAKHSTAN/MINISTRY OF JUSTICE
+Other Partners:
+STAFF                 Current                                    At Appraisal
+Vice President:      Johannes Linn                               Johannes Linn
+Coutntry Manager:     Kiyoshi Kodera                             Yukon Huang
+Sector Manager:       Joseph Goldberg                            Michael Gould
+Team Leader at ICR:   Edward Cook                                Edward Cook
+ICR Primary Author:   Edward Cook; Gavin Adlington
+2. Principal Performance Ratings
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly
+Unlikely, HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+Outcome: S
+SustainabilitN: L
+Institutional Development Impact: SU
+Bank Performance: S
+Borrower Pe7formiance: S
+QAG (if available)        ICR
+Qualitv at Entry:                         S
+Project at Risk at Any Time: No
+
+
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+3.1 Original Objective:
+The original objective of the Project was to support, on a pilot basis, the establishment of a national
+registration system of real estate rights and transactions in accordance with the Presidential Decree with
+force of law On Registration of Dec. 25, 1995 (Registration Law), so as to provide tested and elaborated
+procedures for eventual nationwide implementation. Introduction of the system should result in increased
+sales, lease, and mortgage transactions involving real estate, thereby contributing to the economic
+development of the country. The project will also test the use of digital maps in support of the registration
+system for potential wide application in the future.
+A decision was taken by the Bank and the Govemment during preparation to limit the Project to a Pilot
+basis, focusing on key areas of the country (Almaty Oblast, Almaty City, Akmola Oblast, and Astana
+City). The tasks facing the Government following the adoption of the Registration Law were two-fold: (i)
+physically set up the registration offices under the Ministry of Justice and build implementation capacity
+within the Ministry of Justice; and (ii) elaborate procedures for the functioning of the registration system,
+including a plan for information sharing with other agencies and a delineation of the longer-term role of
+these agencies in the functioning of the registration system. Given the obstacles faced in establishing the
+new registration offices, and the need to elaborate registration procedures and inter-agency working
+relations, and the need to test the system quickly, the Pilot approach was adopted.
+The Government and the Bank were both committed to finding low-cost, pragmatic solutions to the
+problems posed by establishing the registration system. A good deal of information on land and real estate
+existed at the time of Project preparation. By going with a Pilot approach with a more limited
+implementation timeframe than a typical full project, there was greater emphasis on utilizing the existing
+and available information, lather than investing large sums of money in the generation of new information.
+These Project design decisions greatly enhanced the chances of satisfactory completion of the Project
+objectives.
+3.2 Revised Objective:
+The original objective was not revised, except to add the testing of additional mapping technologies for
+potential wide application in the future.
+3.3 Original Components:
+Component; Cost; Rating
+INSTITUTION BUILDING;  $2,000,000.00;  S
+REGISTRATION SYSTEM; $7,900,000.00; S
+MAPPING; $700,000.00; S
+REFINANCE OF PPF; $1,500,000.00; NR
+The Institution Building Component included training, technical assistance, and establishment and
+operation of the Project Implementation Unit (PIU). The training program was to consist of three tracks.
+The first was to focus on legal specialists in registration (both the registrars in the local offices and
+specialists at the oblast and national levels) providing in-depth training in the existing legislative base and
+case-studies of complicated situations or problems in registration of rights in immovable property, as
+demonstrated by the experience of other countries. The second training program was to focus on operation
+staff at the local level and to cover operational procedures, interaction with the client, data base
+- 2 -
+
+
+
+management, as well as providing basic coverage of the legal issues and legal implications of the
+registration system. The third training program was to address computer software, with general training
+for operational staff and more in-depth training for those staff responsible for system maintenance. Two
+training centers were to be established, one in Almaty and one in Astana.
+The technical assistance program was to consist of a team of foreign consultants providing expertise in the
+areas of operations of registration systems, legal issues, land cadastre, information technology, and real
+estate market development. Local consultants were to be hired to assist in drafting legislation and
+regulatory documents, in the development of the information technology system, and in project management
+and implementation. These consultants were to function within the context of the PIU, which was to be
+attached to the Ministry of Justice. The PIU was to function to bridge the gap between the Ministry of
+Justice and other agencies involved in implementation of the Project. The Head of the PIU was to be
+staffed by a legal expert, with other positions allocated for land cadastre and real estate specialists. Within
+the PIU, a technical oversight group (TOG) was to be established to manage the information technology
+aspects of the Project.
+The Registration System Component was to establish the registration offices of the Ministry of Justice and
+to define the linkages between those offices and the corresponding offices of the State Land Committee and
+the Ministry of Construction in the efficient functioning of the new registration system. The component
+entailed locating premises and staff for the new registration offices, elaborating procedures for the
+operation of the registration offices, defining operational procedures for the Land Committee and Ministry
+of Construction (architects') offices in support of the registration system, and elaboration and testing of
+automation of the registration system. The Project was to first elaborate the functioning of the registration
+system on a paper basis, and then address conversion to an automated system. Under the automated system
+the cooperating organizations were to be linked by a Local Area Network (LAN). Oblast registration
+offices were to be established to support implementation of the Project at the rayon level and to serve as
+information centers on the basis of linkages with the automated data bases in the rayon offices. A national
+level registration unit was to be established subordinate to the Ministry of Justice.
+The Mapping Component was designed to test on a limited scale digitization of maps. The objective was to
+elaborate methodologies for utilization of digital maps, train staff in this area, and examine the economic
+costs and benefits of shifting from paper-based to digital maps. During implementation of the Pilot Project,
+Government was to undertake a thorough assessment of the adequacy of existing maps, and the need for
+production of new base maps over the medium to longer-term in support of the registration system.
+3.4 Revised Components:
+The major changes in Project design consisted of the following. Very early in implementation it
+was decided to remove the Ministry of Construction (architects') offices from the Project. This
+was due to the increasingly limited value that these offices could provide to the functioning of the
+registration system and the complications associated with having to coordinate the functions of a
+third agency. It also became clear that the Ministry of Construction was no longer in a position to
+manage or control the local architects' offices.
+Project design was also influenced by changes in administrative boundaries, as the former
+Taldy-Kurgan Oblast was amalgamated into Almaty Oblast, Astana (former Akmola) was given
+independent status vis a vis Akmola Oblast, the administrative center of Akmola Oblast was
+moved to the city of Kokchetau, and three rayons from the former Kokchetau Oblast were added
+to Akmola Oblast. There was also amalgamation of rayons within these Oblast structures. The
+- 3 -
+
+
+
+net effect was to increase the number of rayon registration offices to be established from 34 to 39
+and to add an additional city office for Astana (with the movement of the Akmola Oblast office to
+Kokchetau).
+A decision was also made to downgrade the capacity of the file servers and number of computers,
+particularly at the rayon level, based on accumulating problems in utilization of GIS at these
+locations, and more reliable information on the number of daily transactions in these locations.
+The Mapping Component was expanded to test some additional technologies, including the
+production of overlays for the entry of cadastral information onto existing base maps, production
+of new base maps for the city of Astana, and scanning of existing 1 :10,000 maps, to serve as a
+basis for index maps for rural settlements.
+3.5 Qualitv at Entry:
+There was not a standardized QAG assessment of quality at entry for this Project. Particular efforts were
+made to ensure that the Project was ready for implementation. As a condition of effectiveness for the Loan,
+the Government was required to resolve the issue of staffing and premises for the new registration offices.
+This was solved by transferring the existing Bureau of Technical Inventory (BTI) offices to the Ministry of
+Justice. In addition to staff and premises, this also provided a relatively good data base on real estate. The
+decision was also taken that the new registration system would operate on a fee for service basis, in
+accordance with the practice of most countries around the world, thereby reducing the counterpart
+financing requirements coming from the national budget.
+The Pilot Project made use of a Project Preparation Facility (PPF) that allowed for consultants to be
+selected and hired well ahead of implementation and to assist in the latter stages of project preparation.
+Italian Trust Funds were utilized to provide technical assistance for procurement, including in the
+preparation of bidding documents. At the time there were no formalized financial management
+requirements for negotiations or Board presentation. While these issues were addressed over time, more
+could have been done during preparation of the Project in setting up the Project reporting formats, and
+financial management system.
+During preparation of the Project a tripartite agreement was signed among the Ministry of Justice, the State
+Land Committee, and the Ministry of Construction concerning their commitment to the objectives of the
+Project and their willingness to cooperate in its implementation. In retrospect, this agreement proved to be
+of limited value in practice. More could have been done during preparation to actively engage the Land
+Committee in project design and agreement on detailed steps of project implementation.
+The relatively simple design of the Project allowed for establishment of straightforward indicators of
+progress on both project implementation and impacts.
+4. Achievement of Objective and Outputs
+4.1 Outcome/achievement of objective:
+The primary objectives of the project have been met successfully and achievements have gone beyond the
+scope of the original design. Registration offices are successfully established across the whole country, not
+just the Pilot project Oblasts. They are financially secure, well managed at Republic and Oblast level and
+catering for an ever-increasing number of transactions. Increases in real estate market activity, including
+information services, sales, leases and mortgages, were 29% over the period from 1998 to 2000. This is
+- 4 -
+
+
+
+evidence of increased investment, even though the economy was negatively impacted by the Russian
+financial crisis of August 1998 and a drop in world oil prices during this period.
+The project has had its most significant impact in urban areas where there is a reasonable level of
+investment, economic activity and collateral for mortgages. There has not been the hoped for development
+of agricultural land policy, and indeed of agricultural profitability per se, that would support the more
+active development of sales and mortgage markets in rural areas. For the time being, rural land markets
+remain depressed and real estate values are low. There is weak incentive for the rural population to be
+involved in real estate transactions, and in many cases they are unable or unwilling to travel and pay fees
+for surveys, documentation or registration.
+(i)    Support on a pilot basis the Borrower's efforts to establish a national registration system
+Market economies rely on the ability to use real estate for economic development. There is a basic
+requirement for businesses or industry to own or lease properties in order to operate and obtain capital, and
+for the general public to own or rent premises for living. A registration system is essential support to enable
+this to be possible. The system should be accurate, reliable, simple to understand, inexpensive and quick
+to be able to provide the services needed.
+The registration system in Kazakhstan meets the above criteria in most cases. There have been very few
+cases of errors and the public generally accepts the need to register and believes in the security it provides.
+Fees for registration are reasonable, although they were reduced by roughly 10-15 percent in early 2000
+following the passing of a new law on budget and discussions with the anti-monopoly commission.
+Registration occurs within ten days by law, this is a reasonable time frame compared with other countries,
+but it could be improved (to one day) in order to provide a better service to the clients.
+The costs associated with transactions remain excessive. The general requirement for inventory if one has
+not been completed within the last six months and the cost of production of a State Akt for land when no
+field survey is involved increase costs and are unwarranted. It is still common to produce a second State
+Akt for land for clients when there is a sale, even though this is unnecessary.
+(ii)    Test the use of digital mapping in support of the registration system
+Cadastre maps are an essential component of the registration system. Automated systems are in use in most
+economically developed countries for storing, retrieving and updating these maps. The project tested
+production of digital maps by scanning existing maps, comparing them with recent photography and doing
+field updates where necessary. This was as planned for the project. The results showed considerable
+differences between the different sources and it was difficult to produce a final product. The Contractors
+found the work more time consuming and technically complicated than they had envisaged. The results
+were not integrated into the Almaty City Land Committee digital mapping system.
+A second trial, which was not envisaged in the Staff Appraisal Report (SAR), was conducted for Astana
+City. In this experiment new photography was acquired and photomaps were produced. These were then
+used as the base for plotting boundary information. A complete set of index maps was thus produced. The
+contract highlighted numerous cases where the original cadastre information was in error and it was
+possible to correct the faults before legal disputes arose. A very useful by-product of the Astana trial was
+the demonstration of the usefulness of the mapping for City authorities for their general information and
+planning in all other departments. This trial clearly showed the best future methodology. It has been
+adopted and already other cities outside the pilot have adopted the methodology.
+- 5 -
+
+
+
+Many settlements had no maps of any sort or maps that were extremely old. It is expensive to produce new
+maps and as there are very few transactions in smaller towns and settlements, it is difficult to justify the
+expense. A third set of trials was carried out with scanning existing aerial photography and producing a
+photo mosaic in which properties could be uniquely identified and cadastre identifier numbers issued. This
+provided a basic cadastre map at very little cost and also information for local administrations. These
+settlement plans were also greatly appreciated by both the Land Committee offices and local
+administrations.
+4.2 Outputs by coinponents:
+1.    Institution Building
+(a)    The Project Implementation Unit.
+The Project Implementation Unit carried out its basic functions (accounts and record keeping, procurement,
+and monitoring) in a satisfactory manner. There were significant delays with the procurement of
+information technology (IT) due to difficulties in finalizing the technical specifications, the processing and
+clearance requirements of the Committee for Extemal Loans (CEL), and the complications of the ICB
+procedures. The staff and consultants dealing with legislation and registration performed their tasks with
+great success. Many of the weaknesses of the Project with regard to cadastre and information system
+development (see comments below) were directly a result of inadequate work, inadequate consultant input,
+poor management and failure to act on issues and weaknesses reported in the Aide Memoires. The PIU
+functioned for the major part of the Project without a Director and following the move of the Government
+to Astana, the Ministry of Justice did not provide the necessary oversight and supervision.
+A criticism from the major registration and cadastral offices was that their opinions were not taken into
+account when equipment purchases were made or software developed. This is more relevant to the larger
+offices where equipment needed to conform to existing systems and software functionality is more critical.
+Criticism of the equipment and software provided included:
+*   computer and periphery equipment were 'old stock' by the time they arrived, they lacked local support;
+and supplies were expensive or only available extemally (this criticism only came from Almaty City
+offices);
+*   the photocopying machines were of poor quality and constantly break down;
+*   the equipment could all have been bought more cheaply locally and would have the benefit of local
+support;
+*   there was no, or little, notice taken of user requirements when the software was under development; and
+*   software delivered was untested and needed considerable work to make it usable, the developers were
+no longer available to give assistance once the PIU disbanded.
+Fumiture supply has been much appreciated and is of good quality.
+The information technology that was to be produced under the project was only marginally successful. A
+system for registration was produced and is in use in most rayon offices, but there is no graphic component
+developed. Very little of the high-end relational database management or GIS software purchased has been
+used. The Technical Oversight Group responsible for development of the IT system were extremely slow in
+- 6-
+
+
+
+developing the software and took very little notice of the user's requirements. Development was expected to
+take a year but in fact took the complete length of the project and was completed without the necessary
+functionality, testing or manuals. No linkage between the registration offices and Land Committee offices
+was developed. The purpose of the Project was to set up the system for registration of rights. When the
+former BTI offices were transferred to the Ministry of Justice to serve as the basis for the registration
+system, they retained their earlier functions, including physical inventory of residential structures, and
+appraisal. The software developed for the Project was designed to handle registration of rights and not the
+other functions of the former BTIs. This lack of additional functionality and other perceived weaknesses
+with the software developed by the Project resulted in the Almaty City registration office keeping the
+software they had developed in-house. All other offices use the software and are fairly satisfied with it. The
+Almaty City Land Committee retained their own software and have numerous packages of Oracle database
+and GIS software that have not been utilized. The Astana City Land Committee have made good use of the
+Oracle and GIS software provided, but had to develop their own applications. Input from the PIU in this
+area was of little help.
+The PIU was designed to bridge the gap between the Ministry of Justice and the Land Committee, with a
+good portion of the staff of the PIU earlier associated with the Land Committee and its related
+organizations. While the PIU did function as a communication link between the two agencies, the link with
+the Land Committee was never sufficiently strong to carry out the intended coordination functions. This
+was in part due to the position of the Land Committee that the PIU was not "theirs". The prime
+requirements of the project were achieved thanks to work completed by the registration and legal specialists
+of the PIU and excellent work by senior staff in the individual registration offices. Overall, the work of the
+PIU and the TOG was only marginally satisfactory.
+(b)    Technical Assistance
+Assistance in legislation and registration was critical to success of the project and overall achievement of
+the objectives. Legal and registration advice played a critical role in ensuring that training, registration
+procedures and practice were of a high quality. This was the primary activity necessary to meet the overall
+objectives of the project and it was extremely successful.
+Four different persons were used for cadastral assistance, but none achieved the required results. This was
+in large part due to the fact that they had little support or cooperation from the Land Committee, and the
+PIU was unable to effectively bridge this gap. When issues were identified by the consultants, these were
+not acted upon either by the PIU or the Land Committee, and many good recommendations were ignored. A
+final consultancy to help prepare cadastral standards was completed and accepted, however at the close of
+the Pilot Project they were still stuck in the process of bureaucratic clearance.
+Technical assistance for registration was extremely effective and was largely responsible for ultimate
+success of the project, but the consultant team as a whole must bear some of the responsibility for not
+providing sufficient project management guidance to the PIU and not more actively addressing the
+problems associated with the cadastral and IT activity.
+(c)    Training Programs
+Registration training was provided in over 30 seminars and other classes with full involvement of the
+consultants and the PIU. Training was comprehensive and successfully enabled all registration offices to
+establish and operate. A comprehensive registration manual was provided for continued reference material
+and guidance. The principles and courses were used when the Committee for Registration Services
+- 7 -
+
+
+
+implemented training across the country. Registration software has been installed throughout the rayons of
+Almaty Oblast and in a few of the rayons in Akmola Oblast. Adequate training has been given to operate
+the software.
+Training in cadastre did not start until the latter part of 1998 and then was short and inadequate. Most
+training for Land Committee staff has concentrated on the use of survey equipment or GIS software but the
+procedures for operating a cadastre office and maintaining cadastral maps and archives have been largely
+ignored. No manual has been produced for these functions.
+Survey equipment training was also too brief. It was generally provided by suppliers and not subject
+specific (i.e. related to cadastre). Most users in rayons could not operate the survey equipment at all when
+they returned to their bases. Some of the larger offices and Oblast offices do make good use of the
+equipment, but rarely has the full capacity of the equipment been utilized, especially with regard to the
+software provided to automate data gathering, computation and plotting. (This was only in evidence in
+Astana City and was due to the innovation and self-study of the staff concerned). This is not considered a
+serious issue as the Land Committee has realized the problems and better use has been made of the
+equipment over the last year. The leaming process continues and the Land Committee has the resources to
+fully utilize the equipment.
+GIS and RDBMS training has been given, but there has been very little use of any GIS software in the
+country. In all, 301 person-courses have been conducted covering all aspects of the software and system
+management. The courses were generally too brief and follow-up courses are needed. GISKhAGI and the
+Astana City Land Committee offices are making some use of their GIS capacity, but not to its full extent
+and a much less expensive package could have done the same work. Astana City have the commitment,
+resources and ability to make good use of the equipment and software provided, but additional courses in
+Oracle and ArcInfo should have been provided to get maximum benefit from such expensive software. By
+far the majority of the $620,000 spent on GIS software has been unutilized. Again, the deficiencies have
+been realized by the Land Committee and there are plans to make better use of the software. However, if
+there is no follow-on project it is not clear how this will be accomplished.
+Training equipment and cadastre courses were established at Schuchinsk in Akmola Oblast during the
+project, but have now been removed to Astana and the equipment is being used in daily production work.
+The Land Committee does not have the funds to continue the training even though they realize its
+importance. In Almaty the cadastre training centre at GISKhAGI remains and continues to conduct
+courses. The two training centres for registration in Astana and Almaty are still operational and well
+utilized.
+Training in registration was highly satisfactory, but training in cadastre and GIS was unsatisfactory.
+2.     Establishment of the Registration System
+(a)    Establishment of Registration Offices
+The registration offices have been successfully established throughout the pilot project sites. Both the
+registration and Land Committee offices have been renovated, provided with furniture and equipment, and
+operate in a modem and comfortable environment. Staff morale and operating procedures have been greatly
+improved with this assistance.
+-8 -
+
+
+
+*  S491,600 was expended on furniture and photocopiers. These are a minimum requirement even for
+small rayon offices that work on a paper base and have made operations possible throughout the Pilot
+area.
+*   Renovations were undertaken using Government counterpart funds, with the goal of co-locating the
+registration and Land Committee offices where possible, but not all offices under the pilot project were
+renovated. This is a problem more generally related to access to government counterpart funds
+throughout the project, which became a particularly severe problem from the latter half of 1998 on.
+*  $415,700 was expended on survey equipment (GPS and Total Stations). This equipment is now
+generally put to good use, (there was a long 'lead time' before the equipment was effectively used
+because training was inadequate). The equipment has enabled the Land Committee to perform more
+cadastral surveys and more accurate cadastral survey work. Some of the smaller rayons received the
+equipment, but have not been able to use it.
+*   $1,656,700 was expended on computers and ancillary equipment. This equipment is generally put to
+good use. The majority of the pieces are used for general office procedures. Some of the smaller rayons
+received the equipment but have not been able to use it.
+*   $748,800 was expended to purchase RDBMS and GIS packages. Very little of this is in use and it is
+probable that much simpler and cheaper packages could have performed the same tasks. The Astana
+City Land Committee, the two Oblast Land Committee centres and GISKhAGI have made some use of
+the software, but by far the majority of this expenditure has not been utilized.
+*   $295,900 was expended on mapping and mapping equipment. This has been valuable work and more
+could easily have been spent. However, results of trials were not achieved until fairly late in the project
+and there was insufficient time to expend more in these areas.
+In all $3,608,711 was expended on the above goods. This was nearly $2 million less than budgeted. The
+savings mainly accrued from the numbers and costs of computer equipment. The registration offices have
+the income and resources to maintain and replace equipment and facilities as they are needed.
+Unfortunately this is probably not true for the Land Committee and sustainability of Land Committee
+services is an issue that needs to be addressed.
+Manual linkages between the registration and Land Committee offices have been created, and there are
+procedures that have been developed to sustain and improve on those links. The links are not automatic or
+foolproof and could be further improved. It is still possible for clients to obtain State Akts for land and
+other documents at the Land Committee, but fail to register their rights in accordance with the law. During
+implementation of the Project, the Bank has proposed establishment of obligatory linkages between the
+work of the Land Committee and registration offices. For example, that the Land Committee would not be
+allowed to issue final versions of documents until the rights in question had been duly registered. These
+recommendations have not been acted upon by Government.
+Notaries are required to ensure that registration at the registration offices has occurred before notarizing a
+second transaction, but there have been mistakes and the system does not pick them up. There are cases
+where cadastre numbers are duplicated or where the same property has more than one number, but these
+are located by the registration software and rectified when registration occurs.
+-9-
+
+
+
+Committeefor Registration Services (CRS)
+When the project commenced the Ministry of Justice (MOJ) had no offices or capacity to fulfill essential
+registration services. Shortly before the project commenced they took over the BTIs, and have since
+converted them all into registration offices, while they retain other functions of the former BTIs. In the
+larger cities, these offices have allocated space on their premises to notarial services, and also provide legal
+advice.
+The project concentrated on the establishment of registration offices in Almaty and Akmola Oblasts and the
+cities of Almaty and Astana, however, the Committee for Registration Services (CRS) have used the
+regulations, procedures, training schemes and manual developed under the Pilot to establish a registration
+system throughout the country. A national CRS has been established during the project period and Oblast
+level affiliates of the CRS have been established. These offices support and direct the various city and
+rayon offices within the Oblast.
+Initially there were 34 rayons within the two Oblasts, but there was some amalgamation of Oblasts and
+some amalgamation of rayons. Taldykorgan Oblast was included within Almaty Oblast and part of
+Kochetau Oblast was included within Akmola Oblast. This increased the area covered by the project. By
+the end of the project a national headquarters, Oblast offices in Almaty and Kochetau, City offices in
+Almaty and Astana and 39 rayon or city offices were renovated, furnished and equipped. All pilot offices
+for registration received training and a comprehensive manual was distributed. An automated registration is
+in use in most offices and good services at a reasonable price are provided to the public.
+The offices began by using paper technology and the regulations require paper records. However, as most
+offices are now automated the paper records are often superfluous and unused. In Almaty it is a great
+expense to keep updating and maintaining paper records for no apparent purpose and the requirement
+should now be removed from the regulations.
+Various supporting forms and documents had to be designed for the registration system to flmction
+effectively. These includes regulations on fees, the form of the register, cadastral numbering and the
+allocation of land parcels and condominium land parcels. In total more than 20 government and department
+normative documents were developed and approved. These included schemes, agreements, regulations and
+the comprehensive and very important registration manual. This work has progressed very effectively and
+enabled an efficient and effective registration system to be developed. Work has continued throughout the
+project on developing a full Law on State Registration of Rights to replace the Decree of the President of
+the Republic of Kazakhstan with a Force of Law "On State Registration of Real Estate Rights and
+Transactions" dated December 25, 1995. The new draft Law on Registration has not received adequate
+support from the Ministry of Justice in terms of submitting it to Parliament for consideration. After a long
+period of delay, it was placed on the agenda of the Parliament not by normal channels of Government
+submission, but by action of the Parliamentary deputies themselves. It is still awaiting action by the full
+Parliament.
+The CRS is financially self-sustaining and appears to have a secure and sustainable future. Although the
+CRS is not a profit organization it has made a reasonable profit in each of the last four years. The work
+under this section is highly satisfactory.
+Land Committee offices
+Most of the rayon Land Committee offices have been provided with base maps, and cadastre blocks have
+- 10 -
+
+
+
+been defined and plotted on these maps. Some of the rayon offices do not keep information for rural lands
+as this is managed at the Oblast level. All rayons maintain maps for the settlements, issue cadastre parcel
+numbers, print State Akts for land and provide a customer service facility. Some of the smaller rayons were
+not given survey equipment and do not undertake surveys. Although there is some justified criticism of the
+way in which cadastre maps are maintained and archived (see below), there has been a great improvement
+in services to clients and coordination with the registration offices during the course of the project.
+Land Committee offices existed across the country prior to the Pilot Project. They are still budget-financed
+and are severely underfunded for the services they are expected to perform. The Project has emphasized the
+transfer of functions from the oblast to the rayon level. This has improved customer service. The rayon
+Land Committee offices are now generally located in the same building, or very close to, registration
+offices and this has helped with coordination of activity and the prevention of duplication of records or
+records that contradict each other. Offices have been renovated, furnished, equipped and now utilize unique
+cadastral numbering systems and automated State Akt issuance software. The provision of computers,
+survey equipment and office equipment has had a marked effect on the quality of service provided to the
+public.
+Cadastre index maps are required to support the registration activity and to ensure that parcels are not
+duplicated, do not overlap or are improperly identified. The underfunding mentioned above and a reluctance
+to accept new procedures has resulted in a service that is expensive to the public and generally (there are
+some notable exceptions) does not provide adequate index maps. The index maps are often of poor quality
+or on materials that are not durable, properly archived or indexed. The proposed Roll-Out Project would
+include more base mapping and index mapping than was possible in the Pilot, allowing these problems to
+be rectified.
+The linkage between the CRS and the Land Committee offices
+One of the objectives of the project was to demonstrate how Land Committee and registration offices could
+be linked on line to: ensure that all land parcels were registered; ensure conformity of records; have rapid
+access to each other's database for updates of information or dealing with enquiries and disputes; and make
+operations simpler, more convenient and more efficient for the clients. This has not been achieved in any
+location and this aspect of the Project must be considered unsatisfactory.
+(b)    Database Management Practices
+This sub-component was adversely affected by delays in production of the software, the lack of a graphics
+module for the software and failure to link the cadastral and registration data. These have been referred to
+above.
+Database management is now the responsibility of Oblast registration offices or the City registration offices
+of Astana and Almaty. Twenty-three people attended a course in RDBMS administration and 30 people
+attended courses on network and system administration. The courses were considered useful but
+insufficient. Each of the Oblast and City offices have suitable system administrators.
+Although there are existing system administrators and a database management system in each office, the
+system does not have all the functionality that was required under the project. Thus, this sub-component is
+only marginally satisfactory.
+3.     Map Production
+- 11 -
+
+
+
+The pilot project did not intend to produce maps, only to identify needs and the methods for production.
+Trials were conducted as outlined in section 4.1 (ii). This has resulted in a satisfactory methodology being
+developed and a clear direction for future mapping activity. Plans for the Roll-Out Project include a full
+plan for new base mapping, index mapping and the use of alternative methods where the cost of new
+mapping cannot be justified. The survey equipment necessary to augment the mapping has also been
+detailed.
+GISKhAGI have benefited from the equipment supplied and the experience gained in the Astana contract
+work. After several years of under-employment and the danger of closing down altogether they are now
+confident that they can continue activity and supply services to clients. The samples produced from the
+Astana mapping and settlement photomaps are being used for marketing their products and they have
+received many orders for similar work. They have already produced maps for Pavlodar City, which were
+paid for by the city budget, and are producing settlement plans for Pavlodar Oblast. The Astana office of
+GosNPCzem, a state enterprise affiliated with the Land Committee, is producing similar maps and services
+for North Kazakhstan Oblast cities and settlements, also for profit. Many other clients are in the process of
+locating funds for similar services. This is a direct result of the Pilot Project.
+GISKhAGI are also providing the Almaty based training, which continues, and they are now in the position
+to benefit from the additional equipment and mapping contracts envisioned under the Roll-Out Project.
+An issue that arose during the project concerned the parcel numbering for condominiums. This requires
+agreement from city authorities, participation from residents and survey of the boundaries. This work is
+required to help establish condominium associations for the maintenance and management of common areas
+and for providing a cadastral number for registration of apartments or other units within a
+multiple-ownership block. This issue requires attention during the Roll-Out project and has been fully
+planned and included within the implementation plan for that Project.
+4.3 Net Present Value/Economic rate of return:
+not applicable
+4.4 Financial rate of return:
+not applicable
+4.5 Institutional developmnenit impact:
+The project has had a major institutional development impact. Not only were the Republican CRS, and
+oblast and rayon registration offices established in the regions included in the Pilot Project, but such offices
+have been established nationwide. A comprehensive procedure manual and supporting legislation developed
+under the Project assist them in their everyday operations. The example set by the Pilot Project has been
+used by the CRS to establish the remaining Oblast offices in the country. Rayon and city level registration
+offices in the Pilot area have been transformed into efficient and effective offices providing a good service
+to the community.
+Land Committee offices have also been greatly assisted. The equipment, training and systems developed
+under the Pilot Project have helped to create a more modem and effective service in all Pilot rayons and
+cities. The development is hampered by lack of funds to build on the improvements or to spread the effects
+across the country.
+- 12 -
+
+
+
+5. Major Factors Affecting Implementation and Outcome
+5.1 Factors outside the control oJgovernment or implementing agecvy:
+The Russian financial crisis of August 1998 had a detrimental effect on the economy in general, and real
+estate prices and investment in particular. Similarly, the economy was negatively impacted by low energy
+prices during the middle of the Pilot Project. Although there was growth in real estate activity during this
+time, it would probably have been greater if it were not for these problems.
+A revised draft Land Code was prepared with the participation of the legal consultants to the PIU that
+would have granted greater economic rights in agricultural land, particularly through the introduction of
+sales markets of such land. This draft was submitted to Parliament, but had to be retracted following
+severe political criticism of it by some factions of Parliament and various NGOs. While the rural economy
+remains depressed for a large number of reasons, adoption of this more pro-market legislation would have
+been a step in the right direction.
+5.2 Factors generally subject to government control:
+Project success was largely a result of allowing the registration offices to be financially autonomous and
+thus be in position to recruit good quality senior management and to support office operations.
+The dependence of the Land Committee on budget funding made it impossible for them to provide the level
+of support mapping required for producing registration maps and had an impact on their ability to fumction
+in accordance with the plan for the Project.
+Govenmment failed to respond in a comprehensive manner to warnings repeated in supervision mission
+Aides Memoire conceming the lack of effective coordination between the Land Committee and registration
+offices, particularly the lack of a guaranteed link between maintenance of the land cadastre and the records
+in the registration system.
+Counterpart funding ceased in mid-1998. This effectively halted renovation works and made many
+activities impossible to complete.
+5.3 Factors generally suibject to implementing agency control:
+Over the course of project implementation, four different persons were appointed as Director of the
+Committee for Registration Services of the Ministry of Justice. The position of Head of the PIU was left
+vacant for most of the Project, with limited control exercised over the functioning of the PIU by the CRS.
+This situation became particularly acute following the move of the CRS to Astana in 1998, while the PIU
+remained in Almaty. Accountability for day-to-day functioning of the PIU from this point on was very
+limited. The CRS and PIU took insufficient action on a number of important issues raised in the Aide
+Memoires, particularly concerning simplification of procedures associated with transactions, formulation of
+appropriate cadastral standards and operating procedures, and shortcomings in the development and
+implementation of the automated aspects of the Project.
+Much of the loan was earmarked for implementation and support of the automated registration system. The
+system itself was very late in production and large amounts of software were purchased that remained
+unused, because the system was not ready and training not completed before the project closed.
+5.4 Costs andfinancing:
+During the first half of the Project, counterpart financing was strong, and a good deal of office renovation
+work was carried out. From roughly mid-1998 on, counterpart financing from the budget was radically
+- 13 -
+
+
+
+reduced, to the point where the Government's share of incremental operating costs was not financed.
+Budgetary support to the Land Committee also declined during the life of the Project. Substantial
+Government contributions in the form of premises and staffing of the registration offices were financed
+through collection of fees for service.
+Due to declining prices for automated equipment, the elimination of the Ministry of Construction and
+architects' offices from the Project, and scaling back the IT capacity to be supplied to low-volume rayons,
+substantial savings were recorded in use of Loan funds in comparison with the appraised values. The Bank
+informed Government of this situation, proposed consideration by Government of cancellation of some of
+these savings, and agreed to proposals by Government to finance additional Project activities, primarily
+training of staff from outside the Pilot Project regions, producing new base maps for Astana, and
+undertaking testing of some additional cadastral mapping methods.
+6. Sustainability
+6.1 Rationale for sustainability rating:
+In operational terms, the registration system is firmly established with operational procedures defined in the
+registration manual and legislative changes embodied in the draft revised Law on Registration, currently
+being considered by Parliament. Continued efforts will be required to assess performance of the
+registration offices and provide follow-up training as necessary. For the system to function more
+effectively, greater effort will be required to coordinate with notaries and other professionals involved in
+immovable property to ensure that unnecessary duplication of functions is eliminated and that information
+flows smoothly in a manner to support the further development of markets in immovable property.
+Continued lack of direct coordination between the land and legal cadastres could lead to increasing
+discrepancies over time tha.t will impact the functioning of the system of registration of rights. While there
+has been improvement in this area during the latter half of the Pilot Project, there is still the possibility of
+developing dual systems for treating rights in land -- particularly in rural areas -- one official in the
+registration offices and one unofficial but tacitly functioning on the basis of documents produced by the
+Land Committee offices. The service they currently provide is not sufficient to ensure that there will be an
+effective cadastre and is !Icely to lead to legal disputes over boundaries and ownership. This situation needs
+to be addressed, and the ability of the Land Committee offices to carry out fully and effectively their
+functions as stipulated in the Presidential Decree with force of Law of December 25, 1995 and in the draft
+revised Law on Registration, must be ensured.
+In financial terms, the registration offices are fully self-financing and have a secure future providing
+services to a growing real estate market that relies on their services. This should continue so long as the
+registration offices can retain their self-financing status. It should be noted that there is a proposal to shift
+to budgetary funding. The success of the project and the system as a whole has been highly reliant on the
+quality of personnel that the registration offices have been able to hire, especially senior management and
+IT specialists, and the investments they have been able to make. If their status is changed to a government
+funded enterprise they will most likely lose these people and it could result in collapse of the system. This
+would be detrimental to the investment in real estate and probably entail loss of revenue to the Government.
+With the current financing arrangements, it is unlikely that Land Committee offices will be able to address
+problems identified during implementation of the Pilot Project and will have a difficult time sustaining the
+level of technology provided under the Project. The Land Committee are capable of performing the task and
+should either be given sufficient budget to operate, which is unlikely under the current financial strictures,
+or, preferably, be merged with the CRS. Merger with the CRS would help to ensure fnancial sustainability
+- 14 -
+
+
+
+of both services and ensure the linkage that has proved difficult to implement under the Pilot Project.
+6.2 Transition arrangement to r egular operations:
+Activity of the Pilot Project was wound down during the last year of its implementation. The PIU was
+abolished and its functions transferred to the staff of the CRS. While this was a positive step in more
+directly integrating the functions of the Project with those of the implementing agency, there is a danger
+that the unique expertise on registration of rights that was developed as part of the PIU may no longer be
+drawn upon by the CRS. Govemment should be alert to potential problems in this area.
+The technical assistance provided under the Pilot Project was justifiably concentrated in the first half to
+two-thirds of implementation, with limited and targeted intervention in the last year of the Project.
+The self-financing status of the registration offices should allow them to address basic operating
+requirements of the system, though not necessarily to address in a timely manner weak aspects of how the
+registration system operates.
+7. Bank and Borrower Performance
+Bank
+7.1 Lending:
+The Bank invested a good deal of effort and expense in 1994 and 1995 in assisting in building a consensus
+within Kazakhstan of the importance of rights in immovable property for the functioning of a market
+economy and how those rights should be handled. This included seminars held in Kazakhstan and study
+trips to selected countries in Europe, including Albania and the Netherlands. The Bank also provided
+input, under a tight time constraint, to preparation of the Presidential Decree with force of Law "On State
+Registration of Rights and Transactions in Immovable Property" of December 25, 1995.
+Prior to undertaking preparation of the Project, the Bank insisted that two prior conditions be satisfied.
+Namely, that a viable legislative basis for registration be put in place (which occurred with issuing of the
+above-mentioned Presidential Decree), and that institutional responsibilities for running the registration
+system be decided. Once this latter question was decided, the Bank moved promptly to work with the
+Government to complete preparation and appraise the Project in the course of roughly 6 months, thereby
+responding to the requirements placed before Government by the President to accelerate implementation of
+the Decree. Quality of the Project at entry could have been enhanced with greater input from financial
+management and procurement specialists. Overall, Bank performance in the lending phase is rated as
+satisfactory.
+7.2 Suipervision:
+The Bank undertook regular supervision missions for the Project, in the latter stages in conjunction with
+discussion with Government of the Roll-Out Project. The Bank paid particular attention to the operation of
+the registration system, linkages between the land and legal cadastres, the implementation of the automated
+systems, the linkage between the registration system and transactions in immovable property, and the
+impact of the Project on economic development of the country. Frequent visits were made to rayons
+included in the Project to assess the situation on the ground. Mission findings were carefully enumerated in
+the supervision Aides Memoire, and when necessary issues were brought to the attention of Government by
+the Country Director for Kazakhstan and/or the Resident Representative. The Bank took the lead in
+reducing unnecessary expenditures in the automated systems, when additional information came to light
+after appraisal on capacity requirements at the rayon level. An area where the Bank should have done more
+- 15-
+
+
+
+during supervision was in procurement. While there was technical assistance available, and it was used,
+more active involvement of Bank staff in procurement issues would have been beneficial. There was also
+some uncertainty about the process of filing withdrawal applications with the Bank, which was addressed
+during the course of Project implementation. OED reviewed the quality of supervision for the Project for
+1999 and found it to be satisfactory. Bank performance in the supervision phase is rated as satisfactory.
+7.3 Overall Bankperformance:
+The Project has met its output and developmental indicators, and some of its important benefits have been
+spread beyond the Pilot Project regions to the rest of the country. The Bank demonstrated flexibility when
+a change in Project design was warranted. The Bank's established procedures for procurement of
+information technology thorough ICB contributed to problems experienced in this area during Project
+implementation. Overall Bank performance is rated as satisfactory.
+Borrower
+7.4 Preparation:
+The Government was faced with a challenging task of addressing in a new way the issue of rights in
+immovable property with the transition away from the command-administrative economy. This task was
+handled effectively and reflected on the quality of the Borrower's contribution to the preparation of the
+Project. Critical pre-conditions were met first to undertake preparation of the Project (legal and
+administrative basis for the registration system) and then for Board presentation (solving the problem of
+staffing and premises for the registration offices). A Project Preparation Unit was established and included
+specialists linked with the Ministry of Justice, the Land Committee and the Ministry of Construction. A
+tripartite agreement among these three on support for the Project was signed. Project preparation could not
+have moved as swiftly as it did without solid commitment from Govemment. There was strong ownership
+for the Project in the MOJ and in higher levels of Govemnment. The major stumbling block during
+preparation from the Borrower's side was the proposal for an excessively costly IT program, which put
+technical interests ahead of the true economic and business requirements for automation for the new
+registration system. This point of view had to be constantly countered, though in the end it wound up
+having an impact on the Project (see Lessons Learned, below). Borrower performance during preparation
+of the Project is rated as satisfactory.
+7.5 Government irnplelnentation performance:
+Government took the necessary measures to allow the Project to be successfully implemented. Of
+particular importance was the decision to allow the registration system to function on a self-financing basis,
+in line with the experience of most well-functioning systems worldwide. The areas where Government
+performance could have been stronger were counterpart financing from the budget, which was brought
+down to virtually nothing beginning in the second half of 1998, and resolution of inter-agency coordination
+issues between the Land Committee and the CRS. Overall, the Government's implementation performance
+is rated as marginally satisfactory.
+7.6 Implementing Agency:
+Commitment to the Project declined within the MOJ during the implementation period. Interest from the
+top level of the Ministry was instrumental in getting preparation of the Project successfully completed and
+implementation launched. After the move of the Ministry to Astana, and the placing of the CRS on solid
+footing, the MOJ became noticeably less involved. The MOJ failed to take active steps to introduce the
+revised draft Law on Registration onto the agenda of Parliament. This declining involvement was to the
+detriment of the Project. The CRS generally functioned well, but control over the activity of the PIU was a
+particular weak point. Performance of the PIU, especially with respect to land cadastre and automation,
+suffered as a result. There was inadequate effort from the CRS or the MOJ to open up and maintain a
+- 16-
+
+
+
+stable dialogue with the Land Committee on issues of implementation of the Project. The CRS took critical
+steps to overhaul the management of the former BTIs and to hire office directors with professional legal
+training. There were also initiatives to provide legal advice, notaries services, and other related services
+within the premises of the busier offices. Efforts to improve the quality of service continue, with some
+recent advances in offices such as Almaty city and Astana. In the future, even more attention should be
+paid to the development of a culture of improving client service and to building linkages with other real
+estate professionals on a transparent and open basis. Overall, the implementing agency's performance is
+rated as satisfactory.
+7. 7 Overall Borrower performance:
+The Borrower performed adequately to allow the basic output and developmental objectives of the Pilot
+Project to be met. The two primary obstacles keeping the Project from being more successful was the
+difficulty in getting different agencies to work together in an active and open manner and shortfalls in
+counterpart financing. The overall Borrower performance is rated as satisfactory.
+8. Lessons Learned
+The Project confirmed a number of principles that have been demonstrated in other Bank-financed projects.
+Among these are the following:
+(1) Project quality can be enhanced by listening to clients -- In retrospect, the automated systems developed
+under the Project would have benefited if input from those who would eventually use the system was more
+actively sought and incorporated. Similarly, while the functioning of the registration offices (particularly
+the large urban offices) has been improving gradually during implementation, this could have been
+accelerated and have proceeded farther if there were a more systematic process for collecting the opinions
+of clients of the registration offices conceming office operations.
+(2) Self-financing is beneficial to the quality of the reeistration system -- Most good registration systems
+around the world function on the basis of fees for service. Kazakhstan has followed this example, and it
+has proved beneficial to the quality of the system. Those aspects of the Project that depended on financing
+from the budget have been significantly weaker. In the future, the Govemment should maintain careful
+scrutiny over the fee structure, with the aim of raising the standards for the operation of the system,
+reducing the costs, and commensurately reducing the fees charged.
+(3) PIUs need to be under the strict control of the implementing agency -- To the extent that PIUs are
+utilized, they need to be tightly monitored by the implementing agency with respect to the plan for
+implementation of the Project and day-to-day operations. If PIUs are not utilized, due weight needs to be
+given to the additional workload posed by the Project and sufficient additional staff hired (including
+consultants) to effectively get this work done. In this regard, the Government of Kazakhstan in 1999 began
+implementation of a policy to eliminating PIUs in favor of shifling these functions directly to the
+implementing agencies, where necessary supplemented by the hiring of individual consultants.
+In addition, there were a number of lessons leamed that are more specific to the CIS countries. Among
+these are the following:
+(4) Effective inter-agency cooperation is problematic -- Project design that depends on active, on-going
+cooperation among agencies is likely to encounter problems in implementation. A higher-level "charnpion"
+of the Project, with sufficient leverage over the agencies involved, should be identified. The use of a
+working level organization, such as a PIU, is not likely to be effective in this regard.
+- 17 -
+
+
+
+(5) A strong bias toward technology can lead to inefficient use of resources -- There was a strong tendency
+from the Borrower's side to push for over-specified and excessively powerful automated systems, that were
+inconsistent with the true business needs of the registration system, and will likely prove to be
+unsustainable from an economic point of view. Substantial amounts of money under the Pilot were spent
+on GIS software, and on hardware, that has not been utilized to anywhere near its capacity. This is a result
+of the strong technical tradition of the CIS region, combined with a weak business tradition. In the future,
+system design should be based solely on the actual practical demands, and capabilities, of end users, rather
+than on an abstract technical conceptualization.
+Lastly, conceming the design of the Project, while it was advantageous to focus on development of
+procedures and establishing functioning offices, with a bit more time, much more territory of the country
+could have been included. In fact, the benefits of the Pilot Project have been broadly shared across the
+country. The elements that require substantial time, and therefore a full project, are improvements to the
+land cadastre, further elaboration and modification of how the system operates, and improving linkages
+between the registration system and other organizations involved in land and real estate markets.
+9. Partner Comments
+(a) Borrower/implenmenting agencyv:
+The following letters were received from the Ministry of Finance, the Ministry of Economics and Trade,
+and the Agency for the Management of Land Resources (the former Land Committee) conceming the Real
+Estate Registration Pilot Project and the draft version of this report..
+Ministry of Economy and Trade
+Republic of Kazakhstan
+# 2-1322/3
+May 10, 2001
+WVB Resident Mission
+Almaty Kazakhstan
+Dear Sirs:
+I would like to thank you for having submitted to us the Project Completion Report for the Kazakhstan
+Real Estate Registration Pilot Project and inform you of the following:
+In general the Ministry of Economy and Trade agrees with the main conclusions regarding the efficiency of
+the implementation of the above project and with the assessment of the Bank's and the Government
+agencies' performance.
+At the same time we consider it necessary to note that in accordance with the 1999 decision of the
+Government of Kazakhstan the implementing Government bodies of the Republic started the process of
+liquidating the Project Implementing Units (PIUs). Today the consultants who carry out projects
+implementation enter into direct individual contracts with the implementing agencies. The implementing
+agencies, in its turn, allocate a certain number of it staff to provide project management.
+- 18 -
+
+
+
+In view of this, the conclusion that PIUs need to be under the strict control of the implementing agency
+made in part 8 of the PCR, in our opinion, should be modified in accordance with the above comment.
+We would also like to note that certain comments have been made by the Ministry of Finance and the Land
+Resources Management Agency of the ROK (see attached letters).
+For a more effective implementation of the roll out project included in the World Bank CAS for
+Kazakhstan for FY 2002 it would be needed to maintain closer coordination with the Ministry of Economy
+and Trade in the process of this project preparation and implementation.
+Sincerely,
+A.Andruschenko
+Vice-Minister
+- 19-
+
+
+
+Ministry of Finance
+Republic of Kazakhstan
+#32-3-3/5367
+April 26, 2001
+The Ministry of Finance
+Republic of Kazakhstan
+The Ministry of Finance of the ROK, as requested in the letter of B.Utlkelov, economist of the WB
+Resident Mission in Kazakhstan, as of April 4, 2001, has reviewed the Project Completion Report for
+the Kazakhstan Real Estate Registration Pilot Project (PCR) and would like to inform you of the following:
+In part 4. Achievement of Objective and Outputs, Institution Building (a) The Project Implementation Unit
+in the following sentence " There were significant difficulties...." we propose to take out "the
+bureaucratic interventions of the Committee for External Loans". The interventions of the presently
+liquidated Committee for External Loans in the process of project implementation and procurement
+procedures were immediately connected with its functions and responsibilities.
+In view of the above, the MOF considers that the PCR conveys realistic information on the project
+implementation and its completion and does not have any comments in this regard.
+B. Zhamshiev
+First Vice-minister
+- 20 -
+
+
+
+Land Management Agency
+Republic of Kazakhstan
+April 28, 2001
+Re: The Letter of the WB as of April 4, 2001 re. PCR for Pilot Registration Project
+Department of Investment Policy
+Ministry of Economy and Trade
+Republic of Kazakhstan
+The Land Management Agency of the ROK
+The Agency for Land Resources Management has reviewed the Project Completion Report for the Real
+Estate Registration Project and would like to inform you of the following:
+The objective of the Pilot project to establish, on a pilot basis, a national registration system of real estate
+rights and transactions has been achieved. The system of real estate rights registration has resulted in
+increased sales, lease and mortgage transactions involving real estate (including transactions with land
+plots).
+The process of implementing the pilot project involved equipping of the registration offices of the Ministry
+of Justice and regional (city) committees for land management in Almaty, Akmola oblasts and the cities of
+Almaty, Astana.
+At the same time in the process of the Pilot implementation digitization of maps has not been completed as
+well as provision of mapping technologies for the entry of cadastral information, especially, index maps for
+distant rural settlements.
+The Mapping Component intended to produce maps including new base maps has not been implemented to
+the full.
+Still many settlements do not have updated maps and this results in the delays of the registration process and
+land cadastre maintenance.
+It should be noted that registration fees are high especially for rural areas. The cost of the preparation and
+the issue of the Acts for land ownership and permanent land use, in general, include real cost of verifying
+borders in the field and inputting land cadastre data into the automated data base. Processing and issuing of
+a State Act in the secondary market is carried out only at the request of land owners and users.
+GIS packages are used only in big cities (Almaty, Astana), and rarely ever used in oblasts and regions. It
+would be necessary to carry out training courses in the field because training courses were too short and
+were not regular enough.
+Territory Land Management offices in pilot oblasts received substantial assistance with equipment,
+furniture, staff training that formed a base for upgrading services in the field. Now it is necessary to roll out
+the outputs of the project nationwide.
+The main procedures of land records (cadastre) for registration purposes were developed on the basis of the
+World Bank Recommendations. At the same time efficient implementation of this work has been delayed (to
+a certain degree) due to the absence of land management services for oblasts and raions in many towns.
+There are no specialists of this kind either in rural settlements or in rural areas. It is in the settlements that
+major volume of work in issuing land documents is done. For this reason the implementation of the Land
+- 21 -
+
+
+
+Cadastre Component has lagged behind. For this reason it is necessary to increase budget financing of the
+land management work. The Agency is absolutely against its merging with the Committee for Registration
+Services of the Ministry f Justice because these agencies have different functions, objectives and mandates.
+Under a roll out project it would be possible to provide needed linkages between land and legal cadastre, to
+link a land cadastre component to the Real Estate Registration Project, and to produce upgraded cadastre
+maps based on the digital technologies, etc.
+Considering the above, the Land Agency of the Republic of Kazakhstan would support the roll out of the
+Pilot Registration Project nationwide taking into account already existing experience and solving hindering
+problems in a joint manner in the process of roll out implementation.
+C. Ospanov
+President
+(b) Cofinanciers:
+n/a
+(c) Other partners (NGOs/private sector):
+n/a
+10. Additional Information
+None.
+- 22 -
+
+
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+Outcome / Impact Indicators:
+N     at u                         Ped Ri                      .'  PRait
+Elaboration of registration procedures for    New Law on Registration submitted to  Registration procedures have been fully
+nationwide roll-out.                  Parliament and associated procedures fully  elaborated and are being implemented In all
+elaborated.                           regions of the country. New Law on
+Registration submitted to Parliament.
+Increased number of transactions in land and                                A 13 percent increase in the number of
+real estate.                                                                registrations of rights in 2000 compared with
+1998. A 66 percent increase in the number
+of mortgages in 2000 compared with 1998.
+Output Indicators:
+Functioning of rayon/city registration offices. Automated system tested in all rayon/city    All registration offices filly functional and
+offices.                              meeting the needs of dients. Paper-based
+system has been tested and revised.
+Automated system tested In all rayon/city
+ofices, and being used most intensively In
+the large urban offices.
+Testing of mapping techniques.        New base mapping for Astana produced,    Digital mapping test completed, plus testing
+testng of map scanning techniques for rural of the use of map overlays for producing
+settlements.                          cadastral maps on the basis of existing
+topographic maps, testing of map scanning
+techniques for rural settlements, and new
+base maps produced for Astana
+End of project
+- 23 -
+
+
+
+Annex 2. Project Costs and Financing
+Project Cost b Con onent (in US$ million  uivalent)
+Institution Building                                  2.06            1.65
+Registration System                                   7.91            4.89
+Mapping                                               0.73            0.95
+Refinance of PPF                                      1.50            0.48
+Total Baseline Cost                                  12.20            7.97
+Physical Contingencies                               0.03
+Price Contingencies                                  1.05
+Total Project Costs             13.28            7.97
+Total Financing Required              13.28           7.97
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+[1. Wrks                      0.00          0.00         0.00          0.32         0.32
+I: = ~~~~~~~(0.00)                  (0.00)        (0.00)       (0.00)       (0.00)
+12. Goods                     6.06          0.00         0.10          0.00         6.16
+(6.06)        (0.00)       (0.10)        (0.00)       (6.16)
+3. Services                   0.00          0.00         1.89          0.00         1.89
+and Training                 (0.00)        (0.00)        (1.89)       (0.00)       (1.89)
+4. Miscellaneous              0.00          0.00         0.45          2.96         3.41
+Operating Costs              (0.00)        (0.00)        (0.45)       (0.00)       (0.45)
+5. Miscellaneous              0.00          0.00         1.50          0.00         1.50
+PPF Refinancing            (0.00)        (0.00)        (1.50)        (0.00)       (1.50)
+6. Miscellaneous              0.00          0.00         0.00          0.00         0.00
+(0.00)        (0.00)       (0.00)        (0.00)       (0.00)
+Total                      6.06          0.00          3.94         3.28         13.28
+(6.06)        (0.00)       (3.94)        (0.00)       (10.00)
+NBF operating costs includes the value of staff and premises contributed in kind for registration.
+- 24 -
+
+
+
+Project Costs by Procurem    Arrangements Actual/Latest Estimate  US$ million equivalent)
+Procurwmnt Method'
+Expe"Wre Caftgwy            Ice            NCB         NOB.F.                      Total Cost
+1. Works                        0.00           0.00          0.00           0.70         0.70
+(0.00)        (0.00)         (0.00)        (0.00)        (0.00)
+2. Goods                        3.61           0.00          0.00           0.00          3.61
+(3.61)        (0.00)         (0.00)        (0.00)        (3.61)
+3. Services                     0.00           0.00          1.43           0.00          1.43
+and Training                   (0.00)         (0.00)        (1.43)         (0.00)        (1.43)
+4. Miscellaneous                0.00           0.00          0.19           1.56          1.75
+Operating Costs                (0.00)         (0.00)        (0.19)         (0.00)        (0.19)
+5. Miscellaneous                0.00           0.00          0.48           0.00          0.48
+PPF Refinancing              (0.00)         (0.00)         (0.48)        (0.00)        (0.48)
+6. Miscellaneous                0.00           0.00          0.00           0.00          0.00
+(0.00)        (0.00)         (0.00)        (0.00)        (0.00)
+Total                        3.61           0.00          2.10           2.26          7.97
+(3.61)        (0.00)         (2.10)        (0.00)        (5.71)
+" Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+D Includes civil works and goods to be procured through national shopping, consulting services, services of contracted
+staff of the project management office, training, technical assistance services, and incremental operating costs related to
+(i) managing the project, and (ii) re-lending project funds to local government units.
+ject Financing by Component (in US$ million equivalent)
+Percentage of ApprsJu
+Componlem            App sti                m      AcuatUAlAIt Estimate --..
+8s_____________    Bank       Go t_  CoF.         Bask      G&vL      C.       Bak   Gov' C*F.
+Institution Building     2.05      0.05                 1.64      0.01              80.0   20.0
+Registration System      5.67      3.23                3.42       2.25              60.3   69.7
+Mapping                  0.78                          0.95                         121.8
+Refinance of PPF         1.50                          0.48                         32.0
+- 25 -
+
+
+
+Annex 3: Economic Costs and Benefits
+No formal evaluation of economic costs and benefits was made during the project appraisal.
+- 26-
+
+
+
+Annex 4. Bank Inputs
+(a) Missions:     ,        ,       ,       _, _. _ , _,
+Stage of Pro    gclN  of Peron  CY specalto                               f          Petrformanc:-eRatig
+2 EDBMS, I FMS etc)                    bnplenittion   Dcvdkprnt
+Month/Year   Count              Spec_a* y                        Progress       'ONective
+Identification/Preparation
+Nov. 1995                    3   2 economists, I cadastre
+specialist
+March 1996                   4    1 economist, I registration spec.,
+1 cadastre specialist, I IT
+specialist
+Appraisal/Negotiation
+July 1996                    3    1 economist, I cadastre
+specialist, I IT specialist
+November 1996                3    1 economist, I Lawyer, I
+operations officer
+Supervision
+April 1997                    4   1 economist, I procurement,           S                S
+I training specialist, I
+cadastre specialist
+October 1997                  5   I economist, I procurement, I IT      S                S
+specialist, I registration
+specialist, I cadastre spec.
+February 1998                 3   1 economist, 1 procurement, I         S                S
+registration/cadastre specialist
+June 1998                     3   1 economist, I registration/cad.      S                S
+specialist, 1 IT specialist
+November 1998                 2   1 economist, 1 registration/cad.      S                S
+specialist
+April 1999                    2   1 economist, 1 registration/cad.      S                S
+specialist
+June 1999                     4   1 economist, 1 FMS, 1                 S                S
+registration/cadastre spec., I
+training specialist
+November 1999                 4   1 economist, I FMS, I                 S                S
+registration/cadastre spec., I
+training specialist
+February 2000                 2   1 economist, I registration/cad.      S                S
+specialist
+July 2000                     2   1 economist, I registration/cad.      S                S
+specialist
+October 2000                  2   1 economist, I registration/cad.      S                S
+specialist
+ICR
+February 2001                2    1 economist, I                        S                S
+registration/cad. specialist
+- 27 -
+
+
+
+(1) Staff:
+1    Stg of S*dProject CycleS0  02  0-4   0:  0 i.  Actl/aetsthimte:  0i 0 4:Tft ;:S: 0
+_________                          No0. 'Staff weeks              S$C..... _T X00:........
+Identification/Preparation                                          75.0*
+Appraisal/Negotiation                                                78.4
+Supervision                                                         229.8
+ICR                                                                35.0**
+Total                                                            418.2***
+*      Broken out from preparation of an earlier project
+**     Preliminary estimate
+***    Does not include $51,000 trust fund resources.
+- 28 -
+
+
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+Rating
+l Macro policies                          O H  OSUOM  O N  * NA
+F Sector Policies                         O H  *SUOM  O N  O NA
+I Physical                                O H  * SU O M  O N  O NA
+O Financial                               O H  * SU O M  O N  O NA
+Z Institutional Development               0 H  * SU O M  0 N  0 NA
+L Environmental                           O H  OSUOM  O N  * NA
+Social
+OI Poverty Reduction                O H  OSUOM  O N  * NA
+Z Gender                            O H  OSU*M  O N  O NA
+0 Other (Please specify)            O H  OSUOM  ON  * NA
+O Private sector development              0 H  0 SU * M  0 N  0 NA
+O Public sector management                0 H  * SU 0 M  0 N  0 NA
+O Other (Please specify)                  0 H  O SU O M  0 N  * NA
+- 29 -
+
+
+
+Annex 6. Ratings of Bank and Borrower Performance
+(HS-=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+6.1 Bank performance                                 Rating
+I Lending                                             OHS OS  OU  OHU
+F Supervision                                         OHS OS  OU  OHU
+Z Overall                                             OHS OS O U O HU
+6.2 Borrower performance                             Rating
+• Preparation                                         OHS OS  O  U  O HU
+• Government implementation performance               O HS O S   0  U  0 HU
+Z Implementation agency performance                   OHS OS  O  U  O HU
+Z Overall                                             OHS OS O U O HU
+- 30 -
+
+
+
+Annex 7. List of Supporting Documents
+(1) Staff Appraisal Report (No. 15994-KZ) -- Real Estate Registration Pilot Project, March 6, 1997
+(2) Aide Memoires of supervision and the ICR missions
+(3) Annual auditor's reports for the Project
+(4) Report on the pace of implementation of the Real Estate Registration Pilot Project, March 1999,
+prepared by the PIU (in Russian)
+(5) Real Estate Registration Pilot Project Social Assessment -- Summary Report, June 1999, Bilesim
+International, Almaty
+(6) Report on Completion of Project Implementation, February 2001, prepared by the Committee for
+Registration Services of the MOJ
+(7) Project Implementation Plan for the Real Estate Registration Roll-Out Project, prepared by the PIU and
+updated by the Committee for Registration Services of the MOJ
+- 31 -
+
+
+

@@ -1,0 +1,2346 @@
+﻿                                       Document of
+                                   The World Bank
+
+
+
+
+                                                                  Report No: ICR00001815
+
+
+
+              IMPLEMENTATION COMPLETION AND RESULTS REPORT
+                               (IBRD-72440)
+
+
+
+                                         ON A
+
+                                         LOAN
+
+                       IN THE AMOUNT OF EURO 10.8 MILLION
+                          (US$ 13.13 MILLION EQUIVALENT)
+
+                                        TO THE
+
+                                REPUBLIC OF TUNISIA
+
+                                         FOR A
+
+              INFORMATION AND COMMUNICATION TECHNOLOGIES
+
+                          SECTOR DEVELOPMENT PROJECT
+
+
+
+                                      June 14, 2011
+
+
+
+
+Transport, Water and Information and Communication Technologies
+Tunisia
+Middle East and North Africa
+
+
+
+
+                                          -i-
+                    CURRENCY EQUIVALENTS
+                (Exchange Rate Effective June 8th, 2011)
+
+                    Currency Unit = Tunisian Dinar
+                         1.00 TND= US$ 0.74
+                        US$ 1.00= TND 1.36
+
+                         FISCAL YEAR 2011
+
+
+
+
+                ABBREVIATIONS AND ACRONYMS
+
+   ATCE    Agence Tunisienne de Communication Extérieure
+           (Tunisian Agency for External Communication)
+   ANSI    Agence Nationale de Sécurité Informatique
+           (National Agency for Computer Security)
+    ATI    Agence Tunisienne de l’Internet
+            (Tunisian Internet Agency)
+    CAS    Country Assistance Strategy
+   CERT    Computer Emergency Response Team
+    CNI    Centre National de l’Informatique
+            (National Center of Computer Science)
+    DPL    Development Policy Loan
+     FDI   Foreign Direct Investment
+    GDP    Gross Domestic Product
+    GOT    Government of Tunisia
+     ICT   Information Communication Technologies
+     INS   Institut National de la Statistique
+           (National Institute of Statistics)
+    INT    Instance National des Télécommunications
+            (National Telecommunications Agency)
+ISET’Com   Institut Supérieur des Études Technologiques en Communication
+            (Higher Institute for Technology Studies in Communications)
+    ISP    Internet Service Provider
+    IXP    Internet Exchange Point
+   MCT     Ministry of Communication Technologies and Transport
+  MENA     Middle East & North Africa
+ MNAVP     Middle East North Africa Vice Presidency
+   MTC     Ministère des Technologies de la Communication
+           (Ministry of Communication Technologies)
+   M&E     Monitoring & Evaluation
+   PAD     Project Appraisal Document
+   PDO     Project Development Objective
+    PIU    Project Implementing Unit
+
+                                  -i-
+   PMU   Project Management Unit
+  SERA   Secrétariat d’État à la Réforme administrative
+SupCom   École Supérieure des Communications
+         (Higher School in Communications)
+TND      Tunisian Dinar
+
+
+
+
+                    Vice President:   Shamshad Akhtar
+                  Country Director:   Neil Simon Grey
+                   Sector Manager:    Philippe Dongier
+              Project Team Leader:    Carlo Maria Rossotto
+                 ICR Team Leader:     Isabelle Huynh
+
+
+
+
+                                 - ii -
+                                                     Tunisia
+                                         ICT Sector Development Project
+
+
+
+                                                        CONTENTS
+
+1. Project Context, Development Objectives and Design............................................... 1
+2. Key Factors Affecting Implementation and Outcomes .............................................. 5
+3. Assessment of Outcomes .......................................................................................... 10
+4. Assessment of Risk to Development Outcome......................................................... 13
+5. Assessment of Bank and Borrower Performance ..................................................... 14
+6. Lessons Learned ....................................................................................................... 17
+7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners .......... 18
+Annex 1. Project Costs and Financing .......................................................................... 20
+Annex 2. Outputs by Component ................................................................................. 21
+Annex 3. Economic and Financial Analysis ................................................................. 23
+Annex 4. Bank Lending and Implementation Support/Supervision Processes ............ 24
+Annex 5. Summary of Borrower's ICR and/or Comments on Draft ICR ..................... 28
+Annex 6. List of supporting documents ........................................................................ 38
+Annex 7. Peformance indicators ................................................................................... 13
+Annex 8. eApplications supported by the project and CERT ....................................... 13
+
+MAP
+
+
+
+
+                                                              - iii -
+1. Project Context, Development Objectives and Design
+
+1.1 Context at Appraisal
+
+1.      The Government of Tunisia (GOT) has made information communication technologies
+(ICT) a priority development sector since the late 1990s. In fact, a central objective of the 10th
+Development Plan (2002-2006) was to foster the emergence of a knowledge-based economy in
+Tunisia. In 2002, at the GOT’s request, the Bank worked in partnership with the Tunisian
+authorities to complete a first ICT Policy Note with emphasis on the contribution of ICT to
+growth and employment. The strategy advocated telecom competition and Internet liberalization
+as drivers of sector development and broader economic growth. The Country Assistance Strategy
+(CAS) for Tunisia adopted in June 2004 identified private sector-led modernization of
+information infrastructure services as a priority to be supported by Bank operations.
+
+2.     The GOT had successfully undertaken several measures aimed at enhancing the diffusion
+of ICT among enterprises and consumers. It implemented certain measures to reform the
+telecommunications sector, including a new law that increased competition in mobile service and
+allowed the introduction of satellite services. Telecommunications sector reform, however, was
+slower than in comparable developing countries in MENA and in other regions. This has likely
+constrained growth of information intensive sectors across the whole economy.
+
+3.     Specific priority issues at the time of appraisal were: (a) developing the ICT potential of
+the Tunisian private sector; (b) accelerating Internet and ICT use by firms and consumers; (c)
+extending access to ICT in rural areas; (d) increasing competition and private participation in all
+segments of the telecommunications market; (e) improving availability and reducing price of
+broadband services; and (f) enhancing reliability and security of information and
+communications networks.
+
+4.      An additional factor at the time of appraisal was the intention of the GOT to seek Bank
+assistance to develop e-government projects in specific areas, to have a demonstrated effect on
+the rest of the government administrations, and to strengthen the security of the internet
+infrastructure.
+
+1.2 Original Project Development Objectives (PDO) and Key Indicators
+
+5.     The ICT Sector Development Project was designed to assist Tunisia in promoting the
+development of its ICT sector by:
+
+     (a)   supporting ICT institutional and sector reforms;
+     (b)   improving its e-security mechanisms;
+     (c)   developing e-government applications; and
+     (d)   promoting the participation of the private sector in the ICT sector.
+
+6.       The project was expected to:
+     (a) develop a long-term strategic plan for ICT sector development, with increased private
+         sector participation and competition;
+                                                   -1-
+   (b) strengthen the capacity of sector institutions;
+   (c) develop the government’s e-agenda as well as simplify procedures and achieve efficiency
+       gains in the delivery of selected government services to private businesses and the
+       population at large;
+   (d) develop competencies and expertise for e-security, and improve preparedness and
+       resilience of the Internet in case of cyber-attacks or disaster; and
+   (e) assist the GOT in the monitoring and implementation of key sector improvements before
+       the World Summit on the Information Society (WSIS) in Tunis in November 2005.
+
+7.      The PDO and key performance indicators are summarized below; Annex 8 provides
+detailed data for every year of project implementation.
+
+     PDO:
+    Increase in share of ICT Sector in the GDP from 6% in 2003 to 8.5% in 2008 (CAS
+     Indicator)
+     KPI:
+    Awarding of new licenses in 2004-2005 in the VSAT and data transmission segments
+    Number of fixed and mobile phone lines in % of the population reaches 60% in 2008 (up
+     from 32% in 2003) (CAS indicator)
+    Increase in share of private sector investment in ICT sector from 35.2% of total in 2003
+     to 60% of total investment by 2008
+    Implementation of 2 new e-government portals in November 2005 and two additional
+     new e-government portals by 2008.
+    Increase in requests by private sector and citizens submitted over these new e-
+     government service sites – Methodology to calculate indicators and base value to be
+     provided by Government prior to mid-term review
+    Creation of computer emergency response team and organization of 3 trainings or CERT
+     workshops before the end of 2005
+    Creation of a data backup center for critical applications of the government applications,
+     and testing by the end of 2005.
+    Publication of economic and statistical analyses of Tunisian “e-agenda�? successes
+     achieved by WSIS
+
+1.3 Revised PDO (as approved by original approving authority) and Key Indicators, and
+reasons/justification
+Not applicable.
+
+1.4 Main Beneficiaries,
+
+8.      The Ministry of Communication Technologies and Transport (MCT) was responsible for
+the overall coordination, implementation and supervision of the project. The other main
+beneficiaries and implementing agencies were the Ministry of Culture, Youth and Leisure; the
+Ministry of Justice; the Ministry of Social Affairs and Solidarity; the Instance National des
+Télécommunications (INT - National Telecommunications Agency), the Agence Tunisienne de
+l’Internet (ATI - Tunisian Internet Agency), Centre National de l’Informatique (CNI - National
+Center of Informatics), the Agence Nationale de Sécurité Informatique (ANSI - National Agency
+
+                                             -2-
+for Informatics Security), Secrétariat d’État à la Réforme administrative (SERA), the Institut
+Supérieur des Études Technologiques en Communication (ISET’Com - Higher Institute for
+Technology Studies in Communications), and the École Supérieure des Communications
+(SupCom - Higher School in Communications).
+
+9.      In addition to the public entities that benefitted directly from the project support, the
+primary target group was the Tunisian population as a whole, comprising of households and
+businesses. The population would benefit from the increased availability, affordability, and
+quality of traditional and advanced telecommunication services as well as enhanced Internet
+services and IT security. A secondary group of beneficiaries included the Tunisian population
+with disabilities, in particular students.
+
+1.5 Original Components
+
+1) Information and Communications Strategy, Policy, and Regulation.
+
+This component aimed at assisting the GOT on further opening the ICT sector to private
+participation and competition. In particular, the project was to support:
+    (a) The elaboration of a strategic long-term plan for developing the ICT sector, including a
+        strategy for promotion of universal access;
+    (b) The award of additional licenses; and
+    (c) Capacity building for the INT.
+
+2) E-government Strategy, Services, and Applications.
+
+The component aimed to support:
+   (a) The creation of an e-government strategy, which was to be coordinated by the State
+       Secretariat for Administrative Reform (SERA);
+   (b) The development of e-government applications and online services in GOT ministries and
+       agencies, such as the Ministry of Justice and Human Rights (portal and on-line services),
+       the Ministry of Culture, Youth, and Leisure (portal and on-line promotion), and the
+       Ministry of Communication Technologies and Transport (virtual ICT library).
+   (c) The creation of solutions to equip selected schools and social service centers with
+       specialized IT solutions for the disabled, under the direction of the Ministry of Social
+       Affairs and Solidarity;
+   (d) Assistance to the ATI in the development of an Arabic Domain Name System (DNS)
+       registry; and
+   (e) Improvements in the ICT training capacity of ISET’Com by providing a distance-learning
+       platform and content for building ICT capacity in Tunisia.
+
+3) E-Security.
+
+The component aimed to:
+   (a) Develop and implement a computer risk-prevention strategy based on the Computer
+       Emergency Response Team (CERT) model;
+   (b) Strengthen e-security research and training capacity; and
+
+
+                                                -3-
+       (c) Establish a data backup centre to ensure continuity of government’s critical computer
+           applications.
+
+4) Project Management and Support to the Preparation of WSIS 2005.
+
+This component provided technical assistance to the GOT to implement a complex and fast-
+paced project, with emphasis on results by WSIS in 2005. It included:
+   (a) Technical assistance to strengthen the Project Management Unit (PMU);
+   (b) Support to an ICT statistical and economic analysis unit within the MCT to develop and
+       implement monitoring and evaluation activities, measure progress in the sector, publish a
+       regular monitoring and evaluation report, and provide input to policy-makers; and
+   (c) Preparatory activities for WSIS 2005.
+
+1.6 Revised Components
+
+10.     The project was restructured in December 2009. The Government’s request for project
+restructuring involved: (i) cancellation of three activities replaced by three smaller activities in
+line with Government’s priorities, and relying on agencies which had a solid track record with
+regard to activity implementation (see 1.6); (ii) cancellation of part of the proceeds of the Loan;
+and (iii) reallocation of the reduced amount of the Loan to disbursement categories.
+
+11.     The project components remained unchanged, however Component 2 and 3 had activities
+that were cancelled, and Component 1 and 2 had added activities (Table 1). The three canceled
+activities, for which procurement and project implementation processes suffered significant
+delay at the start, were the virtual library (procurement of equipment for an estimated cost of
+$345,0001), the acquisition of a distance-learning platform (estimated cost of $1,150,000), and
+the IT Security Lab for Research and Education (estimated cost of $460,000). The first two
+canceled activities belonged to Component 2 of the project, and the third canceled activity
+belonged to Component 3. As requested by the Borrower, they were replaced by a study on
+Women and ICT in Tunisia (estimated cost of $100,000), and a study on outsourcing the ICT
+needs of governmental and parastatals to the private sector (estimated cost of $480,000), which
+were added to Component 1 of the project; and a pilot project on eDisabled (estimated cost of
+$185,000), added to the Component 2.
+
+Table 1: Activities cancelled and new activities
+                                            Cancelled activity                New activity
+Component 1 – ICT policy                                          Women in ICT in Tunisia
+                                                                  ICT outsourcing
+Component 2 – eGov                   Virtual library              eDisabled pilot
+applications                         Distance learning platform
+Component 3 – e-Security             IT security Lab
+
+
+
+
+1
+    Otherwise mentioned, $ refers to US dollars.
+
+
+                                                       -4-
+12.    These changes did not impact the PDO as the canceled activities had an indirect
+contribution to it, and the new activities partially made up for this indirect contribution.
+
+1.7 Other significant changes
+
+13.     There were two changes made to the project: an extension in 2008, and a cancelation and
+reallocation in end 2009.
+
+14.    The project was extended in December 2008 by 18 months, pushing the closing date from
+June 2009 to December 2010. This was the result of delays in project implementation, triggered
+mainly by delays in procurement processes (specifically due to local procurement clearance
+processes) and lengthy validation of the deliverables under the project.
+
+15.     The Borrower requested a cancelation of EUR2.646 million of the loan amount2 and a
+reallocation of the loan proceeds. The total cost of the project was brought from EUR10.8
+million down to EUR8.1 million. The cancelation request was mostly driven by: a) cost-saving
+efforts in project implementation,3 and b) the substitution of the three original activities with new
+activities resulted in an approximate new savings exceeding $1 million equivalent. The
+reallocation of the funds is shown in Table 2 below.
+
+Table 2: 2009 reallocation (Euros)
+    CATEGORY            ORIGINAL              PARTIAL             REQUESTED              2009 PROPOSED
+                       ALLOCATION        CANCELLATION           CANCELLATION             REALLOCATION
+                                                                             ND
+                                         DONE ON JULY           AS OF JUNE 22 ,
+                                           2ND, 2004                  2009
+GOODS                    3,900,000         3,900,000                1,500,000                2,700,000
+CONSULTANTS’             5,200,000         5,200,000                 944,000                 4,856,000
+SERVICES
+TRAINING,                 700,000             700,000                202,000                  490,000
+WORKSHOPS AND
+SEMINARS
+FRONT-END FEE            108,000               54,000                   -                     54,000
+UNALLOCATED              892,000              892,000                   0                        0
+         TOTAL          10,800,000           10,746,000             2,646,000                8,100,000
+
+
+2. Key Factors Affecting Implementation and Outcomes
+
+2.1 Project Preparation, Design and Quality at Entry
+
+
+
+2
+    Including a 2005 cancellation of EUR 54,000.
+
+3
+  During the life of the project, the cost of software and IT services expressed in US dollars decreased – the loan
+being signed in euro, and the euro strengthened against the dollar during the project timeframe, i.e. e-Disabled
+equipment was purchased for about USD 0.5 million, instead of the original budget of USD1.3 million
+
+
+                                                         -5-
+16.     The project approach was consistent with the World Bank Group’s strategy for the ICT
+sector approved by the Board of Directors in September 2001 and was also well aligned with the
+ICT Policy Note recently prepared by the GOT (see 1.1): the project supported directly 2 of the 7
+main priority measures identified in the Policy Note (sector liberalization, regulatory framework
+improvement) and 1 of the accompanying measure (eGov portals). The Bank had several
+comparative advantages to assist the GOT in this sector, which included the Bank’s extensive
+policy dialogue on telecommunications with the GOT and several other countries in the region:
+the Bank had implemented several telecommunication projects and had proven expertise in
+helping countries make the transition to an information-based economy; the Bank could offer
+international global best practices; and, therefore, the Bank was well-placed to play a leadership
+role among donor agencies.
+
+17.      The background analysis described in Annex 1 to the PAD was comprehensive and sound.
+It partly built on an ICT Policy Note that had been recently prepared by the Bank in close
+cooperation with the Government. The ICT Policy Note was a major effort, and its preparation
+lasted about 18 months; it was completed before the start of the project. The background analysis
+pointed at three important aspects: (i) limited liberalization of the sector (including possible
+delays in WTO commitments); (ii) Government’s commitment to continue reforming the sector
+albeit at a slow pace; and (iii) an important gap between the telecommunication penetration
+(fixed and mobile) which was relatively good, and the Internet penetration which was very low.
+
+18.     Working documents and internal memos show that the Bank team and management had a
+good understanding of the “freedom of Internet�? issue in Tunisia. The team assessed this issue
+and listed it as an explicit risk for the operation. The team involved the management and
+MNAVP which had direct discussion on this issue with the counterparts.
+
+19.     One of the engines that led to project preparation was the WSIS 2005 event hosted by
+Tunisia. The Government needed to be ready to showcase the benefits of Internet to the world, at
+a time when it was strictly enforcing a policy of access and content control. The Bank team and
+the management assessed this risk adequately, as noted in the PAD (risks from outputs to
+objective and from components to objectives were rated high, in particular due to Government’s
+concern with security). The Bank team engaged with various segments of the Tunisians society
+on a technical level, with a view to increasing Tunisia’s exposure to best international practice,
+and building local capacity to encourage ICT entrepreneurship, while at the same time seeking
+greater access to the Internet, and emphasizing its benefits in terms of social and economic
+impact. The Bank team and the management (at VP level) used the project to deliver clear
+messages with regard to the need for more freedom of information in the context of an
+“information society�? that can strive only with freedom of content and wider access. The Bank
+had also gained credibility with the counterparts and with the broader private sector in Tunisia,
+by canceling a USD50 million telecommunications tranche in the Tunisia ECAL III operation,
+on the grounds that the process to award the license to Tunisiana was not sufficiently transparent.
+
+Assessment of the project design:
+
+20.   The objectives of the project were adequate to capture the effectiveness of the project.
+The PDO (increase in share of ICT sector in GDP from 6% in 2003 to 8.5% in 2008) was one of
+
+                                               -6-
+the first attempts to quantify systematically the contribution of the ICT sector to the overall
+economy. An increase of 2.5 points was ambitious but realistic given that this was a priority
+sector for the Government and its commitment to further competition in the sector.
+
+21.    The four components were clearly defined and in line with the PDO and KPI. Component
+2 (e-government strategy and applications) represented the largest portion of the loan (42
+percent); Components 1 (sector strategy and regulation) and 3 (eSecurity) represented about 20
+percent each, and Component 4 (project management and WSIS preparation) represented about
+12 percent of the loan. Half of the project dealt with consultant services, 40 percent with the
+procurement of goods, and the rest with training.
+
+22.     The implementation arrangements were very complex with ten implementing agencies
+involved (1.4), which may be considered a weakness in the project design. This was decided at
+the time of project negotiations with the counterparts. The Bank team suggested a leaner, more
+focused project, with large turn-key packages for applications development. The Government
+insisted on the importance of being inclusive and of spreading the demonstration effect of ICT
+on the largest possible number of actors, with the view of disseminating ICT among the Tunisian
+public administration. Both points of view had strengths and weaknesses. In spite of the large
+number of agencies, the procurement plan did not appear overly complex at the beginning. The
+project could be considered realistic at the time of preparation given the commitment shown by
+the Government with regard to sector reform, and with the upcoming WSIS event creating
+positive incentives for the Government to showcase its ICT sector as state-of-the-art, not only
+from a technological standpoint but also in terms of investment and transparency. On balance,
+the team and management concluded that it was important to support the forces of change in
+Tunisia through sector reform and liberalization.
+
+2.2 Implementation
+
+23.    The loan was signed in July 2004 and the project, subsequently, became effective in
+January 2005. The original closing date was June 2009, but was later postponed to December
+2010.
+
+24.      The project suffered early on from delays in all components. It took six months for the
+project to become effective. The selection of a procurement specialist for the PMU took several
+months, and that delayed project effectiveness. Once the PMU was fully-staffed, successive
+governmental changes and limited capacity within some implementing agencies, together with
+the national procurement processes that had to be followed, contributed to a slow implementation
+pace. Very early on (December 2005), the Bank task team warned the Government of these
+delays (in particular with Iset’Com and SupCom). These delays translated into low disbursement
+rates. The Government shared the Bank team’s view, and ultimately canceled three acitvities,
+albeit later in project implementation.
+
+25.     Four main factors affected implementation. First, three different ministers managed the
+project in succession over the life of the project. While Government’s commitment to reform
+was not shaken, it was necessary to brief the new ministers and delays arose at the time of their
+installation as they were getting familiar with their new ministerial portfolio.
+
+
+                                                -7-
+26.     The second factor related to the limited implementation capacity within some of the
+implementing agencies. The PMU consisted of a strong team that provided high quality interface
+with the Bank (and intense support to the implementing agencies) consistently throughout the
+project. However this was not enough to make up for limited capacity in some agencies. In
+addition, the procurement plan became more complex as the project progressed: in 2005, there
+were a total of 29 technical assistance activities identified in the procurement plan; whereas in
+2010, there were a total of 90 contracts that were signed. Some procurement packages were
+divided in better identified tasks with a view to improve their implementation.
+
+27.    The third factor affecting project implementation had to do with the technicalities
+embedded in the ICT sector. High level of expertise was required from consultants, and contract
+negotiations were complex and validation of deliverables by the agencies was a lengthy process.
+
+28.     The fourth and last factor was related to the change management triggered by the rollout
+of new applications. The engineers in the implementing agencies had good technical skills;
+however, the administrative staff often did not understand or was not capable of managing
+information technology dimension embedded in the new e-government applications. This proved
+to be a challenge for project implementation.
+
+29.     The factors related to project implementation capacity in ICT projects were not unknown
+to the Bank team; however, they have been underestimated. The Tunisian counterparts had
+excellent engineering skills, but the change management associated with eGovernment, and with
+the implementation of complex IT systems in the public administration, was certainly
+underestimated. A posteriori the implementation schedule appears overly optimistic: for instance
+the ICT strategic plan, a pillar of the project, was planned in the first 18 months, but it did not
+start until May 2009 for a final delivery at the very end of the project. Similarly, the eGov
+strategy was originally planned for a delivery in July 2006, but was not completed until
+December 2009. The complex data backup center was successfully implemented, but only at the
+end of the project, with considerable delay.
+
+30.    All along project implementation, however, the Government has expressed its
+commitment to continue moving along the reform agenda. In early 2007 at the time of mid-term
+review, the new sector law was finally adopted (after two years of delay). Some of the activities
+were starting to have demonstrating effects, and the PDO was at hand’s reach. The teams
+discussed in detail a project restructuring which took two years to be finally adopted.
+
+31.    For the Bank team, project implementation went through, alternately, from satisfactory
+improvements (the eDisabled program became quickly operational, but the eJustice portal and
+the eCulture portal took longer to become effective) to worrisome delays (with the ICT strategy
+and the eGov strategy) and drawbacks (with the outsourcing study, that was identified as a
+promising new activity, and which eventually was canceled altogether).
+
+2.3 Monitoring and Evaluation (M&E) Design, Implementation and Utilization
+
+32.    M&E design: The objective of the project was to assist the Borrower in promoting the
+development of its ICT sector by (i) supporting ICT institutional and sector reforms, (ii)
+improving its e-security mechanisms, (iii) developing e-government applications, and (iv)
+                                               -8-
+ promoting the participation of the private sector in the ICT sector. The results framework was
+ adequately defined. It covered one PDO objective (contribution of the ICT sector to the GDP)
+ and ten outcome indicators were defined to monitor the components implementation (Annex 8).
+
+ 33.      The PDO accurately captured the objective of the project. From a statistical standpoint,
+ the PDO is a measure that is subject to continuous improvement given that the ICT are by nature
+ constantly evolving and penetrating an increased number of sectors and sub-sectors. In fact, in
+ the last year of the project, the methodology was updated by the Institut d’Économie
+ Quantitative, to come closer to International Standards Industrial Classification (ISIC),
+ considered as best practice.4 As a result the baseline was modified downward: 4.3 percent in
+ 2005 instead of 7 percent for 2005. The original target set for 2008 was 8.5 percent; the actual
+ result in 2008 evaluated under the old methodology was 10 percent, while the revised
+ methodology’s result was 5.6 percent (Table 2).
+
+ 34.    More importantly, the ICT sector contribution to the GDP increased by more than 50
+ percent over the project life.
+
+ Table 2: PDO - Increase in share of ICT sector in GDP from 6% in 2003 to 8.5% in 2008
+                         2004       2005      2006      2007      2008      2009      2010
+Old methodology          5.9%         7%        8%       9%       10%      11%*      12%*
+Revised methodology       n/a       4.3%      4.7%       5%      5.6%       6.3%     6.8%*
+ *forecast
+
+ 35.     The other indicators were collected on a regular basis (Annex 8). Performance indicators
+ in ISRs were regularly updated, except for the indicators relating to the number of requests
+ submitted in the portals of eJustice and eCulture. This is explained by the fact that the eJustice
+ portal became operational only during the last year of project implementation, and the eCulture,
+ while technically ready, was not officially cleared for launching until the closing of the project.
+
+ 36.     M&E utilization: The utilization of the performance indicators contributed to raising the
+ profile of the sector and increasing its visibility throughout the Government. One activity of the
+ project was fully dedicated to strengthening data definition, collection and analysis pertained to
+ the ICT sector; the revised methodology mentioned above is the direct output of this activity.
+ Also, the M&E framework has helped better illustrate the pervasiveness of ICT in the Tunisian
+ economy – and by doing so, demonstrated the importance of the ICT sector to the entire national
+ economy.
+
+ 2.4 Safeguard and Fiduciary Compliance
+
+ 37.     There were no specific safeguard- and compliance-related issues.
+
+ 2.5 Post-completion Operation/Next Phase
+
+
+ 4
+  Moving from an input/output parametric methodology based on a classification defined internally by the Institut
+ National de la Statistique, to ISIC classification.
+
+
+                                                        -9-
+37.     Between 2009 and the end of 2010, the Government and the Bank team had been in
+agreement to start preparing a follow-up project. A working team comprised of various
+ministries met a few times and put together a detailed table of proposals, including objective,
+scope of activities, timeline, M&E, and financial resources. These took into account the new ICT
+strategy prepared under the project; in particular, its final draft that was circulated in the final
+trimester of 2010.
+
+38.      Also in December 2010, the Bank team managed to secure the organization of a Korean-
+sponsored workshop on mobile applications that was attended by a large audience from the
+public and private sector, and was greatly appreciated by the participants as it gave opportunities
+to discuss the concrete success stories of the Korean ICT experience in the area of mobile
+applications in a competitive environment with full freedom to access the Internet and develop
+applications in the digital space. In addition to this event, the Bank team submitted an application
+to the telecom and ICT reform-related Korean Trust Fund with a view to having it contribute
+towards the preparation of the follow-up operation.
+
+39.      Following the “Jasmine Revolution�?, the interim government is mandated to prepare the
+next presidential elections, and the sectoral dialogue was suspended for a few weeks. At the time
+of this ICR preparation, the prospects of a new ICT project are relatively high, although the
+timeline of its implementation remains mostly still undecided. In March, the Bank’s country
+team opted for a multisectoral DPL operation which is being actively prepared, with ICT as a
+cross-cutting subject. In particular, with the fund available under the Korean Trust Fund, a
+collaborative project with the health sector is being designed to strengthen accountability through
+the use of ICT applications. As a product of the dialogue with the counterparts, the Tunisia GO
+DPL has included two measures related to ICT: i) liberalization of the domain “.tn�?, with less
+administrative procedures to register and host “.tn�? websites, and the extension of the number of
+subjects that can be Domain Name registrars; and ii) introduction of technical guidelines to
+encourage government websites to include citizen feedback loops using ICT-enabled social
+media, such as Facebook.
+
+3. Assessment of Outcomes
+
+3.1 Relevance of Objectives, Design and Implementation
+
+Rating: Satisfactory
+40.
+41.     The Tunisia ICT project was aligned with the 10th Development Plan (2002-2006) which
+aimed to support the emergence of a knowledge-based economy. At the same time, the CAS for
+Tunisia adopted in June 2004 identified modernization of information infrastructure services
+through private investment as a priority to be supported by Bank operations. In that context the
+project’s relevance was high.
+
+42.     The project was very innovative for its time: in 2002-2003 at the time of its preparation,
+there had been very limited engagements – in Tunisia and in the rest of the developing world – in
+the area of e-applications, setting up of a national back-up center, strengthening of e-security in
+
+                                               - 10 -
+the civil society, or development of tools to improve access to ICTs by the disabled. The Bank
+team and the Borrower were overly optimistic about the implementation timeline, in spite of the
+overall high level of ICT competencies within the Borrower’s project teams, and of the fact that
+numerous applications that were originally considered in the project scope, were finally dropped
+to keep the size of the project more manageable. Annex 7 showcases the success of four of the
+project outputs: eJustice portal, e-Disabled, the national back-up center, and eCulture (which,
+though not yet online, has an incredibly rich content).
+
+43.     Over the project life, the combination of various factors kicking in at different times, has
+translated into slow implementation. However, as explained in para. 3.2, the PDO and
+intermediary performance indicators were all met or exceeded, except for one relating to the
+number of certified auditors in cybersecurity: 178 certified auditors against the target of 220).
+Overall, the delays resulted from successive Government changes, time-consuming and
+bureaucratic national procurement processes, technicalities of the procurement packages that
+triggered a lengthy clearance process, and limited capacity in some implementing agencies. The
+non-disbursement of a telecom sector-related DPL tranche contributed to a cooling in the policy
+dialogue between the Bank team and the Government, but it also strengthened the credibility and
+reputation of the Bank. Finally, there was also a lull in project activities after the 2005 WSIS.
+Nevertheless, in the last two years of the project, owing to a dynamic PIU, the implementing
+agencies picked up the pace and several activities were completed just before the project ended.
+
+3.2 Achievement of Project Development Objectives
+
+Rating: Satisfactory
+
+44.     The PDO, as discussed in para. 2.3, was achieved: in 2008 (original project closing date)
+the ICT sector contribution to GDP reached 10 percent, above the original objective. After
+project extension and subsequent restructuring, the new target for project end in 2010 was
+ambitiously set at 12 percent, and this target was reached (based on the old INS classification
+and methodology).
+
+45.       The intermediary indicators were also fully met:
+         Contributing to greater sector liberalization, with 3 operators holding now eight licenses5
+          (against an initial target of two), one of which was a global license awarded to Orange
+          Tunisie, the first of its kind in the region.
+         Increased competition translated into increased access: fixed and mobile penetration
+          reached 118 percent from 32 percent in 2003; the initial target of 60 percent in 2008 that
+          was already exceeded at 95 percent that year; target for 2010 was 109 percent).
+         Increased competition was fueled by private sector investment in the ICT sector whose
+          share reached 72 percent in 2010 (against a target of 65 percent), from 35.2 percent in
+          2003 and the original objective of 60 percent in 2008.
+
+
+
+
+5
+    2 fixed licenses, 2 VSAT, 2 GSM, 3 Wimax, and 1 global license
+
+
+                                                      - 11 -
+         Of the two eGov portals that were planned to be operational by project end, only the
+          eJustice portal is fully operational (with 25,000 downloading in December 2010), while
+          the eCulture portal is at a very advanced stage (only some last detailed content
+          clarification were still under review at the time the project ended).
+         The eDisabled solution targeting the schools was fully operational early on and
+          constitutes a unique feature of the project. The number of disabled students benefiting
+          from the project went from 600 in 2006 to 3,201 in 2009, and 8,370 in 2010
+         The eAccessibility activity (web accessibility of all the administration applications in line
+          with international standards in terms of access by disabled users) was completed in
+          December 2010.
+         The creation of a Computer Emergency Response Team (CERT) with 16 specially-
+          trained team members was achieved in a fully satisfactory way, and the Tunisian CERT
+          was the first African team to become a member of the FIRST (Forum for Incident
+          Response Team) Initiative. FIRST is a global leader in incident response.
+         The construction and operationalization of a national back-up center was achieved by
+          project closing; it offered the first cybersecurity infrastructure and a large backup
+          capacity (4 terabytes) to the Government. In addition, 178 auditors were certified in
+          security at ANSI by end of 2010.
+
+46.     Details on project outputs by component are presented in Annex 2. In addition, specific
+annexes on eJustice, eCulture, eDisabled and on the back-up center provide in-depth description
+of project achievements in these fields.
+
+3.3 Efficiency
+
+Rating: Satisfactory
+
+47.    The PAD’s economic and financial analysis briefly discusses four areas of economic
+impact that were meant to emanate from the project, but which, however, cannot be fully
+dissociated from the overall ICT strategy:
+
+      -   increased ICT expenditure derived from further sector liberalization
+      -   declining production costs brought about by the more effective competition in all
+          telecommunications market segments
+      -   lower transaction costs in the private sector (through lower Internet cost and greater
+          accessibility, allowing better e-commerce and supply chain management, and overall
+          better quality control over production of services), as well as in the public sector (through
+          eGov applications)
+      -   employment creation generated by new entrants, contractors, suppliers and retailers.
+
+3.4 Justification of Overall Outcome Rating
+
+Rating: Satisfactory
+
+48.       Based on the above-mentioned factors, the overall outcome rating is satisfactory.
+
+
+                                                 - 12 -
+3.5 Overarching Themes, Other Outcomes and Impacts
+
+(a) Poverty Impacts, Gender Aspects, and Social Development
+
+49.     The project’s component on the e-Disabled was a very innovative feature of the project,
+and was highly successful in its implementation (Annex 8). They comprised of two activities: (i)
+improving access of students in schools to computer labs with adapted equipments and
+applications); and (ii) generalizing disabled-adapted applications in the specialized access centers
+so that all computers can be used by disabled people). A multi-site videoconference was
+organized to showcase the e-Handicapés experience, with South America and Africa countries. A
+good practice note was published in an international specialized journal.
+
+50.     The Government also requested a study on Women and ICT in Tunisia that provided a
+detailed overview of the access and usage of ICT by Tunisian women and the report suggested a
+number of recommendations to increase access. ICT use by women in Tunisia was found to be
+not significantly lower than that of men. Rather, usage was affected more by the socio-economic
+situation.
+
+(b) Institutional Change/Strengthening
+
+51.     Most of the capacity building activities went to the INT and the CERT. In both areas,
+capacity building was greatly needed. In the case of INT, capacity building was organized
+through technical assistances with five important studies on interconnection, tariff policy based
+on cost models, numbering, local loop unbundling, and broadband access. Those studies were
+catalytic in allowing the organization to better negotiate and adopt interconnection catalogs
+(every year since 2006). Samewise, INT was able to determine the rules of local loop unbundling
+in 2009. INT’s role in implementing the decision on liberalization the “.tn�? domain name also
+reflects on its ability to be an effective body of regulation enforcement. However, further
+capacity building will still be needed to assert the regulator’s autonomy and independence, in
+particular in the post-revolution era in which it is critical to bring all the operators, including the
+incumbent, on a true level-playing field competition.
+
+52.     The creation of the CERT, supported by the project, is seen from inside and from outside
+as a success. Internally, the Government intends to replicate similar organization in the key
+sectors of the economy (banking, tourism, education, etc.). Externally the Tunisian CERT is the
+first African organization to join FIRST (Forum for Incidence Response and Security Teams).
+
+(c) Other Unintended Outcomes and Impacts (positive or negative)
+N/A
+
+3.6 Summary of Findings of Beneficiary Survey and/or Stakeholder Workshops
+N/A
+
+4. Assessment of Risk to Development Outcome
+
+Rating: Negligible to low
+
+
+                                                - 13 -
+53.     With the Jasmine Revolution which started just a few days after the project closing, it is
+difficult to predict how fast the next generation of reforms needed in the sector (full competition
+in telecom, broadband and wider access to high speed internet) can be implemented. A year
+before the project was to be completed, the Government had expressed its interest to continue the
+reform with World Bank support. With the Revolution, short-term priorities are to prepare the
+elections, support employment creation and improve governance. The ICT agenda can help those
+short-term objectives and in particular this project has supported the first generation of reforms
+that provided a key foundation for achieving these objectives.
+
+54.     The new telecom legal framework and increased private sector participation in the sector
+– both supported by the project – have taken the telecommunication sector in Tunisia to a new
+level of competition and connectivity that is unlikely to be reversed. Thanks to the partial
+liberalization in the sector, investments have grown fifteen-fold between 2004 and 2008.
+Telecommunications reached 7.4 percent of total gross investment in 2008.6 From a technical
+standpoint, the use of ICT in public and private sector is growingly pervasive and, ultimately, the
+best suited solutions to business development and quality delivery of services. From an economic
+standpoint, international benchmarking suggests that investments in the telecommunications and
+ICT sectors yield significant fiscal revenues, and that an adequate legal and regulatory
+framework can attract greater Foreign Direct Investments (FDI) – for instance the partial
+privatization of Tunisie Telecom in 2006 (35%) generated US$ 2.2 billion of FDI (more than
+half of total FDI).
+
+55.     From a social standpoint, access to ICT can significantly improve the quality of life of the
+lowest-income group by encouraging job creation. Concrete risks of policy reversals always exist.
+In the case of Tunisia however, the most recent decisions taken by the “care-taker�? Government
+and pertaining to the liberalization of the “.tn�? domain name, and the introduction of technical
+guidelines to encourage government websites to include citizen feedback loops using ICT-
+enabled social media, are a sign that Tunisia is moving concretely towards an information
+society.
+
+
+5. Assessment of Bank and Borrower Performance
+
+5.1 Bank Performance
+(a) Bank Performance in Ensuring Quality at Entry
+
+Rating: Moderately Satisfactory
+
+56.     The Bank team prepared this project in 2003 within a short amount of time to meet the
+urgent request from the Government in view of the upcoming WSIS event. The team was
+composed of the same people that had contributed to the preparation of the 2002 ICT Policy
+
+
+6
+ Diop, Ndiame;Vincellette, Gallina A.;Molouche, Mariem;Young Lee, Sun;Dee, Philippa;Walkenhorst,
+Peter;Cattaneo, Olivier; Tunisia's global integration : a second generation of reforms to boost growth and
+employment, The World Bank, 2008
+
+
+                                                       - 14 -
+Note, so it had a good knowledge of the sector. In spite of a fast track process, the PAD was well
+aligned with the Government’s strategy and the CAS. It was also well informed, and in many
+areas, proposed innovative activities and bold objectives.
+
+57.      However the assessment of the readiness of the Tunisian counterpart was overly
+optimistic and the implementation complexity was under estimated. As mentioned earlier,
+institutional arrangements covered 10 implementing agencies, some of them were brought on
+board without much prior consultation. As a result, some implementing agencies underperformed
+very early on, and eventually had to be dropped (Iset’ Com, Sup’ Com).
+
+58.     The project was innovative in that it covered the launch of nationwide e-applications
+related to the eGov program. The paper-based process that had traditionally governed the
+administrative organization had to be translated into electronic data and stored accordingly. Such
+process requires a whole transformation of the way-of-doing-business in the administration. In
+2003, the Bank had not yet mainstreamed such activities. In addition, the project was targeting an
+unusual population, the disabled youth, in a component that proved to be very successful. The e-
+applications were innovative, but the Bank underestimated the time needed between project/pilot
+design, and actual full-speed implementation; in particular the eJustice and eCulture components
+were implemented with delays.
+
+59.    The M&E framework was well designed to reflect the project implementation
+performance, and the Borrower was able to feed all the indicators (except for two that were
+supposed to be defined and collected by mid-term review, and were collected only in the last
+months of the project implementation). The targets were reasonably ambitious.
+
+60.    The risk assessment was worked into much detail, and demonstrated that the Bank team
+understood the political interference and vested interests that were at stake in the project scope.
+The Overall Risk Rating was High. Four out of eight aspects were rated High Risk.7 The
+proposed risk mitigation measures were reasonable and realistic.
+
+(b) Quality of Supervision
+
+Rating: Moderately Satisfactory
+
+61.      The strongest pillar of the project dealt with the policy, legal and regulatory framework, a
+field in which the Bank team had solid experience. The Bank team challenged the Government
+with a plan for rapid sector liberalization, a strategic orientation that the Government first
+resisted, and then implemented at a very gradual pace. There always is an opportunity cost in
+delaying such liberalization and private sector participation reforms. The way this project was
+
+
+7
+  (i) GOT has an inherent bias toward public provision of services, (ii) the project will be decentralized to too many
+agencies with limited project implementation capacity, (iii) technical assistance will be provided to agencies but key
+political issues in sector reform may remain unaddressed, and (iv) eGov services will be under-used by citizens due
+to restrictive government policies on Internet which hamper development of Internet hosts and provision of Internet
+access services.
+
+
+                                                        - 15 -
+implemented helped reforms to happen in a faster pace compared to the likely pace of solely
+Government-engineered intervention.
+
+62.     The focus on development impact remained constant throughout the project. The Bank
+team delivered high quality policy advice to the Government, which contributed to a trusting
+relationship between the Bank and the Government whereby the Bank team was able to share
+knowledge and best practices, and contribute to high exposure for the Government. The Bank
+team regularly communicated to the Government its concerns pertaining to the causes of delay of
+the liberalization process, pointing out that this would seriously slow down the take off of
+Internet usage by businesses and households which, in turn, would limit the growth impact on
+the GDP. The advice provided by the Bank team was highly valued by the Borrower, and
+explains why early on, the Government sought to secure future Bank support for its ICT reform
+with a follow-up project.
+
+63.      While overall the supervision proceeded rather well, the delay in processing the
+restructuring (in 2009, whereas it was initially discussed in 2007) and the disconnect between the
+ISR (Implementation Performance ratings were satisfactory all along project implementation)
+call for a “moderately satisfactory�? rating. An average of one to two annual supervision missions
+comprising of sector specialists and fiduciary experts took place during project implementation.
+In 2008 and part of 2009, the task team leader was based in Tunis and this allowed a quasi daily
+interaction between the Bank team, the PIU, and the implementing agencies. In the last two years
+of the project, the PIU organized monthly conference calls between Tunis and Washington, DC
+to take stock of implementation progress withthe relevant agencies whose activities were still
+under supervision. As a result, project implementation accelerated. It remains difficult to explain
+the delay with which the Bank and the Government proceeded with the restructuring. Part of this
+is attributed to the uncertainty around whether or not to restructure the project when three
+activities were cancelled and three new were identified. Whenthe need to cancel part of the loan
+was determined, the restructuring was allowed to proceed. An overall optimism reigned during
+and after supervision missions. Until at least January 2009, shortly after the 18-month extension
+was approved, the Bank team was confident that the loan amount would be fully committed and
+disbursed by end of 2010.
+
+(c) Justification of Rating for Overall Bank Performance
+
+Rating: Moderately Satisfactory
+
+64.     The performance of the Bank team was satisfactory in several ways, but there were a
+number of shortcomings that impeded a flawless project implementation as envisaged at the
+preparation stage. In the Tunisian context, the way leading to liberalization, private sector
+participation and increased access to ICT was paved with pitfalls. With its proven technical and
+sectoral knowledge and experience, the Bank team was able to build trust and influence the
+policy orientations and regulatory changes.
+
+5.2 Borrower Performance
+
+(a) Government Performance
+
+
+                                              - 16 -
+Rating: Moderately satisfactory
+
+65.     While Government ownership and commitment to achieving the PDO was repeatedly
+reaffirmed, and the involvement of the Secretary of State was evident, they were not enough to
+avoid a slow implementation pace.
+
+66.     Due to Government restructuring, the Tunisian team that prepared the project was not the
+same than the one appointed to implement it. In fact, the team that was in charge of
+implementation in the newly-created MCT did not know anything about the project that had been
+prepared. Moreover, there was no overlapping transition period, and neither did an organized
+takeover materialize. The learning curve was very stiff and that contributed to the slow start of
+the project.
+
+67.     The two studies that were planned for the 2005 WSIS were eventually prepared on time
+and presented to the public; however, the eCulture portal which had been announced was not
+made available on time. At WSIS, the Government announced a new sector law with five themes
+and 25 concrete measures; yet, the law was not passed until 2007. It is also worth noting that the
+insufficient support and lack of empowerment provided to INT in its mission to enforce the new
+telecommunication law, did not allow for wider liberalization, and instead, preserved the current
+situation. The INT greatly benefitted from the technical assistance provided through this
+operation, but the regulatory independence of INT needs to be strengthened. That said, the
+Government took the initiative to organize an internal consultation with stakeholders in order to
+shape the scope of a follow-up project with the Bank, replete with ambitious objectives.
+
+(b) Implementing Agency or Agencies Performance
+
+Rating: Moderately satisfactory
+
+68.     The PIU should be acknowledged for the solid and consistent support it has provided to
+project implementation overall. Interestingly though, and unlike other Bank projects, the PIU
+members were never appointed formally for this task. They took the responsibility of project
+implementation while dealing with their “official�? position in the MCT. In spite of this
+potentially challenging situation, the PIU members remained focused and motivated. In the last
+two years of implementation when supervision involved monthly conference calls, the PIU kept
+the underperforming implementing agencies under pressure so that the last activities could be
+completed by project closure. The performance of the PIU in fiduciary matters was satisfactory.
+
+69.     Some of the implementing agencies were reliable and efficient, whereas others have
+shown weaknesses and unresponsiveness to accumulating delays. These delays can be partly
+attributed to the national procurement processes that are lengthy, and that are in addition to the
+Bank’s procurement process. But a lot of the delays also came from lack of capacity (in
+Sup’Com, Ist’Com and MCT). In the case of the eCulture component, while the technical work
+was performed rather rapidly, and MTC followed the technical implementation of this activity
+very diligently, the final sign-off from the Ministry of Culture to launch the portal was not given
+by project end. On the other hand, the Ministry of Justice, the Ministry of Social Affairs, ANSI
+and CERT have demonstrated good will and capacity to implement their components, although
+some of them experienced a slow start.
+
+                                               - 17 -
+(c) Justification of Rating for Overall Borrower Performance
+
+Rating: Moderately satisfactory
+
+70.      In view of the above, the rating is moderately satisfactory.
+
+6. Lessons Learned
+
+71.    Most of the lessons learned in this project are sector specific, while others pertain more
+generally to project implementation.
+
+      a) A government that is embracing the concept of information society may not necessarily
+         be ready to take the policy decisions that such a concept implies in terms of sector
+         liberalization, private sector participation, level playing field competition, freedom of
+         expression, and access to information and the Internet. While some publications (e.g.
+         Network Readiness Index) rank Tunisia very high in terms of ICT readiness, the team
+         assessed that the Internet censorship constitutes a major bottleneck for greater economic
+         growth. A faster sector liberalization would have contributed to more competition, in
+         particular in the area of high-speed Internet, and allow a faster trickling-down effect on
+         the economy. Telecommunication liberalization and entry of private sector is difficult in
+         an economy that is tightly controlled by a small group of powerful business people close
+         to the Government. This may, however, be a general attribute of the telecommunication
+         sector, as similar concentration of financial interests also characterize the sector
+         elsewhere in the world. This does not obliterate the impact on the consumers who benefit
+         from greater and more affordable access to ICT services, but this may slow down impact
+         on price decline and quality of service improvement. This, on the other hand, has also
+         helped identify the following critical bottlenecks that need to be addressed in order to
+         allow the Government’s information society policy to flourish:
+
+          Elimination of content control on government websites, liberalization of content
+           control and of internet authorization process.
+          Liberalization of Tunisia's domain name (.tn) to encourage the creation of Tunisian
+           websites.
+          Liberalization of the Internet exchange point, and allowing several Internet exchange
+           points in Tunisia to speed up communication and improve the quality of service.
+          Liberalization at ISP level to increase competition, diversify value-added services and
+           lower prices.
+
+      b) ICT for disabled children and adults is an important issue that can be successfully
+         addressed if a Government is committed to making a genuine difference for this group.
+         The key elements of success of this initiative were the existence of a policy for the sector,
+         the availability of excellent statistics on this target group that enabled customization of
+         this program, and the leveraging on NGOs that –, while not fully independent – provided
+         a better follow-up on this activity than would have been the case if the activity had been
+         placed under a government department.
+
+                                                 - 18 -
+    c) There is a mismatch between World Bank project life-cycle and technology life-cycle.
+
+
+
+
+    d) Successful implementation of eGov applications require availability of technical
+       capacities in the implementing agencies, available competencies in the local ICT sector,
+       and sustained and incentivized leadership, without which application development can
+       take several years between project design and portal launch. It is important to be realistic
+       when setting the timeline at the appraisal stage. This project was one of the first of its
+       kind, and the timeline from design to roll-out of the e-applications proved to be
+       unrealistic. New approaches are being used around the world, particularly around the
+       concept of “agile computing�?. For example, UK's alpha.gov.uk site was developed in
+       about three months with a relatively small budget (GBP 261,000) and by using a small,
+       multi-disciplinary team of developers, designers, and editors.
+
+    e) A technology-based project requires flexibility and capacities in the field. The appraisal
+       did not capture the flexibility needed in a technology project well enough. This project
+       showed that planning costs of ICT acquisition of equipments and applications more than
+       one year in advance is likely to bring inaccurate budget evaluation. Annual reevaluation
+       of the main ICT components may help plan project restructuring (cancellation of
+       proceeds) in advance. This lesson also highlights that the Bank’s traditional approach to
+       project appraisal may have limited applicability to a technology-driven project.
+
+    (e) The large number of implementing agencies also caused difficulties, although eGov
+        projects by definition should involve several agencies. Such difficulties could have been
+        reduced with better anchoring of project implementation at the prime ministerial level.
+
+7. Comments on Issues Raised by Borrower/Implementing Agencies/Partners
+
+(a) Borrower/implementing agencies
+Annex 5
+(b) Cofinanciers
+N/A
+
+(c) Other partners and stakeholders
+(e.g. NGOs/private sector/civil society)
+
+
+
+                                               - 19 -
+                               Annex 1. Project Costs and Financing
+
+(a) Project Cost by Component (USD millions)
+                               Appraisal             Updated         Actual/Latest     Percentage of
+         Components
+                                Estimate            allocation*        Estimate         Appraisal
+ 1. ICT SECTOR
+STRATEGY, POLICY, AND                2.96                                      1.45       49.00%
+REGULATION
+ 2. E-GOVERNMENT
+SERVICES AND                         5.61                                      3.56       63.46%
+APPLICATIONS
+ 3. E-SECURITY                       2.92                                      2.06       70.05%
+4. PMU and WSIS                      1.64                                      1.1        60.98%
+  4A.SUPPORT TO WSIS
+                                          0.55
+  PREPARATION
+  4B. ICT SECTOR
+  MONITORING AND                          0.55
+  SUPPORT
+  4C. STRENGTHENING OF
+                                          0.54
+  PMU
+
+
+
+        Total Baseline Cost              13.13                                 8.1           61.7%
+Physical Contingencies
+                                          0.00                                               0.00
+Price Contingencies
+                                          0.00                                               0.00
+         Total Project Costs              0.00
+Front-end fee PPF                         0.00                                                .00
+Front-end fee IBRD                        0.00                                                .00
+  Total Financing Required               13.13              9.8                8.1
+
+Exchange rate Jan. 2010: 1 Euro = 1.4 USDollar
+* In the December 2009 restructuring, there was no table showing the new allocation by
+component.
+
+(b) Financing
+                                                             Appraisal Actual/Latest
+                                             Type of                                     Percentage of
+            Source of Funds                                  Estimate       Estimate
+                                           Cofinancing                                     Appraisal
+                                                          (USD millions) (USD millions)
+ Borrower                                                 2.24           0.00           .00
+ International Bank for Reconstruction
+                                                          13.13         0.00           .00
+and Development
+
+
+
+
+                                                 - 20 -
+                              Annex 2. Outputs by Component
+
+
+1) Information and Communications Strategy, Policy, and Regulation.
+
+   (d) The elaboration of a strategic long-term plan for developing the ICT sector, including a
+       strategy for promotion of universal access: This activity experienced significant delays in
+       its implementation, mostly due to procurement reasons. The final product was presented
+       to the Government in November 2010 shortly before the end the project. It was a
+       comprehensive and detailed strategy based on 6 strategic orientations (broadband access,
+       ICT in SMEs, ICT in schools and in vocational training, content, industrial platform, and
+       ICT and R&D), declined in 16 strategic initiatives and 26 measures. A few weeks after
+       this presentation, the Government has taken another look at the strategy and decided to
+       give an emphasis to three cross-cutting thematics: sector liberalization, ICT and
+       employment, and access to ICT throughout the country.
+
+   (e) The award of additional licenses gave a unique edge to the Government of Tunisia:
+       through this activity, the Government was the first in the region to award a
+       technologically neutral license to Orange Tunisie (2G, 3G, fixed and data). In total during
+       the project implementation, the Government issued 8 licenses which contributed to
+       increase the competition in the sector.
+
+   (f) Capacity building for the INT comprised of several activities: reports (market study,
+       numbering and portability, and broadband access), capacity building (training on a
+       various number of topics ranging from tariff regulation to new 3G technologies and cost
+       accounting), workshops (competition in the telecommunication sector, local loop
+       unbundling) and technical assistance to the team (local loop unbundling and
+       interconnection tariffs). Most importantly, capacity building provided to the staff is
+       expected to have a long lasting impact in the strengthening of the institution.
+
+   (g) Women and ICT in Tunisia: this activity was added at the time of project restructuring. It
+       provided insights about the interaction between Tunisians women and ICT use in the
+       private and professional spheres, and allowed the Ministry to share statistics with
+       international organizations.
+
+2) E-government Strategy, Services, and Applications.
+
+   (a) Definition of an e-government strategy, based on international benchmarking: this study
+       was coordinated by a Secretariat linked to the Prime Minister’s office and as such, it
+       allowed determining an eGov strategy for each Ministry. Without such central and
+       empowered coordinator, the outcomes of the study may not have been used as such.
+
+   (b) Development of e-government applications and online services in ministries and agencies,
+       such as the Ministry of Justice and Human Rights (portal and on-line services), the
+       Ministry of Culture, Youth, and Leisure (portal and on-line promotion), and the Ministry
+       of Communication Technologies and Transport (virtual ICT library):
+                                              - 21 -
+In this subcomponent, a number of e-government portals were created:
+eJustice: http://www.e-justice.tn
+This subcomponent that covers a number of items such as legal cases database, library software,
+security and email system, and a portal. The portal provides citizens and lawyers with various
+services such as: follow-up affairs (17 types), downloadable Official Forms (8 forms) and 30
+models of court applications. This new space gives litigators and lawyers the opportunity to
+monitor reported cases and obtain information on matters affecting them in the last five years.
+The eJustice portal also offers a judicial map, which provides online information about the courts
+in different regions of the country with their creation date and address, and allows electronic
+transactions and payments (Annex 9a).
+
+eCulture: http://www.culture.tn
+This subcomponent consisted of the creation of a portal for the promotion of the Tunisian
+cultural capital. It suffered several delays in the beginning, and then quickly reached a point
+where a pilot was demonstrated to the World Bank (fall 2008). The pilot was at a well advanced
+stage, with 4,000 pages of information and multimedia content. The Tunisian Agency for
+External Communication (ATCE) started its clearance process in 2009, but in spite of several
+reminders it was not until September 2010 that it officially cleared it. In the last few months of
+the project, difficulties arose to reach the point of portal launch: issues related to some translation,
+and the hosting of the portal by the Agence Tunisienne de l’Internet (ATI) created some last
+minutes complications. The WB Team then approached the WB Team working on a tourism
+project to see whether this project could take the eCulture portal to its launch and at least support
+the definition and implementation of an appropriate communication strategy.
+
+eDisabled:
+This subcomponent was aiming at the creation of solutions to equip selected schools and social
+service centers with specialized IT solutions for the disabled, under the direction of the Ministry
+of Social Affairs and Solidarity.
+A local software company developed specialized software with a series of courses targeting the
+needs of disabled children, affected by mental and learning disabilities. In 2009, 5,000 disabled
+children followed digital courses. Starting school year 2009, these programs have been
+generalized to all special education centers with a computer room and to all normal schools that
+integrate disabled children.
+The ICT Sector Development Project also succeeded in establishing telecenters for the disabled.
+Since March 2010, there are a total of 24 centers, which are diffused all over the country, one per
+each region. These centers include equipment with Braille keyboards or touch screen and with
+sign language and various multiple functions.
+
+Domain Name System (DNS):
+This assistance to the ATI aimed at establishing a solution to create domain names in Arabic
+characters, and was successfully delivered end of 2009. In January 2011, there were 28 newly
+registered Arabic domain names.
+
+eAccessibility:
+
+
+                                                - 22 -
+This activity was added to the original procurement plan, and aimed at applying the web
+accessibility guidelines (defined by W3C/WAI and endorsed by the UN) to the Tunisian
+administrative websites. This activity was covering 5 ministries as pilot.
+
+In this component, the activities related to the distance learning plateform and to the virtual
+library were cancelled.
+
+3) E-Security:
+
+   (d) Develop and implement a computer risk-prevention strategy based on the Computer
+       Emergency Response Team (CERT) model at ANSI: This activity aimed at developing
+       and implementing a computer risk prevention strategy (against virus, cyber-crime, etc.)
+       with the creation and training of a CERT, through technical assistance, training and IT
+       equipments purchase. The CERT was established with 16 professionals trained on
+       cybersecurity and providing technical assistances to other African organizations (such as
+       the Government of South Africa for the preparation of the 2010 World Cup). Annex 9b
+       provides a detailed account of the achievements under this activity. The Tunisian CERT
+       is the only African member of FIRST (Forum for Incident Response Team, a global
+       leader in incident response).
+
+   (e) IT security lab for research and education: This activity was cancelled.
+
+   (f) Data backup center: This was a pillar activity of the project and the largest from a
+       financial standpoint. In spite of several delays, the national backup center was eventually
+       delivered and operational in the last month of the project implementation (Annex 9c).
+       This activity was complex as it dealt with the construction and the equipment of a backup
+       center with several security and inter-ministerial dimensions. The architecture is based on
+       three centers. The production centre gathers all of the information concerning inter-
+       administration government applications (i.e. management of the staff, management of
+       public procurement etc). The production center sends the information to the intermediary
+       data backup center in real time (synchronous transfer and updating) via fiber optic. The
+       intermediary data center concurrently transfers information in asynchronous mode to the
+       remote data backup centre, situated in a location about 30km from Tunis. The remote
+       data center is situated in a zone protected by physical barriers and in proximity of
+       military assets. All functional tests have been successfully completed. The transfer
+       between production and intermediary centers is synchronous. The transfer between
+       intermediary and final centers has an overall latency time of 15 minutes. The volume of
+       data currently handles 1.5 Terabytes of data, with a capacity of 4 Terabytes. Over 10
+       major national applications are included (budget management, human resources
+       management, missions management, State property management, municipalities budget
+       monitoring, civil identification management, stock and purchase management, etc.). The
+       next step that the Authorities are contemplating is to virtualize all applications and have a
+       backup mechanism of the backup on the cloud.
+
+
+
+
+                                               - 23 -
+4) Project Management and Support to the Preparation of WSIS 2005.
+
+This component provided technical assistance to the Government to implement a complex and
+innovative project, with emphasis on results by WSIS in 2005.
+
+It included a subcomponent on the preparation of the World Summit for Information Society,
+with a benchmark of the Tunisian ICT industry in terms of dynamism, competitiveness and ICT
+companies’ development. It also covered a study on private sector participation to the ICT sector.
+Each study was presented during the Summit. The project also funded a high level roundtable on
+ICT and outsourcing.
+
+The WSIS was an important milestone for the Tunisian government. It was object to debate
+given the limited Internet access available before, during and after the Summit, and the perceived
+control over the Internet. It was however an important experience for the government, and has
+allowed an exposure to international best practice and quality standard that some of the Tunisian
+officials did not have before. It contributed to changing the mind of some government officials,
+and bringing the private sector concern for more level-playing field competition on the table.
+
+The second component dealt with the definition of a monitoring and evaluation framework for
+the ICT sector. Although a part of this activity was cancelled (related to the development of a
+database and training for the staff on the database, which will be funded through State budget),
+this activity allowed to improve the calculation of the contribution of the ICT sector to the GDP
+(see 2.3).
+
+
+
+
+                                              - 24 -
+                        Annex 3. Economic and Financial Analysis
+
+The project was expected to result in considerable economic benefits but it was considered that
+these benefits could not be separated from those of ICT development generally. No specific
+economic analysis was applied to assess the economic impact; however most of the anticipated
+impact described below was tangible at the project’s end:
+
+    Increased ICT expenditures, initially in telecommunications services not directly related
+     to project activities and in the longer run from both investments in the ICT sector to
+     expand production and backward linkages to other sectors – comments: the project’s PDO
+     illustrates that the contribution of the ICT sector to the GDP has almost doubled during
+     the project’s life, reinforcing this economic impact.
+    Declining production costs as effective competition develops in telecommunications, in
+     the short term benefiting mainly the service sectors and, in the long run, also spurring
+     productivity gains in other sectors – comments: no specific analysis was run to illustrate
+     this anticipated positive impact, but globally the declining cost of telecommunication and
+     Internet contributes to economic growth through gain in productivity.
+    Lower transaction costs throughout the economy and better access to services by the
+     population at large, resulting from increased used of Internet, including e-commerce and
+     e-government applications – comments: intermediary indicators show a substantial
+     increase in telecommunication penetration, 118% in 2010 compared to 49.5% in 2004.
+    Lower risk of systemic failure of critical Government administrative information systems,
+     resulting from the adoption and implementation of an e-security program – comments:
+     The national back-up center and the CERT initiative have together contributed to
+     considerably mitigate this risk.
+    Employment creation related to (a) new work opportunities in the ICT sector that more
+     than offset labor productivity gains from competition, and (b) higher economic growth
+     and diversification, following economy-wide spillovers of ICT development – comments:
+     this link has not been analyzed precisely, although other studies have proven the job
+     creation impact of the knowledge economy.
+
+
+
+
+                                             - 25 -
+       Annex 4. Bank Lending and Implementation Support/Supervision Processes
+
+
+(a) Task Team members
+                                                                              Responsibility/
+            Names                          Title                   Unit
+                                                                                Specialty
+Lending
+Dominique Bichara          Special Rep. to The United Nat         EXTUN
+Rafika Chaouali            Lead Financial Management Spec         OPCOS
+Antonio J. Cittati         Consultant                             AFTPC
+Lucy J. Cueille            Consultant                             PRMTR
+Kashmira Daruwalla         Senior Procurement Specialist          ECSO2
+Bruno Dominique Lanvin     Adviser                                TWICT
+Anat Lewin                 Operations Officer                     TWICT
+Michel H. Maechler         Sr Auditor                             IADVP
+Samia Melhem               Senior Operations Officer              TWICT
+Mather B. Pfeiffenberger   Operations Analyst                     FPDID
+Rajesh B. Pradhan          Consultant                             FPDID
+Carlo Maria Rossotto       Senior ICT Policy Specialist           TWICT
+Bjorn Wellenius            Consultant                             TWICT
+Supervision/ICR
+Lacinda Jene Barrow        Program Assistant                     TWICT
+Philippe Dongier           Sector Manager                        TWICT
+Isabelle Huynh             Operations Officer                    TWICT
+Bruno Dominique Lanvin     Adviser                               TWICT
+Anat Lewin                 Operations Officer                    TWICT
+Michel H. Maechler         Sr Auditor                            IADVP
+Moez Makhlouf              Consultant                            MNAFM
+Mather B. Pfeiffenberger   Operations Analyst                     FPDID
+Francesco Sarno            Consultant                            AFTEN
+Arleen Cannata Seed        Senior Team Leader                    ISGLA
+
+
+(b) Staff Time and Cost
+                                            Staff Time and Cost (Bank Budget Only)
+Stage of Project Cycle                                            USD Thousands (including
+                                        No. of staff weeks
+                                                                  travel and consultant costs)
+Lending
+  FY04                                                                      157.28
+  FY05                                                                        0.17
+  FY06                                                                        0.00
+  FY07                                                                        0.00
+  FY08                                                                        0.00
+                           Total:                                           157.45
+Supervision/ICR
+
+
+                                           - 26 -
+FY04                       0.00
+FY05                     188.45
+FY06                     111.78
+FY07                     103.10
+FY08                      53.05
+       Total:            456.38
+
+
+
+
+                - 27 -
+Annex 5. Summary of Borrower's ICR and/or Comments on Draft ICR
+
+
+
+                     REPUBLIC OF TUNISIA
+                 Ministry of Industry and Technology
+                                 ***
+          State Secretariat of Communication Technologies
+
+                     Project Management Unit
+
+
+     ICT Sector Development Project in Tunisia
+                    IBRD Loan 7244-TUN
+
+
+                 Completion Report
+                         February 2011
+
+
+
+
+                              - 28 -
+                                         Summary
+A-Introduction
+
+       A.1. Key Dates
+
+       A.2. Project Introduction
+
+       A.3. Project Management Unit (PMU)
+
+B-Description of Activities and Evaluation
+
+    B.1. Objectives/Results/Evaluation
+
+    B.2. Performance Indicators
+
+D-Conclusion: Results Figures, Recommandations et Lessons Learned
+
+
+
+A-Project Introduction
+
+A.1. Key dates
+
+Loan signature          July 2nd, 2004
+Approval                Law 2004-64 (Aug. 2nd, 2004)
+Effectiveness           Jan. 18th, 2005
+Original closing date   June 30th, 2009
+Revised closing date    Dec. 31st, 2010
+Original amount         Euro 10.8 million
+Revised amount          Euro 8.1 million
+
+A.2. Project Overview
+
+The ICT sector project in Tunisia was funded by the World Bank (Loan No. 7244-TUN). It
+aimed to help Tunisia in promoting the development of the ICT sector by:
+
+        Supporting policy and institutional reforms in ICT
+        Improving its electronic security
+        Developing applications and e-government
+        Promoting private sector participation in ICT development
+
+The development project of the ICT sector in Tunisia had four components they are:
+
+        Component1: Strategy, policy and regulation in information and communication
+         Component 2: Strategy, services and applications of e-Gov
+        Component 3: Computer security
+
+                                              - 29 -
+       Component 4: Project management and support to the preparation of World Summit on
+        the Information Society (WSIS)
+
+A.3. Project Management Unit (PMU)
+
+To ensure project management from the point of view of performance and financial monitoring,
+coordination between the various bodies concerned and with the World Bank, the Minister of
+Communication Technologies appointed a Project Management Unit attached to Office of the
+Ministry.
+
+The PMU was composed of:
+
+       Unit Coordinator: Dr. Mohamed Abida (2005-November 2007) and Mr Fethi Methnani,
+        director of technical post in the Ministry of Communication Technologies (December
+        2007-2011)
+       Procurement Expert: Mr. Fethi Methnani, (2005-2011)
+       Expert in project management: Ms. Thouraya EZZINE, Director of Studies, Planning and
+        Approvals at the Ministry of Communication Technologies (2005-2011)
+       Financial Expert: Mr. Abderrazek Zouari, Assistant Director of Budgets at the Ministry
+        Communication Technologies (May 2006-July 2009) and then Mr. Abdessalem Ouerfelli,
+        Communication Inspector (July 2009 ¬ 2011)
+       Legal Expert: Ms. Mbarka Missaoui, Assistant Director of Legal Studies at the Ministry
+        of Communication Technologies (2005-2006)
+       ICT Expert: Ms Ahlem Ghorbel, Tunisie Telecom (2005-2006)
+
+B-Description of Activities and Evaluation
+
+B.1. Goals / Accomplishments / Rating
+
+                                Objectives/Targets                          Achievments 
+                           Original            Revised                2008                2010 
+Growth of ICT        From 6% in 2003 to  12% in 2010           10% (old method) 12% (old method)
+Sector in the GDP    8% in 2008                                                    
+(CAS Indicator)                                                5.5% (new method) 6.8% (new method)
+Granting of 2 new    2 new licenses in    2 fixed, 2 VSAT, 3                      2 fixed, 2 VSAT, 3 
+licenses in 2004�?    VSAT and data in     GSM, 1 unified (3g,                     GSM, 1 unified (3g, 
+2005 in the VSAT     2004�?2005            Wimax, data)                            Wimax, data) 
+segments and data 
+transmissions.   
+Number of fixed      From 32% in 2003     109%                94.8%                118% 
+and mobile phone     to 60% in 2008 
+lines in % of the 
+population. 
+Increase in ICT      From 35.2% in     65% in 2008            64%                  72% 
+investment by the    2003 to 60% in 
+private sector.      2008 
+Implement�? ation     2 new government  eJustice portal        2 prototypes         2 operational 
+of 2  government     portals in Nov.   eCulture portal        (eJustice and        portals (eCulute 
+
+                                                     - 30 -
+online portals in        2005, and 2                                  eCulture)           still is restricted 
+November 2005            additional by end                                                access mode) 
+and two additional       2008 
+portals at the end 
+of the project in 
+2008. 
+Number of portal                                                                          EJustice, Nov09: 
+access put in                                                                             3018 accesses 
+place.** 
+Number of                                                                                 EJustice, Nov.09: 
+downloads per                                                                             24960 downloads 
+year.**  
+Number of                                                             3201                8370 
+handicapped 
+students having 
+benefited from 
+access to specific 
+education services 
+through the 
+project. ** 
+Creation of an           Creation of a CERT  Creation of a CERT       CERT team of 8      CERT team and 3 
+emergency                team in Nov. 2005,  team, and 3              persons, in 2005    trainings 
+technology               and 3 trainings     trainings                CERT team of 16 
+response team in         bbby end of 2005                             persons in 2008 
+November 2005,                                                        3 training 
+and mounting of 
+three CERT training 
+seminars or 
+workshops before 
+the end of 2005.  
+Creation of a data       Test by end 2005        Back�?up center       0                   Back�?up center 
+backup center for                                operational                              operational 
+critical applications 
+of the government, 
+and tests at the 
+end of 2005. 
+Number of                                        220                  136                 178 
+auditors with ANSI 
+security 
+certification 
+(cumulative). 
+Publication of           Publication of          2 publications       2 publications 
+economic and             economic and                                 ready for WSIS 
+statistical analyses     statistical analysis                         2005 
+on the success of        on the eAgenda in 
+the “e�?agenda�? at        Tunisia 
+the WSIS in 
+Tunisia. 
+
+
+
+
+                                                             - 31 -
+Component 1: strategy, policy and regulation in matters of ICT
+
+This component aimed primarily at helping the Tunisian Government open up the ICT sector to
+competition and private participation through three beginning activities defined in the loan
+negotiations, which are the following:
+
+      Master Plan for the Communication Technologies (ICT) sector
+      Assistance in licensing grants
+      Assistance to the regulation of the Telecommunications sector
+
+As stated in the Loan Agreement, and during the mid-term review mission, a fourth activity was
+proposed by the Ministry of Communication Technologies, entitled "Study on the Interaction of
+Women & ICT", and validated by the Steering Committee and the World Bank. This activity
+furnished indicators and an analysis that helped to highlight the interaction between Tunisian
+women and the ICT sector, and also helped to answer international queries on this matter.
+
+The four activities of this component have been completed and have achieved their specific
+objectives with reasonable success:
+
+Regarding the second activity (Assistance in granting licenses), it played an important role in
+preparing for the granting of licenses, 2G, 3G, fixed and data to Orange Tunisie. Indeed, it
+allowed the government to grant an unified license, a first in the North Africa region.
+
+The project assistance to the regulation of the sector composed of studies, INT executives’
+training, organization of workshops with stakeholders in the sector and mission assistance
+provided satisfactory technical assistance, notably in unbundling the local loop and broadband
+strategy, and strengthening the management capacity of INT, with the exception of a VAS study
+which was partially completed due to cancelation on its third phase.
+
+As for the strategic plan, its implementation experienced considerable delay especially in
+procurement following the change of plans and the time involved in consultant selection
+procedures. That has provided a strategic plan in seven strategic directions, which themselves
+broke down into actions, initiatives and projects to achieve. However, given the new national
+environment, fruit of the Tunisian revolution of January 14, 2011, it was decided to establish a
+working group within the Ministry, to take stock of the results of the strategic plan, taking into
+consideration the three following priorities:
+
+      Liberalization of the ICT sector
+      Job creation
+      Equity and equilibrium among the regions of Tunisia
+
+Component 2: strategy, services and applications of e-Government
+
+This component's main objectives was to provide a comparative analysis and to develop a
+strategy for e-Gov which is coordinated by the Secretariat of State for Administrative Reform,
+and to develop applications and services in e-government ministries and government agencies in
+
+                                               - 32 -
+the following activities:
+
+      Development of an e-government strategy
+      E-justice
+      E-Culture
+      E-Handicapped
+      Virtual library
+      Establishment of a distance learning platform
+      Arabized DNS
+      E-Accessibility
+
+Six operations were completed successfully and reached the expected goals, with the exception
+of two activities: the distance learning platform and the virtual library.
+Indeed, concerning the completed activities, and beginning with the e-Gov study which, despite
+significant delays during the launch of the project and the selection of the consultant, succeeded
+in defining the sectoral strategic plans with the project implementation of e-government with
+clear quantified targets and timetables and deadlines that provided the roadmap to enable the
+monitoring and assessment of objectives of the reforms in this field.
+
+e-Justice and e-Culture were completed with delays in the execution, basically due to their
+technical complexity and scope which were underestimated at the beginning -- during project
+negotiations and even before the launch. However, this delay did not deny them success: The e-
+Justice is a portal that can be considered a “model�? and can even be compared on an
+international scale. Currently, it provides monitoring services to court cases for citizens and
+lawyers (17 types), separating the provision of forms and sample documents. Of the e-Culture
+portal, the World Bank called it a "gateway to the most advanced cultural heritage in the Middle
+East and North Africa" (Aide-Memoire: December 13-17, 2010 mission).
+
+The e-Handicapped had remarkable results and it has allowed the dissemination a copy of a
+model experience in new technologies for the access of the handicapped to innovative IT tools.
+This component has enabled thousands of disabled children to improve their educational
+performance, thanks to software developed in the framework of the project and brought in
+special education centers. The Tunisian experience in this area is now studied the world over,
+thanks to this component. This component is the subject of an article in a specialized publication
+of great renown in Russian, and is regarded by many observers as a proven success.
+
+For the Arabized DNS project, the implementation of this component can be described as
+satisfactory. Currently, and following completion of this project, ATI plans to issue domain
+names in three phases: first to governmental entities, then to large enterprises whose brands are
+known, then to the rest of Tunisian businesses and the general public.
+
+As for e-Accessibility, it was an activity that was added during the mission’s mid-term review as
+required by the Loan Agreement, following a proposal by the Ministry of Communication
+Technologies, which was validated by the steering committee and the World Bank. Its success
+has produced results considered excellent for people with special needs. Within the framework of
+this component, a national repository was developed for the definition of Web accessibility tools
+
+                                               - 33 -
+according to international standards in this field and five of the Tunisian administration pilot
+sites were shaped by this national repository.
+
+Finally, with regard to canceled and partially canceled activities, beginning with project distance
+learning platform "which was canceled by mutual agreement with the World Bank and following
+the approval of a project steering committee. This cancellation was decided upon given the
+delay noted at the launch of the project, and owing to deficiency in terms of vision and human
+resources allocated to this activity.
+
+ The project "Virtual Library", was partially canceled by mutual agreement with the World Bank
+and following the approval of a project steering committee, having experienced delay in its
+execution. The scanning work was approved by the records office and acquisitions were canceled
+and taken care of by the state budget within the framework of a decision that was made at the
+Ministry on the sustainability of the project and its management by CIFODE'COM.
+
+Component 3: E-security
+
+This component aims to develop and implement a computer risk prevention strategy based on the
+CERT (Computer Emergency Response Team) model, subject of the first activity, and to
+strengthen research in electronic security through the third activity which consisted of
+establishing a backup data center to ensure continuity of critical government applications. Indeed,
+this component provides for the implementation of three activities (establishment of CERT, a
+computer security laboratory, and a back-up data center), two of which were successfully
+executed and the second (Computer Security Laboratory) was canceled by mutual agreement
+with the World Bank and following the approval of a project steering committee, given the lack
+of minimum conditions that would have ensured its quality execution and sustainability.
+
+Concerning the first activity, it established the Tunisian CERT, the first African to be admitted to
+the prestigious international network, FIRST, which is a regional and continental reference point
+in this area. This activity gave Tunisia the opportunity to be a benchmark in the field of computer
+security on a regional scale in the African Continent.
+
+The third activity established a Centre National Back-Up which was completed with satisfaction
+despite the delay in its execution stemming from the difficulties encountered in finding available
+land and the delay in the selection a contractor to build the premises (activities supporled by the
+state budget).
+
+Created pursuant to the criteria and standards of safety, the Center will back-up central national
+establishments that use important systems of information to ensure the continuity of their work
+under optimum conditions. This Center will, as a first step, backup applications currently hosted
+and operated at the Centre National de llnformation (CNI) and will later house other applications
+based on their national and s’ectoral priorities. The center will ensure the availability of large
+applications of the administration and continuity of services offered to users, and this, using the
+back-up copies.
+
+
+
+
+                                               - 34 -
+Component 4: Project management and support it as preparation for the WSIS
+
+This component aimed to provide technical assistance from the Government of Tunisia by:
+
+      Supporting the preparation for the World Summit on the Information society (WSIS
+       2005) through the first activity
+      Strengthening the support of the statistical and economic analysis unit within the Ministry
+       of Communication Technologies in the development and implementation and monitoring
+       of its activities through the second activity
+      Strengthening the Project Management Unit (PMU)
+
+The efforts of support to the preparation of WSIS (2005) were performed within the timeframe
+and met with remarkable success. The objectives assigned by the project were fully achieved.
+
+The second activity (project “sector management") was partially met and saw the termination of
+the relevant contract of the second phase of the project. To capitalize on the phases carried out
+through the project, the Ministry intends to finance the third and fourth stages (development and
+implementation of a database and training of the BD management team).
+Finally, the last activity (strengthening of the PMU) allowed the strengthening of the PMU with
+regard to awarding of work as directed by the World Bank, and management, audit and
+evaluation of projects funded by international donors.
+
+D-Conclusion:
+
+Achievements in figures:
+
+The figure in this project is as follows (Annexes to this document furnished with all required
+details):
+     Total number of contracts: 90 (29 studies services contracts, 46 contracts for the
+        acquisition of equipment and 15 training contracts):
+            o Contracts executed completely: 98%
+            o Contracts partially executed: 2%
+            o Disbursed Loan (on March 15, 2011): 6,665.26 Total mEuro
+     Total disbursement on the loan (before April 30, 2011): 6,873.032 mEuro
+     Disbursement rate commitments (on the Loan) on March 15, 2011: 97% (For the rest: 3%
+        in progress)
+     Amount of payments on March 15, 2011 % of total loans: 82.3%
+
+The four project components have achieved their objectives and the performance indicators of
+the project have been fully satisfied despite the relatively low disbursement rate which are
+explained by the following elements:
+
+1. The major change in the exchange rate during the period of implementation of the project
+   2005-2010: Average of interbank market of the year 2004: 1 Euro = 1.5486 DT average of
+   interbank market of year 2010: 1 Euro = 1.8972 DT
+
+
+                                              - 35 -
+2. The cost of contract impairment of ICT equipment
+
+3. The estimated project cost was made based on the international market prices, while at
+   implementation the number of local contractors was quite large; consequently, the fees and
+   equipment costs are lower when compared to the forecasts.
+
+Recommendations and lessons learned:
+
+Following a meeting of the steering committee at project completion (see Minutes of the steering
+committee in Appendix E.4.), those present highlighted the lessons learned from their projects’
+experience and underlined the support of the World Bank to these projects.
+
+Indeed, for the project of creating a Tunisian CERT, its indirect impact is the creation of SSII
+(société de services en ingénierie informatique) specializing in computer security, possessing of
+skills that are well-qualified in the field, the result of the activity, "Training Trainers in
+Information Security. It is also worth noting that support of the World Bank in this activity is
+considerable and especially the procurement of equipment and specialized software which,
+perhaps, would not have been achieved without the involvement of the World Bank as donor to
+this project, which gives some confidence, especially after the event of September 11. A
+recommendation of the installed CERT project head is to give priority to projects that ensure a
+transfer of competence and the obtaining of international certifications, or new funding for an
+ICT project by the World Bank .
+
+The same scenario applies to the proposed assistance to the granting of licenses and the INT
+projects which, having the World Bank as a financial backer, gives some assurance that the
+consultants of international renown and qualified expertise in specialized areas of ICT (Canadian
+consultants and German) who have not previously had the opportunity to work with the Tunisian
+administration were able to acquire contracts under the project. Consequently, this allowed us to
+benefit from high-quality expertise in these projects.
+
+It is also to be noted that for the granting fixed licenses, the World Bank gave the project added
+value by putting at the Tunisian government's disposal its expertise in this field and the
+experience of countries like Tunisia. For Arabized DNS which was completed successfully and
+is based primarily on the implementation of a technical solution not yet standardized, one of the
+lessons learned from this experience is that financing by a World Bank loan of a research project
+or of technical standards are rare or nonexistent; it is inappropriate given that such projects
+demand flexibility in implementation, something not easy with the application of procurement
+procedures of World Bank.
+
+
+
+
+                                              - 36 -
+                        Annex 7. List of Supporting Documents
+
+ICT strategy – 2001 - World Bank Group
+ICT Policy Note – March 2002 - Government of Tunisia, World Bank
+10th Development Plan (2002-2006) – Government of Tunisia
+
+Project implementation documents
+
+
+
+
+                                          - 37 -
+ Annex 8. Performance Indicators
+        Project Indicators               End�?2004      End�?2005      End�?2006               End�?2007          End�?2008       End�?2009        End�?2010 
+Growth of ICT        PAD Forecast           6%
+Sector in the 
+GDP (CAS               Forecast  
+Indicator)                                                                                                      8.5%                           12% 
+                    Old methodology 
+                                                                                                                                                      
+                        Actual 
+                                                                                                                                                      
+                    Old methodology 
+                                                                                                                10%                            12% 
+                        New 
+                                                         4.3%           4.7%                   5%               5.6%           6.3%            6.8% 
+                     methodology 
+Granting of 2                                                                                                   2 new 
+                     PAD Forecast          0�?2                                                                                                    
+new licenses                                                                                                  licenses 
+in 2004�?2005                                  
+in the VSAT                                                                                                                   2  fixed        2  fixed 
+                                          1  fixed      1  fixed      1  fixed               1  fixed        1  fixed  
+segments and                                                                                                                  2 VSAT          2 VSAT 
+                                          2 VSAT        2 VSAT        2 VSAT                 2 VSAT          2 VSAT 
+data                    Actual                                                                                                 3 GSM           3 GSM 
+                                          2 GSM         2 GSM         2 GSM                  2 GSM           2 GSM 
+transmissions.                                                                                                             1 license 3G    1 license 3G 
+                                       (cumulative)  (cumulative)  (cumulative)           (cumulative)    (cumulative) 
+                                                                                                                           (cumulative)    (cumulative) 
+Number of            PAD Forecast          36%                                                                 60%                             109%
+fixed and                                     
+mobile phone 
+lines in % of 
+                        Actual           49.5%          68.8%         84.5%                  88,8%            94.8%          105.6%           118% 
+the 
+population.  
+Increase in ICT      PAD Forecast          40%                                                                 60%
+investment by                                 
+the private 
+                        Actual           54.4%           46%           52 %                   72%              64%             65%             72% 
+sector. 
+Implement�?                                                                                                2 operational 
+                     PAD Forecast           0+                            
+ation of 2                                                                                                   portals 
+government                                    
+
+                                                                                 - 38 -
+online portals 
+in November 
+2005 and two                                                                                                 1 prototype 
+additional                                                                                                    (E�?culture) 
+                     Actual           0         0        0                     1+    2 prototypes                                       2 operational 
+portals at the                                                                                                      
+end of the                                                                                             1 operational (E�?Justice) 
+project in 
+2008. 
+Number of         PAD Forecast          
+portal access                           
+put in                                                                                                 E�?Justice: 3,018 in 
+                     Actual                               
+place.**                                                                                               November 2009                          �? 
+Number of         PAD Forecast          
+downloads                               
+per year.**                                                                                            E�?Justice: 24,960 
+                     Actual                                                                            (during the period June�?               �? 
+                                                                                                       November 2009) 
+Number of         PAD Forecast         �?                                                                                             
+handicapped 
+                                        
+students 
+having 
+benefited                                                                             3,201 (21% 
+from access to                                                                        of handi�?        7,000 (53% of handi�? 
+specific             Actual            �?         �?      600           1,245           capped           capped children in the       8,370 
+education                                                                             children in      centers) 
+services                                                                              the centers) 
+through the 
+project. ** 
+Creation of an                                                                        A team of 16, 
+                                  Core  team 
+emergency         PAD Forecast                                                           with 3                                                
+                                  exists 
+technology                                                                              trainings 
+response                                                                                      
+
+
+
+
+                                                                 - 39 -
+team in 
+November 
+2005, and 
+mounting of                                    Core  team     Core  team 
+                                                                                                     A team of 16, 
+three CERT                        Core  team  exists  (8p)    exists  (14p) 
+                     Actual                                                           Team of 16p        with 3       Team of 16p    Team of 16p 
+training                          exists (3p)  plus  one      plus      one 
+                                                                                                       trainings 
+seminars or                                    training       training 
+workshops 
+before the 
+end of 2005.  
+Creation of a     PAD Forecast        0+
+data backup                             
+center for 
+critical 
+applications 
+of the 
+                     Actual            0            0               0                      0               0               0              1 
+government, 
+and tests at 
+the end of 
+2005. 
+Number of         PAD Forecast              �?                                                               220
+auditors with            
+ANSI security 
+certification        Actual                 0         31             103                  128             136               136          178 
+(cumulative). 
+Publication of 
+                  PAD Forecast              0                             
+economic and 
+statistical                                                                                                                                     
+analyses on 
+the success of 
+                                                                                                                                           
+the “e�?
+                     Actual                 0            2               2                      2               2               2          
+agenda�? at 
+                                                                                                                                         2 
+the WSIS in 
+Tunisia. 
+
+ ** indicators defined at midterm review
+
+
+                                                                             - 40 -
+           Annex 8. eApplications supported by the project, and CERT
+                                    eJustice
+
+Through Tunisia ICT Sector Development Project, the Tunisian Ministry of Justice and
+the Ministry of Communication Technologies made a significant step towards a more
+open government platform, laying the crucial foundation for new, more democratic
+egovernment initiative.
+The eJustice portal was officially launched in October 2009, before the European Union
+launched its own eJustice portal. By November 2009, the Tunisian eJustice portal had
+9952 page visits and 5158 downloads. Only two months after its launch, 397 lawyers
+registered already on the portal, which is 6.6% of all lawyers in the country.
+The eJustice portal in Tunisia is exemplary and could be considered a reference for other
+countries in the region. The portal provides citizens, lawyers with various services such
+as: follow-up affairs (17 types), downloadable official forms and 30 models of court
+applications. This new space gives litigators and lawyers the opportunity to monitor
+reported cases and obtain information on matters affecting them in the last five years. The
+eJustice portal also offers a judicial map, which provides online information about the
+courts in different regions of the country with their creation date and address.
+The Tunisia ICT Sector Development Project through the eJustice portal and other
+egovernment components contributed to improving the exchange within public
+administration at the central, regional and local levels, and strengthened the capacity of
+civil servants.
+Through the Project, the Tunisian government successfully upgraded the technological
+platform to enable the e-administration development. The Project implementation
+ensured the interoperability between national and sectoral computer applications and
+enhanced the use of common standards and references.
+
+                                       e-Disabled
+
+Tunisia’s Ministry of Social Affairs, Solidarity and Tunisians Abroad (Ministere des
+Affaires Sociales, de la Solidarite et des Tunisiens a l’Etranger, MASSTE) estimates that
+the population of disabled persons in Tunisia reaches about 152,000 inhabitants out of a
+population of 10,458,000; about 1.5%. This group subdivides into 43% of citizens with a
+motor disability, 28% with a mental disability, 13% with a visual disability, 12% with a
+hearing disability, and 4% with multiple disabilities.8 According to MASSTE, the better
+socio-economic results are in any given region, the lower the prevalence of disability
+tends to be.
+
+
+
+
+8
+    INS and MASSTE
+
+
+
+                                            1
+Tunisia – through the ICT Sector Development Project – delivered a major success
+among the disabled, in particular for children with mental or hearing disability. Investing
+in ICT can boost the learning of children with disabilities and facilitate their integration
+in the economic and social life. For these benefits to materialize, the necessary
+infrastructure and services need to be established and adapted to the users’ abilities. A
+local software company developed specialized software with a series of courses targeting
+the needs of disabled children, affected by mental and learning disabilities. In 2009,
+5,000 disabled children followed digital courses. Starting school year 2009, these
+programs have been generalized to all special education centers with a computer room
+and to all normal schools that integrate disabled children.
+The ICT Sector Development Project also succeeded in establishing telecenters for
+people with disabilities. Since March 2010, there are a total of 24 centers, which are
+diffused all over the country, one per each region. These centers include equipment with
+Braille keyboards or touch screen and with sign language and various multiple functions.
+Last, the ICT Sector Development Project also promoted nation-wide eAccessibility by
+ensuring the compatibility of all major websites of the government with the W3C/WAI
+standards to enable disabled citizens to access egovernment services.
+The project demonstrated that civil society, NGOs and the social sector can be a good
+partner for the diffusion of ICT for people with disability. The experience of Tunisia also
+shows the benefits of a centralized, planned approach – especially if the ambition is to
+develop mass applications and reach the various regions of the country. The “know how�?
+developed in this project presents a successful example for other countries in the area of
+technical solutions but most importantly in the area of the fine0tuning, coordination and
+management of technology.
+
+
+                                     Back-up Center
+
+The Back-up Center is a critical component to a successful eGovernment platform in
+Tunisia. It was created based on international standards to enable national institutions that
+use major information systems to continuously perform their work under the best
+conditions. The Center serves as a backup and hosts applications that are currently being
+developed at the National Center for Information Technology (CNI) ensuring the
+availability of large applications, supports administration and the continuity of services
+for users. In the future, the Center will also house other applications - according to
+national and sector priority.
+
+The delivery of the Center took longer than the originally set deadline due to the
+complexity of the structure to ensure successful performance and commercial viability.
+
+                                         e-Culture
+
+The eCulture component of the Tunisia ICT Sector Development Project is designed to
+be the most advanced cultural heritage site in the Middle East and North Africa. It will
+
+
+                                             2
+highlight the country’s rich cultural history in English, French and Arabic, and help boost
+much-needed tourism when the internal political and security situation is stabilized.
+Although the eCulture portal was created within the Project timeframe, due to the
+country’s uprising and shifts in the government, it has not been made public by the time
+of writing this report. The full delivery of the component to the public will likely take
+place after the new Ministries of Culture, Industry and Telecommunications resume their
+normal work organization. and will get the opportunity to review it in light of the political
+reforms in the country. With the new regime, the contents of the portal can be even richer
+and more open than before.
+The eCulture portal shows the common historic roots and achievements of the Tunisian
+people, which is especially critical at a time when there is great need for national unity. In
+addition, it is also a representative tool for the Tunisian government to attract tourism
+which has dramatically dropped due to the revolution and regional upheaval.
+
+
+
+
+                                           CERT
+
+
+
+                                              3
+With the increase of the use of the Internet in Tunisia and its intended use for critical
+functions from one side, and from the other side, the progressive evolution of intruder
+techniques and the increased complexity of attacks and their damage, it has become
+important to establish a Tunisian Computer Emergency Response Team “tunCERT�? -
+Formerly known under CERT/TCC- that provides global (National and Regional) support
+for addressing computer security issues.
+
+         Considering the effective cooperation of the World Bank and favor in its
+established efforts in the field since June 2004, at present the TUNISIAN CERT is the
+Only African CERT member of the FIRST (Forum for Incident Response Team) since
+Mai 2007.
+The Tunisian CERT works with the international and national community in detecting
+and resolving computer security incidents, as well as taking steps to prevent incidents. In
+particular:
+
+      Provides a reliable, trusted, 24-hour, single point of contact for emergencies, in
+       order to respond to security incidents, to limit damage and ensure continuity of
+       critical services in spite of successful attacks, accidents, or failures
+       (“survivability�?),
+      Provides high level training and Tunisian Certification for professional, to
+       improve the security of national systems,
+      Initiates proactive measures to increase awareness and understanding of
+       information security and computer security issues throughout the community of
+       network users,
+      Help ensure that appropriate technology and systems management practices are
+       used to protect national information systems,
+      Facilitates communication among professional and experts working in the
+       security field.
+
+       The Tunisian CERT is placed under the management of the “Agence Nationale de
+   la Sécurité Informatique�? (A.N.S.I oo NACS : the National Agency for Computer
+   Security).
+
+       For the preparations for World cup 2010, NACS supported South Africa in the
+   establishment and set up its CERT and to implement its CSIRT (Computer Security
+   Incident Response Team) by developing the different services such as reactive
+   services, proactive services and security quality management services.
+
+Areas of activity
+
+Incident Handling and assistance
+
+       Contributing to our broad view of the state of security is the information that
+reported to A.N.S.I, accordingly to the law (law n° 2004-5 of the 3 February 2004),
+private and public organizations should trust us and provides us with sensitive
+information about security compromises and network vulnerabilities because we are
+
+
+                                            4
+obliged, by law, to keep their identities and other sensitive information confidential. We
+are also able to be neutral, enabling us to work with commercial competitors and
+government agencies without bias.
+        The hotline installed permits reporting of computer security incidents or
+requesting information and support. Therefore, our TUNISIAN CERT staff regularly
+works with sites to help them for computer security incident and try to establish an
+efficient and quite-automated incident-reporting system.
+
+       The Tunisian Cert tries to motivate the establishment of corporate Computer
+Security Incident Response Teams (CSIRT) inside the sensitive and big corporations and
+provides guidance and training to those teams (partially in Tunisia and mostly in foreign
+centers).
+
+        In our vulnerability and incident handling activities, Cert Staff assign a higher
+priority to attacks and vulnerabilities that directly affect the Internet and corporate
+telecommunication infrastructures.
+
+Information, Alert, Education and Awareness
+
+   B   Vulnerability alert: One of our tasks is to analyze the state of Internet security
+       and convey that information to the system administrators, network managers, and
+       wide public in the Internet community .This TUNISIAN CERT monitors sources
+       of vulnerability information and regularly sends reports and alerts on those
+       vulnerabilities (mailing-lists, publication on the web site). We analyze the
+       potential vulnerability and try to work with other CERTs and technology
+       producers to track the solutions to these problems.
+   C   We note that the registration in the mailing-list is customized by profile’s type
+       (Microsoft, Linux, Cisco, SQL, etc.) to help meet the needs and attends of all
+       subscribers.
+   D   Information: To increase awareness of security issues and help organizations
+       improve the security of their systems, we collect and disseminate information
+       through multiple channels (telephone and mailing-lists, World Wide Web site,
+       brochures and Knowledgebase publicly accessible).
+   E   Publications: we develop and publish free electronic publications to shows
+       administrators how to protect systems and networks against malicious and
+       inadvertent compromise.
+
+
+
+
+                                            5
+                          Number of Messages & Publications
+
+
+
+
+                 Evolution of number of the subscribers in Mailing-List
+
+   B   Media information: We work with the news media, and give them the necessary
+       information material and support to raise the awareness of a broad population to
+       the risks they face on the Internet and steps they can take to protect themselves.
+       We assist journalists and more of 15 articles per year who concerns the IT
+       security on the local newspapers, and we participate on periodic animation in
+       national and regional Radios and in the TV programs.
+   C
+   D   Presentations: We give presentations at National and International conferences,
+       workshops, and meetings, as an excellent way to help attendees and Speak about
+       the Tunisian experience in the field. We participate in more 95 National and 25
+       International conferences, workshops, and meetings.
+
+Training
+
+Among the objective of Tunisian Cert is the training of the skills and the trainers
+specialized in the advanced domains of the IT security, and in this frame we have realized
+several training courses (with MisTrainig, HSC, Auditewere) that succeeded more than
+100 trainers, to improve the security and survivability of information system.
+
+
+
+
+                                            6
+The topics (trainees’ courses) are the following:
+   - Network perimeter security technics (Secure architectures, Firewalls, IDS, secure
+       dial-up servers, content gateways and proxies, ..),
+   - Network inside security organization and technics (security policy development,
+       security plan development, tools: Distributed firewalls, Anti-virus gateways, PKI,
+       ..),
+   - Secure application development and hosting technics,
+   - Survivable network technologies, for preserving essential services if a system is
+       penetrated and compromised,
+   - Technical basis for intrusion prevention (identifying and preventing intrusions
+       and security flaws),
+   - Technical basis for Incident handling,
+   - ISO 2700X and ISO 1 9011,
+   - CBK course,
+   - …
+
+We also develop a Tunisian Certification course for security professionals (Auditors) and
+build and setup with national academic institutions training programs (masters’
+professionals).
+
+Enterprise support (security self-assessment)
+
+        For the purpose of helping organizations protect and defend themselves, we gives
+support for some risk self assessments methodologies that help enterprises identify and
+characterize critical information assets and then identify risks to those assets. This gives
+enterprises an efficient tool for identifying risk in their networked systems and keeping
+up with changes over time and uses the results of those assessments to develop or refine
+their overall strategy for securing their networked systems.
+By our Hotline and E-mail, we treat monthly, more than 350 calls receipt and more of 50
+demand of assistance.
+
+Participation in International organizations
+
+        With financing of the World Bank, at present, we are recognized on the
+International field and we are member of the FIRST and we occupy General Secretary's
+post of the OIC-Cert, and we try to take up an African and Arabic Cert.
+
+
+
+
+                                             7
+                                                                                                                                                                                                                                            IBRD 33500R
+
+38°N                                                            8°E                                                                      10°E                                                         12°E
+
+                                                                                                                                                                                                                                        Sicily
+This map was produced by the Map Design Unit of The World Bank.                  M e d iterranean                                                         Sea
+The boundaries, colors, denominations and any other information
+shown on this map do not imply, on the part of The World Bank
+                                                                                                                                                                                                                                       (ITALY)
+Group, any judgment on the legal status of any territory, or any
+                                                                                                 La Galite                                                                            St
+endorsement or acceptance of such boundaries.                                                                                                                                              ra
+                                                                                                                                                                                                it
+                                                                                                                                         Bizerte
+                                                                                                                                                                                                         of
+                                                                                                                  BIZE RT
+                                                                                                                  BIZ ERT
+                                                                                                                  BIZERT E
+                                                                                                                                                    Gulf of Tunis
+                                                                         Tabarka                              .                                                                                                              Si
+                                                                                             s          Mts                                  ARIANA
+                                                                                                                                                   L'Ariana                                                                       ci
+                                                                                                                                                                                                                                       ly
+                                           To
+                                         Algiers                                        Atla                                                       TUNIS                                                      Pantelleria
+                                                                                                          Beja                                                  NABEUL                                        (ITALY)
+                                                                       JENDOUBA                                                                    Ben Arous
+                                       To                               Jendouba
+                                                                                                          BE JA
+                                                                                                          BEJ A                                 BEN AROUS
+                                      Sétif                                                                                                                           Nabeul
+                                                                                     ue                                                            Zaghouan
+                                                                                   eg
+                                                                               ell                                            ZAGHOUAN
+                                                                             M
+                                                                                                    SIL IANA                                                  Gulf of Hammamet
+36°N                                                                                Le Kef                         Siliana                                                                                                                        36°N
+                                                                                                                                                                                                                    Isole Pelagie
+                                                                            KE
+                                                                         LE KEF                                                                     SOUSSE                                                             (ITALY)
+                                                                                                                                                                    Sousse
+                                       To
+                                      Sétif                                                                                                     Kairouan                Monastir
+
+                                                                                        Thala                                                                       MONASTIR                                                      Lampedusa
+                                                                                                                     KAIROUAN                                                                                                       (ITALY)
+                                                                       KASSERINE                                                    ud
+                                                                                                                                                                                  Mahdia
+                                                                          El                                                      ro                  MAHDIA
+                                                                                                                              Ze
+            ALGERIA                                                            Ha
+                                                                                  teb                                                                 El Djem
+                                                         Jabal ash Shanabi
+                                                                  (1544 m)                Kasserine                      Sidi
+                                                                                                                         Bou Zid
+
+                                                                                                        SIDI BOU                                   SFAX
+                                                                                                           ZID                                                            Sfax
+                                                                                                                                                                                      Kerkenna
+                                                                         GAFSA                                                                                Maharès
+                                                                                                                                                                                      Islands                  Mediterr an e an
+                                                                          Gafsa
+                                                                                                                                                                                                                    Sea
+                                                                                                                                                Skhira
+                                                                                                                                                     Gulf of
+34°N                                                                                                                                                 Gabes                                                                                        34°N
+                                                      Tozeur                                                                                                               Houmt Souk
+                                                                                                                                                 Gabes
+                                                TOZEUR                                                                        El Hamma                                            Djerba
+                                                                  Chott el Jerid                                                                                                  Island
+                       To                                                                        Kebili                   GABES
+                    Touggourt
+                                                                                                                                                                                     Zarzis
+                                                                                                                                                      MEDENINE
+                                                                                                                                            Medenine
+                                                                          KEBILI
+
+                                                                                                                                                              Tataouine
+
+                                                                                                                                                                                                                     To
+                                                                                                                                                         Al
+                                                                                                                                                              -Ji                                                  Tripoli
+                                                                                                                                                                    far
+      0      25        50       75    100 Kilometers                                                                                                                      ah
+                                                                                                                                                                               Pla
+                                                                                                                              TATAOUINE                                              in
+      0           25             50           75 Miles                                                                                          Remada
+                                                                                                                                                                                                                L I B YA
+                                                                                                                              g
+                                                                                                                         Er
+32°N                                                                                                                 n
+                                                                                                                 ter
+                                                                                                                                                      Dehibat                                          To
+                                                                                                             s                                                                                       Mizdah
+                                                          8°E
+                                                                                                        Ea
+                                                                                                    t
+                                                                                               ea
+                                                                                          Gr
+                                                                                                         El Borma
+
+
+                  TUN I S I A                                                                                                                                              To
+                                                                                                                                                                           Dirj
+
+
+
+                   SELECTED CITIES AND TOWNS
+
+                   GOVERNORATE CAPITALS
+
+                   NATIONAL CAPITAL
+
+                   RIVERS                                                                                                                                                                                            TUNISIA
+                   MAIN ROADS
+
+                   RAILROADS
+
+                   GOVERNORATE BOUNDARIES
+
+                   INTERNATIONAL BOUNDARIES
+                                                                               30°N
+                                                                                                                                         10°E
+
+                                                                                                                                                                                                                                             JANUARY 2007
+

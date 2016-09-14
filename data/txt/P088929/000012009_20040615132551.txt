@@ -1,0 +1,3019 @@
+                                          Documentof
+                                      The World Bank
+
+                              FOROFFICIAL USEONLY
+
+                                                                         ReportNo: 29292-TN
+
+
+
+
+                            PROJECTAPPRAISAL DOCUMENT
+
+                                             ONA
+
+                                      PROPOSEDLOAN
+
+                        INTHEAMOUNT OFEUR10.8MILLION
+                           (US$13.13 MILLIONEQUIVALENT)
+
+                                           TO THE
+
+                                  REPUBLIC OF TUNISIA
+
+                                           FORAN
+
+ INFORMATIONAND COMMUNICATIONTECHNOLOGIESSECTORDEVELOPMENT
+                                           PROJECT
+
+                                         JUNE 10,2004
+
+
+
+
+Middle East andNorthAfrica Region
+GlobalInformation andCommunicationTechnologies Department
+
+
+This document has a restricted distribution and may be used by recipients only in the
+performanceof their official duties. Its contents may not otherwisebe disclosedwithout World
+Bankauthorization.
+
+                                            CURRENCY EQUIVALENTS
+                                       (Exchange Rate Effective May 31,2004)
+
+                                          Currency Unit = TunisianDinar (TND)
+                                                TND 1.0  = US$0.73394
+                                                 US$l.O  =    TND 1.36250
+
+                                                   FISCAL YEAR
+                                             January 1   - December31
+
+                                       ABBREVIATIONS AND ACRONYMS
+
+ADEB  Aide iila decision budgetaire(Support to budgetary     LO1        Letter o fInvitation
+      decisions)
+ANF   Agence Nationale des Frkquences (National Radio        MbPS       Megabits per second
+      Frequency Agency)
+ANSI  Agence Nationale de Stcurit6 Informatique(National     MCTT       Ministry o fCommunicationTechnologies and
+      Agency for Electronic Security)                                   Transport
+APPC  Agence du mise en valeur du patrimoine et de           M&E        Monitoringand Evaluation
+      promotion culturelle (Agency for the Promotion of
+      Cultural Heritage)
+AT1   Agence TunisieMe de 1'Internet (Tunisian Intemet       MNA        MiddleEast andNorthAfrica
+      Agency)
+BIAT  BanqueIntemationaleArabe de Tunisie (Arab              MEDA       Euro-Mediterranean PartnershipProgrammeof the
+      Intemational Bank of Tunisia)                                     EuropeanUnion
+Bn    Billion                                                MENA       MiddleEastandNorthAfrica
+CAS   Country Assistance Strategy                            NBF        Not Bank-financed
+CBT   Central Bank o fTunisia                                NCB        National Competitive Bidding
+CERT  Computer Emergency ResponseTeam                        OED        Operations Evaluation Department
+CGF   Contr6le General des Finances (Office ofthe            PAQSET     Programme d'amklioration de la qualite du
+      Controller o f Public Finances)                                   systbme educatiftunisien (Program to improve
+                                                                        the quality ofthe Tunisianeducationsystem)
+CNI   CentreNational de 1'Informatique (National             PC         personalcomputer
+      Computer Centre)
+CQ    Consultants' Qualifications                            PCN        Project Concept Note
+DGPE  Direction GCneralede Planification et Etudes           PDO        ProjectDevelopment Objective
+      (Directorate General o fPlanningand Studies )
+DGPS  Directorate General of Planningand Studies             PIC        Public Information Center
+DNS   DomainName System                                      PID        Project Information Document
+ECAL  EconomicCompetitiveness Adjustment Loan                PIP        Project ImplementationPlan
+EPIC  EtablissementPublic 21 CaractereIndustriel ou          PMR        ProjectManagementReports
+      Commercial (Industrial or Commercial State-Owned
+      Enterprise)
+EU    EuropeanUnion                                          PMU         Project ManagementUnit
+FBL   Favorable BusinessLocation                             PPI         PrivateParticipation inInfrastructure
+FMR   Financial MonitoringReports                            PS         private sector
+FSL   Fixed-spread loan                                      PSR         Project Status Report
+G2B    Government to business                                QBS         Quality-based Selection
+G2C   Government to consumer                                 QCBS        Quality- and Cost-BasedSelection
+GDP    Gross Domestic Product                                RFP         Request for Proposals
+GEF   Global EnvironmentalFacility                           RVP         RegionalVice President
+GITR  Global InformationTechnology Report                    SA          special account
+GMPCS Global MobilePersonalCommunications Services           SBD         StandardBidding Document
+GOT   Government o fTunisia                                  SERA        Secrttariat d`Etat A la RCformeAdministrative
+                                                                         (Secretary o f State for Administration Reform)
+GSM   Global Systemfor MobileCommunications                  SIADE       Systeme informatist d'aide 21 la dette exttrieure
+                                                                         (Information systemfor extemal debt
+                                                                         management)
+IAS   IntemationalAccounting Standards                       SITEX       Socitte Industrielle des Textiles (Textiles
+                                                                         IndustrialCompany)
+IBRD  Intemational BankofReconstructionandDevelopment        SMEs        small andmediumenterprises
+ICB   IntemationalCompetitive Bidding                        SOE         Statemento fExpenses
+ICR   Implementation Completion Report                       Sup'Com     Ecole Superieuredes Communications a Tunis
+                                                                         (Technical University for Communications o f
+                                                                         Tunis)
+ICT   Informationandcommunicationtechnologies                TA          technical assistance
+IFC   IntemationalFinanceCorporation                         TAL         technical assistanceloan
+INT   InstanceNationaledes Telecommunications (National      TCCM        Total Country Connectivity Measure
+      Telecommunications Agency)
+
+                                                                       FOROFFICIAL USEONLY
+
+
+
+I S      information systems                                  TORS      terms of reference
+ISDS     IntegratedSafeguardsDataSheet                        TT        Tunisie Telecom
+ISET     Institut Supbrieur d'Etudes Technologiques(Institute USAID     USAgency for IntemationalDevelopment
+         for Higher Studies inTechnology)
+Iset'Com Institut SupCrieurdes EtudesTechnologiquesen         VSAT      Very SmallApertureTerminal
+         Communicationsde Tunis (Institutefor Higher
+         Studies inCommunicationsTechnologiesof Tunis)
+ISP      Intemetservice provider                              WDI       WorldDevelopmentIndicators
+IT       informationtechnology                                WEF       World Economic F o m
+ITU      IntemationalTelecommunicationUnion                   WSIS      World Summit onthe InformationSociety
+LCS      Least-Cost Selection                                 WTO       World Trade Organization
+
+
+
+
+                                            Vice President:    ChristiaanJ. Poortman
+                                  Country Managermirector:     Theodore 0.Ahlers
+                                           Sector Manager:     PierreA. Guislain
+                                        Task TeamLeader:       CarloMaria Rossotto
+
+
+
+
+This document has a restricted distribution and may be used by recipients only in
+the performance of their official duties. Its contents may not be otherwise disclosed
+without World Bank authorization.                                                                __
+
+
+                                                         TUNISIA
+  TunisiaInformationandCommunicationTechnology SectorDevelopmentProject
+
+                                                      CONTENTS
+
+                                                                                                                                             Page
+A. STRATEGIC CONTEXT AND RATIONALE.................................................................                                            1
+1. Country and sector issues            ....................................................................................................   1
+2. Rationale for Bank involvement.........................................................................................                     2
+3. Higher level objectives to which the project contributes                               .................................................... 3
+
+
+B. PROJECTDESCRIPTION.................................................................................................                         3
+1. Lending instrument.............................................................................................................             3
+2. Program objective andphases.............................................................................................                    3
+3. Project development objective and key indicators..............................................................                              3
+4. Project components.............................................................................................................             4
+5. Lessons learned and reflected inthe project design............................................................                               5
+6. Alternatives considered andreasons for rejection..............................................................                               5
+
+
+C. IMPLEMENTATION.........................................................................................................                      5
+1. Partnership arrangements (ifapplicable) ............................................................................                         5
+2. Institutional and implementation arrangements..................................................................                              6
+3. Monitoringand evaluation o f outcomeshesults..................................................................                               7
+4.  Sustainability.......................................................................................................................
+               . .                                                                                                                              9
+5. Critical risks and possible controversial aspects.,.............................................................                            10
+6. Loadcreditconditions and covenants...............................................................................                           11
+
+
+D APPRAISAL SUMMARY...............................................................................................
+  .                                                                                                                                            12
+1. Economic and financial analyses......................................................................................                       12
+2.  Technical........................................................................................................................... 13
+3. Fiduciary ........................................................................................................................... 13
+4.  Social................................................................................................................................. 14
+5. Environment......................................................................................................................           15
+6.  Safeguard policies       .............................................................................................................     15
+7. Policy exceptions and readiness........................................................................................                     15
+
+                                                                                                                                      Page
+
+
+
+
+ANNEXES
+ Annex 1: Country and Sector or Program Background............................................................                          16
+ Annex 2: Major RelatedProjects Financedby the Bank and/or other Agencies......................                                        23
+ Annex 3: Results Framework and Monitoring..........................................................................
+                                                 . .                                                                                   25
+ Annex 4: Detailed Project Description           .....................................................................................  30
+ Annex 5: Project Costs..............................................................................................................   38
+ Annex 6: Implementation Arrangements ..................................................................................                39
+ Annex 7: Financial Management andDisbursement Arrangements ........................................                                    41
+ Annex 8: ProcurementArrangements.......................................................................................                47
+ Annex 9: Economic  and Financial Analysis.............................................................................                 54
+ Annex 10: Safeguard Policy Issues...........................................................................................           55
+ Annex 11:Project Preparationand Supervision.......................................................................                     56
+ Annex 12: Documents inthe Project File.................................................................................                57
+ Annex 13: Statement of Loans and Credits ..............................................................................                58
+ Annex 14: Country at a Glance.................................................................................................         59
+
+                                         TUNISIA
+
+        InformationandCommunicationTechnologies Sector DevelopmentProject
+
+                             MiddleEastAndNorthAfrica Region
+
+                                          CITPO
+
+Date: June 9,2004                              Team Leader: Carlo MariaRossotto
+Country Director: Theodore 0.Ahlers            Sectors: General information and
+Sector MangedDirector: Pierre A. Guislain      communications sector (100%)
+                                               Themes: Infrastructure services for private
+                                               sector development (P);Regulation and
+                                               competition policy (P);Technology diffusion
+                                               (SI
+Project ID: PO88929                            Environmental screening category: Not
+                                               Required
+Lending Instrument: Technical Assistance       Safeguard screening category: N o Impact
+
+
+
+
+[XILoan     [ ] Credit    [ ] Grant [ ] Guarantee   [ ] Other:
+Total Bank financing (US$m.): 13.13
+
+
+
+
+INTERNATIONALBANKFOR                               1.03            12.10              13.13
+RECONSTRUCTIONAND
+DEVELOPMENT
+Total:                                             2.16            13.21              15.37
+
+ResponsibleAgency: Ministryo fCommunication Technologies andTransport (MCTT)
+Address: 3, bis, rue d'hgleterre, 1000Tunis, Tunisia
+Contact Person: Mr.Salem Miladi       Tel: 216-71795 289        Fax: 216-71 792 219
+E-mail: Salem.Miladi@,email.ati.tn
+
+
+
+
+Annual                 1S O          3.50            3.50            3.00             1.63
+Cumulative             1S O           5.00           8.50           11.50            13.13
+
+ Does the project depart from the CAS incontent or other significant respects?
+ Re$ PADA.3                                                                                      No
+
+ Does the project require any exceptions from Bank policies?
+ Re$ PAD D.7                                                                         [ ]Yes [XINO
+ Have these been approvedby Bank management?                                         [ ]Yes [ IN0
+ Is approval for any policy exception sought from the Board?                         [ ]Yes [ ]No
+ Does the project include any critical risks rated"substantial" or "high"?
+~
+
+
+
+
+ Re$ PAD C.5                                                                         [XIYes [ ] N o
+
+ Does the project meet the Regional criteria for readiness for implementation?
+ Re$ PAD D.7                                                                         [XIYes [ ] N o
+
+
+ Project development objective Re$ PAD B.2, Technical Annex 3
+ To assist Tunisia inpromoting the development o f its ICT sector by: (a) supporting ICT
+ institutional and sector reforms; (b) improving its e-security mechanisms; (c) developing e-
+ government applications; and (d) promoting the participation o fthe private sector inthe ICT
+ sector.
+ Project description Re$ PAD B.3.a, TechnicalAnnex 4
+ (a) Informationand Communications Strategy, Policy, and Regulation. Support the GOTon
+ fui-ther opening o fthe ICT sector to private participation and competition, including assistance
+ to: (i)prepare a strategic development plan for the ICT sector; (ii) new telecommunications
+                                                                      issue
+ licenses; (iii)
+               assess constraints on private participationinICT; and (iv) strengthen the
+ telecommunicationsregulatory authority.
+
+ (b) E-government Services andApplications. Support for: (i)        formulation o f an e-government
+ benchmarking and strategy for the Secretary o f State for Administrative Reform; and (ii)
+ implementation o f e-government applications and online services invarious ministries and
+ agencies (which may include Justice, Cultural Affairs, Social Affairs, Communication
+ Technologies and Transport, Tunisian Internet Agency, Iset'Com).
+
+ (c) E-security. Support for: (i) development o f a computer risk prevention strategy; (ii)
+ development o f an e-security research and training capacity; (iii) establishment o f a data backup
+ center to ensure continuity o f government's critical computer applications; and (iv) acquisition
+ o f equipment and software to strengthen research andpractical teaching on e-security.
+
+ (d) ProjectManagement and Support to the Preparation ofWSIS 2005. Support for
+ technical assistance to GOTto implement a complex and fast-paced project, with emphasis on
+ achieving results by the World Summit on the Information Society in2005.
+
+ Which safeguard policies are triggered, ifany? Re$ PAD D.6, Technical Annex 10
+ NA.
+ Significant, non-standard conditions, if any, for:
+ Re$ PAD C.7
+ Boardpresentation:
+ NA.
+ Loadcredit effectiveness:
+      Strengthening of Project Management Unit at MCTT by staffing it with specialists in
+      procurement, ICT, and project management.
+      Adoption by MCTT of Project Implementation Plan satisfactory to the Bank inform and
+      substance.
+
+ Covenants applicable to project imp1ementation:NA.
+
+A. STRATEGIC CONTEXTAND RATIONALE
+
+1. Countryandsector issues
+
+Since the late 1990s, the Govemment o f Tunisia (GOT)has designated information and
+communication technologies (ICT) as a priority development sector. A central objective o fthe
+1Oth Development Plan (2002-2006) is fostering the emergence o fa knowledge-based economy.
+Insupport o fthis objective, the Plangives priority to further developing the ICT sector andaims
+at increasing ICT revenues from 3.5 percent o f GDP in2001 to 7 percent by 2006. The GOT,in
+partnershipwith the World Bank, prepared and issued in2001 a national ICT strategy. In2003,
+at the GOT'Srequest, the Bank carried out a study on private participation ininfrastructure (PPI)
+that included a chapter on telecommunications and information technologies. The current
+Country Assistance Strategy (CAS) for Tunisia identifies modernization of information
+infrastructure services through opening them to private investment as a priority to be supported
+byBank operations. Increasedcompetitiveness andeconomic diversification supported by ICT is
+a key to Tunisia's economic growth, especially since exports will be coming under ever greater
+competitive pressure inthe next few years and its internal market will needto gear upto face the
+impending completion o f the free trade zone with the EUby 2008.
+
+Inpursuingthese goals, the GOThas successfully undertakenseveral measures aimedat
+enhancing the diffusion of ICT among enterprises and consumers. Inthis field, Tunisia i s ahead
+o f comparable countries and is the leader inMENA. The GOThas, among other initiatives: (a)
+successfilly developedthe e-dinar platform; (b) developede-procurement; c) contributed to
+dissemination o f ICT intrade facilitation programs and policies (Tunisie TradeNet); and d)
+supported PubliNets and affordable PCs for the population at large.
+
+The GOThas also implementedcertain measures to reformthe telecommunications sector
+underpinning the broader ICT sector: (a) Competition inmobile telephone service, introduced in
+2002 by awarding a second operating license to a private operating company with foreign
+participation, has increased I C Trevenues to 6 percent o f GDP in2003; (b) New Intemet service
+providers have been authorized; (c) A license was issued for data services usingVSAT (Very
+Small Aperture Terminal) satellite technology; and (d) A global mobile satellite service was
+introduced by Tunisie Telecom, the incumbent state-owned telecommunications operator.
+
+Progress has also been achievedtowards modemizing the legal and regulatory framework o f
+telecommunications. Duringthe last three years the GOThas: (a) enacted a new
+telecommunications law; (b) issued implementing regulations on interconnection, numbering,
+and spectrum management; (c) created the Instance Nationale des Telecommunications (INT) to
+regulate interconnection, numbering, and other matters and adjudicate disputes between
+operators; (d) created the Agence Nationale des Frequences (ANF) to manage the radio
+spectrum; and (e) approved an amendment to the telecommunications law to increase INT's
+financial independence.
+
+Telecommunications sector reform, however, has been slower than incomparable developing
+countries inMENA and other regions. This is likely to be constraining growth o f information-
+intensive sectors across the whole economy. Reformis also behind schedule relative to Tunisia's
+commitments under the World Trade Organization (WTO), which included fully liberalizing
+
+
+                                                 1
+
+packet switched data transmission from 1999, mobile telephony from 2000, and local telephone
+
+2002. The GOTschedule under the lothDevelopment Plan to issue additional
+service from 2003, and allowing up to 10percent o f foreign ownership inTunisie Telecom from
+
+telecommunications licenses and sell a minority ownership share o f Tunisie Telecom to foreign
+investors i s on track, but it would still fall short o fthese commitments, placing at risk the GOT'S
+ambitious targets for ICT growth.
+
+Specific issues that will remain a priority over the coming years are: (a) developing the ICT
+potential o f the Tunisian private sector; (b) accelerating Internet and ICT use by firms and
+consumers; (c) extending access to I C T in rural areas; (d) increasing competition and private
+participation in all segments o f the telecommunications market; (e) improving availability and
+reducing price o f broadband services; and (0 enhancing reliability and security o f information
+and communications networks.
+
+2. Rationale for Bank involvement
+
+The proposedproject approach i s consistent with the World Bank Group's strategy for the ICT
+sector approvedby the Board of Directors in September, 2001. This strategy calls for advancing
+sector reform by (a) broadeningthe focus across all ICT components (including the postal
+sector); (b) creating an enabling environment for e-commerce and e-government; (c)
+strengthening policy and regulatory institutions to implement sector reform; (d) promoting
+growth, efficiency, quality, and innovation through competition andprivate sector participation;
+and (e) promoting access to information infrastructurewith a special focus on rural communities.
+The Bank has several comparative advantages to assist the GOTinthis sector:
+
+
+    0   The Bank brings the right mix of technical assistance and advice to help focus the GOT
+        on priority issues and make the case for sector reform. The Bank has maintained an
+        extensive ICT policy dialogue with the GOTfor several years and i s fully aware o f the
+        sector issues andmainplayers. It also maintains a dialogue on telecommunications sector
+        reform, e-government, and I C T development inabout eighty countries all over the
+        developing world, including the MENA region (Algeria, Egypt, Jordan, Lebanon,
+        Morocco, Saudi Arabia, and Tunisia). The Bank i s thus well equippedto informthe GOT
+        about sector best practices and discuss the benefits of different approaches to sector
+        reform inthe Tunisian context.
+    0   The Bank has implemented scores of telecommunicationsprojects and has proven
+        expertise as well as a large pool o f specializedskills indesigning effective policies for
+        helping countries make the transition to an information-based economy.
+    0   The Bank can identify international global best practices relevant to the developing world
+        innew areassuch as e-applications ande-government.
+    0   The Bank i s well placedto play a leadership role among donor agencies inthis broad and
+        complex area, helping to prevent overlaps and conflicts.
+
+The GOTrequested the Bank to support I C T sector reform intelecommunications and the e-
+agenda inconjunction with their preparation for the second phase o fthe World Summit on the
+Information Society (WSIS), which will take place inTunis inNovember, 2005.
+
+
+
+
+                                                      2
+
+3. Higher level objectivesto whichthe projectcontributes
+
+The project contributes to the implementation o f Tunisia's lothDevelopment Plan covering the
+period 2002-2006. The project helps (a) develop the information infrastructure neededto
+underpin rapideconomic growth and employment, especially inmodern and export-oriented
+sectors; (b) increase competition andprivate sector participation inthe I C T sectors; and (c)
+achieve more effective delivery o f social and govemment services.
+
+The project is also consistent with the Bank's CAS o f June 3,2004, the PPI study o f2003, and
+the ICT strategy o f 2002. The project provides an opportunity for the Bank to accompany the
+GOTas it faces new opportunities andchallenges inICT sector policy and strategy. Inparticular,
+the project helps prepare the way towards (a) modemizing the ICT infrastructure neededto build
+the knowledge economy and integrate into the global economy; (b) reducingthe highcost o f
+telecommunications services currently handicappingmany sectors o f the economy; and (c)
+improving the effectiveness and transparency o f ICT sector management and regulation.
+
+More immediately, the project also helps (a) identify impediments to private sector participation
+inICT andcreate anddevelop ICT firms; (b) leverage Tunisia's goodrecordingovernment
+services by devising an e-government strategy and implementing selected e-government
+applications; (c) increase ICT training and capacity buildingfor ICT firms, professionals,
+disabled persons, and govemment service providers; and (d) strengthen the GOT'Sproject
+management capacity.
+
+
+B. PROJECTDESCRIPTION
+
+1. Lendinginstrument
+
+The proposed instrument i s a Technical Assistance Loan (TAL). This instrument was chosen for
+the highcontent o ftechnical assistance and specialized advisory services requested by the
+Borrower.
+
+2. Programobjectiveandphases
+
+Not applicable.
+
+3. Projectdevelopmentobjectiveand key indicators
+
+The project development objective is to assist the Borrower inpromoting the development o f its
+ICT sector by (a) supporting ICT institutional and sector reforms; (b) improving its e-security
+mechanisms; (c) developing e-govemment applications; and (d) promoting the participation o f
+the private sector inICT development.
+
+The project i s expected to (a) develop a long-term strategic plan for I C T sector development,
+with increased private sector participation andcompetition; (b) strengthen the capacity o f sector
+institutions; (c) develop the government's e-agenda as well as simplify procedures and achieve
+efficiency gains inthe delivery of selected govemment services to private businesses andthe
+
+
+
+                                                 3
+
+population at large; (d) develop competencies and expertise for e-security, and improve
+preparedness incase o f cyber-attacks or disaster; and (e) assist the GOTinthe monitoring and
+implementation o f key sector improvements before the World Summit on the Information
+Society inTunis inNovember 2005.
+
+4. Project components
+
+The project includes the following four components, addressing each o fthe project objectives set
+forth above:
+
+    1) Informationand Communications Strategy, Policy, andRegulation. This component
+       will assist the GOTon further opening o fthe ICT sector to private participation and
+       competition. Inparticular, the project will support (a) elaboration o f a strategic long-term
+       plan for developing the ICT sector, including a strategy for promotion o funiversal
+       access; (b) assistance for the award o f additional licenses; and (c) assistance to the
+       Instance Nationale de Tklkcommunications, the telecommunications regulatory authority.
+
+       E-government Strategy, Services, and Applications. The project will support (a)
+       formulating an e-government benchmarking and strategy, which is being coordinatedby
+       the State Secretariat for Administrative Reform(Secrbtariatd'Etut ti la Rbforme
+       Administrative - SERA); (b) developing e-govenunent applications and online services
+       inGOTministries andagencies, suchas the MinistryofJustice andHumanRights(portal
+       and on-line services), the Ministry o f Culture, Youth, and Leisure (portal and on-line
+       promotion), and the Ministryo f Communication Technologies and Transport (virtual ICT
+       library); (c) providing solutions to equip selected schools and social service centers with
+       specialized IT solutions for the disabled, under the direction o fthe Ministryo f Social
+       Affairs and Solidarity; (d) assisting the Tunisian Internet Agency inthe development o f
+       an Arabic DomainName System (DNS) registry; and (e) increasingthe ICT training
+       capacity o f ISET'Com by providing a distance-learning platform and content for building
+       ICT capacity inTunisia.
+
+    3) E-Security: The project will (a) develop and implement a computer risk-prevention
+       strategy based on the Computer Emergency Response Team (CERT) model; (b)
+       strengthen e-security research andtraining capacity; and (c) establish a data backup
+       centre to ensure continuity o f government's critical computer applications.
+
+    4) Project Management and Support to the Preparation ofWSIS 2005. This component
+  '    will provide technical assistanceto the GOTto implement a complex andfast-paced
+       project, with emphasis on results by WSIS in2005. Itwill include (a) Technical
+       Assistance to strengthen the Project Management Unit (PMU); (b) supporting an I C T
+       statistical and economic analysis unitwithin the Ministryof Communication
+       Technologies and Transport (MCTT) to develop and implement monitoring and
+       evaluation activities, measure progress inthe sector, publisha regular monitoring and
+       evaluation report, andprovide inputto policy-makers; and (c) preparatory activities for
+       the World Summit on the Information Society 2005.
+
+
+
+
+                                                 4
+
+The project activities will include (a) technical assistance; (b) procurement o f goods, IT
+equipment, and services; and (c) training.
+
+5. Lessonslearnedandreflectedinthe projectdesign
+
+The following lessons drawn from past Bank operations and global good practice were reflected
+inthe projectdesign:
+
+         Where there is full ownership by the Borrower o f a project, the likelihood o f success i s
+         enhanced. The GOTrequested this TA loan to support Tunisia's readiness to host the
+         World Summit on the Information Society (WSIS) to be held inTunis inNovember
+         2005. This is a unique opportunity for the Bank to support the modernizationo f the ICT
+         sector inTunisia and set the stage to buildour policy dialogue for lasting changes
+         around the world.
+         Support from on-site advisers and operational advice regarding priority issues duringthe
+         initial stage are invaluable for the design and implementation o f the project.
+         Governments that have succeeded inthe e-agenda have opened upthe ICT sector to
+         competition andprivate sector participation, andhave established a telecommunications
+         regulator that i s independent from the operators andprotectedfrom political
+         interference.
+
+6. Alternatives consideredandreasonsfor rejection
+
+Given the tight time frame within which the GOTis seeking assistance, a possible conventional
+operation with substantial policy conditionality was considered impractical at thisjuncture. The
+project, rather than being a reformproject, helps develop a cooperative relationship that will
+provide the basis for further policy dialogue. Many project activities will provide direct support
+to sector reform.
+
+An alternative project approach originally envisaged, but subsequently rejected, had a broader
+scope regardingprivate sector development inthe ICT sector. This approach would have
+includedthe financing o f substantial civil works for the `Technopole' cyberpark and direct
+support to small and medium enterprises inthe ICT sector. This approach, however, would have
+added complexity to the project, reducedproject focus, required detailed economic analysis, and
+resulted insubstantial delays.
+
+
+C. IMPLEMENTATION
+
+1. Partnershiparrangements
+
+This Information and Communication Technologies Sector Development Project is financed by
+the IBRDand the Tunisian Government. The GOT'Sinterest indeveloping the I C T sector goes
+back several years. In 1998, following a speech from President Ben Ali, the ITU's
+plenipotentiary meeting inMinneapolis adoptedResolution 73 selecting Tunisia as the host o f
+the second phase o fthe WSIS inNovember 2005. In2001, the GOTprepared and issued a
+national ICT strategy, inpartnership with the World Bank. In2003, at the GOT'Srequest, the
+
+
+                                                   5
+
+Bank finalized a study on private participation ininfrastructure(PPI) that included a chapter on
+telecommunications and information technologies.
+
+Although no formal co-financing or parallel financing i s plannedwith other donors for this
+particular project, both the African Development Bank and the EuropeanUnion(EU) were
+partners inrecent Bank ICT sector operations inTunisia. The EUremains active intraining
+initiatives (MEDA) and insupport for the second phase o f WSIS. USAID is providing funding
+to the Sfax cyberpark, one o f the seven planned ICT technopoles inTunisia. Inaddition, the
+Japan Bank for International Cooperationandthe European Investment Bank have planned
+activities inthe area o ftechnopark investment and development. These initiatives andthe
+proposedBank project complement each other.
+
+2. Institutionalandimplementationarrangements
+
+Implementation period: The project will be implemented over a period o f four and a halfyears,
+from July 1,2004 to December 31,2008.
+
+The Ministry o f Communication Technologies and Transport (MCTT) will be responsible for the
+overall coordination, implementation, and supervision o f the project. For each activity
+concerned, MCTT, through the Project Management Unit (PMU), will consult with, and delegate
+to, the relevant participating agencies and ministries.
+
+The Project Management Unit (PMU) of the MCTT, currently coordinating the Bank-financed
+Transport Sector Projects Iand 11, will assist the MCTT. The PMU, under the responsibility o f
+the Director General o f Planning and Studies o f MCTT, i s currently composed o f a Project
+Coordinator and two staff. The PMU has acquired significant experience in accounting and
+financial monitoring, as well as some experience inprocurement, under Bank-financed projects.
+The PMUwill be strengthened per the procurement assessment summarized inAnnex 8.
+
+For this project, the PMU will be (a) the main counterpart to the Bank in the implementation o f
+procurement activities and quality assurance o f the documentation subject to the Bank's review
+and no objection, and, as such, it will ensure compliance with the Bank's procurement rules in
+this project; and (b) responsible for the overall financial management o f the project, including
+disbursements.
+
+Financial reporting and disbursements: The P M U will be in charge o f the overall financial
+management of the project. The PMU has acquired a substantial accounting and financial
+monitoring experience with World Bank-financedprojects. The PMU will consolidate data related
+to transactions made by participating agencies and ministries and will periodically prepare
+consolidated financial statements and quarterly Financial Monitoring Reports. Overall, this unit is
+responsible for sustaining a financial management system acceptable by Bank standards, and for
+ensuring compliance with the Bank's procurement, disbursements, and financial reporting
+procedures.
+
+
+
+
+                                                  6
+
+3. Monitoring and evaluation of outcomes/results
+
+The PMU will be responsible for monitoring progress via performance indicators. A
+procurement package in Project Component 4 (Project Management and Support to the
+Preparationo f WSIS 2005) will provide the technical assistance required by the PMU. The P M U
+will generate and submit to the Bank semi-annual progress reports. The Bank will conduct a
+minimumo f two supervision missions per year duringproject implementation as well as annual
+progress reviews. A mid-term review will be conducted, which will encompass (a) a thorough
+review o f the execution o f the project and the achievement o f project objectives to date; and (b)
+agreement between the Bank and the Borrower on recommended measures to ensure efficient
+execution o f the project and successhl achievement o f project objectives in the period after the
+review, all in accordance with agreed performance indicators. The GOTwill transmit to IBRD a
+project completion report within six months o f loan closing.
+
+The head o f the PMU will act as Monitoring and Evaluation Project Coordinator. The
+Coordinator will be responsible for M&E activities across the units of the various participating
+agencies and ministries, and for monitoring and evaluating results. The Statistics and Economics
+Unit inthe MCTT will report to the Coordinator for project monitoring and evaluation matters.
+They would report to their own director inthe MCTT for providing inputs to policy-makers. For
+the monitoring and evaluation fhctions, the Coordinator will collect information from a range o f
+participating agencies, including ATI, SUP'Com, ISET'Com, ANSI, CNI, and the concerned
+Ministries (Justice, Social Affairs, SecrCtariat d'Etat  la RCforme Administrative). The Statistics
+and Economics Unit at the MCTT will work with the PMUto produce an annual Monitoringand
+Evaluation Report, and they will share ownership and responsibility for it. Ultimately, the
+Coordinator at the PMU will oversee, and is accountable for, the annual report and its
+submissionto the World Bank.
+
+A steering committee (Comitk de Coordination) will be in charge o f general policy guidance
+and ensuring the consistency and smooth execution o f the project. It will meet at least twice a
+year. Placed under the Minister MCTT (or his representative), it will be composed o f
+representatives o f the Ministry o f Development and Intemational Cooperation and the Ministry
+o f Finance, and o f the participating agencies and ministries, as well as the Project Coordinator.
+
+
+
+
+                                                   7
+
+ Table 1:AgreedProjectObjective,ResultsandIndicators
+
+ProjectDevelopmentObjective                           OutcomeIndicators
+The objectives o f the Project are to assist the      Increase inshare o fICT sector inGDP from 6.0% in2003
+Borrower inpromotingthe development o f its ICT       to 8.5% in2008. (CAS indicator)
+sector by (a) supporting ICT institutional and sector
+reforms; (b) developing e-government applications;
+(c) improving its e-security mechanisms; and (d)
+promoting the participation o fthe private sector in
+the ICT sector.
+IntermediateResults                                   Resultsindicators
+
+Informationand CommunicationsStrategy,                Awarding o fnew licenses in2004-2005 inthe VSAT and
+Policy and Regulation                                 data transmission segments.
+
+Improve the performance o f the ICT sector through    Number o f fixed and mobile telephone lines as % o f
+fostering institutional reforms in                    population reaches60% by 2008 (up from 32% in2003)
+telecommunications and electronic services.           (CAS indicator)
+
+                                                      Increase inshare o fprivate sector investment inICT sector
+                                                      from 35.2% o f total in2003 to 60% o f total investment by
+                                                      project-end 2008.
+E-governmentServices andApplications                  Implementation o ftwo new e-government portals by
+Simplify procedures and achieve efficiency gains in   November 2005 and two additional new e-government
+the delivery o fselected government services to       portals by project-end 2008.
+citizens.                                             Increase inrequestsby private sector and citizens submitted
+                                                      over these new e-government service sites. Methodology to
+                                                      calculate indicators andbase value to be provided by the
+                                                      GOTprior to mid-termreview.
+
+                                                      (Statistics Unitwill develop methodology andoptions for
+                                                      one additional outcome indicator to track e-government
+                                                      outcomes, andpresent these together with their value inlast
+                                                      available year to the Bank by mid-term review. From these,
+                                                      one additional e-government indicator will be selected.)
+E-Security.                                           Creation o f computer emergency response team and
+
+Develop competencies and a culture for e-security,    organization o fthree training or CERT workshops before
+
+and improve preparedness incase o f cyber-attacks     the end o f 2005.
+
+or disaster.                                          Creation o f a backup data centre for critical government
+                                                      applications and testingby the end o f 2005.
+
+                                                      (Statistics Unit will develop methodology and options for
+                                                      one additional outcome indicator to track e-security
+                                                      outcomes, andpresent these together with their value inlast
+                                                      available year to the Bank bymid-term review. From these,
+                                                      one additional e-security indicator willbe selected.)
+ProjectManagementand Support to Preparation Publicationo feconomic andstatisticalanalyses o fTunisian
+of WSIS 2005                                          e-agenda successes achievedby WSIS
+
+
+Data will be collected and reported annually by the newly-created Statistics and Economics Unit
+ofMCTT.
+
+
+
+
+                                                         8
+
+4. Sustainability
+
+The project takes advantage o f a moment when increased demand for ICT services from the
+private sector and civil society is coinciding with strong GOTmotivation to support andpromote
+the project. The project exhibits a number o f important characteristics that contribute to its
+sustainability:
+
+        The project uses lessons learned not only from the previous Bank projects but also
+        lessons from ongoing successful efforts made inthe region by countries such as Algeria,
+        Morocco, Jordan, and Turkey. The governments can learn from world best practices in
+        ICT, andto incorporatethese lessons into sustained ICT, telecommunications, and e-
+        govemment programs.
+        The project plans to provide capacity buildingactivities to the MCTT. These activities
+        will strengthen the long-termcapability for the sector agencies to effectively manage the
+       telecommunications andICT sectors andhelp buildup the ongoing policy dialogue.
+        Training activities are included inthe project design, and will benefit employees from the
+        MCTT andother participatingagencies andministries.
+        The project will embed a M&E component and support to an economics and statistics
+        unitwithinthe MCTT.
+        Intensified policy dialogue on sector reform will benefit sustainability o freform inthe
+        area o f telecommunications competition andregulatory reform.
+
+
+
+
+                                                  9
+
+5. Critical risksand possible controversialaspects
+
+                 Risk                    RiskRating           RiskMitigationMeasure
+FromOutputsto Objective
+
+GOThas an inherent bias toward               H       The applications supported by the project
+public provision o f services.                       would be implementedthrough private
+                                                     firms competitively selected, consistent
+                                                     with good international practice.
+
+GOT'Sconcernwith security is an             M        A consultative process wouldbe
+obstacle to private sector participation             developed that will give the private sector
+inthe sector, andmaybearoadblock                     and other stakeholders an avenue to
+for the increasedtransparency needed                 express their views on ICT development
+to develop an information society.                   and add transparency to related GOT
+                                                     processes.
+The Bank's has limitedexperience            M       The project has selected a few areas in
+with the electronic services agenda.                which to develop well-specified
+                                                    applications inthe electronic delivery o f
+                                                    services areas where the Bank has
+                                                    expertise. Activities that were loosely
+                                                    definedby the client or that strayed from
+                                                    .the areas o f Bank expertise were excluded.
+
+The GOTwill implement the project           M        The project includes certain long-term
+activities before WSIS but the interest              activities, that can have a strategic
+inthe project will subsequently be                   importance. These include the strategic
+reduced.                                             plan for telecommunications and ICT and
+                                                     the e-government strategy. Unallocated
+                                                     funds to implement activities after WSIS
+                                                     are also included. Longterm capacity
+                                                     buildinginthe MCTT is also an activity
+                                                     that will span beyond WSIS.
+
+
+
+
+                                            10
+
+                  Risk                 RiskRating              RiskMitigationMeasure
+From Components to Outputs
+
+The GOTwill decentralize the project         H       The following risk mitigation measures
+activities to too many participating                 have been discussed with the Government:
+agencies, most o f which have limited                (a) establishment o f a strengthened PMU,
+experience inpreparing and executing                 that will coordinate the project activities;
+World Bank projects. This may result                  (b) agreement to staffthe PMUwith
+inhighimplementationrisk.This is                      additional staff, with expertise in
+the most important risk identifiedby                 procurement, ICT, andproject
+the task team.                                       management; (c) provision o f specialized
+                                                      training inprocurement; and (d) agreement
+                                                      to focus on certain priority areas for the
+                                                      first year o fthe project.
+
+The project will provide assistanceto        H        The Bank will leverage its presence to
+the different sector agencies but key                 provide advice on regulatory reform,
+political issues insector reform may                  linkingthe existing operation to other
+not be directly treated.                              operations and tools to enhance policy
+                                                      dialogue.
+
+The Government will implement the            M        GOThas shown slow but steady progress
+studies on opening up o fthe sector to                inthe implementationofthe liberalization
+competition, but will not award new                   timetable. License awarded to existing
+licenses.                                             private sector operators, although small in
+                                                      number, are drafted accordingto good
+                                                      international practice.
+E-government services will be under-         H        The Bank will intensify its policy dialogue
+usedby citizens due to restrictive                    on telecommunications reform and
+government policies on Internet,                      Intemet sector regulation duringthe
+which hamper development o f                          implementation o f this project.
+Internet hosts andprovision o f
+Intemet access services.
+
+Overall RiskRating                           H        Highdespite Government agreement on
+                                                      risk mitigation measures.
+
+Risk Rating - H(HighRisk), S (Substantial Risk), M(Modest Risk), N(Negligib1e or L o w Risk)
+
+
+6. Loadcredit conditions and covenants
+
+BoardApproval Conditions:
+        None.
+
+
+
+
+                                             11
+
+EffectivenessConditions:
+   0    Standard conditions (i.e. legal opinion and ratification)
+        A PMUshouldbe established, with a project coordinator, an internationalprocurement
+        specialist, an ICT specialist, anda project management specialist.
+   0    The Project ImplementationPlan, inform and substance satisfactory to the Bank should
+        be adopted.
+
+Dated Covenants:
+        No later than September 30,2004, recruit a procurementexpert for the PMUto review
+        procurement-related documentation under the project, on the basis o f experience,
+        qualifications, andterms o freference satisfactory to the Bank.
+   0    Before December 31o f each year (and beginning by December 31,2004), send the
+        Project Monitoring and Evaluation Report, covering progress inimplementing the project
+        and inachieving its development objectives.
+   0    Submit audited financial statements not later than six months after the end o f each fiscal
+        year.
+        Prepare, under terms o freference satisfactory to the Bank, and furnish to the Bank, on or
+        about June 30,2006, a project mid-term review report.
+        Conduct the mid-termreview by September 30,2006.
+
+D. APPRAISALSUMMARY
+
+1. Economic and financial analysis
+
+The project is expected to result inconsiderable economic benefits but these cannot be separated
+out from those o f ICT development generally:
+
+       Increased I C T expenditures, initially intelecommunications services not directly relatedto
+      project activities and inthe longer runfrom both investments inthe I C T sector to expand
+      production andbackward linkages to other sectors.
+
+       Declining production costs as effective competition develops intelecommunications, in
+      the short term benefiting mainly the service sectors and, inthe longer run, also spurring
+      productivity gains inother sectors.
+
+       Lower transaction costs throughout the economy andbetter access to services by the
+      population at large, resulting from increased used o f the Internet, including e-commerce
+      and e-government applications.
+
+       Lower risk o f systemic failure o f critical Government administrative information systems,
+      resulting from the adoption and implementation o f an e-security program.
+
+       Employment creation related to (a) new work opportunities inthe ICT sector that more
+      than offset labor productivity gains from competition; and (b) higher economic growth and
+      diversification, following economy-wide spillovers o f ICT development.
+
+
+
+
+                                                    12
+
+Technical assistance included inthe project, together with the arrangements agreed to procure all
+goods and services, are likely to result incost-effective solutions being generally adopted.
+Annex 9 gives further details on the economic appraisal.
+
+2. Technical
+
+Experience inTunisia under previous projects involving the MCTT, as well as inother countries,
+suggests that the technical choices the government has made for the various subcomponents o f
+this project are overall reasonable. The Government established a technical committee within
+MCTT for project preparation, which reviewedthe quality o fproposals from a technical
+standpoint.
+
+A teamo fspecialists from eachparticipatingentity prepared each subcomponent o fthe project,
+which were then submitted to the technical committee. Only subcomponents accepted by the
+technical committee were presented to the World Bank for evaluation. Based on this list, the
+Bank pre-appraisal mission assessedthe technical aspects o fthe various subcomponents as well
+as their consistency with Bank policies and the Tunisian CAS objectives. Inparticular,
+subcomponents were evaluated interms o f their potential to increase private sector participation
+and competition. As a result, several subcomponents were excluded. Further selection occurred
+duringloanprocessing andnegotiations, to reduce the number o fsubcomponents andkeep those
+whose technical choices better satisfied the selection criteria and were ina more advanced state
+o f preparedness. As a result, the subcomponents selected were generally ratedas satisfactory.
+
+3. Fiduciary
+
+Financial Management
+
+Overallfinancial management risk is low.
+
+The Project Management Unit (PMU) has acquired a substantial accounting and financial
+monitoring experience with World Bank-financedprojects. As a result, its management capacity
+is inaccordance with the Bank's financial management requirements. Hence, the risk inherent to
+the financial management o f this project is low.
+
+An assessment o fthe PMU's financial management capacity has been conductedinthe context
+o f the appraisal mission o fthe project. The assessment focused on the accounting system, the
+internal control mechanisms, the audit modalities, the existing information system, the
+monitoring and financial management software application, andthe financial management
+reporting capacity allocated to the project implementation. The FinancialMonitoringReports
+(FMR)templates were presentedto and discussedwiththe PMU.
+
+The MCTT provides an appropriate accounting and internal control system, as well as
+satisfactory yearly external audit arrangements. The M C T T prepares satisfactory Project
+Management Reports (PMR) and will be able to prepare Financial MonitoringReports (FMR)
+for the new project, considering that they are a simplified form o f the PMR. The FMR format has
+been agreed andwill be integrated into the Project ImplementationPlan (PIP). The software used
+bythe PMUcouldproduce the FMRinaccordance withthe templates discussed, provided the
+
+
+
+                                                  13
+
+software development firmupdates the reporting forms, This is considered as a minor weakness,
+which needs to be addressedtimely by the PMU, but which does not require a formal actionplan
+to be detailed inthis report.
+
+Procurement
+
+Overallprocurement risk is high.
+
+Procurement o f goods and services, including consultant services (firms and individuals) will be
+processed inaccordance with World Bank guidelines Procurement under IBRD Loans and IDA
+Credits, May 2004, Selection and Employment of Consultants by WorldBank Borrowers, May
+2004.
+
+The implementation arrangements for the project are provided inAnnex 6. An assessment o fthe
+capacity o fthe implementing agency to implement procurement actions for the project has been
+carried out duringpre-appraisal/appraisal mission. The PMUhas acquired some procurement
+experience with World Bank-financed projects. However, given the complexity andthe tight
+timetable for the project, the PMU's staffing will need to be strengthened. The corrective
+measures to address the highprocurement riskwhich have been agreed are: (a) recruitment by no
+later than September 30,2004 o f a procurement specialist (to be hired by MCTT out o f loan
+funds and incompliance with Para. 1.8 o fthe Guidelines for Consultants), to provide technical
+assistance to the PMUto handle the initial procurement activities, while buildingup the capacity
+o f the PMU. This specialist will work with the P M U for a period o f at least 12months; (b) as an
+effectiveness condition, strengthening the PMUby staffing itwith specialists inprocurement,
+ICT, andproject management with knowledge o f ICT. These specialists are expected to be
+recruitedfrom withinthe Government and couldbe appointed for the duration o fthe project. If,
+duringproject implementation, additional efforts appear necessary to strengthen the PMU's
+capacity, loan funds couldbe usedfor such purpose; (c) providing representatives o f all
+participating agencies and ministries a short training inTunisia no later than the time o fproject
+launch, and (d) an indepth training o f at least one member o f the PMUinthe Procurement
+Course organizedby the World Bank inDakar (November 2004).
+
+4. Social
+
+The project will have a positive impact on citizens, firms, disabledpersons, and generally those
+who use Tunisian online information services. The project will create readily available content
+on the activities o fthe Government, facilitate opportunities for investment by the private sector,
+provide additional and affordable access to telecommunicationsthrough the provision o fnew
+licenses andtesting o fprovision o frural access through a pilot broadbandprogram, strengthen
+the capacity o f ICT firms inTunisia, andallow for transparent online transactions with the
+Government.
+
+Specific impacts are anticipated, for example, inthe following activities o fthe project:
+
+        Providing handicapped persons with improved access to basic education, specialized
+        workstations and an improved ability to participate inthe information society from a
+        civic or professionalperspective
+
+
+
+                                                  14
+
+     0   Providing improved and easy access to government information(i.e.: regulations and
+         jurisprudence, health information, etc) as well as to transactions with the government
+
+The project will increase the effectiveness of government services delivered. Reducingthe
+burden by government on private sector development (e.g., by transparently obtaining a permit)
+will free entrepreneurs' energies anddirect them to productivelabor, andhence contributingto
+the general economic growth. Similar indirect impacts will flow from reducing the burden of
+time and expense on individuals who needto interact with the Government.
+
+There are no resettlement or other possibly negative social issues associatedwith the project.
+
+5. Environment
+
+Environmental category: C Not Required
+                                   -
+This i s a telecommunications, ICT, and e-applications within government project which
+encompasses policy, legal, regulatory, and institution-building activities, and an investment
+component to help computerize, streamline and Web-enable the management ofvarious
+government agencies and ministries. There are hence no environmental issues anticipatedinthe
+project  .
+6. Safeguard policies
+
+  Safeguard Policies Triggered by the Project                                           Yes                   N o
+  Environmental Assessment (OP/BP/GP 4.01)                                               [I                    [XI
+  Natural Habitats (OP/BP 4.04)                                                          [I                    [XI
+  Pest Management (OP 4.09)                                                                                    [XI
+  Cultural Property (OPN 11.03, being revised as OP 4.11)                                E[Il                  [XI
+  Involuntary Resettlement (OP/BP 4.12)                                                  [I                    [XI
+  Indigenous Peoples (OD 4.20, being revisedas OP 4.10)                                  [I                    [XI
+  Forests (OP/BP 4.36)                                                                   E l                   1x1
+  Safety o f Dams (OP/BP 4.37)                                                           [I                    [XI
+  Projects inDisputedAreas (OP/BP/GP 7.60)*                                              [I                    [XI
+  Projects on International Waterways (OP/BP/GP 7.50)                                    E l                   [XI
+
+7. Policy exceptions and readiness
+
+N o policy exceptions are anticipated.
+
+Readiness was determinedfollowing the PAD review meeting heldon May 20,2004, using
+criteria agreed at that meeting as well as standard Bank criteria. Inaccordance with these
+criteria, MCTT, among other things:
+
+    0   participated injoint project preparation;
+    0   preparedthe procurement plan for the first 18 months of the project;
+   0     agreed to strengthen the implementation capacity o fthe PMUby recruiting experts in
+        procurement, ICT, andproject management prior to effectiveness.
+
+* By supporting theproposedproject, theBank does not intend toprejudice thefinal determination of theparties'claimson the
+disputed areas.
+
+
+
+                                                            15
+
+                    Annex 1: Country andSector or ProgramBackground
+     Tunisia InformationandCommunicationTechnologiesSector DevelopmentProject
+
+
+communication technologies (ICT) as a priority development sector. Most recently, inits loth
+Since the late 1990s, the Government o f Tunisia (GOT)has designated information and
+
+Development Plan (2002-2006) it highlightedas one o f its key objectives fostering the
+emergence o f a knowledge-based economy. As one o fthe main underpinnings ofthis goal it has
+given highpriority to the further development of the ICT sector, inorder to increase ICT
+revenues as a percentage o f GDP from 3.5 percent in2001 to 7 percent by 2006. The current
+Country Assistance Strategy (CAS) under preparation also clearly identifies modernization of
+information infrastructure services through opening them to private investment as one o fthe key
+priorities to be supported by Bank operations.
+
+This section discusses the status o fthe ICT sector, focusing on telecommunications sector
+structure, telecommunications and Internet growth, regional performance comparisons, and the
+consequences on the e-agenda inTunisia.
+
+Strategy andPolicy:
+
+Tunisia's strategy, as spelled out inits Country Assistance Strategy, is to
+    0   Strengthen the business environment to support the development o f a more competitive,
+        internationally integratedprivate sector and improve competitiveness o f the Tunisian
+        economy
+    0   Enhance skills and employability o f graduates and labor force ina knowledge economy
+    0   Improve the quality o f social services through enhanced efficiency o fpublic
+        expenditures.
+
+Tunisia's ICT Policy Note, preparedby the World Bank on behalf o f and inpartnership with the
+Government o f Tunisia, sets ambitious targets for the country's ICT sector interms o f industrygrowth
+andjob creation. O fparticular relevance to the proposed project are the followingpolicy measures
+outlined inthe policy note:
+
+
+    0   Facilitate the procedures for acquiring software and IT services and externalize the
+        development o f software and ICT services
+    0   Technical support programs: Develop a brand name for Tunisia as a favorable business
+        location (FBL) for'firms inthe ICT sector (eTunisia)
+    0   Further development of venture capital financing (indirectly)
+    0   Increase the human resources endowment of Tunisia to better serve the needs o f market
+        segments where Tunisia should develop a competitive advantage
+    0   Develop e-government
+    0   Make private firms active elements ine-commerce
+    0   Develop and introduce sectoral portals (tourism, etc).
+
+The Government has implemented certain measures to reform the telecommunications sector in
+view o fthese goals -these are addressedbelow.
+
+
+
+
+                                                    16
+
+I
+
+orbital positions reserved for Tunisia; and (f) conductingresearch and studies relatedto radio
+communications.
+
+Tunisian Internet Agency (Agence Tunisiennede 1'Internet -ATI). AT1was created in 1996 as a
+national Internet operator andto promote Internet services inTunisia. Itoperates under the
+supervision o fMCTT and its responsibilitiesinclude (a) providing bandwidthto ISPs; (b)
+managing andregistering domain names under the TN suffix; (c) website hosting; and(d)
+organizing seminars andtraining on ICT.
+
+The incumbent monopoly operator i s the government-owned Office National des
+TClCcommunications, also called Tunisie Telecom (TT), which was established by Law No. 95-
+36 o f April 17, 1995.
+
+Reformsby the GOT
+
+So far, the GOThas implemented certain measures to implement its program to enhance
+competition inthe telecommunications sector:
+
+    0   In2002, it introducedcompetitioninthe mobile cellular market, through the awardofa
+        competitive license to Orascom;
+    0   The number o fInternet Service Providers has been increased;
+    0   The Government has awarded a data license usingVSAT (Very Small Aperture
+        Terminal) satellite technology;
+    0   GMPCS mobile satellite services have been introducedthrough the incumbent operator,
+        Tunisie Telecom.
+
+Interms ofregulatory reform, the Governmenthas also undertaken several important steps inthe
+last three years, which include (a) the enactment o f a new Code des Communications; (b) the
+passing o f implementing regulations inseveral areas, including interconnection, numbering and
+spectrummanagement (a regulation covering the area of private networks is under
+consideration); (c) the establishment o fthe Instance Nationale des Telecommunications (INT), a
+semi-independent agency which oversees over interconnectionmatters, numbering and other
+disputes among telecommunications operators; (d) the approval o f an amendment to the Code
+des Communications to increase INT's financial independence, andto create the Agence
+Nationale des Frkquences, an EPIC under the responsibility o fthe Ministry.
+
+Inaddition to introduction ofcompetition andregulatory reform, the Tunisian Governmenthas
+also undertaken several measures aimed at enhancing the diffusion o f ICT among Tunisian
+enterprises and citizen. Some relevant initiatives include (a) successful development o fthe e-
+dinar platform; (b) development o f e-procurement; (c) diffusion o f Information Technologies in
+trade facilitation programs and policies (Tunisie TradeNet); and (d) support for PubliNets and
+affordable PCs for the population. Inthis broad area o fproactive public policies infavor ofI C T
+diffusion, the Tunisian Government is particularly advanced comparedto other countries o f the
+region, and leads the reform inthe MENA region.
+
+Tunisia is behindschedule with regards to its commitments under the WTO inthe
+telecommunications services sector. Tunisia committed to liberalize packet switched data
+
+
+                                                  18
+
+transmission from 1999, mobile telephony from 2000, and local telephone service from 2003,
+andto allow up to 10percent o f foreign ownership inTunisie Telecom from 2002. There has
+beenprogress inall these directions, but at a slower pace than committed. (There are only two
+mobile operators and Internet competition is limited. Tunisie Telecom i s still the only authorized
+local telephone operator, and although it has been restructured as a share corporation it remains
+fully state owned.) The GOTplansto issue additional licenses andopen shareholding o fTunisie
+Telecom to foreign investors, but limitations inthe number o f licenses still would fall short o f
+the WTO commitments.
+
+
+Sector Reform andRegulation
+
+Universal Service Obligation
+
+According to the 2001 Telecom Act, any telecommunications network operator must provide
+basic telecommunications services, andmust:
+
+    0    provide opened contact points on the whole territory
+    0    ensure equal access to all users.
+
+The obligations include the free routing o f emergency calls, publishinga directory inprinted or
+electronic form, and meeting promptly any request for connection. The ministry sets maximum
+tariffs for basic services.
+
+ScarceResources
+
+Frequencies are managed by the National Agency for Frequencies that was created by the 2001
+Telecommunications Act.
+
+A new telephone numbering system basedon eight digits was introducedinOctober 2001. The
+MCTT established the National Numbering Plan after receiving an opinion from the INT, which
+is incharge o f its management.
+
+
+LicensingRegime
+
+According to the 2001Telecommunications Act, the provision o f telecommunications services is
+subject to the preliminary authorization o fthe Minister incharge o ftelecommunications (MCTT)
+and to the application of terms o f reference approvedby ministerial decree.
+
+The decree No. 97-501 o f 1997 liberalized value added services. The provision ofthese services
+is subject to a prior declaration (list defined by ministerial decree).
+
+The government can grant 15-year maximum concessions for the installation and exploitation o f
+public telecommunications networks to private or public companies selected by a public or
+restrictedcall for tenders.
+
+
+
+
+                                                   19
+
+The decree No. 801-2001 sets all conditions andrequirements for the attribution o f a second
+cellular license.
+
+Internet services are subject to a regime ofpreliminary declaration (applied to the value added
+services as well).
+
+The GOTgranted Tunisia's first mobile phone license in 1996 to state-owned Tunisie Telecom.
+The second GSM license was awarded to the Egyptian operator OrascomTelecom inMarch
+2002 for a US454 million fee.
+
+Interconnection
+
+The 2001 Telecom Act (chap. 2, sect. 2, art. 35-38) establishes the obligation o f interconnection
+for every public telecommunications network operator. Agreements are concludedby negotiation
+between operators. The operator mustpublish a Reference Interconnection Offer after opinion o f
+the National Instance o fTelecommunications.
+
+The Decree n. 2001-83 1 o f April 14,2001 provides a general regulatory framework for general
+interconnection conditions and for the method to fix rates.
+
+I nformation SocietyIssues
+
+Since the end o f 1997, the GOThas launched several initiatives to develop the use o f information
+technologies inthe country. A first part o fthis actionplan i s a decrease inInternet
+communication rates, financial support to the development o f web sites, and the installation o f
+Internetpublic access points ('publinets').
+
+The second part o fthe action plan addresses electronic commerce andthe development o f
+networks to promote the use o f Internet inthe social field:
+
+    e   A legal framework for electronic commercehas beenadopted though the Law n. 83-2000
+        for the use o f the electronic commerce as well as electronic signatures.
+        A programwas implementedfor the development o fIntemet-use inthe education system.
+        Itincludes aninvestmentplanto increase the number o fPCs inschools andthe
+        installation o f two networks, a university network connecting 87 universities and the
+        Edunet network connecting 100percent of colleges and more than 50 percent o f the
+        secondary schools. It will be extended to the primary schools. A similar plan was also
+        implementedinthe healthcare sector: a national healthcare network connects 84
+        hospitals. The network aims to develop telemedicine practices and to improve health
+        services quality inrural zones through better communication.
+
+
+Sector Performance
+
+Compared with regional benchmarks, Tunisia's fixed line penetrationis above average, and the
+basic network is well balanced between main city and other parts o fthe territory. However, the
+Internet infrastructure and, to a lesser extent, the mobile infrastructure are not yet well developed
+
+
+                                                   20
+
+compared to regional and global benchmarks. At end o f 2003, Tunisia mobile penetration
+(number o f mobile subscribers per 100 inhabitants), is less than 20 percent, while it is over 24
+percent inMorocco, 65 percent inEstonia, and 95 percent inIsrael. Similarly, Tunisia has 0.27
+Internet Hosts per 10,000 inhabitants, while Egypthas 0.49, Lebanonhas over 21, and Israel and
+Estoniahave 643 and499 respectively. International bandwidth capacity is also lower than
+regional benchmarks. For example, the highest link-to-link international connection i s Tunis-
+Palermo with 40 Mbps, while (to quote some regional competitors), the Rabat-Palermo capacity
+i s 68 Mbps, Rabat-Paris is 76 Mbps and Tel Aviv-New York i s 472 Mbps.'
+
+Concerning PCpenetration, the Government has undertaken initiatives to expand access, such as
+subsidizing 6000 Publinets and 10,000 personal computers under the PCFamilial program, as
+well as introducing computing insecondary schools. This particular development o fthe
+information infrastructurehas the advantage that the domestic network allows the promotion of
+ICT-enabled services, Le., call centers, outside the main cities, enhancing widespread job
+creation. However, bottlenecks inthe Internet and data infrastructure are a constraint to the
+development oftechnology-intensive export services, which is a competitive disadvantage with
+respect to other developing countries that can rely on a low cost-high quality data and Internet
+infrastructure.
+
+                      InternetServers, Users and Hosts:Tunisia and
+                                   RegionalBenchmarks2003
+                                                          496
+            160
+
+            140
+
+            120
+
+            100
+
+             80
+
+             60                                                    W Internethosts (per
+             40                                                       10,000 people)
+
+             20                                                    W Secure internet servers
+
+              0
+                   Egypt    Lebanon   Morocco   Tunisia   Turkey      Internet users (per 100
+                                                                      people)
+
+                                Source: World Development Indicators, 2004
+
+
+
+
+'Telegeography,2002, InternationalInternet Routes as of2001.
+
+
+                                                     21
+
+ Tunisia TelecommunicationStatistics
+           -
+~~Population(m)
+       ~~
+
+
+
+
+ TelecommunicationsRevenue (US$bn)
+  Main Lines in Service ('000)
+  Main LinesVOchange period-on-period
+  Main Line Penetration (Teledensity)
+  CellularSubscribers ('000)
+  Cellular Subscribers  O/ochange period-on-period
+  Cellular Penetration (010)
+  EstimatedInternet Users ('000)
+  Internet Users   O/Ochange period-on-period
+  Internet Penetration 1V01
+
+
+
+
+                Exhibit 2: Total Country Connectivity Measure (TCCM) 2003
+                            t
+                 Ranking! Country               mainlines  Cellular   Internet   TCCM*
+                            1                     (V 1       ( O h )  users(oh)
+                                                     O
+
+
+
+
+                  12th [Syria                     51.1%     6.6%o       2.3%   I  6O%
+                ~
+
+
+
+
+             .    12th IAlqeria                   35.8%     4*5%        1.3%      42%
+                   13th ]Morocco                  15.6%    24.5%     .  1.3%   I  41%
+
+
+
+
+                                                         22
+
+      Annex 2: Major Related Projects Financed by the Bank and/or other Agencies
+   Tunisia Information and CommunicationTechnologies Sector Development Project
+
+Bank Activities
+
+The following five World Bank projects are related:
+
+
+  0    Economic CompetitivenessAdjustmentLoanI11(ECAL 111)(PO55815). US$252.5
+       million. 2001-2003: The ECAL I11operation had atelecommunications Boardcondition
+       and a telecommunications floating tranche. The measures inECAL I11which are related
+       to the issues identifiedfor the Tunisia ICT Sector Development Project are the following:
+       (a) increasecompetition inthe telecommunications sector; (b) strengthenthe sector
+       regulatory framework; and (c) develop and implementan ICT strategy.
+
+       Most recentRating for Implementation Progressinthe Project StatusReport (PSR): N/A
+
+
+  0    Tunisia Export Development Project (PO55814). US$35 million. 1999-2004: The project
+       fundedthe establishment ofTunisieTradeNet, whichpioneeredmany aspects relatedto
+       the processingof electronic transactions inthe countries. These include payment systems
+       and integration of administrative databases andprocedures.
+
+       Most recent Rating for Implementation Progressinthe Project Status Report (PSR):
+        Satisfactory.
+       Most recentRatingfor Development Objectives inthe PSR. Satisfactory.
+
+       Tunisia Higher Education Restructuring Project (P005726). US$75 Million. 1992-2001.
+       Theproject supportedthe creation of anewgenerationofHigherInstitutes of
+       Technology (ISET) whichwould be gearedtoward labor market needs.
+
+       Ratingfor Project Impact inthe Implementation Completion Report (ICR): Substantial
+       Rating for Project Impact inthe OED FinalEvaluation Report: Substantial
+
+   0    Tunisia Education PAQSET IProject. (P005741). US$80 million. 1998-2004. The
+       project supports the use of newtechnologies inteaching and learning and the use o f
+        computers and informatics by students and faculty.
+
+        Most recentRatingfor Implementation Progressinthe Project Status Report (PSR):
+        HighlySatisfactory.
+        Most recentRating for Development Objectives inthe PSR: Satisfactory.
+
+   0    Tunisia Cultural Heritage Project (P048825). US$17 Million. 2001-2007. The project
+        supports computerization o fthe CulturalHeritage Improvement andDevelopment
+        Agency (APPC).
+
+        Most recentRating for ImplementationProgress inthe Project Status Report (PSR):
+        Satisfactory.
+        Most recentRatingfor Development Objectives inthe PSR: Satisfactory.
+
+
+                                                23
+
+Activitiesfrom other InternationalAgencies
+
+The African Development Bank and the EuropeanUnion(EU) were partners inrecent Bank ICT
+sector operations inTunisia. The EUremains active intraining initiatives (MEDA) and in
+support for the second phase o f WSIS. USAID activities inthe I C T sector inTunisia included
+promoting ICT investment conferences andICT security training, collaboration with the private
+sector, the Sfax Chamber o f Commerce, andthe Government of Tunisia to design a hi-
+technology park in Sfax. USAID also promoted competition andincreasedthe quality o f service
+byproviding an Internet Service Providertraining for the newly licensedInternet Service
+Providers. Finally, the Japan Bank for International Cooperation and the EuropeanInvestment
+Bank have plannedactivities inthe area o f technopark investment and development. These
+initiatives and the proposedBank project complement each other.
+
+
+
+
+                                                24
+
+                              Annex 3: ResultsFrameworkandMonitoring
+     TunisiaInformationandCommunicationTechnologiesSector DevelopmentProject
+
+                                              ResultsFramework
+
+                PDO                          OutcomeIndicators               Use ofOutcomeInformation
+The objectives o fthe Project are to   Increase inshare o f ICT sector in    Publication o f an annual sector
+assist the Borrower inpromoting        GDP from 6.0% in2003 to 8.5% in       report, to beprepared by the M&E
+the development o f its ICT sector     2008. (CAS indicator)                 unitofMCTT
+by: (a) supporting ICT institutional
+and sector reforms; (b) developing                                           The report tracks progress towards
+e-government applications; (c)                                               goals.
+improving its e-security
+mechanisms and (d) promotingthe                                              Ifcurrent growthis notsufficient to
+participation o fthe private sector in                                       achieve goals, the report assesses
+the ICT sector.                                                              why andproposes to policymakers
+                                                                             the stepsthat need to be taken to
+                                                                             achieve the goals on time.
+
+
+     IntermediateResults                 ResultsIndicatorsfor Each             Use ofResultsMonitoring
+     OneDer ComDonent                              Component
+Informationand                         Awarding o fnew licenses in2004-      Publication o f an annual sector
+CommunicationsStrategy, Policy         2005 inthe VSAT and data              report, to beprepared bythe M&E
+andRegulation                          transmission segments.                unit o fMCTT
+
+Awardingofnew competitive              Number o f fixed and mobile           The report would track progress
+licenses and increasing access         telephone lines as % o fpopulation    towards goals by assessing current
+                                       reaches60%by 2008 (up from 32%        growth rates compared to growth
+Evaluation o f impediments to          in2003) (CAS indicator)               rates required to achieve goals.
+private sector participation inthe
+ICT sector and supporting the          Increase inshare o fprivate sector    Ifcurrent growthratesarenot
+development o fnew private ICT         investment inICT sector from 35.2%    sufficient to achieve goals, the report
+enterprises                            o ftotal in2003 to 60% o ftotal       assesseswhy andproposesto
+                                       investment byproject-end 2008.        policymakers the steps that needto be
+                                                                             taken to achieve the goals on time.
+E-governmentServicesand                Implementationo ftwo new e-           Publication o f an annual sector
+Applications                           government portals byNovember         report, to be prepared by the M&E
+                                       2005 and two additional new e-        unito fMCTT
+
+Publication of an E-government         government portals by project-end     The report would track progress
+strategy                               2008.                                 towards goals by assessingcurrent
+                                                                             growth compared to growth required
+E-government service sites in          Increase inrequests by private sector to achieve goals.
+
+operation                              and citizens submitted over these new
+                                       e-government service sites.           Ifcurrentgrowthisnot sufficient to
+                                       Methodologyto calculate indicators    achieve goals, the report assesses
+Creation o f an e-government           andbasevalue to beprovidedbythe       why andproposes to policymakers
+strategy unit within the Prime         GOTprior to mid-term review.          the steps that needto be taken to
+Minister's Office                                                            achieve the goals on time.
+
+
+
+
+                                                         25
+
+                                    (Statistics Unitwill develop
+                                    methodology and options for one
+                                    additional outcome indicator to track
+                                    e-government outcomes, andpresent
+                                    these together with their value inlast
+                                    available year to the Bankby mid-
+                                    term review. From these, one
+                                    additional e-government indicator
+                                    will be selected.)
+
+
+
+
+E-Security.                         Creation o f computer emergency        Publication o f an annual sector
+
+Developing an e-security program    responseteam and organization o f      report, to beprepared by the M&E
+                                    three training or CERT workshops       unit o f MCTT
+
+Establishing a data backup centre   before the end o f 2005.
+
+                                    Creation ofa backup datacentre for
+                                    critical govemment applications and
+                                    testing by the end of 2005.
+
+
+                                    (Statistics Unitwill develop
+                                    methodology andoptions for one
+                                    additional outcome indicator to track
+                                    e-government outcomes, andpresent
+                                    these together with their value inlast
+                                    available year to the Bank by mid-
+                                    term review. Fromthese, one
+                                    additional e-government indicator
+                                    willbe selected.)
+
+Project Management and              Publication o feconomic and            Publication o fan annual sector
+Support to Preparation of WSIS      statistical analyses o f Tunisian e-   report, to be prepared by the M&E
+2005                                agenda successes achieved by WSIS      unitofMCTT
+
+Supporting the establishment o f an
+economic analysis and statistics                                           The report would track progress
+
+unit for ICT within MCTT                                                   towards goals by assessingcurrent
+                                                                           growth compared to growth required
+                                                                           to achieve goals.
+Monitor and Evaluate performance
+indicators andperformproject                                               Ifcurrentgrowthisnotsufficient to
+impact assessments                                                         achieve goals, the report assesses
+                                                                           why andproposes to policymakers
+                                                                           the steps that need to be taken to
+Synthesis ofproject results for                                            achieve the goals on time.
+showcasing at WSIS
+
+
+
+
+                                                       26
+
+I          d
+   s       +
+I    =5    cv
+
+           +
+I          N
+
+
+
+
+2          +
+           0
+
+
+
+
+0    m     0
+
+     n
+
+
+
+          I
+
+
+
+
+          I    I
+
+
+
+
+          m
+
+               +
+              0
+
+
+
+
+I    I    0   0     I
+
+I
+
+
+
+
+     J
+
+
+
+
+        +
+
+
+
+
+       0
+
+                           Annex 4: DetailedProjectDescription
+   Tunisia InformationandCommunicationTechnologies SectorDevelopmentProject
+
+
+
+
+                                   NOTE THISANNEX:
+                                         ON
+
+    o Costsexpressedare total costs, including contingencies.
+    o Procurement methods and timelinefor implementation are indicated onlyfor activities
+       planned in thefirst 18months, asper theprocurement plan.
+    o Procurement methodsand timelinefor the rest of the activities have already been
+       discussed. They will be indicated in due course, when theprocurement plan is updated.
+
+
+
+
+COMPONENT 1 - INFORMATION AND COMMUNICATIONS STRATEGY, POLICY
+AND REGULATION
+
+1.1 Strategicplanfor the Informationand CommunicationTechnologies(ICT) sector
+    (participating entity: MCTT).
+    Technical Assistance (TA) to help the Government designlong-term plan(2020) for the
+    strategy and development o fthe telecommunications and ICT sector. This strategic plan
+    will include:
+
+        1. assessment o fthe demand for services;
+        2. assessment o f existing telecommunications infrastructure;
+        3. technical and regulatory study on Internet infrastructure, taking into account the
+            growth inInternet users, the data infrastructure o f Tunisie Telecom, andthe other
+            data operators that have been or will be selected, the rural access, the new
+            broadbandtechnology options, as well as the regulatory provision to encourage
+            competition;
+        4. analysis o f strengths andweaknesses, opportunities andthreats, international
+            benchmarks andmilestones;
+        5. audit o fthe conditions needed to accelerate innovation, including the identification
+            o fregulatory and institutional bottlenecks and other obstacles to the diffusion o f
+            innovation (inthe area o f employment, productivity, Government procurement,
+            export, patents);
+        6. program to develop the sector inthe medium term, with respect bothto services and
+            to infrastructure;
+        7. options to re-launch private investment inthe Tunisian ICT sector with a 2020
+            horizon;
+        8. a strategy to promote universal access;
+        9. study inthe longterm on efficiency, coordination, structure, and organization o fthe
+            agencies that regulate and oversee the ICT sector;
+        10. technical study on PC penetrationand obstacles to PC development;
+
+
+
+                                              30
+
+       11. action planto optimize network use and architecture to increase Internettraffic;
+           and
+       12. technical assistanceto explore new market orientedtrends to manage the
+           spectrum.
+
+    TA-QCBS:       US$2,200,000
+    Start date:    January 11,2005 (contract signature date)
+    Enddate:       December 31,2008
+
+1.2 Assistanceinadditionallicensesaward(participating entity: MTCT).
+
+    Inthe short term, this TA willprovide consultants to assistthe GOTinpreparingand
+    awarding additional telecommunications licenses.
+
+    TA-IC:         US$ 165,000 (3 to 5 contracts -individual consultants)
+    Start date:    August 29,2004 (lSf   contract signature date)
+    Enddate:       February 23,2006
+
+
+1.3 Assistanceto telecommunicationssector regulation(participating entity: INT).
+
+    Technical Assistance inthe following areas:
+        1. Internal organization: strengthening INT's internalpersonnel, budget,
+           procedures and organizational capacity, including the identificationo f training
+           needs;
+       2. Technical assistance inthe area o finterconnection, tariffpolicy, accounting,
+           numbering plan and analysis o f the ICT market ;
+       3. Preparation o f comparative ("benchmarking") analysis.
+
+    US$ 1,100,000 (several contracts)
+
+
+COMPONENT2 -E-GOVERNMENT STRATEGY, SERVICESAND APPLICATIONS
+
+2.1 Developmentof an e-GovernmentStrategy (participating entity: SERA).
+
+    This TA to involve:
+
+        1. Benchmarkingof Tunisia inthe area o fe-government services (benchmark
+           countries could include: Jordan, Egypt, Morocco, Portugal and Romania).
+       2. E-government strategy assessingthe current status o f e-government services, the
+           organizationalarrangements for planning and delivering services, a review o fthe
+           procedures to be simplified by entity, and an action planto simplify and offer its
+           services to citizens and businesses on the Internet, as well as a review o f
+           benchmark indicators to be followed for monitoring and evaluation (M&E)
+           purposes. Further, the study will also review the regulatory framework for online
+           services. Finally, the strategy will review the institutional arrangements for e-
+
+
+                                             31
+
+            Government, andthe areas where efficiency gains canbe achievedby using
+           portals linkingvarious ministries or agencies involvedinthe same Government to
+            Business (G2B) or Govemment to Citizen(G2C) processes.
+
+    TA-QCBS: US$ 1,320,000
+    Start date:    January 26,2005 (contract signature date)
+    Enddate:       July 30,2006
+
+
+2.2 E-Justice:Implementation(participating entity: MinistryofJustice andHumanRights).
+    Execution of differentproject inthe framework ofthis administration, as well as
+    implementation of an email system.
+        1. JusticeandHumanRightsPortal:development ofa serverfor aportaland
+            content management, as well as implementation of an email system.
+       2. Legalprecedentsdatabase:development o f a documentary database with input,
+            indexing, and searchmodules, etc. inorder to allow online access to legal
+            precedenttexts, intendedfor magistrates, lawyers, legal assistants, firms,
+            researchers, students, etc.
+        3. DistanceJusticeservices: Development to allow distance follow-up ofhis case
+            by the case-holder, standardization ofrequests and distancecertificate delivery.
+       4. Modernizationof libraries:Acquisition and implementation of library software.
+        5. Acquisitionandinstallationof a firewall.
+        6. Trainingor usersfor their use of the new applications.
+
+
+    TA-QCBS: US$968,000
+    Start date:    January 26,2005 (contract signature date)
+    Enddate:       July 31,2006
+
+
+2.3 E-culture:Creationof aPortalfor Promotionof the TunisianCulturalCapital.
+    (Participating entity: Ministryof Culture, Youth and Leisure)
+    Development o f e-government applications aimed at promotingthe Tunisia's cultural
+    heritage, including: (a) the development o f a "Cultural Heritage" portal designedas a
+    promotiodpreservation tool for the Tunisian culturalheritage (inTunisia and abroad); (b)
+    the development ofdigital andon-line products; and(c) the productionandon-line
+    dissemination o fpublications (Digitalizationof cultural content on line and on CD ROM,
+    DVDetc., as well as publications);
+    TA-QCBS:       US$715,000
+    Start date:    January 26,2005 (contract signature date)
+    Enddate:       January 31,2006
+
+
+
+
+                                             32
+
+2.4 E-Disabled(participating entity: Ministryo f Social Affairs and Solidarity).
+
+    Allow access to disable persons to the new information and communication technologies,
+    inorder to facilitate accessto education, information, andculture; facilitate accessto
+    different distance services, contribute tojob creation; enable producers, craftsmen and
+    creators to access online markets to sell their products.
+        1. Provide education programs and equipment adapted for pre-school andbasic
+            school to disabled persons o f any age, inthe context o f24 special education
+            centers, or one pilot center per local administrative district ("gouvernorat").
+        2. Provide access to ICT services to disabled persons o fany kind, through the
+            installation o f adequate social services offices inthe "gouvernorats," accordingto
+            the number o f disabled persons linked to a center. This project includes the
+            creation o fa site-laboratory to the institute for promotion o f disabled persons in
+            Tunis, andthe training o ftwo trainers. The contract for equipment covers
+            specialized furniture and equipments (software andhardware) as well as training
+            for trainers.
+    Turnkey solutions including design, equipment (hardware, software, and office furniture),
+    installation, andtraining: Technical assistance for design.
+
+    US$1,495,000
+
+2.5 Virtual ICT library (participating entity: MCTT).
+    Electronic storage and online availability o fpublications and documents about ICT, to be
+    accessedby thirdparties, including the private sector, academia, etc. Publications include
+    doctoral and master theses, commercial publications as well as regulatory and policy
+    documents.
+
+    ICB:            US$345.000
+    Start date:     November 17,2004 (contract signature date)
+    Enddate:        July 30,2005
+
+
+2.6 Strengtheningthe ICT training capacity (participating entity: Iset'Com).
+    To complement the offering o f ICT courses and training by and efficient distance
+    learningprogram, inorder to grow the knowledge base andthe capacity o f Tunisia inthe
+    ICT sector, and accommodate for the expected growth indemand. This project will
+    include:
+        1. Acquisition o fa distance learningplatform (Acquisition o fhardware and
+            software), ready-made training modules andtrainers' training
+        2. Digitalization o fnew content for future training programs (ina second stage).
+
+    US$ 1,150,000
+
+
+
+
+                                              33
+
+2.7 Developmentof anArabic DNS (participating entity: ATI)
+    Establish a solution to have domain names inArabic characters. This will include studies,
+    equipment and dissemination workshops.
+
+    2.7.a   DNS: Technicalassistance
+
+    US$ 165,000
+
+    2.7.b DNS: Equipmentsandsoftware
+
+    US$402,500
+
+
+COMPONENT3 -E-SECURITY
+
+3.1 ComputerRisksPrevention(participating entity: ANSI).
+    Develop and implement a computer risk (virus, cyber-crime, etc.) prevention strategy, in
+    particular by creating within the new Agence Nationale de SCcuritC Informatique (ANSI)
+    a Computer Emergency Response Team (CERT) which will be active in delivering
+    prevention programs, emergency alert and response services, and information system
+    security training.
+
+    3.1.a    CERT: TechnicalAssistance
+
+    TA-CQ:          US$165,000
+     Start date:    September 13,2004 (contract signature date)
+    Enddate:        September 18,2005
+
+    3.1.b    CERT: Training
+
+    Training:       US$165,000
+     Start date:    September 13,2004 (contract signature date)
+    Enddate:        September 18,2005
+
+    3.l.c    CERT: Goods
+
+    NCB:            US$165,000
+     Start date:    November 17,2004 (contract signature date)
+    Enddate:        November 27,2005
+
+
+3.2 ITSecurity ab for ResearchandEducation(participating entity: SUP'CO-.I)
+     Strengthen research and training capacity in e-security, in particular through
+     acquisition of equipment, s o h a r e and specialized equipment for research and
+    practical teaching inonline security and training to teacher-researchers.
+
+    US$460,000
+
+
+
+                                           34
+
+3.3   Data BackupCenter (participating entity: CNI)
+      Ensure continuity o f critical Government systems and applications. Identification o f
+      critical systems, and development o f a computer disaster recovery plan.
+
+      3.3.a    DataBackupcenter:Riskanalysisand disasterrecovery plan
+      Technical assistance to assess the risks and impacts interms o f costs, in case of systems
+      no-availability, and creation o f a rescue plan in case o f disaster, with validation o f a
+      complete test cycle. This assistance will also prepare the requirements and design
+      (bidding documents to be prepared by end-November 2004) for the computer room and
+      for the hardware and software to be installed in the data backup center, as well as
+      supervise the implementation.
+
+      US$165,000
+
+      3.3.b    Data Backup center: Acquisition and installationof equipments (floor, AC,
+      Hardware and software) to equip the data back-up center: The supplier will also provide
+      the installation and organize with the client testing o f the solution, under the supervision
+      o f the consultant under 3.3 a.
+
+      US$2,300,000
+
+
+COMPONENT4         -- PROJECTMANAGEMENT              AND SUPPORTFORTHE
+PREPARATIONOF THE WORLD SUMMIT ONTHE INFORMATIONSOCIETY
+( W S W
+
+4.1   Stimulateprivatesector participationinWSIS (participating entity: MCTT onbehalf
+      o f WSIS Commission).
+      4.1.a    WSIS preparation:Benchmarkingo fTunisia interms o fdynamism,
+      competitiveness and development o f ICT companies (equipment, services, content);
+      identification of obstacles andbottlenecks to improvements inthose areas.
+      TA:             us$110,000
+       Start date:    September 13,2004 (contract signature date)
+      Enddate:        September 18,2005
+
+
+      4.1.b    WSIS preparation:Privatesector participation: identification and
+      disseminationofbestpractices relevant to the competitive participation o f Tunisian
+      enterprises inglobal productionand distribution chains, andthe development o ftheir
+      export potential through the use o f ICT.
+
+      TA:             us$110,000
+      Start date:     September 13,2004 (contract signature date)
+      Enddate:        September 18,2005
+
+
+
+
+                                               35
+
+    4.l.c   WSIS preparation: Workshops(one for each ofthe two studies above) to
+    gather success stories and expressions o f concerns from Tunisian entrepreneurs regarding
+    the ICT sector and the possible emergence o f an information society inTunisia.
+    Workshop:      US$275,000
+    Start date:    March 2,2005 (contract signature date)
+    Enddate:       November 7,2005
+
+
+    4.1.d WSIS preparation:WSIS event:high-level roundtable andexhibition on 'ICT
+    and outsourcing'.
+
+    Workshop:      US$330,000
+    Start date:    March 2,2005 (contract signature date)
+    Enddate:       November 7,2005
+
+4.2 Monitoring of the ICT sector and related Government Initiatives (Participating
+    entity: MCTT)
+    Technical assistance aimed at strengthening MCTT's capacity to monitor the ICC
+    sector, and in particular (a) develop monitoring and evaluation indicators for
+    government ICT initiatives; (b) develop a strategic, economic and statistic monitoring
+    program for the ICT sector, and (c) timely evaluation o fnew technology    .
+
+    US$275,000 (several contracts)
+
+4.3 Supportto ICT strategyimplementation
+    This component will be defining along the project course, and will include additional
+    interventions (studies and assistance; training), in particular as regards the legal
+    framework and implementationo fthe master plan for the ICT sector (MCTT).
+
+    4.3.a   Technicalassistance:Individualconsultants
+    US$ 165,000 (several contracts)
+
+    4.3.b Technicalassistance: Firms
+    US$220,000 (several contracts)
+
+    4.3.c   Training andworkshops
+    US$ 110,000
+
+4.4 Strengtheningof the PMU(participating entity: MCTT)
+
+    4.4.a   Strengtheningof the PMU: Assistance, inparticular through the recruitment
+    o f an expert inprocurement to support the PMU and the participating entities with the
+    procurementprocesses and offers selection for all activities o f the project.
+
+    TA-IC:                 US$275,000 (several contracts)
+    Start date:            August 29,2004 (1" contract signature date)
+    Enddate:               August 17,2007
+
+
+
+                                            36
+
+4.4.b Strengthening of the PMU: Training, in particular to send people to an in-
+depthprocurementtrainingfor specialists.
+
+Training:          US$55,000
+Start date:     . September 13,2004 (lst signaturedate)
+                                         contract
+Enddate:           September 8,2007
+
+
+
+
+                                     37
+
+                               Annex 5: ProjectCosts
+  TunisiaInformationandCommunicationTechnologiesSector Development Project
+
+
+                                                Local    Foreign    Total
+  Project Cost By Component andor Activity      us        us        us
+                                               $million  $million  $million
+  1)InformationandCommunications                 0.47     2.68           3.15
+     Strategy,PolicyandRegulation.
+  2) E-governmentServices andApplications        0.87     4.96           5.83
+  3) E-Security                                  0.43      2.57          3.00
+  4) CapacityBuildingfor Implementation,         0.16      1.59          1.75
+     MonitoringandEvaluationofProject
+     Activitieswith the Aim ofAchievementof
+     Resultsfor WSIS 2005
+
+
+  Total Baseline Cost                            1.93     11.80        13.73
+   Physical Contingencies                        0.04      0.24          0.28
+   Price Contingencies                           0.18      1.05          1.23
+                          TotalProjectCosts'     2.16     13.08        15.24
+                               Front-end Fee                             0.13
+                     TotalFinancingRequired                            15.37
+
+
+'Netof taxes.
+
+
+
+
+                                          38
+
+39
+
+The procurement expert will be hired for a period o f at least 12 months. He/she will be French-
+speaking and will work bothwithinthe P M U and indirect contact with participating agencies
+and ministries, as needed. It i s anticipated that the ICT andproject management experts
+(appointed for the entire length o f the project) canbe made available from Tunisian entities. In
+this perspective, the total cost allocated for these recruitments is US$250,000. If,duringproject
+implementation, additional efforts appear necessary to strengthen the PMU's capacity, loan
+funds couldbe usedfor suchpurpose.
+
+For this project, the PMUwill be (a) the main counterpart to the Bank inthe implementation o f
+procurement activities and quality assurance o f the documentation subject to the Bank's review
+and no objection, and, as such, it will assume full responsibility for procurement inthis project;
+and (b) responsible for the overall financial management o fthe project, including disbursements.
+
+Other institutional strategic elements
+
+The project implementation calendar i s exceptionally ambitious, and includes tasks that, though
+well-defined and determined, are relatively new and complex for the Borrower. A detailed
+Project Implementation Plan (Plan d'Exe`cutiondu Projet) will define the diverse roles,
+responsibilities, and individual work programs o f each participating agency or entity, and will
+also include the timetable that shall be respectedto ensure the success o f the project. Technical
+implementation o f project activities shall be delegated to the participating agencies and
+ministries.
+
+A steering committee (Comite`de Coordination)will be incharge o fensuringthe consistency
+and smooth execution o fthe project. Itwill meet at least twice a year. Placedunder the MCTT
+(or his representative), it will be composed o frepresentatives o f the Ministry o fDevelopment
+and InternationalCooperation and the Ministry o fFinance, and o f the participating agencies and
+ministries, as well as the Project Coordinator.
+
+Given the importance o f "e-government" activities inthis project, special attentionwill be paid
+to the coordination and strategic consistency o f e-justice, e-culture, and e-disabled activities, for
+which the State Secretariat for Administrative Reform (Secre`tariatd'Etat ti la Re`forme
+Administrative - SERA3)will help the Government informulating andrefining a national e-
+government strategy, andwill assist the relevant agencies intheir efforts to translate this strategy
+into their own activities.
+
+
+
+
+  SERA provides secretariat functions to two E-government Commissions (Ministerial andTechnical), which gives
+  it a strategic position inthis respect.
+
+
+                                                     40
+
+                Annex 7: FinancialManagementandDisbursementsArrangements
+
+     TunisiaInformationandCommunicationTechnologiesSector DevelopmentProject
+
+
+OverallFinancialManagementRiskAssessment
+
+The Project ManagementUnit (PMU) that will be responsible for the overall project financial
+management reports to the Ministry o f Communication Technologies and Transport (MCTT). It
+is partially inplace and currently manages PhaseIand I1o f the Transport Sector Project (1998-
+2006). An assessment o f its financial management capacity has been conducted inthe context o f
+the appraisal mission o fthe project. It focused on the accounting system, the internal control
+mechanisms, the audit arrangements, the existing information system, the monitoring and
+financial management software applications, andthe financial management reporting capacity
+allocated to the project implementation. The PMUhas acquired substantial accounting and
+financial monitoring experience with World Bank-financed projects. As a result, its management
+capacity i s inaccordance with the Bank's financial management requirements. Moreover, an
+adequate accounting and internal control system i s inplace, and satisfactory arrangements have
+been made for independent external audits. Hence, the overall financial management risk inthis
+project i s low.
+
+The PMUacquired in2002 a project monitoring and financial management software. This
+application is reliable and offers sufficient computer security; however, some reports do not
+match the Bank's new guidelines, namely for the Financial MonitoringReports (FMRs), which
+replacedthe earlier Project Management Reports (PMRs). Inorder to conform to this new
+requirement, the reports need to be updated to match the FMRtemplates that were presented to
+and discussed with the PMU.
+
+The technical implementation o fthe project components will be delegated to various
+participating entities, comprised o f six state-owned enterprises and three ministries (see also
+Annex 6). The MCTT, which will also be a technical implementing agency, will be solely
+responsible with regard to loan commitments and relatedpayments.
+
+The various participating agencies are state-owned enterprises. As such, they already have
+accounting, financial management, and internal control systems that comply with Bank's
+requirements. Their financial statements are preparedinaccordance with International
+Accounting Standards (IAS) and certifiedby independent auditors, all members o fthe Tunisian
+board o f certified accountants (Ordre des Experts Comptables de Tunisie). The ministries
+(Justice and HumanRights, Social Affairs, Culture) acting inthe context o f this project are
+subject to public accounting rules andto a double oversight performed by the ContrBle GCnCral
+des Finances (CGF), under the Ministry o fFinances, andby the Cour des Comptes, under the
+Office o fthe Prime Minister.
+
+
+
+
+  SERA provides secretariat hnctions to two E-government Commissions (Ministerial andTechnical), which gives
+  it a strategic position inthis respect.
+
+
+                                                    41
+
+BriefProjectDescription
+
+The project includes the four following components:
+
+      (a)     InformationandCommunicationsStrategy, PolicyandRegulation
+      (b)     E-governmentServices andApplications.
+      (c)     E-Security:
+      (d)     ProjectManagementSupport andSupportto PreparationofWSIS 2005.
+
+These components are explained indetail inSection B4 o fthe main PADtext.
+
+RiskAnalysis
+
+Overall financial management for this project i s low (see also first section o fthis annex above).
+BothPhaseIandI1o fthe Transport Sector Project are implementedinaccordance with Bank's
+procedures andagreedobjectives. Yearly audit reports are certifiedby independent auditor
+members o fthe Tunisian boardo f certifiedaccountants (Ordre des Experts Comptables de
+Tunisie). Theses reports are systematically sent to the Bank. They do not report significant issues.
+
+FinancialManagementSystem
+
+General context. The financial management system inplace at MCTT i s based on the principles
+and procedures o f the legal framework of the public sector, and more precisely, o fthe
+governmental institutions. The main characteristics o fthis system are as follows:
+
+Accounting system. An accounting system based on payments and their analysis inaccordance
+with anofficial budgetarynomenclatureis inplace. The public accounting system is
+computerized. The software called ADEB (Aid to Budgetary Decision) shows the initialbudget
+allocation by the Ministryo f Finances. Eachministry inputs its own commitments and
+disbursements at the time o f implementationprogress withinthe budget cycle. State-owned firms
+enjoy legal and financial autonomy; expenses paidon their funds are not recordedinthe ADEB
+system, but are recordedintheir accounting books and subject to their own internal control
+procedures. For public sector projects with external financing, recording o f financial data is done
+bymeans o ftwo computerizedpublic expenses accountingsystems. The ADEB system records
+the expenses o f the Tunisian State budget, andthe SIADE system (Computer-aided external debt
+management system) covers the expenses incurrencies financed by external sources. These data
+are also recorded by the MCTT. The SIADE i s used for keeping separate accounts inview o f
+external debt management and preparation o freports requiredby donors.
+
+Paymentprocedures. For IBRD-financed project expenses, accounting data are recorded into the
+SIADE system by the PMU, which keeps original documents and issues payments. Payments are
+preparedinthis unit, based on the documents received from various implementing agencies and
+M C T T technical departments. The PMUverifies the accounting documents receivedand submits
+them for approval to the Director General for Planningand Studies o f MCTT. The documents are
+then sent to the Central Bank o f Tunisia (CBT) that administers the special account from which
+payments are made. The CBT verifies supporting documents and expense eligibility according to
+internal procedures and the official agreement, and thenprocesses the payments. Payments made
+
+
+
+
+                                                  42
+
+for counterpart funds follow internal control procedures o f each o f the related entities; these
+procedures are deemed reliable.
+
+Budget system. Basedon programs and actions to be undertaken duringthe coming fiscal year,
+availability o f external financing finds, andneeds still financed on the State budget, MCTT
+prepares an annual budget for commitments. Interms o f fund sources, the general budget
+includes Government contributions as well as funds made available to MCTT by different
+national and international donors for specific projects. The budget is submitted for approval to
+the Ministry o f Finances, which is incharge o f a rigorous control through its specialized
+services. The budget i s accepted each year before December 31. Expenses o fthe current year
+cannot be committed andpaid unless they have been included inthe accepted budget. A
+budgetary control is inplace through a public sector budget management system (ADEB).
+
+Proiect-specific arrangements. Two types ofentities will be involvedinthe project implementation.
+The first one includes state-owned enterprises andministries andthe secondincludes the Directorate
+General for Planningand Studies(DGPS) o fMCTT, which is incharge o fmonitoring, controlling,
+andmanagingthe overallimplementationofthe project, as well as ofimplementingsome
+components. These tasks willbe entrustedto the PMU, which will be hostedwithinthe DGPS.
+
+Project Management Unit. The PMUwill be incharge o f financial management and project
+accounting, according to public accounting principles. On a regular basis, the PMUwill prepare
+reports on the status of project implementation, on disbursements (by component andby
+category) and loan-related commitments, on the budget, and on the respective funds ofthe
+various participating agencies and ministries involved inthe carrying out o fthe project. The
+PMUwill consolidate data relatedto transactions made byparticipating agencies andministries
+and will periodically prepare consolidated financial statements and semiannual FMRs that will
+be sent to the Bank within 45 days following the endof the period coveredby the reports.
+Overall, this unit is responsible for sustaining a financial management system acceptable by
+Bank standards, and for ensuringproper application of the Bank's procurement, disbursement,
+and financial reporting procedures.
+
+Organization of PMU: The PMUis composed of a Project Coordinator, who is responsible for
+the overall project management system and for the timely preparation o f financial statements and
+FMRs. He i s assistedby two experienced financial management specialists, who worked on the
+financial management of Phases Iand I1o fthe Transport Sector Project.
+
+Organization of theparticipating agencies and ministries. Eachparticipating agency and
+ministrywill designate a personincharge of project and financial monitoring. He or shewill be
+the PMU's only counterpart and will ensure timely submission o f all documents relating to the
+project and to progress reports, based on templates to be provided by the PMU, and according to
+clear information transmission procedures. Eachparticipating agency and ministry will be
+responsible for technical execution o fthe relevant project component. Moreover, and inorder to
+optimize the PMU's financial management capacity, the following actions need to be done:
+
+    a) Prepare the I C T Project Implementation Plan including financial management aspects to
+        be finalized before project launch;
+    b) Plantraining sessions for PMUandthe staff o fparticipating agencies and ministries on
+        procurement and on preparing financial monitoring reports (FMRs) according to Bank
+        guidelines to be delivered before project launch.
+
+
+                                                  43
+
+Project accounting system.The project accounting will be done usingthe financial management
+application inplace for the Transport Sector Project and developed in2002 by a consulting firm.
+This application is reliable andoffers sufficient computer security. The general principlesfor
+project accounting are as follows:
+
+        Project accounting will include all the sources anduses o fproject funds, including
+        payments and expenses incurred. All transactions relatedto the project (whether cash
+        expenditure or not) will be taken into account inthe accounting andreporting system.
+        Disbursements made directly by the Bank andthose made through the special account
+        opened with CBT will also be recordedinto the project accounting system. Counterpart
+        funds will be recorded separately.
+
+        Transactions and activities linked to the project will be differentiated from other activities
+        performed by the participating agencies and ministries and MCTT. Financial statements
+        summarizing project-related commitments, income, and expenses will be prepared
+        semiannually by the participating agencies and ministries according to the relevant forms,
+        and transmitted to the P M Utogether with the related supporting documents. The PMU
+        will be incharge o fconsolidating these data into the financial monitoring system.
+
+        The general ledger for the project will be prepared inline with classification o fthe
+        expenses and sources o f funds defined inthe project documents (Project Implementation
+        Plan, Project Appraisal Document, COSTAB) and o fthe budget details. The general
+         ledger should allow the recording o f data ina way to facilitate the preparation o f financial
+        reports for the project expenses by component and subcomponent, by expense allocation
+         andby disbursement category.
+
+Financial MonitoringReports. The financial monitoring reports (FMRs) o fthe project will be
+generated by the Transport Sector Project's financial management application. They must
+include information on the financial situation and on the progress o fproject implementationand
+procurement activities. The FMRmust also include: (a) a report showing use and sources o f
+funds for the periodunder consideration using cumulatedvalue as well as project account
+balances; (b) a report showing use o f funds by component andby category o f expense; (c) a
+report on the procurement activities not submitted for preliminary examination by the Bank; (d) a
+report on implementationprogress o fthe project activities; and (e) a reconciliation o fthe special
+account. The FMR i s prepared semiannually by the PMUbased on consolidated data provided by
+the participating agencies and ministries and submitted to the Bank within 45 days after the end
+o f the period covered inthe report.
+
+Flow o f hnds. Disbursements of the loan funds will be made according to the traditional system:
+reimbursements against supporting documents or statements of expenses and direct payment.
+Withdrawal applications and replenishment o f Special Account would be prepared by the PMU
+and sent to the Bank under authorized signature. The counterpart funds are covered by the State
+budget, or by the budgets o f participating agencies and ministries. Payments within the budget
+will be made through Treasury under the responsibility o f the participating agencies and
+ministries and usingthe current bank accounts for state-owned enterprises.
+
+
+
+
+                                                  44
+
+Internal control. The intemal control system in place within the PMU is deemed satisfactory,
+both by the project's external auditor (for the Transport Sector Project) and by the Bank. The
+same assessment holds true for the various participating agencies and ministries.
+
+Audit Arrangements
+
+All accounts (including SA) will be verified by an auditor acceptable to the Bank, and the audit
+reports will be validated by the participating agencies and ministries under the coordination o f
+the PMU, and will be sent to the World Bank no later than six months after the end of the fiscal
+year. The auditors will have the responsibility to exercise their function in conformity with the
+generally accepted audit principles and inrespect o f specific terms o f reference acceptable to the
+Bank. In addition, according to the new Bank audit procedures, the financial conditions o f the
+project should indicate at a minimum a statement o f resources and expenses, the accounting
+principles adopted, supplementary notes, and an attestation produced by every participating
+agency and ministry indicating that the Bank funds have been used to the anticipated ends. This
+will be inaccordance with the applicable provisions contained inthe Bank LoanAgreement.
+
+All participatingagencies andministrieswill provide the auditor with access to project
+documents and files as well as to information required by the auditor to perform the verification
+o f accounts. Inaddition to the auditor, the project is subject to controls conductedby the
+General Control o f Finances (GAFF), under the Ministryo f Finances, andby the Cour des
+Comptes, under the Prime Ministry, which i s incharge o f supervising public finances andgiving
+discharge on the management and on accounts relatedto public funds accounts. The Bank
+considers the audit conducted by the GAFF as satisfactory.
+
+Furthermore, the various agencies are state-owned enterprises, whose financial statements are
+audited inaccordance with intemational accounting standards by independent auditors. Their
+reports could be sent as needed to the Bank within six months after closing date o f the financial
+year.
+
+DisbursementArrangements
+
+The proceeds o f the loan would be disbursed in accordance with the traditional disbursement
+procedures o f the Bank and will be used to finance project activities through the disbursement
+procedures currently in use, Le. withdrawal applications for direct payment, for special
+commitments and/or reimbursement accompanied by appropriate supporting documentation or
+using Statement o f Expenditures (SOEs) in accordance with the procedures described in the
+Disbursement Letter and the Bank's "Disbursement Manual." The PMU will be responsible for
+submitting the appropriate supporting documentation for services rendered or activities
+implemented to the Central Bank o f Tunisia (CBT) so that payments can be made from the
+special account opened for that purpose, or to submit applications for direct payment to the
+Bank. In case payments are to be made from the special account (SA), the PMU is required to
+send to CBT payment orders for services rendered or activities implemented with supporting
+documentation. The CBT reviews the documentation received to ensure their compliance with
+the terms o f the loan agreement and relevant project documentation as well as the eligibility o f
+the expenditures being incurred, then proceeds with the payment if these expenditures are
+deemed eligible. The CBT monitors the level o f the special account, and prepares and submits
+withdrawal applications to the Bank for replenishment of the SA. Under existing disbursement
+
+
+                                                 45
+
+procedures, the PMUwill be also permittedto submit withdrawal applications for direct payment
+accompanied by the necessary supporting documentation. As projected by Bank's standard
+disbursement profiles, disbursements would be completed four months after project closure.
+Retroactive financing o f an amount o f Euro 500,000 i s considered for this project.
+
+Special Account (SA): To facilitate disbursement o feligible expenditures, the Government will
+open and establish at the Central Bank o f Tunisia (borrower's Central Bank) a special account in
+Euros to cover the loan's share o f eligible project expenditures. The special account will be
+managed by CBT. The authorized allocation o fthe special account would be the equivalent o f
+Euro 1.5 million, covering an estimated o f4 months' o f eligible expenditures financedby the
+loan. Initially the authorized allocation will be limitedto Euro 1.O millionuntilcumulative
+disbursements under the loanreach a level equivalent to Euro 3 million. CBT will responsible for
+submitting monthly replenishment applications with appropriate supporting documentation for
+expenditures incurred andwill retain and make the documents available for review by Bank
+supervision missions andproject auditors. The replenishment applications will be prepared on
+the basis o f information providedby the PMU. To the extent possible, all o fthe loan's share o f
+expenditures should be paid through the special account. The supporting documentationwill
+include reconciled bank statements and other documents as may be required.
+
+Use of Statement o f Expenditures (SOEs): All applications to withdraw proceeds from the loan
+will be fully documented, except for: (a) expenditures o fcontracts with an estimated value
+equivalent to US$350,000 or less for goods; (b) US$ 100,000 equivalent or less for consulting
+firms; (c) US$ 50,000 or less for individual consultants, and (d) training, workshops and
+seminars, which may be claimed on the basis of certified Statements o fExpenditures (SOEs).
+Documentation supporting expenditures claimed against SOEs will be retainedby the CBT and
+will be available for review when requested byBank supervision missions andproject auditors.
+All disbursements will be subject to the conditions o fthe LoanAgreement andthe procedures
+defined inthe Disbursement Letter.
+
+Freauencv o fthe FMsupervision: The proposedfrequendy o f supervisionmissions is every six
+months.
+
+
+
+
+                                                  46
+
+                               Annex 8: ProcurementArrangements
+    TunisiaInformationandCommunicationTechnologies Sector DevelopmentProject
+
+8.1 ProcurementGuidelines
+
+Procurementfor the proposed project would be carried out inaccordance with the World Bank's
+"Guidelines: Procurement Under IBRDLoans and IDA Credits" dated May 2004; and
+"Guidelines: Selection and Employment o f Consultants by World Bank Borrowers'' dated May
+2004, and the provisions stipulated inthe Legal Agreement. The various items under different
+expenditure categories are described below. For each contract to be financed by the Loan, the
+different procurement methods, consultant selection methods, estimated costs, prior review
+requirements, and time frame will be agreed betweenthe Borrower andthe Bank as indicatedin
+the Procurement Plan. The Procurement Planwill be updatedat least annually or as requiredto
+reflect the actual project implementation needs and improvements ininstitutional capacity.
+
+The General Procurement Notice for the project has been discussed andwill be publishedinthe
+dgMarket andUnitedNations Development Business once the GOTprovides its clearance.
+
+8.2 ProcurementMethods
+
+The methods to be used for the procurement described belaw, andthe estimated amounts for
+each method, are summarized inTables A and A1. The threshold contract values for the use o f
+each method are fixed inTable B.
+
+Procurementof Goods: Goods procuredunder this projectwill includeIThardware, software,
+networking and office equipments, and subscriptions to knowledge bases. To the extent
+possible, contracts for these goods will be grouped into biddingpackages o fUS$350,000
+equivalent or more andprocured following InternationalCompetitive Bidding(ICB) procedures,
+usingBank-issued Standard BiddingDocuments. Contracts with estimated values below this
+threshold per contract may be procuredusingN C B procedures and standard biddingdocuments
+agreed with the Bank. Contracts for goods which cannot be grouped into larger biddingpackages
+and estimated to cost less than US$50,000 per contract, may be procuredusing shopping
+National/International procedures based on a model request for quotations satisfactory to the
+Bank.
+
+Selectionof Consultants:Major consulting services will be contracted under this project inthe
+following areas o fexpertise: Technical Assistance for Telecommunication and for Information
+and Communications Technologies (ICT); e-Government strategies; and development and
+implementationo f innovative applications andtechnologies and relatedtraining programs.
+These services would be procuredusingBank Standard Request for Proposals when hiringfirms.
+Short lists o f consultants for services estimated to cost less than $100,000 equivalent per contract
+may be composed entirely o fnational consultants inaccordance with the provisions o fparagraph
+2.7 o f the Consultant Guidelines.
+
+         Firms: All contracts for firms would be procured using Quality and Cost-Based Selection
+         (QCBS), except those assignments for which the time and cost for preparing a proposal
+         for a competitive selection i s notjustified may be procuredusing the Consultants'
+         Qualifications (CQ) as specified inthe ProcurementPlan. Other methods such as Fixed
+
+
+                                                    47
+
+        Budget and Single Source Selection may be usedinaccordance with the Bank Guidelines
+        and incompliance o fthe provisions o fthe Procurement Plan.
+
+        Individuals: Specialized advisory services would be providedby individual consultants
+        selected by comparison o f qualifications o fthree candidates andhiredinaccordance with
+        the provisions o fparagraphs 5.1 through 5.4 o f the Consultant Guidelines.
+
+        Training: Training activities will include cost o ftuition, material andtraveling for
+        local/overseas.
+
+The procurement procedures and SBDs/RFPs to be used for each procurement method, as well as
+model contracts for goodskonsultant services procured, technical specifications and terms of
+references will be presented inthe Tunisia I C Project ImplementationPlan (PIP).
+
+8.3     Prior Review Thresholds
+
+The proposed thresholds for prior review are based on the procurement capacity assessment o f
+the PMU and the Ministryo f Transport and Communication Technologies, Secretariat d`Etat        la
+RCforme Administrative (SERA), ATI, CNI, ANSI, ISET'COM, SUP'COM, Ministry o f
+Culture, Youth, and Leisure, Ministry o f Justice and Human Rights, Ministry o f Social Affairs
+and Solidarity are summarized inTable B.
+
+8.4     Assessment oftheAgency's Capacityto ImplementProcurement
+
+The Project Management Unit (PMU), incharge o fthe overall project management o fthe
+Tunisia Information and Communication (IC) project, reports to the Ministry o f Communication
+Technologies and Transport (MCTT). Procurement activities will be coordinatedby the PMU,
+which will also assume responsibility for compliance with the Bank procurement Guidelines and
+procedures o f all participating agencies and entities. The PMUis partially inplace and currently
+manages PhaseIand I1o fthe Transport Sector Project (1998-2006). As such, the PMUhas
+acquired some procurement experience with World Bank-financedprojects.
+
+An assessmentofthe capacity o fthe Implementing Agency to implement procurementactions
+for the project has been carried out by a Bank Procurement Specialist from April 26-30,2004.
+The assessment reviewed the organizational structure for implementing the project and the
+interaction betweenthe project's staff responsible for procurement and the Ministry's relevant
+central unit for administration and finance.
+
+The key issues and risks concerning procurement for implementation ofthe project have been
+identified and include (a) limitedknowledge and experience related to World Bank procurement
+guidelines andprocedures; (b) highvolume o fprocurement to be executed inthe first year o f the
+project intechnical complex sectors; and (c) tight timing ofproject deliverables.
+
+The corrective measures which have been agreed upon are to establish the PMUwith adequate
+staffing on the basis o f experience and qualifications satisfactory to the Bank, which should
+include (a) recruitment by no later than September 30,2004 of an internationalprocurement
+expert (to be hiredby MCTT out o f loan funds and incompliance with Para. 1.8 o fthe
+Guidelines for Consultants), to provide technical assistance to the PMUto handle the initial
+
+
+                                                 48
+
+procurement activities, while buildingup the capacity o f the PMU.This expert will work with
+the PMUfor a periodo f at least 12months; (b) as an effectiveness condition, strengthening the
+PMUby staffing itwith specialists inprocurement, ICT, andproject management with
+knowledge o f ICT. These specialists are expected to be recruited from within the Government
+and could be appointed for the duration o f the project. If,duringproject implementation,
+additional efforts appear necessary to strengthen the PMU's capacity, loan funds could be used
+for suchpurpose; (c) providing representatives o fall participating agencies and ministries a short
+training inTunisia no later than the time of project launch; and (d) an indepthtraining o f at least
+one member o f the PMUinthe Procurement Course organizedby the World Bank inDakar
+(November 2004).
+
+The overall project risk for procurement is high.
+
+
+8.4.1 ImplementingEntityDmplementationArrangements
+
+The implementation arrangement for the project is provided inAnnex 6. The PMUo f MCTT
+will be incharge o fthe overall projectmanagement o fthe Tunisia Information and
+Communication (IC) project. The PMUi s under the responsibility o fthe Director General o f
+Planning andStudies o fthe MCTT, andis composed o f a Project Coordinator andtwo staff. The
+project would be implemented by MCTT's PMUincoordination with the Project Manager o f
+each participating agency. The PMUwill also provide control and quality assurance for
+procurement activities, which are delegated to the various agencies and ministries involved inthe
+project. Inaddition to the current staff, the unit will include a full time international Procurement
+Specialist, an I C T Specialist, and a Project Management Specialist knowledgeable inICT. For
+the purposes o f the project, the fiduciary aspects o f the project will be managed by the PMU. The
+roles and responsibilities o fthe various participating agencies and ministries, including the role
+o fthe PMUvis-a-vis those agencies andministries, will be provided inthe Project
+Implementation Plan.
+
+8.5. ProcurementPlan
+
+Duringthe mission, some elements o ftheprocurementplanwere discussedwiththe Borrower.
+The procurement planwas then refined, and an agreement on the principles was reached. The
+Borrower, at negotiationpresented a procurement plan for project implementation, which
+provides the basis for the aggregate amounts for the procurement methods (per Table A). This
+planwas agreed upon by the Borrower andthe Project Team at negotiation andwill be available
+at the World Bank HQ.It will also be available inthe project's database and inthe Bank's
+external website after BoardApproval. The ProcurementPlan will be updatedinagreement with
+the Project Team annually or as requiredto reflect the actual project implementationneeds and
+improvements ininstitutional capacity. At the beginning o f each calendar year or whenever
+requiredunder Appendix 1to the Bank's Guidelines, the Borrower will update the Procurement
+Planwith a detailedprocurement schedule for the coming eighteen months. Prior to the issuance
+o f any invitations to bidfor contracts, the procurement plan for the Project shall be furnished to
+the Bank for its review and approval, inaccordance with the provisions o f paragraph 1o f
+Appendix 1to the Guidelines. Procurement o f all goods and consultancy services shall be
+undertakeninaccordance with the approvedprocurement plan.
+
+
+
+
+                                                  49
+
+The terms ofreference to hire an internationalprocurementexpert, along with the invitationfor
+application for the procurement expert were discussed at negotiations. The draft bidding
+documents and RFPs for the priority procurementpackageswill bepreparedbyproject launch.
+
+8.6. Frequencyof ProcurementSupervision
+
+Inadditionto the prior review supervisionto becarried out, the capacity assessment ofthe
+ImplementingAgency has recommendedquarterly supervisionmissionfor the first year and
+every 6 months afterwards. A procurement audit should be carried out every year.
+
+8.7. Detailsof the ProcurementArrangementsInvolvingInternationalCompetition
+
+1. Goods
+
+
+
+    1                2                  3           4      5        6          7          8
+
+Ref. No.          Contract         Estimated     Procure   P-Q  Domestic    Review     Expected
+                (Description)        cost         ment         Preference     by      Bid-Opening
+                                                 Method          (yeslno)    Bank        Date
+                                                                            (Prior I
+                                                                             Post)
+2.5        ICT Virtual Library      345,000       NCB              No         NO       09-03-04
+3.1 c.     CERT Equipments          165,000       NCB       --     No         No       09-03-04
+           and databases
+
+2. ConsultingServices
+
+(a) List of consulting assignments for the first 18 months.
+
+  1 1                       2                           3           4           5          6
+
+Ref.            DescriptionofAssignment             Estimated    Selection   Review     Expected
+ No.                                                   cost       Method    byBank      Proposals
+                                                                             (PriorI    Submission
+                                                                              Post)       Date
+
+
+
+
+3.1 b CERT: Training                                 165,000    Training      Prior     08-14-04
+4.1 a. WSIS preparation: Benchmarking                110,000       CQ         Prior     08-14-04
+4.1 b WSIS preparation: Private Sector               110,000       CQ         Prior     08-14-04
+       participation
+4.1 c  WSIS preparation: workshops                   275,000    Training      Prior     01-31-05
+
+
+                                                 50
+
+4.1 d WSIS preparation: Roundtables on             330,000       Training     Prior      01-31-05
+       outsourcing
+4.4 a. Support to PMU: TA                         275,000           I C       Prior      08-09-04
+4.4 b Support to PMU: Training                     55,000        Training     Prior      08-14-04
+
+(b) Consultancy servicesestimatedto cost aboveUS$350,000 per contract for assignmentswill
+be subject to prior review bythe Bank.
+
+(c) Short lists composedentirely ofnational consultants: Short lists of consultants for services
+estimatedto cost less than US$lOO,OOO equivalent per contract, may be composedentirely of
+national consultants inaccordance with the provisions ofparagraph2.7 of the Consultant
+Guidelines.
+
+8.8    ProcurementTables
+
+                       Table A: ProjectCostsby ProcurementArrangements
+                                    (inUS$ millionequivalent)
+
+
+
+
+Note: N.B.F. =Not Bank-financed (includes elements procured under parallel co-financing
+procedures, consultanciesunder trust funds, any reservedprocurement, and any other
+miscellaneous items).
+Figures inparenthesesare the amounts to be financed by the Bank loan.
+
+
+
+
+                                               51
+
+                         TableAl: Consultant SelectionArrangements
+                                    (inUSmillionequivalent)
+
+
+
+
+                       QCBS       QBS        FBS      LCS      CQ       Other    N.B.F.
+
+ A. Firms                6.47                                  0.94                              7.41
+                        (5.50)                                (0.79)                            (6.29)
+
+  B. Individuals                    -                  -                 0.71                    0.71
+                                                                        (0.61)                  (0.61)
+  Total                  6.47                                  0.94      0.71                    8.12
+
+
+
+               Note: QCBS = Quality- and Cost-Based Selection
+                     QBS = Quality-based Selection
+                     FBS=FixedBudget Selection
+                     LCS =Least-Cost Selection
+                     CQ = Selection Basedon Consultants' Qualifications
+                     Other = Selection o f individual consultants (per Section V o fConsultants
+                     Guidelines), Commercial Practices, etc.
+                    N.B.F. =Not Bank-financed.
+                     Figures inparenthesis are the amounts to be financed by the Bank loan.
+
+                Table B: Thresholds for ProcurementMethods andPriorReview
+
+
+
+
+                  I   US$thousand           I                              1       US $ thousand
+1. Goods                   >=350                         ICB                        All contracts
+                             350                        NCB                            None
+                           <50                 National or International         Firsttwo contracts
+                                                       Shopping
+2. Consultants
+Firms                      >=loo                 QCBS/QBS/CQ/FBS                        All
+                           < 100                      CQ/FBS/SS                 TORs andcontracts
+                           < 100                          ss                            All
+Individuals                >=50                           I C                TORs, Comparisonof CVs
+                                                                                 and conditions of
+                                                                                    employment
+                           <50                            I C                       TORs only
+
+
+
+
+                                                 52
+
+                                TableC:AllocationofLoanProceeds
+
+
+    EXPENDITURE       CATEGORY      Amount inUS$ million   FinancingPercentage
+
+
+   1. Goods                                  4.74          100% o f foreign expenditures. 100%
+                                                           o f local expenditures (ex-factory)
+                                                           and 80% o f other local expenditures
+   2. Consultant Services                    6.32          87% o f local expenditures for
+                                                           services o f consultants domiciled in
+                                                           the territory o f the Borrower, and
+                                                           79% o f foreign expenditures for
+                                                           services of other consultants
+   3. Training, Works and Tours              0.85          100%
+   4. Front EndFee                           0.13          Amount due under Section 2.04 o f
+                                                           the Loan Agreement
+   5.Unallocated                             1.09
+
+                              Total          13.13
+
+
+Use of Statementsof Expenditures (SOEs): SeeAnnex 7
+
+Special Account: see Annex 7
+
+
+OverallProcurementRiskAssessment:
+                       High        IXI
+                       Average
+                       Low
+
+
+
+
+                                               53
+
+                            Annex 9: Economic and FinancialAnalysis
+    Tunisia Information and Communication Technologies Sector Development Project
+
+The economicjustification o fthis project stems from its support of, and consistency with, the
+objectives andpriorities set forth inthe Bank's CAS o fJune 3,2004 and the I C T strategy
+developedjointly by the Bank andthe GOTin2002. Technical assistance included inthe project,
+together with the arrangements agreed to procure all goods and services, are likely to result in
+cost-effective solutions beinggenerally adopted.
+
+The project i s expected to result inconsiderable economic benefits. The project, however, cannot
+be meaningfully disaggregated from the overall ICT strategy o fwhich it is an integralpart. The
+benefits from the overall ICT strategy are likelyto materialize mainly along the following
+directions:
+
+    0   Increased ICT expenditures. Inthe short run, the impact o fICT development is being
+        driven primarily by growth intelecommunications services. The advent o f mobile
+        telephone competition in2002 has already increasedICT expenditure from about 3.5
+        percent o f GDP in2001 to about 6 percent in2003, as boththe new entrant andthe
+        incumbent operator (Tunisie Telecom) expanded rapidly to meet pent-up demand, offer a
+        range o f new commercialpackages and service modalities, and lower prices. Inthe
+        longer run, investmentby the ICT sector to expand productioncapacity will also increase
+        demand for the outputs o f other sectors.
+
+        Decliningproduction costs. As effective competition develops inall telecommunications
+        market segments, the cost o f communication to business users (averaging about 1.2
+        percent o f total output) can drop by as much as 50 percent. The services sector will
+        benefit most, with total costs o fretail and wholesale trade reduced by as much as 2
+        percent. Finance, insurance, transport, and other service sectors will also benefit from
+        above-average cost reductions. Inthe longer run, ICT will also spur productivity gains to
+        Tunisian enterprises and the economy at large through technology-related enhancements.
+
+        Lower transaction costs. Improvedavailability o f(and less costly access to) the Internet,
+        andrelated development o f applications, including e-commerce, will help businesses
+        improve supply chain and inventory management, upgrade quality control, and adopt
+        more efficient marketing techniques. The e-government program will facilitate access to
+        Government information by businesses andthe population at large and, together with the
+        simplification of administrative procedures, will reduce transaction costs inthe economy.
+        The e-security component will reduce the risk o f systemic failure o f critical Government
+        systems incase o f major disaster.
+
+        Employment creation. Aggregate employment intelecommunications is expected to
+        grow as new work opportunities generated by new entrants, contractors, suppliers,
+        retailers, and others more than offset labor productivity gains from competition. Faster
+        GDPgrowth stemming from economy-wide spillovers o fICT development would fbrther
+        accelerate the pace o f employment creation. As much as one out o f every six newjobs
+        created by 2006 could stem from ICT-driven growth.
+
+
+
+
+                                                  54
+
+                     Annex 10: Safeguard Policy Issues
+Tunisia Informationand Communication Technologies Sector Development Project
+
+
+                             Not applicable.
+
+
+
+
+                                   55
+
+                         Annex 11:ProjectPreparationandSupervision
+    TunisiaInformationandCommunicationTechnologies Sector DevelopmentProject
+
+
+                                                   Planned                 Actual
+PCNreview                                       April 7,2004             April 7,2004
+InitialPID to PIC                              April 21,2004             April 21,2004
+InitialISDS to PIC                              May 20,2004              May 20,2004
+Appraisal                                       May 25,2004              May 25,2004
+Negotiations                                    June 4,2004              June 4,2004
+Board/RVP approval                               July 1,2004
+Planned date o f effectiveness                  July 31,2004
+Planned date o f mid-termreview              September 30,2006
+Planned closing date                            June 30,2009
+
+Key institutions responsible for preparation ofthe project: MinistryofCommunication
+Technologies and Transport (MCTT)
+
+
+Bank staffand consultants who worked on the project included:
+
+Name                                           Title                       Unit
+Pierre Guislain                              Manager                      CITPO
+Carlo MariaRossotto                     Task Team Leader                  CITPO
+BjornWellenius                         LeadPolicyAdvisor                 Consultant
+Michel Maechler                           ICT Specialist                 Consultant
+RajeshPradhan                        Lead Financial Analyst               CITPO
+Anat Lewin                         Knowledge Sharing Analyst              CITPO
+Bruno Lanvin                       Lead E-government Advisor              CITID
+Samia Melhem                          Sr. Operations Officer              CITID
+Antonio Cittati                     Sr. Procurement Specialist           MNACS
+Kashmira Daruwalla                   Procurement Specialist               CITPO
+Moez Makhlouf                        Financial Management                Consultant
+                                            Specialist
+Dominique Bichara                          Sr. Counsel                   LEGMS
+Mark Wahl                                     Editor                     Consultant
+Mather Pfeiffenberger                 Sr. Program Assistant               CITPO
+Lucy Cueille                            ProgramAssistant                  CITPO
+
+Bank hnds expendedto date on project preparation:
+1. Bankresources: US$180,000
+2. Trust funds: --
+3. Total: US$180,000
+
+EstimatedApproval and Supervision costs:
+1. Remaining coststo approval: US$20,000
+2. Estimatedannual supervision cost: US$150,000
+
+
+                                                56
+
+                           Annex 12: Documentsinthe ProjectFile
+    Tunisia InformationandCommunicationTechnologies Sector DevelopmentProject
+
+
+Arab Advisors Group (2003). Tunisia: Communications Projections Report. Amman: Arab
+Advisors Group.
+
+MinistryofDevelopmentandInternational Cooperation,WorldBank &ProgrammeonPrivate
+Particatipation inMediterranean Infrastructure (2004). Etude sur laparticipationprivke dam Zes
+infrastructures en Tunisie. Tunis, Washington, DC and Brussels: Ministry ofDevelopment and
+International Cooperation, World Bank, PPMI.
+
+MinistryofCommunication TechnologiesandTransport (2004). Cadrejuridique.
+Website: http://www.infocom,tn/iuridique/menuiuridiaue.htm
+
+MinistryofCommunication TechnologiesandTransport (2004). Opkrateurs.
+Website: httD://w,infocom.tn/operateurs/tuntel/menu operateumhtm
+
+MinistryofCommunication TechnologiesandTransport (2004). Statistiques.
+Website: http://www.infocom.tn/statistiaues/menu stat.htm
+
+World Bank (2002). Republic of Tunisia -Informationand Communications Technology:
+Contribution to Growth and Employment Generation. Washington, DC: World Bank.(2
+volumes).
+
+World Bank (2004). Aide-mkmoires from identification andpre-appraisalmissions for Tunisia
+Informationand Communication Project. Washington, DC: World Bank.
+
+
+
+
+                                               57
+
+                                         Annex 13: StatementofLoansandCredits
+             TunisiaInformationandCommunicationTechnologiesSector DevelopmentProject
+
+                                                                                                                        Differencebetween
+                                                                                                                        expectedandactual
+                                                              OriginalAmount inUS$ Millions                               disbursements
+
+Project ID    FY    Purpose                                 IBRD      IDA      SF        GEF      Cancel.   Undisb.    Orig.     Frm.Rev'd
+
+PO82999      2004   TN-EducationPAQSETI1                    130.34     0.00     0.00      0.00      0.00     128.80      0.00        0.00
+
+PO74398      2003   TN-MUNICIPAL DEVELOPMENT 111             78.39     0.00     0.00      0.00      0.00      84.96     12.23        0.00
+PO72317      2003   TN-NW MountainousandFor. Areas Dev.      34.00     0.00     0.00      0.00      0.00      37.97      2.27        0.00
+PO48315      2002   TN-ProtectedAreas Management Project      0.00     0.00     0.00      5.33      0.00      4.78       1.39        0.00
+PO05750      2001   TN-AGRIC. SUPPORT SVCS                   21.33     0.00     0.00      0.00      0.00      24.85      3.98        0.00
+PO64082      2001   TN-TRANSPORTSECTOR                       37.60     0.00     0.00      0.00      0.00      34.62     13.17        0.00
+                    INVESTMENT
+PO48825      2001   TN-CULTURAL HERITAGE                     17.00     0.00     0.00      0.00      0.00      21.10      5.18        0.00
+PO50945      2000   TN-Education PAQSETI                     99.00     0.00     0.00      0.00      0.00      47.85      1.35        0.00
+PO35707      2000   TN-WATER SECTOR INVESTMENT              103.00     0.00     0.00      0.00      0.00      75.91     10.17        0.00
+                    PROJECT
+PO55814      1999   TN-EXPORT DEVELOPMENT                    35.00     0.00     0.00      0.00      0.00      11.90     11.90        0.14
+PO05741      1998   TNHigherEducationReformSupportI          80.00     0.00     0.00      0.00      0.00      33.61     29.54        2.19
+PO43700      1998   TN-TRANSPORTSECTORINV                    50.00     0.00     0.00      0.00      0.00      11.53      13.63       -0.09
+PO05736      1997   TN-NATURAL RESOURCEMGMT                  26.50     0.00     0.00       0.00     0.00       5.97      8.74         6.38
+PO05731      1997   TN-GREATERTUNIS SEWERAGE                 60.00     0.00     0.00       0.00      6.95     22.18     32.73         5.18
+PO05589      1995   SOLAR WATER HEATING                       0.00     0.00     0.00       4.00      0.00      0.32      0.26         0.00
+
+                                                     Total: 772.16     0.00     0.00       9.33      6.95    546.35    146.54        13.80
+
+
+
+
+                                                              TUNISIA
+                                                       STATEMENT OF IFC's
+                                                    HeldandDisbursedPortfolio
+                                                       InMillionsofUSDollars
+
+
+                                                               Committed                                  Disbursed
+                                                             IFC                                         IFC
+         FY Approval   Company                     Loan      Equity    Quasi     Partic.   Loan         Equity      Quasi     Partic.
+
+         1998100       BIAT                        0.00       0.29       0.00      0.00        0.00       0.29      0.00        0.00
+         1995          MaghrebIMBank               0.00       0.33       0.00      0.00        0.00       0.33      0.00        0.00
+         1986198       SITEX                       0.00       0.77       0.00      0.00        0.00       0.77       0.00       0.00
+         1998          Tuninvest                   0.00       4.29       0.00      0.00        0.00       4.29      0.00        0.00
+                                  Total portfolio:  0.00      5.68       0.00      0.00        0.00       5.68       0.00       0.00
+
+
+
+
+                                                                           Approvals PendingCommitment
+                        FY Approval    Company                         Loan       Equity        Quasi        Partic.
+
+
+
+
+                                           Totalpendingcommitments:     0.00       0.00          0.00         0.00
+
+
+
+
+                                                                   58
+
+                                       Annex 14: Countryat aGlance
+TunisiaInformationandCommunicationTechnologies Sector DevelopmentProject
+                                                            M. East   Lower-
+POVERTY and SOCIAL                                          8 North middle-
+                                                    Tunisla  Africa  income        levelopment diamond'
+2002
+Population,mid-year(millions)                            9.8     306    2,411                Lifeexpectancy
+GNIpercapita(Atlasmethod,US$)                         2,000    2,070    1390
+GNI(Atlasmethod, US$billions)                           B.6      670    3,352                       -
+
+Average annual growth, 1996-02
+Population(%)                                            12       19       10
+Laborforce (%)                                          2A       2.9       I 2                                       Gross
+                                                                                                                     primary
+Most recent estimate (latest year available, 1996-02)                              apita                          enrollment
+Poverty(%of populationbelownationalpovertyline)
+UrbanPOpuiation (%of totalpopulation)                    67       58       49
+Lifeexpectancyat birth(pars)                             73       69       69                       1
+Infantmortality(per1000livebirths)                       24       37       30
+Childmalnutrition (%ofchildrenunder5)                     4                 11         Accessto improvedwatersource
+Access to an improvedwatersource (%ofpopulation)         80       88       81
+illiteracy(%ofpopulationage S+,I                         27       35        t3
+Gross primaryenrollment (%of school-agepopulation)       17       95       111      -Tunisia
+  Male                                                  PO        98       111             Lomr-middle-incomegroup
+   Female                                                1'6      90       lD
+
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+                                             1962     I992     2001    2002       Economic ratios'
+GDP (US$ billions)                               8.1    '6.5    20.0      212
+GrossdomesticinvestmentlGDP                    317      34.3    27.9     25.8
+Exportsof goods andsewiceslGDP                 36.9     39.5     47.1    44.3                     Trade
+
+GrossdomesticsavingslGDP                       212      27.4    23.4      214
+GrossnationalsavingslGDP                       22.5     26.4    23.6     22.4
+
+Current account baiancelGDP                    -92      -7.0     4.3      -3.5
+InterestpaymentslGDP                            2.7      2.6      2.1      2.2
+Total debtlGDP                                 46.4     55.1    545      572
+Total debt servicelexports                      6.2     20.0     t3.9     15.4                       1
+Presentvalue of debtlGDP                                        542
+Presentvalue of debtlexports                                    Q2.7                            Indebtedness
+                                  1962-92 1992.02     2001     2002 2002-05
+(averageannualgrowth)
+GDP                                    3.8      4.7      4.9      17       4.7       -Tunisia
+
+GDP percapita                          13       32       3.7     0.5       3.7              Lower-middle-incomeamun
+
+
+STRUCTURE of the ECONOMY
+                                             1982     Igg2                        Growth o f investment and GDP (%)
+(%of GDP)                                                                                                                   I
+Agriculture                                     t3.2     6.1     116      D.4
+Industry                                        311     28.5    28.8      29.1    *O;
+
+  Manufacturing                                  111    6.5      18.5     8.6
+Sewices                                        55.8     55.4    59.5     60.5      o
+Privateconsumption                             62.3     56.6    60.9     62.3    -10 -
+Generalgovernmentconsumption                   13.5     6.0      15.7     6.3
+importsof goods andservices                    47.4     46.5     517     48.7               -GDi           -GDP
+
+
+
+(averageannualgrowth)
+Agriculture
+Industry                                        3.6      4.8     5.7
+  Manufacturing                                 2.0      5.6     6.9
+Services                                        3.4      5.3     6.0
+Privateconsumption                              2.7      4.6      5A
+Generalgovernmentconsumption                    3.0      42      5.0
+Grossdomestic investment                        0.8      3.7     64       -62
+importsof goodsandservices                      3.0      4.7     t3A      -17  .         -Exports         -Inports        ~
+
+
+
+
+                                                            59
+
+                                            1992       m a 2
+
+
+
+
+                                              263       24 s
+                                               4 ?       43
+                                              "80        -3 1
+
+TRADE
+                                            1992       2##2
+
+                                             4
+
+
+                                            2
+                                             B
+
+                                                         886
+                                             1m        22%
+                                               39
+                                               ee        pi4
+                                                         `xi9
+                                               Pg         w1
+
+BALANCE of PAYMENTS
+                                      1982  5992       2002     Currant account batanc~Lo GDP [*A)I
+                       IGCS           3,002  8.073     B5%
+                       IC*#           3,#59            %431
+                                      43%               483
+                                      484               .@e4
+                                       463              m a
+Curront account bsi+nco               *748              *746
+
+                                        778   t81        805     Q
+
+                                        4 7    4%        -`d.g   .1
+
+
+                                        ow    862       1,30r
+        l#tlra                          0 6    0 3         Ed
+
+EXTERNAL DEBT and RESOURCE FLOWS
+                                      1942   1S92      2002
+
+                        elisburrad    3.112  8343      u.oa
+                                        331  1,476      a4ftJ
+ IDA                                     68     5%         35              G CiBE   A 1,207
+
+                                        563  1,342
+                                         53   26'9
+                                          1      2          2
+
+                                                 6
+                                                 B        -00
+                                                 4       556
+                                              525
+                                                 6
+                                                                                E 2529
+
+                                          Q    2?J         1$
+                                        83      111        It?
+                                        27     WO         8 5
+
+
+

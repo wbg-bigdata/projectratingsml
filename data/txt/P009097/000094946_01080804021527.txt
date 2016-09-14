@@ -1,0 +1,1068 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No: 22468
+IMPLEMENTATION COMPLETION REPORT
+(CPL-34770; SCL-3477A; SCPD-3477S)
+ONA
+LOAN
+IN THE AMOUNT OF US$ 9.20 MILLION EQUIVALENT
+TO THE
+REPUBLIC OF TURKEY
+FOR A
+TA FOR TREASURY DATA
+06/28/2001
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+(Exchange Rate Effective February 23, 2001)
+Currency Unit = Turkish Lira
+TL 1 = US$ 0.000001
+US$ 1 = 960.189
+GOVERNMENT
+FISCAL YEAR
+January 1 December 31
+ABBREVIATIONS AND ACRONYMS
+CAS              Country Assistance Strategy
+CFA              Certified Financial Accountant
+CPA              Certified Public Accountant
+DMS              Data Management System
+DPC              Data Processing Center
+EIC              Economic Information Center
+ERR              Economic Rate of Return
+GOT              Government of Turkey
+GTZ              Govenunent of Gernany
+IFO              German Research Institute
+IT               Information Technology
+LAN              Local Area Network
+N/A              Not Applicable
+OEF              Oxford Economic Forecasting
+PC               Personal Computer
+PFMP             Public Financial Management Project
+PSBR             Public Sector Borrowing Requirement
+SOE              State-Owned Enterprises
+TOR              Terms of Reference
+Vice President:   Johannes F. Linn
+Country Director    Ajay Chhibber
+Sector Director:    Pradeep Mitra
+Sector Manager:   Samuel Otoo
+Task Team Leader   Ismail Arslan
+
+
+
+TURKEY
+TA FOR TREASURY DATA
+CONTENTS
+Page No.
+1. Project Data                                                                        1
+2. Principal Performance Ratings                                                       1
+3. Assessment of Development Objective and Design, and of Quality at Entry             2
+4. Achievement of Objective and Outputs                                                3
+5. Major Factors Affecting Implementation and Outcome                                  8
+6. Sustainability                                                                      8
+7. Bank and Borrower Performance                                                       9
+8. Lessons Learned                                                                    10
+9. Partner Comments                                                                  11
+10. Additional Information                                                           18
+Annex 1. Key Performance Indicators/Log Frame Matrix                                  19
+Annex 2. Project Costs and Financing                                                 21
+Annex 3. Economic Costs and Benefits                                                 23
+Annex 4. Bank Inputs                                                                 24
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components                 26
+Annex 6. Ratings of Bank and Borrower Performance                                    27
+Annex 7. List of Supporting Documents                                                28
+
+
+
+
+
+
+Project ID: P009097                                       Project Name: TA FOR TREASURY DATA
+Team Leader: Ismail Arslan                                TL Unit: ECSPE
+ICR Type: Core ICR                                        Report Date: June 28, 2001
+1. Project Data
+Name: TA FOR TREASURY DATA                           L/C/TF Number: CPL-34770;
+SCL-3477A;
+SCPD-3477S
+Country/Department: TURKEY                                               Region: Europe and Central
+Asia Region
+Sector/subsector: BF - Public Financial Management
+KEY DATES
+Original           Revised/Actual
+PCD:  10/08/91                                Effective:
+Appraisal:  06/10/92                                  MTR:
+Approv'al:  05/28/92                               Closing:
+Borrower/lmplementing Agency: GOT/TREASURY
+Other Partners: GTZ
+STAFF                Current                                   At Appraisal
+Vice Presidenit:     Johannes Linn                             Wilfred Thalwitz
+Country Manager:     Ajay Chhibber
+Sector Manager:      Pradeep Mitra
+Team Leader at ICR:   Ismail Arslan                            Barbara Lewis
+ICR Primary Auithor:   Elliott Hurwitz
+2. Principal Performance Ratings
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly
+Unlikely, HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+Outcome: S
+Sustainabilitv: L
+Institutional Development Impact: SU
+Bank Performance: S
+Borrowt-er Performiance: S
+QAG (if available)       ICR
+Quality at Entry: S                      S
+Project at Risk at Any Time: No
+Introduction
+The Treasury in Turkey is one of the key agencies charged with formulation of macroeconomic policy.
+(Others are the Ministry of Finance, State Planning Organization, and the Central Bank) In addition to
+responsibility for supporting broad macroeconomic policy, Treasury (at project inception) was responsible
+for foreign economic relations and trade, public sector borrowing, financial sector regulation and
+supervision, international capital flows, management of the portfolio of state economic enterprises, and
+supervision of the insurance sector. (In 1995 foreign trade became the responsibility of the
+
+
+
+Undersecretariat of Foreign Trade, which was split off from Treasury. Financial sector regulation and
+supervision units transferred to the newly established Bank Regulation and Supervisory Agency in 2000).
+At the start of the 1990s, Treasury's information systems and data management capabilities were obsolete
+and inadequate to support its responsibilities. Numbers reported by different departments were inconsistent.
+Many data series were marked by late reporting, inconsistent definitions, and other problems. Most staff
+did not have computers, and there was no infrastructure for sharing data. In addition, there was a need to
+bolster the agency's capabilities in database design, systems management, and analytic and modeling
+techniques.
+This project was prepared with the request of the Turkish Government. Total project cost was US$30.05
+million, with US$9.20 million contributed by the Bank, US$1.95 by the Government of Germany (GTZ),
+and US$18.90 by the government.
+3. Assessment of Development Objective and Design, and of Quality at Entry
+3.1 Original Objective:
+The Treasury Data Systems Project (TDSP) objectives were to upgrade the technology, information, and
+analytic resources essential to Treasury's role in macroeconomic management. Specifically, the project
+aimed to (a) improve the agency's monitoring and policy design functions; (b) provide timely and efficient
+access for Treasury staff to a consistent, centralized data source; (c) enable Treasury to draw upon and
+contribute to databases of multilateral institutions and other agencies; (d) ensure that organizational
+procedures support efficient data processing and analysis; and (e) support investment in human capital.
+Evaluation of Objectives
+The objectives were clear and realistic, consistent with the Bank's goals as stated in the CAS, and
+consistent with the country's goals. They were highly relevant to Treasury's mission and important for
+economic development. Underlying the objectives was the assumption that better economic data would
+facilitate government efforts to improve macroeconomic policy setting and, implicitly, macroeconomic
+performance by reducing the Public Sector Borrowing Requirement (PSBR), improving the performance of
+SOEs, etc. Given the weaknesses in economic data and lack of analytical capability, it was realistic to
+assume that better data would assist in formulating a more balanced policy.
+3.2 Revised Objective:
+N/A
+3.3 Original Components:
+The original components were:
+1. Develop a Data Management System (DMS) that (a) provides an appropriate technology
+environment for macroeconomic data analysis; (b) contains centralized databases to support this
+work.
+2. Undertake institution-building initiatives that include (a) training in selected economic, financial,
+and technical subjects; (b) consultant assistance for special studies and economic model-building; (c)
+management and training consultancy support; and (d) establishment of a Treasury library and
+Economic Information Center open to the public.
+The DMS was originally intended to be built on the existing mainframe computer and included design and
+development of economic databases, personal workstations, LAN and communications systems, and
+-2 -
+
+
+
+technical training for Data Processing Center (DPC) staff. The institutional development component was
+intended to introduce modeling tools and undertake analytic studies to enhance staff capabilities in relevant
+areas. It was anticipated that organizational processes would be introduced to facilitate efficient
+data-sharing and management. A professional training program would also be undertaken to upgrade the
+skills of Treasury staff.
+Component 1: DMS development was intended to be achieved via the following tasks: (1) Update
+mainframe and install LAN services; (2) Convert existing data; (3) Design new databases by means of
+intensive end-user consultation; (4) Create new databases; (5) Train Treasury staff in use of new system.
+Component 2, institutional development, consisted of (1) Provision of short-term training and preparation
+of plans for long-term training; (2) Implementation of analytic studies and tools to permit advanced
+macroeconomic and foreign trade analyses, as well as specialized studies; (3) Accomplishment of
+organizational changes needed to take advantage of the new system.
+While the original objectives and components were not revised, two substantive changes were made after
+project initiation. First the Bank proposed and the government agreed that, because of the shift in the
+prevailing IT paradigm, the TDSP would shift to a client-server architecture instead of using the existing
+mainframe. Second, it was later decided that instead of establishing a physical Economic Information
+Center, dissemination of Treasury economic information over the Internet would instead serve the same
+purpose more efficiently.
+3.4 Revised Components:
+N/A
+3.5 Quality at Entry:
+Quality at entry was satisfactory. The design was straightforward, aimed squarely at the objectives as
+stated. The project approach fit the prevailing computing paradigm, and the institutional development
+components effectively complemented development of the DMS. The assumption that better data would
+facilitate better macroeconomic policy formulation was reasonable, and the project had the strong backing
+and enthusiastic participation of the government.
+Assessment of Design
+As noted, the project design was simple, and in accordance with the prevailing computing paradigm. This
+design was not risky. The first component was well within the implementation capabilities of the Treasury
+Data Processing Center (DPC) supplemented by relatively modest consultant support. The second
+component fit well within the capabilities of the General Directorate of Research (which was responsible
+for project implementation), augmented by other Treasury components as required.
+4. Achievement of Objective and Outputs
+4.1 Outcome/achievement of objective:
+Outcome overall was satisfactory, with highly-leveraged results from a relatively small Bank investment.
+Interviews with a range of Treasury officials and those of other economic agencies as well as private
+economists indicate that the quality and timeliness of Treasury economic data improved considerably over
+the period of the TDSP. And there is ample evidence that TDSP has made Treasury operations more
+efficient.
+The project fully succeeded in an ambitious improvement of Treasury's automation infrastructure,
+comprising servers, personal computers, LAN, database system, e-mail, and installed software. Use of
+computers by technical staff has become routine, and the ratio of computers to staff is nearly 1 to 1
+- 3 -
+
+
+
+(compared with a project goal of 1 to 2). The Treasury web site is now widely used for data dissemination.
+Economic studies and attendant staff development was successful. Extensive model development and
+training was successfully achieved in macroeconomics; leading economic indicators; and sources and uses
+of funds, with somewhat less progress in the two remaining areas. Short-term training of Treasury staff in
+utilization of the new systems was successful, with training provided to 12 departments of the
+Undersecretariats of Treasury and Foreign Trade. Short-term training was also provided in accounting,
+statistics, international trade, and other relevant subjects. For long-term training, a plan has been developed
+to integrate and carry out this training as part of regular Treasury activities.
+However, the effort to introduce organizational processes that would facilitate efficient data sharing and
+management has had mixed success. Many departments, such as Domestic and External Debt, make full
+use of systems and in some cases have gone beyond the initial design capability. In order to provide
+reliability and accuracy of data, some general directorates have responsibility to enter data, which are the
+reference information of the main data, into the data bases. Therefore, the installation of the DMS has
+produced one more step forward in Treasury data processing and analytic capabilities. However, because
+of the complexity of some data bases, new requirements are not implemented easily in the system, so, in
+some instances the DMS is not sufficiently flexible to meet user needs efficiently (details are provided
+below).
+4.2 Outpuits by components:
+Component 1-DMS Development: As noted earlier, development and implementation of the DMS was
+satisfactory, with substantial achievements considerably outweighing shortcomings. The installed
+infrastructure is well documented and performs very well. The network utilizes ATM switches, a
+highly-modem technology. Six modern servers support about 875 PCs; the system has the capacity to
+support around 1500 PCs, providing growth potential. Security systems and firewalls are installed to
+ensure data confidentiality. It should also be noted that the changeover from the mainframe-based
+architecture to a client-server architecture was accomplished without the need for additional funding.
+Principal Achievements: User needs were determined by an extensive consultant study, which established in
+detail the system requirements of each general directorate. Based on recommendations from consultants,
+the DMS acquired and installed an Oracle Relational Database Management System, which has been
+extremely successful. DMS also uses Graphical Query Language and Power Builder software to create
+departmental forms and reports. An e-mail system was installed that introduced additional efficiencies into
+Treasury operations. TDSP use of off-the-shelf software has been very cost-effective, as the potentially
+higher costs and delays of custom-developed software were avoided.
+As envisioned, Treasury DPC staff supplemented by consultants converted existing data, created the new
+databases within the DMS, and trained Treasury staff in use of the new system. As noted above, eleven
+projects were undertaken under TDSP, in most cases corresponding to a unique database and supporting
+application software:
+1.    Domestic Debt
+2.     External Finance
+3.    Asset and Debt Management
+4.     State Owned Enterprises
+5.     Banking
+6.     Sworn Bank Auditors
+7.    Insurance
+-4 -
+
+
+
+8.    Foreign Trade
+9.     Macroeconomic Indicators
+10.   Financial Institutions
+11.   Automated Document Archival Systems
+In eight of these eleven instances, Treasury directorates are making effective use of the DMS. For
+example, the General Directorate for Foreign Economic Relations uses the DMS to perform analyses in
+support of negotiations for new loans from multilateral institutions. And the General Directorate for Public
+Finance uses the DMS to manage external debt and monitor actual payments against what had been
+projected. When DMS was first installed, Public Finance issued quarterly reports on indebtedness, but in
+April, 2000, the directorate began monthly reporting. Data from the Bank's databases were transferred
+into the External Finance database in a protracted process that involved travel of Treasury staff to
+Washington. Bank staff report that Treasury debt reporting is among the best from member nations, and
+they attribute this quality to TDSP.
+The project introduced formal data-sharing arrangements between government agencies. Protocols between
+Treasury and other agencies using or generating economic data were concluded, and in general data
+exchange is routine and efficient. Such agreements are in effect with the Central Bank, the State Institute
+of Statistics, Istanbul Stock Exchange, and the Undersecretariat of Foreign Trade.
+Other economic agencies and private users also utilize data generated by the DMS. The Central Bank uses
+Treasury data on extemal debt in assessing the balance of payments, and its banking and foreign reserves
+departments are also heavy users of DMS data. And academic researchers make significant use of data
+from the Treasury website (www.treasury.gov.tr). In general, academic specialists and other economic
+agencies stated that the quality of Treasury economic statistics has improved significantly over the period
+of the TDSP.
+Shortcomings: As noted, in two instances Treasury Directorates are not making full use of the DMS. The
+SOE and Insurance General Directorates made little or no use of the DMS, continued the use of their own
+systems, and participated little in training programs. This was due to a mixture of a general resistance to
+change, reluctance to depart from existing systems that were known to be reliable, uneven support by
+directorate management, some perceived deficiencies in the DMS, and a heavy workload of routine
+reporting. Part of the resistance also appeared to be due to internal institutional resistance, as the Treasury
+DPC and Treasury management made a number of efforts to induce cooperation and meet the directorates'
+stated data processing requirements. In the insurance area, however, despite repeated efforts on the part of
+DPC, the TDSP-prepared module was not sufficiently responsive to the Directorate's requirements.
+The eleventh project, the automated archival system, has been deferred and is expected to be- accomplished
+in the future. Treasury DPC and management are continuing to work with the directorates noted to improve
+the capabilities and user-friendliness of the DMS, and it is expected that further system development will
+enhance system utilization by these directorates.
+With regard to SOEs, it should be noted that even though the SOE General Directorate makes little use of
+the DMS, individual enterprises have made considerable use of this data, and in many cases have been able
+to better analyze and improve their operations as a result. While the TDSP staff has recommended that it
+would be safer and more efficient to utilize the DMS, the SOE General Directorate believes that the
+continued use of their existing Excel system is adequate.
+As mentioned earlier, there are some issues in the manner in which Treasury utilizes the DMS which will
+-5-
+
+
+
+have to be resolved through a collaborative process among the Treasury Departments. The functional
+duties of debt management officers within Treasury has led to different approaches in data storage and data
+processing of DMS. For example, the General Directorate for Public Finance is responsible to follow the
+actual transactions (drawings and payments) of extemal debt operations and to announce this information
+to the public. Therefore, in order to produce accurate and reliable extemal debt data, the responsibility for
+maintenance of reference tables in the DMS (for instance the information of foreign lenders, borrower,
+project name etc.) is given to one staff in the General Directorate of Public Finance. Other users can
+process the reference information on a "read only " basis. While entering, a new loan agreement into the
+system, the certain reference information should be provided by the staff from the General Directorate of
+Public Finance. This sometimes causes delays in entering the data into the system. As another example, the
+system is not able to accommodate multi-tranche loans, thus requiring staff to develop a "workaround"
+solution that requires entering a separate loan number for each tranche. However, modifications to the
+system are planned to be made before end-2001 to accommodate multi-tranche loans. Overall, these
+shortcomings are relatively minor when compared to the benefits derived from the implementation of DMS.
+Component 2-Institutional Development: Achievement was satisfactory overall:
+Short -Term Training: As noted earlier, short-term training needs were identified through a consultant
+study, which was revised with the Bank's help after the split-off of the Undersecretariat of Treasury and
+Foreign Trade. The purpose of the short-term training was to provide the initial capacity for Treasury staff
+to utilize the DMS.
+The recommended training was delivered to around 300 staff from 12 departments of Treasury and the
+Foreign Trade Undersecretariat. The success of this effort was demonstrated by the fact that staff have
+been productively using the system for the past several years as additional databases and analytic
+capabilities have been brought on line. Refresher training was provided throughout the duration of the
+project.
+It should be noted that due to resource constraints some general directorates have not been provided with
+the amount or frequency of training they believe necessary. Also due to resource constraints, some
+specialized software identified during project implementation (e.g., for portfolio risk management analysis)
+has not yet been acquired.
+Long-Term Training: The purpose of this sub-component was to institutionalize on-going training, so that
+(1) new Treasury staff would have the requisite skills to utilize the DMS; (2) new applications and
+knowledge could be introduced. A consultant report in this area was prepared, which provided the basis for
+Treasury to establish in-house programs. A Steering Committee for training, with the participation of each
+department, was also established to follow up long-term needs. This committee has met periodically and
+developed recommendations for Treasury management. In addition, a survey was performed (which is
+planned to be repeated annually) to identify these needs, and an action plan prepared. Thus the goal of
+institutionalizing on-going training has been achieved.
+Controller Training Proeram: With the goal of improving the audit of Bank projects, TDSP envisaged a
+two year CPA/CFA training program for four Treasury Auditors, Halfway through project implementation,
+Treasury requested a change to in-country shorter-term training which would benefit a larger number of
+auditors. The Bank agreed with this request, but for a number of reasons it was delayed, requiring the
+project to be extended. Eventually, a revised program for 20 auditors was deferred to the Public Finance
+Management Project, under which it is currently scheduled to be completed by December 31, 2001. Thus
+- 6 -
+
+
+
+controller training intended for the TDSP was not completed by the close of that project.
+Studies: As noted earlier, studies were undertaken in several areas with the goal of building up Treasury's
+analytic capabilities. While there were some shortfalls, the main goals were achieved, with the greatest
+progress in the areas of macroeconomics; leading economic indicators; and sources and uses of funds. In
+these studies, the consultants worked very closely with Treasury staff, with the goal of transferring
+knowledge by "learning by doing." When the studies were completed, Treasury staff took over operation
+and further development of the models and other analytic tools that had been developed. A sophisticated
+study in the area of foreign trade was completed, but was accompanied by less transfer of skills to Treasury
+staff than had been envisioned. And in the area of consolidation of fiscal accounts, although several
+analytical tools were installed and papers written, the anticipated work was not completed.
+In the area of Financial Early Warning Indicators, for instance, threshold values for certain variables that
+are believed to be reliable indicators of a prospective financial crisis are monitored. Similarly, a "Market
+Pressure Index" is calculated monthly that estimates the probability of a financial crisis within the next 12
+months. These capabilities, as well as those described earlier, were enabled by the TDSP. Treasury also
+utilized its macroeconomic model to estimate the economic effects of the recent earthquakes, thereby
+permitting the government to modify the assumptions it was using to set spending and revenue targets.
+As discussed in greater detail below, in the performance of the studies Treasury made a strong effort to
+select consultants who were pre-eminent in their fields. However, this often did not result in the selection of
+individuals who were effective-or sufficiently available-to transfer knowledge to Treasury staff.
+As noted earlier, a physical Economic Information Center was not established, but Treasury economic
+infornation has been disseminated over the Internet, thereby accomplishing the same goal more efficiently.
+The library, training center, conference facility, and publication center were all developed as envisioned,
+and are currently used for in-house training as well as seminars open to the public.
+4.3 Net Present Value/Economic rate of retutrn:
+It was not possible to compute an ERR, and a measure of cost-effectiveness was not practical.
+4.4 Financial *ate of return:
+N/A
+4.5 Institutional development impact:
+Institutional Development Impact was substantial:
+*   Prior to the TDSP, Treasury data was rudimentary and inconsistent, reporting was not timely, and
+many Treasury departments (and staff) collected and analyzed their own data-with little
+coordination between staff. Treasury publications contained inconsistent information. TDSP
+dramatically improved this situation, making data series more consistent, timely, and available to a
+greater audience. This significantly improved the quality of information available to economic
+policy officials, to the research community, and to international organizations.
+*   TDSP provided Treasury with a much-improved capability to formulate and monitor economic
+policy. DMS is a key instrument utilized for Treasury's meetings with multilateral organizations,
+and the General Directorate for Economic Research produces monthly, and in some cases weekly,
+reports on the current economic program (which are also used for the IMF Stand-by Agreement).
+-7-
+
+
+
+1. Calculations of the public sector borrowing requirement -a critical parameter for Turkish
+economic policy officials-can now be generated quarterly for the central government,
+which was not possible before DMS.
+2. The General Directorate for Economic Research regularly forecasts major economic
+aggregates and Leading Economic Indicators.
+3. In the perforrnance of the 5 studies described earlier, Treasury staff "learned by doing" and
+thereby enhanced agency capabilities in each of the designated areas. In macroeconomic
+modeling, for instance, Treasury staff is now changing the parameters of the models without
+help from outside consultants.
+*   Treasury staff received short-term training in accounting, statistics, international trade, and other
+topics that would upgrade their skills in relevant areas.
+*   The functioning of the Undersecretariat of Treasury is much more efficient than it was before
+TDSP. This has been made possible by the use of a common data base, and possession of modem
+computing and communications tools-including the Internet and e-mail. In addition, because they
+have better information and can better plan borrowing needs, Treasury is more efficient at
+managing external debt, for example, by optimizing the selection of the currency in which loans are
+denominated. Regarding domestic debt, Treasury has much more current information on
+conditions in the credit markets, and can "time" its offerings to obtain better terms.
+5. Major Factors Affecting Implementation and Outcome
+5 1 Factors outside the control of government or implementing agency:
+e  Soon after project inception, it became clear that the computing paradigm was shifting from a
+mainframe-based architecture to a client/server arrangement. As noted earlier, after extensive
+discussions, the Bank and the GOT agreed to shift the DMS architecture accordingly, which was
+accomplished at no additional cost to the project.
+5.2 Factors generally subject to government control:
+•   At the end of 1994, the Undersecretariat of Foreign Trade was separated from the Treasury. This
+separation caused some delay as a result of discussions over ownership of project resources, and the
+new status of the DPC, and eventually a decision was made to provide the mainframe computer to the
+Undersecretariat of Foreign Trade, with the remaining resources staying with Treasury.
+*   Treasury is a leading agency in Turkey, and its status, along with the generally high quality of its staff,
+facilitated project progress.
+5.3 Factors generally subject to implementing agency control:
+None.
+5.4 Costs and,financing:
+As noted earlier, total project cost was US$30.05 million, with US$9.20 million contributed by the Bank,
+US$1.95 million by the Government of Germany (GTZ), and US$18.90 million by the govermment. Also,
+no additional costs were incurred as a result of the shift to a client-server architecture from a
+mainframe-based system. The loan closed on June 30, 2000, one year later than envisioned, resulting from
+the delay over the arrangements for auditor training noted earlier.
+6. Sustainability
+- 8-
+
+
+
+6.1 Rationale for sustainability rating:
+Sustainability is judged as likely. Treasury is currently funding the DMS from budgetary funds, and is
+upgrading equipment on a gradual basis. The visibility and perceived utility of the system within the
+Undersecretariat is high, which facilitates funding. Management commitment to DMS is high, and staff
+depend heavily on it for routine functions. The IT systems developed are likely to remain the backbone of
+key Treasury operations for many years. Additional Treasury investment, including that from other World
+Bank loans (e.g., Public Financial Management Project, PFMP) is being undertaken to further improve the
+DMS infrastructure. Some complementary servers and software for the DMS have been provided under the
+PFMP.
+6.2 Transition arrangement to regular operations:
+The transition to regular operations has been smooth. As noted, technical operation of the project has been
+accomplished by Treasury staff since early in the project, and by project completion all operations-
+including changes in the parameters of economic models-are being undertaken by staff. Funding is
+generally adequate, with some of the resources used for hardware replacements and upgrades coming from
+related Bank projects. The General Directorate for Economic Research is continuing to work with
+directorates that have not thus far made satisfactory use of the DMS to modify the system to improve its
+ability to meet their needs.
+As noted earlier, Treasury has completed and has begun to implement a long-term training plan, which has
+succeeded in institutionalizing on-going training and making it a customary part of operations.
+7. Bank and Borrower Performance
+Bank
+7.1 Lending:
+Bank performance during lending was highly satisfactory. As noted earlier, the project was highly relevant
+to the country's development needs, and the design was straightforward and effective. The Bank team was
+very strong, Government participation in the project was extensive, and the correspondence of ideas very
+good. During project identification and appraisal, interaction between the Bank and the government was
+essentially trouble-free.
+7.2 Supervision:
+Overall supervision was satisfactory. In general, the project was implemented very smoothly, with no
+disputes between Bank and implementing agency on what should or should not be done, and no need to
+amend the project to change its objectives or key activities. The Treasury and the Bank team maintained
+cooperative engagement to negotiate any corrections needed in technical or institutional aspects.
+The Bank's team was of generally high quality, with excellent continuity. Technical skills were excellent,
+and Bank efforts to transfer data on lending to Treasury databases were extensive and appreciated by the
+GOT. In 1995, the bank team supervising the project was reorganized which improved the quality of
+relations with the client.
+As noted earlier, major changes were made in the approaches taken by the project in 2 areas--computing
+architecture (from mainframe to client/server), and information dissemination (from physical facility to the
+Internet). In both cases, decision-making was cordial and cooperative, with no major conflicts.
+7.3 Overall Bankperformance:
+Overall Bank performance is judged to be satisfactory.
+-9-
+
+
+
+Borrower
+7.4 Preparation:
+As noted earlier, Borrower participation in project preparation was highly satisfactory, with excellent
+cooperation and strong participation in project design.
+7.5 Government implementation performance:
+Government Performance was satisfactory. Throughout the project, there was a strong concurrence of
+views between the Bank and the Borrower concerning design, implementation, and nearly all important
+project issues. Even though there were 2 major changes in project approach-DMS system architecture,
+and the Economic Information Center-these were accomplished without formally modifying the objectives
+or amending the Loan Agreement.
+The Treasury Data Processing Center (DPC) was very effective at all aspects of system design,
+implementation, and training. While consultant assistance was required for some aspects of the project,
+Treasury staff were able to carry the work forward in nearly all cases.
+It should be noted that early in the project, a Steering Committee was established with representation from
+all general directorates to assure broad participation in project design, and later in the training program.
+However, interest on the part of some units waned-depending on many factors including management
+support-and participation narrowed as the project proceeded.
+Nevertheless, as described above, some aspects of DMS implementation were less effective than what had
+been envisioned, in particular the reluctance of some directorates to participate in the DMS, and several
+relatively minor shortcomings in system design. Part of the reason for this was the existence of
+organizational barriers within Treasury and between Treasury and other economic agencies.
+7.6 Implementiig Agency:
+Performance of the implementing agency, the Treasury General Directorate of Economic Research, was
+satisfactory. There was a strong concurrence of views between the Bank and the Borrower concerning
+nearly all important project issues. Changes in project approach were accomplished with minimal
+formalities. Technical capabilities were strong in all phases of system design, implementation, and
+training.
+7.7 Overall Borrower perfornance:
+Overall Borrower performance was satisfactory.
+8. Lessons Learned
+* Greater Attention Should Have Been Paid to Organizational Procedures to Support More
+Efficient Data Processing and Analysis-In some instances, internal barriers within Treasury or
+between Treasury and other agencies prevented the most efficient use of the DMS. Although this
+deficiency was relatively minor in comparison to TDSP achievements, the Bank and the Borrower
+should have explored mechanisms, e.g., internal incentive systems, that might have mitigated these
+problems.
+* Consultants Should be Carefully Selected for their ability to Transfer Knowledge-A major
+purpose of the five studies that were conducted was to transfer knowledge to Treasury staff in these
+areas. In several instances, Treasury was overly-insistent on selecting individuals who were
+pre-eminent in their fields, but who were not always adequately available to Treasury staff, or as
+effective at transferring knowledge as would have been desirable.
+- 1 0 -
+
+
+
+*   Use of "Off-the-Shelf" Software Proved Very Effective-TDSP utilized the best off-the-shelf
+software available competitively in the market, which proved quite effective and avoided potential
+delays and cost overruns. This was a distinct improvement over the initial intention to utilize
+proprietary products tailored to the existing IBM mainframne computer.
+*   Greater Attention Should Have been Paid to Internal Promotion of the DMS-At the start of the
+project, a newsletter was published to inform Treasury staff and policy officials about the progress of
+TDSP and the capabilities of the system, which was very important to generating intemal good will for
+the anticipated changes. Unfortunately, this was discontinued after a few issues. It would have been
+highly desirable to continue this newsletter, or an equivalent mechanism (e.g., quarterly seminars), to
+circulate more widely inforrnation about the system.
+9. Partner Comments
+(a) Borrowerlimplementing agency:
+COMMENTS OF THE UNDERSECRETARIAT OF TREASURY:
+INTRODUCTION
+The financing requirements of the Treasury Data Systems Project to the portion of the loan corresponding
+to the equivalent of US$ 9.2 million was allocated to the project by the World Bank. The Government of
+Turkey contributes US$ 19.2 million and complementary grant provided by the official German Institution
+(GTZ) which is DM 4.3 million for consultant services and technical training.
+PROJECT OBJECTIVES
+The project seeks to upgrade the technology, information, and analytic resources essential to the Treasury's
+role in macroeconomic management. Specifically, objectives of the project are:
+v  to improve the Treasury's monitoring and policy design functions;
+v  to provide timely and efficient access for the Treasury staff to consistent and centralized data sources;
+*   to enable the Treasury both to contribute to and draw upon the databanks of multilateral institutions
+and other agencies;
+*   to ensure that organizational procedures to support efficient data processing and analysis and
+*   to support the development of a complementary institutional framework to invest in human capital.
+An additional objective of the project is to improve the availability and reliability of economic data that the
+Treasury provides to other agencies (i.e. the private sector, and multilateral organizations).
+ACHIEVEMENT OF PROJECT OBJECTIVES
+In order to achieve these objectives, the project aims to support the Treasury to invest in:
+A Data Management System: provides an appropriate technology environment for macroeconomic data
+analysis; and consistent centralized databases to support this work;
+Institutional Development: (a) training in selected economic, financial and technical subjects; (b) consultant
+assistance for special studies and economic model building; (c) management and training consultancy
+support and (d) establishment of the Treasury's Library and an Economic Inforrnation Center (EIC).
+- 1 1 -
+
+
+
+The main development objectives of the project, which are to provide the Treasury with the information,
+technology and analytic sources essential to its role in macroeconomic management, have been achieved.
+With the enhancement of the technology, establishment of the databases and analytic capacity, the Treasury
+staff can now access and use consistent and centralized data sources.
+1. Data Management System Component:
+In order to improve the Treasury's monitoring and policy design functions, the Treasury's automation
+infrastructure is replaced with the new client/server technology. The level of computer usage is now higher
+than the Project's target. Currently, with the use of desktop computers connected to the local area network
+in client/server architecture, the Treasury staff is using Information Systems, developed in-house or
+purchased from outside vendors, working on secured and centralized databases and producing necessary
+reports and other outputs.
+For the data required from outside, the protocols to transfer data among agencies (The Central Bank, The
+State Institute of Statistics, Istanbul Stock Exchange, The Undersecretariat of Foreign Trade) has been
+signed and data exchange continues satisfactorily.
+The Treasury Web Site has been established to provide the outside users with statistical data, produced by
+the Treasury in compliance with the related legislation. Moreover, Intranet system within the Treasury has
+been constructed and made operational.
+The establishment of the "Data Management System" has been completed following these stages:
+Preparing The Infrastructure Technology: The project faced a major challenge at the outset of
+implementation. It had been designed to improve the mainframe based environment of the Undersecretariat
+of Treasury and Foreign Trade, but it became clear that mainframe technology was rapidly becoming
+obsolete and replaced by client-server based technology environment. The Bank asked the Treasury to carry
+out a serious study of the matter prior to any further investment in the mainframe environment.
+Before TDSP, Treasury had an IBM mainframe system for file and data servers and dummy terminals in
+front of the end-users.
+In the early project's objectives, it was aimed to upgrade the present mainframe, implement wiring of the
+whole building, build a local area network. However, due to the recent technological improvements, it was
+decided to change the infrastructure to establish a long-term solution with the use of personal computers
+and client/server architecture.
+Now, using personal computers within the Treasury, each expert is able to access data available in the
+centralized, consistent and secured environment.
+Converting Data: The Treasury had it's own limited data, stored in the mainframe disk storage space. It
+was needed to make some verification to make it reliable. This data had been transferred to the related new
+databases according to the new standards and made available to the users.
+Designing New Databases: Since the data requirements of the professional users had not fully covered by
+the Treasury database system, a new system has been developed under the TDSP. During the
+implementation of the TDSP, a new methodology has been chosen on the basis of the new developments of
+- 12 -
+
+
+
+the information technology in order to meet the requirements.
+In this context, data requirements study has been carried out in order to design new databases. The data
+requirements of the General Directorates as well as organizational data needs and the relations among them
+have been defined. Eight main data groups have been established: Domestic Debt, External Debt, Banking,
+Insurance, State Owned Enterprises, Balance of Payments, Foreign Trade, and Main Economic Indicators.
+Implementing New Databases: The project faced a major challenge at the outset of implementation. It had
+been designed to improve the mainframe based environment of the Undersecretariat of Treasury and
+Foreign Trade, but early into project effectiveness it became clear to the Bank and to the Treasury that
+mainframe technology was rapidly becoming obsolete and replaced by client-server based technology
+environment. The Bank asked the Treasury to carry out a serious study of the matter prior to any further
+investment in the mainframe environment.
+Using the technical specifications, physical databases have been created in compliance with the tables in the
+third normal form by using the data sets listed in the previous section. Then, application development
+studies have been carried out and each application development activity is regarded as a separate project.
+First of all, an application development methodology SUMMIT-D offered by the Coopers & Lybrand
+consultancy firm has been selected for project management related activities. This methodology has been
+customized and has become "Treasury Methodology" for project management and implementation
+activities. Within the scope of this methodology, project life cycle has been implemented for all the projects.
+Finally, all projects are completed and applications are put into operation. Within the Treasury, the staff in
+each Department is able to carry out his/her daily activities using this information systems.
+Technical Training: In order to utilize the technical infrastructure, databases and applications efficiently
+and effectively, a series of training programs has been carried out both for technical staff and the end-users
+within the Treasury.
+2. The Institutional Development Component:
+The main aim of this part of the project is to support the development of a complementary institutional
+framework to invest in human capital.
+Short-term Training: The training needs of the Treasury staff was identified in the Short -Term Training
+Plan, Long-term Training Program. Management Study Reports produced by the consultancy firm Price
+Waterhouse and is completed in 1994. Following the division of the Undersecretariat of Treasury and
+Foreign Trade to two separate Undersecretariats, the suggestions in these reports are cancelled and the
+World Bank made arrangements for technical assistance to help the Treasury to finalize and -start the
+implementation of Short-Term Training Plan. The World Bank's Leaming and Leadership Center helped
+the Treasury to revise the training needs. A list of ten courses, includes Foreign Trade training needs,
+Terms of Reference (TOR) for each course and Invitation Letter for proposals were prepared and agreed.
+The Short-term Training Program has been completed in December 1999 and a final evaluation report has
+been prepared by the Treasury. The total attendance of about 300 staff from 12 departments of the
+Treasury and the Foreign Trade Undersecretariats have benefited from the Plan.
+Long-term Institutional Training: In order to prepare an action plan for a Long-term Institutional Training
+Program, (envisaged in the Loan Agreement) the above mentioned Report prepared by Price Waterhouse
+did not satisfy the needs fully, but provided the basis for internal activities of the Treasury to
+institutionalize the function. A Treasury Training Steering Committee has been founded to follow up the
+- 13 -
+
+
+
+long-term training needs with the participation of representatives from each Department of the Treasury.
+This committee has been gathering each month periodically and bringing suggestions to the Treasury
+management to develop human resource policy. A survey has been made to identify these needs annually
+and an action plan is prepared and executed.
+Training Program for Treasury Auditors: This activity was implemented in a manner different from that
+envisaged in the project design though fully consistent with its objectives. A two year CPA/CFA training
+program (envisaged in the project design) for four Treasury Auditors has been discussed during a
+supervision mission in 1995. The Treasury requested a shorter term training which could be designed to
+benefit as many auditors as possible. The Bank agreed this request to allow the Treasury to substitute
+shorter courses supplemented on-the-job training and studying on the needs of the auditors. Invitation letter,
+short list and TOR have been prepared and the Treasury invited bids, but the Ministry of Finance did not
+authorize the clearance of the contract. After the extension of the Loan for the project, considering the
+Ministry of Finance's objections, the Treasury prepared a new TOR, letter of invitation, short list and
+invited bids. The training program for the Treasury Auditors has been contracted to the Deloitte and
+Touche firm and training program started in January, 2000 and completed at the end of June and 25
+auditors have benefited from the training program. The consultancy services reviewed with the firm and
+clarified according to the Treasury Auditors' request. Thus, the main objective to increase the quality of the
+audits of the World Bank projects has been achieved and the results of these improvements will be reflected
+to the audit reports.
+Training Center, Library, Publication Center and the Economic Information Center (EIC):
+The establishment of the Training Center, Publication Center and the Library was completed as scheduled
+at the beginning of the project and they are in operation. The Training Center is used for training
+prograrns, seminars, and in-house training for database system users. The conference hall is reconstructed
+by using domestic resources.
+The Treasury created a web site to disseminate economic information. As the Project's data dissemination
+model was rendered obsolete by the Intemet the access to the Treasury's web site has started to increase.
+Although the way of operation of EIC different from envisaged in the project design, flexibility
+demonstrated by the Bank in relation to accepting the EIC conditionally as fulfilled.
+Economic Studies:
+The Macroeconomic Model: The macroeconomic modeling study started in November 1994 with the
+consultancy of Oxford Economic Forecasting (OEF). The macroeconomic model for Turkey-has been
+prepared with a large scale of public sector accounts. Theoretical base of the model has been constructed in
+line with the supply side of modeling. The phases of this study are as follows: the settlement of the model
+specification, compilation of data, estimation of the behavioral equations, construction of the model base by
+feeding the estimated equations and the identities into the model software and solving them simultaneously
+and finally setting up the forecast base of the model. Since 1999, the model has been actively used for
+quarterly forecasting and analysing the policy instruments in the simulations.
+A Detailed Review of the Public Sector in Turkey and Consolidation of Public Sector Accounts: This
+study started in October 1994 with the consultancy of Prof. Sweder van Wijnbergen. Mainly the study has
+two parts. In the first part, it aims to analyse the agencies of public sector accounts in detail and try to
+determine the existing accounting framework of these institutions. Here, a more detailed framework of
+- 14 -
+
+
+
+quarterly consolidated financial accounts of the public sector could be taken into consideration. The second
+stage of the study concentrated on developing a model in order to determine sustainable public deficits. The
+main aim of this model is to determine the necessary aggregate adjustments in operational deficits
+consistent with the target debt and inflation levels under different assumptions about the paths of several
+other macroeconomic variables. However, due to some disagreements between the Undersecretariat of
+Treasury and the consultant, the contract has been terminated in February 1997. The second stage of the
+study was almost complete and the model for analysing the sustainability of fiscal deficits is being used on
+annual bases.
+Leading Indicators and Financial Early Warning System :The study started in December 1997 with the
+consultancy of German Research Institute-IFO. Leading Indicators part of the study observes the historical
+relationship between the selected macroeconomic aggregates (reference series) from the real sector and
+potential leading indicators. After eliminating short term seasonal and long term trend effects from the
+series, remaining relationship between the series are used to forecast the future tendency of reference series.
+Combining the indicators (each of which has historically displayed a fairly consistent leading relationship
+with the cycle of reference series) into composite indices or Least Square Regression Models serves to
+monitor such forecasts in advance. Financial Early Warning part aims to find out the vulnerability
+indicators for the financial sector through logit analysis. The analysis are based on crisis periods of 26
+countries including Turkey and combines findings into a crises indicator. The performance of this indicator
+is tested through its signaling decision based on historical noise to signal ratio analysis for the financial
+markets. The study is being tested and the predictions are performed for various macroeconomic aggregates
+since the beginning of 1999.
+Flow of Funds Study: The Objective of the Flow of Funds study is to model sources and uses of funds in
+the financial markets, and to develop a framework to monitor the impact of the public sector deficit
+financing on the financial markets, and on key macroeconomic variables (e.g., interest rates). Four
+workshops were organized in Turkey and the Treasury's Core Working Group had the opportunity of
+working closely with the consultants. The Treasury's Core Working Group (1) reviewed the literature, (2)
+reviewed the Turkish financial system and (3) collected data from different sources, compiled and
+reconciled them for consistency. The Treasury's Core Working Group and consultants worked on model
+building. Due to hands-on working methodology, it is thought that the Treasury Working Group will have
+the adequate capacity to improve and experiment with this initial model and carry out simulation exercises.
+The econometric model helps to strengthen the capability of the Treasury in (1) monitoring developments in
+financial markets, (2) analysing and monitoring the impact of public sector financial transactions in
+financial markets; and (3) assessing potential financial and macroeconomic impact of alternative deficit
+financing scenarios during the process of designing the Annual Programs and the Budget.
+The Foreign Trade Study: This study was contracted with and conducted by Prof. Anne 0. Krueger, from
+Stanford University. It is completed at the end of 1995. The report is published and disseminated to the
+related agencies. Due to the study period and the process of the division of the Undersecretariat of
+Treasury and Foreign Trade into the Undersecretariat of Treasury and the Undersecretariat of Foreign
+Trade coincided, the benefit from the study was not as much as expected at the beginning.
+IMPLEMENTATION RECORDS AND MAJOR FACTORS AFFECTING THE PROJECT
+The project faced a major challenge at the outset of implementation. It had been designed to improve the
+mainframe based environment of the Undersecretariat of the Treasury and Foreign Trade, but early into
+project effectiveness it became clear to the Bank and to the Treasury that mainframe technology was
+rapidly becoming obsolete and replaced by client-server based technology environment. The Bank asked the
+- 15 -
+
+
+
+Treasury to carry out a serious study of the matter prior to any further investment in the mainframe
+environment.
+In the early phases of the project, the work on the data requirements of the Treasury and the wiring of the
+building have been completed on time as envisaged in the project plan. Besides, the procurement procedures
+of hardware such as computers, printers have been started. In the mean time, the mainframe system as the
+base of Treasury's technical infrastructure has been interrogated in terms of new approaches and
+developments in the Information Technology. In this context, with joint efforts by German colleagues
+(GTZ), a profitability analysis has been conveyed in order to decide the future IT architecture of the
+Treasury. It was a very critical decision to change the present infrastructure with a new technological
+environment which has considerable costs of human resources, technology and money.
+In the meantime, the Government decided to divide the organization into two as Treasury and Foreign
+Trade Undersecretariats in the middle of 1994. At the end of the year, two new organizations have been
+established working in the same building sharing the same resources. The project has been affected by this
+situation in two ways: While one of the effects was a positive and constructive one to make the right
+decision on a new technological environment, the other one has caused some delays in the project time plan
+because of the long discussions of sharing the resources including the project. As the ownership of the
+project, the Undersecretariat of Treasury has decided to leave the mainframe to the Undersecretariat of
+Foreign Trade and establish a new technological environment despite some delay of the project.
+The other factors affecting the project were the technological training and experimental level of the
+Treasury's technical staff. Most of the technical staff had been equipped with the mainframe technological
+knowledge and experiences and they had almost no experience on any CASE tool and working with a
+methodology in the application development environments. Especially, in the early phases of the application
+development works, a considerable time has been spent to give the necessary training to the technical staff
+and as a result of this, the progress in the development works was slow because it required some reasonable
+time to be effective and efficient for the staff.
+On the other hand, the users of the applications were not comfortable on using the new generation systems
+in terms of the technological and working styles. Especially during the testing phases of the applications, a
+considerable amount of time has been spent to get feedback from the users.
+PROJECT SUSTAINABILITY
+All of the applications are now running in the production environment and the users are comfortable to use
+the systems. To provide the project sustainability, there are two things to do; one is to keep the technical
+environment updated and upgraded. The Data Processing Center (DPC) staff are ready to meet the
+changing requirements of the users. To do this the knowledge of the DPC staff and training will be updated
+continuously. The users, especially the newcomers will be trained on the systems on request or in a planned
+schedule. As stated above, the project reached its objectives and results are sustainable.
+After the initial efforts to build up a stable networking environment, a second phase of efforts have been
+exercised in order to achieve higher levels of availability. In this context, high availability measures such as
+clustering and parallel servers have been set up. A third phase for the infrastructure was planned to have a
+consolidated disk and server farms in order to achieve still lower risks and lower maintenance costs. An
+upper layer of infrastructure is also under consideration such as the integration of all the functions of the
+Treasury in the context of e-government.
+- 16 -
+
+
+
+On the other hand, there is the option to integrate the macroeconometric and the flow of funds models to a
+bigger and more comprehensive model. In this case the flow of funds model will become the financial block
+of the macroeconometric model already improved. However there are some obstacles to achieve this option.
+First, the macroeconometric model is very complicated and such integration may be very cumbersome.
+Therefore, we may have to use a more compact version of it for this integration. Secondly, the frequency of
+data used in these two models are different. The macroeconometric model is on quarterly basis whereas the
+flow of funds model is on monthly basis. Because of these obstacles, this will be an option to be considered
+in the future. Yet in the near future, we could use these two models in coordination such that the results
+obtained from one model may be used as exogenous inputs for the other one and/or vice versa.
+BANK PERFORMANCE
+The Performance of the Bank can be defined as highly satisfactory. During the implementation period, the
+rapid changes in information technology caused to adapt the project accordingly and the Mission's flexible
+approach on this matter has been appreciated especially after the new Mission leader has been assigned by
+the Bank. It must be added that one of the main factors of the success of the project was the quality and the
+continuity of the Bank's supervision team. On the other hand the delay in seeking the required no-objection
+from the Bank was cited as a reason of delay for the procurement of goods and services.
+BORROWER PERFORMANCE
+The representative of Borrower on behalf of the Govemment of Turkey is the General Directorate of
+Foreign Economic Relations and the project implementation unit is the General Directorate of Economic
+Research of the Undersecretariat of Treasury. Borrower performance in terms of providing assistance and
+guidance can be considered as satisfactory.
+ASSESSMENT OF OUTCOME
+Outcome of the project is highly satisfactory. The Treasury's monitoring and policy design function in
+macroeconomic management has been improved and the results both from databases and analytical studies
+are being used very efficiently during the negotiations with the multinational institutions.
+FUTURE OPERATIONS
+The project activities were complemented by the PFMP in the areas of Debt Management and Auditor
+Training and there is no additional operations are planned..
+KEY LESSONS LEARNED
+The Treasury's technical and managerial level staff have obtained several experiences from this project.
+First of all, the Treasury's technical staff has quitted working in the classical way of application
+development studies and progressed a methodological way of thinking and working. During the
+implementation period in the institutional components of the project especially analytical studies such as
+macro model, early warning system and flow of funds studies have helped the Treasury staff to get an
+opportunity to work with international consultants. This experience was very beneficial to improve the level
+of competence of the Treasury staff and capacity building of the Treasury. On the other hand, the famous
+consultants like Sweder Van Wijnbergen and Anne 0. Krueger were not as beneficial as other studies'
+consultants. It was understood that due to their heavy schedule the famous consultants could not show a
+satisfactory performance at the expected level.
+- 17 -
+
+
+
+The development environment was dependent on the staff in the past. So it was almost impossible to
+provide the sustainability of the development works for any reason like staff turnover. Now the works done
+in accordance with the rules of the methodology are documented, archived and thus, it is easy to transfer
+the work and experience to another group of staff. The technical and non-technical staff has grasped the
+project management concepts and so the interaction between the users and the technical staff became more
+effective. In the project context, some foreign fiscal resources and consultancy services were used. It was a
+good experience for the Treasury to cope with the consultants and to get the most from this. During the
+project, the Treasury staff has attended to various training programs and equipped with the necessary
+knowledge and abilities.
+I
+: Earlier versions of this note were received in September 2000 and March 2001.
+(b) Cofinanciers:
+(c) Other partners (NGOs/private sector):
+10. Additional Information
+- 18 -
+
+
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+Key Performance Indicators
+Category                                           Actual Achievement (%)
+A. Data Management System
+1. Mainframe computer facility                    100
+2. Databases
+a. Requirements analysis                         100
+b. System design                                 100
+c. System development                            100
+d. Data exchange protocols                       100
+e. Implementation                                100
+3. LAN/wiring                                     100
+4. PCs                                            100
+B. Institutional Development
+1. Training
+a. Short-term training
+I. Planning                                     100
+II. Implementation                              100
+b. Long-term training
+I. Planning                                     100
+II. Implementation                             75
+2. Studies
+a. Public sector consolidation                   70
+b. Leading economic indicators                   95
+c. Sources and uses of funds                     95
+- 19 -
+
+
+
+d. Macroeconomic model                         100
+e. Foreign trade                               100
+3. Economic Information Center
+a. Library                                     100
+b. Data dissemination center                   100
+Source: April, 2000, Supervision report
+- 20 -
+
+
+
+Annex 2. Project Costs and Financing
+Project Cost by Component (in US$ million equivalent)
+Appraisal   Actual/Latest   Percentage of
+Estimate     Estimate       Appraisal
+Project Cost By Component             US$ million    US$ million'
+1. Data Management System Component                23.87          26.33         110.21
+2. Institutional Development Component              2.17           2.42          110.21
+Total Baseline Cost                                26.04          28.75
+Physical Contingencies                              1.63          0.00
+Price Contingencies                                0.42           0.00
+Total Project Costs            28.09          28.75
+Total Financing Required             28.09          28.75
+Project Costs by Procurem nt Arrangements (Appraisal Estimate) (US$ million equivalent)
+Procurement Method      -
+Expenditure Category.     ICB          NCB         Other        N.B.F.-    Total Cost
+1. Works                     0.00         0.00         4.52          0.00        4.52
+(0.00)       (0.00)       (0.00)       (0.00)       (0.00)
+2. Goods                     0.61         0.00         15.92         0.00        16.53
+(0.57)       (0.00)       (5.44)       (0.00)       (6.01)
+3. Services                  0.00         0.00         3.94          0.00        3.94
+(0.00)       (0.00)       (3.21)       (0.00)       (3.21)
+4. Miscellaneous             0.00         0.00         3.10          0.00        3.10
+(0.00)       (0.00)       (0.00)       (0.00)       (0.00)
+5. Miscellaneous             0.00         0.00         0.00          0.00        0.00
+(0.00)       (0.00)       (0.00)       (0.00)       (0.00)
+6. Miscellaneous             0.00         0.00         0.00          0.00        0.00
+(0.00)       (0.00)       (0.00)       (0.00)       (0.00)
+Total                     0.61          0.00        27.48         0.00        28.09
+(0.57)       (0.00)       (8.65)       (0.00)       (9.22)
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+Procurement Method:
+-Expenditure Category     ICB     . NCB            Other2       N.BF.     Total Cost
+1. Works                     0.00         0.00         4.49         0.00        4.49
+(0.00)       (0.00)       (0.00)       (0.00)      (0.00)
+2. Goods                     0.61         0.00         16.69        0.00        17.30
+(0.35)       (0.00)       (3.69)       (0.00)      (4.04)
+3. Services                  0.00         0.00         3.86         0.00        3.86
+(0.00)       (0.00)       (5.11)       (0.00)      (5.11)
+4. Miscellaneous             0.00         0.00         3.10         0.00        3.10
+(0.00)       (0.00)       (0.00)       (0.00)      (0.00)
+-21 -
+
+
+
+5. Miscellaneous                   0.00            0.00           0.00            0.00           0.00
+(0.00)          (0.00)         (0.00)          (0.00)         (0.00)
+6. Miscellaneous                   0.00            0.00           0.00            0.00           0.00
+(0.00)          (0.00)         (0.00)          (0.00).        (0.00)
+Total                          0.61             0.00           28.14           0.00           28.75
+(0.35)          (0.00)         (8.80)          (0.00)         (9.15)    I
+Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+3 Includes civil works and goods to be procured through national shopping, consulting services, services of contracted
+staff of the project management office, training, technical assistance services, and incremental operating costs related to
+(i) managing the project, and (ii) re-lending project funds to local govemment units.
+-22 -
+
+
+
+Annex 3. Economic Costs and Benefits
+It was not possible to calculate the economic costs or benefits.
+-23 -
+
+
+
+Annex 4. Bank Inputs
+(a) Missions:
+Stage of Project Cycle                   No. of Persons and Specialty             Performance Rating
+(e.g. 2 Economists, 1 FMS, etc.)     Implementation  Development
+Month/Year    Count            Specialty                       Progress      Objective
+Identification/Preparation
+8/91                         4   Technical consultant,
+Procurement specialist (RMT),
+Data systems specialist, Task
+Manager
+Appraisal/Negotiation
+12/91                        4   Task Manager, Financial
+Specialist, Technical
+Consultant, Economist
+3/92                         6   Financial Specialist, Legal
+Counsel, Disbursement Officer,
+Economist (2), Technical
+Consultant
+Supervision
+3/93                          4   Technical analyst, Data              S             S
+systems specialist (2), Task
+Manager
+5/94                          5   Technical analyst, Data systems     S              S
+specialist (2), Task Manager,
+Debt specialist
+5/95                          5   Technical analyst, Data systems     S              S
+specialist (3), Task Manager
+11/95                        6   Technical analyst (2), Data          S              S
+systems specialist (2), Debt
+specialist, Task Manager
+5/96                          5   Data systems specialist (2), Debt   S              S
+expert (2), Task Manager
+1/97                         4   Technical analyst, Data systems      S              S
+specialist (2), Task Manager
+12/97                         4   Technical analyst, Data systems     S              S
+specialist (2), Task Manager
+5/98                          2   Technical analyst, Task Manager      S             S
+11/98                        4   Technical analyst, Data systems      S              S
+specialist (2), Task Manager
+5/99                          3   Technical analyst, Data systems      S             S
+specialist, Task Manager
+4/00                          4   Technical analyst, Data systems      S             S
+specialist (2), Task Manager
+ICR
+9/00                         2    ICR specialist, Task
+Manager
+- 24 -
+
+
+
+(b) Staff.
+I    Stage of Project Cycle                    Actual/Latest Estimate
+No. Staff weeks              US$ ('000)
+Identification/Preparation                 4                       14,800
+Appraisal/Negotiation                     10                      37,000
+Supervision                               65                     241,240
+ICR                                        9                      33,263
+Total                                     88                     326,303
+- 25-
+
+
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+Rating
+D Macro poiicies                         O H  OSUOM  O N  * NA
+O Sector Policies                        O H  OSUOM  O N  * NA
+D Physical                                * H  OSUOM  O N  O NA
+LFinancial                               OH OSUOM ON *NA
+L Institutional Development              0 H  O SU O M  0 N  0 NA
+LIEnvironmental                          O H  OSUOM  O N  * NA
+Social
+El Poverty Reduction               O H  OSUOM  O N  * NA
+LI Gender                          O H  OSUOM  ON  * NA
+I Other (Please specify)           O H  OSUOM  O N  * NA
+OI Private sector development            0 H  O SU O M  0 N  * NA
+Fl Public sector management              0 H  O SU O M  0 N  0 NA
+O Other (Please specify)                 O H  OSUOM  O N  O NA
+- 26 -
+
+
+
+Annex 6. Ratings of Bank and Borrower Performance
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+6.1 Bankperformance                                  Rating
+O Lending                                            OHS OS OU OHU
+O Supervision                                        OHS OS  OU  OHU
+O Overall                                            OHS OS OU O HU
+6.2 Borrowerperformance                              Rating
+O Preparation                                        OHS OS  Ou  O HU
+L Government implementation performance              O HS OS  O U  0 HU
+El Implementation agency performance                 O HS O S  O U  0 HU
+E Overall                                            OHS OS  O U  O HU
+- 27 -
+
+
+
+Annex 7. List of Supporting Documents
+Studies Performed During the Project:
+Macroeconomic Modeling
+Leading Economic Indicators and Financial Early Warning Indicators
+Sources and Uses of Funds in the Financial Sector and the Public Sector's Share
+Foreign Trade Study
+Review of Public Sector in Turkey and Consolidation of Fiscal Accounts
+- 28 -
+
+
+

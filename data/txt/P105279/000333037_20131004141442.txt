@@ -1,0 +1,1956 @@
+                                  Document of
+                               The World Bank
+
+
+
+
+                                                    Report No.: 81243
+
+
+
+
+             PROJECT PERFORMANCE ASSESSMENT REPORT
+
+                                  SENEGAL
+
+   ELECTRICITY SECTOR EFFICIENCY ENHANCEMENT ADAPTABLE
+                   PROGRAM CREDIT (APC)
+                     (CREDIT NO. 4060-SE)
+
+  ENERGY SECTOR RECOVERY DEVELOPMENT POLICY CREDIT (DPC)
+                    (CREDIT NO. 4467-SE)
+
+
+                               September 26, 2013
+
+
+
+
+IEG Public Sector Evaluation
+Independent Evaluation Group
+                                            ii
+
+
+Currency Equivalents (annual averages)
+Currency Unit = C.F.A. Francs BCEAO (XOF)
+
+2003                     US$1.00            XOF 539.671
+2004                     US$1.00            XOF 528.529
+2005                     US$1.00            XOF 527.145
+2006                     US$1.00            XOF 523.197
+2007                     US$1.00            XOF 479.885
+2008                     US$1.00            XOF 447.965
+2009                     US$1.00            XOF 471.726
+2010                     US$1.00            XOF 495.262
+
+
+Abbreviations and Acronyms
+AFD              Agence Française de Dévéloppement
+APL              Adaptable Program Loan
+CAS              Country Assistance Strategy
+DPC              Development Policy Credit
+DSM              Demand-side management
+EDF              Electricité de France
+GDP              Gross Domestic Product
+GWh              Gigawatt-hour
+ICR              Implementation Completion and Results Report
+IDA              International Development Association
+IEG              Independent Evaluation Group
+IFC              International Finance Corporation
+IPP              Independent Power Producer
+LNG              Liquefied Natural Gas
+M&E              Monitoring and Evaluation
+MEM              Ministère de l’Energie et des Mines
+MW               Megawatt
+PIU              Project Implementation Unit
+PPAR             Project Performance Assessment Report
+PRG              Partial Risk Guarantee
+SAR              Société Africaine de Raffinage
+SENELEC          Société Nationale d’Electricité
+
+
+Fiscal Year
+
+Government:              January – December 31
+
+Director-General, Independent Evaluation           :   Ms. Caroline Heider
+Director, IEG Public Sector Evaluation             :   Mr. Emmanuel Jimenez
+Manager, IEG Public Sector Evaluation              :   Ms. Marie Gaarder
+Task Manager                                       :   Ms. Midori Makino
+                                                                   iii
+
+
+
+Contents
+Principal Ratings ................................................................................................................. v
+Key Staff Responsible......................................................................................................... v
+Preface............................................................................................................................... vii
+Summary ............................................................................................................................ ix
+1. Background and Context................................................................................................. 1
+   Sector Background and Developments in the Last Decade ............................................ 1
+2. The Bank’s Overall Strategy and Assistance for the Energy Sector .............................. 5
+3. Electricity Sector Efficiency Enhancement Project – Detailed Assessment ................ 10
+   Objectives, Design, and Relevance ............................................................................... 10
+   Implementation ............................................................................................................. 11
+   Achievement of the Objectives ..................................................................................... 13
+   Efficiency ...................................................................................................................... 14
+   Ratings .......................................................................................................................... 15
+4. Energy Sector Recovery Development Policy Credit –Detailed Assessment .............. 17
+   Objectives, Design, and Relevance ............................................................................... 17
+   Implementation ............................................................................................................. 18
+   Achievement of the Objectives ..................................................................................... 18
+   Ratings .......................................................................................................................... 20
+5. Lessons Learned............................................................................................................ 22
+References ......................................................................................................................... 25
+Annex A. Basic Data Sheet ............................................................................................... 27
+Annex B. Other Data........................................................................................................ 33
+Annex C. List of Persons Met ........................................................................................... 37
+
+Figures
+Figure 1. Un-served Electricity Demand 1999-2011 ........................................................ 33
+
+Tables
+Table 1. SENELEC's Historical Results (FCFA billion) .................................................. 34
+Table 2. Economic and Financial Analysis – Kounoune Power Plant ............................. 35
+Table 3. Ex-post Economic Rate of Return Calculation ................................................... 36
+
+This report was prepared by Midori Makino, Task Manager, and Alain Barbu, Consultant, who assessed the
+project in November 2012. The report was peer reviewed by Varadarajan Atur and panel reviewed by
+Fernando Manibog. Romayne Pereira provided administrative support.
+                                                               v
+
+
+Principal Ratings
+Senegal-Electricity Sector Efficiency Enhancement Project
+                                     ICR*                           ICR Review*                          PPAR
+Outcome                           Unsatisfactory                    Unsatisfactory                    Unsatisfactory
+Risk to                                 High                              High                               High
+Development
+Outcome
+Bank Performance                  Unsatisfactory                    Unsatisfactory                    Unsatisfactory
+Borrower                          Unsatisfactory                    Unsatisfactory                    Unsatisfactory
+Performance
+* The Implementation Completion Report (ICR) is a self-evaluation by the responsible Bank department. The ICR Review is an
+intermediate IEGWB product that seeks to independently verify the findings of the ICR.
+
+
+Senegal- Energy Sector Recovery Development Policy Credit
+                                                            ICR*                      ICR Review*                 PPAR
+Outcome                                               Unsatisfactory                  Unsatisfactory        Unsatisfactory
+Risk to Development Outcome                                  High                           High                   High
+Bank Performance                              Moderately Unsatisfactory               Unsatisfactory        Unsatisfactory
+Borrower Performance                                  Unsatisfactory                  Unsatisfactory        Unsatisfactory
+* The Implementation Completion and Results (ICR) report is a self-evaluation by the responsible Bank department. The ICR
+Review is an intermediate IEG product that seeks to independently verify the findings of the ICR.
+
+
+
+Key Staff Responsible
+Senegal Electricity Sector Efficiency Enhancement Project
+                                                               Division Chief/
+    Project           Task Manager/Leader                                                         Country Director
+                                                               Sector Director
+Appraisal                    Michel Layec                     Yusupha Crookes                         Madani Tall
+Completion                 Stephan Garnier                         Lucio Monari                 McDonald Benjamin
+
+Senegal Energy Sector Recovery Development Policy Credit
+                                                               Division Chief/
+    Project           Task Manager/Leader                                                         Country Director
+                                                               Sector Director
+Appraisal                    Michel Layec                     Subramanian Iyer                        Madani Tall
+Completion                 Stephan Garnier                         Anna Bjerde                  McDonald Benjamin
+                                                           vi
+
+
+      IEG Mission: Improving World Bank Group development results through excellence in evaluation.
+
+
+About this Report
+       The Independent Evaluation Group assesses the programs and activities of the World Bank for two purposes:
+first, to ensure the integrity of the Bank’s self-evaluation process and to verify that the Bank’s work is producing the
+expected results, and second, to help develop improved directions, policies, and procedures through the
+dissemination of lessons drawn from experience. As part of this work, IEG annually assesses 20-25 percent of the
+Bank’s lending operations through field work. In selecting operations for assessment, preference is given to those that
+are innovative, large, or complex; those that are relevant to upcoming studies or country evaluations; those for which
+Executive Directors or Bank management have requested assessments; and those that are likely to generate
+important lessons.
+      To prepare a Project Performance Assessment Report (PPAR), IEG staff examine project files and other
+documents, visit the borrowing country to discuss the operation with the government, and other in-country
+stakeholders, and interview Bank staff and other donor agency staff both at headquarters and in local offices as
+appropriate.
+      Each PPAR is subject to internal IEG peer review, Panel review, and management approval. Once cleared
+internally, the PPAR is commented on by the responsible Bank department. The PPAR is also sent to the borrower
+for review. IEG incorporates both Bank and borrower comments as appropriate, and the borrowers' comments are
+attached to the document that is sent to the Bank's Board of Executive Directors. After an assessment report has
+been sent to the Board, it is disclosed to the public.
+
+About the IEG Rating System for Public Sector Evaluations
+     IEG’s use of multiple evaluation methods offers both rigor and a necessary level of flexibility to adapt to
+lending instrument, project design, or sectoral approach. IEG evaluators all apply the same basic method to arrive
+at their project ratings. Following is the definition and rating scale used for each evaluation criterion (additional
+information is available on the IEG website: http://worldbank.org/ieg).
+     Outcome: The extent to which the operation’s major relevant objectives were achieved, or are expected to
+be achieved, efficiently. The rating has three dimensions: relevance, efficacy, and efficiency. Relevance includes
+relevance of objectives and relevance of design. Relevance of objectives is the extent to which the project’s
+objectives are consistent with the country’s current development priorities and with current Bank country and
+sectoral assistance strategies and corporate goals (expressed in Poverty Reduction Strategy Papers, Country
+Assistance Strategies, Sector Strategy Papers, Operational Policies). Relevance of design is the extent to which
+the project’s design is consistent with the stated objectives. Efficacy is the extent to which the project’s objectives
+were achieved, or are expected to be achieved, taking into account their relative importance. Efficiency is the
+extent to which the project achieved, or is expected to achieve, a return higher than the opportunity cost of capital
+and benefits at least cost compared to alternatives. The efficiency dimension generally is not applied to adjustment
+operations. Possible ratings for Outcome: Highly Satisfactory, Satisfactory, Moderately Satisfactory, Moderately
+Unsatisfactory, Unsatisfactory, Highly Unsatisfactory.
+     Risk to Development Outcome: The risk, at the time of evaluation, that development outcomes (or
+expected outcomes) will not be maintained (or realized). Possible ratings for Risk to Development Outcome: High,
+Significant, Moderate, Negligible to Low, Not Evaluable.
+     Bank Performance: The extent to which services provided by the Bank ensured quality at entry of the
+operation and supported effective implementation through appropriate supervision (including ensuring adequate
+transition arrangements for regular operation of supported activities after loan/credit closing, toward the
+achievement of development outcomes. The rating has two dimensions: quality at entry and quality of supervision.
+Possible ratings for Bank Performance: Highly Satisfactory, Satisfactory, Moderately Satisfactory, Moderately
+Unsatisfactory, Unsatisfactory, Highly Unsatisfactory.
+     Borrower Performance: The extent to which the borrower (including the government and implementing
+agency or agencies) ensured quality of preparation and implementation, and complied with covenants and
+agreements, toward the achievement of development outcomes. The rating has two dimensions: government
+performance and implementing agency(ies) performance. Possible ratings for Borrower Performance: Highly
+Satisfactory, Satisfactory, Moderately Satisfactory, Moderately Unsatisfactory, Unsatisfactory, Highly
+Unsatisfactory.
+                                           vii
+
+
+Preface
+This report includes a Project Performance Assessment Report (PPAR) of two projects
+funded by the Bank Group in Senegal: (i) the Electricity Sector Efficiency Enhancement
+Project approved in April 2005 and closed in December 2010; and (ii) the Energy Sector
+Recovery Development Policy Credit (DPC), approved in June 2008 and closed in
+December 2010. The former was supported by an International Development
+Association (IDA) credit of US$15.7 million equivalent, an International Finance
+Corporation (IFC) “A” loan of Euros 17 million, and a Partial Risk Guarantee of up to
+US$7.2 million. The latter was a two-tranche DPC of US$80 million equivalent, with
+parallel budget support provided by Agence Française de Développement (AFD).
+
+The assessment is based on a review of all relevant documentation, interviews of Bank
+staff at headquarters and the findings of an Independent Evaluation Group (IEG) mission
+which visited Senegal from November 25 to December 6, 2012 (a list of persons met
+during the mission is attached in Annex C).
+
+In addition to detailed assessments of the two subject operations using standard IEG
+methodology, the report includes a review of the Bank’s assistance and strategy in
+Senegal’s energy sector since 2000, as well as corresponding lessons, with a view to
+serve as input into IEG’s forthcoming review of the Bank Group’s assistance to the
+energy sector.
+
+Copies of the draft PPAR were sent to government officials and implementing agencies
+for their review but no comments were received.
+                                               ix
+
+
+Summary
+Whereas by the mid-2000’s Senegal was still viewed as one of the best performers in Sub-
+Saharan Africa, the country’s economic growth has lagged since 2006, largely as a result of
+the 2008 crisis, but also of the electricity sector’s increasing drain on public finances. The
+electricity sector in Senegal is characterized by its small size (584 MW of installed capacity
+in 2012) and its high dependence on expensive imported fuel in the absence of significant
+local modern energy resources. Such high costs, compounded by poor management of the
+sector, have led the sector in a continuous downward spiral. Société Nationale d’Electricité
+(SENELEC), the public electric utility’s under-capitalization and structural operating deficit
+(caused by insufficient tariffs and lagging budget transfers) perpetuates inefficiency by
+preventing it from investing in required maintenance of aging assets and in less fuel-intensive
+generating plants that could improve its cost structure in the long-run. And the dire state of
+sector finances is a disincentive to foreign companies investing in future Independent Power
+Producer (IPP) projects on a large scale. The deepening sector crisis was marked by record
+power shortages in 2008 and 2011, with as many as 270 days of load shedding registered in
+the latter year, which could only be alleviated in 2012 by resorting to the very expensive
+rental of short-term generation capacity.
+
+The Bank Group has provided considerable financial assistance to the sector (US$324
+million since 1980), including for the two projects in this PPAR: (i) the Electricity Sector
+Efficiency Enhancement Project, approved in April 2005 and closed in December 2010; and
+(ii) the Energy Sector Recovery Development Policy Credit, approved in June 2008 and
+closed in December 2010. The former was supported by an IDA credit of US$15.7 million
+equivalent, an IFC “A” loan of Euros 17 million, and a Partial Risk Guarantee of up to
+US$7.2 million. The latter was a two-tranche DPC of US$80 million equivalent, with parallel
+budget support provided by Agence Française de Développement (AFD). This assessment
+concludes that while both projects’ overarching objective, to restore the financial and
+institutional viability and sustainability of the energy sector as a whole – but most urgently of
+the electricity sub-sector-- was highly relevant, their design and implementation were flawed,
+leading in both cases to partial credit cancellations (60 percent and 30 percent respectively).
+None of the physical investments to be funded by IDA under the first project were carried
+out. And while the Kounoune power plant supported by IFC was satisfactorily completed in
+2008, albeit with a 2-year delay and technical problems in the first years of operation, its
+completion did little to alleviate the sector’s deepening crisis in the absence of Government
+actions on key policy issues (including tariffs and generation planning) – which the second
+Bank project, a policy-based operation, was unable to promote (resulting in its second
+tranche being cancelled). Overall, both projects’ most critical objectives were either
+negligibly or modestly achieved, with the electricity sector failing to achieve most of its
+targets related to SENELEC’s finances, technical efficiency, and improvements in sector
+governance.
+                                               x
+
+
+In spite of their high relevance, and given their modestly relevant designs, negligible or
+modest efficacy, and modest efficiency, the outcomes of both projects are rated
+Unsatisfactory. Development Risk is rated High in both cases, as dependence of the
+electricity sector on the budget has only gotten worse since 2005, with subsidies reaching an
+unprecedented level of 1.8 percent of Gross Domestic Product (GDP) in 2012, and depriving
+other sectors of the economy of much-needed public resources. Furthermore, the sector is not
+immune from the impact of another possible hike in international oil prices given its
+continued short-term dependence on liquid fuel-based generation and the Government‘s
+apparent lack of willingness to reflect such future cost increases in electricity prices. While
+greater participation by the private sector in the sector could potentially help improve the
+sector’s situation by easing its financing burden and improving its efficiency, such
+participation on a large scale is unlikely to be forthcoming as long as the sector’s finances
+remain so precarious.
+
+Borrower performance is also rated Unsatisfactory overall in both cases. Unclear division of
+responsibilities between the Ministry of Energy and SENELEC contributed to lack of
+coordination during implementation of the first project. And Government commitment to
+reform implementation was particularly weak with regards to tariff adjustments, as increases
+during the project period were insufficient to eliminate budgetary transfers (which instead
+reached peak levels).While the Government should be commended for undertaking the first
+ever comprehensive and far-reaching diagnostic of the electricity sector, which led to the
+formulation of the “Takkal Plan” in 2011, implementation of the plan has already badly
+lagged, as key elements of the Plan were initially questioned by some in the newly-elected
+administration.
+
+Bank performance under both projects is rated Unsatisfactory, both at entry and during
+supervision, on account, inter alia, of its overly accommodating stance on key project
+conditions, relative neglect of the hydrocarbon sub-sector, and overly optimistic supervision
+ratings. More broadly, the assessment concludes that the outcome of the Bank’s overall
+assistance to Senegal’s energy sector over the last 15 to 20 years was poor, as the electricity
+sector, which had been the primary focus of the Bank’s assistance and policy advice, is now
+in worse shape than it was at the beginning of the 2000s. The assessment attributes this
+outcome partly to an inconsistent and ambiguous Bank strategy, which fluctuated between an
+excessively demanding agenda (as reflected in the sector privatization promoted by the 1998
+Energy Structural Adjustment Credit or the unrealistic conditions of the 2008 Energy DPC)
+and an overly accommodating stance when it came to the Government delivering on its key
+policy commitments, particularly on sector governance and tariffs, or taking a more rational
+and decisive approach to sector investment selection and implementation. Other factors
+which accounted for this poor outcome were the sudden surge in oil prices in 2007-2008 as
+well as weak Borrower performance.
+                                              xi
+
+
+The following lessons can be derived from the Bank’s experience in the power sector of
+Senegal.
+
+   a) Proper sequencing of sector policy dialogue and investment support is important
+      for success when the two are closely connected. The viability and sustainability of
+      the investment commitments for SENELEC strongly depended on the sector policy
+      and strategy as well as the financial restructuring of the utility. The absence of a
+      sound policy framework was a factor in the failure of the Electricity Sector Efficiency
+      Enhancement project. When the Bank finally addressed key policy issues under a
+      heavily front-loaded DPC in 2008, it was too accommodating and complacent in its
+      implementation follow up. The most recent Sector Investment Loan, approved in
+      2012, is similarly light on institutional and policy content while the energy policy
+      content of the recently-approved Governance and Growth DPC appears to neglect
+      certain urgently needed reforms, including on the tariff front.
+   b) The Bank has an important role in ensuring that investment decisions are made
+      based on technical, financial, and economic merits. This is particularly true for
+      generation investments in a country like Senegal, which has limited options given its
+      small system size and the absence of sizeable domestic energy resources. The Bank
+      risks credibility if it takes, or is perceived to take, a dogmatic position against coal-
+      based power where it is the least-cost option (after accounting for environmental
+      externalities), at least in the medium-term, and a potentially critical way to
+      significantly reduce generation costs and turn around sector finances.
+   c) Realistic policy requirements and consistent messages are important to
+      borrowers. Over the past decade, the Bank’s stance has fluctuated between a
+      sometimes overly demanding agenda (like in the “letter” of the 2008 Energy DPC)
+      and an excessively accommodating position when it came to the government
+      delivering on its key commitments (such as on tariffs), all in the context of
+      unwavering and growing financial support. As a consequence, it may have been seen
+      by counterparts as sending mixed messages on the importance and urgency of actual
+      sector reform.
+   d) Where a country’s political timetable is liable to bring significant shifts in policy,
+      a keen appreciation of political economy is necessary. Twice, the Bank did not
+      sufficiently appreciate the likely implications of scheduled (democratic) changes in
+      government, first in 2000 and more recently in 2012. In the first instance, the new
+      government hardened its position on SENELEC’s privatization, possibly contributing
+      to its failure; and in the second instance, the new government appears to have taken a
+      different approach to investment planning and tariff policy, revisiting key tenets of
+      the “Takkal Plan.”
+   e) The Bank has much to gain from locating key operational staff in the field,
+      particularly where a continuous and intense dialogue is required, such as
+      Senegal’s energy sector. But field location will only yield benefits if human and
+                                                xii
+
+
+       budget resources are made available; otherwise the teams will become overloaded
+       and key areas requiring specialized expertise (like the hydrocarbon subsector in
+       Senegal) will end up unattended.
+
+In addition, several lessons specific to the two projects assessed in this report arise.
+
+   f) A comprehensive and realistic analysis of sector finances is the best foundation
+      for financial covenants that will be met. The analysis should reflect realistic
+      assumptions regarding the timing and scope of future reform steps regarding tariff
+      changes, financial restructuring, as well as realistic scenarios for future increases in
+      international oil prices, particularly for a system so dependent on liquid fuel imports
+      like Senegal’s. Because it was not done in the first project, the financial covenants
+      were essentially meaningless and bound not to be complied with.
+   g) Project success is handicapped at the start if it is not ready for implementation
+      by credit effectiveness. In the first project, the preparation of key components was
+      not fully completed until much later in the project’s life, leading to delays in bidding
+      and serious implementation delays, and resulting in the ultimate cancellation of a
+      large part of the credit. In fact, the Project Implementation Manual was not even
+      finalized until more than a year after the project was started. Compounding the
+      problem was the fact that procurement training of key SENELEC staff was
+      insufficient, leading to procurement inefficiencies.
+   h) The outcome of IPP projects cannot be viewed in isolation of broader sector
+      outcomes. While the generally satisfactory completion of the Kounoune project
+      provided needed additional capacity to the system at least-cost and served as a
+      demonstration of the feasibility and benefits of IPP arrangements in Senegal, its
+      outcome is being jeopardized by the recurrent financial difficulties in the sector: the
+      technical problems that marred the plant in the first two years were partly caused by
+      poor fuel quality, itself the result of SENELEC’s strained cash situation. The latter
+      also led to delays in energy payments to Kounoune. More broadly, the dire financial
+      situation of the sector is a disincentive to private investors investing on a large scale
+      in future IPP projects.
+   i) Inattention to the good practice principles for the application of conditionality
+      can result in policy-based operations that are unbalanced and lack focus. In the
+      second project, most of the substantive conditions were back-loaded to the second
+      tranche whereas the first tranche accounted for 70 percent of the credit. Furthermore,
+      the credit included an excessive number of conditions, some of which were vague
+      and/or largely formalistic, whereas others were disconnected from the core objectives
+      of the project.
+   j) In designing policy-based operations, a realistic sense of the pace of reform will
+      take account of political economy considerations. The DPC was clearly too
+      ambitious regarding the expected timeline for key reform steps, including the
+                                      xiii
+
+
+enactment of needed tariff increases and the elimination of budgetary transfers to the
+sector. It attempted to achieve too many things at the same time instead of focusing
+on key actions required to address the core roots of the sector crisis – and following
+up on their actual implementation.
+
+
+
+
+                                                               Caroline Heider
+                                                              Director-General
+                                                                    Evaluation
+                                               1
+
+
+1. Background and Context
+Overall Country Context
+1.1     In the years 1995 to 2005, Senegal enjoyed robust economic growth, averaging about
+5 percent per annum, and low inflation (0.5 percent in 2004), following the 1994 FCFA
+devaluation. By 2006, the country was viewed as one of the best performers in Sub-Saharan
+Africa-- thanks to a stable political environment, sound fiscal and monetary policies, large
+remittances, and the implementation of structural reforms in the productive sector. The
+poverty rate was reduced by 10 points between 1994 and 2002. Nonetheless, income
+inequality remained high and social indicators were still lagging. Following aborted attempts
+at privatizing the electricity sector in the late 1990s and early 2000s, the latter’s financial
+performance had been a continued concern due to high production costs, requiring large
+budgetary transfers. The country’s economy took a turn for the worse in 2006, when GDP
+growth decreased to 2.3 percent and the fiscal deficit rose to 5.8 percent of GDP (from 3.0
+percent in 2005). This was in large part the result of the surge in international oil prices and
+of a significant increase in public wages and investments. At the same time, the situation of
+the electricity sector went from bad to worse, causing widespread power shortages with
+ripple effects on the economy. Partly as a result, GDP growth only averaged 3.4 percent in
+2006-2010 and decelerated further to 2.6 percent in 2011, while inflation increased to 3.4
+percent and the deficit rose to 6.7 percent of GDP (in part due to surging budgetary transfers
+to the electricity sector) in the same year. The latest figures show a GDP growth of 3.7
+percent for 2012.
+
+Sector Background and Developments in the Last Decade
+1.2     Energy sector background. Energy consumption in Senegal is dominated by wood
+fuels (53 percent of total) and less than 4 percent of villages are electrified. Electricity
+services in urban areas are provided by SENELEC, the country’s public utility, which serves
+870,000 customers (versus Senegal’s population of 12.8 million). Total capacity of the
+interconnected system was 584 MW in 2012, 90 percent of which was provided by imported
+liquid fuel-based thermal plants (of which 117.5MW were under IPP arrangements), with the
+rest mostly imports of hydroelectric power from regional hydro plants (the most prominent
+being Manantali). Electricity demand has been growing rapidly at a rate of about 6.2 percent
+per annum over the last decade (although it has slowed down since 2005 as a result of lower
+economic growth) and peak demand reached 449MW in 2011. Because of the system’s
+reliance on liquid fuel-based generation (heavy fuel oil and diesel oil), costs of production in
+Senegal, and tariffs, have remained among the highest in the region.
+
+1.3     Early attempts at electricity privatization. In order to improve the sector’s low
+efficiency and address its long-standing financial difficulties, the Government had embarked
+in 1997, with the support of the Bank’s first Energy Sector Adjustment Credit, on an
+ambitious reform program aimed at introducing competition by eliminating SENELEC’s
+monopoly and attracting private investment, including through the opening of SENELEC’s
+capital. The program also included far-reaching reforms of the hydrocarbons sector.
+Government commitment to the reforms was strong initially, and the legal framework for the
+                                               2
+
+
+sector was correspondingly revised to allow for the gradual unbundling of the sector.
+However, the first privatization attempt ultimately failed as the concession granted to a
+private foreign consortium in 1999 was terminated after 18 months when disagreements
+emerged between the private partners and the Government on investment plans and tariffs. A
+second privatization attempt was launched in 2001 (after a new Government came into
+power), but was unsuccessful as negotiations with the private bidders could not be
+satisfactorily completed, in the midst of a deteriorating business environment for private
+power developers around the world.
+
+1.4       A new Government strategy. In early 2003, a new strategy reflecting the lessons
+learned over the 1999-2002 period was adopted by the Government. It aimed at making up
+for critical investments neglected during the privatization attempts, by improving the
+reliability of, and expanding, SENELEC’s generation, transmission and distribution system
+while mobilizing private resources for generation expansion under IPP arrangements. This
+new strategy was supported by the Bank and IFC through the Electricity Sector Efficiency
+Improvement project approved in 2005, originally designed as a two-phase Adaptable
+Program Loan (APL) aimed at supporting the sector’s long-term (10-year) investment
+program.
+
+1.5     The 2007-2008 Crisis and its aftermath. For a number of reasons discussed in detail
+elsewhere in this report, including poor design of the Bank’s operations, delays in projected
+investments, significant increases in international oil prices, political interference in the
+management of, and poor governance of, the sector, and the Government’s unwillingness to
+address key policy issues (inter alia, tariffs and SENELEC’s worsening finances), the new
+strategy did not yield the expected benefits, in spite of the sizeable assistance provided after
+2008 by the Bank and bilateral donors in the form of budgetary support. Instead, the sector
+ended up facing a deepening crisis from 2007 onwards, characterized by recurrent blackouts
+(with un-served demand reaching 105GWh in 2008, see graph in Annex B) and
+unprecedented and growing needs for budgetary transfers to the sector (60 billion FCFA, i.e.
+about US$120 million, in 2008, or one percent of GDP).
+
+1.6     In fact, the crisis only deepened in subsequent years as unmet demand reached a
+record level of 250GWh in 2011 (with 270 days of load shedding registered in that year) and
+the Government had to transfer US$215 and US$260 million equivalent in operating
+subsidies to SENELEC in 2011 and 2012, respectively. The roots of this ongoing crisis were
+highlighted in the very comprehensive diagnostic carried out by McKinsey, a consulting
+firm, in 2011 as a prelude to the preparation of the 2011-2015 Emergency and Recovery Plan
+(the so-called “Takkal Plan”). Essentially, Senegal’s electricity sector is caught in a
+downward spiral caused by the interaction of SENELEC’s poor finances and the sector’s
+under-investment, each one of which is discussed at more length in subsequent paragraphs.
+It works like this: SENELEC’s under-capitalization and structural operating deficit (caused
+by insufficient tariffs and lagging budgetary transfers) perpetuates inefficiency by preventing
+it from investing in required maintenance of aging assets and non-liquid fuel-based
+generating plants, which could improve its cost structure in the long-run while improving the
+quality of service. And SENELEC’s difficult cash situation only makes matters worse by
+causing problems with suppliers, leading to delays in supplies of critical inputs, including
+fuel, and in payments to IPPs. The dire state of sector finances is also a disincentive to
+                                                3
+
+
+potential private partners in future IPP projects whose contribution is needed to invest in
+more efficient, lower-cost (e.g. coal or gas-based) generating plants, without which the sector
+will continue to generate electricity at prohibitively high costs. Inefficiencies in the
+Government decision-making process for critically needed investments have only
+compounded the problem.
+
+1.7      SENELEC’s finances and electricity tariffs. SENELEC’s financial difficulties are
+long-standing and predate the recent sector crisis: in none of the years between 2000 and
+2004 did the company show a net profit and in two of these years (2001 and 2002) it received
+a (small) operating subsidy from the Government. Yet by 2004 its balance-sheet structure
+was still sound, with a debt-equity ratio of 40:60. As shown in Annex B (Table 2), the
+situation worsened dramatically in 2006, when SENELEC lost 34 billion FCFA (close to
+US$70 million), after an operating subsidy of 33 billion FCFA. Things got only worse in
+subsequent years with the effect of higher oil prices and delayed investments, requiring
+significant amounts of budgetary transfers from the Government, which reached 103 billion
+FCFA in 2011 (130 billion FCFA expected in 2012). In parallel, SENELEC’s leverage has
+risen to alarming levels, with a debt-equity ratio of 86:14 by the end of 2011, in spite of
+substantial recapitalization and debt refinancing steps taken by the Government in 2007 as a
+first tranche condition of the Bank’s Energy DPC (see para. 4.6). SENELEC’s strained cash
+situation has also affected its ability to secure fuel and pay IPP charges in a timely manner,
+which in turn has disrupted the functioning of generating plants.
+
+1.8      Most recently, as part of the implementation of the above-mentioned “Takkal Plan”
+and in connection with negotiations of the energy component of the Bank’s First Governance
+and Growth Support Credit, the Government has agreed on a further restructuring and
+recapitalization plan for SENELEC, including a cross-debts settlement. While these measures
+will help strengthen the company’s balance-sheet, they will not directly address the issue of
+its structural operating deficit in the absence of revenue-enhancing measures (i.e. tariff
+increases). And while the proposed performance contract being negotiated between
+SENELEC and the Government should ultimately lead to higher efficiency and lower
+administrative costs, this will not be sufficient to make a significant dent in the company’s
+operating deficit, at least in the short run, considering the overwhelming share of imported
+fuel oil in total operating costs. On the other hand, implementation of the Takkal Plan did
+include the set up by the Government in 2011 of a Special Energy Fund, which has
+contributed to alleviate the most immediate impact of SENELEC’s continuing cash
+constraints by helping secure and finance fuel supplies and co-finance critical investments,
+including the emergency rental of generation facilities. However future funding of the
+Special Energy Fund hinges on the continued steady collection of earmarked taxes.
+
+1.9     The current tariff formula, based on the principle of a revenue cap, dates back to the
+failed attempts in the late 1990s to set up a concession system with private participation. It is
+supposed to enable SENELEC to recover costs (either through tariff hikes or “revenue
+compensation” from the Government) while providing incentives for internal efficiency
+improvements. However, its practical implementation has been based on outdated
+assumptions regarding future capacity and fuel costs and its administration (by the
+Commission de Régulation du Secteur de l’Electricité, Senegal’s Regulatory Commission for
+Electricity Sector has proven to be overly complicated and burdensome. The ineffectiveness
+                                               4
+
+
+of the current system is highlighted by the fact that SENELEC has incurred substantial losses
+in most recent years in spite of significant operating subsidies from the Government. It even
+led to a tariff decrease of 8 percent in early 2009 at a time when SENELEC was in dire need
+of financial resources. While recent changes to the system introduced in 2011 have
+alleviated some of the most obvious flaws (by providing more frequent reviews and more
+realistic assumptions of future costs), the bottom line is that the system does not work in its
+current form. Furthermore, past studies on tariff structure, including one carried out in 2007
+by the state-owned utility Office National de l'Electricité (Morocco) under Bank funding,
+have shown it could be optimized through more progressivity. Yet these recommendations
+were not implemented by the Government – another tariff study is being planned with
+funding from the Electricity Sector Support project approved in 2012.
+
+1.10      Electricity sector’s expansion plans. The upgrading of SENELEC’s transmission
+and distribution network was originally to be supported by the Bank’s Electricity Sector
+Efficiency Improvement Project approved in 2005 but it could not be completed, and the
+more recent Bank investment credit approved in 2012 (US$ 85 million, Electricity Sector
+Support Project) aims to remedy that earlier failure by funding urgently needed investments
+in these two areas (also including the modernization of SENELEC’s metering system). But
+the most critical investment needs in the sector have been in generation since, as explained
+earlier, the sector desperately needs to diversify its generation mix and reduce its reliance on
+liquid fuel-based generation if it is to break away from the above-mentioned downward spiral
+(para. 1.6).
+1.11     Because some generation investments (both rehabilitation of older units and the new
+Kounoune IPP thermal plant) were delayed, and in order to alleviate the risk of recurring
+power shortages, the Government had no option but to resort, starting in late 2011, to renting
+150MW of short-term/emergency capacity, at a very high cost (about US32 cents per kwh, or
+about 60 percent higher than the average cost of production of an efficient plant like
+Kounoune). Whereas the rental contract was expected to lapse by October 2012, by the end
+of 2012 it appeared it will need to be extended until mid-2013. The McKinsey diagnostic
+carried out in 2011 included a very comprehensive assessment of the country’s generation
+options, both short-term and long-term. Accordingly, the Takkal Plan recommended, among
+others, the purchase of 60MW of additional short-term capacity in the form of containerized
+units on barges (to replace the rented generators) and, most importantly, the acceleration of
+the introduction of coal-based generation, to be followed by natural gas-based generation if
+and when natural gas resources (both domestic and imported) could be secured. This would
+complement the increased imports of hydroelectric power from regional projects, already
+arranged. These latter recommendations essentially confirmed the main findings of the
+generation master plan prepared in 2007 by SENELEC’s consultants (Lavalin of Canada)
+with funding from the Bank (para.3.3).
+
+1.12 Yet protracted Government decision-making processes, as well as apparent
+disagreements within the Government, have contributed to the cancelling of plans for new
+short-term capacity additions and significant delays in the negotiations of IPP arrangements
+for future coal-based plants, in spite of the fact that firm offers from reliable sponsors have
+been on the table for quite some time. As a result, the next 125MW coal-based IPP plant at
+Sendou, which has been under negotiations with foreign developers since 2007 and was
+                                               5
+
+
+originally scheduled for commissioning by early 2014, is now unlikely to come on stream
+before the end of 2015 at the earliest. Instead, the Government now appears to have shifted
+the focus of much of its immediate attention to potential Liquefied Natural Gas (LNG) -fired
+generation deals and the purchase of gas and/or gas-based electricity from Mauritania, which,
+while worth exploring, offer much longer-term prospects, assuming they can be
+economically justified. Such delays will likely only result in further unsustainable rental and
+fuel costs and the continuation of SENELEC’s losses – and dependence on the Government’s
+budget-- for years to come.
+
+
+
+2. The Bank’s Overall Strategy and Assistance for the
+Energy Sector
+2.1     Rationale for Bank Group involvement and lending program. Successive Bank
+Country Assistance Strategy (CAS) (the latest Country Partnership Strategy for 2011 was just
+approved in January 2013) have emphasized the importance of supporting the energy sector,
+consistent with the Bank’s goals to help improve and expand the country’s infrastructure
+services, to lower service costs, particularly to the poorest segments of the population, and to
+promote private sector development. Early Bank credits to the sector included the Power
+Engineering and Technical Assistance project (US$ 3.3 million, approved in 1980 and closed
+in 1986) and the Energy Sector Rehabilitation project (US$ 20 million, approved in 1986 and
+closed in 1992). This was followed by an Energy Sector Adjustment Credit of US$100
+million in 1998 to support the Government’s far-reaching efforts to restructure and privatize
+the sector (see para. 1.3 above). The two projects in this assessment then followed: the
+Electricity Sector Efficiency Improvement project in 2005 (IDA credit of US$ 15.7 million,
+Partial Risk Guarantee (PRG) of US$ 7.2 million, and IFC “A” Loan of US$ 22 million); and
+the Energy Sector Recovery DPC of US$ 80 million in 2008. More recently, in 2012, the
+Bank approved the Electricity Sector Support project (US$85 million). In addition, a Rural
+Energy project (US$19.9 million) was also approved in 2004. The First Governance and
+Growth Support DPC recently approved in December 2012 includes a significant energy
+policy component. All in all, the Bank Group has lent US$ 324 million to Senegal’s energy
+sector over the last twenty years, representing about 17 percent of its total assistance.
+
+2.2     Bank’s stance on key sector issues.
+
+(a) Electricity sector governance: following the inability of its two earlier operations to
+help resolve the power sector‘s structural problems, and to take advantage of a political
+window of opportunity, the Bank had boldly engaged the Government on a radical reform of
+the sector in the late 1990s and early 2000s in the context of the first Energy Sector
+Adjustment Credit. Especially for the times, the proposed reforms were ambitious and far-
+reaching but they failed due to a combination of external factors and a weakening of
+Government commitment after a new Government took over. The Bank then reverted to a
+“plain-vanilla” operation with its next investment credit of 2005. The project included a
+number of conditions/indicators focused on improving sector governance but they were
+overly vague and formalistic, while leaving key policy issues unaddressed. This policy gap
+                                               6
+
+
+was filled by the 2008 Energy Sector Recovery DPC which included a wide range of
+ambitious policy conditions, most of which could not be met in the context of the deepening
+sector crisis. The Bank then reverted again to an investment lending approach in 2012 with
+its Electricity Sector Support Project, whose institutional and policy content is limited to the
+funding of several studies and the imposition of (more lenient) financial ratios on SENELEC.
+The Bank’s latest attempts at addressing governance issues focus, inter alia, on the
+preparation and implementation of a performance contract between the Government and
+SENELEC. While this endeavor is still in its early stages, as the performance contract was
+just signed, its success will hinge on both the Government and SENELEC adhering to its
+provisions. This may prove to be a challenge in light of the failure of similar “contrats-plans”
+attempted in Senegal in the 1990s and the poor historical record of performance contracts
+with state-owned utilities worldwide.
+
+(b) Hydrocarbons sub-sector: the Bank’s interest in the hydrocarbons sub-sector appears to
+have fluctuated over the years. Hydrocarbons reforms were an integral part of the program
+supported by the 1998 Energy Sector Adjustment Credit and a number of them (including the
+opening up of the sector and price reform) were actually implemented, in contrast with the
+failure of the power sector component. The 2005 investment credit was originally expected to
+include a hydrocarbons component but it was dropped when the scope of the operation had to
+be curtailed (para. 3.1). But hydrocarbons were an integral part of the analysis supporting the
+2008 Energy Sector Recovery DPC and the object of several of its conditions. Yet little
+follow up was done by the Bank in this area after the credit’s approval as most of the Bank’s
+energy dialogue had emphasized the power sector. In particular, issues related to petroleum
+products pricing policy, possible changes in the sub-sector’s regulatory set up, Société
+Africaine de Raffinage (SAR) financial situation (and persisting subsidization by the
+Government), as well as the justification of future investments in domestic refining have
+been primarily dealt with during the supervision of the two projects by following up on the
+formalistic completion of related studies rather than engaging on a substantive policy
+dialogue on these issues. This changed somewhat with the more recent discussions leading
+to the preparation of the Letter of Policy Development underlying the First Governance and
+Growth Support DPC which includes several commitments regarding hydrocarbon refining,
+storage and distribution
+
+(c) Electricity tariffs: The program of radical reforms supported by the Banks’s first Energy
+Sector Adjustment Credit included the introduction of a new tariff setting mechanism based
+on the principle of revenue cap. This made sense in the context of the proposed introduction
+of competition and the concession structure envisaged at the time. But while the reforms
+were subsequently reversed, with SENELEC regaining its monopoly, a particularly
+cumbersome version of the revenue cap system was kept and has been one of the factors
+behind the sector’s financial difficulties (paras. 1.7 to 1.9). Yet the Bank to this day has
+refrained from encouraging the Government to fundamentally rethink its tariff setting system
+and instead has argued for changes at the margin, e.g. changes in the frequency of the
+reviews and the details of the assumptions underlying the application of the overly complex
+formula. And while the Bank ended up funding a study of the tariff structure in 2007, it
+showed little interest in discussing its findings or even, more broadly, engage the
+Government on a comprehensive discussion of the benefits of introducing more progressivity
+in the current structure. Relatedly, the Bank has too easily agreed to the Government’s
+                                                    7
+
+
+arguments that tariff changes would be detrimental to the country’s social and economic
+development without insisting on detailed studies of the social impact of various forms of
+tariff increases. It even acquiesced de facto to the 2009 tariff decrease (on account of a
+temporary decline in oil prices), at a time when SENELEC was in dire financial straits and in
+non-compliance with its financial covenants. Whereas tariff increases were discussed as a
+possible condition of a Fifth Poverty Reduction Strategy Credit in 2011, the Government’s
+unwillingness to consider such hikes led the Bank to drop the operation. Instead the Bank
+went on to process an alternative DPC (the First Governance and Growth Support Credit)
+which does not include any action on electricity tariffs. 1
+
+(d) SENELEC’s finances: The Bank’s stance on SENELEC’s finances has been similarly
+inconsistent and generally very accommodating. Key financial ratios (including return on
+assets, debt-service coverage and debt-equity) were included in the 2005 investment credit
+but were not complied with throughout the project’s implementation. Yet the Bank followed
+up with its processing of the Energy Sector Recovery DPC in 2008, which included
+essentially similar financial conditions on SENELEC -- which were similarly not met. The
+Bank’s response was to make the financial ratios included in its 2012 investment credit more
+limited and lenient. And yet even these more generous ratios have not been met in 2012, due
+to the absence of any tariff increase and insufficient budgetary compensations – without the
+Bank apparently considering any remedy.
+
+(e) Private sector involvement and IPP’s: The Bank took a bold stance on promoting the
+radical reform of the whole electricity sector in the late 1990s, and in providing related policy
+advice at the time. The failures of these early reforms led both the Government and the Bank
+to lower their expectations and focus instead on attracting private capital through IPP
+investments in generation. To this end, the Bank Group wisely decided to approach the next
+operation in a coordinated manner and to process a single package combining an IDA credit,
+an IFC loan, and a PRG. As the detailed assessment of this project makes clear (see Chapter
+3), the IDA credit did not meet its objectives but the IFC support of the construction of the
+Kounoune plant under an IPP arrangement was generally successful, in spite of initial
+operational problems and persisting contractual issues. Yet in spite of the positive
+demonstration effect the completion of Kounoune provided, other potential IPP projects
+(particularly the urgently-needed coal-based plants) have lingered on. This may be due in
+part to SENELEC’s remaining ambivalence vis-à-vis, and lukewarm view of, IPP’s in
+general. But it is also likely the result of the inherent complexity and difficulty of structuring
+such deals and the lack of strong Government capacity in this very specialized area. In this
+respect, the Bank may have been too timid in offering to fund specialized technical support
+(including lawyers, investment advisers, etc.) for the negotiations of IPP contracts, due to an
+excessive concern about potential conflicts of interest. The Bank is in fact probably better
+placed than IFC to help Governments in this regard while retaining an arms-length
+1
+  In its comments on the report, the region states that IEG “presents an overarching position that an
+increase in tariffs would be the solution to restoring sector finances” and that priority should instead
+be given to reducing distribution losses and diversifying the generation mix away from expensive
+emergency thermal capacity. IEG notes that while better technical efficiency and diversification are
+indeed key to solving the sector’s financial woes in the long-term, these actions will take years to
+have a financial impact in the best of circumstances.
+                                               8
+
+
+relationship to the outcome of the negotiations (both in appearance and in reality), and such
+services have in fact been funded by the Bank in other African countries.
+
+(f) Generation planning: Diversifying the generation mix and reducing reliance on liquid
+fuel-based power is key to lowering the sector’s costs hence to resolving the sector’s
+problems in the long run. Yet the Bank was not forceful enough in engaging the Government
+on the issue of the planning of key generation investments, an area which is highly technical,
+hence where the Bank should have a priori a comparative advantage. The Bank did include in
+its 2005 project studies for the preparation of generation, transmission and distribution
+master plans. These plans were satisfactorily completed with the help of consultants (Lavalin
+of Canada) and should have provided a clear basis for planning the sector’s future expansion.
+In fact, the fundamental priorities defined in these master plans (including the role of coal-
+based power as the least-cost medium term option, after taking account of environmental
+externalities), were reconfirmed in the “Takkal Plan” formulated by the Government in 2011.
+Yet political interference in the decision-making process, a lack of realism in the timelines
+for financing and implementing major generation investments, and the above-mentioned
+lack of specialized Government capacity in negotiating IPP deals have resulted in delays in
+the commissioning of urgently-needed coal-based plants and the attendant recourse to
+prohibitively expensive rental of short-term capacity (para. 1.11). It appears that the Bank
+could have been more forceful in advocating for the Government adhering to the least-cost
+path defined in the technical studies and not being distracted into entertaining suboptimal
+proposals from foreign investors (e.g. in the case of LNG-powered plants). In fact the Bank’s
+agreement to fund studies on the long-term role of LNG or its recent advocating for a
+bilateral agreement with Mauritania for the import of gas-based electricity, while justified on
+their own merits, may have been misconstrued by the Government as an encouragement to
+revisit the fundamental short and medium-term least-cost choices defined in all previous
+technical studies and included in the Takkal Plan. The Bank’s well-publicized aversion to
+coal-based power (and its outright refusal to entertain any related funding request) may have
+only further contributed to that perception.
+
+2.3      Coordination with other donors/partners. Throughout the years, the Bank has kept
+coordinating very closely with other donors/partners in the sector, which include AFD,
+Banque Africaine de Développement, Islamic Development Bank, the International
+Monetary Fund and European Investment Bank (also China, which has recently increased its
+assistance but with which relations have been more arms-length). Coordination with AFD,
+the other major donor in the sector, has been particularly close, as AFD (through
+PROPARCO, its private sector arm and the equivalent of IFC) co-financed the Kounoune
+project, and the two institutions took a common approach to the preparation and
+implementation of parallel budget support operations in the energy sector in 2008. To this
+day, the Bank and AFD are conducting the sector policy dialogue with the Government
+essentially in tandem.
+
+2.4     Overall outcome of the Bank’s assistance. The outcome of the Bank’s overall
+assistance to Senegal’s energy sector over the last fifteen-twenty years has been poor, even if
+some success was achieved in specific areas (e.g. the promotion of regional hydro-power).
+In fact each and every one of the projects implemented in the 1990s and 2000s has been rated
+unsatisfactory by the Bank’s own self-evaluations, including the two projects assessed in this
+                                               9
+
+
+report. Most damningly, the electricity sector, which has been the primary focus of the
+Bank’s assistance and policy advice, is now in worse shape than it was at the beginning of
+the 2000s, and while in theory this could have been despite of the Bank’s best efforts, as we
+will see in the next chapters, the Bank’s approach may have contributed to this. The
+country’s circumstances, with its lack of domestic modern energy sources and the system’s
+forced primary reliance on liquid fuel-based generation given its small size, are admittedly
+not favorable. Furthermore, poor Borrower performance as well as external factors
+(particularly the sudden increase in international fuel prices in the mid-2000’s) account, at
+least in part, for the sector’s poor performance, as discussed in the detailed assessments of
+the two projects. But poor design and implementation of the Bank’s assistance strategy is
+also to blame. As highlighted in the above paragraphs, the Bank’s strategy has been both
+inconsistent and ambiguous in a number of areas, fluctuating between an excessively
+demanding agenda (e.g. the unrealistic conditions of the 2008 DPC) and an overly
+accommodating stance when it came to the Government delivering on its key policy
+commitments, particularly on sector governance and tariffs.
+
+2.5     In the end, it is hard not to conclude that the mixed messages the Bank has been
+sending throughout the 2000s until recently contributed to the Government’s reluctance to
+address more forcefully the structural weaknesses of the sector, hence contributing to
+perpetuating the sector’s drain on the broader economy. Witness the following sequence of
+events: by 2008, the Electricity Sector Efficiency Enhancement project, approved in 2005,
+was performing very poorly on all counts and it was clear to all parties that it was going to
+have to be partially cancelled. Yet, in the face of such poor performance and instead of
+restructuring the project proactively, the Bank gave the appearance of “rewarding” failure (at
+least that is the way it was perceived by some counterparts, based on IEG interviews) by
+agreeing to transfer another US$80 million to the sector in the guise of the 2008 DPC
+(US$56 million of which were actually disbursed in spite of across-the-board non-
+compliance with most policy conditions). The failure of the two projects was highlighted in
+the self-evaluation reports respectively issued in June and October 2011 and should have
+given the Bank some pause yet it proceeded in short order to approve another major
+investment credit (US$85 million)to the sector in July 2012, with minimal institutional and
+policy content. Under these circumstances, it would have been hard for the Government not
+to conclude that the Bank would continue, come what may, to financially support the sector
+even in the absence of Government implementation of major reforms(instead of mere
+declarations of intention) -- including the much-needed changes to tariff structure and levels.
+Indeed, this impression can only have been reinforced with the inclusion in the energy policy
+component of the recently-approved First Governance and Growth Support DPC of
+commitments which are either too vague/formalistic or not directly related to the core roots
+of the sector’s crisis, in this way replicating the flaws of the 2008 Energy Sector Recovery
+DPC.
+
+2.6     This said, as reflected in the detailed discussion of Bank performance provided in the
+detailed assessments of the two subject projects (Chapters 3 and 4), this negative assessment
+of the Bank’s key strategic choices should not be seen as a criticism of the hard work and
+dedication of the energy teams who conducted comprehensive technical analyses and carried
+the working level dialogue with their Senegalese counterparts day in and day out.
+                                               10
+
+
+3. Electricity Sector Efficiency Enhancement Project –
+Detailed Assessment
+Objectives, Design, and Relevance
+3.1     Project Genesis. In the aftermath of the failed attempts at privatizing SENELEC in
+the late 1990s/early 2000s, the Government had refocused its efforts towards implementing
+urgent investments and improving efficiency and reliability in the power sector to meet a
+growing electricity demand, while improving sector governance. Consistent with this new
+approach, the Bank Group agreed to support the power sector’s 10-year investment program
+through a two-phase APL combined with PRGs and IFC loans. The IDA Credit, approved in
+2005, was originally supposed to fund the full first phase of the APL but due to limitations in
+IDA13 resources, ended up financing only a more modest portion of that first phase, for an
+amount of US$15.7 million covering physical investments in transmission and distribution
+and Technical Assistance activities. The remainder of Phase 1 activities (US$33.4 million)
+was to be funded in a follow-up project to be approved the following fiscal year once
+sufficient IDA 14 resources were to be available to Senegal, but this never materialized. The
+PRG and the IFC loan (respectively US$7.2 million and Euros 17 million) were kept as part
+of the original funding package, to support the construction of the Kounoune power plant
+under IPP arrangements although in practice the IDA-funded activities and the IPP project
+were really handled within the Bank Group as two distinct projects.
+
+3.2      The project objectives, as stated in the Project Appraisal Document, were to (a)
+maintain and increase the electricity supply and the reliability or the services; (b) reduce the
+cost of the electricity services; and (c) enhance the performance of key energy sector
+institutions. Considering the problems facing the sector, these objectives were highly
+relevant and remained so throughout project implementation. The outcome indicators set
+out for the project included: (a) the commissioning of the Kounoune thermal power plant
+(67.5 MW); (b) a 22 percent increase in SENELEC’s overall electricity sales from 2004 to
+2008; (c) a reduction in interruption of power deliveries; (c) a reduction in SENELEC’s
+variable costs of generation; (d) a decrease in SENELEC’s transmission &distribution losses
+(technical and non-technical); (e) the setup of a monitoring &evaluation (M&E) system for
+the energy sector; (f) the set-up of a new electricity tariff mechanism; (g) design and
+implementation of a training program for key sector entities; and (h) implementation of PPP
+arrangements in the sector. In addition, financial covenants were included in the credit
+agreement (debt service coverage of not less than 1.1; return on assets of not less than 3
+percent in 2006-07 and 5 percent thereafter; financial leverage of no more than 65 percent;
+accounts receivable of less than 105 days in 2006 and 90 days thereafter), purportedly to
+promote a steady improvement in SENELEC’s finances.
+
+3.3    Project design. Original project components were divided into support to SENELEC
+(Part A) and Institutional development of the energy sector (Part B).
+                                             11
+
+
+Part A comprised the following components:
+
+           -   Construction of the 67.5 MW heavy-fuel oil-fired power plant at Kounoune,
+               near Dakar, under IPP arrangements with a private consortium consisting of
+               Matelec (Lebanon) and Mitsubishi Equipment (Netherlands), with an
+               estimated cost of US$80 million. The project was supported by an IFC “A”
+               loan of Euros 17 million and a Bank RG of US$7.2 million to guarantee a
+               long-term loan by a Senegalese private commercial bank.
+
+           -   Rehabilitation/reinforcement of SENELEC’s transmission and distribution
+               network, with an estimated cost of US$ 9.5 million.
+
+           -   Capacity building and studies for an estimated cost of US$2.4 million,
+               including preparation of generation, transmission and distribution master
+               plans.
+
+Part B comprised technical assistance, training and studies for both the Ministry of Energy
+and Mines (MEM) and the Regulatory Commission for Electricity Sector for an estimated
+cost of 2.3 million, including the set-up of a sector-wide M&E system and a study of options
+for future public/private partnerships for SENELEC.
+
+3.4      The design of the project was only modestly relevant for a number of reasons. First,
+it only funded a truncated Phase 1 of SENELEC’s long-term investment program due to the
+above-mentioned IDA13 resource restrictions, limiting the project’s ability to address the
+sector’s urgent investment needs. Second, it overestimated SENELEC’s implementation
+capacity, particularly in the area of procurement, and put in place a flawed division of
+responsibility for project implementation between MEM and SENELEC. Most importantly it
+did not address head-on the need for key policy actions required to strengthen the sector’s
+finances, instead merely imposing arbitrary financial covenants on SENELEC and a vague
+requirement to review the existing tariff mechanism. Furthermore, while supporting the
+preparation of SENELEC’s long-term master plans and studies for future private options in
+the sector made sense under the circumstances, no provisions were made to ensure that the
+results of these studies were thoroughly discussed with the Bank and ultimately
+implemented.
+
+Implementation
+3.5     Implementation of IDA-financed activities remained extremely slow until the credit
+was closed in December 2010, after a two year extension. This was due to insufficient project
+readiness, as SENELEC’s procurement capacity was weak to start with and inadequate
+provisions were made under the project to strengthen it (in fact the Project Implementation
+Manual was finalized only after the project was well advanced). Furthermore, the Bank
+unwisely acceded to a Government request that the Project Coordination Unit be located only
+in the MEM whereas most of the project activities concerned SENELEC, leading to poor
+coordination between the PCU and SENELEC and attendant delays. The pace of
+implementation was also affected by the difficult dialogue that prevailed between the Bank
+and SENELEC’s management until the end of 2006. Midway through the implementation
+                                                12
+
+
+period, in 2007, and in light of the sector’s deepening crisis and extensive load shedding, the
+Government and SENELEC requested, and the Bank agreed, that project funds originally
+assigned to transmission and distribution works be transferred to the rehabilitation of unit
+302 in the Cap des Biches steam power plant so as to alleviate generation capacity shortages.
+In retrospect, it is not clear that such rehabilitation was technically justified as a subsequent
+technical audit by Electricité de France (EDF) led to the de-rating of that unit, but in any case
+the decision led to further delays in project implementation due to a protracted bidding
+process for the group’s rehabilitation, including a need for re-bidding. In the end, by the time
+the credit closed in 2010, no physical works had been funded by IDA and 61 percent of the
+credit was cancelled, meaning that the IDA-funded project ended up being essentially a
+US$6.2 million Technical Assistance operation.
+
+3.6     The Power Purchase Agreement for the IFC-supported Kounoune power plant was
+signed in 2005 and construction was satisfactorily completed in 2008, US$8 million under
+budget, albeit with a 2-year delay. The first two years of operation, however, were marred by
+technical problems with the turbines operation, which the company attributed to poor fuel
+quality and which have led to contractual issues with the Government, not yet resolved.
+These problems have led to lower-than–planned availability of the plant in its early years of
+operation (as low as 79 percent in 2009). Following the resolution of the turbines technical
+problems and the provision of higher quality fuel by SENELEC, the plant is now working at
+about full capacity.
+
+3.7      Safeguards. Two safeguard policies (OP 4.01 on the environment and OP 4.12 on
+resettlement) were triggered by the project which was classified as category B. An
+Environmental Impact assessment for the Kounoune plant was prepared and released to the
+public, together with a detailed Environmental Policy Framework and Resettlement Policy
+Framework for the rehabilitation and maintenance activities originally included in the
+project. To mitigate the potential impact on air quality, the company has implemented
+mitigation measures and undertaken continuous air quality monitoring which have shown
+that air quality standards have been respected by the Kounoune plant. IFC indicated that
+previous dumping of oily solutions on the plants ground was being addressed by the
+installation of skimmers in the decantation system. The only significant issue that came up
+during project implementation was related to the initial setting, under Government
+regulations, of a 500 meter buffer zone around the Kounoune plant. A subsequent hazard
+analysis by the Government recommended the reduction of this buffer zone to no more than
+40 meter. The IEG mission was informed that a temporary 200 meter requirement granted by
+the Government had now lapsed, but was able to ascertain during a visit to the plant that no
+encroachment is currently taking place in the expected new 40 m perimeter. It should be
+pointed out that, during its visit, the mission also witnessed significant air pollution currently
+taking place in the immediate vicinity of the plant as a result of the contiguous installation by
+SENELEC of its temporarily rented electrogen groups with a total capacity of 150 MW (see
+para. 1.1), which clearly do not meet the same standards. Kounoune’s management has
+repeatedly pointed out to SENELEC that significant gas emissions from the electrogen
+groups has in fact caused problems for the operation of the Kounoune turbines.
+
+3.8     FiduciaryAspects. Over the last two years of its implementation, the project’s
+financial management was rated unsatisfactory on account of inadequate management
+                                             13
+
+
+systems in the Project Implementation Unit (PIU) at the MEM and the incurrence of
+ineligible expenditures for about US$24,000. The latter was subsequently reimbursed by the
+Ministry of Finance. Audited financial statements were issued every year (without
+qualifications), although some reports were submitted with delay. As mentioned earlier,
+SENELEC’s procurement capacity remained weak throughout project implementation, which
+was a cause of significant delays. However, no major procurement issue and/or instances of
+misprocurement was reported.
+
+Achievement of the Objectives
+3.9     First Objective: Maintain and increase electricity supply. Achievement of this
+objective was modest overall. While the Kounoune power plant did ultimately add 67.5 MW
+to the country’s generating capacity (Outcome indicator 1), its commissioning was two years
+late and availability was lower-than-expected during the first two years of operation due to
+technical problems (see above). Furthermore, the increase in overall energy sales in the
+country (Outcome indicator 2) was somewhat less than anticipated – 1,868 GWh actual vs
+1,875 GWh expected in 2008. But most importantly, supply did not keep up with demand
+due to delays in the expansion of the country’s generating capacity (both in the form of
+rehabilitation of existing plants and of new IPPs) and lower-than-forecast operating
+efficiency of SENELEC’s existing assets, itself the result of insufficient maintenance. This
+led to widespread power shortages in the last years of the project’s implementation (see
+below). Whereas the project-funded expansion master plans (Intermediate Outcome Indicator
+3) were completed satisfactorily, their impact has been limited as the Government’s decision-
+making process for major investments in the sector has been extremely weak to this day, as
+discussed earlier in this report (paras. 1.10 and 1.11).
+
+3.10 Second Objective: Maintain and increase the reliability of electricity services.
+Achievement of this objective was negligible. Whereas interruption in electricity deliveries
+nationwide were expected to decrease from 14 GWh in 2004 to 8 GWh in 2007 (Outcome
+Indicator 3), undelivered energy increased dramatically towards the end of the project
+implementation period-- to 105 GWh in 2008, 88 GWh in 2009, 174 GWh in 2010, reaching
+a peak of 250 GWh in 2011, at the height of the country’s energy crisis (see Annex B, Figure
+1). These severe energy shortages can be traced to delays in needed generation investments
+and poor operational efficiency, themselves the result of SENELEC’s financial deterioration
+and poor investment planning and decision-making by the Government. Furthermore,
+technical and non-technical losses, which were expected to decrease from 17.5 percent in
+2004 to 15.5 percent in 2007 (Outcome Indicator 5), had instead risen to 21.4 percent by
+2010.
+
+3.11 Third Objective: Reduce the cost of electricity services. Achievement of this
+objective was negligible. The expected 7 percent reduction in SENELEC’s variable costs of
+generation (Outcome Indicator 4) did not materialize; instead, SENELEC’s costs increased
+by 50 percent between 2004 and 2010, largely due to the sharp increase in the price of fuel
+and the lack of maintenance of its aged facilities.
+
+3.12 Fourth Objective: Enhance the performance of key energy sector institutions.
+Achievement of this objective was modest overall. A number of actions/studies were
+                                             14
+
+
+included in the project to support institutional strengthening of the sector. These included:
+(a) setting up of an M&E system for the energy sector (Outcome Indicator 6); (b) setting up
+of a new electricity tariff mechanism (Outcome Indicator 7); (c) adoption of a training
+program for staff of SENELEC, MEM and the Commission de Régulation du Secteur de
+l’Electricité, Senegal’s Regulatory Commission for Electricity Sector (Outcome Indicator 8);
+(d) implementation of PPP arrangements for SENELEC (Outcome Indicator 9); (e)
+preparation of Master Plans for generation, transmission and distribution (Intermediate
+Outcome Indicator 3); and (f) preparation of a communication plan for SENELEC
+(Intermediate Outcome Indicator 4).
+
+3.13 While most of these actions were at least partially completed, they carried more form
+than substance and their actual impact was limited at best. In particular, the master plan for
+generation was prepared but has been largely ignored in the Government’s actual investment
+decision-making process. Training plans were prepared but actual training activities were
+limited to a few courses and the purchase of IT equipment, none of which benefited the
+Regulatory Commission for Electricity Sector. While the tariff setting mechanism was
+reformed twice during project implementation, this was not sufficient to spare SENELEC
+from severe financial difficulties (para. 1.7). A possible exception to this bleak picture are
+the project-funded studies conducted, under action (d) above, by RTE, a consulting firm,
+(France) on the unbundling of SENELEC. Very extensive work was carried out on that front,
+between 2007 and 2009, with close involvement of SENELEC’s staff, and a plan for the
+accounting separation of the company’s three main functions actually completed, with a view
+to ultimately transform SENELEC into a holding company with three subsidiaries.
+Implementation of this plan was however halted upon the arrival of the new Government in
+the spring of 2012 and it remains to be seen whether it will ultimately be followed through.
+The bottom line is that the project, overall, contributed only very modestly to enhancing the
+performance of the sector’s institutions, particularly SENELEC, whose steadily deteriorating
+finances have been at the root of the sector’s deepening crisis, as described earlier in this
+report.
+
+Efficiency
+3.14     The ex-post ERR for the Kounoune plant was calculated at 14 percent in the ICR,
+based on actual costs and the plant’s operation record to date, and generally conservative
+assumptions regarding future operation, fuel costs and losses (see Annex B, Table 3). This
+compares to the ex-ante ERR of 26 percent estimated at appraisal. But the ICR calculation is
+based on estimating revenues at retail tariffs of about US$0.18cents per kWH, which is much
+lower than current tariffs averaging about US$0.24 – and even this level may not truly reflect
+true economic costs since SENELEC has been receiving significant budgetary transfers. In
+any event, the ERR for an individual plant is not very meaningful as it primarily reflects the
+adequacy of tariffs used as proxy for revenues in the calculation. More meaningful is the fact
+that the Kounoune plant was undeniably part of the least-cost generation sequence, as
+confirmed by planning studies carried out by specialized consultants and confirmed in the
+more recent McKinsey analyses carried out in the context of the “Takkal Plan” (para. 1.11).
+But efficiency of the project as a whole can only be rated as Modest, considering the non-
+implementation of many IDA-funded activities, delays in commissioning the plant, and the
+cancellation of 60 percent of the IDA Credit.
+                                               15
+
+
+Ratings
+3.15 Outcome. Overall outcome of the project is rated Unsatisfactory. While its
+objectives were highly relevant to the sector’s circumstances at the time of approval, the
+project’s design was modest, the achievement of its objectives was modest or negligible, and
+efficiency was modest, with 60 percent of the IDA credit ultimately cancelled at closing. The
+Kounoune power plant component did reach completion, albeit with some delays, and is now
+providing reliable energy to the grid, in spite of operational problems in the early years and
+still pending contractual issues. While it can be argued that such completion contributed to
+demonstrate the feasibility and benefits of IPP arrangements in the country, the fact of the
+matter is that Kounoune’s completion, in and of itself, did not significantly help in resolving
+the sector’s deep-seated structural problems, which only worsened during implementation of
+the project and persist to this day.
+
+3.16      Risk to Development Outcome. This risk is High as any institutional development
+achieved under the project, and any possible future improvement in the supply and reliability
+of electricity services in Senegal, will continue to be jeopardized until SENELEC’s finances
+and sector governance issues are addressed effectively. As discussed earlier in this report,
+this will require, inter alia, resolute Government actions both on the tariff front and in
+reforming the investment planning process. Any hope of attracting further private investment
+in the sector, whether through IPPs or otherwise (e.g., through private involvement in
+SENELEC itself), will also be negated if SENELEC’s finances are not strengthened and if
+pending contractual issues with the Kounoune Power Company are not resolved. Due to the
+latter, IFC has in fact set loss reserves for its loan.
+
+3.17 Bank performance. The overall effectiveness of the Bank’s strategy in the sector
+over the last 10 years or so has been discussed in Chapter 2 of this report. Bank performance
+under the Electricity Sector Efficiency Enhancement project specifically is rated as
+Unsatisfactory, both at Entry and during Supervision. Quality at entry suffered from the fact
+that the project actually approved was only a truncated part of a much larger project which
+was supposed to cover the whole Phase 1 of the sector’s long-term investment program. The
+Bank clearly misjudged the likelihood that the rest of the program could be financed in short
+order by IDA 14 resources (see para. 3.1) and the approved project ended up fundamentally
+unbalanced as a result, with policy objectives which were clearly too ambitious for the
+relative small size of the project. Furthermore, the critical issue of sector finances was hardly
+addressed in the project’s design, other than through a weak requirement that a new tariff
+system be set up (with little details on its implications) and the imposition of financial
+covenants based on overoptimistic financial forecasts. At a practical level, the Bank should
+have never agreed to have the PIU located in the MEM whereas the bulk of the project’s
+components was under SENELEC’s responsibility. This led to coordination problems
+throughout implementation and weak ownership of the project by SENELEC. On the bright
+side, quality at entry for the Kounoune plant was good, with one possible exception: IFC
+agreed to have responsibility for fuel purchase transferred at the last minute from the
+sponsors to SENELEC, as a result of a specific request by SENELEC’s manager. This
+proved to be a mistake as it led to subsequent serious disagreements on the quality of the fuel
+provided to the plant, which the private sponsors blamed for the technical problems which
+affected the plant turbines in the first two years of operation.
+                                               16
+
+
+3.18     Government stakeholders indicated to the IEG mission that Bank supervision was
+somewhat hands off and unresponsive in the first two years of the project. This changed with
+the relocation of the task team to Dakar in 2007, which ensured a closer, practically day-to-
+day, communications with Senegalese interlocutors. While the project was not formally
+restructured, two major shifts took place: the lack of emphasis on critical policy issues was
+addressed by the Bank’s approval in 2008 of a major policy-based operation; the Energy
+Sector Recovery DPC (the object of a parallel assessment in this report). The latter provided
+a more logical and potentially more effective channel for the Bank to pursue sector issues,
+although the DPC had itself major flaws and did not prove effective in that regard (see
+Chapter 4). The second major change was the substitution, late in the game, of original
+transmission and distribution investments by generation rehabilitation investments (para.
+3.5). In retrospect, there are questions as to whether such substitution was wise: the new
+investment (in the rehabilitation of unit 302 in the Cap des Biches plant) was clearly not
+ready for implementation and delays in bidding ultimately led to the cancellation of that
+component. Furthermore, the technical justification for the rehabilitation itself is now in
+doubt as SENELEC subsequently decided to re-rate unit 302, based on an operational audit
+carried out by EDF. Finally, supervision ratings were clearly overoptimistic throughout
+project implementation, with Development Objectives ratings staying in the satisfactory
+range up to the very moment when 60 percent of the credit had to be cancelled in 2010.
+
+3.19     Borrower performance. Borrower performance was Unsatisfactory overall, both
+on the Government and the Implementing agency sides. As mentioned earlier, the
+Government unwisely insisted on having the PIU located at MEM instead of SENELEC.
+During the earlier part of the project, MEM (in fact the Minister himself) essentially micro-
+managed SENELEC’s part of the project, leading to a lack of project ownership by the latter.
+On the policy side, the Government lacked an overall strategy to address the sector’s deep-
+seated structural problems. This was exacerbated by a lack of continuity in key policies (e.g.
+on tariffs and budget transfers) and long-term investment decisions (particularly for
+generation), with key orientations revisited, or even overturned, each time a new Energy
+Minister came on board and after the most recent Government change in 2012.
+
+3.20 The ownership of the project by the main implementing agency, SENELEC,
+remained weak throughout the project, initially because of the poor dialogue between the
+Bank and SENELEC’s management and later because both the Bank’s and SENELEC’s
+focus turned to alleviating the sector’s short-term crisis and to meeting the conditions of the
+Energy Sector Recovery DPC approved in 2008.
+
+3.21 Monitoring & Evaluation. Notwithstanding the fact that the PIU was unwisely
+located in MEM instead of SENELEC, baseline data for selected key technical indicators
+were available and the monitoring system was simple and based on existing data routinely
+compiled by SENELEC. But for non-technical/physical indicators, indicators/targets were
+either too vaguely defined (e.g. review of existing tariff mechanism, adoption of a training
+program, implementation of PPP arrangements) to promote real accountability, or
+emphasized form rather than substance (completion of a communications plan, completion of
+investment master plans) so that the real intent of the conditions was open for different
+interpretations. Progress was discussed on a regular basis between the Bank team and
+counterparts, which was made easier by the relocation of the task team to Dakar in 2007. In
+                                               17
+
+
+retrospect, one particular indicator, the increase in electricity sales, was ill-chosen and
+essentially meaningless in and of itself since it did not encompass the sector’s ability to meet
+a fast-growing energy demand. In the event, sales targets were almost met even as the
+country faced growing power shortages and the sector was in the midst of a growing crisis.
+All in all, M&E quality (including both design and implementation) is rated Modest.
+
+
+
+4. Energy Sector Recovery Development Policy Credit –
+Detailed Assessment
+Objectives, Design, and Relevance
+4.1     Project Genesis. As discussed earlier in this report, the improvement in the energy
+sector’s situation which had been expected when the Bank approved the Electricity Sector
+Efficiency Improvement project in 2005 did not materialize. Indeed, it only got worse as
+SENELEC’s finances deteriorated in 2006 and 2007 to the point of becoming a huge drain on
+the Government’s budget and weakening the country’s economic growth (down to 2.3
+percent in 2006). Whereas the 2005 operation had very little policy content, the DPC
+approved in 2008 was designed to fill that gap by addressing the key policy issues at the root
+of the sector’s woes, primarily in the electricity sector but also in the petroleum sector, where
+the state-controlled refinery, SAR, was also facing financial difficulties.
+
+4.2      The project objectives, as stated in the Program Document, were to “ensure a
+sustained and sound long-term development of electricity services and supply of petroleum
+products in Senegal”. More specifically the operation covered three policy areas: (a)
+restoring the financial viability and sustainability of the electricity and hydrocarbon sub-
+sectors; (b) improving the governance of the electricity and hydrocarbon subsectors; and (c)
+ensure the sustainable long-term development of Senegal’s energy sector. These broad
+objectives and policy areas of focus were, and remained throughout project implementation,
+highly relevant and consistent with the Bank’s Country Assistance Strategy (CAS) for 2007-
+2010, which emphasized the promotion of a competitive investment climate, the maintenance
+and building of basic infrastructure, good governance, and the financial viability of public
+institutions.
+
+4.3     Project design. The DPC was designed as a two-tranche operation (US$56 million
+and US$26 million respectively) encompassing a large number of policy actions in each of
+the three policy areas: 7 in policy area 1 (4 of which in tranche 2); 7 in policy area 2 (5 of
+which in tranche 2); and 4 in policy area 3 (all of which in tranche 2). Some of these actions
+were appropriately specific and focused on the fundamental issues of the sector, such as the
+recapitalization of SENELEC, adjustments to electricity tariffs and the elimination of
+budgetary transfers to SENELEC. Some others addressed key issues such as the country’s
+long-term generation expansion choices, the reform of the tariff setting mechanism, and the
+preparation of a long-term investment plan for SAR, but only through formalistic
+requirements (mere completion of studies). Others, such as the studies on the unbundling of
+SENELEC and on the private sector’s participation in the energy sector, while substantive in
+                                              18
+
+
+principle, were premature in the context of the sector’s immediate crisis. And others were
+either of lower priority, like the creation of specific committees within SENELEC, the
+completion of an audit of SENELEC’s internal audit function (sic), or somewhat
+disconnected from the operation’s main focus (to resolve the sector’s crisis), like the
+preparation of action plans for renewable energies and demand-side management. In the end,
+the number of actions was clearly excessive, and some of them had no immediate connection
+to the fundamental issues the sector was facing in 2008. Most importantly, the expected
+speed of improvement in SENELEC’s finances was probably unrealistic for a two-year
+operation and the much more ambitious scope of the second-tranche conditions was out of
+balance with its financial weight (30 percent).
+
+4.4     All in all, the design of the project was only modestly relevant since the project, as
+the ICR appropriately states, “failed to take into account the Bank’s recommendations
+regarding good practice for the application of conditionality in DPCs such as: (i) reinforcing
+ownership of the MEM and SENELEC; (ii) customizing the accountability framework and
+modalities of Bank support to country circumstances and in particular the balancing of
+conditionalities and financing between tranches; (iii) choosing only actions critical for
+achieving results as conditions for disbursements; and (v) choosing the right instruments to
+effect the changes in the financial situation of SENELEC”.
+
+Implementation
+4.5     The overambitious timeline of key actions required under the DPC, particularly
+regarding the improvement in the electricity sector’s finances, would have made meeting the
+project objectives difficult under any circumstance. But the energy crisis of 2008, with oil
+prices spiking at US$147 per barrel in July 2008, hit SENELEC particularly hard given its
+primarily liquid fuel-based generation mix (fuel costs increased by as much as 26 percent
+between 2007 and 2008). Further the 2008 crisis affected Senegal’s economy and resulted in
+a significant deterioration of the country’s fiscal situation. These in turn weakened the
+Government’s commitment to implement the required actions, including tariff increases,
+required to turn around the sector’s finances. The second tranche was not disbursed and the
+corresponding funds (US$24 million) were cancelled because, as detailed below, most of the
+second tranche conditions were not, or only partially, met by the original closing date of
+December 31, 2010 (nor were they likely to be met had the closing date been extended by
+even a year).
+
+Achievement of the Objectives
+4.6     First Policy Area: restore the financial viability and sustainability of the
+electricity and hydrocarbon sub-sectors. Achievements in this policy area were negligible
+overall. SENELEC’s financial situation has grown steadily worse since 2008 and the
+company has required ever-larger budgetary transfers to stay financially afloat, in the
+absence of sufficient tariff increases (the last tariff increase dates back to 2009, after the
+Government had even implemented a tariff decrease, of 8 percent earlier in January2009, at a
+time when SENELEC was still in dire financial straits). More recently, in the context of the
+negotiation of the First Growth and Governance DPC, the Government has carried out
+several positive steps to strengthen SENELEC’s finances, including partial re-capitalization
+                                              19
+
+
+through debt restructuring and a cross-settlement of debts and arrears between the
+Government public agencies and SENELEC, but their effect will remain limited short of
+more radical actions to increase revenues through tariff hikes and to decrease operating costs
+through improvements in operating efficiency and lower fuel costs. Estimated financial
+results for 2012 show that the company will incur a loss of 2 billion FCFA (US$4 million)
+after a budgetary transfer of 130 billion FCFA (US$260 million). Related second tranche
+specific conditions (minimum debt-service coverage ratio of 1.2, timely Government
+transfers to allow SENELEC to achieve its Maximum Authorized Revenue under the tariff
+formula set by the Regulatory Commission for the Electricity Sector and elimination of all
+budgetary transfers by 2009) were not met. And while a tariff study was completed with the
+help of Office National de l'Electricité (Morocco) as another second tranche condition, its
+recommendations were never implemented.
+
+4.7     On the hydrocarbon side, whereas SAR was recapitalized though the transfer of 34
+percent of its capital from the Government to private investors (the Bin Laden group of Saudi
+Arabia), making it a majority privately-held company, very limited information has been
+made available to the Bank on the evolution of SAR’s finances, including the level of
+remaining Government subsidies. Indeed the question of the refinery’s long-term economic
+and financial viability remains open. A study on the subject is planned under the
+Government’s Letter of Development Policy prepared in connection with the just-approved
+First Governance and Growth Support DPC. Furthermore the IEG mission was informed that
+Total (France), the other private investor, may have rescinded its management contract for
+the refinery.
+
+4.8     Second Policy Area: improve the governance of the electricity and hydrocarbon
+sub-sectors. Achievements under this policy area were modest. While some of the
+conditions listed under this policy area were met or partially met, such as the adoption by
+SENELEC of new procurement procedures, the study of SENELEC’s unbundling, or the
+preparation of a draft law to create a Hydrocarbon Regulatory Agency, they either carried
+more form than substance or were not directly connected to the priority reforms needed to
+resolve the sector’s crisis, as highlighted earlier (para. 4.3). As such, they made only a
+modest contribution to the attainment of the project’s objectives. Since 2008, sector
+governance has been characterized by a weak delineation of the respective roles of MEM and
+SENELEC, and constant political interference in the management of SENELEC. In fact, the
+issue of the sector’s governance remains very much alive to this day, and was a focus of the
+dialogue carried out during the negotiation of the just-approved First Governance and
+Growth Support DPC, including through the preparation and implementation of a
+performance contract for SENELEC.
+
+4.9     Third Objective: ensure the long term development of the energy sector.
+Achievements under this policy area were also modest. The second tranche conditions
+related to renewables and demand-side management (DSM) were partially met with the
+presentation to Parliament of a regulatory framework to facilitate the development of new
+and renewable energy sources and the completion of a consultant study on DSM; but as
+mentioned earlier, their relevance to the core objectives of the project was limited. On the
+more critical issue of long-term investment choices in the sector, the completion of the
+master plans for electricity generation, transmission and distribution were formalistically
+                                               20
+
+
+met, but did little to help streamline the investment decision-making process in the sector,
+which remains fundamentally flawed (see para. 1.12), while the very viability of SAR over
+the long-run is still open to question (see above).
+
+Ratings
+4.10 Outcome. The overall outcome of the project is rated Unsatisfactory. While its
+objectives were, and remain, highly relevant to the sector’s on-going crisis, the DPC was
+poorly designed and its objectives were modestly or negligibly achieved, forcing the
+cancellation of the operation’s second tranche. The sector’s situation not only did not
+improve with the project but in fact has kept worsening to this day. As discussed earlier in
+this report, any improvement in future years will require forceful actions by the Government,
+be it on the tariff front or on the investment front, beyond mere declarations of intention.
+
+4.11     Risk to Development Outcome. This risk is assessed as High, as the dependence of
+the electricity sector on the budget has only gotten worse over recent years, reaching an
+unprecedented level of 1.8 percent of GDP in 2012 and depriving other sectors of the
+economy of desperately needed public resources. Furthermore, the sector is not immune
+from the impact of another possible hike in international oil prices given its continued
+dependence on liquid fuel-based generation, at least in the short-term, and the Government‘s
+apparent lack of inclination to reflect such future cost increases in electricity prices. While
+greater participation by the private sector in the sector could potentially mitigate these risks,
+such participation on a large scale is unlikely to be forthcoming as long as the sector’s
+finances remain so precarious.
+
+4.12      Bank performance. The overall effectiveness of the Bank’s strategy in the sector
+over the last fifteen-twenty years has been discussed in Chapter 2 of this report. Bank
+performance under the Energy Sector Recovery DPC specifically is rated as Unsatisfactory
+overall. Quality at Entry was Unsatisfactory: the design of the operation was flawed, as
+discussed earlier (para.4.3), and the Bank clearly misjudged the Government’s willingness to
+take the necessary tariff actions in the face of a difficult international environment. Actually,
+based on the experience of the earlier Energy Sector Adjustment Credit approved in 1998
+(which also ended in failure), the Bank should have been more skeptical of formalistic
+commitments included in the Credit Agreement and Letter of Development Policy, in the
+face of a relative lack of substantive, concrete upfront actions before the disbursement of the
+first tranche.
+
+4.13     Bank Supervision was Moderately Unsatisfactory. Supervision was close on the
+electricity side, thanks to the location of the task team in Dakar, and the policy dialogue was
+supported by comprehensive and frequent aide-memoires, management letters and meetings
+at the highest level. In particular, the team provided critical inputs into the preparation (by
+Government consultants McKinsey) of the thorough diagnostic that led to the ground-
+breaking “Plan Takkal”. Yet there was some ambiguity in the Bank’s stance, as discussed
+earlier in this report (para.2.4). In retrospect, a stronger message, particularly on issues of
+tariffs and investment choices, may have better sensitized the Government to the urgency of
+accelerating reforms. In particular, it is difficult to understand how the Bank did not react
+more strongly to the tariff decrease implemented by the Government in 2009. Further, Bank
+                                              21
+
+
+supervision of the hydrocarbons component of the operation was much less intense and
+consistent than for the power component. In particular, the situation in SAR appears to have
+been neglected by the Bank, on the grounds that SAR had now become a majority private
+company (even though Government subsidies are reported to continue to this day), and the
+dialogue on the merits of creating a regulatory commission covering the whole energy sector
+(versus the hydrocarbons sub-sector only as planned under the DPC) was never very
+substantive. Finally, project supervision ratings were neither consistent nor realistic: IP was
+rated Moderately Satisfactory (but DO Moderately Unsatisfactory) until very late in the
+project’s life – when most of the second tranche conditions were clearly not being met.
+
+4.14     Borrower performance. Borrower performance was Unsatisfactory overall (for a
+DPC, Borrower performance conflates Government and Implementing Agency performance).
+Whereas the Government (primarily MEM and the Ministry of Finance) were closely
+involved in the preparation and implementation of the operation, commitment fluctuated,
+particularly with successive changes in Energy Ministers and government. Government
+commitment was weakest with regards to tariff adjustments, as increases during the project
+period were insufficient to eliminate budgetary transfers (which instead reached peak levels)
+and tariffs were even unwisely decreased on one occasion (in 2009). Lack of continuity in
+Government policies also affected key investment decisions, particularly regarding the
+generation mix, a critical factor in SENELEC’s ability to reduce its operating (fuel) costs.
+The Government can be commended for undertaking the first ever comprehensive and far-
+reaching diagnostic of the electricity sector, which led to the formulation of the “Takkal
+Plan” in 2011. Yet implementation of this plan has already lagged, and key elements of the
+Plan have been questioned by the new Government, without clear, practical, alternatives,
+being put forward.
+
+4.15 Monitoring & Evaluation. Notwithstanding the fact that there were too many
+conditions and that some of them were either premature or somewhat peripheral to the core
+objectives of the project (see para. 4.3), related key indicators were generally relevant to the
+conditions and measurable, with some caveats: e.g. the requirement to prepare a
+diversification strategy from oil to coal and new and renewable energies was too broadly
+worded to be meaningful. And the requirement for the preparation of master plans for
+generation, transmission and distribution was too focused on form versus substance. In both
+cases, these requirements were legally met with the mere completion of documents, but no
+provision was made for their implementation and/or Bank input into the actual
+recommendations of the studies. The conditions related to the strengthening of SENELEC’s
+finances were appropriately specific – albeit unrealistic in retrospect—but those related to
+SAR (recapitalization and preparation of an investment plan) were too vaguely worded to be
+meaningful and no provision was made as to their follow up in the event of a major change in
+ownership. All in all, M&E quality (including both design and Implementation) is rated
+Modest.
+                                              22
+
+
+5. Lessons Learned
+5.1    The following lessons can be derived from the Bank’s experience in the power sector
+of Senegal.
+
+5.2     Proper sequencing of sector policy dialogue and investment support is important
+for success when the two are closely connected. The viability and sustainability of the
+investment commitments for SENELEC strongly depended on the sector policy and strategy
+as well as the financial restructuring of the utility. The absence of a sound policy framework
+was a factor in the failure of the Electricity Sector Efficiency Enhancement project. When the
+Bank finally addressed key policy issues under a heavily front-loaded DPC in 2008, it was
+too accommodating and complacent in its implementation follow up. The most recent Sector
+Investment Loan, approved in 2012, is similarly light on institutional and policy content
+while the energy policy content of the recently-approved Governance and Growth DPC
+appears to neglect certain urgently needed reforms, including on the tariff front.
+
+5.3     The Bank has an important role in ensuring that investment decisions are made
+based on technical, financial, and economic merits. This is particularly true for generation
+investments in a country like Senegal, which has limited options given its small system size
+and the absence of sizeable domestic energy resources. The Bank risks credibility if it takes,
+or is perceived to take, a dogmatic position against coal-based power where it is the least-cost
+option (after accounting for environmental externalities), at least in the medium-term, and a
+potentially critical way to significantly reduce generation costs and turn around sector
+finances.
+
+5.4    Realistic policy requirements and consistent messages are important to
+borrowers. Over the past decade, the Bank’s stance has fluctuated between a sometimes
+overly demanding agenda (like in the “letter” of the 2008 Energy DPC) and an excessively
+accommodating position when it came to the government delivering on its key commitments
+(such as on tariffs), all in the context of unwavering and growing financial support. As a
+consequence, it may have been seen by counterparts as sending mixed messages on the
+importance and urgency of actual sector reform.
+
+5.5     Where a country’s political timetable is liable to bring significant shifts in policy,
+a keen appreciation of political economy is necessary. Twice, the Bank did not sufficiently
+appreciate the likely implications of scheduled (democratic) changes in government, first in
+2000 and more recently in 2012. In the first instance, the new government hardened its
+position on SENELEC’s privatization, possibly contributing to its failure; and in the second
+instance, the new government appears to have taken a different approach to investment
+planning and tariff policy, revisiting key tenets of the “Takkal Plan.”
+
+5.6     The Bank has much to gain from locating key operational staff in the field,
+particularly where a continuous and intense dialogue is required, such as Senegal’s
+energy sector. But field location will only yield benefits if human and budget resources are
+made available; otherwise the teams will become overloaded and key areas requiring
+specialized expertise (like the hydrocarbon subsector in Senegal) will end up unattended.
+                                               23
+
+
+5.7    In addition, several lessons specific to the two projects assessed in this report arise.
+
+5.8     Project implementation requires suitable institutional arrangements. In the first
+project, the institutional arrangements and the location of the PIU were not designed in
+accordance with the roles and responsibilities of the respective entities: MEM should have
+played the role of coordinating entity (except for the few activities directly pertaining to it)
+and not that of an implementing unit, when most of the project activities required the
+involvement of SENELEC for their execution. This lesson has been reflected in the design of
+the latest Sector Investment Loan to Senegal (the Electricity Sector Support project approved
+in 2012).
+
+5.9     A comprehensive and realistic analysis of sector finances is the best foundation
+for financial covenants that will be met. The analysis should reflect realistic assumptions
+regarding the timing and scope of future reform steps regarding tariff changes, financial
+restructuring, as well as realistic scenarios for future increases in international oil prices,
+particularly for a system so dependent on liquid fuel imports like Senegal’s. Because it was
+not done in the first project, the financial covenants were essentially meaningless and bound
+not to be complied with.
+
+5.10 Project success is handicapped at the start if it is not ready for implementation
+by credit effectiveness. In the first project, the preparation of key components was not fully
+completed until much later in the project’s life, leading to delays in bidding and serious
+implementation delays, and resulting in the ultimate cancellation of a large part of the credit.
+In fact, the Project Implementation Manual was not even finalized until more than a year
+after the project was started. Compounding the problem was the fact that procurement
+training of key SENELEC staff was insufficient, leading to procurement inefficiencies.
+
+5.11 The outcome of IPP projects cannot be viewed in isolation of broader sector
+outcomes. While the generally satisfactory completion of the Kounoune project provided
+needed additional capacity to the system at least-cost and served as a demonstration of the
+feasibility and benefits of IPP arrangements in Senegal, its outcome is being jeopardized by
+the recurrent financial difficulties in the sector: the technical problems that marred the plant
+in the first two years were partly caused by poor fuel quality, itself the result of SENELEC’s
+strained cash situation. The latter also led to delays in energy payments to Kounoune. More
+broadly, the dire financial situation of the sector is a disincentive to private investors
+investing on a large scale in future IPP projects.
+
+5.12 Inattention to the good practice principles for the application of conditionality
+can result in policy-based operations that are unbalanced and lack focus. In the second
+project, most of the substantive conditions were back-loaded to the second tranche whereas
+the first tranche accounted for 70 percent of the credit. Furthermore, the credit included an
+excessive number of conditions, some of which were vague and/or largely formalistic,
+whereas others were disconnected from the core objectives of the project.
+
+5.13 In designing policy-based operations, a realistic sense of the pace of reform will
+take account of political economy considerations. The DPC was clearly too ambitious
+regarding the expected timeline for key reform steps, including the enactment of needed tariff
+                                               24
+
+
+increases and the elimination of budgetary transfers to the sector. It attempted to achieve too
+many things at the same time instead of focusing on key actions required to address the core
+roots of the sector crisis – and following up on their actual implementation.
+                                                  25
+
+
+References
+Besant-Jones, John. 2006. “Reforming Power Markets in Developing Countries: What Have We Learned?”
+        Energy and Mining Sector Board Discussion Paper No. 19, World Bank, Washington, DC.
+IEG. 2003. Power for Development. A Review of the World Bank Group’s Experience with Private
+        Participation in the Electricity Sector. Washington, DC: World Bank.
+SENELEC. 2012. “Resultats Estimes 2012.” Dakar, Senegal.
+World Bank. 2003. “Implementation Completion Report (IDA-30690) on a Credit in the Amount of US$
+       100 million Equivalent to the Republic of Senegal for an Energy Sector Adjustment Operation.”
+       Report no. 26077. Washington, DC.
+World Bank. 2005. “Project Appraisal Document on a Proposed International Development Association
+       Credit in the Amount of SDR 10.5 million (US$ 15.7 million Equivalent) to the Republic of
+       Senegal; on a Proposed International Development Association Partial Risk Guarantee in the
+       Amount of up to SDR 7.2 million to Compagnie Bancaire de l’Afrique Occidentale; on a Proposed
+       International Finance Corporation “A” Loan in the Amount of up to Euros 17 million (US$ 22
+       million Equivalent) to Kounoune Power S.A. for an Electricity Sector Efficiency Enhancement
+       Program.” Report no. 30320-SN. Washington, DC.
+_______. 2007. “International Development Association and International Finance Corporation Country
+       Assistance Strategy for the Republic of Senegal for the Period FY07-FY10.” Report no. 36608-
+       SN. Washington, DC.
+_______. 2008. “Program Document for a Proposed Energy Sector Recovery Development Policy Credit to
+       the Republic of Senegal in the Amount of SDR 49.1 million (US$ 80 million Equivalent).” Report
+       no. 42952-SN. Washington, DC.
+_______. 2009. “International Development Association and International Finance Corporation Country
+       Assistance Strategy Progress Report for the Republic of Senegal.” Report no. 48600-SN.
+       Washington, DC.
+_______. 2011a. “Implementation Completion and Results Report (IDA-40600) on a Credit in the Amount
+       of SDR 10.5 million (US$ 15.7 million Equivalent) to the Republic of Senegal for an Electricity
+       Sector Efficiency Enhancement Project Phase 1, APL-1.” Report no. ICR-00001832. Washington,
+       DC.
+_______. 2011b. “Implementation Completion and Results Report (IDA-44670) on a Credit in the Amount
+       of SDR 49.1 million (US$ 80 million Equivalent) to the Republic of Senegal for an Energy Sector
+       Recovery Development Policy Credit.” Report no. ICR-00001833. Washington, DC.
+_______. 2012a. “Program Document for the First Governance and Growth Support Credit in the Amount
+       of SDR 35.8 million (US$ 55 million Equivalent)to the Republic of Senegal.” Report no. 73487-
+       SN. Washington, DC.
+_______. 2012a. “Project Appraisal Document on a Proposed Credit in the Amount of SDR 56.3 million
+       (US$ 85 million Equivalent) for an Electricity Sector Support Project (ESSP).”Report no. 65901-
+       SN. Washington, DC.
+                                                   27                                          ANNEX A
+
+
+Annex A. Basic Data Sheet
+ELECTRICITY SECTOR EFFICIENCY ENHANCEMENT (APL)
+(CREDIT 4060-SE)
+Key Project Data (amounts in US$ million)2
+                                              Appraisal             Actual or          Actual as % of
+                                              estimate           current estimate     appraisal estimate
+Total project costs                             16.6                   6.9                  42%
+Credit amount                                      15.7                6.2                     39%
+Co-financing                                        0                     0                    0%
+Cancellation                                       n/a                 9.5                     61%
+
+
+Cumulative Estimated and Actual Disbursements
+                                           FY06          FY07     FY08        FY09     FY10          FY11
+Appraisal estimate (US$M)                   4.00         11.00    15.70       15.70    15.70         15.70
+Actual (US$M)                               3.31          3.31     3.31       3.61      4.50         5.49
+Actual as % of appraisal                   82.75         30.09    21.00       21.00    28.66         34.96
+Date of final disbursement:               May 13, 2011
+
+
+Project Dates
+                                                      Original                          Actual
+Concept Review                                       10/21/2003                       10/21/2003
+Negotiations                                         03/21/2005                       03/21/2005
+Board approval                                       05/17/2005                       05/17/2005
+Signing                                              06/28/2005                       06/28/2005
+Effectiveness                                        12/09/2005                       12/09/2005
+Closing date                                         01/31/2009                       12/31/2010
+
+
+
+
+2
+    The data only includes IDA supported part of the project.
+ANNEX A                                  28
+
+
+Staff Inputs (staff weeks)
+Stage of Project Cycle               Staff Time and Cost (Bank Budget Only)
+                                                                US$ Thousands (including
+                                  No. of staff weeks
+Lending                                                        travel and consultants costs)
+           FY01                                                            0.34
+           FY02                           1                                2.94
+           FY03                          16                              110.71
+           FY04                          20                              155.07
+           FY05                          58                              345.06
+                         Total:          95                              614.12
+Supervision/ICR
+           FY06                          38                              131.74
+           FY07                          38                              181.29
+           FY08                          28                               90.07
+           FY09                           6
+                         Total:          110                             403.10
+
+
+Task Team Members
+
+               Names                                   Title                         Unit
+
+Lending
+Thanh Lu Ha                         Senior Program Assistant                       AFTEG
+Ignatius A. Menezes                 Consultant                                     AFRVP
+
+Supervision/ICR
+Fabrice Karl Bertholet              Sr. Financial Analyst                          AFTEG
+Moez Cherif                         Sr. Energy Econ.                               AFTPC
+Bourama Diaite                      Senior Procurement Specialist                  AFTPC
+Anta Tall Diallo                    Program Assistant                              AFCF1
+Saidou Diop                         Sr. Financial Management Spec.                 AFTFM
+Philippe J-P. Durand                Program Coordinator                            AFTEG
+Alain Ebobisse                      Chief Investment Officer                       CNGIV
+Maimouna Mbow Fam                   Sr. Financial Management Spec.                 AFTFM
+Kwawu Mensan Gaba                   Lead Energy Specialist                         SASDE
+Stephan C. Frederic Garnier         Senior energy Specialist                       AFTEG
+Yhanh Lu Ha                         Senior Program Assistant                       AFTEG
+Fatouma Toure Ibrahima Wane         Senior Financial Specialist                    AFTEG
+Amadou Konare                       Sr. Environmental Spec.                        AFTEN
+Michel E. Layec                     Lead Energy Economist                          LCSEG
+Sunil W. Mathrani                   Senior Energy Specialist                       AFTEG
+Cheikh A.T. Sagna                   Consultant                                     AFTCS
+Ibrah Rahamane Sanoussi             Procurement Specialist                         AFTPC
+Awa Seck                            Senior Economist                               AFTEG
+Seynabou Thiaw Seye                 Program Assistant                              AFCF1
+                                            29                                      ANNEX A
+
+
+                 Names                                    Title                        Unit
+Fily Sissoko                          Lead Financial Mgment Spec.                   AFTFM
+Pierre C. Viellescazes                Consultant                                    MNSED
+Eric Jean Yoboue                      Senior Procurement Spec.                      AFTPC
+Noureddine Bouzaher                   ICR Primary Author/Consultant                 AFTEG
+
+
+
+
+Other Project Data
+Senegal:
+Follow-on Operations
+Operation                                    Credit no.       Amount            Board date
+                                                            (US$ million)
+
+Energy Sector Recovery Development Policy     4467-SE             80.0         05/21/2008
+Credit
+
+
+
+
+ENERGY SECTOR RECOVERY DEVELOPMENT POLICY (CREDIT 4467)
+Key Project Data (amounts in US$ million)
+                                        Appraisal          Actual or         Actual as % of
+                                        estimate        current estimate    appraisal estimate
+Total project costs                       80.0               56.07                70%
+Loan amount                                 80.0             56.07                70%
+Cancellation                                 -               23.9                 30%
+
+
+Cumulative Estimated and Actual Disbursements
+                                                     FY09                      FY10
+Appraisal estimate (US$M)                            56.0                       80.0
+Actual (US$M)                                        56.1                       56.1
+Actual as % of appraisal                             70%                        70%
+Date of final disbursement: September 25, 2008
+ANNEX A                                   30
+
+
+Project Dates
+                                             Original                        Actual
+Concept Review                              03/07/2007                     03/07/2007
+Negotiations                                05/16/2008                     05/16/2008
+Board approval                              06/19/2008                     06/19/2008
+Signing                                     06/30/2008                     06/30/2008
+Effectiveness                               09/05/2008                     09/05/2008
+Closing date                                03/30/2010                     12/31/2010
+
+
+
+
+Staff Inputs (staff weeks)
+Stage of Project Cycle                Staff Time and Cost (Bank Budget Only)
+                                                                 US$ Thousands (including
+                                   No. of staff weeks
+Lending                                                         travel and consultants costs)
+               FY07                                                        23.95
+               FY08                                                       337.58
+                          Total:                                          361.53
+
+
+Task Team Members
+                  Names                                 Title                         Unit
+
+Lending
+Michel Layec                               Lead Energy Specialist (TTL)             AFTEG
+Stephan Garnier                                    Power Engineer                   AFTEG
+Iradj A. Alikhani                                    Consultant                     AFCTZ
+Mourad Belguedj                                      Consultant                     SEGOM
+Fabrice Karl Bertholet                          Sr. Financial Analyst               AFTEG
+Sidi Mohammed Boubacar                         Lead Operations Officer              MNC03
+Renee M. Desclaux                              Senior Finance Officer               CTRFC
+Kwawu Mensan Gaba                              Lead Energy Specialist               SASDE
+Bertrand Loiseau                                  Senior Economist                  ENVCF
+Sunil W. Mathrani                              Senior Energy Specialist             AFTEG
+Awa Seck                                          Senior Economist                  AFTEG
+Seynabou Thiaw Seye                               Program Assistant                 AFCF1
+Boris Enrique Utria                         Country Operations Adviser              LCC5C
+                                     31                                  ANNEX A
+
+
+Supervision
+Stephen Garnier                           Sr. Power engineer (TTL)        AFTEG
+Fabrice Karl Bertholet                      Sr. Financial Analyst         AFTEG
+Moez Cherif                                   Sr. Energy Econ             AFTEG
+Saodpi Diop                          Sr. Financial Management Spec        AFTFM
+Philippe J-P. Durand                        Program Coordinator           AFTEG
+Thanh Lu Ha                               Senior Program Assistant        AFTEG
+Fatouma Toure I. Wane                   Senior Financial Specialist       AFTEG
+Michel E. Layec                           Lead Energy Economist           LCSEG
+Seynabou Thiaw Seye                          Program Assistant            AFCF1
+Fily Sissoko                         Lead Financial Management Spec       AFTFM
+Pierre C. Vieillescazes                          Consultant               MNSED
+Eric Jean Yoboue                      Senior Procurement Specialist       AFTPC
+Noureddine Bouzaher                  ICR Primary Author/Consultant        AFTEG
+
+
+Other Project Data
+Senegal:
+Follow-on Operations
+                                                       Amount
+Operation                              Credit no.                     Board date
+                                                     (US$ million)
+
+Electricity Sector Support Project    IDA-51450           85.0        07/01/2012
+                                                                                            33          ANNEX B
+
+
+
+Annex B. Other Data
+Figure 1. Un-served Electricity Demand 1999-2011
+
+                    Unserved Electricity Demand 1999 - 2011
+     MWh
+     300000
+
+      250000
+
+      200000
+
+      150000
+
+      100000
+
+       50000
+
+            0
+                 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+
+
+Source: World Bank (2012). Project Appraisal Document for Senegal Electricity Sector Support Project.
+ANNEX B                                                         34
+
+
+
+
+Table 1. SENELEC's Historical Results (FCFA billion)
+
+                                    2000   2001   2002   2003    2004     2005   2006   2007   2008   2009   2010   2011   2012 *
+
+Sales revenues                       85     95    109    118     127       135    157    181    210    221    243    242    272
+Other sales and services rendered     -      -      -      -       -         5      5      5      6      7      8      8      7
+Energy/fuel related expenses        -51    -67    -66    -64     -70      -113   -160   -170   -215   -164   -228   -237   -288
+Gross margin                         34     28     43     54      57        44     53     36      8     71     20     13     -9
+Other revenues                        4      4      4     7        5        13      2      6      5      7      8     12     10
+Operating subsidy                     0      6      8     0        0        26     33     37     60     40     28    103    130
+General charges/external services   -24    -20    -20    -20     -20       -55    -73    -41    -36    -58    -52    -75    -98
+
+Personnel charges                   -13    -13    -14    -16     -18      -19    -21    -22    -23    -27    -28    -28     -26
+Earnings before interest, taxes,
+depreciation, and amortization        1      5     21     25      24        9     -6     15     14     34    -20     25       7
+Depreciation/amortization           -10    -10    -15    -16     -16      -20    -18    -20    -18    -23    -31    -21     -10
+Operating results                    -9     -5      6     9        8       -7    -23     -3     -1     13    -52      4      -3
+Financial charges                    -7    -11     -8    -11     -12       -8    -12     -7     -7     -6     -7     -9      -1
+Ordinary results                      -      -      -      -       -      -15    -36     -9     -9      6    -59     -6      -4
+HAO results                           -      -      -      -       -       11      3      3      2      0      4      0       2
+
+Net results                         -16    -17     -4     -2         -4    -4    -34     -6     -7     6     -55     -6      -2
+* preliminary
+                                                           35        ANNEX B
+
+
+
+Table 2. Economic and Financial Analysis – Kounoune Power Plant
+
+  Plant nominal capacity                    67.5   MW
+  Plant capacity factor                     70%
+  Generation                                414    GWh
+  Use                        1st year       70%
+                             2nd year       80%
+                             3rd year 
+                                      -20th 100%
+                                            18%
+  Station use & T&D losses
+  Average tariff                           18      Uscents/kWh
+  Estimated cost                           80      US$ Million
+  O&M                                      3%      of invest costs
+  Heavy Fuel Oil price                     70      US$/bbl
+  bbl                                      159     liters
+  Fuel use                                 250     gr/kWh
+ANNEX B                                                 36
+
+
+
+
+      Table 3. Ex-post Economic Rate of Return Calculation
+                                                                                      Net Sales   Net Sales NetBenefits
+                                                                    Station use T&D
+                      O&M Costs Fuel Costs Total Costs Generation
+          Invest. Costs                                                  Losses        (GWh)      (US$ M)    (US$ M)
+            (US$ M)    (US$ M)   (US$ M)    (US$ M)     (GWh)            (GWh)
+2006           16         0         0          16          0                0             0          0         -16
+2007           40         0         0          40          0                0             0          0         -40
+2008           24        2.4       32          58         290              52            238        43         -16
+2009                     2.4       36          39         331              60            272        49          10
+2010                     2.4       46          48         414              75            339        61          13
+2011                     2.4       46          48         414              75            339        61          13
+2012                     2.4       46          48         414              75            339        61          13
+2013                     2.4       46          48         414              75            339        61          13
+2014                     2.4       46          48         414              75            339        61          13
+2015                     2.4       46          48         414              75            339        61          13
+2016                     2.4       46          48         414              75            339        61          13
+2017                     2.4       46          48         414              75            339        61          13
+2018                     2.4       46          48         414              75            339        61          13
+2019                     2.4       46          48         414              75            339        61          13
+2020                     2.4       46          48         414              75            339        61          13
+2021                     2.4       46          48         414              75            339        61          13
+2022                     2.4       46          48         414              75            339        61          13
+2023                     2.4       46          48         414              75            339        61          13
+2024                     2.4       46          48         414              75            339        61          13
+2025                     2.4       46          48         414              75            339        61          13
+2026                     2.4       46          48         414              75            339        61          13
+2027                     2.4       46          48         414              75            339        61          13
+2028                     2.4       46          48         414              75            339        61          13
+PV, NPV (US$ Million)                        $391.92                                  $2,303.10   $414.56     $22.64
+IRR                                                                                                            14%
+                                          37                  ANNEX C
+
+
+Annex C. List of Persons Met
+SENELEC:
+Mr. Papa Dieng, General Manager
+Mr. Bakary Diop, Director of Studies
+Mr. Mustapha Ba, Head of Planning Dept.
+
+Ministry of Energy and Mines:
+Mr. Boudiene Diffe, Director of Cabinet
+Ms. Oumy Diop, Technical Advisor
+Mr. Daniel Sarr, Technical Advisor
+
+Ministry of Economy and Finance:
+Mr. Alhousseynou Diallo, Director of Cabinet
+Mr. Aliounae Ndong, Technical Advisor
+Ms. Wade Drame, Technical Advisor
+
+Regulatory Commission for Electricity Sector:
+Ms. Maimouna Seck, President
+Mr. Aloune Fall, former President, Consultant
+
+National Committee for Hydrocarbons:
+Mr. Abdoulaye Gueye, Permanent Secretary
+
+Permanent Secretariat for Electricity:
+Mr. Assane Diouf, Permanent Secretary
+
+Kounoune Power Company/Mitsubishi
+Mr. Claude-Pierre Lhoste, General Project Manager, Kounoune
+Mr. Michel Vincent, Plant manager, Kounoune
+
+Agence Francaise de Developpement:
+Mr. Anthony Dupont, Energy specialist
+
+International Monetary Fund:
+Ms. Valeria Fichera, Resident Representative in Senegal
+
+International Finance Corporation:
+Mr. Bertrand De La Borde, Infrastructure Manager, Africa
+Ms. Benadette Tabeko, Investment Officer
+ANNEX C                                   38
+
+
+World Bank:
+Ms. Vera Songwe, Senegal Country Director
+Mr. Philippe Durand, Program Coordinator
+Mr. Demetrios Papathanasiou, Lead Energy Specialist
+Ms. Fatouma, Ibrahima, Financial Analyst
+Mr. Stephan Garnier, Senior Energy Specialist (at HQ)
+

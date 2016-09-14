@@ -1,0 +1,2351 @@
+                                              Document of
+                                           The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+
+
+
+                                                                                        Report No: 31001
+
+                             IMPLEMENTATION COMPLETION REPORT
+                                        (IDA-32890 PPFI-Q1780)
+
+                                                  ON A
+
+                                                 CREDIT
+
+                              IN THE AMOUNT OF US$ 10.15 MILLION
+
+                                                 TO THE
+
+                                        REPUBLIC OF SENEGAL
+
+                                                 FOR A
+
+                    PUBLIC SERV. INFO-SYSTEMS MODERNIZATION PROJECT
+
+
+
+
+                                           December 22, 2004
+
+
+
+
+Knowledge and Learning Unit
+Afrca Region
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                             CURRENCY EQUIVALENTS
+
+                      (Exchange Rate Effective December 22, 2004)
+
+                               Currency Unit = F CFA
+                                     1 FCFA = US$ 0.00204
+                                      US$ 1 = 491 FCFA
+
+                                     FISCAL YEAR
+                                   January   December
+
+                         ABBREVIATIONS AND ACRONYMS
+AIE     Agence de l'Informatique de l'Etat (to replace the former DIE)
+AJE     Agence Judiciaire de l'Etat
+APIX    Agence pour la Promotion des Investissements et des grands travauX
+CID     Centre Informatique de la Douane (Customs Department of Informatics)
+DAF     Direction de l'Automatisation des Fichiers (Computer Automation Department -
+        Ministry of Interior)
+DCA     Development Credit Agreement
+DIE     Direction Informatique de l'Etat (State Direction of Informatics)
+DMC     Direction de la Monnaie et des Crédits
+DTAI    Direction du Traitement Automatique de l'Information
+FSP     Fondation Secteur Privé
+GAINDE  Gestion Automatisé des Informations Douanières et des Echanges (Customs
+        Information System Management)
+GoS     Government of Senegal
+ICR     Implementation Completion Report
+IDA     Interntational Development Association
+ISP     Internet Service Provider
+IP      Intranet Protocol
+IT      Information Technology
+LAN     Local Area Network
+LONASE  Lotterie Nationale Sénégalaise (Senegalese National Lottery)
+MoF     Ministry of Finance
+MoI     Ministry of Interior
+PC      Personal Computer (i.e. workstation)
+PMSIA   Projet de Mondernisation des Systèmes d'Information de l'Administration
+PMU     Project Management Unit
+PPF     Project Preparation Facility
+SAED    Société Nationale d 'Aménagement et d'Exploitation des Terres du Delta du Fleuve
+        Sénégal (Senegal River Valley Company)
+SNCS    Société Nationale des Chemins de Fer Sénégalais (National Company of Railway)
+TOR     Terms of References
+UPS     Uninterruptible Power System
+Y2K     Year 2000
+
+
+
+
+                             Vice President:     Gobind T. Nankani
+
+ Country Director:  Madani Tall
+  Sector Manager:   Nicolas Gorjestani
+Task Team Leader:   Marc Jean Yves Lixi
+
+                                 REPUBLIC OF SENEGAL
+            PUBLIC SERV. INFO-SYSTEMS MODERNIZATION PROJECT
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         2
+4. Achievement of Objective and Outputs                                            7
+5. Major Factors Affecting Implementation and Outcome                            12
+6. Sustainability                                                                13
+7. Bank and Borrower Performance                                                 14
+8. Lessons Learned                                                               15
+9. Partner Comments                                                              17
+10. Additional Information                                                       17
+Annex 1. Key Performance Indicators/Log Frame Matrix                             18
+Annex 2. Project Costs and Financing                                             24
+Annex 3. Economic Costs and Benefits                                             26
+Annex 4. Bank Inputs                                                             27
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components             29
+Annex 6. Ratings of Bank and Borrower Performance                                30
+Annex 7. List of Supporting Documents                                            31
+Annex 8. Government Intranet Schema                                              32
+Annex 9. Detailed Description of Components and Sub-Components                   33
+Annex 10. Borrower's Report                                                      37
+
+Project ID: P067498                                                  Project Name: PUBLIC SERV. INFO-SYSTEMS
+                                                                     MODERNIZATION
+Team Leader: Marc Jean Yves Lixi                                     TL Unit: AFTKL
+ICR Type: Core ICR                                                   Report Date: December 23, 2004
+
+
+1. Project Data
+                   Name: PUBLIC SERV. INFO-SYSTEMS                                L/C/TF Number: IDA-32890; PPFI-Q1780
+                            MODERNIZATION
+   Country/Department: SENEGAL                                                             Region: Africa Regional Office
+
+        Sector/subsector: Central government administration (78%); General industry and
+                            trade sector (12%); Health (10%)
+                  Theme: Technology diffusion (P)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 06/01/1999                                     Effective:                           04/13/2000
+     Appraisal: 09/02/1999                                         MTR:
+      Approval: 11/02/1999                                      Closing:                            06/30/2004
+
+
+
+    Borrower/Implementing Agency:          GOVERNMENT OF SENEGAL/Ministry of Scientific Research and Technology
+                      Other Partners:
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Gobind T. Nankani                              Callisto E. Madavo
+Country Manager/Director: Madani M. Tall                                       Cadman Atta Mills
+Sector Manager:                 Nicolas M. Gorjestani                          John A. Roome
+Team Leader at ICR:             Marc Jean Yves Lixi                            Charlie Garrigues
+ICR Primary Author:             Marc Jean Yves Lixi
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        S
+                      Sustainability:      L
+   Institutional Development Impact:       SU
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry:                                  S
+                     Project at Risk at Any Time: Yes
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+ICR Plan and ratings: The subsequent discussions in this report will focus on two rather distinct, yet
+closely linked, operations: 1) the original project and its performance based on its own initial Development
+Objectives and the corresponding activities; and 2) the re-structured project and its performance based on
+the revised Development Objectives and activities. This approach together with the fact that this was a
+unique operation, which unfolded under exceptional circumstances, warrants an ICR that is more
+comprehensive in coverage and longer than usual. The ratings as stated on page 2 are related to the revised
+Development Objectives and design. However, the Quality at Entry assessment and the Lessons Learned
+cover both operations.
+
+Background: During late 1998 and early 1999, many Governments and international agencies (including
+the World Bank) were seriously concerned about the potential risks posed by the Year 2000 (Y2K)
+computer problem to the public and private sector operations. The Y2K problem stemmed from the fact
+that many computerized and digital systems could potentially malfunction due to potential hardware and
+software failures in properly processing the correct date as the century changed at the end of 1999 (the
+two-digit year records would change from 99 to 00). The problem was technically simple. Nevertheless,
+due to the resource-intensive nature of the process and the large number of actors and/or institutions
+involved, it posed a significant financial and management burden on Governments and private businesses
+alike.
+
+In response to the Y2K challenge, the Bank.'s infoDev program initiated a Y2K Grant program that offered
+planning and implementation grants to assist developing countries in mitigating the Y2K risks. In early
+1999, the Government of Senegal received two infoDev Y2K Grants (for planning and implementation,
+respectively) for a total of $600,000.
+
+In March 1999, the Government of Senegal also requested the Bank's assistance in support of a proposed
+Y2K Strategic Action Plan in the amount of $43.33 million. This request was prepared based on a needs
+assessment carried out with the financial assistance of the infoDev grant. The proposal consisted of Y2K
+emergency risk mitigation activities, Y2K remediation, contingency plans, and also an overall
+modernization of Government systems. The Bank's Senegal Country Team reacted expeditiously by
+calling together a team of World Bank Y2K coordinators from infoDev, the Africa Region, and members of
+the Country Team to respond to the client.
+
+During subsequent discussions with the authorities, the Government agreed with the Bank's assessment that
+the proposed plan needed to be revised, separating the longer term modernization objectives from the more
+immediate needs and that the immediate efforts must mainly focus on the mitigation of Y2K risks in critical
+financial and public service delivery operations. In June 1999, following the Identification mission, the
+Government submitted a new project proposal to the Bank.
+
+
+
+
+                                                      - 2 -
+
+The Bank responded very pro-actively and worked closely with the Government to prepare a project on a
+fast track basis. In this rather particular and difficult context, the Bank Task Team identified and appraised
+this high-risk operation within eight months. There was no precedent for such operations and only three
+countries benefited from Bank credit support for the Y2K bug issue: Sri Lanka, Malaysia and Senegal.
+Other countries received smaller Bank support through the InfoDev funds.
+
+The project was appraised in September, approved on December 17, 1999, and the IDA credit became
+effective on April 13, 2000, providing retroactive financing of remediation actions since March 1999. This
+operation was in support of a national program to prevent and minimize the impact of the Y2K issue on
+critical public sector management information systems and to begin modernizing these systems in the same
+time frame and beyond. The project's overall cost was estimated at US$15.15 million to be financed by
+IDA (US$10.15), the Government of Senegal (US$2.9 million) and other donors (US$2.1 million).
+
+The project activities were split into four phases: (i) supporting urgent actions already stated before the end
+of October 1999; (ii) supporting actions to be implemented prior to January 1, 2000; (iii) continuation of
+already identified needs in less critical areas and remediation of actual dysfunctions due to the Y2K bug;
+and (iv) consolidation and modernization of computer systems and information infrastructures in several
+areas already identified as Government priorities for modernization and network expansion.
+
+Original Development Objectives: The original main objective of the project was to assist the
+Government of Senegal (GoS) in its efforts to prevent disruptions in the country's economic and financial
+sectors as a result of the Y2K issue. In particular, the project's original focus was to assist the GoS in its
+efforts to prevent or minimize Y2K induced failures in its government revenue and expenditure systems,
+custom systems, health, and critical infrastructures such as telecommunications, electricity, transport,
+water, financial institutions, and postal services.
+
+The key performance indicators to measure the achievement of this objective were:
+(a) No major disruptions in critical services (such as water, electricity, telecommunications, transport,
+customs, taxes, salaries payment, financial institutions, and postal services) would occur during the first
+quarter of 2000 as a result of the Y2K bug.
+(b) No significant decrease in activity caused by the Y2K bug would occur in the three large computer
+centers (Finance, Interior, Customs) beyond April 1, 2000.
+
+Assessment of the Development Objectives: Given the very high risk assessed during project
+identification, the initial Development Objectives of the project were highly relevant at the time of the
+project preparation and implementation until early 2000 and responded to an urgent need identified by the
+Government. The preventive and remediation actions implemented by the GoS proved successful and no
+major dysfunctions due to the Y2K "bug" occurred in the public sector information systems during early
+2000. Apart from a minor disruption in the Customs GAINDE system that lasted about three weeks at the
+end of March 2000 (during the migration to the new platform), no disruption nor any failure occurred in
+2000 as a result of the Y2K bug. The original Development Objectives were fully met. As of March 31,
+2000, only 21% of the credit had been disbursed (about $2.15 million). This amount was consistent with
+the needs assessment made by the Task Team during the Appraisal.
+
+3.2 Revised Objective:
+Reasons for restructuring: It became clear in early January 2000, that the contingency plans that were
+built into the original design would not need to be implemented. After January 1, 2000, given the absence
+of any disruptions due to the Y2K bug in Senegal, the initial Development Objectives of the project were
+not relevant anymore. As of March 31, 2000, only US$2.15 million (21%) was disbursed to cover
+
+
+
+                                                        - 3 -
+
+remediation activities. About US$ 8 million of the original allocations earmarked for modernization of
+specific institutions, contingencies, and the unallocated funds under the project became available. The
+authorities then considered expanding the scope of the modernization component of the project. The credit's
+original closing date was June 30, 2001.
+
+The year 2000 was also a year of political change in Senegal. Following the election of the new President,
+the Ministry of Scientific Research and Technology which had oversight of the project disappeared and
+Computer and Information Technology matters were directly attached to the Presidency. A period of
+uncertainty ensued regarding the future of the project and the implementation unit. During this period,
+project implantation slowed down considerably. By the end of year 2000, a new Public Service
+Modernization Program "Programme de Modernisation des Systèmes d'Information de l'Administration"
+(PMSIA) was developed through a participatory process. The Government clarified its policies and put the
+emphasis on the construction of a modern Information System infrastructure in order to help Senegal's
+public administration be more efficient. Project supervision was placed under the direct responsibility of the
+Presidency and the CNI. The IT Technical adviser to the President who, in principle, is in charge of project
+oversight, changed during this period and in fact, for many months, no real champion was clearly identified
+in the GoS.
+
+In late December 2000, the Ministry of Finance proposed to the Bank to revise the project development
+objectives and restructure the project design. In response to the new proposal, the project was restructured
+in March 2001. The objective of the restructuring was to expand the scope of the project component for
+Modernization of the Information Systems of the Senegalese Administration by re-allocating all
+undisbursed credit amounts to support this activity. The new design was based on the PMSIA. The
+restructured project was approved by the Board on April 16, 2001. The Development Credit Agreement
+was amended on May 29, 2001.
+
+The amendments to the Development Credit Agreement (DCA) provided the following: (i) restructuring of
+the project design plan in line with the priorities spelled out with PMSIA including the six components
+mentioned below, (ii) extending the closing date of the Credit to June 30, 2002, and (iii) identifying the
+Implementing Agency as "the office of the President of the Republic of Senegal".
+
+Revised Development Objectives: The revised objective of the project was to assist the Borrower to
+improve the quality of services to the public. To achieve this objective, the project would support the
+modernization of the information systems: at the Office of the President and establishing a Government
+Intranet network ($1.57 million), at the Prime Minister's Office and the Ministries ($1.865 million), at the
+Ministry of Economy and Finance ($2.065 million), at the Ministry of Interior ($0.94 million), at La Poste
+($0.69 million), and at the University of St Louis. ($0.70 million).Detailed performance indicators were
+identified during a mission in July 2001 (see Annex 1).
+
+Assessment of the revised Development Objectives: Three years after the restructuring, the revised DOs
+are still in line with: (i) the latest CAS Pillar no 2 goals including the decentralization process, supporting
+the good governance effort and the modernization of the Administration as part of the Government strategy
+(CAS, p. 62); (ii) the overall PRSP objectives as summarized on pp.7 and 8, including capacity building
+through the use of new information technologies (para. 35 and 36 (f)). It is important to explain the scope
+of the revised DOs. Obviously with only $ 8 million, the project was not intended to impact the quality of
+the delivery of all public services in Senegal. Nevertheless, it contributed in a significant manner to
+improving the quality of services in key ministries and set the standards for all the other future initiatives in
+this domain. The modernization of the Ministry of Finance's information system helped the Government
+generate more transparent, accurate and reliable documents. The Customs revenue increased as result of
+
+
+                                                        - 4 -
+
+reduced fraud and improved operations. The modernization of the information system of La Poste increased
+the productivity of its agents at windows and positively impact the satisfaction of clients. The set-up of the
+Government Intranet is expected to have direct impact on the overall efficiency of the Administration, by
+increasing its ability to communicate and share information between departments and ministries, and by
+reducing the administrative operating costs: telephone bill, paper, archiving, mailing, etc. The revised
+Development Objectives as stated in the Development Credit Agreement were generally met.
+
+
+
+
+3.3 Original Components:
+A detailed description of the components and sub-components is included in Annex 9.
+
+Component 1: Project Management Strengthening
+Total Budget for this component was estimated at US$750,000, of which US$250,000 were financed under
+the PPF.
+
+Component 2: Public Sector Remediation
+The remediation and upgrading of public sector information systems was split into four subcomponents:
+* Main Administrations' Information Centers (DTAI, DAF, CID)
+* Other Ministries and Public Administrations
+* State-owned Enterprises
+* Health
+Budget for the main administration information centers was estimated at $ 6.9 million.
+
+Component 3: Contingency Plans
+It was obvious that due to time constraints and the necessity to carry out reliable conceptual studies before
+investing in hardware or software, all systems would not be fully ready by December 31, 1999. As a result,
+preventive means had to be put in place to address any critical situation which could provoke major
+disruptions to the Senegalese economy and social life.
+
+All contingency action plans (national and sector specific), with the exception of the one for customs, were
+put under the direct responsibility of the PMU, and a full time team leader of the PMU was appointed by
+the Senegalese Government. Budget estimate covering logistics, training, tests and specific investments was
+US$1.7 million (25% for the national plan and 75% for sector-specific plans); this amount included the
+financing of some urgent remediation actions to correct systems' failures that could be observed in the
+beginning of 2000.
+
+3.4 Revised Components:
+The Government of Senegal suggested that the project be restructured and be based on the PMSIA. The
+project was restructured in May 2001. In mid-2001, the Senegalese Government decided to create a
+"Direction Informatique de l'Etat -DIE". This group was attached to the Presidency in order to centralize
+all Government policy and decisions regarding Government Information System design and investments.
+All IT investments were put on hold until the DIE became operational. The PMSIA program was directly
+affected by this decision. The Bank pointed out that the closing date of the restructured project was
+December 2002 and that any delay would put the project at risk. However, the DIE wanted to review and
+confirm that the PMSIA implementation was in line with its new policy, before giving the green light to
+procurement processes.
+
+In September 2001, a new version of the PMSIA was approved by the GoS. This version included some
+
+
+
+                                                    - 5 -
+
+new activities such as the creation of the Agence de l'informatique de l'Etat (AIE) and the audit of the
+Administration. But the most significant change was the expansion of the Government Intranet
+sub-component which had become the biggest element of the revised project.
+
+As a result of these developments, some aspects of the project's design (i.e. the list of activities to be
+implemented under each component) were re-defined with the agreement of the DIE to better align them
+with the objectives of the PMSIA. The revisions included the following: (i) removal of the socio-economic
+database (sub-component of the Component 2) as the Social Fund Project was implementing the same
+concept;(ii) removal of the development of a new application for the tax system at the Ministry of Finance;
+and (iii) removal of the upgrade of the financial and administrative system for the national Lottery in order
+to allocate more funds for the new, more comprehensive design of the Government Intranet sub-component.
+With these revisions, the project ultimately consisted of the following components (the figures in
+parentheses show the amounts allocated at the latest revision of the design in September 2001; and Annex 9
+describes in detail the restructured project design and the specific revisions that were made during
+implementation):
+
+Component (1) modernization of the information systems at the Office of the President ($0.4 million);
+
+Component (2) modernization of the information systems at the Prime Minister's Office and the Ministries
+and establishing the Government Intranet ($4.2 million);
+
+Component (3) modernization of the information systems at the Ministry of Economy and Finance ($0.49
+million);
+
+Component (4) modernization the information systems at the Ministry of Interior ($0.94 million);
+
+Component (5) modernization the information systems of Public Entities ($0.690 million);
+
+Component (6) modernization the Information Systems of the University of St Louis ($0.7million);
+
+The main difference between the project design just after the restructuring and the revised version was the
+total amount of resources that were allocated to the Government Intranet. This sub-component rapidly
+became the main component of the overall project and the backbone of all other information systems
+included in the project.
+
+3.5 Quality at Entry:
+The Quality at Entry based on the initial project design is rated Satisfactory for the following reasons:
+
+a) Project Design. The initial project design was realistic and responsive to the government's most critical
+needs. The project focused on the priorities of the key government operations to minimize Y2K risks in the
+most critical operations. This was based on the risk assessments carried out by technical specialists to
+minimize the Y2K risks in the most vital segments of the economy. The scope covered all the key
+information systems of the Administration, with enough built-in flexibility to respond to contingencies that
+may have occurred after December 31, 1999. Project preparation was carried out effectively under a very
+tight schedule, and the triage used by the project team in prioritizing project activities, proved very effective
+and realistic.
+
+Anticipating the late start of project implementation (December 1999), the Project Team proposed ­ and
+received approval for ­ a $750,000 PPF that in effect covered a large part of the emergency activities to
+
+
+                                                      - 6 -
+
+ensure the start of the implementation prior to the effectiveness of the credit. The PPF also included
+retroactive financing of some actions already initiated by the Government to ensure that all Y2K related
+preventive measures were effectively funded and completed. This proactive approach allowed for the quick
+completion of the most urgent actions and was critical in helping achieve the initial DOs.
+
+(b) Risk Assessment. The emergency funding necessary for the most critical Y2K remediation activities in
+the Governments Administration was estimated by the Project team to be approximately US$2.5 million.
+Risk assessments were a key aspect of the project design. Each component of the project had its detailed
+contingency plan developed, and adequate funds were set aside for potential contingencies that could arise
+immediately after January 1, 2000. This was important since at the time no one really knew the potential
+magnitude and consequences of Y2K related failures. This globally shared uncertainty led the team to
+build in some flexibility in the scope of each component by allocating more funds for contingencies.
+
+(c) Institutional Arrangements. In order to ensure quick and effective implementation of the credit, the
+initial design included the separation of the technical and implementation aspects from the procurement and
+financial aspects of the project. The Fondation Secteur Privé agency (FSP) was contracted by the PMU to
+carry out the procurement aspects of project implementation as well as the management of the special
+account. The choice of placing the PMU within the Ministry of Scientific Research at the beginning and its
+subsequent placement under the Presidency after the restructuring, ensured strong ownership of the project
+by the Government of Senegal.
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+Considering the original project development objective and performance indicators, the main objective was
+achieved since there was no disruption or failure of any service after January 1, 2000. And thus, the
+outcome of the project as it was designed prior to the restructuring is rated Satisfactory.
+
+The revised development objective supporting the modernization of the public services' information systems
+have been achieved. The modernization of the information systems at the Office of the President, the
+modernization of the information systems of the Prime Minister's Office and some Ministries, the
+modernization of the information systems of the Ministry of Economy and Finance, Ministry of Interior,
+Public Entities, and the University of St Louis have been achieved. The technical equipment (computers,
+networks, software, etc.) has been installed and is operational. At the time of this ICR (about six months
+after the installation of the Intranet) the GoS, by creating the new AIE, has shown its willingness to
+continue the modernization of the information systems of the administration. Training Center, Help Desk,
+recruitment of qualified technicians and engineers, contribute to the sustainability of the new system.
+
+Therefore, it is very likely that this project has contributed significantly to the quality improvement of some
+services offered by the public Administration. In addition, this project helped the Administration to set the
+standards in terms of technologies to be used within the public sector and thus enforced a common IT
+strategy within the public sector in general and the Administration in particular. However, at the time of
+this ICR, it is impossible to measure the overall impact of the new systems because the Government
+Intranet is not fully operational. Thus, the achievement of the project Development Objectives is rated
+Marginally Satisfactory. The Chart below summarizes the ratings by component (C.1, C.2, etc...) and
+Sub-Components (SC.1, SC.2, etc...).
+
+
+
+
+                                                        - 7 -
+
+                                                                        P M S IA
+                                                                      M arginally
+                                                                      Satisfactory
+
+
+
+                    C .1                          C .2                    C .3                    C .4         C .5       C .6
+                    S                             M U                         S                   U            S             S
+
+
+S C . 1    S C . 2    SC.3    S C . 4    S C . 1    SC.2    S C . 3     S C . 1    SC.2    S C . 1     S C . 2     SC.1    S C . 2    S C . 3
+  S          S         S        S          S         M S    M U           S         S        U           U          S        S          S
+
+
+
+
+         4.2 Outputs by components:
+        Component (1) modernization of Information Systems at the Office of the President, creation of the AIE,
+         and upgrade of the APIX informatics equipment:
+
+         Implementation of the first sub-component started with an exhaustive audit of the informatics equipment in
+         the Senegalese Administration (32 Ministries, local communities and public entities). The results of this
+         audit served as the baseline for the project implementation. The audit counted inter-alia 8766 PCs (of
+         which 7192 were operational), 3786 printers, and 3333 Un-interrupted Power Supplies. The audit also
+         developed exhaustive lists of the servers, LANs and software used by the Administration in 2001. The
+         output of the audit sub-component is rated Satisfactory.
+
+         The second sub-component comprised the upgrade and strengthening of the Presidency information system
+         (5 servers, 25 PCs, printers, etc.). The allocation of the new PCs purchased by the project was based on the
+         first-subcomponent outputs. All the equipment and applications were installed and are operational as
+         planned. The baseline consultation as well as the modernization of the network at the Presidency was
+         carried out successfully. The output of this sub-component is rated Satisfactory.
+
+         The third sub-component was the training of the President's Office staff. The training sessions were
+         completed and the output of this sub-component is rated Satisfactory.
+
+         A fourth sub-component was the upgrade of the APIX agency information system. The main objective of
+         the APIX is to promote the Senegalese private sector and to attract foreign investors to create jobs in the
+         country. With its new network architecture, a huge data storage capacity, and a website offering online
+         services, the new APIX information system allows consultations from potential clients on a 24x7 basis, and
+         has considerably increased the management capacity of the Agency. Tax exemption requests are now
+         processed within 24 hours (compared to 6 days before the installation of the new system). The APIX
+         network is also linked to the Customs information system, allowing the Agency to receive accurate data on
+         the Senegal commercial balance. The APIX performance has increased from handling one project in 2003
+         creating 300 jobs, to 21 projects in 2004 creating 2850 jobs. The objective for 2005 is 29 projects creating
+         5200 jobs. The output of this sub-component is rated Satisfactory.
+
+         Overall, the output of Component 1 is rated Satisfactory.
+
+        Component (2) modernization of Information Systems at the Prime Minister's Office and the Ministries,
+         and establishing a Government Intranet network:
+
+         Under the first sub-component, the installation of computers and servers in the Prime Minister's Office and
+         the targeted Ministries is completed. All equipment is fully operational. Thus, the output of this
+
+
+
+                                                                   - 8 -
+
+sub-component is rated Satisfactory.
+
+At the time of this ICR, the installation of the LAN in the main Administrative building (Sub-Component
+2) was still ongoing. The internal connections within most office buildings have already been completed and
+the systems are operational. Given the large number of interconnections between the backbone (fiber optic
+loop) and the different Ministries in Dakar, the completion of all the connections within a Wide-Area
+Government Network will take a few more weeks. The installation is expected to be completed at the end of
+January 2005. Most of the LANs within the Ministries are completed and are operational. The common
+services offered on the Intranet work well and have been successfully tested, but the full roll-out remains to
+be completed. The output of this sub-component is rated Marginally Satisfactory.
+
+Under the third sub-component, at the end of the project, all the intranet equipment had been delivered and
+the installation of the fiber optic (Government Intranet backbone) was ongoing. The studies regarding the
+design and installation of the Government Intranet took longer than planned and the equipment purchase
+was in early January 2004. Additional delays in procurement postponed the beginning of the installation to
+mid-May which left only 6 weeks to complete the implementation of this component. On June 30, 2004, the
+network was partly functional. Within the first months following the project closing, the project
+coordinators started testing the already installed parts of the Intranet. The first tests were successful and the
+installation of basic applications such as email, Voice over IP (VoIP) and electronic filing/ archiving will
+increase the day-to-day efficiency of several departments in the central administration. Installation of this
+technology backbone is expected to improve the communication among different ministries and departments
+of the public services in a very cost-effective way. Although there is no doubt that the effective use of the
+Intranet will soon have a considerable impact on the quality of the public services offered to the Senegalese
+people, the late implementation of the network, and the lack of time to assess the output of this
+sub-component, has led to a rating of Marginally Unsatisfactory.
+
+The Government Intranet sub-component is the largest one in this project in terms of costs and expected
+impact. Installation of the Intranet is the main goal of the overall project as the impact of all other
+components and sub-components' depends on the Intranet. Therefore, in this ICR we have given more
+weight to the third sub-component rating and the overall output of this component is rated Marginally
+Unsatisfactory.
+
+Component (3) modernization of the information systems at the Ministry of Economy and Finance (see
+Annex 1). This component included:
+
+(i) the modernization of the DTAI (Direction du Traitement Automatique de l'Information): (a) the
+information system of the AJE (Agence Judiciaire de l'Etat) has been installed and is functional; (b) the
+information system of the DMC (Direction des Monnaies et des Crédits) has been installed and is
+functional. The banking & financial monitoring, and the loan-revenues management software applications
+are both operational. Also, 104 computers and 5 servers have been installed. These applications allow a
+better coordination of the different services within the DTAI. The output of the sub-component is therefore
+rated Satisfactory.
+
+(ii) the modernization of the Customs Department (Direction Générale des Douanes):
+
+         (a) implementation of a secured environment for the GAINDE system: with its electronic card
+access, and its full data back-up system, GAINDE is now very secure. Within two years, the average
+number of major system breakdowns has decreased from 5 to 2 per year and is expected to be reduced to
+
+
+
+                                                      - 9 -
+
+nearly zero by the end of 2004.
+         (b) installation of new equipment to support the new Economic Rules Management system: before
+the project, the average time necessary to process a tax exemption request was 2 business days. It is now
+less than 24 hours, with a resulting increase in productivity from 56 requests processed per day to 65 at the
+end of the project. Also, the new network wiring allows better security against fraud (e.g., risk ratio
+decreased from 10% in 2000 to 5% at the end of the project). It is important to note, however, that the
+migration of the application was implemented in partnership with the French Cooperation. During the
+migration of the GAINDE system and installation of the new application dealing with the customs
+administrative processing which was implemented under the supervision of the French Cooperation, a
+computer bug provoked major problems for three weeks. Since then, the performance of the GAINDE
+system has improved regularly. The output of this sub-component is rated Satisfactory.
+
+The overall output of this component is rated Satisfactory.
+
+Component (4) modernization the Information Systems at the Ministry of Interior:
+
+Modernization of the DAF (Direction de l'Automatisation des Fichiers):
+(i)      the installation of computers and servers on 45 sites in nine out of the ten Regions of Senegal
+(completed);
+(ii)     development of the URID application (completed ­ however, installation of the application has
+been delayed by the replacement of the person in charge at the Ministry and the absence of institutional
+memory. Training sessions were delayed for the same reasons and are expected to start soon);
+(iii)    Implementation of the new application for aliens' card management (currently operational).
+The last sub-component was included in the restructured project design. Hoever, the Ministry does not have
+sufficient funds to purchase the 200,000 blank cards ($12 each) to issue the identity cards to identify all the
+foreigners living in Senegal. Although the application is operational, the Ministry continues to use standard
+cards. Also, due to the late replacement of the person in charge of the Informatics Department, staff
+training and follow-up on the performance indicators have not been done so far. As the implementation of
+none of the sub-components has been completed and as the Management of the DAF has not been able to
+provide the Task Team with a clear implementation schedule, the output of this component is rated
+Unsatisfactory.
+
+Component (5) modernization of the Information Systems of La Poste (see Annex 1):
+
+The quality improvement of different services offered by La Poste has been monitored very closely. As
+shown in Annex 9, the positive impact of the project on the quality of some services has been significant.
+First, the average queue delay at a cashier has decreased by 22% in 2003 and the objective of 50% is
+expected to be reached at the end of 2004. Second, due to the higher reliability of the new system, the rate
+of claims has decreased by 43% in 2003. Third, the average productivity of La Poste agents has increased
+by 22% across all the services offered at a window (calculation based on the number of operations executed
+and services offered per agent per day at a window). The objectives as stated in the PSRs have not been
+achieved fully. But, it appears in retrospect that they were too ambitious. However, the significant
+improvements already observed in La Poste's performance indicate that the modernization of La Poste
+information system has already had a positive impact which is still increasing. The output of this
+component is therefore rated Satisfactory.
+
+Component (6) modernization the Information Systems of the University of St Louis:
+
+
+
+
+                                                      - 10 -
+
+This component included modernization of the information systems of the University administration, the
+Library, and the different R&D Units. The equipment installations including 200 new PCs and the training
+of staff was carried out as planned and the new applications are operational. The University administration
+now has an integrated management system. A recent survey (May 2004) showed that the satisfaction rate
+has reached 90% among the University staff and 70% among the students. The newly equipped Computer
+Center also serves as an ISP for the University staff and students. The procurement and installation of new
+PCs has allowed the establishment of 7 computer labs. The Library has received new PCs and the Virtual
+Library application is operational. The average time necessary to access a book or a document by students
+is now less than 10 minutes. In 2000, less than 50% of the research units had PCs. In 2004, more than 75%
+are fully equipped. The University Intranet is operational and covers now the entire campus. The output of
+this component is rated Satisfactory.
+
+4.3 Net Present Value/Economic rate of return:
+There was no Economic Rate of Return study carried out during project preparation.
+
+4.4 Financial rate of return:
+With the installation of the Intranet infrastructure and the development of shared applications (in particular,
+the telephone over IP and emails), communication within the Administration has become nearly free. The
+Government expects to save about 4 billion F CFA from its annual telecom bill. Almost 50% of the savings
+will be used to maintain and upgrade the network (the operating cost of the entire network have been
+estimated at 2 billion F CFA per annum).
+
+Along with the modernization of GAINDE (increased reliability of the overall information system), the
+average monthly revenues of the Customs have increased from 6 billions in 2000 (around 76 billions for the
+year 2000) to 10 billion F CFA (estimation 2004). After the beginning of the political crisis in Ivory Coast,
+some operations were re-located in Dakar which generated a lot of additional tax revenues. The
+modernization of the GAINDE system increased the capacity of the Customs to process operations.
+
+Many other applications and systems related to the management of information now allow Departments of
+the Administration to save money on paper, files exchange, mailing, archiving, data storage, etc. It is
+difficult to assess the actual saving incurred by the new systems. But it is very likely that each part of the
+new information system will increase the cost-efficiency of several services of the Senegal Administration.
+
+4.5 Institutional development impact:
+The project had a Substantial institutional development impact. During the project implementation, 650
+civil servants were trained to gain adequate skills to utilize the new systems. Moreover, the project
+contributed to more effective implementation of the decentralization process started by the Government a
+few years ago. For example, the Ministry of Interior, through this project, has developed local capacity in
+11 regions and 40 departments in Senegal by installing new equipment in its offices across the country.
+Similarly, la Poste has enhanced its decentralization process by installing new information systems in 135
+of its regional offices.
+
+One of the more significant achievements of the project has been facilitating the setting-up of the new
+Agence de l'Informatique de l'Etat, which includes a Resource Center, a Help Desk and Development &
+Security units. Creation of the new AIE is a major element in the overall modernization process. The
+replacement of the former DIE by an independent and empowered Agency shows how important the
+viability of the new systems is for the Government. The new AIE is empowered to coordinate all the IT
+initiatives from any public entity or Ministry. If the AIE succeeds in playing its coordination role
+effectively within the public sector, it will be in a position to ensure that: (i) any new IT initiative is
+
+
+
+                                                       - 11 -
+
+compatible with the systems already in place, and thus build an integrated and homogeneous system for the
+whole Administration; (ii) the training and skills acquired by staff are used across departments and
+institutions in a very efficient manner; and (iii) the system is sustainable.
+
+The APIX Agency is the main interface between the Government and the private sector. By increasing the
+management capacity of the APIX Agency, the Government of Senegal has shown its willingness to
+develop foreign investment and local private sector initiatives. With the modernization of APIX (and its
+on-line communications capabilities as part of the Government Intranet) the systems will generate a larger
+market for the local IT service providers and will help promote the use of local expertise in the ICT sector.
+
+The new informatics network of the Ministry of Finance (MoF) has also had a positive impact on efficiency
+and transparency of MoF functions, especially in the areas of budget and taxation. The PER study
+discusses these developments in positive terms. For example, the capability toto develop more 'outputs' in
+terms of publicly posted data or data products that can be produced efficiently only by means of a
+connected system (e.g. budget execution data).
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+Not Applicable
+
+5.2 Factors generally subject to government control:
+The implementation and outcomes were affected both positively and negatively by factors subject to
+government control. Achievement of the objective would not have been possible without a strong
+government commitment. The Government of Senegal has been so far very supportive of the use of
+information technologies. The creation of the DIE (Direction Informatique de l'Etat) in June 2001 as part
+of the Presidency, shows the government's willingness to promote the integration of information
+technologies within the administration. Similarly, the Government has allocated substantial amount of
+resources to continue the informatization of the Administration. Nevertheless, during the relatively long
+process that led to the establishment of the DIE, all IT investments were put on hold, and the Task Team
+warned the new Government several times of the potential consequences of long delays on the
+implementation. In the event, these circumstances delayed implementation by about one year.
+
+5.3 Factors generally subject to implementing agency control:
+The financial and accounting aspects of the project were carried out by first the Fondation Secteur Privé
+and later the APIX. Although both agencies had the capacity to provide quality services to the project, their
+contributions were not as efficient as planned and somewhat affected the implementation schedule. The
+Fondation Secteur Privé put too few resources to handle the numerous bids launched by the project during
+the Phase 1 implementation. This resulted in a poor quality review of the bids and led on one occasion to a
+misprocurement case with SAED. After the project restructuring, the APIX replaced the FSP. The APIX
+managed the Special Account and thus was accountable for the financial management of the project.
+Although the PMU did all the technical evaluations and selection of the contractors, the APIX hired a
+procurement consultant to review systematically the work already done by the PMU. Consequently, the job
+was done twice and resulted in delays in implementing the procurement plan.
+
+5.4 Costs and financing:
+At the end of the project, several Ministries which benefited from this project complained that the funds
+were not sufficient to cover all their needs. The undisbursed funds of the credit after the restructuring had
+to be re-allocated in such a way that would not discontinue the implementation of the project
+implementation in its initial design. To ensure that all the actions already started under the Y2K phase of
+
+
+
+                                                       - 12 -
+
+the project would be completed, the Project Team had to prioritize the targeted services. The funds were
+sufficient to cover the modernization of most of the key services of the central Administration. However,
+the Government Intranet became the main project component as its design was being defined and the overall
+objective of this component exceeded the realm of the project. Therefore, the Government allocated
+additional funds to ensure the implementation of the Intranet. But, as the Intranet component was getting
+bigger and more complex, its implementation was delayed several times, which in turn increased its costs.
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+The sustainability is rated Likely. The Senegalese Government has so far shown its willingness to ensure
+the sustainability of the Government Intranet by creating through a Presidential Decree a new state agency
+(AIE) entirely dedicated to the Intranet and the Ministries' networks support. The Government allocated a
+significant budget to cover the operating costs of the Intranet, including the AIE. This empowered entity
+will have to enforce its vision and the coordination of IT initiatives among the different ministries to ensure
+the viability of the whole system.
+
+The savings realized thanks to the Intranet and the Phone over IP service will be partly reallocated to
+maintain and develop the Intranet. The Government hopes to save more than 4 billion F CFA on the
+Administration phone bill every year. These savings will be sufficient to cover the maintenance costs of the
+network (estimated at about 2 billion F CFA per year).
+
+Each Ministry or Department of the Administration which has benefited from this project has shown a
+willingness to pursue the modernization started under the PMSIA. For example, the ministries took
+concrete measures such as budget re-allocation to ensure the system's maintenance and adequate staffing to
+develop new computerized services and expand the modernization to other services.
+
+The Ministry of Interior has requested to the Government to allocate additional funds to finance the
+purchase of 20,000 laser cards. These cards will be sold 30,000 F CFA ($60) each. According to the
+DAF's Director, the net benefit of $50 per card will be re-allocated to the DAF's budget to purchase new
+cards and maintain this new service.
+
+6.2 Transition arrangement to regular operations:
+The Senegalese authorities have clearly told Bank missions that the President of Senegal personally
+supports the modernization of the public Administration and will ensure that adequate resources are made
+available to continue what was started under the PMSIA. The creation of the AIE shows that the
+Government is prepare to allocate the needed budget to develop new applications and expand the existing
+network to other Ministries and other regions. At the time of this ICR, the Government has allocated a
+budget of 2 billion F CFA to the AIE for the maintenance and development of services via the Government
+Intranet.
+
+The AIE is currently drafting the Project Concept Note for a second PMSIA project in order to expand the
+modernization of public services in Senegal. The second project would use the output of the first one as a
+basis to develop the network and the ineterconnections between the different public entities across the
+country and thus help the decentralization process.
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+
+
+
+                                                     - 13 -
+
+Given the very tight preparation schedule and the emergency nature of some tasks, the (initial) project
+design was appropriate and responded to the Client's needs at that time. However, it might have been more
+efficient to recruit a Procurement Agent and a Financial Management Specialist as part of the Project
+Management Unit from the very beginning or, at least, after the restructuring. Following the Government's
+request in March 1999, the Bank responded rapidly and carried out the project preparation within a few
+months. The Banks' lending performance is rated Satisfactory
+
+7.2 Supervision:
+With at least two supervision missions per year, the Task Team was able to follow up on different issues
+on time. Between the missions, communications via emails and fax enabled the team to follow up on issues
+in a timely manner and ensure a generally good quality supervision of the project. During the four years of
+implementation, the Task Team and the Project Coordination Unit developed a good working relationship.
+This is mainly due to the fact that the Task Team had been quite stable: same TTL, one change in the
+Procurement Specialist and the Financial Management Specialist (both based in Dakar, which contributed
+to a close follow-up on and good awareness of the issues in real time). The QAS review in 2001 was rated
+satisfactory and unerlined the very close follow-up and pro-activity of the Task Team in the most difficult
+times of the project implementation: discussions with the new Government on the project priorities and the
+related revisions to the final project design in September 2001. The Bank's supervision performance is rated
+Satisfactory.
+
+7.3 Overall Bank performance:
+The overall performance of the Bank is rated Satisfactory.
+
+Borrower
+7.4 Preparation:
+The Senegalese authorities had started working on the Y2K issue before the preparation of the project.
+Thus, the institutional issues were already identified and addressed at the project Appraisal. Moreover, the
+Borrower had already a clear picture of its priorities and the main entities to be included in the project
+scope.
+
+7.5 Government implementation performance:
+The project was also affected from time to time by political events, inculding several changes in the
+Government that delayed some key decisions related to project implementation. For example. after January
+1, 2000, it took more than a year for the Government to finalize the scope and design of its modernization
+program, consistent with the new Government's vision. The PMU was unable to catch up on these
+additional delays, and the installation of the project's main sub-component (the Government Intranet) was
+finally completed during the last days prior to the project closing date. However, since 2001, the
+Government has shown strong ownership and willingness to make this project a success.
+
+Overall, the project's implementation was characterized by periods of inactivity as well as hyperactivity.
+For example, it took more than 12 months to finalize the PMSIA due to weak support from the Senegalese
+authorities (DIE, Government). In July 2002, the project was rated unsatisfactory (see Annex 4) and
+became at risk. When the new DIE Director was appointed, however, the existence of a new champion was
+instrumental in significantly accelerating project implementation. Within a short period of time, the project
+made major progress (e.g. purchase and installation of the Intranet equipment was completed in the last 6
+months of the project). Although the Government' support has not been consistent during the project, the
+Government was proactive especially in the last two years, in making things happen and in ensuring the
+funding of the Intranet to realize the cutting-edge technology backbone for the Senegalese Administration.
+Therefore, overall, the Government implementation performance is rated Satisfactory.
+
+
+
+                                                      - 14 -
+
+7.6 Implementing Agency:
+Prior the restructuring: during the project preparation, and in order to gain time, it was decided to
+separate the function of technical supervision of the project from the two functions of management of the
+Special Account and procurement. The Coordination Unit was put in place by the Government prior to the
+project preparation. This Coordination Unit was designated as the PMU and did not have any Procurement
+or Financial Management capacity as required by the Bank. It was then agreed that the PMU would
+contract the FSP to carry out these specific tasks. Unfortunately, the FSP at that time did not put enough
+resources to perform as planned. The PMU had to count on the expertise of its consultant(s) to catch up on
+the slow performance of the FSP.
+
+After the restructuring: the project Implementing entity comprised three separate entities: (i) the Project
+Management Unit led by the Project Coordinator and in charge of supervising the implementation; (ii) the
+APIX replacing the FSP as the project executing Agency in charge of the Financial Management and
+Procurement aspects of the project; and (iii) the DIE as the entity in charge of designing and implementing
+the Government Intranet. Although the implementation was late and gave very little time to actually
+measure the performances of the new applications, all the planned information systems were installed and
+operational at the closing date. The closing date was extended three times: (i) at restructuring to December
+31, 2002; (ii) to December 31, 2003; and (iii) to June 30, 2004. The Implementing Agency faced several
+difficulties (see Lessons Learned) and finally achieved its objectives and the project disbursed more than
+99% of the credit proceeds. Therefore, the overall Implementing Agency performance is Satisfactory
+
+7.7 Overall Borrower performance:
+The overall performance of the Borrower is Satisfactory.
+
+8. Lessons Learned
+
+Bank performance: the Bank faced a unique challenge involving a situation of high uncertainty, an
+unmovable deadline and a strong demand from the client. Under such special circumstances, the Bank
+showed that it can be agile and ready to take risks. The Task Team responded to the challenge by acting
+quickly, by thinking out of the box, and by building a large margin of error and flexibility into the design
+(e.g., credit amount was raised to $10.15 million whereas the Identification mission's first assessment of the
+what it would take to deal with the Y2K problem mentioned only $2.5 million).This suggest that it is
+possible forthe Bank to act quickly in response to client needs, provided teams are prepared to take
+calculated risks, focus more on solving the problems at hand, and adapt established practices in project
+preparation to fit the realities in the ground.
+
+Project Design : the project was well designed in a very short period of time and tried to address all the key
+issues related to the Y2K bug. All the crucial services were included in the initial design and contingency
+plans were part of the project as a separate component. A large PPF helped the Project to implement the
+most urgent sub-components within 3 months. The Government of Senegal took the Y2K bug issue
+seriously at an early stage and began the modernization of computerized system in early 1999. The initial
+project components included the retro-financing of these tasks provided that the procurement process was
+acceptable to the Bank. These decisions were instrumental in ensuring that crucial actions would be
+completed prior to January 1, 2000. This suggesed that in emergency situations, appropriate sequencing
+and application of PPF and retro-active financing can mitigate short-term risks to a considerable extent.
+
+Project Preparation: The short timeframe for preparation due primarly to the unmovable Y2K deadline,
+necessitated a very fast-track process of the recruitment of the experts. The large number of consulting
+
+
+
+                                                     - 15 -
+
+firms declaring their expertise in the Y2K bug issue put the Project Coordination in the difficult position of
+identifying "real" experts among the numerous offers. The emergency situation gave very little leeway to
+negotiate both the staffing and fees. The capacities/skills of the consultants were heterogeneous and they
+often produced work that was superficial and with average quality. This suggests the need for more flexible
+procurement guidelines allowing the termination of consultant contract in emergency projects.
+
+Project Implementation (and implementation arrangements):
+
+(a) project ownership and incentives: the project coordinator was appointed by the Government and thus
+paid by the Government of Senegal. The project team was mainly composed of external consultants paid
+out of the credit proceeds and were remunerated at a higher level than the coordinator (e.g., some
+consultants were paid five or six times the salary of their manager). The situation was sometimes difficult,
+and although the Project Management Unit never faced serious difficulties related to this issue, the
+coordinator had little incentive to perform as much as his team members. During a long period of time,
+most of the work was done by the consultants, minimizing the ownership of the project.
+
+(b) implementation arrangements: the initial design took into account the very short period of time left
+before December 31, 1999. The technical and financial/procurement tasks were separated and done by two
+different entities. The Project Coordination undertook the technical aspects of the contracts, and the FSP
+followed up on the financial/procurement aspects. This approach was appropriate at the beginning of the
+project, given the emergency situation. However, the poor performance of the FSP forced the PMU to step
+in to carry out both the technical and financial aspects of the contracts, and this contributed to delays in the
+project implementation. After the project restructuring, the APIX agency replaced the FSP to carry out all
+the financial aspects of the project. As the APIX was responsible for the Special Account management, the
+Agency appointed its own procurement agent to review the work already done by the Project Coordination.
+Again, this resulted in additional delays. In the course of the project implementation, the Project
+Coordination Unit gained expertise in procurement and financial management. After the restructuring, the
+project may have been implemented more rapidly if the PMU had carried out the procurement and the
+financial management aspects of the project.
+
+(c) institutional arrangements: the Project Coordination Unit was initially created in 1999 under the
+Ministry of Scientific Research and Technology. After the election of the new President and along with
+Government changes in 2000, the institutional anchorage of the PMU changed twice to finally fall under
+the Presidency. Such a high-visibility "tutelle" can be a very good asset to make things move rapidly in a
+difficult environment (e.g. installation of the Intranet and LANs). At the same time, however, such
+situations can put additional pressures on the project management unit when political decisions affect the
+pace of project implementation (e.g., project implementation was put on hold more than 14 months in
+2000-2001 until the Government agreed on the final design of the Intranet and the creation of AIE before
+the closing date).
+
+Follow-up and impact assessment: this project has already achieved impressive results. At the same time,
+some components are still under implementation. The late implementation of some key elements has left
+very little time to measure the actual impact of the project. The set-up of the Intranet and the installation of
+transversal applications will be completed soon. But once the installation is completed, it will take at least
+another year for the civil servants to effectively use the new services and benefit from the new system. In
+order to measure the real impact of this project, an impact assessment will have to be carried out at the end
+of 2005 or early 2006. This assessment is key to drawing additional important lessons for future similar
+operations.
+
+
+
+
+                                                      - 16 -
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+The Bank has received comments from the different implementing agencies. The document attached in
+Annex 10 to this ICR underlines three aspects of the project:
+
+(i) the project impact: the Borrower rates the project impact as Satisfactory. During the last two Bank
+missions, the different implementing agencies expressed (i) their satisfaction with the PMSIA
+achievements; and (ii) their willingness to see a second operation pursuing the modernization of the systems
+started during the first project by expanding the network and developing new integrated services. The
+project allowed the Senegalese Administration to build its private and modern communication network, and
+the creation of an empowered Agency to ensure the sustainability of the overall system.
+
+(ii) the institutional arrangements: the PMU has underlined the good performances of the project in the
+stressful environment they had to work in: (a) lack of incentives and sometimes motivation compare to
+other PMUs; (b) waste of resources and time due to the separation of the PMU tasks and the procurement
+and financial management ones (carried out by APIX); (c) absence of trainings in Bank procedures for the
+PMU; and (d) the project would have benefitted from a good communication plan to coordinate the
+different ICT initiatives within the Public Service.
+
+(iii) the future: the Borrower has shown its willingness to move forward in the modernization of the Public
+Service information systems. The new AIE will draft the Government ICT strategy and lead its
+implementation. The budget allocated by the Government to the Agency (2 billion F CFA for this year) will
+be used to develop new services on the Intranet and expand the network within the country.
+
+(b) Cofinanciers:
+Not applicable
+
+(c) Other partners (NGOs/private sector):
+Not applicable
+
+10. Additional Information
+
+
+
+
+                                                     - 17 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+Outcome / Impact Indicators:
+                                                                                     1
+                 Indicator/Matrix                           Projected in last PSR                          Actual/Latest Estimate
+Reduce the fraud in Custom exoneration, that                                                    fraud rate reduced by 50% at a 5% ratio.
+should increase tax collection by around one
+billion FCFA per month
+Reduce delays in Ministry of Finance critical    (1) less than 3 days; (2) not implemented; (3) (1) less than one day; (2) not implemented;
+services "(1) "traitement et avances" , (2)      1 months; (4) 3 days; (5) 15 days)             (3) less than 20 days; (4) less than a week;
+"etats de suivi bancaire et financier ", (3)                                                    (5) less than 8 days.
+"suivi contentieux de l Agence Judiciaire de
+l'Etat", (4) bons et engagements", (5)
+"engagements"
+Increase the Productivity and the quality of                                                    (1) -19%; (2) -43%; (3) +22%
+Postal staff and services : (1) time in queue
+for clients; (2) claim ratio ; (3) operation /
+staff ( in postal bureau)
+Improve Ministry of Interior critical services : data not available as the application is not   application operational but supplies (laser
+(1) ID card for foreign resident ; (2)data bas   utilized                                       cards) not purchased
+of critical issues ( bar, weapons)
+
+
+Output Indicators:
+                                                                                     1
+                 Indicator/Matrix                           Projected in last PSR                          Actual/Latest Estimate
+Increase the number of up-to-date                purchase of more than 860 computers for the purchase of more than 1000 computers by
+workstations (or individual computers)           Public Service.                                the project
+installed in the public office of each Public
+service
+ratio of staff ( officer and clercks) equipped   every major public department will be able to the Administrative building is entirely
+with a computer installed in the administration communicate through the Intragovernemental connected as well as decentralized Ministries
+concerned                                        network with other departments to share        (Finance, Education, Foreign Affairs, and
+                                                 information and process admininistrative       Interior) and the Presidency
+                                                 tasks more efficiently
+ratio of workstations or micro computers         To enable any department and at least 50 % around 700 workstations purchased through
+connected to the network installed under the     of workstations installed to be interconnected the project are connected to the Intranet
+program                                          through the Intergovernmental and intranet     (70% of the total number of purchased
+                                                 networks installed.                            workstations).
+number of staff trained on IT technology or                                                     at closing, 650 civil servants have been
+software application related to the program                                                     trained. Some trainings are still ongoing.
+
+1 End of project
+
+
+
+
+                                                                    - 18 -
+
+               Detailed Performance Indicators for Component 3 (Ministry of Finance)
+    Department                             Objectives                              Before the       Date of installation     June 2004     September   December
+                                                                                    project                                                   2004       2004
+
+    Direction de la Monnaie et             Advance & Loan                                               Mars 2004
+
+    du Crédit (DMC) :                      Management
+
+    development and installation
+    of applications
+
+                                           Process of pending requests
+
+                                             (Nmber of requests pending)
+                                                                                      2 069                  1 782                1 581       1 211      1 093
+
+                                           Reduction of delays for the
+                                           requests process        (Delay)
+
+                                                                                    15 days                7 days                3 days      2 days     1 day
+
+
+                                           Financial and Bank                                            Application non     operational
+                                           Follow-up
+
+                                           Reduce delays in issuance of                             Staff restructuration
+                                           Bank and Financial statements
+
+                                                                                   6 months
+
+    Agence Judiciaire de l'Etat            Follow-up on files : Accidents,        March 2004
+
+    (AJE) : development and                Archives, Overdue
+
+    installation of applications
+
+                                           Process of pending requests
+
+                                             (Number of requests pending)
+                                                                                      275                     235                  177         107        98
+
+                                           Reduction of delays for the
+                                           requests process        (Delay)
+
+                                                                                   12 months              6 months              1 month     1 month    20 days
+
+
+
+    Department                            Objectives                                  Before             July 2003         June 2004      September    December
+                                                                                   installation         installation                        2004        2004
+
+
+    Ministère de l'Economie et            Informatic Equipment : Servers
+
+    des Finances (MEF) :                  (5), PCs (104)
+
+    Purchase of informatic
+    equipment
+
+                                          Reduce delays in processing the
+                                          invoices (bons d'engagement)
+
+                                                                                    1 month               10 days             3 days      1 week (*)    1 week
+
+                                         Reduce delays in processing the
+                                         payments (ordonnancements)
+
+                                                                                    2 month              1 month              15 days      15 days      8 days
+
+                                         Reduce delays in drafting the
+                                         budget
+
+                                                                                    4 months             2 months            2 months     2 months     1 month
+
+(*) A new administrative organization has been set up for a few months and delays a little bit the process. The issuance of loans
+and certification titles is not done within the same unit anymore. This is the reason why the length of the process has been extended
+from 3 days to one week.
+
+
+
+
+                                                                                         - 19 -
+
+  Detailed Performance Indicators for sub-component 2 (Customs) of Component 3:
+
+                                                                                 Indicators
+                                         Performance
+     Action          Description
+                                           indicators      Before the     Jun-03          Dec-03            Dec-04
+                                                             project
+Consultation        Consulting:Reco Number of errors                               5                2                  0
+Services for          mmendations      (central service,
+Securization of the back-up, security, users)
+GAINDE system           firewalls,     Improvement of                                creation of error systematic error
+                      compatibility    M&E dashboard                                 logs and reports  daily logs
+
+                                                         no restricted               Access restricted magnetic card
+                                       Premises access   access                                        access
+
+                                       network security                                                back-up site
+
+                                       and reliability                                                 operation +
+
+                                       (back-up system)                                                network security
+
+Purchase of         2PCs, 24 PCs, 2                      2 days         56           (65 processed per
+informatic          printers, 1        Reduction of tax                 exemptions/d day (61 approved,
+equipment for the scanner, 28          exemption process                ay           4 rejected)
+set-up of a new     UPSs, SQL          delay
+Economic Rules
+Management          Wiring             Reduction of fraud10%                                                          5%
+application.                           risks
+
+
+                                          Users training
+
+
+
+
+                                                                       - 20 -
+
+Detailed Performance Indicators for Component 5 (La Poste)
+
+      The assessment of indicators for the postal traffic lies in the « Statistique 539 », which basically measures the
+      workload of each postal office. These statistics are issued during the first quarter of each year and integrates
+      all the results of all the indicators used and compiles the overall results in the tables below.
+      For the specific purpose of the PMISA project, the performance indicators used are :
+      1 Average queuing delays
+      2 Claims ratio
+      3 Ratio of number of operations done per staff
+      To show the impact of the project, the tables below compare the results of 2002 with the one obtained for
+      2003.
+
+      Below is a summary of the indicators and objectives stated in the restructured project document.
+
+                              Indicators                                                Objectives
+
+
+      Average queuing delays                                     Reduce by half the average time of operations
+
+                                                                 processing
+
+
+      Claims ratio                                               Reduce the claims ratio by 10% every year.
+
+
+      Ratio of number of operations done per staff               Increase the number of operations done per staff
+
+                                                                 by 50% on a national average.
+
+
+      ü Averagequeuingdelays
+
+      The calculation of the average queuing time is based on the number of desks open on a business day (150) and
+      the theoretical opening time within a normal business day equals to 6 912 000 seconds.
+
+
+                                        2002                                   2003
+
+
+                                     Number of    Duration of  Number      Number of      Duration of
+        Type          Number of
+                       opérations    Operations   Operation      Of        Operations     Operation   Change ratio
+                                      per desk    processing  operations    per desk      processing
+
+
+       Guichet
+  affranchissement     12 308 959      82 060        84       15 258 743    101 725           68       - 19,33%
+
+   Financial desk      1 705 490       11 370        608      1 888 665      12 591          549       - 9,70%
+
+
+
+
+                                                               - 21 -
+
+ü Claimsratio
+
+Number in 2002        Number in 2003 Improvement          Remark
+4160                  2352             - 43.46%            La mise en place d'un système d'élaboration
+                                                           automatisé des procédures a permis d'améliorer les
+                                                           performances des bureaux quand au traitement de
+                                                           la clientèle
+
+ü Rationumberofoperationsdoneperstaff
+
+This calculation is based on a number of staff working at the clients' desks equals to 480.
+                                      2002                        2003
+
+       Operation type        Number of    Ratio per     Number of      Ratio per
+                             oeprations     agent       operations       agent        Evolution
+
+            CNE                341 315        711         383 920         800           12%
+
+          Mandats            1 364 175       2 842      1 504 745        3 135          10%
+
+     Lettres ordinaires      11 471 800     23 900      14 430 400       30 063         26%
+
+   Lettres recommandées        837 159       1 744        828 343        1 726          -1%
+
+           Total             14 014 449     29 197      17 147 408       35 724         22%
+
+
+
+
+                                                      - 22 -
+
+      Detailed performance indicators for Component 6 (University Gaston Berger - UGB)
+                                                                                                                indicators
+    Action        description               Performance indicators                              before project
+                                                                                                                                  Dec-04
+                                                                                               implementation
+
+               upgrade Cisco                                                                                                 FAI system with 32
+                                   Upgrade the Calculation Center into a ISP for Univesity
+               router and training                                                               FAI system with 4       simultaneous access and
+                                        students and staff. Training of engineers and          simultaneous access        training of Center's staff
+                                                   technicians in the Center                                                     completed
+               40 PC, 3 laptops, 9                                                         4 computer labs            7 computer labs
+                                     - Aménagement et équipement des trois salles de
+               printers                formations pour les étudiants dont une salle de
+                                    formation multimédia pour les séminaires. - Absence
+Increase the                       de revendications estudiantines relatives aux materiels
+
+access to                                     informatiques pour l'année 2003.
+
+informatics    equipment           Creation of a Distance Learning and Multimedia unit at                              Distance Learning and
+                                                                                                         -             Multimedia lab operational
+equipment at   multimedia                                    UGB
+               UPS, 4 PC,                                                                                              1 central UPS of 15 KVA
+University                             Improve the power supply security and ensure            4 UPS (2x2300VA +
+               network wiring        continuity of the service by the Calculation Center            2x5000VA)
+
+               1 server, 54 PC, 5   Creation of a virutal Library to increase the access of                            Virtual Library operational
+                                                                                                         -
+               printers                         the document for the students
+               reprography unit, 2                                                                                     3 press units are operational
+               copiers, 2 printers  Increased capacity of UGB to fulfill press production
+                                                                                                         -
+                                                             needs
+
+
+               Library                Set-up of a new Document Management system                         -                Document Management
+               Management                                                                                                  system purchased and
+                                       Automtization of the Library functions (lending,                                          operational
+               software                                                                                  -
+                                                    archiving, security, etc.)
+
+  Upgrade of   Student              Set-up of a Pedagogical information System (Central                                Student Management system
+                                                                                                         -
+ administrativeManagement                       Administration, Hostels, etc.)                                                   operational
+                                      Automatization of diverse functions related to the
+  application  software
+                                        student cursus within UGB (course schedule,                      -
+                                                  subscriptions, grades, etc.)
+
+                                      Modernization of the Registrar Unit's information
+                                                                                                         -
+                                                            system
+
+               116 PC, 25                                                                                              3 computer labs operational
+               workstations, 1                                                                                         and more than 75% of the
+                                                                                                                       R&D unit fully equipped with
+               server 23 printers 4                                                         less than 50% of R&D units computers
+Upgrade of     scanners, 4         Installation of computer labs for research in R&D units
+                                                                                             equipped with computers
+
+Information    projectors
+
+systems in R&D
+units          network equipment                                                                                       The Intranet covers the whole
+               and wiring                                                                                              campus except the 3 new
+
+                                      Extension of UGB's Intranet to all the R&D units                   -             buildings under construction
+
+
+
+
+                                                                   - 23 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                                              Appraisal          Actual/Latest          Percentage of
+                                                                              Estimate             Estimate                Appraisal
+                           Component                                         US$ million          US$ million
+Component 1: Presidency                                                            0.40                   0.65                     161
+Component 2: Government LANs and Intranet                                          4.20                   3.30                      78
+Component 3: Ministry of Finance                                                   0.49                   0.50                     101
+Component 4: Ministry of Interior                                                  0.90                   1.20                     133
+Component 5: La Poste                                                              0.69                   0.86                     124
+Component 6: University Gaston Berger                                              0.68                   0.90                     135
+Project Coordination Unit                                                          0.37                   0.71                     193
+Y2K project                                                                        2.42                   2.50                     103
+
+
+Total Baseline Cost                                                              10.15                   10.62
+  Physical Contingencies                                                                                                           105
+                              Total Project Costs                                10.15                   10.62
+                      Total Financing Required                                   10.15                   10.62
+The total amount of funds disbursed at the end of the project is superior to the initial amount due to the large drop of the dollar
+rate.
+
+
+
+
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                                          1
+                                                            Procurement Method
+     Expenditure Category                   ICB                   NCB                       2            N.B.F.           Total Cost
+                                                                                      Other
+1. Works                                    0.00                  0.00                  0.00               0.00               0.00
+                                           (0.00)                (0.00)               (0.00)              (0.00)             (0.00)
+2. Goods                                    9.04                  0.80                  0.16               0.00               10.00
+                                           (5.41)                (0.75)               (0.14)              (0.00)             (6.31)
+3. Services                                 0.00                  0.00                  2.12               0.00               2.12
+                                           (0.00)                (0.00)               (1.85)              (0.00)             (1.85)
+4. Miscellaneous                            0.00                  0.00                  0.00               0.00               0.00
+                                           (0.00)                (0.00)               (0.00)              (0.00)             (0.00)
+5. Miscellaneous                            0.00                  0.00                  0.00               0.00               0.00
+                                           (0.00)                (0.00)               (0.00)              (0.00)             (0.00)
+6. Miscellaneous                            0.00                  0.00                  0.00               0.00               0.00
+                                           (0.00)                (0.00)               (0.00)              (0.00)             (0.00)
+    Total                                   9.04                  0.80                  2.29               0.00               12.12
+                                           (5.41)                (0.75)               (1.99)              (0.00)             (8.16)
+
+ 1/Figures in parenthesis are the amounts to be financed by the IDA Credit. All costs include contingencies.
+
+ 2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+   of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+
+
+
+                                                             - 24 -
+
+managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+
+                                                    - 25 -
+
+Annex 3. Economic Costs and Benefits
+
+The overall objective of improving the quality of public services by modernizing their respective
+information system has been achieved in terms of performances and appreciation of the clients (see
+Annexes 8 & 9). It is difficult to assess at the time of the ICR the actual costs and benefits that the project
+will incur. However, several aspects can already be considered: (i) the service "phone over IP" developed
+on the Intranet will save a large part of the Administration phone bill. Although the international calls will
+remain as part of the Sonatel services, internal calls (within the Administration) will be carried out over the
+Intranet and thus free of charge for the caller (the cost of this service will be included in the overall cost of
+the Intranet maintenance and development). The AIE evaluates the potential annual savings to reach four
+billions F CFA; (ii) the email service currently developed will save the enormous costs of regular mailing as
+well as time; and (iii) electronic archiving will save the cost of paper. The overall maintenance costs of the
+Intranet including its development (applications & services) and expansion (networks in regions and other
+public entities) is estimated to be around two (2) billions F CFA per year.
+
+In addition to the direct savings generated by the operations of the Intranet, the reliability of the new
+systems (see performances of La Poste, the Customs and the DTAI) generates indirect savings: more
+operations and less errors. The PMSIA can be considered as a very cost-effective operation.
+
+
+
+
+                                                      - 26 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                  No. of Persons and Specialty                Performance Rating
+                                      (e.g. 2 Economists, 1 FMS, etc.)         Implementation Development
+                    Month/Year  Count           Specialty                        Progress       Objective
+
+ Identification/Preparation
+               04/27/99                  1     TL
+               05/18/99                  1     Sr. Information Specialist
+
+ Appraisal/Negotiation
+               08/23/99                  3     TTL (1); FINANCIAL
+                                               SPECIALIST (1);
+                                               PROCUREMENT
+                                               SPECIALIST (1)
+
+ Supervision
+
+               05/04/2000                 1    TL (1)                               S               S
+               04/20/2001                 3    TTL (1); FINANCIAL                   S               S
+                                               SPECIALIST (1);
+                                               PROCUREMENT SPECIALIST
+                                               (1)
+               07/10/2002                 4    TTL (1); PROCUREMENT                 U               U
+                                               SPECIALIST (1); FINANCIAL
+                                               SPECIALIST (1);
+                                               CONSULTANT (1)
+               10/11/2002                 3    TTL (1); PROCUREMENT (1);            S               S
+                                               FINANCIAL MANAGEMENT
+                                               (1)
+               05/13/2003                 3    TTL (1); PROCUREMENT (1);            S               S
+                                               FINANCIAL MANAGEMENT
+                                               (1)
+               11/28/2003                 4    TTL (1); IN CHARGE OF ICR            S               S
+                                               (1); PROCUREMENT
+                                               SPECIALIST (1); FINANCIAL
+                                               SPECIALIST (1)
+               06/19/04                   2    TTL (1); PROCUREMENT (1);            S               S
+
+ ICR
+               12/05/04                  1     TTL (1)                              S               S
+
+
+
+(b) Staff:
+
+       Stage of Project Cycle                   Actual/Latest Estimate
+                                    No. Staff weeks                  US$ ('000)
+  Identification/Preparation                  16                            85
+  Appraisal/Negotiation                        6                            25
+  Supervision                                 40                           200
+  ICR                                          6                            30
+  Total                                       68                           340
+
+
+
+
+                                               - 27 -
+
+- 28 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 29 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 30 -
+
+Annex 7. List of Supporting Documents
+
+Project Appraisal Document
+Project de Modernisation des Systèmes d'Information de l'Administration (PMSIA) document (version
+September 2001)
+Performances Reports from the stakeholders
+PSRs, BTORs and Aide-Memoires
+Borrower's completion Report
+
+
+
+
+                                                 - 31 -
+
+   Additional Annex 8. Government Intranet Schema
+
+
+
+
+                    SONATEL
+INTERNET             ALIZE
+                     SENTEL
+
+
+
+
+                              Main
+                          Administrative
+                             Building               Nat. Assembly       MEN
+
+
+ DIE « Data Center »
+
+
+
+
+                                                          MEF
+              MAE
+                                                                        Cour des
+                                                                        Comptes
+
+                                                        MINT
+
+
+                               Lat Dior
+
+
+
+      CF Pikine               DPS                                 Health
+
+
+
+
+                                           - 32 -
+
+       Additional Annex 9. Detailed Description of the Components and Sub-components
+
+       Original Components
+
+
+General Summary                           included PPF     Phase 1   Phase 2  Phase 3 Phase 4  Total
+Component 1                                         250 000                                         750 000
+                   Project Strengthening                      220 000  150 000 120 000  260 000
+Component 2                                                                                       6 700 000
+Systems updating and upgrading
+                           Main Centers              5 0000 1 300 000  840 000       0  600 000   2 740 000
+                         Administrations                               975 000 465 000   60 000   1 500 000
+                 State Owned Enterprises            450 000   480 000  430 000 150 000  100 000   1 600 000
+                                  Health                               340 000 520 000              860 000
+Component 3
+Contingency Plans                                                                                 1700 000
+                                 national                              200000   150000              350 000
+                           sector specific                             600000   750000            1 350 000
+Unallocated                                                                                       1 000 000
+                                                               100000  400000   400000  100 000
+Total                                                                                           10 150 000
+                                                    750000   2000000  3935000 2555000 1 120 000
+
+
+
+
+       Component 1: Project Management Strengthening
+       The Project Management Unit was initially in charge of the following main tasks:
+       (a) overall supervision of the project, reporting weekly to the Y2K Project Steering Committee chaired by
+       the Minister of Scientific Research and Technology (MRST); progress reports were sent to World Bank
+       project team monthly;
+       (b) selection of priorities and validation of actions to be launched by beneficiaries in accordance with the
+       project's four phases;
+       (c) supervision of budget, procurement and disbursements; in order to accelerate the start of the project,
+       related operational tasks were subcontracted to a separate organization, the Fondation Secteur Privé
+       (FSP), which had already been in charge of similar tasks for other WB-financed operations;
+       (d) supervision and follow-up of remediation actions carried out in public sector areas;
+       (e) supervision and follow-up of contingency action plans' development and implementation;
+       (f) definition and implementation of a Communication Plan dedicated to Y2K readiness information
+       dissemination; and
+       (g) training for increasing awareness of stakeholders and the public on Y2K risks and Senegal's strategic
+       areas' readiness.
+       Total Budget for this component was estimated at US$750,000, of which US$250,000 were financed under
+       the PPF.
+
+       Component 2: Public Sector Remediation
+       The remediation and upgrading of public sector information systems was split into four subcomponents:
+       * Main Administrations' Information Centers (DTAI, DAF, CID)
+       * Other Ministries and Public Administrations
+       * State-owned Enterprises
+       * Health
+       Subcomponent 1: Main Administrations' Information Centers
+       (a) Direction du Traitement Automatique de l'Information (DTAI-Ministry of Finance) is in charge of
+       critical operations such as civil servants' payroll, treasury, tax recovery, debt management, etc.
+
+
+
+                                                                     - 33 -
+
+(b) Direction de l'Automatisation des Fichers (DAF-Computer Automation Department - Ministry of
+Interior) is in charge of the election system, identity cards, visas and passports, etc. The election system
+correction was almost completed at the beginning of the project; however, critical applications (identity
+cards, visas and passports, human resources management) remained to be addressed.
+(c) Centre lnformatique des Douanes (CID-Customs Department of Informatics). The GAINDE 3 system
+is vital for Senegal and represents a major share of government financial resources. A Y2K remediation
+contract with ACFO (a French software company) of more than US$1 million was at high risk according to
+information provided to the Bank's mission, and the following urgent actions had been agreed on: audit of
+ACFO's planning and delivery by an independent consultant; upgrading of CID's technical platform; and
+training and assistance to the 200 clients connected to CID's system (these three actions were financed
+under PPF funds). A specific Contingency Plan was necessary due to the very high impact of a potential
+failure in customs' operations. This plan and related budget were put under direct control of CID in close
+coordination with general Contingency Plan development.
+
+Budget Summary for main administration information centers (US$ 6.9)
+
+            Total          GOS              Other donors              Project
+Service    Budget          financing        financing                 funds
+DTAI        3.1            1.2              0.5*                      1.4
+DAF (a) 2.1                0.9              0.6**                     0.6
+CID (a) 1.7                                 1.0***                    0.7
+Total     6.9              2.1              2.1                       2.7
+*infoDev; **Canadian; ***French, (a) including US$50,000 financed under PPF.
+
+Subcomponent 2: Other Ministries and Public Administrations
+Requests were collected by the Délégation à 1'Informatique through a comprehensive inventory of all
+equipment installed in administrations and public services. It was proposed that the project covered
+remediation actions representing about 50% of the needs identified for 14 main Ministries and Services:
+* Due to time constraints, it was assumed that only 50% to 60% of this program could be achieved before
+the end of 1999 and that further actions would be taken according to real dysfunctions observed in early
+2000.
+* As most computer applications corresponded to office automation (word processing and spreadsheets),
+some light dysfunctions would not be critical for a short period. Prioritization based on risk analysis
+according to the importance of each service and application concerned would have to be managed by the
+Y2K Public Sector and Administrations' Commission in close connection with the PMU.
+* Preparation of implementation and some urgent remediation actions were started in March 1999 and were
+to be covered retroactively.
+
+A budget of US$1.5 million was allocated for this subcomponent, including a provision of US$0.4 million
+with regard to remediation needs for administrations where the inventory had not yet been completed.
+
+Subcomponent 3: State-owned Enterprises (Poste, SNCS, PETROSEN, SODAGRI, SAED)
+The Y2K Coordination Committee collected needs assessments from state-owned enterprises impacted by
+the Y2K problem. Each company had produced a detailed inventory and a remediation plan that supported
+its request. During project preparation, detailed Terms of reference (TOR) were being prepared for
+immediate and urgent actions. A budget of US$1.6 million was allocated for this area, including
+US$450,000 financed under the PPF.
+
+Subcomponent 4: Health
+
+
+                                                      - 34 -
+
+The first results of the national survey showed that the Y2K bug could impact office automation and
+medical instruments. A preliminary estimate of US$0.85 million for remediation actions was envisaged at
+this stage.
+
+Component 3: Contingency Plans
+It was obvious that due to time constraints and the necessity to carry out reliable conceptual studies before
+investing in hardware or software, all systems would not be fully ready by December 31, 1999, and that
+preventive means and organizations had to be put in place to solve any critical situation that can provoke
+domino and systemic impact on the whole Senegalese economy and social life. Contingency Plans have to
+address this issue with two different targets:
+* A global target to ensure that the population and the economy would not be severely impacted by a
+disaster due to Y2K major failures in strategic infrastructures (such as water, electricity,
+telecommunications, finance); this was to be addressed by a National Contingency Plan.
+* A sector-specific target to ensure that functioning of administrations and large institutions/enterprises
+would not be adversely affected by Y2K failures and that critical activities would continue even with a
+decrease of quality of service; this was to be addressed by Sector-specific Contingency Plans.
+Since much work had yet to be undertaken in this area, a team of international consultants was hired,
+financed by PPF funds under Component 1, and supervised by the PMU to:
+* assess the overall readiness in critical areas;
+* evaluate risks and strategic activities to be guaranteed at national and sector levels; and
+* assist Senegalese contingency plan teams in the conception and implementation of adequate contingency
+plans (studies, training, seminars) at national and sector-specific levels.
+
+All contingency action plans (national and sector specific), with the exception of the one for customs, were
+put under the direct responsibility of the PMU, and a full time team leader of the PMU was appointed by
+the Senegalese Government. Budget estimate covering logistics, training, tests and specific investments was
+US$1.7 million (25% for the national plan and 75% for sector-specific plans); this amount includes
+financing of some urgent remediation actions to correct systems' failures that could be observed in the
+beginning of 2000.
+
+Revised Components
+
+This Annex describes the restructured project design and the specific revisions that were made during
+implementation (the figures in parentheses show the amounts allocated at the latest revision of the design in
+September 2001).
+
+Component (1) modernization of the information systems at the Office of the President ($0.400 million):
+
+This component comprised at the restructuring four sub-components: (i) strengthening the information
+system at the Office of the President; (ii) carrying out training in information systems for the staff of the
+Presidency; (iii) establishing the Intranet system for the Government; and (iv) support of the APIX's
+information system creation.
+
+In September 2001, the Government Intranet sub-component was moved to the Component 2 and replaced
+by the audit of the Administration (exhaustive list of the existing IT equipment in the Administration in
+2001.
+
+Component (2) modernization of the information systems of the prime Minister's Office and the Ministries
+and establishing the Government Intranet ($4.200 million):
+
+
+                                                     - 35 -
+
+This component initially comprised four sub-components: (i) modernizing and expanding internet server
+access; (ii) carrying out training in information systems for the staff of the Prime Minister's Office and
+Ministries; (iii) preparing software acquisition and installation plan; (iv) establishing the LAN information
+technology network.
+
+After the latest revision of the components' design, the component 2 included: (i) the informatic (computers
+and software) system of the Prime Minister's office and the ministries; and (ii) implementation of a Local
+Area Networks (LANs) linking the Ministries, and development of a "Electronic Documents Management"
+application; and (iii) the Government Intranet.
+
+Component (3) modernization of the information systems of the Ministry of Economy and Finance ($0.490
+million):
+
+This component comprised two sub-components: (i) development and expansion of software application for
+the Borrower's tax, customs, and debt management systems; and (ii) establishment of a socio-economic
+database for the analysis of poverty in the Borrower's territory.
+
+As mentioned above, the second sub-component was abandoned as implemented by another project. The
+revised component's design included: increase of the state's revenues by improving the information system
+accuracy, security and efficiency at (i) the DTAI, AJE and DCM; and (ii) the Customs.
+
+Component (4) modernizing the information systems of the Ministry of Interior ($0.940 million):
+
+This component comprised two sub-components: (i) establishment of a pilot information system unit in
+Dakar; and (ii) implementation of regional information systems to support the decentralization. This
+component remained the same after the project restructuring.
+
+Component (5) modernizing the information systems of Public Entities ($0.690 million):
+
+This component comprised: (i) the upgrade of the existing information system of the Borrower's postal
+services; and (ii) the upgrade of the existing financial and administrative information system of the
+Borrower's national Lottery (LONASE).
+
+Given the very tight implementation schedule, the project decided to focus only on the modernization of the
+information system of the para-statal company La Poste. The resources initially allocated to the LONASE
+to the Government Intranet sub-component.
+
+Component (6) modernizing the Information Systems of the University of St Louis ($0.700 million):
+
+This component comprised two sub-components: (i) the establishment of the information system network of
+the University; and (ii) the establishment of a multimedia and Internet access for the University.
+
+This activities were later broken down into three more specific activities: (i) the modernization of the
+informatics equipment; (ii) the development of applications to support the management of the University
+administration; and (iii) the modernization of equipment and applications supporting Research and
+Development.
+
+
+
+
+                                                     - 36 -
+
+Additional Annex 10. Borrower's Report
+
+                                   REPUBLIQUE DU SENEGAL
+
+                                     UN PEUPLE - UN BUT ­ UNE FOI
+
+
+                               PRESIDENCE DE LA REPUBLIQUE
+
+                                    SECRETARIAT GENERAL
+
+                           DIRECTION INFORMATIQUE DE L'ETAT
+
+                            Programme de Modernisation des Systèmes
+
+                                  d'information de l'Administration
+
+
+
+
+                                           Octobre 2004
+
+I - INTRODUCTION
+
+A l'instar de lacommunauté internationale, le Sénégal s'était organisé pour prévenir les risques lié
+;s au passage à l'an 2000. Cette volonté politique s' est matérialisée par la mise en oeuvre d'une
+stratégie nationale caractérisée par (i) la mise en place d'organes de pilotage et de coordination,
+(ii) l'organisation des acteurs en secteurs d'activités et (iii) la mobilisation des ressources
+financières.
+
+Sur ce dernier point, le Gouvernement du Sénégal avait d' abord mobilisé sur son budget 1,9
+milliards de F.CFA pour permettre un démarrage immédiat des activités prioritaires du programme
+national de passage à l'an 2000.
+
+Il s'agit, entre autres, de la prise en charge partielle des coûts de conversion des applications
+critiques des grands centres informatiques et l'inventaire des matériels et systèmes impactés au
+sein de l'Administration centrale et locale.
+
+Le Gouvernement du Sénégal avait ensuite négocié et obtenu un crédit IDA pour le financement de
+
+
+
+
+                                                 - 37 -
+
+son Projet d' Assistance au Plan d'action national pour le passage à l'an 2000.
+
+Ce Projet a été l'objet de l'accord de crédit N° 3289-SE du 17 décembre 1999 entre le
+Gouvernement du Séné gal et l'IDA d'un montant de sept millions cinq cent mille (7 500 000) DTS
+soit l'équivalent de 10,150 millions de dollars américains. Il est entré en vigueur le 13 avril 2000 et
+a été pré cédé par un PPF de 750 000 DTS.
+
+Grâce à une optimisation des solutions de prévention mises en oeuvre, les dépenses engagées pour
+la réalisation des trois premières phases dédiées à la mise en conformité des équipements
+informatiques et aux plans d'urgence pour le passage à l'an 2000 sont restées largement en deçà
+des montants estimés à l'origine du Projet.
+
+Au 31 mars 2000, le taux de décaissement s'est finalement limité à 19 % environ. Cette
+opportunité a é té saisie pour initier un Programme de Modernisation des Systèmes d'Information
+de l'Administration (PMSIA) qui a induit un amendement à l'accord de crédit intervenu le 16 mai
+2001.
+
+II. RAPPEL DES OBJECTIFS DU PMSIA.
+
+Le Programme de Modernisation des Systèmes d'Information de l' Administration (PMSIA) résulte
+de la restructuration du « Projet d'Assistance au Plan d'action National pour le Passage à l'an 2000
+». L'accord de crédit a été amendé à cette fin le 16 mai 2001.
+
+Le PMSIA s'articule autour de six composantes poursuivant les objectifs généraux suivants :
+
+II-1 : Composante 1 : La Présidence :
+            l   Placer la Présidence de la République au coeur d'un système d'information gouvernemental
+                moderne, performant et rigoureux pour mieux répondre aux multiples exigences de la vie
+                politique nationale et internationale ;
+            l   Positionner l'Etat du Sénégal parmi l'élite des pays en développement en matière d'utilisation des
+                NTIC au service du progrès économique et social ;
+            l   Faciliter les relations entre la Présidence de la République et les citoyens grâce à des circuits de
+                communication é lectronique plus accessibles, permettant de satisfaire le droit à l' ;information et
+                les besoins d'expression de la population ;
+            l   Optimiser en qualité (fluidité etsécurité des échanges, performances des solutions technologiques
+                adoptées, pertinence des outils de requête et d'analyse) comme en quantité, les flux
+                d'informations entre la Présidence et l'ensemble des autres structures gouvernementales ;
+
+
+II-2 : Composante 2 : Primature et autres ministères :
+            l   Lancer sans délai les opérations d'installation des nouveaux matériels permettant de mettre à la
+                disposition des utilisateurs les applications dont le développement ou la rénovation fonctionnelle
+                a déjà été réalisé ;
+            l   Optimiser et pérenniser les investissements pour la modernisation des équipements ;
+            l   Assurer l'homogénéité et la qualité des parcs de matériels nouvellement constitués en permettant
+                en outre une meilleure maîtrise de leur gestion et de leur évolution dans le temps ;
+            l   Harmoniser les systèmes d'information des Administrations en les dotant d'applications
+                communes pour favoriser la communication entre les services et standardiser les pratiques au
+
+
+
+                                                        - 38 -
+
+           niveau des activités administratives courantes ;
+        l  Permettre une entrée massive mais maîtrisée des NTIC dans le quotidien des activités de
+           l'Administration afin de proposer un cadre de travail plus convivial favorisant l'émergence d'une
+           dynamique de collaboration et d'échange entre tous les acteurs ;
+        l  Contribuer à l'accélération du développement du pays par l'allègement des procédures,
+           l'augmentation de la productivité et de la réactivité des agents de l'Administration et
+           l'accroissement de la rapidité de circulation de l'information ;
+        l  Offrir aux populations un nouveau visage de l'Administration plus disponible, plus à l'écoute de
+           leurs difficultés ou de leur attentes, avec une capacité et une qualité d'accueil accrues.
+
+II-3 : Composante 3 : Ministère de l'Economie et des Finances :
+        l  Amélioration des performances et de la fiabilité du systè me douanier GAINDE ;
+        l  Compenser la perte des recettes douanières par l'amélioration du rendement des autres sources de
+           revenus ;
+        l  Moderniser les fonctions de collecte et de gestion des ressources financières de l'Etat ;
+        l  Automatiserles procédures de gestion de la DMC (Direction de la Monnaie et du Crédit) ;
+        l  Mettre en place au sein du MEF des applications qui permettront la dé centralisation progressive
+           d'une partie des fonctions informatiques actuellement concentrées au niveau du centre de calcul ;
+        l  Optimiser les conditions de traitement de l'information, notamment dans les fonctions de gestion
+           financière et de gestion de ressources ;
+        l  Favoriser l'accès à l'information et la communication entre les différents services du MEF et de
+           l'Etat ;
+        l  Augmenter la réactivité des services administratifs dans l'exercice de leurs activités.
+
+
+II-4 : Composante 4 : La POSTE :
+        l  Doter chaque bureau d'un équipement local permettant d' accéder à toutes les ressources du
+           système d' information et de l'alimenter au quotidien ;
+        l  Mettre en place de nouveaux services à valeur ajoutée à la clientèle (accès Internet, courrier
+           hybride ...) ;
+        l  Rationaliser les traitements de l'information relatifs aux fonctions et aux besoins directement liés
+           aux activités des bureaux ;
+        l  Améliorer les procédures, processus, règles de gestion ...
+
+
+II-5 : Composante 5 : Ministère de l'Intérieur :
+        l  Doter chaque région d'un système d'information permettant un accès direct aux informations
+           économiques, sociales et culturelles de chaque département ou localité ;
+        l  Favoriser les contacts de proximité entre les usagers et les services administratifs ;
+        l  Décentraliser les traitements de l'information relatifs aux fonctions et aux besoins directement
+           liés aux activités des régions ;
+        l  Améliorer les procédures de diffusion de l'information à usage interne ou externe ;
+        l  Renforcer les moyens de gestion de certaines activités dispersées sur le territoire.
+
+
+II-6 : Composante 6 : Université Gaston Berger :
+        l  Créer les conditions d'une approche globale des besoins exprimés par les diverses structures de
+           l'UGB ;
+        l  Rationaliser l'expression de ces besoins et proposer des solutions communes répondant
+           concrètement aux espérances de l'UGB tout en respectant les limites économiques fixées par
+           l'Accord de Crédit ;
+
+
+
+                                                   - 39 -
+
+            l   Faciliter le déploiement de l'organisation voulue par l'UGB pour la modernisation de ses services
+                centraux ;
+            l   Développer un processus de partage des ressources informatiques ;
+            l   Favoriser la mise en synergie des actions entreprises par chacune des structures concernées pour
+                améliorer son propre environnement de travail ;
+            l   Impulser une nouvelle dynamique de communication et de concertation entre tous les acteurs de
+                la vie universitaire ;
+            l   Promouvoir une démarche de type projet pour la conception des solutions à mettre en oeuvre ;
+            l   Ouvrir à tous, sans restriction ni contrainte, l'accès aux nouveaux moyens technologiques dont
+                seront progressivement équipé es les fonctions communes ;
+            l   Contribuer à la réalisation des objectifs de croissance de l'UGB.
+
+III-EVALUATION DE L'ATTEINTE DES OBJECTIFS DU PROJET
+
+III-1 : Composante 1 : Présidence
+
+Cette composante représentait environ 4 % du financement du projet. Le taux d'exécution global a
+été 161,25 %. Ce dé passement important par rapport à l'allocation initiale s' explique
+essentiellement par une sous-évaluation du budget pré visionnel des acquisitions de l'APIX. La
+quasi-totalité des objectifs fixés ont été atteints. Les réalisations et acquisitions faites sont les
+suivantes :
+
+III.1.1 ­ Conduite d'une mission d'audit des systèmes d'information existants au sein de
+l'Administration :
+
+
+Cette mission a permis de couvrir un périmètre de 32 ministères, collectivités locales et autres
+institutions et dénombrer globalement :
+   l    8766 micro-ordinateurs dont 7192 en bon état ;
+   l    3786 imprimantes avec une grande prédominance de la marque HP (environ 67 % du parc) ;
+   l    3333 onduleurs dont l'essentiel (2608, soit 78,25 %) est doté d'une puissance de 500 VA ;
+   l    etc...
+
+III.1.2 ­ Acquisition d'équipements informatiques pour la Direction Informatique de l'Etat :
+
+Ces équipements sont constitués de 5 serveurs, 25 PC, 10 portables et 12 imprimantes.
+
+III.1.3 ­ Acquisition d'équipements pour l'APIX :
+
+Il s'agit essentiellement d'équipements micro-informatiques et de matériels audio et vidéo.
+
+III-2 : Composante 2 : Primature et autres ministères.
+
+L'essentiel des ressources du projet, après restructuration,devait être consacré à cette
+composante, soit plus de 41 %. Le taux d'exécution global a été de 78,77 %. Il s' explique par le
+fait que le budget initial de l'INTRANET, dernière action a être lancée , a dû être réduiten raison
+des dépassements constatés dans les autres composantes et de la baisse du dollar qui a minoré la
+disponibilité du compte spécial. Sinon L'essentiel des objectifs fixés ont é té atteints. Les
+
+
+
+                                                       - 40 -
+
+réalisations et acquisitions faites sont les suivantes :
+
+III.2.1 ­ Acquisition d'équipements informatiques pour les ministères :
+
+Il s'agit de 270 PC, 12 portables, 80 imprimantes et 46 onduleurs. Ces équipements ont permis de
+renforcer considérablement le potentiel des départements ministériels et d'améliorer leur accès à
+Internet.
+
+III.2.2 ­ La mise en oeuvre de l'INTRANET Gouvernemental :
+
+Il s'agit essentiellement de la réalisation d'un réseau métropolitain comprenant un réseau primaire
+en anneau optique couvrant le centre ville , un réseau secondaire en boucle locale radio couvrant
+toute la région de Dakar, la mise en place d'une infrastructure de sécurité et l'intégration de la
+téléphonie sur IP. En outre les locaux pilotes de l' INTRANET ont été entièrement câblés.Enfin 3
+consultants ont été également recrutés pour aider à l'encadrement et à la coordination des tâches
+pour cette action phare du programme.
+
+III-3 : Composante 3 : Ministère de l'Economie et des Finances.
+
+Cette composante représentait environ 5% des ressources du PMSIA. Les tâches exécutées dans
+cette composante sont globalement restées dans les limites budgétaires. L'essentiel des objectifs
+fixés ont été atteints avec comme principales acquisitions : des équipements informatiques (128 PC
+dont 24 pour la Douane, 5 serveurs, 28 onduleurs, etc...) et des développements spécifiques pour
+l'Agence Judiciaire de l'Etat et la Direction de la Monnaie et du Crédit.
+
+III-4 : Composante 4 : La POSTE.
+
+Environ 7% des ressources du crédit ont été consacré ;es à cette composante. Cette composante a
+consommé à l'arrivée 24% de ressources supplémentaires par rapport aux prévisions initiales. Les
+réalisations au titre de cette composante sont, entre autres, l'équipement des 135 bureaux de
+poste du pays et l'acquisition de nouvelles applications postales et financières.
+
+III-5 : Composante 5 : Le Ministère de l'Intérieur .
+
+Cette composante a utilisé environ 9 % des ressources du Projet après restructuration du crédit.
+Un dépassement de 33 % des allocations budgétaires initiales a été constaté ; à la clôture du
+projet. Cette situation s'explique pour l'essentiel par une sous-évaluation des besoins de la
+Direction de l'Automatisation des Fichiers et une baisse assez substantielle du taux de change du
+dollar.
+
+La mobilisation de ces ressources a permis d'atteindre les objectifs fixés, avec notamment les
+réalisations suivantes :
+   l    l'acquisition d'équipements dont, entre autres, 150 PC, 150 onduleurs et 50 imprimantes ;
+   l    le câblage de l'ensemble des préfectures du pays ;
+   l    le développement d'applications spécifiques et ;
+   l    la mise en place d'une base de données socio-économiques avec notamment un système
+
+
+
+                                                 - 41 -
+
+        d'informations géographiques.
+
+III-6 : Composante 6 : Université Gaston Berger.
+
+Les ressources du Projet prévues pour cette rubrique repré sentaient environ 6,65 % du crédit. A
+l'arrivée, ce budget a été dépassé de plus de 35 % avec un taux d' exécution de 135,22 %, malgré
+l'annulation d'une action dont le fournisseur a été défaillant. Ce dé passement s'explique, pour
+l'essentiel, par une sous-é valuation du budget. On peut considérer que les objectifs ont é té
+globalement atteints, avec, entre autres, les réalisations suivantes pour les Unités de Formation et
+de Recherche, la Bibliothèque et le Service de la Scolarité :
+    l   l'acquisition   de  200    PC,  de  40   imprimantes    et  divers   autres    é   quipements
+        microinformatiques ;
+    l   l'acquisition d'une unité de reprographie et d'é quipements multimédia ;
+    l   des développements spécifiques pour la Bibliothèque et la Scolarité.
+
+III-7 : Administration du PMSIA.
+
+La rubrique coût de fonctionnement a pour objet de supporter, entre autres, les charges liées à
+l'exécution du projet y compris les missions d'audit, les salaires du personnel local, les fournitures
+de bureau, les frais de communication et l'entretien des véhicules.Ces dépenses ont été exécuté
+;es normalement. A cela, il faudrait ajouter la prise en charge du consultant permanent du Projet
+et la rémunération des prestations de l' ;agence d'exécution. Le taux d'exécution a é té de 192,78
+%, soit un dépassement de 92 % justifié pour l'essentiel par le prolongement imprévu du contrat du
+consultant du projet, avec les différents reports de la date de clôture du projet.
+
+IV- Evaluation de l'exécution du projet et des principaux facteurs ayant
+affecté sa réalisation.
+
+IV-1 : L'efficacité recherchée par la Banque à travers la sous-traitance des fonctions de gestion
+financière et de passation des marchés à une structure par elleagréée n'a pas toujours produit les
+effets escomptés.
+
+En effet, pour la première phase du PROJET, il est apparu, à l'épreuve de la pratique, que le
+personnel de la Fondation du Secteur Privé (FSP) chargé de mettre en oeuvre les dispositions du
+protocole n'avait pas en réalité une parfaite maîtrise des procédures de la Banque. Il a fallu un
+temps d'adaptation assez long pour obtenir une amélioration des prestations. Il s'y ajoute qu'aucun
+membre de l'équipe FSP n'était affecté à temps plein aux tâches du Projet, ce qui posait de temps
+à autre un réel problè me de disponibilitéface à certaines urgences du projet.
+
+Pour la deuxième période marquée par le remplacement de la Fondation Secteur Privé par l'APIX,
+onpeut globalement considérer que la situation s'est relativement amé liorée, encore qu'il ait fallu
+procéder à un certain nombre de réglages, notamment :
+    l   l'implication du staff du Projet, qui, par nécessité, et après avoir acquis une certaine
+        expertise dans la connaissance des procédures de la Banque, a fini par comprendre qu'il
+        valait mieux mettre en oeuvre une stratégie d'anticipation compte tenu du fait qu'il était
+
+
+
+                                                - 42 -
+
+         obligé, après coup, de prendreen charge les erreurs qui n'étaient pas de son fait ;
+    l    le recrutement d'un comptable par le PMSIA ;
+    l    l'acquisition du logiciel TOMPRO pour la comptabilité du PMSIA.
+
+IV-2 : La qualité de certains dossiers techniques qui n'a pas toujours été des meilleurs a été
+souvent une source de ralentissementet de multiples allers retour entre le PMSIA et la Banque
+Mondialeavant d'obtenir l'avis de non objection de cette derniè ;re.
+
+IV-3 : Les dépouillements des offres ont été bien souvent anormalement longs notamment pour la
+phase analyse technique par les maî tres d'ouvrage, la rédaction des rapports d'évaluation et la
+signature desdits rapports par l'APIX.
+
+IV-4 : Après la restructuration, si la préparation des DRFs par le comptable du PMSIA a permis
+d'améliorer considérablement le rythme des décaissements, force est cependant de reconnaître
+que ces performances ont été plus ou moins amoindries par les délais d'intervention de l'APIX pour
+la validation et la transmission des dossiers à la DDI.
+
+IV-5 : Conformément aux exigences de l'accord de crédit, le PMSIA s'est attaché les services d'un
+consultant qui faisait office d'assistant au Directeur du Projet. Cette collaboration a d'ailleurs
+débuté depuis la première phase du Projet consacrée au passage à l'An 2000. Si au courant de
+toute la phase An2000 et le début de la restructuration, la collaboration a été très fructueuse, il
+reste que par la suite et jusqu'à la fin du PMSIA le rendement du Consultant a progressivement et
+considé rablement baissé, sans doute par lassitude, en raison de la longueur du contrat. Au fil du
+temps, il a été de plus en plus difficile de lui faire tenir ses engagements en termes de délai pour
+la ré alisation des travaux à lui confiés.
+
+IV-6 : Pendant toute la durée du projet, les agents de l'Etat affectés à la cellule de gestion,
+notamment le Coordonnateur et son principal collaborateur Chargé de la passation, n'ont jamais pu
+obtenir une indemnité spécifique liée à leur situation de détachement, ni obtenir que leurs rémuné
+rations soient alignées sur celles de leurs homologues des autres projets financés par la Banque
+Mondiale, malgré les contraintes d'efficacité et de rigueur, malgré la forte sollicitation à laquelle
+ils ont dû répondre pour satisfaire aux impératifs du Projet en situation d'urgence. Cette situation
+qui a été toujours vécue comme une injustice et une frustration, n'a pas manqué, par moment,
+d'affecter leur motivation, surtout qu'a côté, le consultant du projet placé sous leur responsabilité
+avait untraitement sans commune mesure.
+
+V-Evaluation des performances de la Banque Mondiale.
+
+V-1 : Durant tout le déroulement du projet, la Banque a traité avec beaucoup de diligence et
+d'efficacité les demandes de non objection. A titre d'illustration, le délai conventionnel de 15 jours
+retenu d'accord parties pour donner une non objection a rarement été dépassé, même pour les
+rapports d' évaluation dont l'examen est souvent plus complexe et requiert normalement davantage
+de temps.
+
+V-2 : L'intervention de la Banque Mondiale, notamment par le biais du Task Manager qui a bien
+
+
+
+                                                  - 43 -
+
+souvent soulevé des questions de fonds a permis d'améliorer considérablement la qualité technique
+des dossiers de spécifications et des termes de référence.
+
+V-3 : Les contacts fréquents et permanents avec le spécialiste en passation de la Banque, à chaque
+fois que de besoin, ont é té l'occasion d'une véritable source de transfert de connaissances et
+ontpermis à l'équipe de projet de renforcer considérablement ses capacités dans le domaine de la
+maîtrise des procédures.
+
+VI-Evaluation des performances de l'Emprunteur.
+
+VI- 1 : Pendant toute la durée du projet, Le Gouvernement du Séné gal n'a ménagé aucun effort
+pour faciliter son exé cution. Après la première phase du projet caracté risée par les actions «
+Passage An 2000 », la mise en oe uvre de la seconde phase qui est le PMSIA a coïncidé avec l'
+avènement du Gouvernement de l'Alternance qui a lancé une réflexion d'envergure sur la mise en
+place d'un plan ambitieux et novateur relatif à l'utilisation des technologies de l' information avec à
+la clef la mise en place d'une nouvelle Direction Informatique de l'Etat. La mise en oeuvre de ce
+processus explique, pour l'essentiel, le gel des activités durant le premier semestre de 2000 et
+l'année 2001.
+
+VI-2 : Depuis la reprise des activités au début l'année 2002, après l'approbation par la Banque du
+programme remanié , la partie sénégalaise (DIE, PMSIA, APIX, DDI et maîtres d'ouvrage), avec un
+esprit d'équipe remarquable, a fait montre d'une réelle motivation et a déployé des efforts
+considérables, salués par nos partenaires de la Banque Mondiale, dans la conduite des opérations.
+
+VII- Résultats globaux et impacts du projet.
+
+VII-1 : La mise en oeuvre du PMSIA a permis d'améliorer considé ;rablement le taux de
+pénétration des TIC au sein de l' Administration, notamment par :
+   l    le déploiement de 1100 nouveaux postes répartis comme suit :
+   l    400 à ministères et administration ;
+   l    35 à Direction informatique de l'Etat ;
+   l    25 à Douane ;
+   l    104 à Ministère de l'Economie et des Finances ;
+   l    150 à La Poste ;
+   l    150 à Ministère de l'Intérieur ;
+   l    240 à Université Gaston Berger.
+   l    La formation de 650 agents de l'administration dont :
+   l    à 280 Système d'information gouvernemental tous types d'usages et fonctions confondus ;
+
+
+   l    à 20 Direction Informatique de l'Etat ;
+   l    à 150 La Poste ;
+   l    à 140 Ministère de l'Intérieur ;
+   l    à 10 Université Gaston Berger.
+   l    L'interconnexion de 72 site de l'Administration dont :
+   l    51 au centre de Dakar ;
+
+
+
+                                                - 44 -
+
+   l    18 dans l'agglomération de Dakar ;
+   l    3 dans la région de Dakar.
+
+VII-2 : Le PMSIA a contribué à la décentralisation au niveau régional, départemental et local et à
+l'amé lioration de la qualité des services rendus aux usagers.
+
+La décentralisation des systèmes d'information concerne essentiellement :
+   l    La composante IV pour la Poste qui a informatisé ses 135 bureaux ;
+   l    La composante V pour le Ministère de l'Intérieur qui a permis la décentralisation de la
+        fonction informatique sur 11 ré gions et 40 départements.
+
+S'agissant de la qualité des services aux usagers, on peut citer entre autres :
+   l    La diminution des délais de traitement des dossiers pour les bé néficiaires d'exonérations
+        et de régimes particuliers.
+   l    L'amélioration de la gestion des comptes chèques postaux (CCP) et des comptes d'épargne
+        (CNE) avec accès à un système à temps réel ;
+   l    L'accès aux solutions de commerce électronique indiquant la gestion et l'acheminement des
+        commandes ;
+   l    L'accélération de la transmission du courrier par l' ouverture de points Internet et l'accès
+        aux solutions de courrier hybride dans tous les bureaux de POSTE ;
+   l    La réduction des délais de délivrance des pièces d'identité (carte nationale, passeport,
+        carte étranger par les services du Ministère de l'Intérieur.
+   l    L'amélioration du fonctionnement de la Bibliothèque centrale pour 3000 étudiants, 110
+        enseignants et 120 personnes exté rieures avec un taux de satisfaction qui est passé à 80
+        % et un délai moyen d'accès à un ouvrage qui a é té réduit à 10 minutes.
+   l    L'amélioration de la gestion de la scolarité des 3000 étudiants de l'UGB dont l'indice de
+        satisfaction a atteint 70 % au niveau des étudiants et 90 % auprès du personnel d'
+        encadrement.
+
+VII-3 : Le PMSIA a appuyé la mise en place de la politique informatique nationale en :
+   l    aidant à la mise en place de la Direction Informatique de l'Etat ;
+   l    contribuant à la Création d'un Centre de Ressources ;
+   l    diminuant les coûts d'acquisition des équipements informatiques.
+
+VII-4 : Le PMSIA a contribué de façon significative à l' optimisation de la gestion de la Direction
+de la monnaie et crédit et à l'accélération des délais de traitement des dossiers au niveau de
+l'Agence Judiciaire de l'Etat.
+
+VIII-Conclusions et leçons à tirer du projet.
+
+Globalement le PMSIA peut être considéré comme un projet satisfaisant. Il est le premier projet
+en TIC financé par la Banque Mondiale dans la sous région Afrique et a permis d'assurer une
+amélioration considérable de son taux de péné tration au sein de l'Administration sénégalaise.
+
+Malgré une pause importante d'un an et demi liée au changement de régime en mars 2000, le taux
+
+
+
+                                                 - 45 -
+
+de décaissement final très satisfaisant de 99,61 % a été réalisé ; à la faveur d'une extension de la
+durée du crédit pour 1 an et demi, qui, tout compte fait, a permis une nouvelle programmation
+compatible avec la durée prévisionnelle initiale d' exécution du programme.Cette performance
+illustre l'inté rêt du Gouvernement pour ce projet et la rigueur et le professionnalisme des
+différents acteurs du projet qui n'ont ménagé aucun effort pour atteindre les objectifs assignés.
+Au fur et à mesure du déroulement du projet, il a été noté une meilleure maîtrise des procédures
+de la Banque ce qui a contribué à réduire de façon considérable les délais pour la passation des
+marchés.
+
+Pour réussir la mise enoeuvre d'un projet, il importe que les aspects suivants soient pris en compte
+:
+
+a) Systématiser la mise en place d'une Cellule de Gestion de Projet complète avec toutes les
+compétences techniques, en passation et en gestion financière. Une telle équipe pleinement
+responsabilisée semble plus efficace que la formule Agence d' exécution qui peut avoir des
+pesanteurs insoupçonnées.
+
+b ) La formationaux procédures de la Banque Mondiale de l'équipe de projet, malgré ses
+compétences supposées n'est pas toujours superflue dans un souci de renforcer lescapacités des
+acteurs du projet pour une meilleure efficacité ;
+
+c) l'association continue des bénéficiaires à laconception, la mise en oeuvre et le suivi du projet est
+également un facteur de réussite pour une réelle appropriation du projet ;
+
+d) la mise en oeuvre d'un plan de communication pour expliquer le projet et ses objectifs est
+importante pour emporter l'adhésion des bénéficiaires et des acteurs environnementaux.
+
+IX- Perspectives.
+
+La Banque Mondiale, à travers la phase I du PMSIA, a grandement contribué à la mise en place
+d'infrastructures de té lécommunications couvrant la région de Dakar et d'é quipements
+informatiques dédiés aux services administratifs. Pour consolider ces acquis dont les effets
+positifs sont visibles dans l' Administration,l'Etat du Sénégal se donne les priorité ;s suivantes :
+             1. Lancer une réflexion à travers un processus participatif permettant d'aboutir à une
+                stratégie informatique globale de l'Etat du Sénégal et sa déclinaison en straté gies
+                sectorielles :
+
+Dans cette optique la nouvelle Agence de l'Informatique de l'Etat (ADIE) prendra en charge la
+réalisation immédiate :
+                        D'un plan directeur informatique de l'Etat ;
+                        D'un schéma directeur sectoriel pour chaque ministère ;
+             2. Compléter et étendre les infrastructures :
+                        Assurer l'interconnexion de l'ensemble des sites administratifs dans la
+                        région de Dakar ;
+                        Assurer la couverture de l'ensemble des capitales régionales et
+
+
+
+                                                  - 46 -
+
+                          départementales ;
+              3. En accord avec la politique définie :
+                          Renforcer le parc en dotant d'équipements informatiques tous les services
+                          centraux et régionaux connectés au réseau et en participant, à hauteur de
+                          50 % au moins, à l'effort de son renouvellement ;
+                          Renforcer les acquis en termes de contenu, en déployant dans le ré ;seau les
+                          applications sectorielles existantes et en développant de nouvelles
+                          applications transversales.
+                          Renforcer la politique de sécurité du réseau et de l' ;information.
+
+La mise en oeuvre de cet ambitieux programme nécessitera sans aucun doute un accompagnement
+financier que la Banque mondiale pourrait apporter dans le cadre d'un second volet du PMSIA
+(PMSIA II).
+
+Projet de Modernisation des Systèmes d'Information de l'Administration
+
+3, Rue Béranger Ferraud x Rue des Essarts
+
+Tel. : (221) 823-70-80 - Fax : (221) 822-18-67
+
+
+
+
+                                                    - 47 -
+
+- 48 -
+

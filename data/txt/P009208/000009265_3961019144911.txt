@@ -1,0 +1,1880 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY
+Report No. 14795
+PROJECT COMPLETION REPORT
+FORMER SOCIALIST FEDERAL REPUBLIC OF YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(LOAN 2338-YU)
+JUNE 30, 1995
+Energy, Environment and Transport Division
+Country Department II
+Europe and Central Asia Regional Office
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+WEIGHTS AND MEASURES
+Metric System
+ABBREVIATIONS
+CC           Common Criteria
+CE           Common Elements
+DCN          Data Communication Network
+EIB          European Investment Bank
+EMS          Energy Management System
+FSFR         Former Socialist Federal Republic (of Yugoslavia)
+JUGEL        Union of the Yugoslav Electric Power Industry
+LI           Local Interface
+LRMC         Long Run Marginal Cost
+OPS          Operational Planning System
+PCR          Project Completion Report
+RAP          Republics and Provinces
+RTCS         Real Time Control System
+RTU          Remote Terminal Unit
+SAL          Structural Adjustment Loan
+SAR          Staff Appraisal Report
+TCS          Telecommunication System Microwave
+WOAL         Work Organization of Associated Labor
+
+
+
+FOR OFFICIAL USE ONLY
+THE WORLD BANK
+Washington, D.C. 20433
+U.S.A.
+Office Of Director General
+Operations Evaluation
+June 30, 1995
+MEMORANDUM TO THE EXECUTIVE DIRECTORS AND THE PRESIDENT
+SUBJECT:    Project Completion Report on the Former Socialist Federal Republic of Yugoslavia
+Third Power Transmission Project (Loan 2338-YU)
+Attached is the Project Completion Report (PCR) on the Former Socialist Federal Republic of
+Yugoslavia: Third Power Transmission project (Loan 2338-YU, approved in FY84) prepared by the
+Europe and Central Asia Regional Office. Part II of the PCR was contributed by two of the eight
+Borrowers: Croatia and Slovenia.
+The project objectives were to consolidate past efforts to improve coordination and financial
+soundness of the power sector. It comprised: (i) a national load dispatch center, eight Republic/Province
+load dispatch centers, a microwave telecommunication system and ancillary equipment and buildings; and
+(ii) training of about 500 Yugoslav technicians to operate, maintain and further extend an energy
+management system.
+The US$120 million composite loan was approved in July 1983 as eight separate Loans 2338-0-
+YJ to 233 8-7-YU to the power enterprises of the Republic/Provinces of the Former Socialist Federal
+Republic of Yugoslavia. The project was not completed due to: (i) extraordinary delays in effectiveness, in
+establishing the local agency for constructing the federal dispatch center, and in preparing the first set of
+bidding documents; and (ii) the eventual disintegration of the country in 1992. After ten years of partial
+implementation, only US$41.8 million was disbursed, and the balance was canceled. Investment planning
+coordination did not occur and the electricity pricing targets were never met. The strengthening of the
+Union of the Yugoslav Electric Power Industry was not realized, and the financial improvernents achieved
+under earlier Bank loans were lost.
+The Borrowers' performance was unsatisfactory: the commitment to most objectives was absent in
+the Republics and only a small fraction of the physical and training components was implemented. Bank's
+performance was also unsatisfactory: mistakes in project design, poor procurement arrangements, and
+ineffective supervision over the first four years were factors contributing to project failure.
+The outcome of the project is rated as highly unsatisfactory, its institutional development as
+negligible, and its sustainability as unlikely.
+The PCR is of high quality and presents an excellent account of project implementation and
+outcome.
+No audit is planned.
+Attachment                                             (    5
+This document has a restricted distribution and may be used by recipients only in the performance of their official
+| duties. Its contents may not otherwise be disclosed without World Bank authorization.    l
+
+
+
+
+
+
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+PROJECT COMPLETION REPORT
+TABLE OF CONTENTS
+Page No.
+Preface                                                        (i) - (ii)
+Evaluation Summary                                             (iii) - (vi)
+PART I PROJECT REVIEW FROM THE BANK'S PERSPECTIVE
+1. Project Identity                                                   1
+2. Background                                                          1
+3. Project Objectives and Description                                 2
+4. Project Design and Organization                                     5
+5. Project Implementation                                             8
+6. Project Results                                                    18
+7. Sustainability                                                     19
+8. Bank Performance                                                   19
+9. Borrower Performance                                               19
+10. Project Relationship                                              20
+11. Consulting Services                                               20
+12. Cofinancing                                                       20
+13. Project Documentation and Data                                    21
+PART II PROJECT  REVIEW  FROM  BORROWERS' PERSPECTIVE                       22
+PART III STATISTICAL INFORMATION. TABLES
+A. Project Time Table                                    Table 1      36
+B. Use of Bank Resources                                 Table 2      37
+C. Disbursements                                         Table 3      38
+D. Implementation Schedule                               Table 4      39
+E. Loan Disbursed by Category                            Table 5      40
+
+
+
+
+
+
+PREFACE
+This is a Project Completion Report (PCR) for the composite Loan 2338-YU of
+US$120.01 million approved by the Board on July 23, 1983 and made as eight separate
+Loans numbered 2338-0-YU to 2338-7-YU to the power enterprises of six republics and two
+autonomous provinces (RAPs)2 of the Former Socialist Federal Republic of Yugoslavia
+(collectively called the Borrowers) with the Guarantee of the Federal Republic. The project
+financed by this loan - described as the Third Power Transmission Project - was a sequel to
+the successful First and Second Power Transmission Projects (Loans 836-YU of 1972 and
+1469-YU of 1977) under which a vast 380 kV national grid had been established. The law
+of the country required that this national grid should be operated as a single technological
+unit. The project was intended to install, operate, and manage a modem computerized
+national energy management system (EMS) for remote supervision and control of this grid at
+the national, republic, and provincial levels to meet this legal and economic requirement. At
+appraisal, the project cost was estimated at US$321 million. Also, a party to the loan
+agreement was the Union of Yugoslav Electric Power Industry (JUGEL) which, though
+lacking executive authority, was to install and operate the national EMS center. The project
+was to be financed by the Borrowers, the Bank, and, the European Investment Bank (EIB).
+In December 1982 the EIB made a loan of 67 million ECU for the Third Power
+Transmission Project, which was scheduled to be completed by end December 1988.
+The project was not completed. After ten years of project implementation the total
+disbursement was only US$41.78 million. The balance of the effective loan of US$115.02
+million was cancelled. The key project components were (i) the Real Time Control System
+(RTCS) on which there was a disbursement of about US$3.3 million on a small, initial,
+planning and training "zero" phase component (RTCS "O"), and (ii) the Microwave Radio
+Telecommunication System (TCS) on which there was no disbursement. The rest of the loan
+disbursement was on ancillary equipment (US$26.71 million), financing charges (US$9.06
+million), and consulting services (US$1.51 million). Failure to complete the project was due
+to (i) an initial starting delay of one and half years on account of differences with one of the
+Borrowers - the power enterprise of Crne Gore (Montenegro) on the scope of its project
+component, and in meeting set conditions of loan effectiveness; (ii) a delay of five years in
+1/    This was reduced at effectiveness in January 1985 to US$115.02 million,
+due to downsizing of facilities at the Crne Gore (Montenegro) regional
+center.
+2/    Bosnia-Hercegovina (2338-0), Crne Gore (Montenegro) (2338-1), Croatia
+(2338-2), Macedonia (2338-3), Slovenia (2338-4), and Serbia (2338-5)
+were the republics; Kosovo (2338-6) and Vojvodina (2338-7) were the
+autonomous provinces.
+
+
+
+-ii-
+establishing the Work Organization of Associated Labor (WOAL) for construction of the
+Federal (JUGEL) dispatch center and in getting project implementation clearances for
+components of the project at local levels; (iii) a five to eight year delay in preparing the first
+set of bidding documents for the key project components, viz. the RTCS and the TCS.
+(There were serious procurement difficulties with five bid packages issued in 1987-1988
+which led to cancellation of all five bids in March 1990, redefinition of the project and re-
+commencement of the procurement as a single RTCS package in May 1990); and (iv) the
+disintegration of former Yugoslavia in 1992 which placed the project completion beyond
+reach. The Borrowers who had, at considerable effort, completed acceptable bidding
+documents for the RTCS and TCS systems by then urged project continuation. The EIB
+cancelled its loan in February 1992. The Bank Loan was kept open until the revised closing
+date of December 31, 1993 agreed in March 1987, to enable completion of the small
+planning and training "O" phase of the redefined RTCS procured between 1991-1993. This
+was possible only in two republics. No further work, even of bid invitation, was possible on
+the main RTCS and TCS systems. Nine dispatch center buildings were constructed and
+ancillary equipment installed.
+This PCR has been prepared for the entire project as the project was conceived and
+implemented as a single integrated project. There were eight separate loans for legal,
+financing, accounting, disbursement, and repayment purposes. The Preface, Evaluation
+Summary, and Parts I & III of the PCR were prepared by staff of the Energy and
+Environment Division, Central Europe Department. Part II, to be prepared by the
+Borrowers, had to be prepared in Sections for each of the eight Borrowers. Unfortunately,
+due to the disintegration of former Yugoslavia in 1992, reports on only two of the
+components - dealing with the Croatian and Slovenian components - were received.
+Preparation of the PCR started in April 1994. The report is based on the Staff Appraisal
+Report No. 4193-YU, the President's Report, the PCR No 5390 for the Second Power
+Transmission Project (Loan 1469-YU), Loan and Guarantee Agreements and their
+amendments, and information available in the files.
+
+
+
+-111-
+EVALUATION SUMMARY
+1.    The Third Power Transmission Project -also described as the energy management
+System (EMS) Project - was financed by the composite Loan 2338-YU of 1983 made as eight
+separate loans numbered 2338-0 to 2338-7 to power enterprises of the eight republics and
+provinces (RAPs)3 of the former Yugoslavia. It envisaged establishment of nine new load
+dispatch centers - one national (or federal) and eight republic/provincial- all equipped with
+state-of-the-art, computerized, hierarchial (national/regional/area) systems for remote
+supervision and control of the former Yugoslav power grid to enable it to operate as a single
+technological unit on the most economic basis. The project objectives were to consolidate
+past efforts to improve coordination and financial soundness of the power sector and, in
+particular, to assist the National Union of Yugoslav Power Industry - JUGEL (a) to exercise
+the necessary central role for coordination of system expansion planning, implementation,
+supervision/control and operation of the Yugoslav Power System at the national level; (b)
+maximize its impact on sector development; and (c) play a larger role in the procurement
+process.
+2.    The project comprised the EMS (Part I) and Training (Part II). The EMS involved:
+(a) a national dispatch center at Belgrade to be constructed jointly by JUGEL and the eight
+Borrowers, and operated by JUGEL; and (b) eight republic/provincial load dispatch centers.
+Each was to have: (a) a predictive operation planning system (OPS); (b) a real time control
+system (RTCS); and (c) a data communication network (DCN) system, which together
+constituted the key project component. Additionally, a microwave radio relay
+telecommunication system (TCS) was to be constructed to link these nine load dispatch
+centers, the power stations, and other power system components to be controlled. Ancillary
+items of equipment and buildings constituted the rest of the Project. Part II comprised about
+1,000 man-months of instructor services for training about 500 Yugoslav technicians by
+parties contracting for the supply and installation of the above systems.
+4
+3.    The Bank loan agreement stipulated that all the project components should be
+procured following ICB procedures, through thirteen, separate, identified contract packages,
+which pooled the requirements of all the nine dispatch centers.
+4.    Start of project implementation was delayed by: (a) one and a half years, up to
+effectiveness in January 1985, due to differences with the enterprise of Montenegro (Crne
+Gore) on the scope of its component and delays in meeting set conditions of loan
+effectiveness; (b) five years in establishing the Work Organization of Associated Labor
+(WOAL) for construction of the federal (JUGEL) dispatch center, and in getting project
+3/    See Footnote 2 of page 1 of the Preface.
+
+
+
+-iv-
+implementation clearances for the project components at republic/province levels and (c) five
+to eight years in preparation of bidding documents because of unsatisfactory consultancy
+arrangements and design changes on the TCS. Five separate bids were invited for the key
+components -the OPS, the RTCS, and the DCN- during 1987-1988. During evaluation of
+bids received it was found that the lowest evaluated bids for the two packages into which the
+OPS had been divided were mutually incompatible. This exposed a basic flaw in the
+packaging of contracts (para. 3) where application software (OPS II) had been separated from
+the hardware (OPS I). Moreover, what should have been bid as a single contract for the
+entire RTCS, had been sub-divided into two separate sub-systems - viz the RTCS, and the
+DCN- introducing further problems of compatibility. After much consideration, the
+Borrowers could not arrive at any contract award recommendations and the five bids were
+ultimately cancelled in March 1990.
+5.    In July 1989, ECC of USA was appointed as the engineering consultant for the
+project. With the assistance of ECC, the project was redesigned during April-May 1990 to
+incorporate the latest technological advances and to redefine the bid packages for the key
+components. This resulted in: (a) a single bid for the RTCS system instead of the five bids
+originally invited (para 4) for operations planning and real-time system control; and (b) a
+reduction in investment cost by US$30 million. US$25.84 million of the loan amount was
+cancelled in 1991 at the request of the Borrowers. The implementation period was extended
+up to the end of 1993. In order to derive some early benefits of operation planning and
+training in about two years, it was also decided in 1990 to invite bids initially for a small
+"zero" stage (RTCS "O"), estimated to cost about US$3.0 million (see para. 5.3.8), which
+would be compatible with the RTCS, and enable the Borrowers to derive some planning
+benefits and training while awaiting implementation of the main RTCS.
+6.    The disintegration of former Yugoslavia into separate countries and commencement of
+hostilities during 1991-1992 made it impossible to complete the project. The work on the
+"O" stage component of the RTCS continued, however, - after deletion of its JUGEL
+component- in Croatia and Slovenia. This small part of the project has now been completed
+in Croatia and Slovenia. Little work on the "O" stage has been done at the other dispatch
+centers due to the political situation and U.N. sanctions. Prequalification was carried out for
+the RTCS system. The RTCS and TCS systems were not put out to bid, though bid
+documents were prepared and reviewed by the Bank. The dispatch center buildings were
+constructed and some ancillary equipments were procured. The key project components
+were not completed.
+7.    On the financial side, the existing cash generation covenants - which had been
+successful in the past according to the PCR for the Second Power Transmission Project
+(Loan 1469-YU of 1977) - were replaced in 1983 by new covenants requiring tariffs based
+on long run marginal costs (LRMC) using a common methodology to be agreed to by the
+Borrowers. This was a major departure from the appraisal mission's recommendation, which
+was to renew the cash-generation covenant. This change was made in the context of the
+Bank's First Structural Adjustment Loan (SAL (I)) discussions which were going on
+
+
+
+_v_
+concurrently. LRMC based tariffs - and the associated economic objectives - were not
+achieved because: (a) it required the Borrowers' agreement on a national long-term
+investment plan, which was not possible because of technical difficulties and lack of
+agreement on project priorities between the Borrowers; and (b) the common methodology for
+calculation of LRMC - clause 5.04(a) of the Loan Agreement - was not developed or agreed.
+Moreover, in 1985 Yugoslav authorities adopted an alternative system of pricing called the
+Common Elements (CE) method - a mixture of some local costs, electricity prices prevailing
+in selected European countries and fuel price indices in former Yugoslavia. Furthermore,
+Clause 5.04(d) of the Loan Agreement required a utility, i.e. republic/provincial, perspective
+and was, in any case, inconsistent with the Bank's objective of attaining economies on a
+national scale (para 5.2.4). It was neither enforceable nor attempted to be enforced.
+Yugoslav authorities converted the CE approach in 1990 into a Common Criteria (CC)
+method of energy pricing, which the Bank accepted in the context of SAL II but insisted that
+an approach, which also addressed the financial problems, be agreed as a second tranche
+SAL II condition. This was not achieved by the time that the second tranche of SAL II was
+cancelled. However, even the CE and CC electricity pricing targets were never met in time.
+In the prevailing period of rapid inflation, this seriously eroded the income of all eight power
+enterprises. The absence of enforceable financial covenants may have been a contributing
+factor in the loss of the financial gains made under the earlier loans to the former Yugoslav
+power sector rather than in the improvements which were sought as an important project
+objective.
+8.    The economic justification of the project was reviewed by ECC and the Borrowers in
+the context of redefining the project in 1990. It was noted that the feasibility report of 1981,
+and the SAR, had over-estimated the benefits of the project. Despite substantial investment
+cost reductions in 1990 through redesign of the project, the ERR was revised downwards
+from 16% to 10%. As the project was not completed the final economic rate of return could
+not be tested.
+9.    The following are the principal project lessons:
+(i)         The need for the state-of-the art EMS project for efficient control of
+former Yugoslavia's power grid was never in doubt at the Bank or
+among the Borrowers. This was demonstrated by the strenuous efforts
+made by JUGEL and the Borrowers, particularly after 1987, to
+implement the EMS project and by the fact that this effort continued
+even during the later period of hostilities among the countries into
+which former Yugoslavia had disintegrated. However, the problems of
+obtaining and sustaining real commitment of all the diverse members of
+such an interconnected power system must not be underestimated,
+especially in this case.
+
+
+
+-vi-
+(ii)        Technologically complex projects such as the EMS project should not
+be allowed to proceed to the implementation stage without continuous
+involvement of consultants with established minimum levels of proven
+experience in RTCS systems and especially of its unique procurement
+requirements (see paras 5.2.9 and 5.2.10);
+(iii)      During design of contract packaging of EMS systems, special care
+should be taken to ensure compatibility, which should be a paramount
+consideration;
+(iv)       Prequalification of bidders must be carried out on the basis of clearly
+specified minimum proven experience requirements and should never
+be waived;
+(v)        Loans for such extremely complex projects, particularly when it
+involves multiple borrowers, should not be presented to the Board
+unless final bidding documents, acceptable to the Bank, have been
+prepared for all the key contracts;
+(vi)       For technologically complex projects such as the EMS the standard
+Bank procurement approach, devised for simple equipment, must not be
+used; a two-stage method of bidding should be used and the Bank's
+industrial formula for domestic preference incorporated instead of the
+formula indicated in its Procurement Guidelines.
+(vii)      To ensure financial soundness of power entities, financial covenants
+should focus on financial performance rather than economic
+methodology, such as LRMC.
+(viii)     In such parallel financing schemes, the lending agencies should agree at
+the start on the specific items which would be financed by the
+respective loans. This was not done under the project, leaving the
+Borrowers in doubt on such aspects as the procurement policies to be
+followed for different items; and
+(ix)       The Bank's firm approach in recognizing past errors in project design,
+procurement, and consultancy arrangements and correcting them
+quickly during 1987-1990 were effective and ultimately appreciated by
+the Borrowers. The Bank strongly supported a good project as long as
+the objectives were within reach but when it became clear that they
+could not be attained, the Bank was firm, and called for an end to the
+activities.
+
+
+
+PART I - PROJECT REVIEW FROM THE BANK'S PERSPECTIVE
+1. Project Identity
+Name:         Third Power Transmission Project
+also referred to as the Energy Management System (EMS)
+Project.
+Loan No.:     2338-YU as eight loans numbered 2338-0-YU to 2338-7-YU
+RVP Unit:     Europe and Central Asia
+Country:      Former Socialist Federal Republic of Yugoslavia
+Sector:       Energy
+Subsector:    Power
+2. Proiect Background.
+2.1   The project was conceived in 1971 as the last phase of a three-part program to build
+an integrated 380 kV power transmission system covering the whole of former Yugoslavia
+with interconnections to several neighboring countries. Its forerunner - a load dispatch
+scheme - was included as Part II of the Second4 Power Transmission Project financed
+through Bank Loan 1469-YU of 1977 and envisaged nine dispatch centers (one federal, six
+republic - one each for Bosnia-Hercegovina, Crne Gore (Montenegro), Croatia, Macedonia,
+Slovenia and Serbia - and two for the autonomous provinces of Kosovo and Vojvodina). Its
+design was based on technology of the sixties and it was estimated to cost US$70.0 million.
+The scheme was expected to be financed by commercial and suppliers' credits. The Bank,
+however, financed a study which was a prerequisite for implementation of the load dispatch
+scheme. This study recommended that integrated operation and economic optimization of the
+former Yiugoslav power system required a sophisticated, state-of-the-art, computerized energy
+management system (EMS), significantly different from the load dispatch centers planned
+earlier. As the complete EMS system was estimated to cost about US$480.0 million, the
+Bank required that the project be divided into two phases, with the first phase, costing about
+US$315 million, to be completed during 1981-86. This recommendation was accepted by the
+Yugoslav authorities. However, since they were unable to arrange financing, they requested
+the Bank and the European Investment Bank (EIB) to delete the load dispatch component
+from the Second Power Transmission Project and to make the first phase of the EMS the
+core of the Third Power Transmission Project. In 1982, the Bank and the EIB agreed to this
+4/    The First Power Transmission Project was financed by Loan 836-YU of
+1972.
+
+
+
+-2-
+request. The Yugoslav 380 kV grid was completed in 1984. The project, therefore,
+assumed great urgency and had high national priority.
+3. Project Objectives and Description
+3.1   Objectives
+3.1. 1 As stated at para 44 of the President's Report, the project objectives were to
+consolidate past efforts to improve coordination and financial soundness of the power sector
+and, in particular:
+(a)   to assist the National Union of the Yugoslav Power Grid - JUGEL - to retain
+the necessary central role for coordination of system expansion planning,
+implementation, supervision/control and operation of the Yugoslav Power
+System (see para 3.1.2 (c));
+(b)   to maximize its impact on sector development (see para. 3.1.2); and
+(c)   to enable JUGEL to play a larger role in procurement matters (see para. 3.1.2
+(c)).
+3.1.2 The sector objectives described in para. 3.1.1 (b) above were developed and agreed
+between the Bank and the Yugoslav Government authorities in the context of the First
+Structural Adjustment Loan (SAL I) made in 1983, a few months before the Loan 2338-YU
+for the Third Power Transmission Project went to the Board. The principal objective was to
+reorient the investment program in the entire power sector - which continued to be developed
+on a parochial, republic and provincial basis - towards national priority activities as part of a
+new Government policy of rationalizing the energy sector announced in March 1983.
+According to the SAR, another objective was to find a better basis than the cash-generation
+financial covenant, agreed to under the Second Power Transmission Project - which, on
+average, was satisfactorily implemented - to raise prevailing electricity tariffs. The
+objectives at 3.1.1 (a) and (c) were based on Bank experience through earlier loans to the
+power sector. To ensure that all these objectives were met, the legal documents of Loan
+2338-YU incorporated the following undertakings:
+(a)   Section 5.04 (a) of the Loan Agreement, replaced the cash-generation covenant
+under the earlier power sector Loan 1469-YU (1977) with a provision to
+increase electricity prices to a level which would not be less than the long-run
+marginal cost (LRMC) of supply of electricity through adjustments on, at least,
+an annual basis over a five year period ending December 1987. This required
+an agreed national power investment plan and an agreed common methodology
+among the republics and provinces (RAPs) for calculating the LRMC. It was a
+condition of the loan (Section 5.04 (b) that the Borrowers should determine this
+common methodology, in agreement with the Bank, no later than January 31,
+
+
+
+-3-
+1984. The first of the upward price adjustments - a 15% increase in real terms
+over the April 1, 1983 level was a condition of effectiveness of the loan in
+accordance with Sections 5.04(b) and 7.01 (a);
+(b)   Section 4.06 of the Loan Agreement sought to achieve economic optimization
+of investment choices until completion of the project by requiring the
+Borrowers and JUGEL: (i) to annually update their medium term (3 year)
+plans of investment for generation, transmission and distribution to determine
+the plan of investments to be made in the next calendar year (Section 4.06 (a)),
+and (ii) to exchange views by November 30th of every year with the Bank
+before finalization of such three year and annual (short-term) investment plans
+(Section 4.06 (b)); and
+(c)   Section 2.11 of the Loan Agreement designated JUGEL as the representative of
+the Bank for all purposes of loan management. Schedule 6 to the Loan
+Agreement set out the methodology for this management. Schedule 7 to the
+Loan Agreement detailed the coordination steps between the Borrowers and
+-JUGEL. It also specifically required that JUGEL's project management team
+should be designated by the Borrowers' Coordination Committee to act in its
+name and on its behalf in matters related, inter alia, to procurement, expecting
+thereby to centralize and speed up the procurement process. Section (B) of the
+preamble to the Loan Agreement noted the various agreements reached by the
+stage of Board presentation of the loan to empower JUGEL to: (i) harmonize
+development plans of the Borrowers, and (ii) construct the federal (JUGEL)
+dispatch center of the EMS project. Thus, JUGEL was expected to construct
+and operate the new federal level dispatch center.
+3.2   Description
+3.2.1 Part I of the project comprised:
+(a)   An Operational Planning System (OPS) for predictive power system
+management. This was to consist of a central computer facility at the federal
+(JUGEL) dispatch center and the eight remote terminal computer systems at the
+republic/provincial dispatch centers;
+(b)   a Real-Time Control System (RTCS) for on-line power system management.
+This was to consist of: (i) Real-time process computer systems at the JUGEL
+and eight republic/provincial dispatch centers, (ii) a Data Communication
+Network (DCN), (iii) Remote Terminal Units (RTUs) located at each major
+power station and sub-station to be controlled, and (iv) Local Interface (LI)
+units at RTU locations to link with power equipment being controlled;
+
+
+
+-4-
+(c)   a private, wide-band, microwave telecommunication system (TCS)
+interconnecting the nine dispatch centers and all other main operating facilities;
+(d)   telephone exchanges, telex networks, and teleprinters at all the nine dispatch
+centers;
+(e)   civil works, power supplies, and related infrastructure at all dispatch centers;
+and
+(f)   engineering services (about 1,200 man-months).
+3.2.2 Part II of the project comprised a comprehensive training program for about 500
+Yugoslav technicians, requiring about 1,000 man-months of instructor services.
+3.2.3 The project was a fully integrated scheme. A common Loan Agreement bound all the
+eight Borrowers to common actions, but it was agreed that the Bank loan would be
+distributed among the eight Borrowers in proportion to the estimated cost of the project
+located within their respective Republics and Provinces, including a share of the cost of the
+JUGEL dispatch center at the Federal level. Given the complex nature of the project this
+was not easy to do and the preparation of the estimate was left to the engineering consultant
+responsible for the feasibility study of the EMS (para 4.1.1). The eight loans were
+designated 2338-0 to 2338-7, to preserve their separate nature, but it was clearly understood
+that all Borrowers must act together and in unison at all times in project implementation.
+Schedule 7 to the Loan Agreement required that the EMS Coordination Committee
+established on December 26, 1980 should continue to be maintained for ensuring this close
+coordination throughout the project implementation period. Thus, it was clear from the
+outset that this type of power system control project could not go forward in former
+Yugoslavia if one or two Borrowers opted out or failed to meet their agreed obligations.
+Lack of real commitment among all the diverse Borrowers was a recognized risk. It actually
+led to delays in project start-up (see para 5.2.2) and continued to be manifest throughout the
+early implementation period.
+4. Project Design and Organization
+4.1   Project Design
+4.1. 1 Project design of the EMS started with a conceptual study, referred to as T6, within
+the scope of a general management information study (MIS) carried out during 1978 under
+the Second Power Transmission Project. Preliminary project reports on the EMS were
+prepared in 1979 and 1980. The final feasibility study report, entitled "The Third Power
+Transmission Project - Modernization and Further Development of the EMS and Joint
+Operation in the Yugoslav Power System" was prepared in July 1981. JUGEL's staff and
+staff of a special Coordination Committee set up on December 24, 1980 by power enterprises
+of the Republics and Provinces (RAPs) provided the necessary power system data. The
+
+
+
+-5-
+Bank had required that the final feasibility study should: (i) be based on a preliminary
+design and a detailed cost estimate, (ii) include a detailed project justification on the basis of
+a least-cost comparison of alternative solutions, and (iii) provide a basis for phased
+development in two stages. The Bank was also involved in the design through reviews of
+draft feasibility reports by internationally recognized independent EMS experts commissioned
+by the Bank. The final design report presented by JUGEL and its consultant included
+detailed recommendations on project execution and management, procurement, training, and
+the engineering and it set out the nature and extent of foreign and local consulting services
+required. At the request of the Bank, the report also set out principles for allocation of the
+loan among the eight Borrowers for this extremely complex and integrated project.
+4.1.2 An important feature of the project design - which had grave implications for project
+implementation (see para 5.3.3) - was the procurement strategy developed by the consultants
+with the involvement of JUGEL, the Borrowers, the Bank and EIB and which was presented
+in the Feasibility Study Report of 1981. It was based on the premise that there should be
+common bidding for all nine dispatch centers and for each technical sub-system but it did not
+ensure that they would be mutually compatible. The OPS and RTCS were further subdivided
+into two - an essentially hardware component and the second for application software. It was
+a condition of the Loan Agreement (Section 2.04 and Schedule 4) that contracts should: (a)
+provide for the Borrowers' and JUGEL's staff training and (b) be grouped into thirteen
+identified contract packages, listed in Schedule 4 - all of them to be procured only through
+international competitive bidding (ICB). The Bank's standard (A,B,C,) formula for domestic
+preference was also included in Schedule 4. This was not suitable for the key procurement
+packages (see paras 5.3.5 and 5.3.6).
+4.1.3 The Staff Appraisal Report, No. 4193-YU of April 1983, faithfully reflects the 1981
+feasibility study report in all respects - including the Project Justification. Therefore, in this
+PCR, it is necessary only to note a few points which were well established by the time
+negotiations for the Bank loan took place in March 1983. First, computer technology was
+changing fast; hence, existing technologies could become obsolete rapidly. Bid level designs
+which had been commenced, had, therefore, to be completed quickly. The SAR noted in para
+3.15 thatuJUGEL was using consultants acceptable to the Bank (see para 4.1.1.) to prepare
+bid level designs, specifications and bidding documents and would also continue to use them
+for assistance in evaluation of bids, contract negotiations and construction supervision. Para
+3.20 of the SAR stated that prequalification of vendors/suppliers would be required to insure
+that only qualified and experienced bidders submit bids. This did not happen (see para
+5.2.12). Second, it was understood that it was essential to ensure compatibility of hardware
+and software. However, at negotiations in March 1983, the Bank reiterated the requirement
+of dividing the contracts to be financed under the loan, grouped into thirteen packages, (see
+para 4.1.2). A request by the Borrowers to allow local procurement for small items was
+denied by the Bank on the ground that, because of the complex nature of the project and to
+ensure procurement of compatible hardware and software, ICB should apply (see para. 9 of
+the minutes of negotiations). It is unfortunate that this very scheme of contract packaging,
+
+
+
+-6-
+which was covenanted, opened the door to incompatible bids and caused the most critical
+difficulties in implementation of the project (paras 5.3.3 and 5.3.4).
+4.2   Project Organization
+4.2.1 As under the First and Second Power Transmission Projects (Loans 836-YU and
+1469-YU), project execution was arranged to be done "under the overall authority" of the
+Coordination Committee of the eight Borrowers. Eight project management teams were set
+up in the RAPs. The federal project management team, started out with a small nucleus of
+staff at JUGEL and was expanded only in 1988 after establishment of the federal level work
+organization. JUGEL was designated as the "project coordinator" responsible for the
+Coordination Committee's engineering, procurement, construction and Bank relations work.
+On behalf of the Borrowers, JUGEL was to: (i) administer loan agreements and contracts,
+(ii) administer loan disbursements and repayments, (iii) report on progress of the project and
+(iv) jointly with the Borrowers, construct and operate the federal (JUGEL) EMS centers. In
+the continuing absence of any executive authority - under the Yugoslav constitution - JUGEL
+could discharge these responsibilities effectively only when: (i) it had actually built up its
+own engineering, financial and administrative organization, and (ii) the Borrowers had
+delegated all the necessary authority for day-to-day work. Legally, this required in the
+decentralized, labor-controlled Yugoslav system, a number of "Self Management
+Agreements" on construction coordination of the EMS System and joint construction of the
+federal dispatch center by JUGEL, and arrangements for securing local financing. These
+were made conditions of negotiations and Board presentation, of loan effectiveness, and of
+schedules 6 and 7 to the Loan Agreement.
+4.2.2 On paper, the above constituted a workable system, awaiting only the actual
+establishment of a work organization for construction of the JUGEL dispatch center.
+However, it did not take full account of several lessons learned from the implementation of
+the Second Transmission Project (PCR report no. 5390-YU, December 1984 para 8.04).
+These were that the:
+(a)   domestic financing constraints would seriously affect progress of such joint
+development projects in the power sector in former Yugoslavia;
+(b)   division of a technically integrated project into eight effectively separate loans
+to individual sovereign entities would require considerable skill in arriving at
+decisions by consensus, administrative effort and time - thus imposing severe
+constraints both on former Yugoslavia and on the Bank (these were vastly
+compounded by the complex nature of the state-of-the-art EMS Project and the
+amendment of the Loan Agreement in January 1988 (para 4.2.3 which altered
+JUGEL's role);
+(c)   reaI commitment of all the Borrowers to the project objectives was crucial for
+success;
+
+
+
+-7-
+(d)   general reluctance in the former Yugoslav power sector to employ foreign
+consultants; and
+(e)   fragmented nature of the power sector, its inverted pyramid philosophy of
+decision making and minimal accounting and financial reporting requirements
+would have severe adverse impacts.
+4.2.3 In the event, all of the weaknesses described in para. 4.2.2 except (a) - which was
+not an issue since the project did not proceed for other reasons - manifested themselves under
+the EMS project. There was little progress in project implementation for the first four years
+(para 5.2.1) A tripartite review meeting of Yugoslav authorities, the EIB and the Bank held
+on March 25-26, 1987 (see para. 5.2.15) reviewed, inter-alia, the organizational problems
+encountered in this project. At this meeting the Borrowers informed the Banks of a subtle -
+but important - change in the organizational arrangements. The Self Management Agreement
+on Construction Coordination of the EMS and Joint Construction of May 5, 1985, referred to
+in Preamble B of the Loan Agreement, had been amended by them on March 4, 1987 to
+cover "Pooling funds for joint construction of JUGEL Dispatch Center and Implementation
+Coordination of the EMS project". This weakened the construction responsibility of JUGEL,
+but it was accepted by the Bank at the March 1987 meeting and the Loan Agreement was
+later modified to reflect this change in January 1988. Effectively this reverted JUGEL's
+status to a mere coordination agency which had to get the agreement of all the Borrowers on
+every minor detail of procurement. Schedule 7, though not amended, was by-passed. The
+new Work Organization was formally established in 1988 but the Banks' original objective of
+strengthening JUGEL had been lost.
+4.2.4 In July 1988, at the request of the Coordination Committee, the Bank pointed out
+continuing weaknesses demanding urgent corrective action. These were the following:
+(a)   there was no single person with clear apex responsibility for supervising and
+reporting on project progress, and there was no progress reporting;
+(bti   there was no realistic implementation program;
+(c)   there was no updated project cost estimate or financing plan;
+(d)   since 1984 there was no experienced engineering consultant with proven
+experience in engineering, procurement, installation and commissioning of
+EMS systems - to provide guidance to JUGEL and the Borrowers;
+(e)   there were serious delays in payment, even on the only small "individual'
+consultancy contract under Bank financing at that time, due to the complex
+institutional arrangements for making foreign payments; and
+
+
+
+-8-
+(f)   communications with the Bank were poor on certain matters of substantial
+importance, which could later cause difficulties in procurement matters (which
+did happen).
+4.2.5 JUGEL and the Borrowers quickly responded, promising remedial action on all of the
+above. The Coordination Committee set up a Task Force to try and address the institutional
+problems. In February 1989 JUGEL provided the first systematic progress report on the
+project. This was also the last. Preparation of a detailed implementation program
+commenced but was not continued. JUGEL's lack of executive authority - and now even
+functional responsibility - was exposed. As events transpired, serious procurement
+difficulties were encountered during 1988 - 1990. The project was redefined in 1990 (para
+5.3.5) requiring a fresh start on engineering and procurement of the key project elements.
+Throughout the implementation period JUGEL remained a weak and powerless organization
+following cumbersome procedures - as it had to act through a coordination committee on
+almost every issue at all times - and deal with all the Borrowers on every contract as, in
+effect, eight separate sub-contracts. The organization as it was ultimately set up was totally
+inappropriate for this complex project.
+5. Project Implementation
+5.1   At appraisal the project was expected to be completed in five years. In fact, the
+implementation period was extended to ten years but the project was not completed and the
+sector objectives were not met. To review this extraordinary result and draw appropriate
+conclusions it would be useful to examine the course of implementation by the following time
+periods - (i) the first four years until March 1987 (para 5.2) and (ii) the period thereafter
+1987-1993 (para 5.3)
+5.2   The First Four Years - until March 1987
+5.2.1 This was a very bleak period. The total disbursement on the Bank Loan by end of
+March 1987 of US$3.788 million was entirely for finance charges (front-end fee plus
+commitment charges) except for a small amount of US$79,650 paid to the foreign consultant
+in 1985. Bidding documents had not been prepared by the Borrowers and forwarded to the
+Bank for its review for any of the thirteen packages referred to in para 4.1.2 by end of
+March 1987. There were (a) delays in effectiveness of the loan; (b) major problems with the
+consultancy arrangements; and (c) delays in establishing the Work Organization at the federal
+level for project implementation, coordination etc. and these are reviewed in paras 5.2.2. to
+5.2.13
+5.2.2. Delays in loan effectiveness due to problems of definition of project scope
+Loan 2338-YU was approved by the Board on July 26, 1993 for an amount of
+US$120.0 million, the corresponding loan documents were approved by all the Borrowers
+and the loan was signed for this amount on October 5, 1983. However, the loan could not
+
+
+
+-9-
+become effective until January 1985 primarily because the Guarantee Agreement could not be
+ratified by the Federal Assembly. The Assembly insisted that the scope of the Crne Gore
+(Montenegran) component with a foreign cost of $10.5 million should be reduced to $5.52
+million, as the Montenegran power enterprise could not raise the required local finances.
+This problem had surfaced at negotiations in March 1983 when the Yugoslav delegation
+brought Montenegro's financing problem to the notice of the Bank and specifically requested
+that: (a) the Montenegran component be reduced to cover only the critical requirements, and
+(b) the size of the other seven loans be correspondingly increased. The request was tumed
+down by the Bank on the grounds that Montenegro was strategically located within the
+Yugoslav 380 kV network and its component should, therefore, be implemented in full as
+planned (para. I of the minutes of negotiations). Ultimately, faced with continued resistance
+from Montenegro, the Bank agreed to the Montenegro request. Loan 2338-1 was reduced
+from $10.5 million to $5.52 million through a loan amendment letter which also
+correspondingly reduced the loan amount of 2338-YU to US$115.02 million. The Guarantee
+Agreement was then ratified by the Yugoslav Federal Assembly in December 1984, and the
+loan finally became effective on January 14, 1985. It became evident that the importance of
+the project was not equally appreciated by all the Borrowers. This was an ominous sign for
+project implementation and fulfillment of an anticipated risk.
+Delays in meeting the conditions of effectiveness
+5.2.3. There were two sets of conditions of effectiveness of the Bank loan. The first could
+be classified as "Long Run Marginal Cost (LRMC)" covenants with implications for the
+sector objectives. These are discussed in paras 5.2.4 to 5.2.7. The second set required
+Borrowers to submit evidence, satisfactory to the Bank, that all necessary agreements,
+approvals, contents or decisions - which required involvement of republic and provincial
+governments, constituent organization (BOALS), self-management communities of interest
+and local banks assisting in financing, had been reached. These were required to secure
+funds and ensure prompt project start-up. These aspects are discussed at para 5.2.8.
+5.2.4 The LRMC covenants were: (i) Sections 5.04 (a) and (b) of the Loan Agreement,
+regarding;the LRMC based tariff, the common methodology to be adopted for calculating
+LRMC and its pre-requisite, the agreed national power development plan; and (ii) Section
+7.01 (a) of the Loan Agreement - a condition of effectiveness - on the first LRMC based
+upward power tariff adjustment required. A national power supply development plan was
+never developed by JUGEL and the Borrowers. The requirement of section 5.04 (b) that the
+common methodology for calculation of LRMC should be agreed no later than January 31,
+1984 was also not met. It should be pointed out that the relevant sections of the Loan
+Agreement - 5.04 (a) and 5.04 (d) required the LRMC calculation to be made for each
+utility's plant - not for the national power system - and it was, therefore, not consistent with
+the Bank's or the Yugoslav Federal Governments' objectives recalled at para. 3.1.2 above.
+It has been recorded that during March-April 1984 Bank staff and JUGEL planning
+authorities carried out LRMC studies at the republic level using data provided by Serbia and
+that some understandings had been reached with Serbian authorities on the methodology to be
+
+
+
+-10-
+followed. It was agreed that more work was required to be done and that the Bank would
+provide written guidelines and follow up. Agreement on the methodology of calculation of
+LRMC between the Bank and all the Borrowers as required was never reached. However,
+the covenant was declared to have been met, evidently based on the progress of the
+discussions thus far, which in retrospect proved overly optimistic. Discussions on LRMC
+methodology continued fruitlessly for some time thereafter and were finally abandoned.
+5.2.5 In 1985, former Yugoslavia passed a law on the System of Social Control of Prices
+and the Social Plan for Yugoslavia (1986-1990) and its Long Term Measures for Economic
+Stabilization (LTMES). They introduced a new system of pricing of energy, which was
+called the "Common Elements" (CE). The JUGEL assembly adopted this method in lieu of
+the LRMC method it had agreed with the Bank. The CE method did not require a national
+power development plan or calculation of LRMC. It was based instead on: (i) estimated
+financial costs of power supply in former Yugoslavia; (ii) published prices of electricity
+supply in selected European countries; and (iii) prevailing fuel price indices in former
+Yugoslavia. Details were provided to the Bank only late in 1987. By mid 1986, when no
+progress had been made in developing a national power development plan or a common
+method of calculation of LRMC and inflation was rampant, the Bank concluded that the
+immediate priority was to increase electricity prices, irrespective of the criteria adopted.
+This was the right thing to do as the structure of electricity pricing in former Yugoslavia was
+considered satisfactory and it was the level that required continuous adjustment. The Bank
+slowly moved towards accepting former Yugoslavia's CE methodology which later, in 1990,
+was modified as the "Common Criteria" (CC) approach. The "CC" approach for energy
+pricing was accepted by the Bank's SAL II team in 1990.
+5.2.6 The absence of a national power development plan throughout the project
+implementation period removed the basis for the dialogues intended under Section 4.06 of the
+Loan Agreement relating to economic optimization of investment choices on a national basis.
+This covenant was not met in form or spirit. In retrospect, this covenant was unrealistic
+given the realities of the political situation in 1983 in former Yugoslavia and the Bank's past
+experience in trying to achieve the same goal under the First and Second Power
+Transmission Projects. Such assurances as were given by the Federal Government in this
+regard in the context of SAL I were short-lived and were not followed up effectively after
+the SAL I disbursement was completed within a year.
+5.2.7 With the abandonment of LRMC by the Yugoslavs in 1985, the effectiveness
+condition of Section 7.01 (a) lost its main economic thrust. Though not expressly stated in
+the Loan Agreement, a 15% increase in real terms over the tariff level prevailing in March
+1983 was agreed by the Bank to represent the first step in tariff increases. This increase was
+made by end of 1984 thus meeting this condition of effectiveness.
+5.2.8 In order to comply with the conditions of effectiveness laid down under sections
+7.01(b) and (c) of the Loan Agreement, under the former Yugoslav system of self
+management, the Borrowers had to secure the consent of some 350 basic organizations of
+
+
+
+-11-
+associated labor (BOALs) which were the constituent bodies of the Borrowers. A single
+BOAL could block an entire agreement. JUGEL, with no enforcement authority, strove hard
+to obtain all the relevant authorizations. But all this was laborious and time consuming. It
+was only in January 1985 that Bank staff could certify that these conditions were, in fact,
+met.
+The Work of Consultants for preparation of bid level designs and bidding
+documents
+5.2.9 As reported in para 4.1.3. the joint venture of consultants, appointed under the second
+Power Transmission Project was expected to continue with bid level designs and preparation
+of technical specifications for the OPS, RTCS, and DCN. Local consultants were assigned
+the task of preparing the technical specifications and bidding documents for the TCS.
+Preparation of commercial sections of the bidding documents was not assigned to any of the
+consultants at this stage.
+5.2.10 The foreign consultant encountered difficulties in regard to payments in foreign
+currency and on the extent of participation required of its local partners. Performance of
+work of bid level designs and preparations of technical specifications was consequently
+delayed. Finally, this experienced consultant declined to participate beyond the stage of
+preparation of the technical specifications. Its involvement on the EMS project petered out
+in 1985. Until 1987 there were no foreign consultants and the work which was assigned to
+local consultants also floundered. This stood in contrast with the statement at para 3.19 of
+the SAR that "Complete bidding documents are expected to be available by May 1983 at the
+latest. Bidding documents for the Microwave Contract Package (TCS), which will be the
+first to be bid (in January 1983), have been finalized". However, up to March 1987 no
+bidding documents had been submitted for Bank review.
+Microwave Telecommunication System (TCS)
+5.2.11 The finalized TCS bidding document (para 5.2.10) could not be used for invitation of
+bids on alcount of a decision by the Federal Government in 1985 that the TCS should not be
+a private system for exclusive use of the power sector, - as designed by JUGEL, the
+Borrowers and the Bank - but should be integrated with the country's national (PTT)
+telecommunications system. This decision was appropriate. JUGEL, the Borrowers and the
+local consultants - working very slowly - struggled with the consequences of this decision for
+many years. It took eight more years to finalize the designs and prepare bidding documents
+which were ready for review by the Bank, late in 1991. When it was finally cleared for
+issue it was too late - due to the country's disintegration - to invite bids on that basis.
+Prequalification of Vendors/Bidders.
+5.2.12 As required (para 4.1.3) prequalification proceedings were undertaken by JUGEL
+and the Borrowers for six of the thirteen contracts during 1983-1984. Lists of pre-qualified
+
+
+
+-12-
+bidders were prepared in consultation with the Bank. No minimum levels of proven
+experience were specified, however, for the crucial OPS, RTCS and DCN. As bidding
+documents were not ready until 1987 the prequalification done during 1983 to 1984 became
+outdated. At the tripartite review meeting held in March 1987, the prequalification
+requirement was eliminated with no other compensatory arrangements. This was a major
+error (para 5.2.17).
+Establishment of the Work Organization for the Joint Construction of the JUGEL
+dispatch center.
+5.2.13 Notwithstanding the precautionary steps taken by the Bank during project preparation
+up to 1983, the important Work Organization for Construction Coordination of the EMS
+Project and Joint Construction of the JUGEL dispatch center was not established during this
+period (see para 4.2.3). The efforts of the Bank were frustrated by the complexities of the
+former Yugoslav institutional system and the evidently different priorities given to this
+project by the 350-odd basic constituent bodies. JUGEL and the technologically stronger
+groups pushed hard while the weaker, and financially backward, groups dragged their feet.
+None of the Borrowers were prepared, in the final analysis, to give JUGEL the functions,
+responsibilities and finances necessary to construct and operate the JUGEL dispatch center as
+conceived and agreed at project appraisal. The Bank tried to do its part during annual
+supervision missions to overcome difficulties in this regard, but to no avail (para 4.2.3).
+Construction of buildings for the nine dispatch centers
+5.2.14 Acquisition of land and construction of new buildings for the republic and provincial
+dispatch centers proceeded during this period but at varying paces. In Montenegro, this
+work was considerably delayed by a dispute on the location of the center with claims by rival
+city groups. There was no agreement during this period on the site of the federal (JUGEL)
+dispatch at Belgrade.
+The Tripartite - Yugoslav. Bank. EIB - meeting at Belgrade on
+March 24-25, 1987
+5.2.15 The organizational, consultancy and procurement problems described in paras 5.2.5
+to 5.2.14 and the poor implementation record up to this point were discussed frankly at a
+tripartite meeting of all Yugoslav authorities - including the Federal Government, the
+Borrowers, and JUGEL - the Bank and EIB at Belgrade on March 24-25, 1987. The
+discussion on the JUGEL organizational problem has been covered at para 4.2.3 above and is
+not repeated here. After receiving assurances on the Borrowers' intention to speed up
+project implementation of the project, the Banks agreed to its continuation subject to
+fulfillment of certain conditions. The Bank and the EIB required quick action by definite
+dates on: (i) organizational matters and actions to secure finances needed to start project
+implementation; and (ii) appointment of foreign and local consultants to speed up preparation
+of bidding documents for ICB. The Borrowers requested that grace and maturity periods of
+
+
+
+-13-
+the loans be extended to reflect the four-year delay in implementation of the project. This
+was not accepted by the Bank as it was against its policy but the EIB accommodated the
+Borrowers by cancelling the original loan and granting a new loan, which effectively
+extended grace and maturity periods by five years. The Bank agreed to consider: (i)
+modification of repayments within the original maturity period without affecting the average
+life of the loan; and (ii) a four-year extension of the project completion date. These were
+given effect to in an amendment to the Loan Agreement in February 1988 by reduction of
+earlier maturities (repayment of which had commenced in March 1987) and increasing the
+later ones (after 1992) while maintaining the original loan maturity schedule. This
+amendment also effected changes in regard to opening of special accounts, allowing limited
+non-ICB procurement (requested by the Borrowers). However, these changes were of
+minimal impact.
+Appointment of an individual foreign consultant and procurement procedures
+5.2.16 An important decision taken at the March 24-25, 1987 tripartite meeting was to
+appoint foreign and local consultants and ensure mobilization of their work in former
+Yugoslavia before May 31, 1987. Extension of the contracts of the local consultants was a
+formality. To meet the deadline in regard to foreign consultants some bending of the Bank
+procurement procedures was necessary. In 1986 JUGEL and the Borrowers had proposed to
+appoint an individual foreign consultant to help with completion of preparation of the bidding
+documents and bid evaluation methodology. This was agreed to at the tripartite meeting.
+Thereafter, the junior partner of the foreign Joint Venture which carried out the MIS study
+during 1978-1982 was chosen without terms of reference and selection procedures by the
+Borrowers as their "individual" consultant and the Bank quickly agreed to the choice. It
+soon became evident, however, (see paras 5.3.3 and 5.3.4) that this firm did not have any
+experience in: (a) design of RTCS systems; or (b) procurement of the key components of the
+EMS project. This was, therefore, a poor decision by the Bank.
+5.2.17 As the prequalification carried out earlier had expired (para 4.1.3 and 5.2.12) and a
+new round of prequalification would delay the project further, this important requirement was
+waived by the Bank. This was another poor decision by the Bank. Post qualification, with
+minimum proven performance criteria, could have been introduced instead, but this was not
+done.
+5.2.18 Borrowers were advised to follow the Bank's sample bidding document of 1986 for
+goods as a guide to preparation of the Commercial Conditions of contract, which was also
+not appropriate for this complex EMS procurement. Bidding documents for the key contracts
+- OPS, RTCS and DCN systems - were thus completed hastily and cleared equally hastily by
+the Bank. The OPS bid invitation was issued in October 1987 and the RTS and DCN bids in
+June 1988. The seeds of the serious procurement difficulties encountered in this project were
+sown at this time.
+
+
+
+-14-
+5.3   Implementation Progress after March 1987
+5.3.1  A building site for the JUGEL dispatch center, integral with the Serbian dispatch
+center at Belgrade, was selected during 1987. Building construction was assigned to the
+Serbian power enterprise (ZEP). As the two buildings were designed as a contiguous unit
+construction proceeded smoothly thereafter. The federal level Work Organization - though
+considerably weakened by the loan amendment of January 1988 (para 4.2.3), was finally
+established in 1988. Recruitment of staff for the federal level project management team
+commenced but proceeded slowly.
+5.3.2  Project implementation during this period was most affected by: (a) the continuing
+delay in preparation of final bidding documents for the TCS system; and (b) procurement
+difficulties that arose on the five key contract packages - OPS (I), OPS(II), RTS(I) and RTS
+(II) and the DCN. Work on the remaining seven contracts proceeded relatively smoothly
+with no major problems. The causes for the delay in preparation of the TCS bidding
+document have been explained at paras 5.2.10 and 5.2.11. As stated at para 5.2.18, bid
+invitations for the OPS system were issued in October 1987 and those for the RTS and DCN
+system in June 1988. After one and half years of bid extensions and evaluation, no contract
+award recommendations could be made by JUGEL (para 5.3.3).
+5.3.3 During November 4-6, 1987, Bank and EIB staff met with JUGEL staff at the office
+of the individual consultant (5.2.16) at Brussels to review bid evaluation methodology. A
+methodology was developed but was not formally sent to the Banks. At this meeting Bank
+staff first noticed the problem of incompatibility inherent in separation of hardware and
+software packages and explained that: (i) separate bids should be evaluated on their own
+without reference to other bids, even if the bid invitations etc. were coincidental; (ii) the
+potential problem of incompatibility of the lowest bids in each group should be resolved by
+immediately issuing an amendment inviting a single bid - rather that two - for the OPS
+system; and (iii) this same precaution should be taken for the other two technical sub-systems
+(RTCS & DCN). JUGEL staff did not accept this Bank advice for the OPS on the grounds
+that: (i) kids for the OPS had already been issued; and (ii) some bidders who were pre-
+qualified earlier (1983-1984) might object. They took Bank advice into account for the
+RTCS bids issued in June 1988. It was unfortunate that JUGEL and the Borrowers rejected
+Bank advice as it is now evident that the incompatibility problems ultimately made it
+impossible for JUGEL and the Borrowers to complete bid evaluation and make contract
+recommendations for any of the five bids for the key components.
+5.3.4 The Bank concluded by end December 1987 that serious mistakes had been made in:
+(a) procurement packaging at the start of the project; (b) the appointment of an inexperienced
+individual foreign consultant in 1987; and (c) waiving the requirement of proven relevant
+experience for both engineering consultants and bidders for design, supply installation and
+commissioning of a complex EMS system. It then: (a) appointed an experienced specialist
+in design and construction of EMS systems as part of the Bank supervision teams during the
+
+
+
+-15-
+next two years; (b) prescribed new minimum past proven experience requirements, to be met
+both by engineering consultants and bidders for EMS project components; (c) prepared
+appropriate terms of reference for foreign engineering consultants services required; and (d)
+insisted that JUGEL and the Borrowers select and appoint a qualified engineering consultant
+following established Bank procedures. Early in 1988 JUGEL and the Borrowers agreed to
+implement all these Bank requirements. Despite the urgency, the invitation for consultancy
+was issued only in June 1988 and a qualified consultant was finally appointed only in July
+1989. It was the first time since the very early years of project preparation that there was a
+competent, technical expert guiding the implementation of the project. It took a little time
+for the consultant to settle in given the reluctance of JUGEL and the Borrowers to use
+foreign consultants, but the ice was broken soon and a constructive collaborative effort
+ensued thereafter.
+5.3.5  Several discussions took place in Belgrade and Washington during October 1988 and
+February 1990 to try and resolve the procurement problem described in para 5.3.3. The
+discussions were on principles as no bid evaluation reports were received by the Bank. The
+Bank reiterated its advice, which EIB concurred with, that the best course would be to:
+(a) cancel all five bids; (b) redesign the key project component using the latest, proven,
+technology (thus saving investment costs and introducing needed flexibility); and (c) invite
+bids on the basis of a single RTCS contract combining all the OPS, RTCS and DCN
+functions. JUGEL and the Borrowers were more concerned initially with finding a solution
+within the framework of the five separate bids which, in their view, would maximize
+participation by Yugoslav bidders. Ultimately - after a tripartite review meeting in
+Washington in February 1990 - in March 1990 they took Bank advice described above and
+moved rapidly to: (a) cancel all five bids; (b) redesign the project; (c) update project
+economic justification; and (d) prepare new bidding documents. The availability, by this
+time of an experienced foreign consultant and JUGEL's confidence in the consultant, enabled
+the speedy and efficient correction action, which followed (para 5.3.6).
+5.3.6 The JUGEL decision on redesign of the project (para 5.3.5), scrapping the original
+phasing of the project key components, and re-bidding for an integrated RTCS system was
+followed up by an important tripartite meeting at Belgrade in April 1990 to which, at
+JUGEL's request, the Bank sent its Chief Procurement Advisor and its EMS consultant.
+This meeting was a breakthrough in communications between the Bank and JUGEL and the
+Borrowers on the entire procurement aspect, which had dogged the project from the start.
+Two important changes were introduced. First the Bank's industrial formula was introduced
+in place of the 'A,B,C,' method for domestic preference. - covenanted in Schedule 4 of the
+Loan Agreement. JUGEL and the Borrowers understood that this method would enable
+maximization of participation of competent local firms without compromising project
+integrity. Second, the two-stage bidding procedure - which was more appropriate for such
+complex (design, supply and erect) tumrkey projects - was explained to JUGEL and the
+Borrowers and was accepted. Prequalification of bidders was reintroduced and evaluation
+methodology was streamlined. Detailed clauses for introduction in the commercial bidding
+documents concerning domestic preference, currency, pricing, and two stage bidding were
+
+
+
+-16-
+provided by Bank staff. These principles were adopted for the TCS system also. A sound
+basis was thus laid for preparation of acceptable revised bidding documents for the RTCS
+and TCS systems.
+5.3.7 The report on redesign of the EMS project prepared in April 1990 by JUGEL and
+the Borrowers with the help of its foreign consultant - the ECC - was reviewed and accepted
+by the Bank and EIB at a tripartite meeting held in Washington in July 1990. The report
+indicated that the cost of the project would be about US$30.0 million lower than the project
+cost of US$348.0 million estimated by JUGEL in February 1990. The Borrowers later
+requested that an amount of US$25.84 million out of the Bank loan be cancelled. This was
+agreed to. It took more than a year, however, for the details of the cancellation to be
+worked out by the Borrowers and the cancellation was effected in 1991.
+5.3.8  As part of the redesigned project JUGEL and the Borrowers, with the assistance of
+their consultant ECC, developed a small initial "zero phase," component of the RTC
+intended to be procured within a year. This was to be used for limited planning purposes
+and for training of Yugoslav technicians in the latest computer techniques. The proposal was
+recommended by the engineering consultants as this phase could proceed without pre-
+qualification and it could be ensured that the system would be compatible with the main
+RTCS. This zero phase development proposal, expected to cost about US$3.0 million, was
+agreed to by the Banks. JUGEL and the Borrowers moved forward on implementation of
+this small component.
+5.3.9 Cancellation of bidding for the key project components - the OPS, RTCS and the
+DCN - and redesign of this part of the project in 1990 postponed the project completion date
+to end of December 1995. Disbursements under the Bank loan at that time - mid 1990 - was
+about US$17.0 million. Under the new arrangernents agreed, less than half of the loan was
+expected to be disbursed by the loan closing date of December 1993. The principal concern
+of the Borrowers at this stage was that financing of the project through the existing Bank
+loan would result in the Borrowers paying substantial commitment fees on funds that would
+not be needed until much later and also in negative net disbursements in some of the years,
+as repayments had been modified under the February 1988 loan amendment (para 5.2.15).
+JUGEL and the Borrowers sent a special delegation to meet the Bank management (the Vice
+President EMENA) on August 7, 1990. The delegation: (a) appreciated that the Bank could
+not extend the existing Bank loan maturity period; and (b) requested, alternatively, that part
+of the existing Bank loan - in the order of US$60.0 to $70.0 million - be cancelled. At the
+same time, the delegation sought assurances of a new loan in the order of US$40.0 to 50.0
+million during the second half of 1991 to cover financing requirements beyond December
+1993. This proposal was considered, but not accepted, by the Bank.
+5.3. 10 The project now entered its most difficult phase. On the technical side, the project
+design had been finally put on a sound basis. With competent engineering consultants and
+guidance of the Bank on procurement matters, preparation of technical specifications and
+bidding documents for the RTCS and TCS systems was completed and reviewed by the
+
+
+
+-17-
+Bank. Prequalification for the RTCS was completed satisfactory. On the financial side there
+was no solution in sight for the difficult problems ahead for the Borrowers (para 5.3.9). The
+political situation in former Yugoslavia had begun to deteriorate in 1991. The country
+disintegrated in 1992 with the formation of Slovenia and Croatia as separate countries.
+Implementation of the original project and achievement of the project objectives was no
+longer possible. The EIB pulled out, cancelling its loan in February 1992.
+5.3.11 The Bank reviewed the situation internally towards the beginning of 1992. Clearly,
+the original project objectives were now lost. Construction of the federal dispatch center was
+also no longer feasible. Finally, it informed the Borrowers on May 29, 1992 that: (a)
+continuation of the combined procurement of complex system control and telecommunication
+systems (and breaking them up into country components) would be neither appropriate nor
+possible without prior agreement (which was unlikely) among the countries involved; (b)
+financing under Loan 2338-YU would be continued only for those contracts now in progress
+whose completion was expected in 1993; (c) the outstanding balance of the loan should be
+cancelled; and (d) that payments on all contracts, up to and including RTCS ("O") should be
+completed by end December 1993. The Bank did not accept the Borrowers' proposals to
+proceed with the implementation of the project on the basis of the bidding documents
+prepared during 1990 and 1991.
+5.3.12 In the end the Borrowers accepted the Bank decisions. The contract for the RTCS
+(0) component was amended, deleting its federal component. The rest of this small
+component was implemented in those new countries where it was legally and practically
+possible to complete the work. Ultimately this work could only be completed in Slovenia
+and Croatia.
+6.    Project Results
+6.1   Part I of the project was not completed. The physical implementation of the key
+components - RTCS and the TCS - was not even started. Only a small training phase of the
+operation planning system, developed in 1991 as part of the Redefined Project, was
+completed and that too, only in two republics, viz., Slovenia and Croatia. Some equipment
+was delivered to JUGEL and the other Republics, as allowed under UN sanctions provisions.
+Part II of the project (the comprehensive training program) was also not implemented. The
+project therefore had no technical impact at all on the operation of the former Yugoslav
+power grid. Its sector objectives were also not achieved.
+6.2   As the project was not physically implemented, it had no incremental impact on the
+entities' financial performance. The difficulties in getting the Borrowers to meet the LRMC-
+based financial covenants (para 5.2.4-5.2.7) or even the Common Elements (later Common
+Criteria) - based levels as required by law, together with the continued reluctance on the part
+of the Federal and Republic governments on socio-political grounds to increase electricity
+prices in a timely and adequate manner, continued to affect adversely the financial
+performance of the Borrowers. The Bank was further constrained in obtaining adequate
+
+
+
+-18-
+performance because of the lack of enforceable covenants. In retrospect it appears that the
+idea of replacing the well tried and successful cash-generation covenant - which was
+recommended at appraisal and had been cleared by the Bank's Loan Committee - with an
+imprecisely worded and untried LRMC covenant - far from consolidating past efforts may
+actually have been another contributing factor in obtaining the opposite result. Important
+lessons to be drawn are that: (a) a precisely stated financial covenant would have been
+preferable to a vaguely worded LRMC covenant; and (b) assurances given by Government in
+the context of quick-disbursing structural adjustment loans were not effective in ensuring
+implementation. Institutional improvements in financial organization and management were
+secured only to a limited extent due to the absence of any formal institutional development
+components for this purpose under the project.
+Economic Results
+6.3   A review of economic results has not been carried out in this PCR because the project
+was not completed. However, it must pointed out that the Redefined Project Report prepared
+by JUGEL and the Borrowers in 1990 noted that the 1989 Feasibility Study and the Bank's
+SAR had overestimated the economic benefits of the project. Thanks to the reduction of
+costs the net project benefits were deemed to be positive, however. The ERR was re-
+estimated at 10% as against 16% at appraisal. Unfortunately, neither could be tested.
+7. Sustainability
+7.1   The question of sustainability of projects benefits is not relevant as the project was not
+physically implemented. Sustainability of the limited institutional improvements can only be
+reviewed at a much later stage given the drastically altered political situation in former
+Yugoslavia.
+8. Bank Performance
+8.1   Bank Performance during project preparation and appraisal must be rated as mixed.
+On the Qne hand in the early eighties it correctly established the need, in the former
+Yugoslav context, for a modem computerized EMS dispatch system which even the separate
+countries continued to press for after 1992, albeit in a different form as far as the JUGEL
+center was concerned. The Bank ensured that one of the best known engineering firms was
+chosen to do the engineering work. It also enlisted the services of internationally known
+individual consultants on its project preparation missions for a second opinion. On the other
+hand, in the design of the procurement aspect of the project during 1981-1982 the Bank did
+not take into account the complex nature of the EMS which required a unified supply and
+erect - turnkey - concept, not that of supply of simple goods, which was the procedure
+followed from 1981-1987. The Bank also did not identify the errors made in the design of
+contract phasing by JUGEL and its consultants which did not ensure compatibility of
+hardware and software being procured. These were compounded by errors made during
+early 1987 in: (a) waiving the prequalification requirements of bidders, with no relevant
+
+
+
+-19-
+minimum post-qualification requirements specified; and (b) not insisting on an experienced
+foreign consultant to be appointed and allowing instead an inexperienced individual consultant
+to take on the crucial tasks of preparing bidding documents, evaluation of bids and contract
+negotiations. Though all these mistakes were fully corrected by strenuous Bank efforts
+during 1988-1992, the Bank cannot escape the responsibility for the mistakes made on the
+engineering design and procurement aspects during 1981-1987.
+8.2   Bank financial supervision was affected by the lack of enforceable covenants and of
+well-defined institutional development components. Furthermore, the overall weak
+accounting and auditing framework did not meet internationally accepted standards and
+practices. During implementation of the Second Power Transmission Project strong financial
+teams with three Bank Staff members took part in each supervision as was essential for such
+large and complex projects involving numerous borrowers. This was not the case under this
+project, where adequate numbers of financial specialists were not deployed and supervision
+of financial matters was at times handled by non-financial staff. Nevertheless, through its
+periodic supervision, the Bank was able to have a limited impact on the development of the
+power enterprises' financial management and reporting practices, depending upon the degree
+of receptivity to external assistance of the different borrowers.
+8.3   Overall Bank supervision was neither intensive (see Part III, Table 2) nor well
+focused in the period 1983-1987. It was intensified and better focused, particularly on the
+technical aspects, during the later period of implementation (1988 to 1992). Considering the
+comlexity of the project, the length of the implementation period and its continued problem-
+project status, the total supervision effort of the Bank of 324 staff weeks was justified.
+9. Borrower Performance
+9.1   Although the small nucleus staff of JUGEL were obviously committed to the success
+of the project and worked strenuously throughout, the commitment of the Borrowers varied
+and the Federal Government did not intervene with sufficient conviction to ensure that this
+scheme, which had high national priority, was quickly and successfully implemented.
+Perhaps the greatest weakness of JUGEL and the Borrowers was their continued reluctance -
+demonstrated amply during the Second Power Transmission project - to employ foreign
+consultants and to utilize their far more extensive and essential experience. Instead, JUGEL
+and the Borrowers continued to rely on the assumed capability of local consultants, which
+proved to be no substitute for experience, in state-of-the-art components. The benefits which
+JUGEL and the Borrowers actually derived during the years 1990-1993 from the experienced
+foreign consultant appointed late in the project implementation period convinced JUGEL and
+the Borrowers of the price paid for their overconfidence in the early years. If so, the lesson
+could have valuable implications for the future as the grid interconnections remain and some
+modified EMS system may be eventually required.
+9.2   The Borrowers' performance in meeting financial covenants was affected by the
+factors described earlier. On the institutional side, limited improvements were achieved, and
+
+
+
+-20-
+to varying extent, by the different borrowers. Grater improvements were constrained by the
+external environment -- the continuing socio-political restraints on timely and adequate
+increases in electricity prices; the weaknesses in the prevailing accounting and auditing
+systems; and the staffing and resource constraints of the local accounting and auditing service
+(SDK). The Borrowers' financial reporting continued to be weak, and there were frequent
+delays in timely submission of audit reports. These aspects, however, were common to most
+Bank projects in former Yugoslavia at the time.
+10. Project Relationship
+10.1 The relationships between the Bank, JUGEL and the Borrowers on an extremely
+complex and difficult project - which maintained problem-project status throughout the ten
+year implementation period - was generally satisfactory. Strains did develop during some
+periods but acceptable solutions were found after strenuous efforts on the part of the Bank
+and the Borrowers to resolve most problems in a congenial atmosphere. The relationships
+between the Bank and the Borrowers became difficult in the later stages, as the Bank could
+not meet the most persistent requests of the Borrowers to their satisfaction, viz., relief from
+repayment of the Bank loan by extending the repayment period of the loan or cancelling the
+undisbursed part of Loan 2338-YU with the assurance of a new loan. This problem was first
+brought up in March 1987 and continued until 1991, as the project targets continued to slip.
+No solution to this problem was found and this did not help to improve the relationship
+between the Bank and the Borrowers.
+11. Consulting Services
+11.1  The project suffered from poor engineering consulting services from Board approval
+in 1983 to about 1989 when, after following standard Bank procedures for selection of
+engineering consultants, a foreign firm which met precisely defined experience requirements
+was finally chosen. This firm performed well, but its task could not be completed on
+account of the country's disintegration. The performance both of the inexperienced
+individual foreign consultant - who was hired for a short period during 1987-1989 - and of
+the local "onsultants - whose services were extended from the project preparation period -
+were less than satisfactory when judged by the results. The local consultants were
+inexperienced and suffered from lack of guidance from an experienced foreign lead firm for
+most of the project implementation period.
+12.   Cofinancing
+12.1 The EIB loan of 67 million ECU was made under parallel financing arrangements in
+December 1982, several months before the Bank loan was approved. Out of the EIB loan
+amount 13.887 million ECU was disbursed by July 1987. The balance of 53.113 ECU was
+annulled in 1992. The Bank is not aware of the nature of the EIB disbursements - mainly
+3.934 million ECU to the power enterprise of Bosnia-Hercegovina and 9.271 million ECU to
+the power enterprise of Croatia - which took place on September 12, 1986 prior to the first
+
+
+
+-21-
+tripartite meeting of March 1987 (para 5.2.15), when preparation of the bidding documents
+for the thirteen ICB packages had not yet been completed.
+12.2 The EIB loan provided that goods to be financed by EIB should be purchased "as far
+as it is appropriate and possible, by international competition open at least to the nationals of
+former Yugoslavia, of the member states of the European Economic Community and
+Switzerland". EIB favored contracts to be funded under its loan to be awarded to suppliers
+from EIB member countries. To accommodate EIB, without violating Bank ICB procedures,
+the Yugoslavs, EIB and the Bank agreed to follow phased bidding (i.e. the thirteen ICB
+packages, para 4.1.2). EM was to finance the first contract(s) with the lowest evaluated
+bid(s) coming from an EIB member country. In the event - considered unlikely - that no
+supplier from an EIB country became the lowest evaluated bidder for any of the procurement
+packages, EIB agreed that it would - though reluctantly - finance such contracts. The EIB
+loan was not set up to finance any consultancy services. As almost all of the EIB
+disbursement took place prior to 1987 - when bidding for the first of the thirteen ICB
+packages was invited - the conclusion must be that the disbursement was for works outside
+the scope of the project defined in the Loan Agreement.
+12.3  This unusual parallel financing arrangement made it difficult for JUGEL and the
+Borrowers to even prepare a complete project financing plan and present it to the Banks
+during supervision. The lesson to be drawn is that in such parallel financing schemes the
+lending agencies should always agree at the start of the project on the specific items to be
+financed by the respective loans. This was not done under this project and it led to
+uncertainties and misdirection of cofinancing provided for the project.
+13.   Project Documentation and Data
+13.1  There was no field supervision of the project after mid 1992. As the project was not
+completed no completion mission was carried out. Data on the exact dates of completion of
+the ancillary items of the project are therefore not available. The PCR has been prepared on
+the basis of the extensive data available in the Bank files.
+4
+13.2 No project cost data have been included for comparison with the SAR projections as
+the project was not completed. It has to be pointed out that a meaningful comparison of
+costs would not have been possible in any case because the Bank's SAR did not contain
+detailed project cost estimates and the project cost summary in the main text of the SAR does
+not serve this purpose. The customary sections on Detailed Project Costs and Financing
+therefore not included in this PCR.
+
+
+
+-22-
+II. PROJECT REVIEW FROM THE BORROWER'S PERSPECTIVE
+Loan No. 2338-2-YU (Croatia)
+A. Introduction
+2.01    The Loan Agreement to finance the construction of the Third Power Transmission
+Project - the 320 kV Yugoslav national grid - Energy Management System, No. 2338-YU,
+was made on October 5, 1983 between IBRD and the power enterprises of the republics and
+provinces of the Former Socialist Federal Republic of Yugoslavia (FSFR) for an amount of
+US$120,000,000.00. Out of this amount, under the Agreement No. 2338-2-YU, Hrvatska
+Elektroprivreda was allocated 15.75%, or US$18,900,000.00.
+2.02    The loan was approved on the basis of a feasibility study, and the guarantee for the
+loan was approved by FSFR, which was published in the FSFR Official Gazette in December
+1984.
+2.03    Foreign currency guarantee no. 108 was issued by Zagrebacka Banka on
+October 19, 1984 for the utilization of the loan through Narodna Banka Jugoslavije,
+Belgrade.
+B. Loan Utilization as at July 31. 1994
+2.04
+APPROVED         SPENT        BALANCE
+IA   US$             US$      j     US$
+a) Materials, equipment & software    11,230,000.00   1,437,534.51    9,792,465.49
+b) Construction work for DC ZJE      470,000.00                    470,000.00
+c) Consilting services & training  1,340,000.00     254,694.48    1,085,305.52
+d) Interest and other charges      4,360,000.00   1,097,691.43    3,362,308.57
+e) Front end fee                      47,132.00      47,132.00
+f) Contingent                      1,452,868.00                  1,452,868.00
+[  TOTAL                         I 18,900,000.00   2,837,052.42   16,062,947.58
+
+
+
+-23-
+2.05    By our letter of September 3, 1993, we cancelled a portion of the undisbursed loan
+in the amount of US$15,931,469.58 and reserved US$131,478.00 payable under Contract
+No. 2130-25 of June 4, 1991 made with the supplier EMPROS SYSTEMS
+INTERNATIONAL USA, for completion of the work on the supply of real time control
+system phase "O" (RTCS "O"), which was approved by your fax of November 29, 1993.
+2.06    Under APPLICATION 1: payment of US$75,065.47 was made on April 7, 1994
+to SIEMENS ENERGY AUTOMATION INC., so that the remaining undisbursed portion of
+the loan amounted to US$56,412.53. Given that SIEMENS ENERGY AUTOMATION INC.
+has not completed the RTCS "O" project before the deadline for the utilization of the
+undisbursed portion of the loan, Hrvatska Elektroprivreda will have to finance the smooth
+completion of the project out of its own funds.
+2.07    The utilized portion of the loan amounting to US$2,837,052.42 has been repaid
+until March 1, 1993. According to our data as at July 31, 1994, only the last withdrawal of
+US$75,965.47 (and interest accrued) remains to be repaid.
+2.08    Due to the outbreak of the war, the following contracts entered into have not been
+completed:
+Unioninvest Sarajevo (LI)
+Koncar Zagreb (RTU)
+Energy and Control Consultants (ECC) - Consulting services.
+The situation today does not give rise to the hope that these contracts could be renewed or
+completed.
+C. Effectiveness of the Relationship between
+Hrvatska Elektroprivreda and IBRD
+2.09    From today's perspective it is evident that the model of the project management
+was perniciously ineffective and bad for Hrvatska Elektroprivreda, and that it had extremely
+destructive effects on all activities related to the completion of the Energy Management
+System (EMS), which had been financed and constructed to a significant extent by HEP itself
+before 1985. HEP's intention in entering this project was to expand, modernize, and
+improve the EMS already constructed, which, however, due to the total unpreparedness of
+JUGEL and most of the power enterprises of the republics and provinces of the former
+Yugoslavia, resulted in the total blockade of all activities on modemization, expansion and
+improvement of the HEP's EMS already constructed by that time.
+
+
+
+-24-
+2.10    In our opinion, the principal reasons for such an evident failure and ineffectiveness
+of the project are the following:
+*  Adoption of a wrong model where 9 technically and financially integrated units
+were to be treated and managed as one project, but with 8 Borrowers. This
+unavoidably resulted in a number of negative consequences, which would have been
+difficult to overcome even in a far more homogenous environment than that existing
+in the former Yugoslavia in 1983. The evident consequences of the model as
+adopted were:
+-   An extremely large and complex project was created with undefined method of
+responsibility and coordination, which was difficult to supervise and manage.
+-   The speed of the project was dependent on the (in)capability of the most
+incapable Borrower, whose unpreparedness to make decisions or discharge
+obligations for an ongoing phase slowed down the Project for all participants.
+Project costs and damages were enormously increasing due to the total delay,
+which had to be borne by all participants irrespective of the fault for the delay.
+*  The Bank insisted on communicating with a staff service to be formally responsible
+for the management of the overall project, which was supported by JUGEL; but
+such model was not substantially realistic since each Borrower rightfully insisted
+that it should maximally influence and control the progress of its own project it
+financed.
+*  The centralized powers JUGEL staff services disposed of in respect of withdrawals
+for and on behalf of all Borrowers made it possible to severely abuse these powers,
+which took place after the outbreak of the war of aggression Serbia waged. We
+reiterate this case here even though it was brought to your attention in our letter of
+November 25, 1992.
+2.11    Due to the war of aggression, Hrvatska Elektroprivreda, by its decision of
+August 28, 1991, ceased to finance the construction of the DC ZJE federal dispatch center
+and notified the Bank thereof in its letter no. 3/1-2564/92/JK of March 9, 1992.
+Nevertheless, the Bank made a payment to JUGEL's account, and without our approval, for
+the construction of DC ZJE:
+Under Application 64 of July 30, 1992       US$ 3,574.77
+Under Applicationi 65 of September 11, 1992    US$14,299.02
+Both above payments were made after U.S.A. Executive Order No. 12810 of June 5, 1992
+had become effective introducing sanctions against the Federal Republic of Yugoslavia
+
+
+
+-25-
+(Serbia and Montenegro). Our request for your explanation of this omission has not been
+answered to date.'
+2.12    We generally consider that the model of managing this project did not enable direct
+contacts to be made between the Bank and the Borrowers, so that the influence and initiative
+by any Borrower was maximally attenuated by the complex management model of the
+project. A fundamental right and obligation of each Borrower to exert influence on and be
+responsible for its project was in this case suppressed, which led to very bad results of the
+project. By contrast, the Bank insisted that JUGEL - the only entity without the capacity of
+a Borrower - centrally manage the projects of all Borrowers.
+2.13    We believe that future projects regardless of their complexity and number of
+Borrowers can be managed successfully only if they are made with each Borrower separately
+and where the projects constitute a single technical solution then prior standards need to be
+defined for their mutual interconnections, which is a normal procedure for interconnecting
+more complex technical systems.
+2.14    We suggest that a lesson be derived from this negative experience about the
+necessity of the direct contact between the Bank and a Borrower with the Borrower
+being directly technically and financially responsible for its own project.2
+D. Utilization of EIB Loan and EIB - HEP Relationship
+2.15    In 1987 Hrvatska Elektroprivreda withdrew ECU 9.2 million out of EIB loan, on
+account of the investments made until then in its own EMS. These funds unfortunately were
+not utilized for EMS expansion, but rather at the time of the highest inflation for other
+investments inside and outside HEP, so that from the EMS perspective they had no effect on
+the project for which they were intended. HEP has regularly discharged its repayment
+obligation, and the contacts between EIB and the Borrower under this loan were minimal.
+I/ No explanation was required as the payments were made in accordance with
+procedures agreed to by the Bank and Hrvatska Elektroprivreda in 1983, which
+were never formally rescinded. Requests for disbursement received by the Bank
+through the authorized agency, JUGEL, were accepted when they were received
+because the Loan Agreement continued to be in force.
+2/ See para 4.2.1, Part I. According to the Loan Agreement signed by
+Hrvatska Elektroprivreda, and other Borrowers, JUGEL was the responsible
+project coordinator. Direct contacts between the Bank and each Borrower were
+not ruled out and, in fact, took place during Bank supervision. The lesson to
+be learned, as stated at para 9.1, Part I, is that the problem of obtaining
+and sustaining real commitment to agreements reached should not be
+underestimated.
+
+
+
+-26-
+E. Project Implementation and Conclusions for the Future
+2.16    RTCS "O' Project is the only project likely to be fully completed for HEP in
+accordance with all the agreed modifications resulting from "force majeure." This is indeed
+a poor result, which is unfortunately the consequence of all circumstances and course of
+events which are systematically reviewed in the Bank's report.
+2.17    HEP today operates an obsolete EMS, which was formally commissioned in 1985
+and which, in terms of technology, concept, and design, is 15 years old. HEP's EMS has
+been maintained and expanded independent of the Loan 2338-2-YU so that we now dispose
+of a full EMS system for which HEP constructed its own AGC (Automatic Generation
+Control) this year to substitute the previous central AGC function of JUGEL in the new
+circumstances of the independent state.
+2.18    In the proximate future, HEP will have to replace the existing obsolete EMS system
+with a new system as useful life of equipment installed 10 to 15 years ago expires. It is
+certain that a support from the Bank would be very welcome to such project in the form
+similar to the loan we have not been able to utilize under the 2338-YU project through no
+fault of ours.
+m:\wc\2338-2.pcr
+
+
+
+-27-
+II. PROJECT REVIEW FROM THE BORROWER'S PERSPECTIVE
+Loan No. 2338-4-YU (Slovenia)
+A. Project Identity
+2.01
+Name:    Third Power Transmission Project, also referred to as the Energy Management
+System (EMS) Project
+Loan No: 2338-4-YU
+Country:  Slovenia
+Borrower: ELES - Elektro Slovenia, Public Enterprise for Transmission, Purchase, Import
+and Export of Electric Energy, Ljubljana, Hajdrihova 2
+as the legal successor of
+EGS - Electric Power Economy of Slovenia, Maribor, Vetrinjska 2
+B. Introduction
+2.02      Loan Agreement IBRD 2338-YU, in the amount of US$120 million for the Third
+Power Transmission Project / Energy Management System Project, was signed on October 5,
+1983. The Guarantee Agreement was ratified by the Yugoslav Federal Assembly in
+December 1984.
+2.03      The Borrower for the Slovene portion of the loan was the Electric Power
+Economy of Slovenia. The Slovene portion of the loan amounted to US$16.2 million under
+Guarantee No. 1571/84 of the Credit Bank of Maribor, dated February 2, 1984.
+2.04    , The Project related to the above-mentioned loan has not been completed,
+therefore,f this report covers only the disbursement and partial implementation of Loan IBRD
+2338-4-YU. Due to the disintegration of Yugoslavia, the assessment of the implementation
+of the project and of the Borrower's (EGS-ELES) and Bank's (IBRD) performance during
+evolution and implementation is divided into two parts, covering that period in which JUGEL
+was the only representative of loan management and that when the ELES became the Bank's
+direct partner.
+
+
+
+-28-
+C. Report on Loan 2338-4-YU Disbursement
+2.05       The approved and disbursed loan amounts are summarized in the following table:
+(in US$)
+| ____Approved    |    Disbursed    |  RCC and PIS        IDC
+Materials, equipment      9,630,000       6,139,558.58     5,445,315.39      694,243.19
+Civil work, JDC             410,000                                                      l
+Consultants training      1,150,000        197,338.91        174,253.48      23,135.43
+Loan charges              3,740,000       1,258,996.08     1,107,412.97      151,583.11
+Front end fee               40,399          40,399.00        35,534.96        4,864.04
+Unallocated               1,229,601
+Special Account                              1,120.41         1,120.41
+TOTAL                J   16,200,000       7,637,462.98     6,763,637.21   |   873,825.77
+2.06       The funds from the loan were spent on:
+(a)  Telecommunication Equipment in RCC (Electric Power Automatic
+Telephone Exchange, Facsimile Equipment, Telegraph Multiplexer,
+Teleprinters, Interphone System);
+(b)  Remote Terminal Units, Local Interface Devices, Measuring Converters,
+Systems for Local Control);
+(c)  Real Time Control System - Phase "O";
+f (d)  Foreign consultants; and
+(f)  Bank expenses.
+The amount of US$8,562,537.02, which the EGS-ELES was unable to use, was cancelled by
+the World Bank on April 27, 1994.
+2.07       There are, therefore, only two main sub-systems to be implemented: the Real
+Time Control System - Phase 1 and the Telecommunication System. Equipment already in
+use will be used with full effectiveness after the implementation of the RTCS I and TCS.
+Benefits for the Power Enterprise and National benefits will be achieved after completion of
+the entire anticipated EMS.
+
+
+
+-29-
+2.08      The EGS started repayment on March 1, 1987, and continued loan repayment
+after 1991 (from 1992 the ELES rather than the EGS). The sum repaid, including maturity
+as of September 1, 1994, is US$ 6,745,125.52. The course of the loan repayment and
+disbursement was in effect simultaneous because of the delay in project implementation. The
+portion of the loan disbursed will comply with the Amortization Schedule to be repaid in
+1998, whereas the revised maturity amounts after 1994 will be considerably smaller than
+were originally scheduled.
+D. About the Project
+2.09     The beginning of the construction of the EMS dates back to 1976 when the
+Slovene Electric Power Economy accepted the Bases for Slovene EPS Control. The first
+Investment Program for the Slovene RCC was drawn up in July 1981. The activities detailed
+in this were later cancelled due to the Yugoslav EMS project.
+2.10      According to the MIS Study, in Slovenia the Development Guidelines for the
+Business-Technical Area of the Integrated Information System (1IS) of the EGS which were
+accepted consisted of:
+(a) the Energy Management System of the Slovene EPS; and
+(b) the Business Management System.
+The Business Management System was successfully erected.
+2.11      The main objective of the EGS was to install, operate, and manage a modem
+Energy Management System for the Slovene EPS (EMS-SLO), as a constituent part of the
+Yugoslav EMS, consisting of the Republic Control Center and the Pertinent Information
+System (RCC and PIS), Area Control Centers, and Distribution Control Centers. The Area
+Control Centers and Distribution Control Centers should have been connected through the
+DCN, but these centers were not the object of purchase under the EMS Project. Each
+electric ppwer facility should have been covered only once from a data acquisition point of
+view, while all Control Centers obtain all necessary information through the uniform DCN
+network.
+2.12     The EGS joined the Yugoslav EMS project for reasons of Technological
+uniformity and expected a reduction of the overall project costs through coordinated project
+realization at JUGEL level.
+
+
+
+-30-
+E. Project Review up to 1991
+2.13     The Investment program for the RCC and PIS of EPS of Slovenia was drawn up
+in April 1983. In December 1983, it was approved by the EGS and in December 1984, by
+the Self Management Community of the Slovene Power Sector. The investment was
+registered with the State Financial Inspection Body on April 25, 1985. The estimated cost of
+the Project was US$53,230,150, and it should have been executed by December 31, 1987.
+Construction began in May 1986.
+2.14     Self-management procedures in Slovenia also prolonged the time from the
+decision for investment implementation to investment registration. On the other hand, at the
+start of the project, domestic funds were at the investors' disposal and the only obstacle was
+JUGEL's unfinished documentation.
+2.15     In 1987 and 1988, bidding documents were draw up and procurement procedures
+were initiated through five separate tenders for the Operation Planning System (OPS), Real
+Time System (RTS), and Data Communication System (DCN). JUGEL's and Borrower's
+teams completed evaluations and made recommendations of contract awards according to
+procurement methodology. The final decision on these five systems was never issued'
+because of Serbia's political interests, which later led to the break-up of Yugoslavia.
+2.16     The lesson to be learned is that it is better to sign a contract and solve any minor
+problems, than to run through another decision circle, which can take two or three years.2
+In fact, four Control Data Corporation bids for the OPS I, RTS I, RTS II, and DCN were
+evaluated as the best bids, while the OPS II did not reach the required level. The best bid
+for the OPS II was from Combustion Engineering, which also fulfilled all OPS I
+requirements. There is no doubt that RTS and DCN should have been awarded to CDC
+(e.g.: EMS project commissioned by the National Grid Co. in the U K) and OPS to CE.
+The compatibility between RTS and OPS was not critical, because requirements were only
+for non-real-time data transfer. At that time, few applications in the world with different
+I/ The Bank does not agree with the comments at 2/ and 3/. The Borrower
+agrees, at paras 2.15 and 2.17 above, that no final decision (on bid award
+recommendation for the five systems) was taken by the Borrowers and forwarded
+to the Bank. The problems were not, obviously, minor. How could a contract
+be signed, in such a case, when no award recommendation had even been made?
+The reasons for the Bank's advice to cancel the five bid invitations have been
+given at paras 5.3.3-5.3.5, Part I. No further comments on para 2.16 are
+being offered by the Bank, as the results of bid analysis (para 2.15) were
+never sent to the Bank.
+2/ See footnote 1/.
+
+
+
+-31-
+hardware for real-time and planning system existed. Not contracting the RTS and DCN,
+according to Bank advice, was the greatest mistake of the whole Project.3
+2.17     The EMS Coordination Committee decided to cancel tenders and to redefine the
+EMS Project on March 15, 1990. The RTS, OPS, and DCN were merged into a new RTCS
+sub-system and new bidding documentation was drawn up. The RTCS was split at the initial
+zero phase and the main RTCS first phase. The bidding procedure for RTCSO was
+successfully completed and the contract signed in June 1991.
+2.18     The utmost efforts to prepare RTCS1 bidding documentation were made. The
+documentation was completed and sent to the IBRD in 1991; however, because of the
+disintegration of Yugoslavia, the documents were not approved.
+2.19     The lesson to be learned is that splitting the RTCS and the zero and first phases
+caused procedure duplication.4 The Borrower's manpower was shared; it would be much
+better to focus all efforts on one complete tender. If the contract for the entire RTCS had
+been signed before the disintegration of Yugoslavia, the RTCS system in Slovenia would
+have been successfully completed.
+F. Activities Analysis up to 1991
+2.20     The above-mentioned period caused enormous delays in documentation design,
+post-evaluation procedures, and decision making. These are some of the major reasons for
+the EMS project delays:
+(a) EMS project execution was arranged to be carried out by the Coordination
+Committee of the eight Borrowers. The Coordination Committee has been
+unable to ensure efficient and current project execution;
+(b) The organizational structures of the EMS project teams in RAPs were
+different, with varying numbers of members, disparate knowledge and
+unequal competence;
+3/  See footnote 1/.
+4/ The idea of splitting the RTCS into two phases was put forward at the
+tripartite meeting held in Washington, D.C. in February 1990 (paras 5.3.5 and
+5.3.8, Part I) by the Borrowers, and their Engineering Consultant, and it was
+accepted by the Bank. The Borrowers should have deployed the necessary
+manpower to avoid delays on their side.
+
+
+
+-32-
+(c) The Borrowers did not have opportunities of communicating with the
+creditor;5
+(d) At an early stage the majority of people trained for the EMS project
+management left the project;
+(e) There were problems with project unification and reconciliation;
+(f) New technology and a new type of equipment were incorporated into the
+conservative enterprise;
+(g) Domestic consultants' expertise was insufficient for such a technologically
+complex EMS project;
+(h) Bidding and evaluation procedures were carried out almost without
+difficulties up to the point when particular Republics' interests were
+expressed during the process of evaluating the best bid;
+(i) Bank procedure for the approval of the Tender documents and evaluation
+findings approval was overly long;6
+(j) There was a lack of domestic investment funds, because of an inefficient
+power tariff pricing system - insufficient support from the government; and
+(k) A high inflation rate made use of any normal planning and investment
+project management methodology impossible.
+5/ Leagning from the experiences under the First and Second Power
+Transmission Projects - which also involved several Power Enterprises as
+separate Borrowers - special arrangements for more efficient communications
+between the Borrowers and the Bank were made for the Third Power Transmission
+Project, with JUGEL as the main coordinator. This did not rule out
+communications between the Borrowers and the Bank and they did take place
+during project supervision. It would not have been possible to consider
+implementation of this complex project without a single coordinating agency,
+such as JUGEL, in Yugoslavia.
+6/ This comment is not accepted. For the five main project components, bid
+evaluation in Yugoslavia was never completed. The question of delays due to
+Bank procedures, therefore, did not arise on these five major contracts. For
+the other minor tenders, which were evaluated and cleared by the Bank
+according to Bank procedures, some difficulties arose due to non-adherence to
+Bank procurement guidelines.
+
+
+
+-33-
+G. Implementation Progress after June 1991
+2.21     The changes that followed the independence of Slovenia in June 1991 had a
+certain impact on the conceptual and technical requirements of the Energy Management
+System of the Slovene Electric Power System, and especially on the financial and legal status
+of the project.
+2.22     In October 1992, Elektro-Slovenia took over the Project from the Slovene Electric
+Power Economy with all obligations and competence related to investment accomplishment,
+current obligations concerning contracts, and obligations concerning the IBRD loan.
+2.23     Up to December 31, 1991, the loan was disbursed through JUGEL; after that date
+the EGS-ELES disbursed the loan directly via an LBS New York special account which made
+disbursements current and accurate.
+2.24     In 1993, the project was re-activated and the Bank approved current disbursement
+for the completion of LI, RTU and the Electric Power Telephone Exchange.
+G. Activities Analysis after 1991
+2.25     After Slovenia became independent, all important state functions had to be re-
+established, including the reorganization of the electric power sector, and it took some time
+to become accustomed to new conditions. From the time the ELES was founded to October
+1992, when the ELES took over the EMS project, project implementation ran at a slower
+rate, but work on contracts that had already been signed was accomplished. While contracts
+for the RTCS1 and TCS remained unsigned the undisbursed amount of the loan, to our
+regret, could not be used.
+2.26     During the period of investment, implementation cooperation with the World
+Bank raly smoothly. Among other things, the Bank helped us in solving the problem with
+war damage connected with Local Interface contracted with Unioninvest Sarajevo. All
+problems were solved and questions answered in direct contact over the telephone or through
+facsimile and mail, which had the effect of aiding rapid performance of the job.
+
+
+
+-34-
+H. Conclusion
+2.27      Today the EMS project in Slovenia includes data acquisition in power facilities,
+part of the system control support and all ancillary equipment, including RCC building;
+however, the principal portions of the project - Real Time Control System Phase 1 and
+Telecommunication System - are missing.
+2.28      Appraisement of the implementation of the project as a whole, from our point of
+view, is negative. However, some positive achievements must be stressed. The Investors'
+team members, who have been working on the project for some time, and also domestic
+consultants, have gained much valuable knowledge and experience in designing feasibility
+studies, investment programs, tender documentation, bidding procedures, evaluation
+procedures, and processes in connection with foreign credit arrangements for large
+investment projects.
+2.29      In our opinion, the new technology has successfully been transferred in all
+completed sub-projects.
+2.30      In order to assure continuation of the investment, the ELES has made the decision
+to apply for a new loan or to renew the existing loan with one of the international banks.
+The ELES is particularly interested in applying for a loan with the current creditors of the
+project. The Feasibility Study has been drawn up for the purpose of facilitating the
+acceptance of a satisfactory conclusion as to the provision or renewal, respectively, of loans
+from the international financial institutions.
+I. Remarks on PCR Part I
+2.31      General. JUGEL's power in connection with decision-making was actually much
+higher than was described in PCR Part I.
+2.32      Point 3.1. The electricity tariffs were under the Federal and RAP's Governments
+control and the EGS as a power utility had minimal impact on price rises.
+2.33      The EGS accepted as a general policy the economic optimization of the
+investment in the entire power sector and invested in power plants in Bosnia.
+2.34      Point 5.3.10. The new RTCS bidding documentation was completed and sent to
+the IBRD in 1991; however, because of the break-up of Yugoslavia, the documents were not
+approved.
+
+
+
+-35-
+2.35     Invitations for tender for the TCS were published in 1990, the Technical
+Evaluation was completed in 1991, and the results were sent to the IBRD. Bank clearance
+was not forthcoming for the same reason as in the case of the RTCS.
+I. Remarks on PCR Part III
+2.36     There should be additional tables7 with data on:
+(a) Approved and disbursed amounts according to categories from Schedule 1 of
+the Loan Agreement for all Borrowers;
+(b) All disbursements for JDC and Borrower's shares; and
+(c) Planned and actually repaid amounts for all Borrowers.
+7/ For (a): a table - No. 5 - on approved/final loan disbursements, by
+Borrower and Category, has been added in Part III. For (b) & (c), it is not
+feasible at this stage to obtain information from all the Borrowers/JUGEL.
+
+
+
+-36-
+Table 1
+PART III
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(Loan 2338-YU)
+A. Proiect Time Table
+Planned and Actual Dates of Proiect Time Table
+ITEM                  PLANNED DATE          ACTUAL DATE
+First Presentation to Bank                                 1971
+First Presentation Review Mission   1980                   1980
+Start of Appraisal                    11/03/1981           11/03/1981
+Completion of Negotiations            03/31/1983           03/31/1983
+Board Approval                        05/23/1983           07/26/1983
+Effectiveness                         November 1983        01/14/1985
+Project Completion                    12/31/1988           NOT COMPLETED
+Loan Closing Date                     03/31/1989           extended to
+12/31/1993
+
+
+
+-37-
+Table 2
+PART III
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(Loan 2338 - YU)
+Use of Bank Resources
+STAGE OF       YEAR     NO. OF        NO. OF      SPECIALIZATION    RATING
+PROJECT CYCLE              PERSONS    STAFFWEEKS       REPRESENTED      STATUS
+Preparation       FY82        3           26.0       ECO, LOF, FNA
+Preparation/      FY83        4           12.6       LOF, FNA, EGR
+Preappraisal
+Appraisal         FY83        7           42.0       EGR, ECO, FNA,
+REA
+Negotiation       FY83        2            8.4       ECO, FNA
+Negotiation       FY83        2            1.2       ECO, FNA
+Supervision
+1          FY83        1            0.4       EGR.
+2          FY84         5           20.9      EGR., ECO,
+FNA, OPA
+3          FY85        3           16.2       ECO, FNA, OPA    3
+4          FY86        6           36.4       EGR, ECO, FNA    3
+5          FY87        13          26.9       EGR, ECO, FNA,   3
+OPA
+6          FY88        15          49.1       EGR, ECO, FNA,   3
+PA, OPA
+7          FY89        11          45.8       EGR, ECO, FNA,   3
+OPA
+8          FY90        11          61.5       EGR, ECO, FNA,   3
+OPA, PA
+9          FY91        15          47.3       EGR, ECO, FNA,   3
+OPA, PA
+i°         FY92         5           13.1      EGR, ECO           3
+11         FY93         1           1.3       EGR                4
+12         FY94         1           4.2       EGR
+Project           FY94        2            6.5       EGR, FNA
+Completion
+Report
+EGR - Engineer
+ECO - Economist
+FNA - Financial Analyst
+LOF - Loan Officer
+OPA - Operations Assistant
+PA  - Procurement Advisor
+REA - Research Assistant
+
+
+
+-38-
+Table 3
+PART III
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(Loan 2338-YU)
+C. Estimated and Actual Schedule of Disbursements
+(US$ Million)
+DATE                             ESTIMATED                ACTUAL
+12/31/1983                           _
+06/30/1984                            3.7                      NA
+12V31/1984                            8.5                      NA
+06/30/1985                           17.3                         1.50
+12/31/1985                          29.3                          .50
+06/30/1986                           42.9                         .54
+12/31/1986                           57.3                         .58
+06/30/1987                           71.5                         .62
+12/31/1987                           83.5                         .56
+06/30/1988                           94.9                         .61
+12/31/1988                          105.7                         .49
+06/30/1989                          115.0                         .60
+12/31/1989                          120.0                        2.96
+06/30/1990                           _                           5.20
+1231/1990                          -                            6.31
+06/30/1991                           _                           4.98
+) 12/31/1991                                                       8.40
+06/30/1992                           _                           2.47
+12/31/1992                                                       3.63
+06/30/1993                           _                           1.00
+12/31/1993                          -
+03/31/1994                           _                             .83
+Total Disbursed                        _                          41.78
+Total Amount Cancelled6                                                   79.22
+Includes  $4.98 million cancelled  after signing but before effectiveness.
+
+
+
+-39-                                                           Table 4
+PART III
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(Loan 2338-YU)
+D. Imolementation Schedule'
+CONTRACT                         TENDER RELEASE                       CONTRACT SIGNING                       CONTRACT
+COMPLEnON
+No2                                PLANNED             ACTUAL              PLANNED            ACTUAL            PLANNED    ACTUAL
+1. Microwave System (TCS)          Jan. 31.1983        -                  Oct. 31. 1983       -                 Dec. 31.1986      -
+2. Data Communication
+Network (DCN)                   Mar. 31, 1983       June 20. 1983      July 31. 1984       -                 April 20. 1987    -
+3. Operation Planning
+System - Phase I (OPS-.)        Miy 31, 1983        October. 1987      Jan. 31. 1984       -                 April 30, 1985    -
+4. Operation Planning
+System - Phase r 
+(OPS - I)                       June 15, 1983       October, 1987      Feb. 28. 1984       _                 Nov. 30, 1985     -
+5. JUGEL DC BUILDING'              June 30, 1983                          Jan. 1. 1984                          Dec. 31, 1984      -
+6. Remote Terminal
+Units (RTUs)                    July 31, 1983       June 20. 1988      June 30. 1984        _                June 30. 1987     -
+7. Real Time Control
+System - Pbhc I (RTCS-I)        July 31, 1983       June 20, 1988      SepL 31, 1984                         June 30, 1984
+8. Real Time Control
+System (RTCS - 11)              SepL 30, 1983       June 20. 1988      OcL 31. 1984        _                 OcL 31. 1987       _-
+9. Diesel Engines                  Sept 30, 1983       June 20, 1988       April 15. 1984     1990              Feb. 15. 1985
+10. Locad Interfaces (LTs)         Oct 15. 1983        June 27. 1988      April 30. 1981      1990              Dec. 31. 1988
+11. Unintcrruptible
+Power Supplies                  Oct 31. 1983        June 20. 1988      Feb. 28. 1984       1989              Feb. 28. 1985
+12. DC Telecommunication
+Equipment                      Nov. 30, 1983       October. 1987       Mar. 31. 1984      July 25. 1988     Mar. 31. 1985
+13. Building Facilities'           Dec. 31. 1983       June 20. 1988      Jan. 1, 1984        Mar. 6, 1989      Dec. 31. 1984
+1/    13 Contracts listed in Schedule 4 of Loan Agreement.
+2/    In the order of planned dates of release of Tender Documents; planned
+start of implementation Jan. 31, 1983; planned completion Oct. 31, 1987.
+3/    Constructed by Serbian Power Enterprise - not financed by Loan 2338-YU;
+Materials under item 13.
+4/    Completed but exact dates are not available.
+(Please note: All asteriks(*) are part of footnote 4)
+5/    Airconditioning; Firefigthing equipment, building materials etc.
+
+
+
+PART [I
+FSFR YUGOSLAVIA
+THIRD POWER TRANSMISSION PROJECT
+(Loan 2338-YU)
+E. Loan Disbursed by Categories
+Cat.     Description       2338-0        2338-1        2338-2    |M2338-3    |   2338-4   |    2338-5    |   2338-6   |   2338-7              Total
+I. ....L.... I ________________ I (Bosnia)  (FSFR)    (Croatia)   (Macedonia)    (Slovenia)      (FSFR)         (FSFR)        (FSFR)       Disbursed
+I.a   Materials & Equip.  4,018,666.57   1,365,300.18   1,512,599.98   2,624,816.44   6,139,558.58   7,080,021.16    1,822,305.86   2,146,694.81   26,709,963.58
+I.b  JDC Ponlion             -             -             -             -             -              -              -             -
+l.c   Consultants         227,826.40    121,333.04   254,694.48     135,900.84   197,338.91     302,794.61     179,940.47    88,177.70    1,508,056.45
+I.d   Loan Charges      1,725,398.56    501,635.73    1,097,691.43    841,553.81    1,258,996.08   2,036,113.00  599,527.82  706,585.82    8,767,502.25
+I.e   Front End Fee       53,865.00     26,185.00     47,132.00      29,925.00     40,339.00     59,102.00     21,297.00     21,347.00     299,252.00
+I.f   Special Account*/   1,501,117.89    495,025.98       0.00          0.00      1,120.41    1,500,000.00   500,372.63     500,372.63    4,498,009.54
+Unallocated
+Total Disbursed   7,526.874.42   2,509,479.93   2,912,117.89   3,632,196.09   7,637,462.98   10,978,030.77   3,123,443.78   3,463,177.96   41,782,783.82
+Owed lo
+World Bank
+by Borrower      1,501,117.89    495,025.98         0.00          0.00       1,120.41    1,500,000.00  500,372.63    500,372.63    4,498,009.54
+(Fax dated
+07/14/94)                                                                                                             ll1
+3
+(F;xdated _________ - __________ - _________ - _________ - _________ - __________ - _________ - __________ - ___________~P
+rvi
+0
+
+
+
+
+
+
+U11
+:7)
+I-4
+I -
+-V
+,          l  I  z
+-1                 -14'
+Xz:                (1 ~>,
+- 4                     E-d 
+
+
+

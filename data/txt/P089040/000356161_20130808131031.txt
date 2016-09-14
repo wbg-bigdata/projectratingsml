@@ -1,0 +1,1232 @@
+﻿                                                    80122
+Report No. 63
+
+
+South Asia Human Development Sector
+
+Educational, Economic Welfare and Subjective Well-Being in
+Afghanistan
+
+July 2013
+
+
+
+
+Discussion Paper Series
+Report No. 63
+
+
+South Asia Region
+Human Development Unit
+
+
+
+
+      EDUCATION, ECONOMIC WELFARE AND
+    SUBJECTIVE WELL-BEING IN AFGHANISTAN
+
+
+
+
+                         July 2013
+                          TABLE OF CONTENTS
+Introduction…………………………………………………………………………………… 1
+Context………………………………………………………………………………………... 2
+Analysis of Factors Associated with Household Economic Welfare and Poverty…………… 4
+Empirical Results……………………………………………………………………………...7
+Conclusion……………………………………………………………………………………20
+
+
+
+
+                                       ii
+                       LIST OF FIGURES AND TABLES
+
+Figures
+Figure 1: Impact of Education on Household Consumption (Urban)………………………8
+Figure 2: Impact of Education on Household Consumption (Rural)………………………10
+
+Tables
+Table 1: Key Education indicators for South Asia………………………………………….3
+Table 2: Education and other factors associated with per capita household consumption in
+urban and rural Afghanistan 2007/08: OLS Estimation…………………………………….9
+Table 3: Education and Other Factors Associated With the Probability of Being Poor in
+Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic Estimation………...12
+Table 4: Education and Other Factors associated with the Probability of Women’s Labor
+Force Participation in Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic
+Estimation………………………………………………………………………………….14
+Table 5: Education and Other Factors Associated With Girls’ Happiness, Rural and Urban
+Afghanistan 2007/08: OLS Estimation…………………………………………………….17
+Table 6: Education and Other Factors Associated with Women’s Happiness, Rural and
+Urban Afghanistan 2007/08: OLS Estimation……………………………….…………….19
+Table A.1: Mother’s Education and Other Factors associated With the Probability of
+Infants Being Given Colostrum and of Children Being Immunized, Afghanistan 2007/08:
+Marginal Effects of Logistic Estimation…………………………………………..……….24
+
+
+
+
+                                            iii
+                AUTHORS
+
+
+
+             Harsha Auturupane
+Lead Education Specialist and Task Team Leader
+               The World Bank
+
+
+
+
+             Ramani Gunatilake
+         Consultant, The World Bank
+        Principal Author of the Report
+
+
+
+
+                Mari Shojo
+             Education Specialist
+              The World Bank
+
+
+
+
+              Roshini Ebenezer
+                 Consultant
+              The World Bank
+
+
+
+
+                      iv
+                             ACKNOWLEDGEMENTS
+The team acknowledges with sincere gratitude the assistance of Government of Afghanistan
+counterparts in the preparation of this report as well as several World Bank colleagues. From
+the Government of Afghanistan counterparts, we would like to acknowledge in particular, the
+Ministry of Education and the Ministry of Higher Education. From the World Bank, staff of
+the South Asia Education Department, and the World Bank Kabul office provided valuable
+inputs. Early findings from the report have also been presented to the development partners in
+Afghanistan, such as the Governments of France, Germany, and the U.S.A., and multilateral
+partners such as UNESCO and UNICEF, who provided valuable suggestions and inputs.
+
+
+
+
+                                              v
+                                    INTRODUCTION
+Education is universally recognized as one of the key determinants of socio-economic
+security and welfare. The link between education and increased individual earnings has been
+widely documented: there is a large body of cross-country evidence that education enhances
+the employability, productivity and income earning capacity of individuals (Hanushek and
+Welch, 2006). This in turn enables individuals to increase their household income and
+welfare (Hanushek and Woesmann, 2008; Patrinos and Psacharopoulos, 2011). Education has
+also been shown to have an impact on other socio-economic indicators such as child health.
+Here again, the evidence from numerous countries shows a strong correlation between
+mother’s education and child health outcomes (Currie and Moretti, 2003; Glewwe, 1999;
+Desai and Alva, 1998; Behrman and Deolalikar, 1988). Better educated mothers are less
+likely to have low birth weight babies and these babies are less likely to die within their first
+year of life (Cutler and Muney, 2006). Moreover, more educated mothers are more likely to
+have better health and nutrition levels, which lead to higher health and nutrition outcomes for
+their children (Bicego and Boerma, 1993; Miller and Korenman, 1994; Duflo and Breierova,
+2004; and Boyle et al., 2006).
+
+Likewise, there is an increasing body of evidence to support the hypothesis that education is a
+determinant of happiness, or subjective well-being. Reaching important personal goals can
+often increase a person’s sense of self-worth and happiness, and resources such as education
+and income are often necessary for the successful pursuit of goals. Hence it can be assumed
+that people with fewer resources and opportunities are, on average, less successful in
+reaching personal goals and are thus unhappier and less satisfied than people with more
+resources and opportunities (Diener and Biswas-Diener, 2002; Diener and Fujita,1995). In a
+study of the association between education and happiness in 35 mainly advanced but also
+developing countries, Cheung and Chan (2009) found education to be a strong predictor of
+life satisfaction, and that the longer the time spent on education, the higher were people’s
+reported levels of satisfaction. Meanwhile, Tesch-Romer et al.’s (2008) study of the
+relationship between gender inequality and subjective well-being across 57 countries found
+that societal gender inequality was related to the size of gender differences in subjective well-
+being, and that the inclusion of individual resources such as education and income in the
+analysis reduced the size of gender and country differences.
+
+The impact of educational attainment on these various socio-economic indicators has been
+shown to vary by region, sub-region, gender, age, by income levels, and other variables. For
+instance, the educational rate of return tends to be higher in developing countries vs.
+developed countries. Investing in girl’s education tends to yield greater benefits than boys
+education. The rate of return tends to decline with an increase in both the level of schooling
+and a country’s per capita income. Moreover, most of the literature measures economic
+returns to education in terms of the quantity of schooling rather than quality and more ore
+recently; there has been an emphasis on the importance of adding educational quality to the
+model. This increases the variation in returns to education from 25% to 73% (Hanuschek and
+Woesmann, 2010). Recent literature also emphasizes that education may have less impact in
+less developing countries that lack other facilitating factors (Hanuschek and Woesmann
+                                               1
+2010). Given this kind of variation, it is important to examine the impact of education on
+socio-economic variables in various regional and cultural contexts.
+
+In this paper, we focus on the socio-economic impact of educational attainment in
+Afghanistan. Afghanistan presents a fairly unique context for examining the association
+between education and the socio-economic variable discussed above. It is a conflict-affected
+country, with strong and rich cultural and religious traditions. It also has some of the worst
+developmental indicators and in the world. To date there is little empirical evidence of the
+socio-economic economic impact of education in Afghanistan, although factors associated
+with school enrollment have received some attention (Guimbert et al., 2008; Hunte, 2006;
+Rashid, 2005; and Aturupane, Gunatilaka, Shojo and Ebenezer 2013). There are hardly any
+studies that have looked specifically at the association between education and subjective
+well-being in the context of a poor, conflict-affected country such as Afghanistan where
+cultural norms and practices also impose considerable restrictions against women’s
+education. It is this gap in knowledge that the present study aims to fill.
+
+Using data from the National Risk and Vulnerability Assessment (NRVA) survey of 2007/08,
+we investigate the extent to which the educational attainment of men and women is
+associated with greater economic welfare and less likelihood of being poor. The analysis is
+divided into four parts: part one looks education and other factors associated with household
+economic welfare and the probability of being poor; part two focuses on the education and
+other factors associated with women’s participation in the labor force; part three looks at the
+association of mother’s education with health-related outcomes of children; and part four
+looks at the association between educational attainment of girls and women, and their
+perceptions of well-being.
+
+                                COUNTRY CONTEXT
+Afghanistan’s education indicators are among the worst in the world and girls and rural
+communities are particularly disadvantaged (Government of Afghanistan and International
+Agencies, 2004; World Bank, 2012; and World Bank, 2013). Even in South Asia,
+Afghanistan lags behind in education by a substantial margin as Table 1 indicates. And even
+though a significant leap in enrollment took place immediately after the collapse of Taliban
+rule in 2002 (Miwa, 2005), these positive developments have not been sustained (Aturupane,
+Gunatilaka, Shojo and Ebenezer, 2013).
+
+Historically politicization of education policy and ideological battles between successive
+governments and political groups were partly responsible for marked inequalities in
+educational attainment in Afghanistan up to about 2002 (World Bank, 2005). Years of
+conflict also destroyed educational infrastructure and constrained access while the issue of
+girls’ education has been a flashpoint for ideological controversy and even violence.
+However, the Government of Afghanistan recognizes that girls need to be educated if
+Afghanistan is to transform and develop.
+
+
+
+
+                                              2
+                                               Table 1: Key Education indicators for South Asia
+
+       Indicators            Afghanistan      Bangladesh    Bhutan               India         Maldives           Nepal        Pakistan       Sri Lanka
+
+Primary school net
+enrolment ratio, 2003-       74          46       93        87         90       97        94   97          95   94.5 (Total)   72        60   95          96
+2010 (%M,F)
+Females as % of males,
+primary school 2007-              63             104             101                 81             95          1.02 (GPI)          84             100
+2010 (GER)
+Primary completion rate
+as a % of relevant age ,          n.a.            65             87                  95             120             n.a.            63             95
+2009
+Secondary school net
+enrolment ratio, 2007-       38          15    40(Total)   46          49            n.a.           n.a         46.5 (Total)   36        29        n.a.
+2010 (%M,F)
+Females as % of males,
+secondary school, 2007-           49             112             99                  88             n.a.         .99 (GPI)          79             n.a.
+2010 (GER)
+Youth literacy rate (15-24
+                                  n.a.            79             74                  81             99              81              69             98
+years), 2005-2008 (%)
+Source: (UNICEF, 2012).
+
+
+
+
+                                                                            3
+       ANALYSIS OF FACTORS ASSOCIATED WITH HOUSEHOLD
+               ECONOMIC WELFARE AND POVERTY
+The majority of Afghans are reported to view poverty as the main reason behind the ongoing
+conflict (Oxfam, 2009). The most recent estimates of poverty in Afghanistan support this view.
+While 36 per cent of Afghans are poor and only able to meet 78 per cent of the estimated cost of
+basic consumption needs, at least half the population is consuming at a level less than 120 per
+cent of the poverty line (World Bank, 2010). Thus, vulnerability is very high and one small
+negative shock can plunge many individuals into poverty. In this section we look at the extent to
+which the educational attainment of the household head and other factors are associated with
+household economic welfare and the probability of the household being poor.
+
+This analysis of household economic welfare defines economic welfare fairly narrowly as
+denoted by the level of household per capita consumption. We look at economic welfare rather
+than labor earnings, which is the usual approach to estimating returns associated with educational
+attainment. This is because the wage data available in the NRVA 2007/08 is not uniform across
+industries and occupations whereas the data on household consumption is comprehensive.
+
+The welfare function we estimate is based on the relationships between consumption and
+households’ resource endowments that have emerged from the theoretical and empirical
+literature as follows:
+
+       W  �?�  �?�X  �?�                                                     (1)
+
+In this equation, W denotes economic welfare as represented by the log of real per capita
+household consumption and X is a vector of exogenous endowments that determine household
+expenditure, and �?� is a stochastic error term. The exogenous endowments are grouped into five
+categories: The demographic characteristics of the household head; his or her level of
+educational attainment; characteristics of the household; community and infrastructure variables,
+and regional variables.
+
+The analysis of the probability of being poor fits the following model,
+
+       Pr( P  1| X )  F (�?�  �?� X )                                       (2)
+
+where the binary dependent outcome P takes the value one if the household is poor, and zero if it
+is not. F ( z )  e /(1  e ) is the cumulative logistic distribution and the parameters �?� are
+                   Z       Z
+
+
+estimated by maximum likelihood. X is the same vector of five categories of exogenous
+endowments used in the estimation of household economic welfare.
+
+Neither model addresses the issue of causality to distinguish whether household per capita
+consumption or a household being in poverty is a cause or a consequence of various resource
+endowments available to the household. Instead, it only seeks to identify the variables associated
+with household economic welfare and the probability of being poor.
+
+
+                                                4
+The dependent variable in the analysis of household economic welfare is per capita household
+consumption expenditure which has been adjusted for spatial and temporal differences. This is
+exactly the same data used for the World Bank’s (2010) Poverty Status in Afghanistan, and
+details about how the data was adjusted can be found in that report. Data identifying a household
+as being poor is also derived from the same study (World Bank, 2010), which used the Cost of
+Basic Needs (CBN) method (Ravallion, 1998) to estimate the poverty threshold. Thus the
+poverty line used in this analysis represents the level of per capita consumption at which the
+members of a household can be expected to meet their basic needs (food and non-food).
+
+We turn next to the explanatory variables included in the five categories of endogenous
+endowments. Among the characteristics of the household head included such as age, gender and
+marital status are two variables denoting two levels of disability, mild and severe. Six levels of
+educational attainment are included, ranging from primary education to university, with no
+schooling being the reference category. Among the household variables are dependency ratio of
+the household and four sources of the largest share of household income: market farming, farm
+wage, trade and transport and transfers, with non-farm wage being the reference category. These
+factors were included as the World Bank (2010) found income generating activities to be closely
+linked to per capita consumption expenditure and poverty in Afghanistan.
+
+Terrain characteristics were also included as explanatory variables as they were found to be
+highly correlated with poverty in Afghanistan (World Bank, 2010), particularly in the
+estimations based on the rural sub-sample. We also controlled for accessibility and connectivity
+by including variables on the distance to the nearest road, and a dummy variable to indicate
+whether the road was passable all year. Since the World Bank’s (2010) study suggested that the
+level of economic development of the community as denoted by the proportion of bad jobs
+(casual laborer, self-employment and family work) and the share of underemployed (working
+less than 35 hours a week) among the employed were important correlates of poverty, we
+included these variables in the models to see their impact on per capita household consumption
+and the probability of being poor. Finally, we included province dummies to capture the effect of
+regional fixed effects not captured by the other spatial variables.
+
+Women’s Labor Force Participation
+
+The female labor force participation rate in Afghanistan in 2007/08 was considerably higher than
+in many of the country’s South Asian neighbors. In Afghanistan, 47 per cent of women between
+the ages of 16 and 60 participated in the labor market in 2007/08 (based on NRVA 2007/08 data)
+whereas the equivalent rate for Sri Lanka was 37 per cent, India 32 per cent, and Pakistan 21 per
+cent. Participation rates in Bangladesh and Nepal tended to be higher at around 57 and 80 per
+cent (ILO data from KLIMnet). In rural Afghanistan, 54 per cent of working age women
+participates in the labor force whereas in urban areas this figure drops below the regional average
+to 31 per cent.
+
+In this section we look at the factors associated with the probability of female labor force
+participation in Afghanistan, in particular, the impact of educational attainment on women’s
+labor force participation decisions. In addition to the explanatory variables included in the
+previous analyses on the factors associated with economic welfare, we controlled for cultural
+
+                                                5
+factors by introducing two dummy variables denoting whether the individual was usually
+accompanied when she left the family compound, and whether she usually wears a burka outside
+the home.
+
+Education and Child Health Outcomes
+
+Afghanistan has some of the lowest health indicators in the world and in the region. It has the
+highest maternal mortality rate (1400 in 2008), second lowest life expectancy (48 years in 2010),
+and the 11th highest under-five mortality rate (149 deaths) in the world (UNICEF, 2012). In the
+region, the country had the highest incidence of stunting at 59 per cent, which is higher than the
+South Asian average of 47 with Nepal and India in close pursuit at 49 and 48 per cent. And it
+also fared the worst in child immunization indicators. Only 68 per cent of children had been
+immunized against tuberculosis, and 66 per cent against polio, whereas in South Asia, the
+averages for 2010 were 88 and 75 per cent, with India faring the next worse at 87 per cent and 70
+per cent, respectively (UNICEF, 2012).
+
+The root causes of Afghanistan’s alarming health indicators appear to be poverty, conflict, and
+slow economic and social progress (World Bank, 2005). Low access of girls to education must
+also play a role, as participation in education is known to delay marriage until the age at which
+the female body is sufficiently developed for child-bearing. In this part of the analysis we looked
+at the extent to which the probability of a child being given colostrum and being immunized
+(both indicators of child health) is associated with her mother’s education level. Accordingly, our
+analysis was based on modeling four equations related to four child health outcomes: the
+probability of a child being given colostrum; being immunized for tuberculosis by being given
+the BCG vaccine; for diphtheria whooping cough and tetanus with the DPT vaccine, and for
+polio with the polio vaccine. We included several other variables in addition to many of the
+variables included in the analyses in preceding sections, these included variables denoting birth
+order and mother’s age, to investigate whether a male child is more likely to be given colostrum
+and whether having an older and more experienced mother is likely to be important. We have
+also looked at the impact of decision-making within the household on child health outcomes by
+examining whether, the principal female member of the household having decision-making
+control over what needs to be spent on children’s health, is associated with better child health
+outcomes.
+
+To understand supply-side factors, we included those variables which represent the availability
+of health facilities in the community, including the availability of health personnel of both sexes.
+The response options to the questions of the time taken to walk to the nearest health facility were
+taken to represent the distance in terms of travel time by foot to four types of health facilities:
+health post, public clinic, government hospital, and pharmacy, and since the lowest response rate
+for the health facilities variables was 70 per cent, we were able to include these critical variables
+without compromising too much on sample size.
+
+Education and the Subjective Well-Being of Girls and Women
+
+While the notion of utility or units of happiness is central to welfare economics, it is only
+recently that economists have accepted people’s own perceptions of their happiness as a good
+
+                                                 6
+measure on which to base quantitative research. Following this shift in economists’ own
+perceptions, the empirical literature on subjective well-being has expanded rapidly. Fortunately,
+the NRVA data of 2007/08 allows us to explore the subjective well-being of girls because the
+survey schedule administered to all girls and women 10 years and older included a question on
+perceived happiness which was amenable to analysis. The question was phrased as follows: ‘If
+you were asked to rate how content you are with your life, how would you rate it?’ There were
+five ranked answers: ‘very unhappy’; ‘unhappy’; ‘neither unhappy nor happy’;‘happy’; and,
+‘very happy’. Converting these answers into happiness scores (1,2,3,4 and 5), we estimated
+happiness functions using ordinary least squares with the happiness score as the dependent
+variable, and individual, household, community and regional variables which can plausibly be
+hypothesized to influence happiness as the explanatory variables. Unfortunately, the survey did
+not administer the same question to males, so we are only able to look at the association between
+education and the subjective well-being of females. We turn next to the results of the estimation
+of happiness functions for Afghan women older than 18 years of age. In these models, the
+association of education with happiness levels were explored in greater detail, with dummy
+variables included for the level of educational attainment, the reference category being no
+schooling.
+
+                                 EMPIRICAL RESULTS
+
+The results of Part 1 of our analysis are laid out in Tables 2 and 3 below. Table 2 lays out the
+results of the OLS estimation of factors associated with log of per capita household consumption.
+Separate equations were estimated for the urban and rural sub-samples. Figures 1 and 2 present
+our findings on the impact of various levels of education on household consumption for urban
+and rural populations. The model estimating factors associated with log of per capita household
+consumption in urban households fits well, explaining 45 per cent of the variation of the
+dependent variable. The equation relating to the much larger rural sub-sample fits less well,
+explaining only 15 per cent of the variation in household consumption.
+
+
+
+
+                                               7
+                  Figure 1: Impact of Education on Household Consumption (Urban)
+
+
+
+
+             90                                                                          82
+
+
+             80
+
+
+             70
+                                                                            59
+             60
+
+
+             50
+Percentage
+
+
+
+
+                                                                38
+
+             40
+                                                 28
+
+             30
+
+
+             20                   11
+                        8
+             10
+
+
+             0
+                  Primary    Middle      High School       Teachers   University     Post
+                             School                         College                graduate
+
+
+
+
+Source: Econometric analysis by Bank Staff Team based on Table 2.
+
+In contrast, the proportion of bad jobs in the community, and the proportion of under-employed
+persons in the community have as significant, almost as large, negative association with
+household consumption as the higher levels of education. Again the impacts appear to be larger
+in urban areas. The limits that the environment imposes on per capita consumption are also
+evident from the large, significant coefficients on the regional dummies. Other than for the south
+west, household per capita consumption in all other provinces is significantly lower than
+consumption in the central region. The differentials, though, appear more marked for urban areas
+than for rural areas. For example, while per capita consumption is 40 per cent less in the urban
+south than in urban areas in central province, in rural areas, the differential between the two
+provinces is only 8 per cent.
+
+
+
+
+                                                       8
+Table 2: Education and other factors associated with per capita household consumption in
+                 urban and rural Afghanistan 2007/08: OLS Estimation
+
+                                                                                     Means or                (1)            (2)
+                                                                                    proportions
+                                                                                  Urban      Rural         Urban           Rural
+Demographic characteristics of household head
+Age                                                                            44.91          43.12       -0.0188***      -0.0120***
+Age squared                                                                    2226.07        2058.35     0.0002***       0.0001***
+Male (sex)                                                                     0.97           0.98        0.0990          -0.0383
+Divorced                                                                       0.00           0.00        -0.0624         0.4449***
+Widowed                                                                        0.04           0.03        0.1548**        0.0470
+Educational attainment of household head
+Primary                                                                        0.12           0.10        0.0784***       0.0656***
+Middle school                                                                  0.07           0.05        0.1006***       0.0396**
+High school                                                                    0.15           0.05        0.2475***       0.1250***
+Teacher’s college                                                              0.02           0.01        0.3247***       0.1851***
+University                                                                     0.06           0.01        0.4653***       0.3066***
+Postgraduate                                                                   0.01           0.00        0.5961***       0.1672
+Household variables
+Dependency ratio                                                               0.73           0.66        -0.4385***      -0.4003***
+Farming for own consumption most important source of household                 0.04           0.26        0.0017          0.0690***
+income
+Market farming is most important source of income                              0.14           0.18        -0.2044***      0.1126***
+Farm wage most important source of income                                      0.02           0.07        -0.0831         0.0710***
+Trade and transport most important source of income                            0.29           0.12        0.1629***       0.1048***
+Transfers most important source of income                                      0.05           0.07        0.0833**        -0.0165
+Community and infrastructure variables
+Valley                                                                                        0.12                        -0.0609***
+Hills                                                                                         0.01                        -0.0658*
+Distance in km to nearest road                                                 1.10           4.16        0.0025*         0.0001
+Road is passable all year                                                      0.87           0.64        0.0132          0.0389***
+Proportion of ‘bad’ jobs in community                                          0.76           0.93        -0.4669***      -0.3107***
+Proportion of under-employed in community                                      0.16           0.34        -0.5165***      -0.2307***
+Regional variables
+South                                                                          0.04           0.12        -0.4036***      -0.0785***
+East                                                                           0.06           0.09        -0.4699***      -0.1495***
+Northeast                                                                      0.10           0.17        -0.1331***      -0.1280***
+North                                                                          0.12           0.16        -0.3844***      -0.1164***
+West                                                                           0.13           0.12        -0.1279***      -0.0770***
+Southwest                                                                      0.09           0.11        0.0165          0.2698***
+West central                                                                   0.01           0.09        -0.5957***      -0.2684***
+Constant                                                                                                  8.6561***       8.0930***
+R-squared                                                                                                 0.448           0.154
+Number of observations                                                                                    5036            13368
+1. Dependent variable is log of per capita household consumption, adjusted for temporal and regional differences. Urban: mean 7.592,
+standard deviation .0.010. Rural: mean 7.208, standard deviation 0.004
+2. The omitted categories in the dummy variable analyses are: female sex; single; no schooling; non-farm wage most important source of
+household income; plain; Central.
+3 ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+4. Estimated using NRVA 2007/08 data, household weights used.
+
+                                                                  9
+                    Figure 2: Impact of Education on Household Consumption (Rural)
+
+
+
+               40                                                              36
+
+
+               35
+
+
+               30
+
+
+               25                                                   20
+  Percentage
+
+
+
+
+                                                                                            18
+               20
+
+                                                   13
+               15
+
+
+                          7
+               10
+                                     4
+
+                5
+
+
+                0
+                     Primary     Middle      High School     Teachers    University   Post graduate
+                                 School                       College
+
+
+Source: Econometric analysis by Bank Staff Team based on Table 2.
+
+Empirical Findings: Part One
+
+The education variables emerge as the most important in explaining the variation in household
+consumption. Only the variables related to the level of economic development in the community
+come close. There are several important points to note about the education variables. First, they
+are all highly significant. Second, the impact of educational attainment on per capita
+consumption increases monotonically with the level of education with secondary education in
+rural areas being the only exception. Third, returns to education in urban areas are consistently
+higher than in rural areas. So, for example, if an urban household head is educated to the primary
+level, then household per capita consumption will be 7 per cent more than if he or she did not
+have any schooling, all other things being equal. In rural areas, the return would be marginally
+less. From that level of education onwards, the differential in returns generally increases. Thus, a
+household head with a university degree in urban areas is associated with a level of household
+
+
+                                                     10
+consumption that is almost 50 per cent more than one with no schooling, whereas in rural areas,
+the returns are 30 per cent more.
+
+Relatedly, the household’s main source of income being non-farm wages makes for lower per
+capita consumption in rural areas than income from other sources, whereas the converse is true
+of urban areas. Main income from trade and transport, in particular, appear to be associated with
+higher per capita household consumption than in rural areas. The dependency ratio has a
+predictably large negative impact on household per capita consumption, with little difference in
+impact between urban and rural areas. But the size of the coefficient is as large as that of the
+proportion of bad-jobs in the community in urban areas, but in rural areas, a higher dependency
+ratio is more strongly associated with lower levels of consumption than is the proportion of bad
+jobs in the community.
+
+By and large, other than for age, the demographic characteristics of the household head appear
+not to be very important: household per capita expenditure decreases with the age of the
+household head, and this is probably because Afghanistan’s labor market is skewed heavily
+towards younger people, and the level of economic activity is such that physical strength rather
+than experience is better rewarded.
+
+Empirical Findings: Part Two
+
+We turn next to the results of the analysis of the factors associated with the probability of being
+poor set out in Table 3. The urban model passes the goodness of fit test, but the rural model does
+not, suggesting that the explanatory variables in the equation for the rural sample fail to
+adequately explain the factors associated with poverty in rural areas. Nevertheless, the education
+variables in both equations perform well, although their impact is not as large as in the model
+explaining variations household consumption. As the education level of the head of the
+household increases, the likelihood that the household will be poor decreases monotonically for
+both the urban and rural samples, but here again, the impact appears greater in urban areas than
+in rural areas.
+
+The other variables impact on reducing or increasing the chances of being poor in much the same
+way they increase of decrease household per capita consumption. To be noted, in particular, is
+the impact of economic environment as represented by the proportion of bad jobs and under-
+employed in the community, and the regional dummies. A higher dependency ratio is
+significantly associated with poverty, and the older the household head, the more likely the
+household is poor.
+
+
+
+
+                                                11
+     Table 3: Education and Other Factors Associated With the Probability of Being Poor in
+        Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic Estimation
+
+                                                                            Means or proportions          (1)              (2)
+                                                                             Urban       Rural           Urban            Rural
+  Demographic characteristics of household head
+  Age                                                                         44.91          43.12       0.0213***       0.0117***
+  Age squared                                                                2226.07        2058.35      -0.0002***      -0.0001***
+  Male (sex)                                                                   0.97           0.98         -0.1138          0.0085
+  Married                                                                      0.92           0.93         -0.0201         -0.0310
+  Divorced                                                                     0.00           0.00          0.1186        -0.1799**
+  Widowed                                                                      0.04           0.03        -0.1092**        -0.0430
+  Educational attainment of household head
+  Primary                                                                      0.12          0.10         -0.0401*       -0.0565***
+  Middle school                                                                0.07          0.05          -0.0363       -0.0664***
+  High school                                                                  0.15          0.05        -0.1698***      -0.0958***
+  Teacher’s college                                                            0.02          0.01        -0.1661***       -0.1063**
+  University                                                                   0.06          0.01        -0.2556***      -0.1767***
+  Postgraduate                                                                 0.01          0.00        -0.2433***        -0.0624
+  Household variables
+  Dependency ratio                                                             0.73          0.66         0.2650***       0.3303***
+  Farming for own consumption most important source of household               0.04          0.26        -0.0816***      -0.0666***
+  income
+  Market farming is most important source of income                            0.14          0.18          0.0198        -0.1184***
+  Farm wage most important source of income                                    0.02          0.07          -0.0229        -0.0411**
+  Trade and transport most important source of income                          0.29          0.12        -0.1617***      -0.0734***
+  Community and infrastructure variables
+  Valley                                                                                     0.12                        0.0493***
+  Distance in km to nearest road                                               1.10          4.16        -0.0033**         -0.0001
+  Road is passable all year                                                    0.87          0.64          0.0256        -0.0320***
+  Proportion of ‘bad’ jobs in community                                        0.76          0.93        0.2636***       0.2510***
+  Proportion of under-employed in community                                    0.16          0.34        0.2744***       0.1853***
+  Regional variables
+  East                                                                         0.06          0.09         0.1771***       0.0360**
+  Northeast                                                                    0.10          0.17        -0.0806***         -0.011
+  North                                                                        0.12          0.16         0.2150***         0.0037
+  West                                                                         0.13          0.12        -0.0784***      -0.0475***
+  Southwest                                                                    0.09          0.11        -0.0647***      -0.2041***
+  West central                                                                 0.01          0.09         0.2102***       0.1111***
+  F-adjusted mean residual test (p-value)                                                                    0.293           0.000
+  No of observations                                                                                        5036            13368
+1. Dependent variable is the probability of being poor. Urban: mean 0.32, standard deviation 0.007. Rural: mean 0.34, standard deviation
+0.004.
+2. The omitted categories in the dummy variable analyses are: female sex; single; no schooling; non-farm wage most important source of
+household income; plain; Central.
+3. Proportion of ‘bad’ jobs in the community is the proportion of casual labourers, self-employed and family workers among the employed
+in the community. Proportion of underemployed in the community is the share of employed who work less than 35 hours a week.
+4. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and
+Lemeshow’s user-written Stata program svylogitgof.ado was used to generate the test results. See Archer and Lemeshow (2006),
+‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+5. ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+6. Estimated using NRVA 2007/08 data, household weights used.
+
+                                                                   12
+Part 2 of our analysis focused the impact of educational attainment on women’s labor force
+participation decision. To do this we introduced two dummy variables in additional those in our
+base model, denoting whether a women is usually accompanied when she left the family
+compound, and whether she wears a burka outside her home. The results of the logistic
+regression for the rural and urban sub-samples are set out in Table 4. Admittedly, the models do
+not explain variations in the dependent variable very well as neither passes the goodness-of-fit
+test. Nevertheless, while the equations may not explain the factors associated with the probability
+of women’s labor force participation satisfactorily, we can still see the extent to which education
+and some other variables of interest are associated with the probability of participation.
+
+The estimates in the table show that educational attainment is strongly, significantly and
+monotonically associated with the probability of labor force participation only in urban areas and
+that, too, for education levels including and beyond high school. In fact, in urban areas, they
+appear to have the strongest association with the dependent variable from all the factors included
+in the model other than for the dependency ratio which dominates. In contrast, the results
+associated with the education variables are by and large not significant in rural areas.
+
+The higher the dependency ratio and the higher per capita household consumption, the less likely
+the woman participates, but having children less than 10 years of age appears to increase the
+likelihood that she goes to work. Thus while greater care responsibilities keep women at home,
+higher per capita household consumption levels may mean that women can afford to make a
+choice. But having small children may require more income, while the presence of other adults
+in the household may enable women to leave small children in their care and go out to work.
+Older women are more likely to participate in the labor market, but marriage reduces the
+likelihood of participation. Likewise, coming from a traditional cultural background appears to
+reduce the likelihood of women going out to work. Thus, having to be accompanied when
+leaving the compound, and having to wear a burka when doing so appear to constrain women
+from engaging in market work.
+
+
+
+
+                                                13
+ Table 4: Education and Other Factors associated with the Probability of Women’s Labor
+ Force Participation in Urban and Rural Afghanistan 2007/08: Marginal Effect of Logistic
+                                      Estimation
+
+                                                                     Mean or            (1)          (2)
+                                                                    proportion
+                                                                 Urban     Rural      Urban        Rural
+Demographic characteristics
+Age                                                                34.65     34.44    0.0413***     0.0842***
+Age squared                                                      1337.53   1313.16   -0.0005***    -0.0011***
+Married                                                             0.79      0.86   -0.1477***    -0.1623***
+Divorced                                                            0.00      0.00       -0.0240       -0.0779
+Widowed                                                             0.07      0.07       -0.0246   -0.2753***
+Severely disabled                                                   0.01      0.02   -0.1551***    -0.2896***
+Educational attainment
+Primary                                                             0.08      0.02       0.0243       -0.0122
+Middle school                                                       0.05      0.01      -0.0189        0.0501
+High school                                                         0.08      0.01   0.2021***         0.0673
+Teacher’s college                                                   0.02      0.00   0.7477***        0.2448*
+University                                                          0.01      0.00   0.5492***
+Postgraduate                                                        0.00      0.00   0.5815***
+Cultural variables
+Usually accompanied outside the compound                            0.78      0.81    -0.0386**    -0.0675***
+Usually wears burka when outside the compound                       0.62      0.63   -0.0683***    -0.0377***
+Household characteristics
+Log of per capita household consumption                             7.60      7.19   -0.1400***    -0.1055***
+Dependency ratio                                                    0.73      0.66   -1.4115***    -2.5736***
+At least one child less than 10 years of age                        0.63      0.71    0.1443***     0.3560***
+Farming for own consumption most important source of household      0.04      0.27     0.0805**     0.0667***
+income
+Market farming is most important source of income                   0.14      0.16      0.0462*    0.0899***
+Farm wage most important source of income                           0.02      0.07       0.0655       -0.0102
+Trade and transport most important source of income                 0.30      0.12     -0.0287*    0.0425***
+Transfers most important source of income                           0.05      0.08   0.1458***     0.1088***
+Community and infrastructure variables
+Valley and hills                                                              0.36                 -0.0653***
+Hills                                                                         0.01                 -0.1510***
+Distance in km to nearest road                                      0.89      4.34       0.0002     -0.0004**
+Road is passable all year                                           0.88      0.64      0.0298*        -0.0121
+Proportion of ‘bad’ jobs in community                               0.75      0.93   0.1233***          0.0792
+Proportion of under-employed in community                           0.16      0.35   0.3506***      0.2828***
+Regional variables
+South                                                               0.04      0.13      -0.0107     0.0645***
+East                                                                0.07      0.11    0.0663**      0.0705***
+Northeast                                                           0.10      0.18   0.1803***      0.1111***
+North                                                               0.12      0.15   0.0929***          -0.024
+West                                                                0.12      0.12     -0.0337*    -0.0947***
+Southwest                                                           0.07      0.08        -0.025    -0.0508**
+West central                                                        0.01      0.09   0.5826***      0.3262***
+
+
+                                                          14
+                                                                                 Mean or                  (1)               (2)
+                                                                                proportion
+                                                                             Urban     Rural           Urban             Rural
+ F-adjusted mean residual test (p-value)                                                            0.000            0.000
+ Number of observations                                                                             7097             17858
+1. Dependent variable is the probability of labor force participation. Urban: mean 0.29, standard deviation 0.006. Rural: mean 0.55,
+standard deviation 0.004
+2. The omitted categories in the dummy variable analyses are: single; no schooling; non-farm wage most important source of household
+income; plain; Central.
+3. Proportion of ‘bad’ jobs in the community is the proportion of casual laborers, self-employed and family workers among the employed
+in the community. Proportion of underemployed in the community is the share of employed who work less than 35 hours a week.
+4. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and
+Lemeshow’s user-written Stata program svylogitgof.ado was used to generate the test results. See Archer and Lemeshow (2006),
+‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+5 ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+6. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+ Women in households that are dependent on agricultural income and transfers, particularly in the
+ rural sector, are more likely to work. But living in remote hilly areas and further away from
+ roads appear to work against women engaging in the labor market. Low levels of economic
+ development in the community as denoted by the proportion of bad jobs and share of
+ underemployed also appear to compel women to go out to work, and regional variables are also
+ significant. But only in the west and southwest are women more likely to go to work than women
+ in the central regions.
+
+ Empirical Findings: Part Three
+
+ The results of the part 3 of our analysis regarding the impact of education non child health
+ related outcomes are laid out in Table A.1 in the appendix. Although only the model on the
+ probability of being given colostrum passes the goodness of fit test, the results suggest strong
+ associations between several of the explanatory variables included in the models and child health
+ outcomes of interest.
+
+ First looking at demand-side factors, it is apparent that the probability of positive outcomes
+ increases with the mother’s years of schooling, although the marginal effects are significant only
+ in the immunization for tuberculosis and diphtheria, whooping cough and tetanus. Older mothers
+ are less likely to immunize their children and if mothers have to be accompanied outside the
+ family compound, then their children are also less likely to be immunized. On the other hand,
+ wearing a burka is associated with a greater probability of immunization. However, the largest
+ positive association between demand-side factors and child health outcomes is for the decision-
+ making variable and the per capita household consumption variable. Per capita household
+ expenditure is positively correlated with child health outcomes, significantly in the case of BCG
+ and DPT vaccination, and the size of the marginal effects are as large as the effects on the
+ variable denoting household decision-making.
+
+ We turn next to the health facilities variables. By and large, the greater the distance the health
+ facility is from the community, the less likely that the infant is given colostrum and the child is
+ immunized, but the marginal effects are significant only in the case of health post and public
+ clinic. The availability of female healthcare personnel at the facilities is associated with a greater
+ likelihood of immunization. The presence of a female health worker at the health post and the
+
+                                                                  15
+midwife at the public clinic seem particularly important. While several of the terrain and
+infrastructure access variables and almost all the regional variables appear to be significantly
+associated with child immunization outcomes, there is no distinct pattern as the importance of
+these variables seems to vary with the different outcomes. This is hard to explain.
+
+Empirical Findings: Part Four
+
+The results of the final part of our analysis are laid out in Table 5, which shows the results of the
+estimation of happiness functions for the sub-samples of girls between 10 and 18 years of age in
+urban and rural areas. Table 6 sets out the equivalent results for the estimation of factors
+associated with the subjective well-being of women 19 years and older. The first point to note in
+the tables is that the models do not have much explanatory power. For example, the explanatory
+variables in the urban model explaining girls’ happiness account for only 19 per cent of the
+variation in reported happiness levels and this is the best fit of all four equations. Nevertheless,
+many of the associations between happiness and the explanatory variables included in the models
+are informative, significant and worthy of comment.
+
+Consider the results relating to girls between 10-18 years of age, enrollment in school is strongly
+and significantly associated with greater happiness. In urban areas, going to school increases
+girls’ happiness score by 18 per cent, and in rural areas, it increases the score by 13 per cent, all
+else being equal. In contrast, being severely disabled, having been employed the previous week,
+and having to do household chores, reduces happiness. Nevertheless, being accompanied when
+leaving the compound makes girls happy, but having to wear a burka does not.
+
+All the coefficients on the educational attainment variables bar one are positive, large and
+significant, and in urban areas, they increase monotonically with the level of education. So
+having primary education increases the happiness score by 16 per cent in urban areas compared
+with having no schooling at all. But continuing in education up to university increases the
+happiness score by 21 per cent. In rural areas, the returns to education in terms of happiness
+increase far more steeply. Those with primary education are 9 per cent happier than those with
+no education, but university education increases the happiness score by nearly 50 per cent.
+
+
+
+
+                                                 16
+ Table 5: Education and Other Factors Associated With Girls’ Happiness, Rural and Urban
+                          Afghanistan 2007/08: OLS Estimation
+
+                                                                             Means/proportions              (1)               (2)
+                                                                             Urban     Rural               Urban             Rural
+ Child’s characteristics
+ Age                                                                         12.52       12.37        0.0228              -0.1027
+ Age squared                                                                 159.68      155.92       -0.0014             0.0045
+ Child is severely disabled                                                  0.01        0.01         -0.0674             -0.4358***
+ Child engaged in income-earning activity last week                          0.10        0.19         0.0082              -0.0593**
+ Hours spent on household chores during previous week                        17.11       16.15        -0.0040***          -0.0081***
+ Child usually accompanied outside the compound                              0.66        0.69         0.1003***           0.0690***
+ Child usually wears burka when outside the compound                         0.15        0.24         -0.1234***          -0.0895***
+ Child is enrolled in school                                                 0.65        0.39         0.1826***           0.1293***
+ Household, parents, culture
+ Household’s per capita expenditure                                          7.50        7.13         0.1818***           0.1087***
+ Experienced violence or insecurity last year                                0.04        0.11         0.0387              -0.1228***
+ Mother’s years of education                                                 1.29        0.17         -0.0028             0.0154*
+ Father’s years of education                                                 3.31        1.84         0.0072***           0.0041
+ Mother has sole decision-making power over girls’ education                 0.05        0.04         -0.5394***          -0.1667***
+ Father has sole decision-making power over girls’ education                 0.48        0.51         -0.0765**           -0.0097
+ Household head/father decides about girls’ education in consultation        0.01        0.01         -0.1353             -0.1305*
+ with person concerned
+ Household head/father and spouse decide about girls’ education in           0.02        0.02         0.3304***           0.3653***
+ consultation with person concerned
+ Community and infrastructure variables
+ Hills                                                                                   0.01                             -0.1825**
+ Distance in km to nearest road                                              0.66        3.44         -0.0068             -0.0004
+ Road is passable all year                                                   0.89        0.66         -0.1624***          0.0129
+ Regional variables
+ South                                                                       0.03        0.13         0.1645*             -0.2959***
+ East                                                                        0.07        0.11         0.4927***           0.1417***
+ Northeast                                                                   0.11        0.18         0.1640***           -0.1126***
+ North                                                                       0.13        0.14         0.0907*             -0.4429***
+ West                                                                        0.13        0.14         0.4585***           0.0448
+ Southwest                                                                   0.05        0.04         -0.0291             -0.0927
+ West central                                                                0.02        0.08         -0.5403***          -0.3334***
+ Constant                                                                                             2.4888***           3.9388***
+ R-squared                                                                                            0.188               0.113
+ Number of observations                                                                               2404                5940
+1. Dependent variable: Score of happiness based on cardinal values assigned to qualitative assessments as follows: very happy=5,
+happy=4, neither happy nor unhappy=3, unhappy=2 and very unhappy=1. Urban mean 3.94, standard deviation 0.014. Rural mean 3.93,
+standard deviation 0.011.
+2. Sample relates to individuals between 10 and 18 years of age.
+3. The omitted categories in the dummy variable analyses are: consultative decision-making that ranges from including just the spouse of
+the principal male or female member in making the decision, through consultation with the child concerned, to consultation with male
+members of the family or the decision being made by non-family members; plain; Central.
+4. ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+5. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+                                                                   17
+Happiness increases with household consumption, but employment appears to have no effect on
+happiness levels. Violence or insecurity-related shocks significantly reduce happiness in rural
+areas, but experiencing other shocks is negatively and significantly associated with happiness in
+both sectors. In fact, in rural areas, other shocks appear to cause greater unhappiness than
+experience of violence or insecurity related shocks. Rural girls appear to be happy to wear the
+burka as they become older but they continue to prefer participation and consultation in the
+process of making decisions about girls’ education. Women living in valleys and hills seem to be
+happier than those living in plains and greater connectivity is also important for rural women’s
+happiness. However, living near a road which is passable all year reduces urban women’s
+happiness and this may be due to this variable picking up the discomfort associated with living
+near a busy highway. All else being equal, living in urban areas in the southwest and west central
+regions is associated with lower happiness than living in all other provinces, but only rural
+women living in the western and eastern Provinces are significantly happier than women living
+in the rural areas of central province.
+
+Empirical Findings: Part Five
+
+To sum up, our findings indicate that educational attainment of the household head is one of the
+most important predictors of economic welfare as measured by per capita household
+consumption and of the probability of being poor. The economic opportunities afforded by the
+environment in which households find themselves, and internal characteristics such as the
+number of dependents relative to the number of working members, and the age of the head of
+household, are also important.
+
+Our findings on the impact of educational attainment on women’s decisions to participate in the
+labor force in Afghanistan maybe summed by as follows: greater educational attainment is
+significantly associated with a greater likelihood of women participating in the labor force only
+in urban areas. But by and large, it is economic factors such as low household income and living
+in economically backward areas that compel women to go out to work. Only the better off can
+afford to stay at home while those with too many domestic care responsibilities and those bound
+by cultural traditions are compelled to do so.
+
+The findings in regards to the impact of education on child health outcomes ARE reassuring.
+They suggest that the more educated the mother is, the more likely that her child is immunized.
+The household’s level of economic welfare and the decision-making power of its principal
+female member appear to be critical, with the availability of female health personnel and
+distance to health facilities also playing a part.
+
+
+
+
+                                               18
+   Table 6: Education and Other Factors Associated with Women’s Happiness, Rural and
+                       Urban Afghanistan 2007/08: OLS Estimation
+
+                                                                       Means/proportions          (1)          (2)
+                                                                        Urban     Rural       Urban         Rural
+
+Individual’s characteristics
+Age                                                                      36.65     36.21   -0.0259***   -0.0167***
+Age squared                                                            1540.86   1492.07   0.0003***    0.0002***
+Employed                                                                  0.26      0.53      -0.0092      0.0025
+Married                                                                   0.77      0.84      0.0534       0.0054
+Divorced                                                                  0.00      0.00   -0.9526***      0.0267
+Widowed                                                                   0.10      0.09   -0.2199***   -0.3063***
+Severely disabled                                                         0.02      0.02   -0.5046***    -0.1383**
+Educational attainment
+Primary                                                                   0.08      0.02   0.1570***     0.0974**
+Middle school                                                             0.04      0.01   0.1630***    0.3749***
+High school                                                               0.08      0.01   0.1541***    0.2811***
+Teacher’s college                                                         0.02      0.00   0.3189***        0.2337
+University                                                                0.01      0.00    0.2098**    0.4960***
+Postgraduate                                                              0.00      0.00    0.9048**    0.5014***
+Household, empowerment, culture
+Household’s per capita expenditure                                        7.60      7.19   0.3131***    0.1142***
+Experienced violence or insecurity last year                              0.03      0.11      0.0291      -0.0439*
+Experienced other shock last year                                         0.53      0.68     -0.0456*   -0.0982***
+Usually accompanied outside the compound                                  0.77      0.81     0.0532*    0.0535***
+Usually wears burka when outside the compound                             0.61      0.62      -0.0004   0.1114***
+Mother has sole decision-making power over girls’ education               0.05      0.03   -0.3862***   -0.1797***
+Father has sole decision-making power over girls’ education               0.42      0.44      -0.0279   -0.0586***
+Household head/father decides about girls’ education in consultation      0.01      0.01      -0.0871      0.0923
+with person concerned
+Household head/father and spouse decide about girls’ education in         0.02      0.01   0.6817***    0.4590***
+consultation with person concerned
+Community and infrastructure variables
+Valley                                                                              0.12                0.1159***
+Valley and hills                                                                    0.36                0.0936***
+Road is passable all year                                                 0.88      0.64   -0.1131***    0.0363**
+Regional variables
+South                                                                     0.04      0.13   0.1678***    -0.2789***
+East                                                                      0.07      0.11   0.4960***    0.1175***
+Northeast                                                                 0.10      0.18   0.2209***    -0.2525***
+North                                                                     0.12      0.15    0.0788**    -0.4039***
+West                                                                      0.12      0.12   0.4860***    0.0652***
+Southwest                                                                 0.07      0.08     -0.0853*   -0.2519***
+West central                                                              0.01      0.09   -0.5252***   -0.4686***
+Constant                                                                                   1.6683***    3.2322***
+R-squared                                                                                       0.136        0.094
+Number of observations                                                                          7279        18269
+
+                                                              19
+Notes:
+1. Dependent variable: Score of happiness based on cardinal values assigned to qualitative assessments as follows: very happy=5,
+happy=4, neither happy nor unhappy=3, unhappy=2 and very unhappy=1. Urban mean 3.62, standard deviation 0.012. Rural
+mean 3.60, standard deviation 0.007.
+2. Sample relates to individuals more than 18 years of age.
+3. The omitted categories in the dummy variable analyses are: consultative decision-making that ranges from including just the
+spouse of the principal male or female member in making the decision, through consultation with the child concerned, to
+consultation with male members of the family or the decision being made by non-family members;; plain; Central.
+4. ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+5. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+Finally, in regards to the impact of educational attainment on the happiness of girls and women
+our findings confirm what has been shown in other countries: that happiness increases with per
+capita expenditure, confirming that poverty makes for greater unhappiness. We found that being
+enrolled in school increased happiness, and the more educated women were, the happier they
+reported themselves as being. Consultative decision-making in the household about education
+was associated with greater happiness and having better-educated parents also increased
+happiness. Other things being equal, greater household income was associated with greater
+happiness levels, violence and other shocks tended to reduce happiness particularly in rural
+areas, and there appear to be large and significant regional effects on happiness levels not
+accounted for by the other spatial variables.
+
+                                                   CONCLUSION
+This study investigated socio-economic outcomes associated with education in Afghanistan.
+Among the outcomes considered were, household economic welfare and the probability of being
+poor; women’s labor force participation; the likelihood of infants being given colostrum and
+being immunized; and, girls’ and women’s own perceptions of well-being.
+
+The econometric analysis revealed strong and significant relationships between educational
+attainment and all these socio-economic outcomes. For example, the educational attainment of
+the household head appears to be one of the most important predictors of economic welfare as
+measured by per capita household consumption and of the probability of being poor. The
+economic opportunities afforded by the environment in which households find themselves, and
+internal characteristics such as the number of dependents relative to the number of working
+members, and the age of the head of household, are also important.
+
+Greater educational attainment was also found to be significantly associated with a greater
+likelihood of women participating in the labor force in urban areas. Nevertheless, it appears that
+economic factors such as low household income and living in economically backward areas are
+more compelling forces that propel women to go out to work. Only the better off can afford to
+stay at home while those with too many domestic care responsibilities and those bound by
+cultural traditions appear to have little other choice.
+
+Educational attainment of the mother was also found to be a key predictor of whether her child is
+immunized. Here, too, the household’s level of economic welfare and the decision-making
+power of its principal female member appear to be critical, with the availability of female health
+personnel and distance to health facilities also playing a part.
+
+
+                                                              20
+Being enrolled in school increased girls’ happiness, and the more educated women were, the
+happier they reported themselves as being. Consultative decision-making in the household about
+education was also associated with greater happiness and having better-educated parents also
+increased happiness. Other things being equal, greater household income was associated with
+greater happiness levels, violence and other shocks tended to reduce happiness particularly in
+rural areas. There also appear to be strong regional effects on the socio-economic outcomes
+examined in this paper.
+
+The findings of this study provide very strong empirical support for the Government of
+Afghanistan’s declared policy goals to invest in education, particularly of women, to transform
+and develop the country. And since education influences many other variables found to be
+associated with these outcomes, such as the availability of female health workers on child health
+outcomes, enhancing educational attainment will be absolutely essential for the socio-economic
+progress of Afghanistan’s people.
+
+
+
+
+                                               21
+                                    REFERENCES
+
+ARCHER, K. J. & LEMESHOW, S. 2006. "Goodness-Of-Fit Test for a Logistic Regression
+    Model Fitted Using Survey Sample Data". The Stata Journal, 6, 97-105.
+
+ATURUPANE, H. & GUNATILAKA, R. SHOJO. M, and EBENEZER, R. 2013. "Factors
+    Associated with School Enrollment in Afghanistan, 2007/08". World Bank Working Paper
+    Series No. XXX. The World Bank. Washington DC.
+
+BEHRMAN, J. & DEOLALIKAR A., 1998. “Health and nutrition,�? in Hollis Chenery and
+    T.N.Srinivasan eds. Handbook of Development Economics, Volume 1, Amsterdam: North-
+    Holland.
+
+BICEGO, G. T., &J. T. BOERMA. 1993. “Maternal Education and Child Survival:
+      AComparative Study of Survey Data from 17 Countries.�? Social Science andMedicine
+      36(9):1207–27.
+BOYLE, M., Y. RACINE, K. GEORGIADES, D. SNELLING, S. HONG, W. OMARIBA, P.
+      HURLEY,& P. RAO-MELACINI. 2006. “The Influence of Economic Development
+      Level, Household Wealth and Maternal Education on Child Health in the Developing
+      World.�? Social Science & Medicine 63:2242–54.
+CHEUNG, H. Y. & CHAN, A. W. H. 2009. "The Effect of Education on Life Satisfaction
+      Across Countries". The Alberta Journal of Educational Research, 55, 124-136.
+CLARK, A., FRIJTERS, P. & SHIELDS, M. 2008. "Relative Income, Happiness and Unility:
+      An Explanation for the Easterlin Paradox and Other Puzzles". Journal of Economic
+      Literature, 46, 95-114.
+CURRIE, J., & MORETTI, E. 2003. “Mother's education and the intergenerational transmission
+      of human capital: Evidence from college openings.�? Quarterly Journal of Economics
+      118(4): 1495-1532.
+CUTLER D. & MUNEY A. 2006. "Education and Health: Evaluating Theories and Evidence".
+      National Bureau of Economic Research. Working Paper. NBER Working Paper No.
+      12352.
+DESAI, S., AND S. ALVA. 1998. “Maternal Education and Child Health: Is There a Strong
+      Causal Relationship?�? Demography 35(1):71–81.
+DIENER, E. & BISWAS-DIENER, R. 2002. Will money increase subjective well-being? Social
+      Indicators Research, 57, 119-169.
+DIENER, E. & FUJITA, F. 1995. "Resources, Personal Strivings and Subjective Well-Being: A
+      Nomothetic and Idiographic Approach". Journal of Personality and Social Psychology,
+      68, 926-935.
+DUFLO. E., & BREIEROVA, L. 2004. “The impact of education on fertility and child mortality:
+      Do fathers really matter less than mothers?�? National Bureau of Economic Research
+      Working Paper 10513.
+EASTERLIN, R. A. 2001. "Income and Happiness: Towards a Unified Theory". Economic
+      Journal, 111, 465-484.
+FREY, B. & STUTZER, A. 2002. "Can Economists Learn from Happiness Research?" Journal
+      of Economic Literature, 40, 402-435.
+
+
+                                            22
+GLEWWE, P. 1999. "Why Does Mother's Schooling Raise Child Health in Developing
+     Countries? Evidence from Morocco,"Journal of Human Resources, University of
+     Wisconsin Press, vol. 34(1), pages 124-159.
+GOVERNMENT OF AFGHANISTAN & INTERNATIONAL AGENCIES. 2004. "Securing
+     Afghanistan's Future: Accomplishments and the Strategic Path Forward".
+GUIMBERT, S., MIWA, K. & NGUYEN, D. T. 2008. "Back to School in Afghanistan:
+     Determinants of School Enrollment". Journal of Educational Development, 28, 419-434.
+HANUSHEK, E., & L. WOESSMANN. 2008. “The Role of Cognitive Skills in Economic
+      Development.�?Journal of Economic Literature, American Economic Association, vol.
+      46(3), pages 607-68.
+HANUSHEK, E., & WOESSMANN, L. 2010. "Education and Economic Growth". Sourced
+      from:http://hanushek.stanford.edu/sites/default/files/publications/Hanushek%2BWoessm
+      ann%202010%20IntEncEduc%202.pdf.
+HANUSHESK, E., & WELCH, F. 2006. “Handbook of the Economics of Education�?. Volume 1.
+      Elsevier Science and Technology Books.
+HUNTE, P. 2006. "Looking Beyond the School Walls: Household Decision-Making and School
+     Enrollment in Afghanistan. Briefing Paper from the Afghanistan Research and
+     Evaluation Unit. Kabul, Afghanistan.
+MILLER, J., AND S. KORENMAN. 1994. “Poverty and Children’s Nutritional Status in the
+     United States.�? American Journal of Epidemiology 140(3):233–43.
+MIWA, K. 2005. "Investing in Afghanistan's Future: A Strategy Note on the Education System
+     in Afghanistan". The World Bank. Washington DC.
+OXFAM 2009. "The Cost of War: Afghan Experiences of Conflict 1978-2009". Sourced from:
+     http://www.oxfam.org/sites/www.oxfam.org/files/afghanistan-the-cost-of-war.pdf on July
+     10, 2013.
+PATRINOS, H., AND G. PSACHAROPOULOS. 2011. “Education: Past, Present and Future�?.
+    Global Challenges. Policy Research Working Paper Series 5616, The World Bank.
+    Washington DC.
+RASHID, F. 2005. "Education and gender disparity in Afghanistan". Master Thesis in
+    Development Economics, Williams College, Massachusetts.
+RAVALLION, M. 1998. "Poverty Lines in Theory and Practice". The World Bank. Washington
+     DC.
+TESCH-ROMER, C., MOTEL-KLINGEBIEL, A. & TOMASIK, M. J. 2008. "Gender
+     Differences in Subjective Well-Being: Comparing Societies with Respect to Gender
+     Equality". Social Indicators Research, 85, 329-349.
+UNICEF 2012. "State of the World's Children 2012". UNICEF, New York.
+WORLD BANK 2005. "Afghanistan National Reconstruction and Poverty REduction - the Role
+     of Women in Afghanistan's Future". The World Bank. Washington DC.
+WORLD BANK 2010. "Poverty Status in Afghanistan: A Profile based on National Risk and
+     Vulnerability Assessment (NRVA) 2007/08". The World Bank. Washington DC.
+WORLD BANK, 2013. "Higher Education in Afghanistan: An Emerging Mountainscape". The
+     World Bank. Washington DC.
+
+
+
+
+                                            23
+ Table A.1: Mother’s Education and Other Factors associated With the Probability of Infants Being Given Colostrum and of
+                Children Being Immunized, Afghanistan 2007/08: Marginal Effects of Logistic Estimation
+                                                          Means or proportions             (1)             (2)            (3)            (4)
+                                                    Colostrum       BCG, Polio, DPT   Colostrum        BCG            Polio          DPT
+
+Child’s demographic characteristics
+Male                                              0.51             0.51           0.0089          0.0042         -0.0045*       -0.0194
+Birth order                                       1.11             1.45           0.0016          -0.0100        0.0001         -0.0129
+Household’s and mother’s characteristics
+Household’s per capita expenditure                7.13             7.15           0.0172          0.1240***      0.0037         0.0877***
+Mother’s age                                      28.64            29.52          0.0000          -0.0027***     0.0000         -0.0031***
+Mother’s years of education                       0.27             0.23           0.0024          0.0164**       0.0014         0.0222***
+Female head/spouse has sole decision-making power
+over expenditure on medicines for children        0.03             0.03           0.0220          0.0462*        0.0109***      0.0389
+Mother usually accompanied outside the compound   0.88             0.88           -0.0423***      -0.0561***     0.0042         -0.0844***
+Mother usually wears burka when outside the
+compound                                          0.75             0.75           0.0153          0.0808***      -0.0040        0.1209***
+Health facilities in community
+Time taken by foot to health post                 1.92             1.93           -0.0134**       -0.0063        0.0030*        -0.0249***
+Time taken by foot to public clinic               2.69             2.66           0.0116          -0.0325***     -0.0060***     -0.0564***
+Time taken by foot to government hospital         4.10             4.11           -0.0017         0.0028         0.0007         0.0022
+Time taken by foot to pharmacy                    3.50             3.43           0.0025          -0.0090**      0.0016         -0.0024
+Female community worker at health post            0.55             0.52           0.0471***       0.0808***      0.0066**       0.1417***
+Male doctor at public clinic                      0.91             0.92           0.0121          0.0161         -0.0033        -0.0615*
+Female doctor at public clinic                    0.55             0.56           -0.0417***      -0.0041        0.0031         -0.0023
+Female nurse at public clinic                     0.65             0.66           0.0157          -0.0335**      -0.0048        -0.0031
+Midwife at public clinic                          0.73             0.75           -0.0094         0.0376**       0.0126*        0.1049***
+Male doctor at government hospital                0.99             0.98           0.0621          -0.1328***     -0.0033        -0.1725***
+Female doctor at government hospital              0.91             0.92           0.2100***       0.0504         -0.0045        0.1242***
+Female nurse at government hospital               0.93             0.94           0.0568          0.0203         0.0076         0.0785
+Midwife at government hospital                    0.94             0.95           -0.1153***      0.1273***      -0.0068        -0.0632
+
+
+
+                                                                           24
+Other community and infrastructure variables
+Rural                                                           0.92                0.93                -0.0381**           0.0523*            0.0071              0.0412
+Valley                                                          0.07                0.08                -0.0056             0.0245             -0.0298**           0.0192
+Valley and hills                                                0.37                0.34                -0.0156             0.0637***          -0.0153***          0.0655***
+Hills                                                           0.01                0.01                0.0515*             0.1714***          -0.0005             0.1723***
+Distance in km to nearest road                                  4.96                3.74                0.0007              -0.0006**          -0.0001*            -0.0002
+Road is passable all year                                       0.72                0.74                -0.0007             0.0639***          -0.0034             0.0475**
+Regional variables
+South                                                           0.06                0.06                -0.0885             -0.2291***         0.0084*             0.1519***
+East                                                            0.06                0.07                0.0403              0.0108             0.0128***           0.2875***
+Northeast                                                       0.32                0.32                -0.0242             0.0007             0.0153***           0.2885***
+North                                                           0.13                0.12                -0.0304             -0.1948***         0.0102***           0.1034***
+West                                                            0.22                0.21                0.0741***           -0.1876***         0.0177***           0.1598***
+Southwest                                                       0.08                0.09                -0.0840             0.0126             -0.0972***          -0.3798***
+West central                                                    0.07                0.06                -0.2174***          -0.1523**          0.0104**            0.1978***
+F-adjusted mean residual test (p-value)                                                                 0.617               0.000              0.051               0.000
+Number of observations                                                                                  2726                4707               4704                4695
+Notes:
+1. Dependent variables are: the probability of being given colostrum, mean 0.86, standard deviation 0.007; the probability of receiving BCG vaccination, mean 0.62, standard deviation
+0.006; the probability of receiving Polio vaccination; mean 0.76, standard deviation 0.006; the probability of receiving DPT vaccination; mean 0.49, standard deviation 0.007.
+2. Sample includes children 3 years or less for the model of factors associated with the probability of being given colostrum while the immunization equations relate to the sample of children
+5 years or less.
+3. The variables denoting the time taken by foot to various health facilities have been cardinalized from the response options as follows: 1 – no time at all, in community itself; 2 – one hour
+or less; 3 – more than one hour, less than three; 4 – more than 3 hours, less than 6 hours; 5 – more than 6 hours, less than 12 hours; more than 12 hours.
+4. The omitted categories in the dummy variable analyses are: urban; plain; Central.
+5. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and Lemeshow’s user-written Stata program svylogitgof.ado was
+used to generate the test results. See Archer and Lemeshow (2006), ‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+6. ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+7. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+
+                                                                                              25
+

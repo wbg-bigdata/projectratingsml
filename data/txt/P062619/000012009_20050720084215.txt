@@ -1,0 +1,1963 @@
+                                              Document of
+                                           The World Bank
+
+                                       FOR OFFICIAL USE ONLY
+
+
+
+
+                                                                                    Report No: 32449-BR
+
+                             IMPLEMENTATION COMPLETION REPORT
+                                              (CPL-45370)
+
+                                                  ON A
+
+                                LEARNING AND INNOVATION LOAN
+
+                               IN THE AMOUNT OF US$5.05 MILLION
+
+                                                 TO THE
+
+                                FEDERATIVE REPUBLIC OF BRAZIL
+
+                                                 FOR A
+
+                      SOCIAL SECURITY TECHNICAL ASSISTANCE PROJECT
+
+
+
+
+                                             JUNE 30, 2005
+
+
+
+
+BRAZIL COUNTRY MANAGEMENT UNIT, LCC5C
+POVERTY REDUCTION AND ECONOMIC MANAGEMENT UNIT
+LATIN AMERICA AND THE CARIBBEAN REGION
+
+This document has a restricted distribution and may be used by recipients only in the performance of their
+official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+                               CURRENCY EQUIVALENTS
+
+                          (Exchange Rate Effective May 26, 2005)
+
+                                 Currency Unit = Brazilian Real (R$)
+                                        R$2.43 = US$ 1
+                                     US$ 0.40 = 1 R$
+
+                                       FISCAL YEAR
+                                 January 1 -   December 31
+
+                          ABBREVIATIONS AND ACRONYMS
+ANSES    Argentina's National Social Security Administration
+CAS      Country Assistance Strategy
+CNIS     Unified Data Base of Social Information
+DATAPREV The Government's data processing service
+ESW      Economic and Sector Work
+FGTS     Severance Guarantee Payment Fund
+ICR      Implementation Completion Report
+ICT      Information and Communication Technology
+IADB     Inter-American Development Bank
+INSS     National Institute for Social Security
+IT       Information Technology
+LCR      Latin American and the Caribbean Region
+MARE     Ministry of Administration and State Reform
+MPAS     Ministry of Social Security
+NGO      Non-Governmental Organization
+PAD      Project Appraisal Document
+PCU      Project Coordination Unit
+PDTI     Information System Master Plan
+PMA      Attention Improvement Program
+PMR      Project Management Report
+QAG      Quality Assurance Group
+RGPS     Private Sector Workers Pension System (Regime Geral da Previdencial Social)
+RJU      Public Sector Workers Pension System (Regime Juridico Unico)
+SAP      Secretaria de Estado da Admiistracao e do Patrimonio (formerly MARE)
+SPC      Secretariat of Complementary Pension Funds
+SIGECOF  Intergrated Financial Management System
+S/SECAL  Special Sector Adjustment Loan
+SUNSEP   Superintendency of Pension Insurance
+UNDP     United Nations Development Program
+
+                               Vice President:   Pamela Cox
+                            Country Director:    Vinod Thomas
+                             Sector Manager:     Ronald E. Myers
+          Task Team Leader/Task Manager:         Chris Parel
+
+                                           BRAZIL
+               SOCIAL SECURITY TECHNICAL ASSISTANCE PROJECT
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data                                                                    1
+2. Principal Performance Ratings                                                   1
+3. Assessment of Development Objective and Design, and of Quality at Entry         2
+4. Achievement of Objective and Outputs                                            6
+5. Major Factors Affecting Implementation and Outcome                            15
+6. Sustainability                                                                16
+7. Bank and Borrower Performance                                                 16
+8. Lessons Learned                                                               17
+9. Partner Comments                                                              17
+10. Additional Information                                                       19
+Annex 1. Key Performance Indicators/Log Frame Matrix                             20
+Annex 2. Project Costs and Financing                                             21
+Annex 3. Economic Costs and Benefits                                             23
+Annex 4. Bank Inputs                                                             24
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components             25
+Annex 6. Ratings of Bank and Borrower Performance                                26
+Annex 7. List of Supporting Documents                                            27
+Annex 8. Borrower's Evaluation Report                                            28
+
+Project ID: P062619                                                  Project Name: BR INSS REF LIL
+Team Leader: Chris Parel                                             TL Unit: LCSPS
+ICR Type: Core ICR                                                   Report Date: June 28, 2005
+
+
+1. Project Data
+                   Name: BR INSS REF LIL                                          L/C/TF Number: CPL-45370
+   Country/Department: BRAZIL                                                             Region: Latin America and the
+                                                                                                     Caribbean Region
+
+        Sector/subsector: Compulsory pension and unemployment insurance (94%); Law and
+                            justice (5%); Central government administration (1%)
+                  Theme: Law reform (P); Administrative and civil service reform (P); Social
+                            risk mitigation (P)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 01/11/1999                                     Effective: 03/31/2000                05/24/2000
+     Appraisal: 03/25/1999                                         MTR: 10/01/2001                  03/03/2002
+      Approval: 02/07/2000                                      Closing: 12/31/2002                 12/01/2004
+
+
+
+    Borrower/Implementing Agency:          REPUBLIC OF BRAZIL/MINISTRY OF SOCIAL SECURITY (MPAS)
+                      Other Partners:      N/A
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Pamela Cox                                     David de Ferranti
+Country Director:               Vinod Thomas                                   Gobind T. Nankani
+Sector Manager:                 Ronald E. Myers                                Danny Leipziger
+Team Leader at ICR:             Chris Parel                                    Mariluz Cortes
+ICR Primary Author:             Denise von Gersdorff; Kathrin A.
+                                Plangemann; Chris Parel
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        S
+                      Sustainability:      L
+   Institutional Development Impact:       M
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry: S                                S
+                     Project at Risk at Any Time: No
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+The objective of the Project was to provide technical assistance for the design and implementation
+of institutional and legal reforms in order to help put into effect constitutional changes in the
+Brazilian Government's social security system, and for advancing changes in the system's
+provisions regarding private sector workers.
+
+To these ends, the Project plan called specifically for supporting measures to: (a) enable the
+National Institute of Social Security (INSS) to carry out new responsibilities; (b) strengthen the
+pension and insurance legal framework; and (c) strengthen supervision and regulation of the
+complementary pension funds system by the Secretariat of Complementary Funds (SPC).
+
+These objectives were set to help further the Government's pension reform program. The latter
+was part of the comprehensive fiscal reform campaign launched to overcome a crisis in Brazil at
+the end of the 1990s. This was fueled to a considerable extent by a sharp increase in pension
+expenditures and deficits, which contributed to an overall rise in the country's fiscal deficits and
+its substantially increased public debt.
+
+In November 1998, the Congress approved constitutional amendments which provided the basis
+for a first phase of social security reforms. The amendments were mainly aimed at: (a)
+introducing principles of actuarial and fiscal balance in private and public sector workers' pension
+systems; (b) eliminating certain special benefit rules and regimes; and (c) enabling states and
+municipalities to create complementary pension funds. The Bank subsequently approved an
+S/SECAL of $757. 57 million in December 1998 in support of these policy actions, constituting
+its initial support of this phase of the pension reform program.
+
+This loan for the Social Security Technical Assistance Project, along with the S/SECAL, were
+consistent with the June 1998 CAS Progress Report (Document R98-116). It called for quick
+Bank financial support for key reforms in such areas as social security if the Government
+responded to external shocks with suitable corrective measures. Still other Bank measures taken
+for these purposes included a State Pension Reform TA Project (PARSEP) and help in arranging
+a PHRD grant for preparation of a second Social Security S/SECAL.
+
+The subject loan, in the course of seeking additional progress in pension reform, attempted to
+draw on the advantages of LIL features to provide some "learning and innovative" benefits. One
+of these elements was a provision to draw on, and to disseminate, international experience in
+pension reform. This was intended to inform social security stakeholders of the options available
+in such programs in order to have a more informed public (and possibly enlarging the constituency
+for reform). A second LIL aim was to define the parameters of possible solutions to the problems
+of restructuring social security institutions.
+
+The Project's objectives were well formulated and timely in relation to the Government's
+problem. They were closely linked to the requirements for rationalizing the social security
+system's issues. The Project's design provided clear and well-directed approaches to their
+remediation. Its components were well aligned with the desired institutional and technical
+
+
+
+                                                  - 2 -
+
+changes.
+
+3.2 Revised Objective:
+N/A
+
+3.3 Original Components:
+Component 1. Restructuring of the INSS
+
+The 1998 constitutional changes included provisions calling for reforms of the INSS (which
+administers the private sector workers' pension system-RGPS) in line with the Government's
+intentions of reducing that system's generous benefits formula. The authorities were also
+interested in the possible adoption of individual accounts under further pension system reforms.
+
+In addition to these factors, attention was focused on requirements for restructuring the INSS in
+order to try to overcome some of its deficiencies. The Institute was then the composite of several
+merged prior organizations. It suffered also from the problem of a very large scale and costly
+operation. Its revenue collection and benefit control procedures were weak, and its customer
+service facility had a poor public image.
+
+Consequently, the aforementioned S/SECAL set the stage for a series of remedial actions. It
+helped introduce measures to reduce INSS' costs and improve its collections. For this Project, it
+was decided to initiate even broader strengthening measures. These include an assessment of the
+Institute's strengths and weaknesses, based on which a strategic plan would be elaborated. (It
+should be noted though that consideration of the full implementation of the strategic plan was
+explicitly left for possible financing under a larger TA loan). In parallel, it was decided to
+determine what could be done to overcome INSS' lack of both reliable information on
+contributors and beneficiaries, as well as efficient data processing services.
+
+(i)     Diagnostic/Strategic Plan
+
+This sub-component was to support the preparation of the diagnostic work and design of the
+Strategic Plan for institutional restructuring. It would evaluate possible institutional changes,
+define a future profile of the agency and formulate the Plan. Other activities included the
+evaluation and strengthening of the program to improve attention to users, improvement and
+validation of information system plan, audit planning and research. The aim of the Strategic Plan
+work was to design alternatives for the restructuring.
+
+(ii)    Information System Renewal Master Plan - PDTI
+
+This sub-component was to diagnose the prevailing IT situation, design solutions and then
+develop a Master Plan for information system renewal. The renewal aimed: (a) to improve
+collection, monitoring and benefit payment functions; (b) adopt a system of individual pension
+accounts; (c) improve communications between INSS/MPAS and the Government's data
+processing agent; (d) improve client service center links to the information system; and (e)
+introduce an effective management information system.
+
+
+
+
+                                                  - 3 -
+
+(iii)   Implementation of Management of Contributors by Segment (SGS)
+
+This sub-component was to expand the "collection by segments system" (SGS). This was
+established to implement a contributors' management system. It was focused on groups including
+the 10,000 largest employers which account for 70% of all collections. The idea was to build on
+activities completed including the system's design and installation. It envisaged the following
+complementary activities: (a) SGS installation in 195 centers; (b) training of supervisory staff in
+SGS uses; and (c) study and research.
+
+(iv)    Evaluation of CNIS
+
+This sub-component was to evaluate the quality of INSS' Unified Databases of Social Information
+material for determining pension benefits. The INSS had made significant efforts to unify the
+different data bases of social information under the CNIS.
+
+(v)     Public Information Dissemination Strategy
+
+This sub-component was to help design an effective strategy for informing social security
+stakeholders about the choices and implications of system reform.
+Component 2. Pension and Insurance Legal Framework
+
+The Project was also concerned with the need for new parameters of the pension system for
+private workers to conform with the constitutional changes stipulating actuarial and fiscal
+balances. This component therefore called for studies to show trade-offs of different alternatives
+for achieving these balances.
+
+(i)     Regulation of Work-Related Injury Insurance
+
+This sub-component would finance: (a) an evaluation of the proposed Injury Insurance Law, and
+(b) an examination of the regulation of private sector participation in the worker insurance
+system.
+
+(ii)    Regulation of the Private Sector Workers System
+
+This sub-component was to prepare the legal framework for planned reforms of the RGPS,
+including the adoption of individual pension accounts. Activities to be financed would be: (a) the
+elaboration of actuarial models; (b) a study on expanding coverage of social security and (c)
+additional research.
+
+Component 3: Strengthening of Secretariat of Complementary Pension Funds-SPC
+
+The constitutional amendment for reforming the complementary system prescribed activities to
+eliminate or reduce the subsidization of these funds and to tighten their governance. Therefore,
+the SPC had undertaken institutional strengthening measures to enable it to implement these new
+provisions. Their main elements include: (a) the elaboration of laws and regulations regarding the
+
+
+
+                                                - 4 -
+
+constitutional changes, (b) upgrading the Secretariat's regulatory and supervisory activities, and
+(c) consideration of the creation of a new national agency which would regulate all pension funds
+according to a single set of business practice standards.
+
+(i)    Preparation of Complementary Laws and New Models
+
+This sub-component would finance: (a) the preparation of complementary laws; (b) design and
+implementation of a new investment model; (c) preparation of actuarial, financial, registration,
+accounting and other modules; and (d) coordination of related activities.
+
+(ii)   Preparation of Ordinary Laws
+
+This sub-component was to support the: (a) drafting of ordinary laws and regulations; and (b) the
+conduct of conferences and seminars on the new framework.
+
+(iii)  Strategic Plan for Regulatory Agency
+
+This sub-component was to support the preparation of a strategic plan for the creation of a the
+new national agency to regulate complementary pension funds. The activities to be financed
+would be: (a) drafting of the plan; (b) equipment purchases; and (c) staff training.
+
+(iv)   SPC's Information System
+
+This sub-component was aimed at improving, expanding and upgrading SPC's information system
+and related administrative procedures. The activities financed would be: (a) elaboration of a plan
+for these purposes; and (b) purchase of equipment and (c) training.
+
+(v)    External Information Network
+
+This sub-component was to provide advisory services for preparing and implementing a new
+external information network. The Project would finance: (a) a design of the network; (b)
+equipment; (c) training; and (d) additional studies.
+
+Component 4: Project Coordination
+
+This component was to enable the implementing institution, the Ministry of Social Security and
+Social Assistance (MPAS), to establish a project coordinating unit (PCU). The component would
+provide funds for project administration assistance including training in Bank procurement,
+disbursement and financial management procedures; the purchase of equipment for the PCU and
+UNDP management services. It also aimed to create a Technical Unit in the Ministry to assist the
+PCU in meeting the technical requirements of the Project.
+
+
+
+
+                                                 - 5 -
+
+3.4 Revised Components:
+The Project's plans regarding the institution for regulation of complementary pension funds were
+altered to the extent that the planned changes to affect the SPC were set aside. Only after the
+change in the Brazilian Government administration, did the authorities decide to proceed with the
+envisaged creation of a new autonomous national agency and new legislation was recently
+submitted to create a new autonomous organization, "PREVIC". Hence, much of the planned
+work on this activity was not carried out.
+
+In their place, the Government requested the reallocation of the funds involved to provide greater
+support for the evaluation of CNIS than had been originally designed. The work done in the
+evaluation had shown a need to expand the existing date bases and create additional ones. As a
+result, the Government requested, and the Bank subsequently approved, the reallocation of Loan
+funds to meet the enlarged task.
+
+3.5 Quality at Entry:
+Satisfactory. Quality at entry was not assessed by the Quality Assurance Group (QAG). This
+review concludes that the Project's quality at entry was satisfactory. The Project's objectives were
+consistent with the Government's need and program to improve the long-term actuarial balances
+of the social security system, in view of its heavy burden on public finances. The Project was
+well shaped to address the structural problems involved, alongside of the policy measures
+addressed by the S/SECAL and other Bank-assisted activities. It was thus consistent with the
+Bank's strategy too. The preponderant Loan support for INSS was appropriate, as well as
+suitably focused on the reforms it needed to discharge its new responsibilities. During project
+design, the operation's controversial aspects were well evaluated and covered (although the
+proposed creation of a new complementary fund national agency was not considered to be very
+risky). The design did not, however, include particularly substantial "learning and innovation"
+features.
+
+4. Achievement of Objective and Outputs
+
+4.1 Outcome/achievement of objective:
+Satisfactory. The Project achieved its main objectives. Its accomplishments can be expected to
+help arrest over time the growth of national expenditures and of the public sector pension system
+deficit, as well as to reduce the complementary funds' debt. In turn, these developments should
+contribute to the advancement of greater national equity.
+
+It bears noting, though, that the Project's accomplishments were 'limited' by the influence of
+political forces on some planned measures. This applied most notably to the proposed creation of
+a new national agency for regulation of pension funds, discussed above, and IT strategy and
+platform definition. However, the deficiency in the case of SPC may be considered to have only
+constituted a temporary setback. The subsequent enactment of new legislation (Law MP 233) in
+December 2004 established a new autonomous supervision agency, which has taken over some of
+the supervisory functions of the SPC. It is expected that this will contribute to a more effective
+private pension system. In addition, there were also problems which still remain unsolved
+concerning the proposed improvement of the Ministry's IT operation. It proved difficult to obtain
+decisions on the related strategy and the platform.
+
+
+                                                 - 6 -
+
+The project's accomplishments are also significant in that they advanced the changes needed for
+momentum in the second phase of the social security reform program. This was no small feat
+given that this reform has to be considered as meeting one of the most important challenges in
+Brazil. Significant political and technical obstacles still continue to impede these efforts but the
+project provided important assistance and resources for continuing analytical work and debate and
+many technical solutions. (Ref. section 4.2) Notable examples include the following:
+
+(a) The Project contributed to strengthening the legal framework for pension reform through the
+design of three Complementary Laws, (two of them already approved by Congress) and the
+drafting of a Law on Injury Insurance.
+
+(b) The Project contributed to the strengthening of INSS' institutional capacity. Its Strategic and
+Technology Master Plan is now beginning to be implemented (albeit slowly). It helped the INSS
+to reorganize its activities and staff, improve the calculation and approval of benefits, and to
+accelerate their payments. The effectiveness of the INSS was also enhanced by the improvements
+that were made to the integrated data base (CNIS). Similarly, the INSS strengthened its internal
+audit process and follow-up of large contributors.
+
+4.2 Outputs by components:
+Component 1. Restructuring of the INSS
+
+Enabling Legislation (Satisfactory)
+Output Sought: Enabling legislation to implement the Constitutional Amendment of 11/98.
+Target: To have enabling legislation in place
+Actual: This was completed and approved by Congress. The studies done with Loan funding that
+contributed to the drafting of laws included:
+
+·        Upgrading/reform of CNIS and verification of data quality and that the data could be
+used for calculation of benefits from 1976 Draft Law--Inversao do Onus da Prova ("Inverting the
+Burden of Proof")
+
+·       Elaboration of a Draft Law regarding Workers/Workplace Insurance; publication of
+volume #5 of the Social Security Collection, "Work Injury Insurance System in the Americas" (
+Sistema de Seguro Contra Acidentes de Trabalho nas Américas).
+
+Institutional reforms (Satisfactory)
+Output Sought: To have reforms in place
+Target: INSS diagnosis and Strategic Plan for institutional restructuring of this agency completed
+within 6 months after Loan effectiveness.
+Actual: INSS diagnostic and Strategic Plan involving numerous agencies and activities completed
+(note: it took about 12 months). The institutional reforms began to be implemented in a largely
+satisfactory manner.
+
+
+
+
+                                                  - 7 -
+
+Sub-components:
+
+(i)     Diagnostic/Strategic Plan for the INSS (Satisfactory)
+
+The following studies and activities were undertaken and completed.
+·       Strategic Plan for INSS with recommendations completed.
+·       Diagnostic of processes and service quality in the agencies completed, including the
+implementation of specific measures intended to improve attention to clients
+·       Modernization and improvement plan for Internal Auditing completed.
+·       Diagnostic and proposals made for restructuring INSS.
+·       Institutional strengthening diagnostics/recommendations across key agencies undertaken.
+·       Diagnostic/recommendations completed regarding administrative/judicial efficiency of
+collections.
+·       170 officials trained as a result of the above study and 40 officials were trained in fiscal
+management.
+·       Computer equipment provided to 102 Executive Offices.
+·       Data Mart (MIS) developed for Procuradoria.
+·       Data Mart developed for Fiscal Planning and Collections Directory.
+
+(ii)    Information Systems Master Plan (Satisfactory)
+
+Output Sought: Information Systems Renewal Master Plan (PDTI) finished
+Target: Information System Master Plan finished within 6 months after Loan effectiveness
+Actual: Master Plan finished
+
+Significant progress was made on the design of a high quality IT Strategy Plan. However, its
+development was not followed by significant progress in its implementation following the Lula
+administration's assumption of government. The new administration reviewed work done and
+made changes. Debates continue regarding key issues. Some criticism has been leveled at
+PROAST and the GOB regarding the need to evaluate more critically INSS's interactions with
+other institutions and programs. In particular, questions were raised as to whether it should have
+tackled the debatable issue of the role of DATAPREV, the Government agency which manages
+the INSS data base and has been criticized for its technical limitations and policy decisions. And
+greater attention should have been paid to data security in the design of the PDTI. But the PDTI,
+despite its criticisms, remains an important and technically sound contribution. In addition,
+component products included: (i) the completion of a diagnostic and recommendations for IT
+strategic architecture, and (ii) information systems strengthening activities implemented.
+
+(iii)   Implementation of the SGS system (Satisfactory)
+
+Output Sought: Strengthening of the SGS system to manage large debtors
+Target: The SGS system implemented--connected to all management units--and INSS staff
+trained.
+Actual: System changes completed, plus provision of equipment for 103 INSS Management
+
+
+
+                                                  - 8 -
+
+Units.
+
+The following studies and activities were carried out.
+·       Evaluation, review, conceptualization and detailing of the processes of the Active
+Debt-Divida Ativa system.
+·       Redesign of the process of Judicial Collection of the INSS Divida Ativa in the states of
+Sao Saulo and Rio de Janeiro
+·       Evaluation and reform of administrative and judicial collections verifying inconsistency of
+data, fragmentation of credits, low success rates-especially for large credits.
+·       Training of 170 officials in reformed processes
+·       102 INSS Executive Agencies equipped and making use of the SIGS system, Internet,
+networks, etc.--acquisition of 148 microcomputers, 130 printers, 12 scanners, 29 notebooks
+·       Training of 40 INSS staff in a Fiscal Management MBA course
+·       Support for developing Data Mart for the area of "Fiscal Action Planning" of the INSS
+Collections Department
+·       Definition of a "Portal of Fiscal Intelligence," (a managerial vision for planning
+supervisory)
+·       Development of Data Mart for the Procuradoria, making available essential data for
+managing administrative and judicial collection efforts.
+
+(iv)    Evaluation of CNIS (Satisfactory)
+
+Strengthening CNIS ("Unified Data Base of Social Information")--including evaluating its data
+and proposing improvements to the system--was contemplated in the original loan design. It
+expanded by the reallocation of funding (from the SPC component) to implement
+recommendations and carry out the work program identified in the initial studies. The studies
+undertaken were strategic, generally quite solid, comprehensive and well addressed. The
+implementation of study recommendations could possibly have been pushed more proactivly,
+which would have required stronger high level leadership, resolution of PDTI issues, and
+considerable staff training. The remaining challenges include greater exchange of information
+between different ministries.
+
+The following studies and activities were completed:
+·       Evaluation of quality of data
+·       Development of GFIP information system for obtaining information directly from
+employers
+·       Development of cadastre of natural persons
+·       Development of program to permit migration of data to Oracle
+·       Development of Data Mart for CNIS
+·       Development of system to incorporate unemployment insurance information from the
+Ministry of Labor
+·       Development of a security system controlling access to CNIS
+·       Development of a system for identifying natural persons based upon Portuguese phonetics
+·       Development of a system (Oracle) to recognize employees' rights related to
+
+
+
+                                                  - 9 -
+
+employment/remuneration
+·      Implementation of OLTP technology in CNIS
+·      Elaboration of Data Mart for CNIS-UNISYS
+·      Elaboration of system for quality control of the data base of pessoas fisicas ("Protective
+Shield-Escudo Protetor")
+·      Elaboration of system to develop the validate awards/payments of the INSS system (
+Projeto Ambiente de Homologacao- Homologation Environment Project)
+·      Elaboration of a system to disseminate statistics--GFIP
+·      Elaboration of Data Mart--CNIS-OracleElaboration of a system to disseminate statistics
+regarding legal persons pessoas juridicas of CNIS
+·      Purchase and installation of six servers and other equipment for CNIS
+·      Development of a Project to Create Statistical Indicators ­GEFIP
+·      Elaboration of a Strategic Communications Plan for social security
+·      Elaboration of standard visual identity norms in INSS agencies
+·      Acquisition of a large central storage equipment--server for the network servers system.
+
+(v)    Public Information and Dissemination Strategy. (Satisfactory)
+
+Output Sought: Studies on expanding coverage
+Target: Studies completed
+Actual: Studies completed
+
+This component is rated satisfactory because of the sizeable number of activities carried out and
+their outreach. However, there was not always adequate support from the Ministry to carry out
+the component dissemination strategies. As a result, in some cases, the design of the
+dissemination was suboptimal in its targeting, and its implementation could have been more rapid
+and effective. It is also important to note that the studies performed contained qualitative
+analyses rather than quantitative ones.
+
+Studies and activities completed:
+·      Diagnoses of IT and "e-Government" to attend the production of films portraying reforms
+in employers' electronic payment of obligations ("guidelines for electronic payment of social
+security" and "payment of Social Security into individual retirement accounts") and nation-wide
+dissemination
+·      Elaboration of a prototype website to portray individuals social security situation
+(Prev-Cidadao)
+·      Development of a website regarding INSS "INTRA-PREV"
+·      Elaboration of a system to present on a website an extract of the work life of individuals
+·      Contracting of consultants to support expansion effort in 10 states
+·      Publication of "Social Security inclusion, and combating poverty", Social Security and
+Social Stability; and "Basic course in Social Security"
+·      Training of all members of Regional Committees of the Social Stability Program
+·      Publication of volumes on strategic topics: political economy of reform, actuarial and
+financial management, pension reform in Latin America, and the translation of actuarial
+
+
+
+                                                 - 10 -
+
+mathematics of social security.
+
+Component 2: Pension and Insurance Legal Framework (Satisfactory)
+
+(i) Workers Accident Insurance Law ­SAT (Modest)
+
+Output Sought: Draft Workers Accident Insurance Law
+Target: Present a draft Law to Congress
+Actual: Studies completed; a Final Draft Law was produced but was not submitted to Congress.
+Studies also included
+·       Diagnostic/recommendations regarding repercussions of the new SAT model.
+·       Survey leading to publication of Volume # 13 of the Social Security Collection Colecao
+Previdencia Social, "Machinery and Work Accidents"
+
+(ii) Regulation of RGPS (Satisfactory)
+Studies included the following
+·       Actuarial analysis --probability tables regarding the concession of benefits for new
+retirement/pension/LOAS beneficiaries.
+
+·       Study of the Actuarial Model for Government Employees--creation of a cadastre of 2,150
+state and municipal laws and social security benefits in 900 municipalities.
+
+Component 3: Strengthening of Secretariat of Complementary Pension Funds-SPC
+(Modest)
+
+When the Government decided not to set up an independent SPC, work under this component
+was focused on more limited institutional and systems strengthening.
+
+(i)     Preparation of Complementary Laws and New Investment, Actuarial, Financial,
+Supervision Models (Satisfactory)
+Output Sought: Draft Ordinary Laws to Regulate Complementary Pension System
+Target: Required ordinary laws presented to Congress
+Actual: Several ordinary laws were presented to Congress
+
+Studies carried out included the following.
+·       Development of specific norms and analytic tools--resulting in a draft decree to regulate
+Complementary Law 109 of 2001.
+·       Proposals to alter the minimum retirement age which influenced the improvement of
+actuarial results and financial health of systems, and the harmonization of legislative and actuarial
+practices.
+
+(ii) Strategic Plan for new regulatory agency for Complementary Pension Funds
+(Unsatisfactory)
+
+Output Sought: Strategic Plan for new regulatory agency for Complementary Pension Funds
+
+
+
+                                                 - 11 -
+
+Target: Strategic Plan for new regulatory agency for Complementary Pension Funds
+Actual: This work was not done during loan implementation because the Cardoso administration
+ruled out proceeding with the creation of an autonomous agency.
+
+(iii) Strengthening of SPC Information System (Modest)
+
+Output Sought: Upgrade SPC information systems
+Target: Plan to expand and upgrade SPC's information system completed
+Actual: A new system partially developed
+
+Studies and activities undertaken included:
+·        Digitalization and indexation of SPC archived documents resulting in facilitating access
+and dissemination of documents.
+·        Development of specific norms and analytic tools--governing profitability calculation,
+budgeting, portability, market risks, and dissemination strategies.
+·        Development of the DAIEA system that maintains data bases of affiliated complementary
+pension systems resulting in greater transparency, norms for calculation, standard reports, and
+facilitating policy development.
+·        Development of an integrated MIS-SPC system and affiliated companies' systems
+
+(iv)     External Information Network and Institutional Strengthening Studies (Satisfactory)
+
+Studies and activities carried out produced:
+·        Publications (3) on Complementary Pensions' proportional deferred benefits, market
+regulation, principal norms.
+·        Organization of events involving SPC, companies and government agencies with closed
+systems to explain the application of legislation.
+·        Study on acquired rights and breaking contracts, which influenced the definition of plan
+parameters for financial equilibrium, age limits, compatibilization of rights with pension policy.
+·        Manual of procedures on restructuring processes, documents, guidelines.
+·        Training of 20 officials in the evaluation of assets and investment portfolios
+·        Study on proposals to alter minimum retirement ages which impacted on improving
+actuarial results and financial health of systems, and equating legislation and actuarial realities.
+
+Component 4: Project Coordination
+
+Project Coordination was initially rated "highly satisfactory". Nearly the entire loan had been
+disbursed by the original Closing Date. Taking into account that the Ministry was not always an
+easy work environment, the PCU did well, e.g., to generate quality terms of reference for the
+consultants, evaluating proposals and performing the work required to negotiate and sign
+contracts.
+
+However, the final period's work considered just "satisfactory" because of the delays in the
+purchase of the server which required extensions of the Closing Date of two years. The new
+administration, upon taking office, questioned the management and direction of the program and
+
+
+                                                  - 12 -
+
+brought in fiscal inspectors to verify procurement. It also undertook changes affecting all PCUs
+in the Federal Government that resulted in an almost complete turnover of staff. This had less
+impact on PROAST than other MPS loans because most of the loan had been implemented.
+
+Procurement Issues. Issues arose as a result of the changes in the PCU and resulting project
+implementation difficulties. A two year extension was allowed for the purpose of procuring a
+single large server, which also proved to be a difficult process owing to confusion regarding
+equipment specification and guarantees. These problems were identified during supervision
+missions. All procurement under these categories was halted. The Procurement Specialist
+concluded that the aggregate amounts could not be increased for a second time. The
+Disbursements Department indicated that the amounts disbursed in "excess" of the aggregate limit
+were ineligible expenditures and should be refunded to the Bank. The PCU suggested, that to
+solve the issue, they would reverse the disbursement applications of a number of contracts
+exceeding aggregate limits and fund them instead with counterpart funds. The idea was that, once
+refunded, these amounts would be available for use against subsequent expenditures, provided
+these were procured in accordance with Bank rules. The Bank accepted this proposal.
+
+Auditing and Financial Management. Initially, there were concerns regarding auditing
+methodologies and supporting financial systems. The COFRE financial management system
+introduced by the PCU around the time of start-up was assessed by the Bank, and found to be
+adequate for generating financial reports and requisite information. It proved to be reliable.
+FMRs were submitted on a timely basis. In addition to improving financial management systems,
+the PCU was also instrumental in improving auditing of project funds and INSS funds. Good
+progress was made by moving towards greater `preventive auditing' and the good practices
+initiated in the PCU were replicated in other ministries.
+
+4.3 Net Present Value/Economic rate of return:
+Typically, activities of this nature are not subject to conventional economic analyses.
+
+4.4 Financial rate of return:
+Typically, activities of this feature are not subject to conventional financial analysis
+
+4.5 Institutional development impact:
+One of the principal objectives of the Project was to help bring about reforms to improve the
+Government agencies that oversee the pension system. This assessment concludes that the
+Project's performance was satisfactory on balance in meeting this goal.
+
+The Project was unsuccessful in realizing the goal of setting the basis for the creation of a new
+national agency of complementary pension fund regulation. As noted above, this intention was
+thwarted because of the Cardoso administration's decision to not implement the reform. To be
+sure though, as para. 4.1 indicates, this can be considered to have been a temporary shortfall since
+the passage of the 2004 law did ultimately result in the establishment of a new supervisory agency
+(which partly succeeds SPC). Meanwhile, the targeted plan for internal SPC improvements was
+developed.
+
+The Project was more successful in bringing about the envisaged INSS improvements. The
+
+
+
+                                                       - 13 -
+
+Government obtained the important agency assessment and resulting strategic plan, which sets a
+framework for accomplishment of the intended restructuring. Initial implementing actions have
+been taken. Thus, the target was met. And it merits noting that the Borrower's segment of this
+ICR (ref. Annex 8) cited still other useful achievements than those reported in para. 3.3 on
+Component 1. These include the creation of a new information technology unit, installation of
+better yardsticks to gauge the performance of executing management units, and the installation of
+stronger controls on employer contribution payments.
+
+Collectively, these actions represent a quite positive advance. However, they do not comprise
+fundamental structural improvements (which the Project did NOT promise). It is uncertain
+moreover how far and well the INSS strategic plan will be fully put in place.
+
+         COMPONENT/                  ACTIVITIES/         Current Use and Impact of Outcomes
+         BENEFICIARY             MAJOR PROJECTS
+I ­ Restructuring the INSS    1. INSS Strategic Plan     The Annual Operating Plan of the INSS employs
+                                                         strategic guidelines established by the INSS Strategic
+INSS (Controller's Division                              Plan undertaken with Project resources.
+(`Controladoria'), CGINF and
+SGS)
+MPS (SE, Social Communication)
+                              2. Information Technology  At present, all contracts and procurements involving the
+                              Master Plan                information technology area must be in line with the
+                                                         Information Technology Master Plan drawn up by the
+                                                         company contracted.
+                              3. Implementation of       The Segment Management System was an innovative
+                              Segment Management         task based on dividing debtors into different segments
+                              System - SGS.              and different economic status levels. The training that
+                                                         was provided and the expanded technical resources
+                                                         incorporated by the SGS contributed to improvements
+                                                         in the quality of work.
+                              4. Quality Assessment of   The CNIS is the National Register of Social
+                              CNIS data                  Information, basically a register containing data about
+                                                         Brazilian workers. The register is used by Social
+                                                         Security and a number of other government bodies. A
+                                                         range of measures and rules was introduced to enhance
+                                                         the security of the data contained in the CNIS.
+                                                         Furthermore, a quality evaluation was undertaken of
+                                                         such data, which confirmed that the registered data is
+                                                         reliable and can be employed for granting benefits from
+                                                         1976 onwards, thereby eliminating the need for
+                                                         beneficiaries to present date-specific documentation. A
+                                                         Bill was drawn up covering utilization of all CNIS data
+                                                         in the process of automatic recognition of rights for the
+                                                         award of benefits for workers from 1976. However, this
+                                                         Bill has not yet been voted on in the Congress. The
+                                                         figures have in effect been used for calculating benefit
+                                                         payments from July 1994 onwards.
+                              5. Strategic Social        A company undertook a survey dealing with the public's
+                              Communication Plan         image and opinion of, and satisfaction level with, the
+                                                         INSS. At present, the measures outlined in this Plan
+                                                         are used indirectly by the Ministry of Social Security,
+                                                         with the research data being employed as a source of
+                                                         information for social communication projects.
+
+
+
+
+                                                    - 14 -
+
+ II ­ Legal Structure of the Social 1. Legal appraisal of        The final draft of the Bill concerning Accidents at
+ Security General Regime ­          Parliamentary Bill           Work insurance, drawn up on the basis of appraisals
+ RGPS and SAT                                                    and opinions of contracted consultants, was not
+                                                                 approved by the National Congress.
+ MPS and Social Security
+ Secretariat­ SPS
+                                    2. Regulating the            In view of the non-approval of the Bill, the resources
+                                    participation of the private that were initially earmarked for this activity were
+                                    sector in the `Accident at   reallocated to the activity on "Study of the Expansion of
+                                    Work' System - SAT           Coverage".
+                                    3. Elaboration of the pure   Consultants were contracted to draw up probability
+                                    actuarial model              tables of entries concerning new retirement pension (
+                                                                 aposentadoria) and family survivor (pensão) benefits.
+                                                                 These projections are used for awarding retirement
+                                                                 pensions and family survivor benefits.
+                                    4. Studies on the expansion A range of training activities was carried out in addition
+                                    of coverage                  to activities aimed at educating the public in general on
+                                                                 Social Security questions. The latter consisted of
+                                                                 seminars and a series of publications on the influence of
+                                                                 Social Security on Brazilian society.
+
+
+
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+Positive. The devaluation of Brazilian currency vis-à-vis the US dollar resulted in significant
+increases in Project funds. This helped give more momentum to the implementation of activities.
+
+Negative. The transition disruption attending the change in Government plus change in rules
+regarding employment in PCUs caused some delays in project implementation.
+
+5.2 Factors generally subject to government control:
+Positive. The support and commitment of high level Ministerial authorities were critical, as were
+the experience and dedication of the PCU team which was able to implement almost the entire
+loan in the 3 year loan period--a rarity in Brazil.
+
+Negative. Government's delay in taking decisions constrained the reform of SPC. The new
+administration brought a different approach to IT and other issues that resulted in important
+changes and leaving some issues still pending.
+
+5.3 Factors generally subject to implementing agency control:
+Positive. Procurement, disbursement and financial management issues were managed efficiently
+by the PCU. Its stability was an important factor up to the change in administration. Monthly
+meetings and presentations to top Ministerial staff facilitated implementation.
+
+Negative. The Borrower also indicated that the inexperience of new PCU staff created some
+delays in procurement and contract/implementation.
+
+
+                                                            - 15 -
+
+5.4 Costs and financing:
+The total cost of the Project was US$9,722,270 compared with the Project Appraisal Document
+(PAD) estimate of US$10,050,000. The Bank financed US$4,857,107 million (49.96%), while
+the Government contributed a total of US$4,865,166 million equivalent (50.04%)
+
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+Since fiscal sustainability continues to be Brazil's central economic challenge, and increased equity
+one of its most pressing social challenges, the Government has shown its appreciation that the
+pension system will need further reforms. Therefore, it is likely that the changes which this
+Project advanced will be sustained for the further advancement of the reform program. This
+forecast is supported by the now extensive evidence that Brazilian Government administrations
+(even of differing parties) have been serious about tackling the pension systems' strains on public
+resources and ending their past abuses. The constitutional amendment of December 2003
+demonstrated continuing resolve as well as progress in efforts aimed at rationalizing pension
+expenditures and deficits. However, the expectation of still greater changes needs to be qualified.
+Some of the additional reforms required involve some complex areas and very sensitive political
+undertakings, a number of which may need the approval of two thirds majorities in Congress.
+And much will depend on the extent to which Brazil maintains a sound macroeconomic program.
+
+6.2 Transition arrangement to regular operations:
+In June 2005, the Bank approved a programmatic Loan for further social security reform,
+primarily for public sector works, along with further changes concerning private sector workers
+and the "voluntary pillar". In addition, it is preparing a TAL that addresses INSS/Complementary
+Pension issues.
+
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+Satisfactory. The Bank's extensive sector and operational work provided it with an in-depth
+knowledge of social security in Brazil, which led to an effective identification of the main
+challenges it faced. It also led to a high quality in the design of the operation as well as other
+Bank projects in Brazil and Argentina. The Project's monitoring yardsticks were well designed
+and targeted.
+
+7.2 Supervision:
+Satisfactory. The Bank's supervision was satisfactory. The Project was supervised regularly and
+its ratings were adequately reported. During the interviews conducted as part of the ICR
+preparation, management and staff in government repeatedly praised the input from Bank
+counterparts. Tasks managers and teams were perceived as very responsive to client needs,
+reacting promptly to requests and dealing professionally and courteously with the clients, even
+under difficult circumstance, and providing adequate support as needed. At times, relations were
+tense but task managers and other staff succeeded in maintaining the channels of communication
+
+
+
+                                                  - 16 -
+
+open.
+
+7.3 Overall Bank performance:
+Satisfactory. Overall Bank performance was satisfactory during all stages of the Project cycle.
+
+Borrower
+7.4 Preparation:
+Satisfactory. The Borrower's performance in the preparation of the Project was satisfactory. The
+Administrations were committed to accomplishing the objectives set out for the implementation of
+the second phase of pension reform. Government officials and staff of the implementing agencies
+worked closely with the Bank's team on a continuous basis providing good cooperation and all
+information required.
+
+7.5 Government implementation performance:
+Satisfactory. Under the Cardoso Government there was strong commitment for fulfilling the
+Project's objectives. The new administration, however, halted progress on many initiatives made
+under the Bank loan for 8-10 months (not counting the six months prior to elections when
+everything stopped) as it took stock of what had been done. The Minister was changed as were
+the technical teams. Progress on important initiatives and especially on the fate of key IT Strategy
+work was stopped and changes were introduced. On balance, however, the Government's
+performance is rated "Satisfactory" because it largely achieved what it set out to do under the
+loan. Also, the PCU and MPS officials demonstrated considerable flexibility and creativity in
+carrying out the numerous activities. And according to the Ministry, the practices developed for
+project management were recognized as a national model by the Office of Good Practices at
+INFASIG.
+
+7.6 Implementing Agency:
+Satisfactory. In the first three years of operation, almost all anticipated results were achieved, a
+significant achievement. Project unit staff have generally been highly professional, technically
+strong and results-oriented although the turnover in project staff under the successor
+administration initially created problems.
+
+7.7 Overall Borrower performance:
+Satisfactory. Overall Borrower performance is rated satisfactory. The Project did not suffer from
+major counterpart funding, procurement or financial administration problems; audit reports were
+generally available on or just after the due dates, and there were no major accountability issues.
+
+
+8. Lessons Learned
+
+(a)     Project ownership and implementation team continuity is key. Under the first
+administration, and when the PCU team was intact, loan implementation functioned very well.
+But the project suffered when the turnover of staff occurred. Could anything have been done to
+improve the transition from one administration to another? Perhaps not as the gulf between the
+two political parties was very great. Conceivably, some mitigating actions were possible, e.g. (i)
+preparation of a transition strategy and studies supporting key reforms, (ii) a fuller dissemination
+of project objectives among staff likely to continue in important ministerial positions, (iii) planning
+for the transition and courting the new administration, explaining the advantages of carrying
+
+
+                                                 - 17 -
+
+through with the existing programs, (iv) stressing the high cost/benefit return of IT and other
+reforms, (v) undertaking public information and stakeholder campaigns prior to elections. But it
+is not at all certain that any of these would have made a difference. Also it would have required
+unusual action on the part of the project team and a willingness to intervene in such sensitive
+circumstances. These actions are not always advisable either.
+
+(b)     Upfront investment in PCU staff. The Ministry had little experience in multilateral (IFI)
+project funding and lacked trained procurement and financial management staff. (Even today the
+procurement unit in the Ministry does not handle IFI projects). In such circumstances, an
+investment in helping the client adapt to a "project culture" and master Bank procedures could
+pay dividends. The Bank should insist on Bank training for PCU staff, especially in procurement.
+
+(c)     Promoting a culture of strategic planning. During interviews, the Borrower
+consistently highlighted the need for a culture of strategic planning for project management and
+the need for better defined mechanisms for project monitoring and control. It suggested that
+instruments for control of project activities be designed well before implementation begins and
+then fine-tuned during the period of execution, especially for IT systems.
+
+(d)     Maintaining Flexibility. Much work was carried out for this project which contributed
+importantly to its impact. Many of the studies and activities were shaped as the project
+progressed. e.g. the CNIS work. In this regard, a LIL's flexibility can be very important,
+especially in difficult institutional strengthening projects in challenging environment. The early
+LILs, before they were converted into 'hypothesis testing' exercises, were well suited to
+challenging institutional environments. PROAST testifies to the utility of small, flexible and well
+targeted technical assistance operations. The State Pension Reform LIL--PARSEP which closes
+in December will reaffirm this finding. The Bank needs to continue to make space for small,
+targeted, flexible operations which are too often avoided because of cost, a bias towards larger
+loans, and limitations on SIL and total loan numbers.
+
+(e)     Maintaining contact with middle income countries. Social Security system reforms in
+Brazil were the culmination of many years of ESW and policy dialogue. In an MIC such as
+Brazil, this association plays a valuable role. And the Bank has learned a good deal from Brazil in
+this process.
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+See Annex 8 [Borrower's Evaluation Report]
+
+(b) Cofinanciers:
+N/A
+
+(c) Other partners (NGOs/private sector):
+N/A
+
+10. Additional Information
+
+A. The Bank's ICR Team consisted of the following members:
+
+
+
+                                                  - 18 -
+
+Chris Parel, Senior Operations Officer, Task Team Leader/Task Manager
+Kathrin A. Plangemann, Senior Public Sector Specialist, ICR Mission Leader
+Denise von Gersdorff, Consultant
+Ruxandra Burdescu, Consultant
+Herman Nissenbaum, Consultant
+Ada Garcia, Program Assistant
+Sharon Spriggs, Program Assistant
+
+B. List of Task Team Leaders of the project in chronological order:
+
+(i)     Mariluz Cortes, Task Team Leader/Task Manager
+(ii)    Chris Parel, Task Team Leader/Task Manager
+
+C. Persons interviewed for the preparation of the ICR:
+
+(i)     Chris Parel, Senior Operations Officer, Task Team Leader/Task Manager
+(ii)    Katrin A. Plangemann, Senior Public Sector Specialist, ICR Mission Leader
+(iii)   Mariluz Cortes, Task Team Leader/Task Manager
+(iv)    Valter Silveira, Financial Coordinator for the PCU (Coordenador Administrativo
+Financeiro da UCP)
+(v)     Vera Lucia de Sousa Gavazzoni, Support Technician for the PCU (Tecnica de Suporte da
+UCP)
+
+
+
+
+                                               - 19 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+Outcome / Impact Indicators:
+                                                                                1
+               Indicator/Matrix                         Projected in last PSR                       Actual/Latest Estimate
+Enabling legislation to implement the        Enabling legislation                        Done.
+Constitutional amendment
+Institutional Reforms to implement the       INSS and SPC Institutional reforms and      INSS studies completed and reforms
+Constitutional amendment in place            strengthening                               initiated. SPC reforms held up by GOB
+                                                                                         indecision
+Enabling legislation to implement the        Enabling legislation                        Done
+Constitutional amendment
+
+
+
+
+Output Indicators:
+                                                                                1
+               Indicator/Matrix                         Projected in last PSR                       Actual/Latest Estimate
+INSS diagnosis and Strategic Plan            INSS diagnosis and strategic plan completed Done
+completed
+Information System Master Plan finished      Information System Master Plan finished     Done. Note that MPS has distanced itself
+                                                                                         from results under the Lula administration.
+Strengthening of the SGS system to manage SGS large debtors system implemented           Done
+large debtors
+Draft Ordinary Laws to regulate              Ordinary law presented to Congress          Done
+Complementary Pension System
+Strategic Plan for new regulatory agency for Strategic plan developed for Complementary Bank adjustment loan and TAL Indefinition on
+Complementary Pension Funds                  Pension Funds                               SPC reform by Government; persist and will
+                                                                                         be addressed by
+Plan to expand SPC's information system      SPC Information System Plan Completed       Done. But indefinition on SPC reform by
+                                                                                         Government
+Draft law for work related injury insurance  Draft law for injury insurance presented    Done
+Study to reduce evasion and expand           Studies completed                           Done. But implementation depends on
+coverage of social security                                                              follow-on loan in part.
+
+1End of project
+
+
+
+
+                                                                 - 20 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                          Appraisal     Actual/Latest  Percentage of
+                                                           Estimate      Estimate       Appraisal
+                       Component                          US$ million   US$ million
+Component 1                                                5500.00         7120.03         129.46
+INSS Institutional Restructuring
+Component 2                                                 300.00          299.17          99.72
+Work Injury Insurance & RGPS Legal Framework
+Component 3                                                3900.00         1470.11           37.7
+Strengthening of Regulatory Framework Capacity of the
+Complementary System - SPC
+Component 4                                                 300.00          782.46         260.82
+Project Coordination
+
+Total Baseline Cost                                       10000.00         9671.77
+                         Total Project Costs              10000.00         9671.77
+                                        Front-end fee        50.00           50.50         101.00
+                   Total Financing Required               10050.00         9722.27
+
+
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+                                                                    1
+                                               Procurement Method
+    Expenditure Category           ICB             NCB                2        N.B.F.    Total Cost
+                                                                Other
+1. Works                                            0.00         0.00          0.00         0.00
+                                    ()             (0.00)       (0.00)         (0.00)      (0.00)
+2. Goods                         1050.00            0.00         0.00         877.00      1927.00
+                                (1050.00)          (0.00)       (0.00)         (0.00)    (1050.00)
+3. Services                        0.00             0.00       5473.00        2100.00     7573.00
+Consultants                       (0.00)           (0.00)      (3450.00)       (0.00)    (3450.00)
+4. Training                        0.00             0.00        500.00         0.00        500.00
+                                  (0.00)           (0.00)      (500.00)        (0.00)     (500.00)
+   Total                         1050.00            0.00       5973.00        2977.00     10000.00
+                                (1050.00)          (0.00)      (3950.00)       (0.00)    (5000.00)
+
+
+
+
+                                                - 21 -
+
+   Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                                   1
+                                                         Procurement Method
+        Expenditure Category               ICB               NCB                      2         N.B.F.         Total Cost
+                                                                               Other
+   1. Works                                0.00               0.00              0.00             0.00              0.00
+                                          (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+   2. Goods                               624.00            161.00            416.00             16.00           1217.00
+                                         (499.00)           (129.00)         (235.00)            (0.00)          (863.00)
+   3. Services                             0.00               0.00            5740.00          1108.00           6848.00
+   Consultants                            (0.00)             (0.00)          (3543.00)           (0.00)         (3543.00)
+   4. Training                             0.00               0.00            1607.00            0.00            1607.00
+                                          (0.00)             (0.00)          (401.00)            (0.00)          (401.00)
+      Total                               624.00            161.00            7763.00          1124.00           9672.00
+                                         (499.00)           (129.00)         (4179.00)           (0.00)         (4807.00)
+
+    1/Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+
+    2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+      of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+      managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+Project Financing by Component (in US$ million equivalent)
+                                                                                                      Percentage of Appraisal
+       Component                   Appraisal Estimate                  Actual/Latest Estimate
+                               Bank        Govt.        CoF.         Bank         Govt.      CoF.       Bank     Govt.     CoF.
+Component 1                  3000.00      2500.00                  4056.00       3064.00                135.2    122.6
+INSS Institutional
+Restructuring
+
+
+Component 2                   250.00       50.00                    203.00        96.00                 81.2     192.0
+Work Injury Insurance &
+RGPS Legal Framework
+and SAT
+Strengthening of             1500.00      2400.00                   525.00       945.00                 35.0      39.4
+Regulatory Framework
+Capacity of the
+Complementary System -
+SPC
+Component 4                   250.00       50.00                    73.00        760.00                 29.2     1520.0
+Project Coordination
+Total                        5050.00      5000.00                  4857.00       4865.00                96.2      97.3
+
+
+
+
+                                                          - 22 -
+
+Annex 3. Economic Costs and Benefits
+
+N.A.
+
+
+
+
+                                      - 23 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                  No. of Persons and Specialty                Performance Rating
+                                      (e.g. 2 Economists, 1 FMS, etc.)         Implementation Development
+                    Month/Year  Count           Specialty                        Progress       Objective
+
+ Identification/Preparation
+               8/1998
+               5/1997
+
+ Appraisal/Negotiation
+               11/16/1999                2     1 Consultant, 1 Task                 S               S
+                                               Manager
+               3/16/2000                 1     1 Task Manager                       S               S
+
+ Supervision
+               2/4/2002                   1    1 Consultant                         S               S
+               3/03/2002                  1    1 /Task Manager, 1 Pension           S               S
+                                               Administration
+               02/22/2003                 1    1 Task Manager                       S               S
+               06/21/2003                 1    1 Task Manager                       S               S
+               09/30/2003                 1    1 Task Manager                       S               S
+               12/03/2003                 1    1 Task Manager                       S               S
+               02/23/2004                 1    1 Task Manager                       S               S
+               05/23/2004                 1    1 Task Manager                       S               S
+               12/03/2004                 1    1 Task Manager                       S               S
+
+ ICR
+               3/13/2005                       1 Senior Public Sector               S               S
+                                               Specialist
+
+
+
+(b) Staff:
+
+       Stage of Project Cycle                   Actual/Latest Estimate
+                                    No. Staff weeks                  US$ ('000)
+  Identification/Preparation                  .4                            1.2
+  Appraisal/Negotiation                   17.20                             51
+  Supervision                             32.41                            107
+  ICR                                         1.                            8.2
+  Total                                       51                        167.40
+
+
+
+
+                                               - 24 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 25 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 26 -
+
+Annex 7. List of Supporting Documents
+
+Project Management Report - PMR periodo ate 31 dezembro 2004
+Review of Audit Report year end 2003
+Audit Secretaria Executiva-MPAs FY end Dec. 2002
+Project Management Report - PMR periodo ate 31 dezembro 2002
+Project Management Report - maio-junho 2002
+Project Management Report 01-january - 29-March 2002
+Audit UCP-SE-MPAs FY end Dec. 2001
+Project Management Reprot 30-Setembro - 31 - dezembro 2001
+Audit - PROAST - FY end Dec. 31, 2001
+Project Management Report - PMR periodo 01-July 2001 - 30 setembro 2001
+Audit Min Previdencia and Assistencia Social FY end dezembro 2000
+Borrower's Evaluation Report
+Project Implementation Plan (PIP)
+Loan Agreement dated May 2, 2000
+Amendment to Loan Agreement dated October 18, 2001
+
+
+
+
+                                                - 27 -
+
+Additional Annex 8. Borrower's Evaluation Report
+
+   Assessment of Development Objectives and Design, and of Quality at Entry
+
+   ·    Was the project objective well designed, relevant and realistic?
+
+   The growing social security deficit highlighted the need to restructure the entire welfare system
+   through the creation of a new model. PROAST was developed at a particularly useful moment
+   since it focused on a highly relevant issue for the Brazilian government ­ the need to contain
+   shortfalls in public finances. The pensions question is of course a major concern not only in
+   Brazil but also in many other countries.
+
+   The overall objective of the Project was to assist the implementation of institutional and legal
+   reforms needed to create a new social security model. The specific aim was to provide the
+   wherewithal for the Ministry of Social Security and the National Social Security Institute
+   (INSS) to take forward the Social Security Reform Project from the legal and institutional
+   point of view by implementing the provisions contained in Constitutional Amendment No 20,
+   published in December 1988. In order to achieve its objectives, the basic aim of the Project
+   was to develop activities related to institutional strengthening and to endow management and
+   information systems policies with a formal structure. The components of this approach are
+   listed in the following chart:
+
+
+COMPONENT/BENEFICIARY                                  ACTIVITIES/MAJOR PROJECTS
+I ­ Restructuring the INSS                             1. INSS Strategic Plan
+
+INSS (Controllers, CGINF and SGS)
+MPS (SE, Social Communication)
+                                                       2. Information Technology Master Plan
+                                                       3. Implementation of Segment Management System - SGS.
+                                                       4. Quality Assessment of CNIS data
+                                                       5. Social Communication Strategic Plan
+II ­ Legal Structure of the General Social Security    1. Legal appraisal of bill
+Regime ­ RGPS and SAT
+
+MPS and Social Security Secretariat­ SPS
+                                                       2. Regulating the participation of the private sector in the
+                                                       `Accident at Work' System ­ SAT (workers disability
+                                                       insurance)
+                                                       3. Elaboration of a `pure' Actuarial Model
+                                                       4. Studies on the expansion of coverage and reduction of
+                                                       evasion
+III ­ Secretariat for Complementary Social Security    1. Elaboration of Ordinary Laws and Regulations
+
+MPS ­ Secretariat for Complementary Social
+Security
+
+
+                                                   - 28 -
+
+                                                            2. Studies for implementation of the Regulatory Agency
+                                                            3. Expanding and updating the SPC Integrated Information
+                                                            System
+                                                            4. Interconnecting the SPC Integrated Information System
+                                                            with other government organs and the EFPP
+IV ­ Project Coordination                                   1. Technical Assistance for the Technical Management
+
+MPS ­ Executive Secretariat - UCP
+                                                            Units (UCP)
+                                                            2. Implementation of the UCP
+                                                            3. Payment of fees to UNDP and IBRD
+                                                            4. Management of the Cooperation Agreement (project
+                                                            implementation)
+
+
+The PROAST objectives were well designed and timely. They fully satisfied Brazil's requirements
+concerning the social security question. In view of the type of project (basically studies), measuring the
+actual results is a more difficult matter. It is difficult to gauge outcomes in numerical terms - the
+performance of activities over the longer term will be a more accurate reflection of the value of the Project.
+
+l Revised objective
+
+
+One of the objectives of the project underwent revision. This involved reallocating funding between
+components I (INSS restructuring) and III (Regulation of Complementary Pension Funds). This was
+proposed as a result of a change of strategy at the ministerial level, since at the time of the LIL #4537
+negotiation, a government project existed which involved establishing a "National Agency for the
+Regulation of Private Pension Funds". Implementation of the latter would have resulted in the extinction of
+the Secretariat for Complementary Social Security (MPS) and simultaneously in the establishment of a new
+structure to be put together and implemented by the Ministry itself. All the activities flowing from the
+establishment of such a body and the transition phase were to have been carried out under component III of
+the LIL. In November 2000, the plan to transform the SPC into an Agency was abandoned as a result of
+modifications to governmental guidelines. The resources that had been earmarked for the transition were
+therefore reallocated into other activities of greater priority for the Ministry.
+
+Following a series of analyses and with due consideration for the basic objectives of the LIL, it was
+proposed to reallocate resources for the ISS Restructuring Component specifically to the Evaluation of the
+National Register for Social Information (CNIS). The latter register is effectively a databank containing all
+the information on the insured parties in the Social Security system. It constitutes a key element in the
+information infrastructure of the Ministry. In order to upscale NPS/INSS capacity to implement the
+reforms in its systems, the CNIS required modernizing, and a number of different projects were developed
+and presented to the IBRD concerning this modernization. These embraced the following:
+
+-   Structural projects aimed at increasing the amount of information retained in the CNIS and improving
+the quality and speed with which data could be accessed, together with introducing tools which would
+enable the INSS to enhance its management procedures using data entered in the register regardless of
+origin;
+
+-   Technical improvements dealing principally with technical aspects and targeted at improving the
+technical infrastructure of the CNIS through the introduction of tools designed to improve the quality of
+
+
+                                                       - 29 -
+
+response to inquiries by CNIS users, reducing the length of time required for developing new applications;
+
+-   Statistical improvements aimed at helping the CNIS to generate data about the labor market, employing
+the database to provide background information for studies and surveys of interest in the Social Security
+area.
+
+l Original components: objectives and costs
+
+
+Components                                           Cost in US $     % of total     Bank         % of
+                                                     million                         Financ.      Bank
+                                                                                     US$m         Financ.
+I ­ INSS restructuring                               4,850.00         48.3%          3,000.00     59.4%
+                                                     300.00           3%             250.00       5%
+II ­ Legal Structure of the Social Security General
+Regime ­ RGPS and SAT
+III ­ Regulating the Complementary Pension Funds 3,900.00             38.8%          1,700.00     33.7%
+IV ­ Project Coordination                            949.50           9.4%           49.50        1%
+IBRD fees                                            50.50            0.5%           50.50        1%
+Total including fees                                 10,050.00        100%           5,050.00     100%
+
+l Revised components
+
+
+Components                                         Cost in US $     % of total     Bank           % of
+                                                   million                         Financ.        Bank
+                                                                                   US$m           Financ.
+I ­ INSS restructuring                             7.062,74         70,3%          3.783,57       74,9%
+                                                   300,00           3%             250,00         5%
+II ­ Legal Structure of the Social Security General
+Regime ­ RGPS and SAT
+III ­ Regulating the Complementary Pension         1.687,26         16,8%          916,43         18,1%
+Funds
+IV ­ Project Coordination                          949,50           9,4%           49,50          1%
+IBRD fees                                          50,50            0,5%           50,50          1%
+Total including fees                               10.050,00        100%           5.050,00       100%
+
+
+Achievement of Objectives and Outputs
+
+Component I ­ INSS Restructuring.
+
+-   Elaboration of the INSS Strategic Plan.
+Result: An INSS Strategic Plan was elaborated and strategic guidelines put in place.
+
+-   Evaluation of the new Agencies on the basis of the PMA.
+Result: The analysis and evaluation of the processes and quality of the services provided in the revamped
+Social Security Agencies.
+
+-   Elaboration of the ongoing Modernization and Improvement of the INSS Internal Audit Division.
+
+
+
+                                                   - 30 -
+
+Result: Modernization and improvement program for the INSS Internal Audit Division elaborated and
+under implementation.
+
+-    Elaboration of the Technology and Information Master Plan (PDTI).
+Result: Social Security Technology and Information Master Plan was elaborated and is under
+implementation.
+
+-    Definition of the Social Security services available to the public through IT ­ e-government.
+Result: The Social Security PDTI was linked with the Federal Government/Ministry of Social Security
+e-government programs.
+
+-    Analysis and evaluation of large capacity IT installation in the Social Security system.
+Result: DATAPREV large capacity installations and contracts (physical and logistical components) linked
+to it were evaluated.
+
+-    Evaluation, revision, conception and detailed presentation/scrutiny of the Outstanding Debt (`Divida
+Ativa') Procedures and Systems ­ Redesigning the Procedures of INSS Outstanding Debt repayment
+through the legal channel ­ Sao Paulo/Rio de Janeiro.
+Result: Improvements made in the recovery of Outstanding Debt through administrative and legal channels.
+The following was confirmed: i) the database is inconsistent; ii) debt is fragmented into small credits; iii)
+poor debt recovery success rate; iv) recovery of higher value credits have lowest rate of success; v) limited
+liaison between the different stages of the collection process.
+
+-    Training of 170 employees in the new debt recovery approach, with emphasis on segmentation and
+economic status of debtors.
+Result: Improved liaison between the Segment and Executive Management Units. Improved debt recovery
+through administrative and legal channels. Segment Managers trained to draw up proposals for action
+within their segments.
+
+-    Procurement of 148 desk top computers, 130 printers, 12 scanners and 29 notebooks.
+Result: 102 Executive Management Units of the INSS supplied with suitable equipment employing the
+SIGS system, Internet, Net, Informar etc. The equipment is used in Fiscal Enforcement Planning.
+
+-    Training of 40 INSS inspectors in Fiscal Management (MBA ­ FINATEC/UNB).
+Result: Improved efficiency of the management of Social Security contributions. Participants are in a
+better position to acquire a deeper understanding of government policies and new management instruments
+in the area of tax administration including the new model of collection management and the Fiscal
+Intelligence Project.
+
+-    Contracting consultants to elaborate DATA MART for the Fiscal Enforcement Planning Division of
+the INSS Collection Directorate.
+Result: Definition of the Fiscal Intelligence Portal ­ a management-based overview of the information
+needed for planning of fiscal enforcement. Implementation of the Fiscal Intelligence System as a planning
+tool for fiscal proceedings.
+
+-    Contracting consultants to elaborate DATA MART for the INSS Attorney's Department
+(`Procuradoria').
+Result: Management information made available to the INSS Procuradoria aimed at improving collection
+
+
+
+                                                     - 31 -
+
+procedures through the administrative and legal channels.
+
+-   Evaluation of CNIS data quality.
+Result: Short term actions developed to improve data quality and enhance CNIS (see below). It was
+confirmed that the data can be utilized for granting benefits from 1976 onwards. ­ Support provided for a
+new Bill: "Automatic Recognition of Right to Benefits".
+
+-   Improvements in the CNIS
+Result: Specialized consultants contracted to develop the original GFIP Project.
+Construction of computerized system to secure general GFIP data directly from employers. In addition ,
+the following important activities were undertaken to strengthen CNIS and related systems and procedures.
+
+·   Specialized consultants contracted to develop the `Migration (Individuals) Project' for ORACLE.
+·   Construction of new computerized system for the Register of Individuals on the ORACLE platform.
+·   Specialized consultants contracted to develop the Migration (Individuals) Project for ORACLE.
+·   Construction of new computerized system for receiving payments from individual contributors on the
+ORACLE platform.
+·   Specialized consultants contracted to develop specifications for CNIS DATA MART.
+·   Specifications for a multidimensional database for delivering statistical information related to the entire
+CNIS (with the exception of company-related data ).
+·   Specialized consultants contracted to develop the Unemployment Insurance Base Project.
+·   Construction of computerized system able to incorporate into the CNIS data referring to employees
+seeking Unemployment Benefit (`Seguro de Desemprego') from the Ministry of Labor.
+·   Specialized consultants contracted to develop the Access Control Project.
+·   Implementation of access procedures, as set forth in the Ministerial Ruling No 862/2001, for all the
+computerized systems in the CNIS.
+·   Specialized consultants contracted to develop the Alphabetic Processor Project
+·   Implementation in the computerized system of the CNIS Register of Individuals of a routine method for
+identifying people using Portuguese language phonetics.
+·   Specialized consultants contracted to develop the `Updating Linkages (`Vínculos')and Remuneration
+Project' on ORACLE.
+·   Construction of a computerized system for the ORACLE platform to provide information for the Social
+Security regarding the process of automatic recognition of insured contributors'rights.
+·   Specialized consultants contracted to develop the Components Library Project and to introduce more
+modern technical standards (OLTP) in the CNIS large-scale computer system.
+·   Specialized consultants contracted to construct CNIS DATA MART ­ UNISYS.
+·   Construction of computerized system with a multidimensional database for disseminating statistical
+information relating to the entire CNIS
+·   Specialized consultants contracted to develop Phase 1 of the "Protective Shield Project".
+·   Construction of computerized system for data quality management referring to individuals.
+·   Specialized consultants contracted to develop the `Data Matching Project' (Projeto Ambiente de
+Homogolação) .
+·   Construction of computerized system to be utilized by the project developers, with the aim of quickly
+facilitating the authorizations required for ensuring correct matching of the Social Security applications.
+·   Specialized consultants contracted to develop the `Insured Individual's Integrated Working Life
+History' Project.
+·   Construction of computerized WEB system to facilitate registering of work histories of employees.
+·   Specialized consultants contracted to develop the GFIP Book Project.
+·   Construction of computerized system with a multidimensional database for disseminating GFIP
+
+
+                                                     - 32 -
+
+statistical data.
+·   Specialized consultants contracted to develop `PREV-Citizen' Pilot Project (PREV- Cidadão) .
+·   Construction of a functioning WEB prototype for the PREV-Cidadão application.
+·   Specialized consultants contracted for constructing DATA MART of the CNIS ­ ORACLE.
+·   Construction of a computerized system with a multidimensional database for disseminating statistical
+data referring to Companies registered in the CNIS.
+·   Procurement of 6 application/data servers, 6 laser printers and 5 notebooks.
+·   Data stored securely. Technical upgrading of CNIS.
+·   Specialized consultants contracted to develop Statistical Indicators Project (GEFIP).
+(i) Definition of the indicators and elaboration of estimators; (ii) Definition of the Sampling Plan; (iii)
+Consistency and organization of data; (iv) Data processing; (v) Presentation of indicator estimators.
+
+-   Strategic Communication Plan for Social Security.
+Result: Strategic Communication Plan was elaborated and the following was carried out.
+·   Training of officials in the Social Security Communication Advisory Units through attendance at the
+Media Texts Workshop (Oficina de Texto Jornalístico).
+·   Films made about the specific type of bank document (GPS) for paying in social security contributions
+by electronic means (Previdenciário Eletrônico) and for the payment of Retirement Pensions and Survivor
+Family benefits into individuals' bank accounts.
+·   Public dissemination throughout Brazil of the new services provided by Social Security.
+·   Consultants contracted to introduce standardized visual identity for the Social Security and the Social
+Security Agencies and also for the corporate website known as INTRA ­ PREV. Making all members of
+the public in Brazil aware of the institutional logo of the Ministry.
+
+Component II ­ Legal Structure of the General Social Security Regime (RGPS) and of the Accidents
+at Work Insurance (SAT-Workers Disability Insurance).
+
+-   Contracting Brazilian and international consultants to evaluate and produce legal opinions
+regarding the viability and repercussions of the new SAT model, covering the following points:
+international experience; background of Brazilian national attitudes to prevention and treatment;
+organization and working methods related to the economy and the national health system; ensuring
+compliance with current legislation.
+Result: Final draft of the Bill ; Volume Nº 5 of the Social Security Collection "Insurance System for
+Work-Related Accidents in the Americas."
+
+-   Contracting of Brazilian consultant to undertake a survey on machines capable of causing
+work-related accidents.
+Result: Publication of Volume Nº 3 of the Social Security Collection - "Machines and Work- Related
+Accidents".
+
+-   Contracting of Brazilian consultant to draw up probability tables covering entries for new retirement
+and family survivors' benefits.
+Result: Long term projections for granting new retirement and family survivors' benefits and LOAS.
+
+-   Contracting of 11 consultants, to operate in different areas, charged with informing the public about
+the expanded Social Security programs
+Result: Public information activities undertaken in 10 states, covering 3,020 people.
+
+-   Study of Expanded Coverage and Reduction of Evasion
+
+
+                                                     - 33 -
+
+Result: An article "Social Security, Social Inclusion and Fighting Poverty", published in the Report on
+Social Security (Informe de Previdência Social) for July 2001, and in the April/June edition of "Social
+Situation" (Conjuntura Social); Hardback book published with an anthropological-photographic study on
+the influence of the Social Security in Amazonian communities. This book will be a special volume to form
+part of the Social Security Collection;
+
+-   Training and publications to support training and dissemination activities including
+·   Trainingof all members of the Social Stability Program Regional Committees.
+·   Revised version of the 2nd Edition of Vol. 7 of the Social Security Collection - "Social Security and
+Social Stability: "Formation Course for training specialists in Social Security ".
+·   Publication of Vols. Social Security Collection: 9 ­ the "Political Economy of Social Security
+Reform"; 10 ­ Specialist Meeting: "Actuarial Techniques and Financial Management"; 11 ­ "Social
+Security `own' regimes";
+·   "Organizational, Legal and Investment Management Model"; 12 ­ "Pension System Reform in Latin
+America";
+·   Training of all the members of the Social Stability Program Regional Committees; Revised version of
+the 2nd Edition of Vol. 7 of the Social Security Collection - "Social Security and Social Stability:
+Formation Course for specialists in Social Security". Booklets and folders produced on Social Security
+benefits.
+·   Translation of the book "Actuarial Mathematics of Social Security Pensions" by Subramaniam Iyer,
+published in a Social Security Collection volume, March 2002.
+·   Contracting Brazilian consultant to undertake a Study on the Actuarial Model of Federal Government
+Employees.
+Results: Registration of 2150 State and Municipal Legislations in CADPREV; Analysis of the Social
+Security Compensation Covenant process involving 900 Municipalities (596 Prefectures completed);
+Guidance provided for 250 Municipalities with own Social Security regimes; fine-tuning SIPREV;
+organization of six technical meetings in Florianópolis, Fortaleza, Brasilia, São Paulo, Tocantins and Rio
+de Janeiro.
+
+-   Contracting consultants to elaborate proposals for structuring the SPS.
+Result: SPS restructuring plan defined.
+
+Component III ­ Expanding and updating the SPC Integrated Information System
+
+-   Contracting consultants to carry out technical studies to endow the SPC with a range of specific
+norms and analytical tools.
+Result: Draft decree for introducing regulatory framework to 2001 Supplementary Law N.º 109;
+Standardization of the method for calculating the profitability of the schemes of the closed complementary
+social security entities (EFPC) based on the `quota' model; budget model standardized for the EFPC; Study
+of the way portability is applied in Europe and the United States; Definition of the methodology for market
+risk analysis; Strategies for publicizing the SPC project.
+-   Publication of books about Complementary Pensions in Brazil i) deferred proportional benefit; ii)
+regulating markets; and iii) Complementary Social Security: Collection of Main Rules.
+Result: Improvement of the relationship between the SPC and society on the basis of discussion of issues
+related to Complementary Social Security; guidance for the users of the complimentary Social Security
+system regarding the application of current legislation; background information for improving MPAS
+strategic planning.
+-   Consultants contracted to carry out a study on acquired rights and contract breaking.
+
+
+
+                                                    - 34 -
+
+Result: Definition of parameters to achieve economic and financial equilibrium of schemes; examining
+concept of progressive upper age limit for retirement; bringing the rights of participants into line with
+Social Security policy.
+-   Consultants contracted to carry out an economic study on the applications of the proposal to modify
+the minimum age requirement in the complementary pension schemes. Result: Improved actuarial results
+of the EFPP; financial health of the complementary Social Security system; bringing legislation into line
+with current Brazilian demographic realities.
+-   Consultants contracted to introduce instruments for restructuring the working methods of the SPC to
+secure maximum advantage from the relevant instruments and to assemble them for easy access in a
+Manual of Procedures.
+Result: Description of the activities in the RH area of the SPC; manuals elaborated; summary description
+model of the new procedures; documentation model; model of the principal stages and deadlines to be
+observed.
+-   Training of 20 SPC officials: MBA in Evaluation of Asset and Investment Portfolios.
+Result : Improved performance by SPC officials who were able to acquire solid knowledge regarding the
+evaluation of risk in investment markets and, as a result of training, were able to research, analyze and
+monitor EFPC financial applications made in Brazil.
+-   Consultants contracted to assist development of the DAIEA - Analytical Presentation of Investments
+and Monitoring of Financial Applications (a system with a database containing investment portfolios
+aimed at endowing the SPC with managerial instruments capable of following up and monitoring
+investments made by the pension funds).
+Result:. Transparency in the administration of pension fund assets; standardization of calculation of the
+rate of return enabling comparisons to the made between profitability and actuarial minimums; setting up
+EFPC investment portfolios; improving the database for formulation of public policies.
+-   Consultants contracted to assist the SPC. to integrate its information system into the information and
+data structure of Closed Complementary Social Security bodies.
+Result: System enhanced.
+-   Procurement of 16 Notebooks, 2 data servers, 4 desktop computers and increasing disk size for NEC
+server.
+Result: To speed up the scrutiny (fiscalização) process, making it possible to access basic fiscal
+enforcement software; improving SPC technical assets; managing/storing files related to all SPC users.
+-   Consultants contracted to provide technical assistance to the Secretariat for Social Security as part
+of a process of modernization and integration of the SPC information system, Closed Complimentary
+Social Security entities and governmental bodies connected with the organization of events relating to the
+application of Complementary Social Security legislation.
+Result: EFPC data updated, made available, stored and monitored.
+
+Socioeconomic outcomes and other social benefits
+
+l Transparency in the execution of INSS funds and measurement of the executive performance of the
+    Executing Management Units through the employment of performance indicators designed to follow up
+    the activities undertaken by the administrative and functional units;
+l Creation of the Information Technology Unit within the ambit of the INSS and MPS together with the
+    standardisation of new information systems developed for supporting the operational activities of the
+    Institution;
+l Creation of social control mechanisms for payment of employer contributions (`contribuições
+    patronais'),with Social Security beneficiaries securing access to the CNIS database via the Internet;
+l Enhanced security and reliability of the data in the Social Security databases, thereby facilitating the
+
+
+
+
+                                                    - 35 -
+
+    creation of mechanisms to provide benefits in a quicker and more reliable manner;
+l Identification of possible fraud by using data cross-referencing in the CNIS database;
+l Priorities established in supporting the legal actions undertaken by the INSS resulting in improving
+    success rates.
+l Dissemination of information about Social Security through publications. The latter cover, for
+    example, the activities undertaken by Social Security in riverine communities and explanations about
+    technical aspects of Social Security legislation.
+
+Major factors affecting implementation and outputs
+
+l Factors outside government control or implementation agency control (positive/negative)
+
+
+-   Positive: The devaluation of the Brazilian currency against the dollar substantially increased the
+resources available for use in the project, thereby favoring the complementarity of the planned activities.
+
+-     Negative: The project was held back by the change of government. The amount of time needed for the
+new managers to adapt and acquire the necessary knowledge caused major delay towards the end of the
+project.
+
+l Factors within Government Control or implementation agency control (positive/negative)
+
+
+-   Positive: The commitment by the top echelons in the Ministry of Social Security was a determining
+factor in the success of the activities undertaken under the aegis of the project. Individuals were nominated
+to be responsible for each of the activities in order to ensure that results were in line with project
+expectations, thereby creating an `accountability mechanism'.
+
+-   Negative: The strategic modification introduced by the Ministry of Social Security in the course of the
+project affected the development of a number of activities, making it necessary to revise and reallocate
+resources within the ambit of the project.
+
+l Factors subject to control of implementation agency
+
+
+-   Positive: By retaining officials responsible for project activities and coordination, the project proceeded
+in a uniform manner and with no drawbacks. The Project Coordination Unit adopted a pari-passu
+follow-up of activities by organizing monthly meetings with those responsible for the activities. At these
+meetings the outcomes were presented to Senior Directors, as a result of which the latter were induced to
+show heightened commitment to the project.
+
+-   Negative: The lack of experience of the Coordination Team caused a number of delays and difficulties
+in complying with the contractual conditions. This situation led to work having to be repeated and to
+adjustments to be made to the project.
+
+l Costs and financing
+
+
+Total costs amounted to US$ 9,722,273.90 (nine million, seven hundred and twenty two thousand , two
+hundred and seventy three dollars and ninety cents) corresponding to 96.74% of the costs of project. Of
+this amount, US$ 4,857,107.83 was financed by the World Bank and US$ 4,865,166.07 from national
+counterpart funds.
+
+
+
+
+                                                      - 36 -
+
+Sustainability (See the Annex at end of this report)
+
+In order to implement the studies, a loan of US$ 94 million was negotiated with the IDB. This loan,
+PROPREV ­ `Programme in Support of the Modernisation of the Management of the Social Security
+System' - targeted the redesign of the working procedures of INSS, the development of new corporate
+systems, training technicians in the new procedures and systems, upgrading Social Security technical/IT
+facilities to access the new systems and updating the Social Security agencies with a view to improving
+services to members of the public. The project is in its fourth year of execution and is currently developing
+the new systems and upgrading the technical facilities based upon the Technical Master Plan developed
+under PROAST.
+
+Bank and Borrower Performance
+
+l Bank performance during preparation
+
+
+The World Bank was an excellent partner for the Ministry of Social Security, both in the elaboration and
+execution of the project. As far as elaboration was concerned, the Bank made an important contribution by
+indicating activities (not planned at the outset) to help ensure the integrity of the project. Furthermore, the
+World Bank contributed to the creation of the Project Coordination Unit within the Social Security
+Ministry. The latter had no experience at the time in executing projects financed with external resources
+and the Bank's intervention made it possible to provide training for technicians in IBRD contracting and
+procurement rules as well as encouraging Financial and Disbursement Management best practice.
+
+l Bank performance during supervision
+
+During execution of the project, the World Bank, through its local representation, afforded every
+support in the area of contracts and procurement as well as supporting the financial management
+of the project. The Bank was always on hand to assist the UCP and the technical divisions of the
+Ministry of Social Security in the elaboration of the TOR, bids, rendering of accounts and to help
+overcome a range of difficulties encountered in complying with contractual conditions.
+
+l Government Implementation Performance
+
+Brazilian government bodies provided all necessary support and demonstrated their commitment
+to the successful implementation of the project by the Ministry of Social Security. It is worth
+highlighting the support given by the Ministry of Planning through SEAIN and that of the Finance
+Ministry through PGFN and COREX.
+
+l Implementing Agency Performance
+
+We consider that the performance of the executing agency was excellent throughout virtually the
+whole project. However, the performance of the Ministry of Social Security fell short of
+expectations in executing one of the activities ­ the procurement of a `Storage Capacity' to
+facilitate CNIS data cross-referencing. The procurement of the server caused the project to be
+postponed two years.
+
+Lessons learned
+
+
+
+                                                      - 37 -
+
+Among the lessons learned during execution of the project the following should be highlighted:
+
+-Lack of an international project "culture" ­ The execution of an activity with a predetermined
+beginning, middle and end is a source of difficulty within the context of the Brazilian public
+administration. The change of culture associated with the execution of activities planned under
+the aegis of the project and requiring adherence to a strict timetable calls for a certain dynamism
+which is not evident in the public service - where bureaucracy and budgetary problems are at the
+root of constant delays.
+
+-The need to make projects well-known internally so that individuals can fully participate ­
+In order to ensure that projects are successful, it is necessary at the outset to undertake an
+ongoing campaign to familiarize people within the institutions with all the relevant issues vis-à-vis
+the projects. Officials working for the institutions involved must know about and show interest in
+what is happening and be fully aware of the changes that will flow from project implementation.
+The parties involved need to feel that they have an important role to play in achieving project
+results, especially those outcomes which concern social matters, and officials need to be in a
+position from which they can make a contribution. It is important to implant the idea that the
+above-mentioned campaign should not be restricted to Project launch. The information flow
+needs to be constant during the course of the entire project in order to provide transparency and
+uniformity.
+
+-Lack of engagement in the areas involved - The lack of participation occurs as a result of
+ignorance of the project, as mentioned in the above paragraph. Participation in the project
+remains confined to those people who are directly involved. This undermines development of the
+project, and is especially onerous for those who are committed to changing the institutional
+culture. Application of the results effectively becomes obligatory, thereby creating resistance to
+the proposed changes.
+
+-The need for the commitment and support of the Administration­ In order to achieve the
+success of the project, it is vital to gain the support and involvement of the Administration. Such
+support helps to make the decision-making process more rapid and efficient. All those involved
+are thus stimulated to work towards obtaining results, basically on account of the need for them
+to present results to the Directors of the Institution. Commitment by the top echelons of the
+Administration ensures that in the case of modifications to the direction of the project or changes
+of government, procedures can be rapidly adapted to the new circumstances.
+
+-The need to adjust procedures - The relevant procedures need to be well-defined and available
+in manuals or other documents easily accessible to all those involved in the project-related
+activities. Such measures ensure that familiarity with the activities underway do not remain solely
+in the hands of particular individuals but are of interest to the Institution as a whole. Well-defined
+procedures guarantee an easy transition in the event of changeovers of managers or other officials
+concerned with the project.
+
+-Better definition of responsibilities­ As with case-flow management, the responsibilities of
+
+
+
+                                                   - 38 -
+
+each of the parties involved in the project must be properly specified. Instruments (decrees/edicts,
+regulations, etc) current within the Institution must be clearly set out in writing so that everyone is
+fully aware of their own responsibilities within the project.
+
+-Better definition of the instruments of control­ The instruments of control must be
+established before the project commences and fine-tuned during the course of its execution. The
+creation of computerized systems for following up the project must be a relevant concern for its
+managers and not simply a mechanism to make the project more effective. The requirement for
+information to be available for all the institutions involved directly or indirectly in the project, such
+as the World Bank and the internal and external control bodies of public entities, calls for reliable
+data to be freely available. However, in spite of the widespread existence in the various organs of
+financial follow-up systems, the majority of projects lack mechanisms to facilitate evaluation of
+the social outcomes. The impact generated by the projects, especially in the area of Brazilian
+Social Security, with its substantial structure and social reach, is extremely difficult to evaluate.
+Results are generally long-term and need to be continuously followed up in order to obtain an
+accurate final evaluation.
+
+-Improved document management ­ The project documents need to be stored in an organized
+and easily accessible way. The is a constant need for `closed documents' and case data to be
+consulted, whether for audits or for researching progress of the project.
+
+-Improved elaboration of terms of reference­ The Term of Reference is the basic document for
+effecting contracts and procurements within the project. Poorly drawn up terms will inevitably
+result in badly-drafted contracts. It is important for the project to have within its team (or to be in
+a position to contract) specialist consultants to draw up such documents in accordance with
+World Bank rules, particularly in order to avoid future problems with bidding exercises, given that
+errors made in the documentation can lead to the cancellation of the latter.
+
+Partner Comments
+
+We regard the project as a model to be followed both by the Brazilian Government and by IBRD,
+given that the commitment shown by both parties to its success was out of the ordinary. The
+close interest shown in the project by the senior administration of the Ministry of Social Security
+made it possible to elaborate high-quality products in which we were able to identify outcomes
+that were reflected in improvements in the quality of services provided for members of the public.
+We find the `quality' aspect difficult to measure, since any improvement in the quality of services
+provided for the public are basically the sum total of the activities undertaken directly by the
+organization and those developed by the project. A good example of this is the advantage to
+society as a whole of being able to access the CNIS to effect individual control of social security
+contributions collected by companies.
+
+The Ministry of Social Security received the unconditional support of the World Bank, which
+made it possible to execute 93.5 8% of the project within a period of three years, in accordance
+with the original plan.
+
+
+
+
+                                                  - 39 -
+
+- 40 -
+

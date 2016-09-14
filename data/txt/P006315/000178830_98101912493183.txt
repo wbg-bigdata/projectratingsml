@@ -1,0 +1,2637 @@
+Document of
+The World Bank
+FOR OFFICIAL USE ONLY                                    y
+Report No. 291lb-BR
+STAFF APPRAISAL REPORT
+BRAZIL
+ELECTRIC POWER SYSTEM COORDINATION PROJECT
+(SINSC)
+December 2, 1980
+Projects Department
+Latin America and the Caribbean Regional Office
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+As of 6/30/79 1/
+Currency Unit                  =      Brazilian Cruzeiro (Cr$)
+Cr$1.00   100 centavos         =      US$0.0400
+US$1.00                        =      Cr$25.00
+ABBREVIATIONS AND ACRONYMS
+AGC            =    Automatic Generation Control
+BNDE           =    Banco Nacional de Desenvolvimento Economico
+CIEEB          =    Companhia Auxiliar de Empresas Eletricas Brasileiras
+CBEE           =    Companhia Brasileira de Energia Eletrica
+cCOI           =    Comite Coordenador de Operacao Interligada
+CCON           =    Comite Coordenador de Operacao do Nordeste
+CEB            =    Companhia de Eletricidade de Brasilia
+CEEE           =    Companhia Estadual de Energia Eletrica
+CELESC               Centrais Eletricas de Santa Catarina
+CELG           =    Centrais Eletricas de Goias S.A.
+CELPE          =    Companhia de Eletricidade de Pernambuco
+CEMAT          =    Centrais Eletricas Matogrossenses S.A.
+CEMIG          =    Centrais Eletricas de Minas Gerais S.A.
+CEPEL                Centro de Pesquisa de Eletricidade
+CESP           =    Companhia Energetica de Sao Paulo S.A.
+CHESF          =    Companhia Hidro Eletrica do Sao Francisco
+COC            =    Comissao de Coordenacao
+COELBA         =    Companhia de Eletricidade do Estado da Bahia
+COELCE         =    Companhia de Eletricidade do Ceara
+COIMP          =    Comite de Implantacao
+COPEL                Companhia Paranaense de Energia
+COS            =    Centro de Operacao de Sistema
+CPFL           =    Companhia Paulista de Forca e Luz
+CSC            =    Centro de Supervisao e Coordenacao
+DACS           =    Data Acquisition and Control System
+DNAEE           =    Departamento Nacional de Aguas e Energia Eletrica
+ELETROBRAS     =    Centrais Eletricas Brasileiras S.A.
+ELETRONORTE    =    Centrais Eletricas do Norte do Brasil S.A.
+ELETROSUL      =    Centrais Eletricas do Sul do Brasil S.A.
+EM             =    Energy Management
+ESCELSA        =    Espirito Santo Centrais Eletricas S.A.
+FURNAS         =    Furnas Centrais Eletricas S.A.
+GCOI           =    Grupo Coordenador para Operacao Interligada
+GERP           =    Gerencia do Projeto
+GGF            =    Global Guarantee Fund
+GPE            =    Grupo de Projeto Especifico
+IDB            =    Inter American Development Bank
+LIGHT          =    LIGHT-Servicos de Eletricidade S.A.
+OPE            =    Orcamento Pluriannual de Eletricidade
+1/   The Brazilian Government follows a policy of frequent exchange rate
+adjustment. Dollar equivalent figures in this report are based on the
+June 1979 rate unless otherwise indicated.
+
+
+
+FOR OFFICIAL USE ONLY
+Abbreviations and Acronyms (Cont'd)
+RTSS           =    Real-Time Supervision System
+SCADA               Supervisory Control and Data Acquisition
+SINSC          =    Sistema Nacional de Supervisao e Coordinacao da
+Operacao Interligada
+SSC            =    Secretaria de Supervisao e Coordinacao
+UPS            =    Uninterruptible Power Supply
+UNITS AND MEASURES
+kW             =    Kilowatt = 103 watt
+MW             =    Megawatt (103 kW)
+kWh            =    Kilowatt hour = 103 watt hour
+GWh            =    Gigawatt hour (106 kWh)
+TWh            =    1000 Gigawatt hour = 109 kWh
+kV             =    Kilovolt (103 volts)
+kVA            =    Kilovolt - ampere
+MVA            =    Megavolt - ampere (103 kVA)
+km                  Kilometer (0.6214 mile)
+average MW          annual MWh/8760h
+FISCAL YEAR
+January 1 to December 31
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+
+
+
+BRAZIL
+STAFF APPRAISAL REPORT
+ELECTRIC  POWER  SYSTaL  COORDINATION  PROJECT
+(SINSC)
+Table of Contents
+Page No.
+1.    THE  ENERGY AND  POWER  SECTORS
+A.   Energy Supply and Demand ..... ...............                                             1
+Energy Demand ............. .                                                           1
+Energy  Supply  .................................... 0 ...............                   I
+-   Oil  ...........             .....................................                   I
+-   Coal         .............................1.................. 
+- Hydro                 ................................                                 2
+-   Nuclear  ........ .............................................                      2
+-   Other  Energy  Sources  ...............................                              2
+B.     The  Power  Sector  ......................................                               3
+Bank Participation  in  the  Power  Sector  ................                             3
+Organization  of  the Power  Sector  ......................                             3
+Electricity  Tariffs  ...................................                               4
+Existing Facilities .......                                                              7
+Electric  Energy  Consumption  ...........................                               7
+Access  to  Service  and Rural  Electrification                     ............         7
+Sector  Development  . .................................. .                             8
+Sector Expansion Program  ..............................                                8
+2.     THE  BORROWER AND  THE  BENEFICIARY
+The Borrower               ........................... .................                       10
+Coordination  of  Operations  of  Electric  Power  Facilities  ....                            11
+The Beneficiary  ........... .. .   .............         ... . .................              13
+Companhia Hidro  Eletrica  do  Sao  Francisco  (CHESF)  ..........                             13
+Organization            ........................            .......................            13
+Management  System  .................. .........................                               14
+Bank  Involvement           .............           ..............................             14
+CHESF's Power Market  .....................    ..................                              14
+Participation  in  Interconnected  Operation  ..................                               15
+This report is based on the findings of an appraisal mission consisting of
+Messrs. Philip Owusu and Helmut Wieseman which visited Brazil in September/
+October  1979  and  a  supplemental  visit  by Mr.  Philip  Owusu  in November/
+December 1979.
+
+
+
+Table of contents (Continued)
+Page No.
+3.   THE PROGRAM AND THE PROJECT
+The Program for a National System for Supervision and
+Control of Interconnected Operations ....................   .    16
+Project Selection and Content ..............................    17
+Project Cost  .... ......... -                       .*...  ..    19
+Amount of Loan  ............I........... .... ..................    21
+Project Implementation .. - ..... ....   .... . .  ....... ........    21
+Procurement ....... o      ........................................    231
+Retroactive Financing ......       ....................... .........    24
+Disbursement .o...........................................    24
+Environment . ......................... ............. .   ....    25
+Project Risks ...... .......................... . ............    25
+4.   ECONOMIC ANALYSIS
+Introduction               ..................--............        26
+Least Cost Solution ............. .  -......... --.........    26
+Economic Benefits ...o  ....................           .. ...    27
+5.   FINANCIAL ANALYSIS
+Introduction .....................     ........... ....    ..    28
+ELETROBRAS ................. . .............................       28
+CHESF                           .... 30
+6.   AGREEMENTS REACHED AND RECOMMENDATIONS
+Recommendation .... --        ....... ........  ..............    32
+LIST OF ANNEXES
+Annex 2.1  -  Eletrobras Organization Chart ....       ............   33
+Annex 2.2  -  CHESF Organization Chart ............     o.......   34
+Annex 3.1  -  Control Areas of the Brazil Interconnected
+Power System. .......   o............              35
+Annex 3.2  -  Technical Project Details ................    .     .    36
+Annex 3.3  -  Summary Project Cost Estimate ..... o   ..........   39
+Annex 3.4  -  Detailed Project Cost Estimate and Disbursement
+Schedule, ELETROBRAS Subproject .-       .........   40
+Annex 3.5  -  Detailed Project Cost and Disbursement Schedule
+of CHESF Subproject ................... . . ....   41
+Annex 3.6  -  Implementation Schedule of ELETROBRAS Subproject  42
+Annex 3.7  -  CHESF Implementation Schedule .... o ..........    43
+Annex 3.8  -  Configuration of SINSC .....            ............    44
+
+
+
+- iii -
+Table of contents (Continued)
+Page No.
+Annex 5.1  - ELETROBRAS Financial Indicators 1976-1986 ....     45
+Annex 5.2  - ELETROBRAS Sources and Uses of Funds 1979-86 .     46
+Annex 5.3 - ELETROBRAS Actual and Forecast Income Statements
+1976-1986 .........................             47
+Annex 5.4 - ELETROBRAS Balance Sheets 1976-86 .... ........     48
+Annex 5.5 - CHESF Financial Indicators ...................      49
+Annex 5.6 - CHESF Sources and Application of Funds .......      50
+Annex 5.7  - CHESF Income Statement 1976-86 ....    ...........  51
+Annex 5.8  - CHESF Forecast Cost of Service ....    ...........  52
+Annex 5.9  - CHESF Balance Sheets 1976-86 ..0    ..............  53
+EXHIBIT A
+Selected Documents and Data Available in the Project File.      54
+
+
+
+
+
+
+BRAZIL
+STAFF APPRAISAL REPORT
+ELECTRIC POWER SYSTEM COORDINATION PROJECT
+1. THE ENERGY AMD POWER SECTORS
+A. Energy Supply and Demand
+Energy Demand
+1.01       The estimated total gross consumption of energy in Brazil in 1979
+was 116.5 million T.o.e. (0.97 T.o.e. per capita, compared to about 0.89
+T.o.e. per capita for Costa Rica and 1.6 T.o.e. for Mexico)l/ and it is
+expected to grow at about 6% per annum in the next 5 years, reaching about
+1.19 T.o.e. per capita in 1985. Oil products account for about 42% of the
+national energy consumption, mineral coal, wood products and wastes 32% and
+hydroelectricity 26%. In 1979, generation of electric energy from all primary
+sources is estimated to have been 122,000 GWh; its annual rate of growth since
+1974 has been 12% with per capita consumption growing from 550 kWh in 1974 to
+1,000 kWkh in 1979.
+Energy Supply
+Oil
+1.02       Brazil's proven oil reserves are limited.  Present domestic produc-
+tion of crude covers only 15% of the country's requirements and is concen-
+trated in the Northeastern region. To increase domestic production, Government
+accelerated exploration in 1977 by granting risk type contracts to private
+firms, ending government monopoly in this field. Petroleum's share of the
+energy supply has been reduced somewhat by hydroelectricity under the vast
+program of construction of hydro plants. However, a decrease in use of
+traditional sources, especially wood, coupled with the growth in overall
+demand, could produce a supply gap. Unless satisfactory results are obtained
+in the oil exploration program, this gap may need to be covered through
+increased petroleum imports. 2/ In order to reduce the foreseen gap, Govern-
+ment is inducing the use of other energy sources, through fiscal incentives
+for the production of fuel alcohol and exploitation of coal.
+Coal
+1.03       Total coal reserves are estimated at 15.8 billion tons, and most
+of it is located in the Southern region, primarily in the states of
+1/   T.o.e.:  tons of oil equivalent, approximately 10  kcal.  Data source:
+Balance Energetico Macional, 1978 (Ministry of Mines and Energy).
+2/   Government projections to 1987 show an average yearly growth of about
+4% in petroleum imports with a decrease of about 12% (from 42% to 34%) in
+its proportion of total energy utilization--Balance Energetico Nacional,
+1978 (Ministry of Mines and Energy).
+
+
+
+Santa Catarina and Rio Grande do Sul. Coal represents about 4% of the
+country's energy supply. In addition to construction of coal-fired thermal
+plants, Government is also encouraging substitution of coal for other fuels
+in industrial boilers; the cement industry is particularly suitable in this
+fuel substitution and some of these plants are currently being converted--coal
+ashes are also an important ingredient in cement. Through the incentives for
+higher use of coal, Government expects a 50% increase by 1987 of coal's share
+in the energy supply.
+Hydro
+1.04      Brazil has vast water resources with a potential for hydroelectric
+development estimated at about 200,000 MW, of which only about 24,100 MW have
+been utilized. An additional 38,600 MW are scheduled to be in operation by
+1990. Many watersheds could be developed economically but they are relatively
+remote from the demand centers. When there are differences in regional hydro-
+logical regimes in a country, electrical interconnections result in a reduction
+in installed capacity and reduced use of fossil fuels for power generation.
+This diversity exists between the Southern and Southeastern regions and a high
+voltage interconnection is under construction and being financed with Loan
+1343-BR to ELETROSUL. Other electrical interconnections are being considered
+by sector authorities leading towards a least cost intraregional program. The
+recent loan to ELETROSUL (Loan 1895-BR) will finance further expansion of
+eletrical interconnections in the South.
+Nuclear
+1.05      About 3,000 MW of nuclear generating capacity is scheduled for
+1985 operation in the Southeastern region, the largest demand center in the
+country. The first unit of 625 MW, supplied by Westinghouse (USA), is ex-
+pected to operate in 1981. The Brazil-Federal Republic of Germany agreement
+of June 27, 1975 provides for the supply of an additional 2,400 MW in nuclear
+plants and a Brazilian option for six additional 1,200 MW units.
+Other Energy Sources
+1.06      With respect to other energy sources firewood, charcoal and sugar-
+cane bagasse are also used but not for electricity production for public
+service. Firewood is used only in some small industries and for cooking in
+rural and some urban low income households. Charcoal is also used for cooking
+and in blast furnaces. Bagasse is burned to produce steam in sugar milling
+and in the distillation of alcohol. These fuels represent about a quarter of
+Brazil's energy utilization and would probably not increase. Other sources
+known to exist in Brazil include natural gas, with small reserves in North-
+eastern fields for local supply. There are few sites for tidal energy devel-
+opment, and geothermal fields have not yet been discovered. Brazil has been
+active in exploring alternative energy sources; the largest endeavor is the
+use of alcohol as fuel in internal combustion engines. In the power sector,
+tests are being conducted on wind-driven generators.
+
+
+
+- 3 -
+B. The Power Sector
+Bank Participation in the Power Sector
+1.07      Since 1948 the Bank has made 34 loans to the Brazilian power sector
+amounting to about US$1.6 billion. Most have been for hydroelectric plants
+and associated transmission facilities in the Southeastern and Southern regions.
+Bank participation has contributed to sector organization and planning and
+facilitated foreign commercial financing of the sector. The Bank also assisted
+the Government in its effort to implement a tariff policy which has enabled
+the sector to contribute a considerable proportion of the funds required for
+sector investments. Project performance audit reports on power-plant 1/ and
+distribution-system 2/ projects have been distributed to the Executive Direc-
+tors. These reports conclude that, despite construction delays and cost
+overruns, the projects were substantially successful. The latest report
+points to the recent inadequacy of tariffs.
+1.08      The most recent loans have been for transmission and distribution
+projects: Loan 1895-BR of October 1980 to ELETROSUL to finance development
+of its high voltage transmission system; Loan 1824-BR of April 1980 to
+Companhia Estadual de Energia Eletrica (CEEE), to finance the expansion of
+its subtransmission and distribution system; Loan 1721-BR to COPEL to finance
+its 1980-83 distribution expansion program, May 1979; Loan 1538-BR to ELETROBRAS
+for the system expansion programs of three state-owned utilities in the South-
+eastern and southern regions, May 1978; Loan 1343-BR to ELETROSUL for its
+high voltage transmission expansion program, February 1977; Loan 1300-BR to
+ELETROBRAS to finance part of the 1976-79 transmission and distribution expan-
+sion programs of three northeastern utilities, August 1976; and Loan 1257-BR
+to COPEL for its 1976-79 distribution expansion program, May 1976.
+Organization of the Power Sector
+1.09      Though complex and one of the largest in the world, the electric
+sector is well organized and the applicable policies have generally been well
+formulated and applied. Decree 68,204 of June 7, 1967 established the current
+sector organization under which the Departmento Nacional de Aguas e Energia
+Eletrica (DNAEE) performs regulatory functions, grants licenses for generating
+plants, assigns concessions, sets tariffs (after approval by the Ministry of
+Planning) and approves expansion plans. Centrais Eletricas Brasileiras
+(ELETROBRAS), a utility holding company, administers public funds for use by
+its subsidiaries and state-owned utilities, coordinates external borrowings,
+expansion plans for major generating and transmission facilities, and coordi-
+nates the operation of the interconnected electric power system in the country.
+1/   Loan 404-BR (Sec. M 77-532 of June 28, 1977); Loans 442-BR and 566-BR
+(Sec. M 78-34 of January 13, 1978); and Loan 728-BR (Sec. M 79-756 of
+October 23, 1979).
+2/   Loans 475/476/477 and 478-BR (Sec. M 75-646 of September 4, 1975).
+
+
+
+- 4 -
+1.10      The five geographical regions are served by ELETROBRAS' subsidiaries
+(bulk suppliers), in conjunction with state-owned utilities (principally in
+distribution) as follows: Centrais Eletricas do Norte do Brasil (ELETRONORTE)
+for the North and part of the Central-West; Companhia Hidro Eletrica do Sao
+Francisco (CHESF) for the Northeast; Furnas-Centrais Eletricas (FURNAS) for
+the Southeast and part of the Central-West; and Centrais Eletricas do Sul do
+Brasil (ELETROSUL) for the South. A joint Brazil-Paraguay authority (Itaipu
+Binacional) has responsibility for the Itaipu Hydroelectric project under
+construction on the Parana River where it defines the border between the two
+countries. In January 1979, the Federal Government, through ELETROBRAS,
+acquired from Brascan Ltd. of Canada about 83% ownership of LIGHT - Servicos
+de Eletricidade S.A. (LIGHT), the electric power distribution company serving
+the cities of Rio de Janeiro and Sao Paulo.
+1.11      Government guidelines contained in the 1967 decree (para. 1.09)
+promote concentration of public electricity services in the individual states
+into single state-owned utilities. The resulting action produced mergers and
+acquisitions by the major state-owned companies of most municipal and privately
+owned utilities. The main existing state-owned utilities, ranked by value of
+assets, are: Centrais Eletricas de Sao Paulo (CESP); Centrais Eletricas de
+Minas Gerais (CEMIG); Companhia Paranaense de Energia Eletrica (COPEL);
+Companhia Estadual de Energia Eletrica (CEEE) - Rio Grande do Sul; Centrais
+Eletricas de Santa Catarina (CELESC); Companhia de Eletricidade do Estado da
+Eahia (COELBA); Companhia de Eletricidade de Pernambuco (CELPE); and Companhia
+de Eletricidade do Ceara (COELCE). All these utilities have been borrowers or
+beneficiaries under past Bank loans.
+Electricity Tariffs
+1.12      Consumer bills contain the following charges:
+A.   The tariff, which on a nationwide basis, provides about 78% of
+revenues collected from consumers. According to the current legis-
+lation, these charges should be set at levels to cover:
+(a) operation, maintenance and administrative expenses;
+(b) taxes other than for income (mainly property taxes);
+(c) straight line depreciation of average gross revalued fixed
+assets in operation;
+(d)  reversion (federal tax of up to 5% of assets in operation) to
+fund loans to concessionaires for facility expansion, compensa-
+tion of private utilities for acquisition of their assets, and
+the Global Guarantee Fund--a tariff equalization facility; and
+(e) a legal return (normally between 10 and 12%) on remunerable
+investment (net average plant in service plus an allowance for
+working capital).
+B.   The sole tax on residential, commercial and small industrial 1/
+consumer bills, which provides about 12% of sector revenues. Forty
+1/   Industries using less than 2,000 kWh per month.
+
+
+
+- 5 -
+percent (40%) from this source goes to federal sector agencies,
+fifty percent (50%) to state and federal district utilities, and
+ten percent (10%) to municipal utilities; and
+C.   The Compulsory Loan (10% of revenues), an obligatory investment
+scheme under which industrial consumers using more than 2,000 kWh
+per month acquire ELETROBRAS bonds (20-year maturity yielding 6%
+annual interest and revalued through monetary adjustments).
+Since 1966, annual revaluation of assets used as a basis to determine remu-
+nerable investment, is mandatory. Currently, assets are adjusted monthly
+for monetary correction in accordance with changes in the ORTN index (the
+monetary correction index applied to Government bonds). In the past, this
+index was computed on the basis of past inflation and, though generally
+lagging slightly behind inflation, movements in the ORTN index roughly
+corresponded to general price movements. Since 1977, however, the cumulative
+ORTN adjustment has only been 55% of inflation as the Government has been
+limiting ORTN corrections as part of a strategy to combat inflation. 1/
+As a result, there has been an erosion of the asset base on which the sector's
+remuneration is calculated. The Government has recently announced that its
+policy to limit ORTN corrections to arbitrary ceilings would be discontinued,
+and that beginning in 1981 ORTN would be adjusted so as to follow closely
+the movement of the national consumer price index. This should result in
+more realistic asset revaluation in the future. The Bank is carrying on a
+close dialogue with the Government on this issue.
+1.13      In 1973 DNAEE initiated application of a policy to reduce regional
+tariff inequalities in order to promote a more balanced economic development.
+By 1976, with minor exceptions, average tariff levels had been equalized. The
+Global Guarantee Fund (GGF) is used in the tariff equalization process to
+supplement earnings of eligible utilities, allowing them to obtain a return
+on remunerable assets of up to 10%. The GGF is financed through a surcharge
+of up to 2% on assets in operation of all the utilities. DNAEE has used its
+control over the GGF to encourage improved performance by participating
+utilities. To be eligible for transfers from the Fund, utilities are required
+to: (i) have earned less than the legal minimum 10% return on remunerable
+investment; (ii) to have a valid agreement with the government of the state
+in which they operate for the payment of all bills in arrears by the state
+government agencies; and (iii) when owned by the federal, state or municipal
+governments, and these have assumed a legal obligation to reinvest their
+dividends into the utility, to have had all such dividends reinvested.
+1.14      The absence of adequate tariff increases over the past four years,
+due mainly to Government's measures to curb inflation, has led to erosion of
+sector revenues, causing utilities to rely on increasingly costly borrowings
+to finance the sector's massive investment program. A recent (1979) study
+completed by ELETROBRAS and DNAEE showed that the sector would face serious
+financial difficulties if Government fails to raise tariffs to allow utilities
+to earn the minimum 10% return on remunerable investment as provided for in
+sector legislation. Following several Bank representations to Government on
+this matter, tariffs were raised by 55% on December 1, 1979, after two other
+1/   1980 inflation is estimated at 100% while the ORTN correction will be
+only 50%.
+
+
+
+increases in the same year of 37% and 12%, respectively.  In spite of these
+increases, the sector's remuneration in 1979 has been estimated by DNAEE at
+8.3% 1/. By mid-November, tariffs had been increased by a further 16% in
+May and 20% in August. The Bank has obtained assurances from Government
+that it will: (i) allow utilities that are Bank borrowers to recover, during
+the period 1981-1983, any shortfall in remuneration incurred before 1980 and
+further that shortfalls would be revalued i.e. maintained in real terms; and
+(ii) allow these utilities to earn the 10% return in 1980 and, in case this
+intent is not entirely met recover any shortfall in that year in the next three
+years. Current (mid-November) estimates indicate that sector remuneration in
+1980 will be about 6.2%, based on currently used revaluation methods and
+official estimates of increases in the national treasury-bond index (ORTN) for
+the rest of the year.  Sector tariff policy for 1981 and beyond is currently
+being discussed with Government in connection with power projects now being
+prepared.
+1.15      Under previous loans, the utilities involved were required to
+maintain their revenues, including transfers from the GGF, at levels consis-
+tent with sound financial practice and in conformance with sector legislation.
+Under existing agreements with the Bank, Government confirmed the Bank's
+understanding that the utilities' revenues should cover the cost of providing
+electricity service and that their return on remunerable investment not be
+lower than 10%. Utilities' revenues have deteriorated in the last four years
+mainly due to inadequate tariff increases and after DNAEE: (i) redefined
+"remunerable investment," effectively lowering the rate base; (ii) disapproved
+some operating expenses; and (iii) used more liberally a Compensation Account,
+which has the effect of deferring to future years revenues needed to cover
+current expenses. In relation to the recent loan to CEEE, Government agreed
+to (i) require DNAEE to allow the concessionaires a reasonable period to
+reduce their operating costs whenever DNAEE proposes not to recognize such
+costs in connection with tariff setting; (ii) require DNAEE to exchange views
+with the Bank on the foregoing and to inform the Bank of any changes in the
+criteria used to determine the acceptability of concessionaires service costs;
+and (iii) require DNAEE to inform the Bank within 30 days of any decision on
+the levels of electricity rates to be allowed to concessionaires. With
+respect to operating expenses, DNAEE agreed in connection with the CEEE loan,
+to complete sector efficiency investment study by June 30, 1981. This study
+would contain recommendations on the basis to be used by DNAEE in assessing
+expenses.
+1.16      As is usual with loans to Brazilian power utilities the beneficiary
+of the loan, Companhia Hidro Eletrica do Sao Francisco (CHESF), agreed to
+maintain its earnings (including transfers from the GGF) at levels consistent
+with sound financial public utility practices and in accordance with existing
+legislation. CHESF also agreed to maintain its eligibility under norms
+prescribed by DNAEE in the event it requires transfers from the GGF. The
+Government confirmed the usual understanding that DNAEE would allow CHESF a
+rate of return on remunerable assets not less than 10 percent. The Government
+confirmed, also, that beginning in 1981 no part of the 10% return would be
+deferred to future years.
+1/   Information for some companies has not yet been supplied to DNAEE.
+
+
+
+- 7 -
+1.17      Before 1976, sector legislation enabled most of the Brazilian
+utilities to attain a reasonable return on invested capital and allowed
+them to finance a considerable share of sector investments. Present tariffs
+also contain generally appropriate features such as separate demand and energy
+rates for ind-.trial and commercial consumers, discounts to encourage large
+industrial consumers to accept supply at higher voltages, and life-line rates
+for rural and minimum residential consumption. However, the tariffs do not
+provide for differentiation between peak and off-peak rates, and the equaliza-
+tion feature warrants reassessment. UTnder provisions of Loan 1300-BR, DNAEE,
+with the assistance of Electricite de France, completed in March 1979 a study
+of bulk supply tariffs based on marginal costs. The principal conclusions
+drawn from the study were: (i) tariffs are below marginal costs; (ii) incor-
+poration in the tariff of components reflecting variations in seasonal and
+daily demands has economic merit; (iii) tariff structure needs modifications,
+particularly with respect to energy (kWh) and capacity (kW) charges--the
+former's proportion should be higher; and (iv) additional studies should be
+made on generation, transmission, and distribution system costs, customer
+demand characteristics, and application of marginal pricing for bulk supply.
+Terms of reference for the recommended additional studies have been prepared
+by DNAEE and approved by the Bank; work on the studies has already started.
+The foreign expenditures associated with these studies would be financed by
+the proposed loan. A power sector memorandum, currently under preparation
+will discuss progress on these recommendations in detail.
+Existing Facilities
+1.18      By the end of 1979 the power sector had about 28,400 MW of installed
+generating capacity of which about 85% was in hydroelectric stations and the
+remainder in thermal plants (one-third in oil-fired steam units, about 15% in
+coal-fired units and the remainder in diesel internal combustion and gas
+turbine units). The high voltage transmission system contains about 34,000
+circuit-km at voltages ranging from 230 to 500 kV.
+Electric Energy Consumption
+1.19      The consumption of electric power and other energy resources in
+Brazil is closely linked with economic activity. The southern and southeastern
+regions, where most of the country's agricultural and industrial production
+takes place, used in 1979 about 80% of all primary energy. The southeastern
+region, with 42% of Brazil's population accounted for about 71% of the total
+electric energy utilized in the country in 1979. The southern region, with
+18% of the population utilized 12%. In the last five years, electricity
+generation in the southeastern and southern regions grew at 11% p.a. and
+15% p.a. respectively.
+Access to Service and Rural Electrification
+1.20      About 80% of Brazil's urban population is receiving electricity
+service.  However, the number of people receiving this service in the rural
+areas, where about 40% of the population lives, is very low. Government is
+promoting expansion of subtransmission and distribution facilities to provide
+electricity service to a higher proportion of the population, particularly in
+rural areas.
+
+
+
+- 8 -
+1.21      Rural electrification on a national level was started in 1970 when
+the Instituto Nacional de Colonizacao e Reforma Agraria, a self-governing
+agency attached to the Ministry of Agriculture, was made responsible for the
+planning, promotion and control of rural electrification through consumer
+cooperatives. Progress, however, was slow (4 to 5 thousand customers/year)
+and in 1974, ELETROBRAS created a rural electrification department to comple-
+ment the Ministry of Agriculture's activities. ELETROBRAS' approach to rural
+electrification has been that of financing distribution networks in rural
+areas close to existing lines. It does not finance household wiring or con-
+nection fees. ELETROBRAS finances 50 to 80% of the cost of individual rural
+electrification projects at an interest rate of 12% (principal not subject
+to monetary correction) with 15 years maturity including a grace period of 5
+years. This results in a large subsidy given inflation rates much in excess
+of the interest rate charged. The remaining cost is borne by utilities or by
+other consumers. The Ministry of Agriculture's program (which has been
+assisted by two Inter-American Development Bank (IDB) operations totalling
+US$84.4 million, including US$68.7 million of funds provided on concessionary
+terms) grants similar terms to participating rural electrification cooperatives.
+1.22      About 43,000 rural cooperatives, individual households and other
+customers (about 200,000 people) were connected in 1978 through ELETROBRAS-
+assisted programs at a total cost of about US$100 million. Of these new
+customers, about 44% were located in Southeastern region and 43% in the South.
+Over the period 1979-1981 ELETROBRAS expects to participate in projects
+estimated at about US$570 million, and provide service to about 160,000 new
+rural connections (45% in the Southeast, 32% in the South, 3% in the Central-
+West, 19% in the Northeast and 1% in the North), thereby providing service to
+about 800,000 people.
+Sector Development
+1.23      No constraints have been observed in sector organization that
+could adversely affect continued sector development. The high level of
+investment required in the sector (about 9% of the country's gross domestic
+capital formation) and the Government's present policy of limiting public
+sector investments as part of the program to control inflation may, on the
+other hand, affect future sector investment programs. In connection with Loan
+1538-BR, ELETROBRAS agreed to prepare by the end of 1979 a long term plan for
+the expansion of the Brazilian power sector up to the year 2000. This plan
+was to be based on an integrated perspective of the country's long term power
+requirements and was to give due consideration to economy and efficiency.
+ELETROBRAS has now prepared a plan ("Plano '95") specifying the plant to be
+installed up to 1995. Bank staff has reviewed the plan and concluded that it
+does not appear to meet the objectives envisaged by the Bank. The Bank is
+continuing the dialog with the Brazilians on the matter. The national electric
+power supervision and control system, of which the proposed project is a part,
+is expected to provide a data base which can be used to enhance power system
+planning. ELETROBRAS has agreed to (i) continue to improve the methodology
+it uses in its planning efforts; (ii) complement the "Plano '95" with analyses
+of alternative development sequences by the end of 1981; and (iii) continue to
+exchange views with the Bank on this subject.
+
+
+
+-9-
+Sector Expansion Program
+1.24      The Brazilian power sector expansion program during the project's
+execution is based on the "Plano '95" referred to in the preceding paragraph.
+"Plano '95" assumed that during the 1980-1985 execution period of the project,
+electricity demand will continue to grow at about the 12.4 percent annual
+growth rate achieved during the past five years, which is reasonable. To
+meet this demand forecast during the project period, the plan envisages the
+addition of the following principal electric power facilities during 1980-85:
+about 19,400 MW of hydropower plant, 625 MW of nuclear power plant, and about
+600 MW of other thermal plant at an estimated cost for additional generation
+of about US$19.7 billion equivalent (in constant June 1979 prices); and
+Extra-High-Voltage Direct Current (EHV-DC) transmission system of two + 600 kV
+lines from Itaipu parallel with a 750 kV EHV/Alternating Current (EHV-AC)
+transmission system to the Sao Paulo area; expansion of the existing trans-
+mission networks at 230 kV and above at an estimated cost for additional
+transmission of about US$10.3 billion equivalent (in constant June 1979
+prices); and distribution expansion amounting to US$5.3 billion equivalent
+(in constant June 1979 prices). Due to the sector investment ceiling imposed
+by the Secretaria de Planejamento in 1980 (para 1.23), and the possibility
+that similar ceilings will be imposed in the future, it is likely that the
+investment targets set by "Plano '95" will not be met, particularly in the
+areas of transmission and distribution. This topic will be discussed in
+the power sector memorandum currently being prepared.
+
+
+
+- 10 -
+2. THE BORROWER AND THE BENEFICIARIES
+The Borrower
+2.01      The Borrower would be Centrais Eletricas Brasileiras SA - ELETROBRAS,
+an autonomous Government institution created by Law No. 3890-A of April 1961.
+Of the subscribed capital of ELETROBRAS at December 31, 1978 amounting to
+Cr$ 35.8 billion about 99.7% was owned by the Brazilian federal government and
+the remaining 0.3% was owned by state and municipal governments and by private
+shareholders. ELETROBRAS operates under the jurisdiction of the Ministry of
+Mines and Energy. The main functions performed by ELETROBRAS are:
+(a) as a holding company exercising ownership on behalf of the
+Federal Government in those utilities in which the Government
+has invested;
+(b) as a financial institution administering and allocating funds
+to assist the expansion of its subsidiaries and state and
+municipally owned utilities; and
+(c) as a planning and coordinating agency assisting the Ministry
+of Mines and Energy to plan and execute the development of
+the power sector, coordinate the operation of generating and
+transmission facilities, provide research, and, supply techni-
+cal, managerial and training services.
+2.02      This will be the third Bank loan made directly to ELETROBRAS.
+The first two, Loans 1300-BR and 1538-BR, were made in 1976 and 1978 to be
+on-lent to state owned utilities in the Northeast and Southeast to assist
+their distribution expansion programs.
+2.03.     ELETROBRAS is administered by an Administrative Council, which sets
+policy and an Executive Board of Directors which manages its operations. The
+Administrative Council consists of the President of ELETROBRAS, who acts as
+its Chairman, the five members of the Executive Board of Directors, two to
+four members elected for three year periods representing the Government, one
+member representing the state and municipal government stock holders, and, one
+member representing private stockholders. The Executive Board of Directors
+consists of the President of ELETROBRAS as chairman and five directors, each
+of whom serves as the executive head of a functional department in the company.
+In addition there is a five member Fiscal Council, elected annually by the
+stockholders, which is charged with the responsibility for reviewing its
+financial affairs. ELETROBRAS has built up a competent organization. It is
+well run and its organizational structure (Annex 2-1) is well suited to its
+needs. ELETROBRAS financial accounts have been audited satisfactorily by the
+Brazilian firm of Boucinhas, Campos & Claro Ltda. ELETROBRAS agreed to
+
+
+
+- 11 -
+have its accounts audited by external auditors satisfactory to the Bank and
+submit audited financial statements to the Bank not later than four months
+after the end of each fiscal year.
+2.04      ELETROBRAS is the principal financing institution for the Brazilian
+power sector. It is the major shareholder in the four regional bulk supply
+companies (para. 1.10). ELETROBRAS also owns majority shares in two other
+power distribution utilities and minority participation in 27 other associated
+companies in the power sector. ELETROBRAS plays a role akin to a development
+bank in Brazil's power sector. In addition to its equity participation in
+the subsidiaries and associated companies, it channels funds to the various
+utilities through loans and grants. Through its financial leverage ELETROBRAS
+has been successful in improving the financial and technical efficiencies of
+the utilities.
+2.05      ELETROBRAS is responsible for carrying out the policies estab-
+lished by the Ministry of Mines and Energy for the development of the sector.
+ELETROBRAS, on the basis of proposals from the utilities, prepares multi-annual
+budgets (Orcamento Plurianual do Setor de Energia Eletrica - OPE) which serve
+as the principal planning document for the power sector. The OPE, which
+covers a period of 5 years, contains a market study, detailed regional and
+utility-specific investments necessary to satisfy this market and the corres-
+ponding financial forecasts. The OPE is prepared annually within the broad
+policy guidelines of the Government's five year development plans. It serves
+as a useful input in the planning of domestic electric manufacturing industry
+because it contains information on equipment requirements.
+2.06      ELETROBRAS is also responsible for research beneficial to the elec-
+tric power sector. Together with its major subsidiaries ELETROBRAS has
+established a research center (Centro de Pesquisa de Eletricidade - CEPEL)
+wvhich has been working closely with the power companies and the electro-
+mechanical equipment manufacturing industry. With respect to the proposed
+project CEPEL is undertaking a survey of the capability of the local industry
+to furnish project components. It is expected to play a major role in the
+development of computer software and programs forming part of the project.
+Coordination of Operations of Electric Power Facilities
+2.07      The principal characteristics of the Brazilian interconnected
+power system are such that on-line coordination of operations by the various
+utilities which own and operate the system is essential. The area covered
+by the system is very large; the principal hydroelectric energy sources are
+located far from the major load centers; and several utilities own and
+operate power plants in cascade on the same rivers. Because of the mixed
+ownership of power plants, ownership and operation of the high voltage
+transmission lines, particularly those serving the principal load centers
+of the South and Southeast, is also mixed. Each of the principal trans-
+mission systems constitutes, by itself, a sufficiently complex network
+
+
+
+- 12 -
+to justify network analysis and security monitoring capability. However, none
+of the utilities operating the principal transmission lines can adequately
+monitor and analyze its own system without receiving data on the operation of
+the systems operated by the other utilities. In recognition of the benefits
+that could be derived from coordinating their operations the major power
+companies in the Southeast voluntarily formed, in 1968, the Comite Coordenador
+de Operacao Interligada (CCOI) - a coordinating Committee to establish the
+policies for interconnected operations. CCOI then set up task forces to
+perform studies on planning and coordination of energy production, coordina-
+tion of bulk power transmission, system operation, maintenance, dispatching
+and control.
+2.08      While the CCOI was initially successful in coordinating inter-
+connected operations it lacked the legal and organizational framework to cope
+with the needs of an increasingly complex and rapidly growing interconnected
+power system. To provide this framework, the government, through Law No. 5899
+of July 1973 and Decree No. 73.102 of November 1973, established the Grupos
+Coordinadores para Operacao Interligada (GCOI) to coordinate the operations in
+the interconnected power system of the South and Southeast regions. Two such
+groups were established: GCOI-SE covering the South-eastern regior and GCOI-S
+covering the South. Although the Northeast power system will not be elec-
+trically interconnected with the South/Southeast interconnected network until
+probably late in the 1980's, Portaria No. 360 of the Ministry of Mines and
+Energy dated March 17, 1977, established CHESF (the bulk power supplier for
+the Northeast) as a member of GCOI-SE. CHESF was made a member of GCOI South-
+east because the ownership, in cascade, of the major hydro reservoirs on
+the Sao Francisco river (Tres Marias by CEMIG of the Southeastern system and
+Sobradinho by CHESF) and the coordination required for the operation of these
+major reservoirs, functionally ties the Northeast and Southeast power systems.
+CHESF can therefore derive economies by coordinating its operations with the
+interconnected South/Southeast system. The GCOI's are also charged with coordi-
+nating and directing the operations of the individual generating plants and
+transmission systems to attain the maximum efficiency for the whole Brazilian
+power system from a financial and operating point of view.
+2.09      Policy direction at GCOI is provided by its Superior Council con-
+sisting of the Presidents of ELETROBRAS and the participating utilities with
+DNAEE's Director General acting as observer. The Executive Committee of GCOI
+is made up of the Directors of Operations of ELETROBRAS and the participating
+utilities with the ELETROBRAS Director acting as chairman. DNAEE acts as an
+observer of the deliberations of the Executive Committee. The Executive
+Committee is responsible for establishing the procedures and principles for
+interconnected operations. The Executive Committee's decisions are imple-
+mented by the Secretaria de Supervisao e Coordenacao (SSC) which is a staff
+organization within ELETROBRAS. Actual implementation of the procedures for
+interconnected operations is carried out through five subcommittees consist-
+ing of not more than two representatives from each of the participating
+utilities. Presently these five subcommittees are responsible for carrying
+
+
+
+- 13 -
+out: (i) electrical studies; (ii) energy operations planning; (iii) operations
+scheduling; (iv) maintenance programming; and (v) planning and operating tele-
+communications. ELETROBRAS has developed a competent staff organization to
+assist GCOI in each of these areas on an annual and monthly cycle basis. GCOI
+has been able to effectively minimize the production of electric energy from
+plants burning fuel oil while maintaining safe levels of multi-annual hydro
+storage to meet future needs and establishing safe and economic operating
+criteria. GCOI annually simulates, for about the next three years, future
+system operations using hydrological data compiled since 1931, and determines
+an annual and monthly program of operations for each generating plant of the
+interconnected system. GCOI estimates the cost of using fossil fuels for
+thermal generation for the interconnected system as a whole and allocates this
+cost to the utilities in proportion to their power market. The other GCOI
+activities include performing system stability studies to anticipate potential
+operating problems, identifying transmission system limitations, establishing
+daily operating criteria, reserve and performance requirements. GCOI also
+produces weekly, monthly and annual reports which summarize the overall
+performance of the interconnected system.
+2.10      While the GCOI has been effective in developing operations plans,
+establishing operating criteria and reviewing system performance, the present
+method of operations, with little remote monitoring and control, is inadequate
+and it will become even more inadequate to meet the needs of the power sector
+as the system continues to grow in complexity. The continued mixed ownership
+of hydro power plants and transmission lines, the construction of large
+hydroelectric and nuclear power plants, the increasing interconnection of the
+national grid, the introduction of extra high voltage transmission lines and
+possible future interchange of energy with neighboring countries will all demand
+a level of power system monitoring, supervision, coordination and information
+processing capability which is far beyond the capacity of the existing GCOI.
+The proposed national supervisory and control system (see Chapter 3) of which
+the project is a part would provide GCOI with this capability and hence it
+would enhance the role entrusted to GCOI.
+The Beneficiary
+Companhia Hidro Eletrica do Sao Francisco (CHESF)
+2.11      ELETROBRAS would on-lend about US$22 million from the proposed
+loan to the Companhia Hidro Eletrica do Sao Francisco (CHESF). CHESF was
+established in 1948 as a subsidiary of ELETROBRAS and is charged with the
+responsibility for the generation and transmission of electric power in the
+Northeastern region of Brazil (comprising the states of Bahia, Sergipe, Alagoas,
+Pernambuco, Paraiba, Rio Grande do Norte, Ceara, Piaui and Maranhao).
+CHESF's subscribed capital at December 31, 1978 was Cr$ 4.7 billion. Of this
+ELETROBRAS owned about 97%, the Superintendencia do Desenvolvimento do Nordeste
+(SUDENE) - a northeast regional development agency - owned 2%, and state and
+municipal government agencies owned the remaining 1%.
+Organization
+2.12      CHESF is administered by an Administrative Council and a Board of
+Directors. The Administrative Council comprises 3 members selected by the
+
+
+
+- 14 -
+shareholders from the Directors of ELETROBRAS for a 3 year period. The
+Administrative Council is responsible for general policy formulation at the
+company. The Board of Directors, which is charged with managing the operations
+of the company, comprises a president and six directors each elected to a 3
+year term by the general assembly of shareholders. Each board member also
+serves as executive head of an operating department. In addition, a Fiscal
+Council, consisting of 3 members elected by the shareholders general assembly
+to a one year term, approves the company's finances. At December 31, 1978,
+the company had about 11,300 employees. While the number of employees is
+large by comparison with other Brazilian bulk supply utilities it is reasonable
+considering that its service area is spread over 1.5 million square kilometers.
+The company's organizational structure, which is shown in Annex 2-2, is sound.
+In the past few years CHESF has undergone frequent changes in its top manage-
+ment as persons holding top management positions at CHESF have been appointed
+by the government to fill positions in other utilities and elsewhere in the
+power sector. These frequent management changes may have adversely affected
+CHESF's operations and contributed to a slow recovery from delays experienced
+in the execution of the Bank-financed Paulo-Afonso IV Project (para 2.14).
+The management situation at CHESF is beginning to stabilize and execution of
+the proposed project should not be adversely affected. CHESF has been able
+to fill the vacancies of professional staff which resulted from moving its
+headquarters from Rio de Janeiro to Recife in 1975.
+Management System
+2.13      CHESF's financial planning, budgeting and management reporting
+systems are satisfactory. Annual budgets and financial forecasts covering a
+period of 10 years are prepared and updated periodically. Internal control
+functions under the internal audit department are satisfactory. CHESF's finan-
+cial accounts are audited annually by the firm of Boucinhas, Campos and Claro
+Ltda which is acceptable to the Bank. The provision in existing agreements
+requiring CHESF to have its accounts audited by external auditors satisfactory
+to the Bank and to submit audited financial statements to the Bank not later
+than four months after the end of each fiscal year was repeated.
+Bank Involvement
+2.14      The Bank has made two previous loans to CHESF.  The first, US$15
+million made in 1950, was to finance the first two 60 MW hydro electric
+generating plants on the Sao Francisco river. This project was successfully
+completed on schedule with minimal cost overruns. The second Bank loan of
+US$81 million was made in 1974 to finance transmission lines associated with
+the Paulo Afonso IV hydro electric project. Because of design changes execu-
+tion of this project was delayed by about a year. The project is now proceeding
+satisfactorily and will be completed in 1981. Its economic justification will
+not be reduced by the delay.
+CHESF's Power Market
+2.15      CHESF is the sole utility generating electricity for public consump-
+tion in the Northeast. CHESF supplies energy in bulk to the nine state dis-
+tribution companies in its concession area. In addition, it supplies energy
+
+
+
+- 15 -
+to several large industrial consumers. CHESF's power market has grown very
+rapidly as a result of the Government's effort to industrialize the Northeast.
+Its energy sales grew at an annual rate of 15.7% between 1974 and 1978 com-
+pared to an annual growth rate of 12.4% nationally. CHESF's energy sales in
+1978 were i'.,179 GWh. CHESF's installed capacity at the end of 1979 was 3,000
+MW and its peak demand was about 2,700 MW. The generating reserve margin of
+10% in 1979 was low; however, during 1980 CHESF expects to increase its
+generating reserve margin to a satisfactory 30% with the completion of an
+additional 1,345 MW of hydro capacity.
+Participation in Interconnected Operation
+2.16      CHESF participates in the activities of GCOI-SE (para 2.08).  CHESF
+has been able to achieve economies of operations (e.g. fuel savings) by
+coordinating its operating regimes with the interconnected South/Southeast
+system through regulation of the various hydro storage reservoirs on the
+Sao Francisco river; in 1978, only 5% of energy generated in the Northeast
+was fossil fuel based. CHESF also participates in the Comite Coordenador de
+Operacao do Nordeste (CCON). CCON includes DNAEE, ELETROBRAS and the nine
+state power distribution companies of the Northeast. This committee is
+charged with coordinating the short term planning of generation, transmission
+and distribution in the Northeast, and establishing design standards and
+operating procedures for CHESF and the nine state utilities. CCON has been
+effective in improving the operations and in achieving savings in investments
+in the Northeast system.
+
+
+
+- 16 -
+3. THE PROGRAM AND THE PROJECT
+The Program for a National System of Supervision and Control of
+Interconnected Operations
+3.01      To reduce Brazil's dependence on imported petroleum, the Government's
+development policy stresses the maximum exploitation of domestic energy
+resources: hydroelectric, uranium/thorium and coal. Existing generation
+expansion programs as well as the future generation expansion program contained
+in the "Plan 95" (para. 1.23) therefore emphasize the development of Brazil's
+considerable hydroelectric potential. The Itaipu hydro project, the largest
+in the world, would add about 12,600 MW to Brazil's installed capacity when it
+is completed in 1987. The Tucurui project, under construction on the Tocantins
+River in the north, would add another 3,960 MW of capacity by 1987. It is,
+however, becoming increasingly more difficult to obtain the massive capital
+investments required for their development. In recognition of this DNAEE/
+GCOI/ELETROBRAS are taking further steps to improve the coordination of the
+activities of the various utilities in Brazil in order to achieve the most
+economic installation and operation of their generation and transmission
+facilities.
+3.02.     GCOI currently directs interconnected operations by means of annual
+and monthly operation plans and dispatch schedules for the participating
+utilities (paras. 2.08 and 2.09). Because there is no computerized supervi-
+sion and control system at the national level, the Brazilian interconnected
+electric power system is operated mainly by telephone directed operator
+intervention. The power plants are operated principally in accordance with
+predetermined generator loading schedules. Remote monitoring of the power
+plants, substations and transmission lines, at most company, regional and
+national levels, is non-existent. This situation is unusual for a large power
+system, in particular for an interconnected system as complex as Brazil's.
+The existing mode of operation does not provide enough flexibility for adapting
+operating plans and schedules to daily or hourly changes in hydrological and
+other system conditions. The proposed program would provide for this flexi-
+bility and would allow the operation of generation and transmission facilities
+closer to their technical limits while maximizing system reliability and thus
+strengthen the coordinated operation of the interconnected power system of
+Brazil (para. 2.10).
+3.03.     The proposed project will be part of a national system for supervision
+and coordination of interconnected operations (SINSC). 1/ The SINSC program
+consists of a computerized system which would allow for the remote supervision
+of the interconnected power system at the national level and permit the coordi-
+nation of actions during serious emergencies.   SINSC would also provide for
+remote supervision and control of the electric power facilities at the
+regional level2/ The principal components of the complete SINSC program
+are (i) a Real-Time Supervision System (RTSS) to be located at a national
+1/   SINSC: Sistema Nacional de Supervisao e Coordenacao de Operacao
+Interligada.
+2/   Annex 3-1 shows the control areas of the major utilities.
+
+
+
+- 17 -
+Supervision and Coordination Center (CSC 1/) in Brasilia; (ii) the Data
+Acquisition and Control Systems (DACS 2/) located at the System Operations
+Centers (COS 3/) of major electric power supply companies and ITAIPU; and
+(iii) telecommunication systems. The RTSS will consist of computers, auxiliary
+equipment consisting of consoles and video displays, computer programs, and
+the interface equipment between the computers and the telecommunication
+system. The DACS will consist of computer-based master stations, remote
+terminal units, peripherals and supporting communication networks necessary
+for the COSs to control their areas of operation of the interconnected power
+system. The CSC computer will communicate with each of the computers at the
+COSs through the communication systems. These systems (mainly on microwave
+systems) consist of high quality voice grade channels. Annex 3-2 gives a more
+detailed description of the elements of the SINSC program.
+3.04.     The facilities at the CSC and the COSs will form a hierarchical
+control system for the operation of the Brazilian interconnected power system.
+Annex 3-8 shows a schematic representation of the proposed national supervisory
+and control system. The functions to be performed at the CSC, which will be
+the top level of the system, include production scheduling and coordination,
+supervision of the main interconnected network, interchange accounting and
+operations analysis and reporting. At the next level will be the COSs where
+the DACS will perform digital automatic generation control (AGC), supervisory
+control and data acquisition (SCADA) and energy management (EM). The computer
+at the COSs will process, transmit and receive data from the CSC computer.
+At the bottom level will be the power plants and substations which will be
+monitored and controlled from the COSs. To ensure the hierarchical integrity
+of the system there will be no direct communication between the CSC computer
+and the power plants and substations.
+Project Selection and Content
+3.05.     As shown in Annex 3-8, the complete SINSC program will comprise
+the CSC facilities and the COSs of 8 major utilities -- CHESF, FURNAS,
+CEMIG, CESP, CEEE, COPEL, ELETRONORTE, ELETROSUL-and also ITAIPU. The
+project proposed for Bank financing has been defined to comprise the initial
+components of SINSC which are at an advanced stage of preparation. These
+are the CSC, to be located at Brasilia and implemented by ELETROBRAS, and
+the COS of CHESF. Of the remaining COSs, COPEL's is already in operation
+and will require only minor modifications for integration into SINSC; the
+ELETRONORTE system is being implemented and includes provisions for inte-
+gration into SINSC; the CEMIG system is being procured under an IDB-financed
+loan and will incorporate provisions for integration into SINSC. The
+functional requirements and specifications for the COSs of FURNAS, ELETROSUL,
+1/   CSC:   Centro de Supervisao e Coordenacao - Center for Supervision
+and coordination.
+2/   DACS:  Data Acquisition and Control System.
+3/   COS:   Centro de Operacao de Sistema - System Operation Center.
+
+
+
+- 18 -
+CESP, CEEE AND ITAIPU are still in the process of study. The procurement of
+these remaining COSs is, however, not on the critical path for the gradual
+implementation of SINSC. It was therefore decided to limit the project to
+the CSC and the COS of CHESF in order to meet the target date for the initial
+operation of SINSC. The full economic benefits of the SINSC program, however,
+would only be realized after the entire SINSC program becomes operational and
+therefore appropriate assurances for the timely completion of the remaining
+SINSC components are necessary.  ELETROBRAS has provided a time-table for the
+minor modifications necessary to integrate the COPEL and CEMIG COSs into
+SINSC.  ELETROBRAS agreed to (i) provide the Bank with the feasibility studies
+(up to system specification level) for the implementation of the COSs of CEEE,
+CESP, FURNAS and ITAIPU by June 30, 1981 - in the case of FURNAS and CESP the
+feasibility studies would include provisions, satisfactory to the Bank, for
+the coordination of operation of facilities under the LIGHT-Rio and LIGHT-Sao
+Paulo systems (see para 3.06); and (ii) to take all action necessary to ensure
+that the entire SINSC program is completed in accordance with sound engineering,
+financial and public utility practice.
+3.06      As noted at para. 1.11, in keeping with the Government's stated
+policy of concentrating distribution in single state-owned utilities, the
+Government recently decided to reorganize LIGHT by splitting the Rio and
+Sao Paulo systems. Such reorganization of LIGHT will affect the originally
+conceived configuration and operation of SINSC, under which LIGHT was to have
+its own COS (to be located in Sao Paulo, but to control both the Rio de
+Janeiro and Sao Paulo systems). It was originally intended to finance the
+LIGHT COS from the proposed loan. However, following the Government's decision
+to split the LIGHT-Rio and LIGHT-Sao Paulo systems it was no longer feasible
+to control these two systems from the same COS. Instead, the LIGHT-Sao Paulo
+system, which is to be owned by CESP will now be brought under the control
+of the COS of CESP, and LIGHT-Rio de Janeiro under the COS of FURNAS. Since
+future sector reorganizations could have implications for the SINSC program,
+the Federal Government and ELETROBRAS would afford the Bank a reasonable
+opportunity to comment prior to making any changes in sector organization
+which would affect the configuration of SINSC, and would not implement any
+such changes which would substantially and adversely affect the operation of
+SINSC.
+3.07.     The proposed project, covering the requirements of the CSC and the
+COSs of CHESF and LIGHT, has been divided into three parts: (I) the supervisory
+and control subsystem; (II) the complementary telecommunication subsystem
+necessary to operate SINSC; and (III) a comprehensive training program and
+tariff studies for the power sector. The principal project components are as
+follows:
+I.   Supervision and Control (Part A of Project):
+(a)  For ELETROBRAS:  Installation of the Real Time Supervision
+System (RTSS) at the CSC comprising:  (i) computer hardware;
+(ii) support and application software; (iii) auxiliary equipment
+consisting principally of operator consoles, panels, video
+displays etc.; (iv) communication interface; (v) training
+related to the implementation and operation of the SINSC; and
+(vi) civil works, power supplies and related infrastructure
+for the national supervision and coordination center.
+
+
+
+- 19 -
+(b)  For CHESF:  Installation of a Data Acquisition and Control
+System (DACS) at the COS' comprising: (i) a computer-based
+master station; (ii) remote terminal units; (iii) software;
+(iv) operator consoles; (v) communication interface,
+(vi) training related to SINSC; and (vii) civil works,
+power supplies and related infrastructure.
+II.   Telecommunications (Part B of the Project):
+(a)  For ELETROBRAS:  the provision of communication links
+between the CSC and the COS's of the utilities participating
+in SINSC.
+(b)  For CHESF:  the provision of communication links between
+the COS' and the dispatch centers, power plants and
+substations under CHESF's area of control.
+III.   Sector Training Program and studies (Part C of the Project):
+A comprehensive training program for sector personnel to be
+carried out by ELETROBRAS in Brazil (about 3,060 man-months)
+and abroad (about 525 man-months). The sector training
+program will cover the following areas: system planning
+and operations, standardization and quality control, financial
+administration, economics of public utility operation, environ-
+mental studies, work safety and industrial medicine. A similar
+training program financed by the Bank has been successfully
+carried out by ELETROBRAS under Loan 1343-BR. In addition part C
+of the project includes studies on the application of tariffs in
+Brazil based on marginal costs (para 1.17).
+3.08      In the case of ELETROBRAS, the telecommunication facilities required
+for SINSC consist of minor additions and links to the existing microwave
+networks of the utilities. The CHESF telecommunication system included in the
+project is part of an extensive and multipurpose communication system being
+implemented for the Northeast region. For SINSC purposes, channel capacity
+would be provided in the Northeast communication system to link the computers
+at CHESF's COS to the computers at the CSC and also to the power plants,
+substations and dispatch centers within CHESF's control area. Because the
+channels of the multipurpose CHESF telecommunication system are essential
+for the operation of SINSC, ELETROBRAS and CHESF agreed to take all action
+necessary to ensure timely completion of the Northeast telecommunication
+system and to ensure that the channel capacity needed for SINSC is ready for
+project commissioning.
+Project Cost
+3.09.     The total cost of the project is estimated at about US$140 million
+of which about US$58 million (41%) represents foreign costs. The project cost
+estimate is shown in detail in Annexes 3-3 to 3-5 and summarized below:
+
+
+
+- 20 -
+In US$ million
+ELETROBRAS   CHESF           TOTAL
+Part A (Supervisory and Control System)
+Supervision & Control (Base Cost)           28.6        31.0            59.6
+Physical Contingency                         5.9         4.7            10.6
+Price Contingency                            8.9        12.2            21.1
+Total Part A                              43.4        47.9            91.3
+of which Foreign                        27.1        22.0            49.1
+Local                         16.3        25.9            42.2
+Part B (Telecommunications System)
+Communications (Base Cost)                   3.5        15.7            19.2
+Physical Contingency                         0.7         2.4             3.1
+Price Contingency                            0.9         5.7             6.6
+Total Part B                               5.1        23.8            28.9
+of which Foreign                         0.6         3.6             4.2
+Local                          4.5        20.2            24.7
+TOTAL (Parts A and B)                     48.5        71.7           120.2
+of which Foreign                        27.7       25.5             53.2
+Local                         20.8        46.2            67.0
+Part C (Sector Training Program)
+Sector Training Program (Base Cost)         17.0                        17.0
+Physical Contingency                         1.0                         1.0
+Price Contingency                            2.0                         2.0
+Total Part C                              20.0                        20.0
+of which Foreign                        5.0                         5.0
+Local                        15.0                        15.0
+TOTAL PROJECT                             68.5        71.7           140.2
+of which Foreign                        32.7        25.5            58.2
+Local                         35.8        46.2            82.0
+3.10      The base costs were estimated by ELETROBRAS/CHESF and their
+consultants on the basis of quotations of prices prevailing in December 1978
+updated by indexation as an attempt to reflect December 1979 price levels.
+These prices are reasonable. The base cost estimates include engineering and
+administration costs for the project as well as applicable taxes and import
+duties. The cost of consulting services has been estimated on the basis of
+about US$13,500 per man-month, including subsistence and travel expenses.
+Physical contingencies average about 20% of the base cost which is reasonable
+
+
+
+- 21 -
+for this type of project. Price contingencies for all costs were estimated
+on the basis of 12% for 1979, 10.5% for 1980, 9% for 1981, 8% for 1982, 7% for
+1983 to 1985, and 6% thereafter.
+Amount of Loan
+3.11      The foreign component of part A of the project is US$53.3 includ-
+ing price contingencies but excluding interest during construction. A loan
+amount of US$54 million is proposed to cover (i) the foreign exchange cost
+of Part A of the project; and (ii) the foreign cost of the sector training
+program and tariff studies (Part C of the project). The proposed loan would
+be made to ELETROBRAS for a term of 15 years including three years of grace.
+ELETROBRAS would on-lend, out of the proposed loan, US$22 million to CHESF
+on terms and conditions similar to the Bank loan. CHESF would bear the
+foreign exchange risk associated with the onlent funds.
+Project Implementation
+3.12      ELETROBRAS will be directly responsible for the implementation of
+the CSC and the related telecommunication links and the training in connection
+with the CSC. ELETROBRAS would also implement the sector training program
+and tariff studies (Part C of the project, para. 3.07). CHESF would implement
+its COS and the related telecommunications and training. ELETROBRAS would
+supervise the implementation of CHESF's COS. Implementation of the remainder
+of the SINSC, which is not included in the project, would also be supervised
+and coordinated by ELETROBRAS. This would provide the opportunity for assuring
+compatibility of the various facilities in the implementation of the various
+components of the SINSC program. The detailed organization for implementing
+the SINSC program has been specified in an agreement signed between ELETROBRAS
+and the participating utilities (Convenio). It provides for a high level
+committee--Comite de Implantacao (COIMP)--made up of the operations directors
+of ELETROBRAS and the participating utilities. COIMP is headed by the director
+of operations of ELETROBRAS who acts as its coordinator. COIMP establishes
+the policies and guidelines for the implementation of the SINSC program.
+COIMP is assisted by a SINSC coordinating commission-Comissao de Coordenacao
+(COC) - which will make policy recommendations, monitor and coordinate the
+activities during the implementation of the SINSC components. COC is headed
+by a coordinator, appointed by ELETROBRAS, and comprises representatives from
+the participating utilities with direct supervisory responsibility for the
+implementation of the COS's. COC supervises a SINSC program management
+team-Gerencia do Projeto (GERP) - which has been established within ELETROBRAS
+and is responsible for setting the standards and procedures for the execution
+of the SINSC components. GERP is headed by a competent manager and has built
+up a qualified staff organization. The Convenio also specifies that actual
+implementation of the SINSC program would be carried out through task forces -
+Grupo de Projeto Especifico-GPE. The GPEs may be specific groups within a
+utility; project implementation units which have been formed at CHESF to
+handle the installation of the COS are examples of such GPEs. Other GPEs
+would be permanent groups drawn from staff of ELETROBRAS and the utilities to
+deal with specific topics such as real-time systems, software preparation,
+telecommunications, civil works etc. The arrangements for the implementation
+of the project and the entire SINSC program are very advanced and satisfactory.
+ELETROBRAS and CHESF have hired suitable staff to implement the project.
+
+
+
+- 22 -
+3.13      GCOI/ELETROBRAS and CHESF are using the assistance of consultants
+to prepare specifications and bidding documents and to provide associated
+engineering services and are in the process of contracting consultants for the
+supervision of construction. ELETROBRAS would also use consultants to prepare
+studies related to the remainder of the SINSC program and also to develop
+software associated with existing GCOI operations. ELETROBRAS has already
+contracted Hidroservice (Brazil)/Systems Control Inc. (SCI-USA) to provide
+these services. ELETROBRAS has also used the services of the Companhia
+Auxiliar de Empresas Eletricas Brasileiras (CAEEB of Brazil) for the prepara-
+tion of bidding documents for ICB procurement.  CHESF is being assisted by
+its consultants--THEMAG (Brazil)/STAGG (USA) in project preparation. These
+consultants would also assist CHESF in supervision of construction during
+project implementation. Implementation of the remaining SINSC components,
+which are not included in the project, will also be carried out with the
+assistance of consultants.
+3.14      The successful operation of SINSC will depend on a well planned and
+integrated training program for the staff which would operate the CSC and the
+COSs. ELETROBRAS has agreed to formulate and to submit to the Bank not later
+than June 30, 1981, an acceptable training program which sufficiently
+covers the needs of SINSC during implementation, operation and maintenance.
+The foreign cost of this training program will be financed from the proposed
+loan.
+3.15      The SINSC program is expected to contribute substantially to the
+transfer of modern technology to Brazil. The CSC and COSs would use the
+latest computer system design technology. The GCOI staff involved with
+project implementation is competent and is expected to absorb this know-how.
+In addition, in the course of project implementation, staff members involved
+with the project are expected to increase their technological know-how through
+visits to foreign power companies with complex control and supervision systems.
+The staff members are also expected to add to their technological knowledge
+through visits to the facilities of contractors involved with manufacturing
+project components and systems. In view of the high technology nature of
+SINSC and in order that the technology transfer objective is facilitated,
+ELETROBRAS agreed to set up not later than April 30, 1981, and thereafter
+maintain a panel of specialists to monitor and advise on the various implemen-
+tation phases of the SINSC program. Membership of the committee will be drawn
+nationally and internationally from individuals experienced in power systems
+control. These individuals may be designated members of specific organizations
+or internationally-recognized independent consultants. The committee will make
+periodic visits to project sites in Brazil as well as to equipment fabrication
+locations within and outside Brazil as necessary, but not less than twice
+annually. For maximum efficiency in disseminating technical knowledge,
+seminars will he held as appropriate at the end of such periodic visits to
+permit the exchange of information between the Committee and Brazilian offi-
+cials. ELETROBRAS has notified the Bank of the composition of a working
+group which will develop the terms of reference for the committee.
+ELETROBRAS also agreed to furnish such terms of reference to the Bank by
+April 30, 1981. Foreign expenses associated with the work of the panel will
+be financed from the proposed loan.
+
+
+
+- 23 -
+3.16      The existing agreements for the implementation of SINSC, which in-
+clude the Convenio and the agreements to set up the COC and the COIMP provide
+an acceptable commitment of ELETROBRAS, the participating power companies and
+DNAEE to the implementation of SINSC. To ensure that the appropriate legal
+framework for the operation of SINSC exists, ELETROBRAS has agreed to include
+in the legal opinion to be submitted to the Bank in connection with the
+project, appropriate assurances that all the legal arrangements necessary
+for the proper operation of SINSC have been made. ELETROBRAS would also
+inform   the Bank that it will request the Minister of Mines and Energy to
+enact an order (Portaria) to make ELETRONORTE a permanent member of GCOI by
+the date of entering into operation of the interconnection between the
+northern and northeastern electrical systems, or by December 31, 1982, which-
+ever is earlier. (ELETRONORTE is currently the only utility participating
+in SINSC which is not a member of GCOI).
+3.17      The project is expected to be completed by June 30, 1985 and the
+entire SINSC program should be fully operational by June 30, 1986. Bidding
+documents for the CSC were issued in September 1979 after the Bank's review
+and acceptance. Bidding documents for the COS of CHESF were issued at the end
+of April 1980. The implementation schedules for the various project components
+are shown in Annexes 3-6 and 3-7. These schedules, which are reasonable,
+would be used to monitor the progress of execution of the project.
+Procurement
+3.18      Procurement of goods and services proposed for Bank financing except
+for standardized or proprietary items, would be made through International
+Competitive Bidding (ICB) consistent with the Bank's Procurement Guidelines.
+Special metering equipment and miscellaneous auxiliary items, to be financed
+by the Bank, would be acquired through direct purchases at an estimated cost
+of about US$900,000. These items are not considered suitable for ICB either
+because of the need for maintaining standardization or because they are
+proprietary in nature.
+3.19      Items which are not proposed for Bank financing include land,
+buildings, small civil works, auxiliary power supplies and air conditioning
+for Part A and access roads, power supplies, buildings, towers, auxiliaries
+and related engineering and services for Part B; they are not considered
+likely to attract foreign bidders because of their small size and geographic
+dispersion.  These items would be procured from local sources following
+local competitive procurement procedures which are acceptable. Items not
+financed by the Bank also include the telecommunication equipment for Part B
+in the amount of US$28.9 million (24% of total cost of the SINSC project)
+which could attract foreign bidders but is expected to be reserved by the
+Brazilians for local manufacturers because of a current large excess domestic
+manufacturing capacity or because of the need to use standardized or proprietary
+items to expand the communication systems originally purchased from local
+sources. Out of the total US$28.9 million of telecommunication equipment,
+Brazilian suppliers (mostly licensees or affiliates of large international
+firms) are expected to be competitive with foreign suppliers for a portion of
+this equipment. Purchase by reserved local procurement of the remainder
+(amounting to about 10% of the cost of the SINSC project) has a negligible
+effect on project cost.
+
+
+
+- 24 -
+3.20      Because the Brazilian control equipment industry cannot yet supply
+integrated, high technology computer based control systems for power system
+supervision and control, ELETROBRAS has indicated that all such systems for
+the project with the related computer hardware and software, communication
+interface and remote terminal units (RTUs) would be furnished to the degree
+possible as complete systems and under ICB by suppliers. However, ELETROBRAS
+is undertaking a survey of the capacity of the Brazilian manufacturing industry
+to furnish project items. While this survey has tentatively concluded that
+domestic suppliers are not likely to be able to furnish some of the Supervisory
+Control and Data Acquisition (SCADA) equipment, it is possible that in the
+course of project execution local industry might start producing some of these
+items and that the Government would want to add such equipment to the list of
+reserved local procurement. In such case, the list of goods eligible for Bank
+financing and the loan amount would be correspondingly reduced.
+Retroactive Financing
+3.21      Retroactive financing of up to US$2 million, equivalent to about 3.7%
+of the proposed loan, is proposed to cover consultant services and special
+studies related to project preparation initiated after June 1, 1980 and for
+training in connection with the SINSC program. The above activities include
+the detailed design, preparation of bid documents and related engineering
+services which cannot be delayed if the implementation schedules for the
+proposed project components are to be met.
+Disbursement
+3.22      Disbursements from the Bank loan, which would be fully documented,
+would be made for the following:
+(a) 100% of foreign expenditures for imported equipment, materials
+and services related to the installation of the computer-based
+Real-Time Supervision System (RTSS) and the Data Acquisition and
+Control System (DACS) including the development of computer programs;
+(b) 100% of the ex-factory cost of the equipment, materials and
+services above if procured locally;
+(c) 100% of foreign expenditures for consultant's services;
+(d) 100% of foreign expenditures for training for the SINSC program;
+and
+(e) 100% of foreign expenditures for the sector training program and
+tariff studies.
+3.23      The estimated schedule of disbursements shown in the table below, has
+been based on the assumption that the loan will become effective March 31, 1981.
+
+
+
+- 25 -
+Estimated Loan Disbursements (in US$ x 10 )
+IBRD              Semester             Disbursed        Cumulative Disbursement
+Fiscal Year           Ending           During Semester         at erd of Semester
+1981          June 30, 1981               7.1                      7.1
+1982          Dec. 31, 1981               7.4                     14.5
+June 30, 1982              4.7                     19.2
+1983          Dec. 31, 1982               4.1                     23.3
+June 30, 1983              7.0                     30.3
+1984          Dec. 31, 1983               6.0                     36.3
+June 30, 1984              4.5                     40.8
+1985          Dec. 31, 1984               6.4                     47.2
+June 30, 1985              3.5                     50.7
+1986          Dec. 31, 1985               3.3                     54.0
+The closing date would be December 31, 1985, six months after project comple-
+tion to allow for the payment of retentions.
+Environment
+3.24      The project's effect on the environment would be minimal.  The only
+notable environmental aspect will be the visual impact of microwave relay
+stations which form part of the telecommunications network. These stations,
+however, would be installed principally in the sparsely populated Northeast
+region. The stand-by diesel generators which would be enclosed would be
+very small and would run infrequently. They are therefore not expected to
+significantly affect the aesthetic and acoustic ambience of their immediate
+surroundings.
+Project Risks
+3.25      There are risks associated with the project's high technology nature
+and the multifaceted approach to its implementation. The technology associated
+with power system supervision and coordination systems, such as SINSC, is very
+advanced, still evolving and changing very rapidly. There is therefore the risk
+that staff involved in project implementation may lack certain necessary skills
+at key dates. The participation of qualified consultants and the advisory
+panel in project implementation should minimize this risk. To further minimize
+this risk the SINSC training program will be carefully designed, but flexible
+to permit adaptation to a rapidly evolving supervisory systems technology.
+The coordination of implementation to be provided by ELETROBRAS, and the
+monitoring and advisory role to be provided by the proposed advisory panel,
+should help ensure that the equipment and system configurations of the various
+project components under ELETROBRAS and CHESF are compatible.
+
+
+
+- 26 -
+4. ECONOMIC ANALYSIS
+Introduction
+4.01      The principal goal of the SINSC program, of which the project is
+a part, is to increase reliability in and achieve more economic supply of
+electric power to the Brazilian market through better coordination of opera-
+tions of facilities of the interconnected power network. The SINSC program
+would allow for improved sector management, reduced capital investments in
+power generation and transmission facilities, reduced fuel use and lower
+maintenance costs while permitting the facilities on the interconnected power
+system to be operated with greater security and reliability. The facilities
+to be installed in the SINSC program would provide GCOI/ELETROBRAS and the
+participating utilities with ready access to a data bank of the power market
+supply operations which would be used to enhance power system planning. The
+SINSC would permit coordination of operation of the Itaipu hydroelectric power
+plant with the operation of the numerous upstream power plants owned by other
+utilities, and thus provide for optimal use of Itaipu's abundant low cost
+energy and hence result in minimizing the use of costly fuel for power genera-
+tion. SINSC would also provide GCOI with the capability to improve the pre-
+paration of operation plans for the utilities, allow the utilities to schedule
+the operation of their generation and transmission facilities in a manner more
+consistent with these operational plans, permit continuous monitoring of the
+operations of the interconnected power system and permit restoration of
+service faster than currently possible after interruption. The facilities
+of SINSC would also improve or permit rational dispatching and control of
+power plants and substations by the power companies. The contractual basis
+for the project is established. Under the existing GCOI laws the utilities
+have entered into electric power interchange agreements in accordance with
+the operating plans and criteria established by GCOI. Furthermore, Law No.
+5899 of July 5, 1973, requires the utilities on the interconnected system to
+give priority to the use of power and energy provided to Brazil from ITAIPU.
+In this regard the utilities are preparing to enter into 20 year contracts
+with FURNAS and ELETROSUL - the bulk suppliers designated to transmit Brazil's
+share of ITAIPU's output.
+Least Cost Solution
+4.02      For the scope of operations, speed of data transmission and the
+reliability of facilities to implement the national supervision and coordina-
+tion system, no reasonable alternative exists other than the digital computer
+systems which form the basis for the project and the entire SINSC program.
+For the configuration of the SINSC program ELETROBRAS and its consultants
+compared the proposed SINSC configuration (Annex 3-8) to two other configura-
+tions. In one configuration only the COS's of the regional bulk supplier,
+subsidiaries of ELETROBRAS (FURNAS, ELETROSUL, CHESF, ELETRONORTE) communicate
+directly with the CSC at the national center while the other utilities communi-
+cate with the CSC through their regional centers. The third alternative
+considered comprised setting up a separate supervision and control center
+at each of the four regional bulk suppliers. The proposed SINSC configura-
+tion, which has the national center communicating directly with each of the
+ten major utilities supplying power to the interconnected network, was found
+to be the preferred alternative from a functional, operational and economic
+
+
+
+- 27 -
+viewpoint. The individual project components chosen and the system design of
+the CSC and the COS's are the least cost components resulting in a system
+design compatible with the functional and reliability requirements of the
+SINSC. While the CSC and the COS's will all have dual redundant computers
+this redundancy is essential to enable the SINSC system to carry out the
+necessary supervision and control functions even when one of the computers at
+the national or company centers is out of service. The COS's will perform
+on-line operational control functions during normal system operating conditions.
+The CSC will not normally exercise on-line control, however, it will have
+over-ride power and give directives to the COS's for the restoration of
+service during emergency conditions if such conditions would affect the
+operations control of more than one COS.
+Economic Benefits
+4.03      The proposed SINSC program is expected to result in an overall
+improvement in sector management, significant future reductions in capital
+investments in generating and transmission facilities, lower requirements
+for fossil fuels for power generation, improvements in the reliability of
+electricity supply, and reductions in industrial output foregone because of
+power outages. The SINSC program can therefore be considered as an integral
+part of a modern electric power generation/transmission complex. Because of
+the pervasive nature of the SINSC program, it is very difficult to quantify
+the economic benefits associated with it. However, from the experience of
+power systems elsewhere that have installed national supervision systems
+(e.g., Electricite de France (EdF) and ENEL in Italy) annual savings of about
+1% in generation and transmission investments can be expected to result from
+SINSC. These investment savings alone, used as a minimum measure of the
+project's economic benefits, would result in an internal rate of return of
+about 13% for the SINSC program which compares favorably with the opportunity
+cost of capital in Brazil. Some of the savings in operating costs associated
+with the SINSC program can also be quantified by analogy with EdF and ENEL.
+From the experience of these utilities, the SINSC program should result in
+annual savings of about 0.3% of hydro generation from the improved production
+scheduling and coordination of hydro facilities to achieve reduced spill.
+Annual savings of about one percent of transmission losses can also be
+expected from SINSC as a result of improved transmission network management
+(i.e., better reactive generation dispatching and voltage control, more
+timely scheduling of outages and faster restoration of service after inter-
+ruptions). With these savings in operating costs added to the savings in
+investment the internal rate of return of the SINSC program increases to
+about 18%.
+
+
+
+- 28 -
+5.  FINANCIAL ANALYSIS
+Introduction
+5.01      The proposed project (with an expected technological life of 10-15
+years), represents a relatively small percentage (less than 1%) of the 1980-
+1985 investment program of ELETROBRAS and CHESF. ELETROBRAS and CHESF should,
+therefore, not have any difficulties obtaining sufficient financing to cover
+the local cost of the project assuming that the sector tariff issues (para.
+1.15 and 1.16) are satisfactorily resolved. The agreement signed between
+ELETROBRAS and the participating utilities for the installation of the SINSC
+program (the Convenio) contains a provision that ELETROBRAS will provide any
+financing needed by the utilities to cover their portion of the construction
+of SINSC. This provision has been included in the agreements relating to the
+project. Furthermore, as is usual with Bank power loans, the Federal Govern-
+ment agreed to cause to be provided any financing needed by ELETROBRAS and
+CHESF to complete the project in the event that funds available to them for
+the project from other sources are inadequate. The financial history and
+prospects of ELETROBRAS and CHESF are summarized in the paragraphs below and
+supplemented by Annexes 5-1 through 5-9.
+ELETROBRAS
+5.02      As the holding company for the power sector ELETROBRAS plays a
+pivotal financial role in the development of the sector. It administers funds
+to the power sector utilities in the form of loans and equity investments.
+ELETROBRAS is heavily dependent on sector based resources for its finances.
+This dependence coupled with its pivotal role tend to make trends in ELETROBRAS'
+financial condition mirror trends in the financial state of the sector. Over
+the 1969-1975 period when sector tariffs were generally satisfactory, ELETROBRAS'
+financial condition remained very solid. It borrowed very little as consumer
+based resources constituted about 91% of its financial requirements; its debt
+service coverage ratio ranged from 3.1 to 6.4 and its debt/equity ratio im-
+proved from 41/59 to 36/73. In the past four years the power utilities have
+experienced a decline in their earnings as a result of inadequate tariffs.
+This decline has been reflected in an erosion of ELETROBRAS finances. Over
+the 1976-1978 period the proportion of ELETROBRAS resources contributed by
+consumers declined to 69%. To supplement these resources ELETROBRAS became
+increasingly dependent on costly borrowing mostly from foreign sources. Its
+debt/equity ratio at the end of 1978 was 49/51. Of ELETROBRAS debt outstand-
+ing as of December 31, 1978 amounting to about Cr$45 billion, about Cr$29.5
+billion was foreign--the principal debtors being Bank of America (Cr$6.4
+billion), Credit Commerciale de France (Cr$5.2 billion) and Deutsch Bank
+(Cr$5.2 billion).
+5.03      Annexes 5-1 through 5-4 show ELETROBRAS actual financial results
+for 1976-1978 and forecasts through 1986 which have been prepared on the
+basis of the sector requirements contained in the sector investment program
+up to 1995 (para. 1.23). Based on these forecasts ELETROBRAS' needs for
+resources and sources of financing during the 1980-1985 construction period
+of the project are summarized below and shown in more detail in Annex 5-2:
+
+
+
+- 29 -
+Requairements
+Cr$X10          US$X10          %
+Capital Investments                   112.9            4.5         i8.1
+Loans                                 476.4           19.0         76.5
+Working Capital & Others               33.2            1.3          5.4
+622.5           24.8       100.0
+Sources of Funds
+Net Internal Cash Generation          193.1            7.7          31.0
+Sole Tax                               31.3            1.2           5.1
+Reversion                             219.2            8.8          35.2
+Compulsory Loan                       150.7            6.0          24.2
+Total Consumer based Resources 594.3             23.7         95.5
+Borrowing                              27.0            1.1           4.3
+Other Sources                           1.2              -           0.2
+622.5           24.8        100.0
+5.04      The forecasts of ELETROBRAS key financial indicators during the
+project period (Annex 5-1) indicate that although ELETROBRAS financial con-
+dition will be eroded somewhat its overall financial soundness will be main-
+tained. ELETROBRAS financial soundness, however, may be achieved at the
+expense of the financial viability of the utilities which are dependent on
+it for financing. There are indications that the terms of ELETROBRAS loans
+(currently 12% interest plus monetary correction, 10 year repayment) may be
+too stringent for some of the utilities which rely on ELETROBRAS for most
+of their loans.  Some of these utilities such as ELETROSUL and CHESF have
+unusually high debt equity ratios, low debt service coverage and unsatis-
+factory self-financing capacity. In addition ELETROBRAS financial partici-
+pation in the utilities has been about 80% in the form of loans, and about 20%
+in the form of equity and the forecasts indicate that ELETROBRAS will maintain
+this proportion during the project's construction. This high proportion of
+loan to equity financing may be jeopardizing the capital structure of the
+utilities and therefore ELETROBRAS may have to review its policy regarding
+the proportion of loan to equity in its investment portfolio. The Bank has
+already initiated action to ensure the financial soundness of those power
+borrowers dependent on ELETROBRAS financing: the Loan Agreements in connec-
+tion with the ELETROSUL transmission project (1343-BR) require ELETROBRAS to
+convert a portion of its loans to ELETROSUL into equity to enable ELETROSUL
+maintain a satisfactory debt service coverage ratio; the Loan Agreements
+relating to the CHESF Paulo-Afonso IV Project (1008-BR) require ELETROBRAS to
+provide CHESF with equity or other suitable financing to help cover CHESF's
+financial obligations. An analysis of ELETROBRAS financing policies is
+currently being made in connection with a power sector memorandum on Brazil.
+The recommendations from this analysis would be discussed with ELETROBRAS
+in the context of possible future Bank involvement with the power sector.
+
+
+
+- 30 -
+CHESF
+5.05      During the 1976-78 period CHESF's financial rate of return ranged
+from 12% to 17%. Because of a heavy debt service burden, CHESF did not con-
+tribute anything towards its investment program during the period. ELETROBRAS
+is CHESF's major creditor accounting for about 80% of its debt outstanding as
+of December 31, 1978. The appropriateness of the terms of ELETROBRAS loans
+for Brazilian utilities forms part of the on-going Bank analysis of ELETROBRAS
+financing policies.
+5.06      CHESF's financial results for 1976-78 and forecasts through 1986 are
+show in Annexes 5-5 through 5-9. The utility's debt-service will continue to
+be high and hence it will not be able to contribute to the financing of its
+investment program from its own resources. In connection with Loan 1008-BR
+CHESF agreed not to incur any debt if its outstanding debt exceeds 66-2/3% of
+its total fixed assets. To enable CHESF keep within this limitation ELETROBRAS
+periodically converts a portion of its loans to CHESF into equity. This practice
+has been instrumental in keeping CHESF's financial condition reasonable in the
+past and it is expected that conversion of ELETROBRAS loans into equity will
+continue to be necessary through the project's completion. To provide the
+Bank further opportunity to monitor CHESF's borrowings, CHESF agreed not to
+incur any long term debt without the Bank's concurrence if its debt service
+coverage ratio falls below 1.5. CHESF's requirement for funds and sources of
+financing during the project's 1980-1985 construction period are as follows:
+Cr X 109         US$ X 10 9    _%
+Requirements
+Construction Program                 54.9             2.2
+Working Capital & Others             (2.2)           (0.1)
+52.7             2.1        100
+Sources
+Gross Internal Cash Generation       57.0             2.3         108
+Less:  Debt Service                 (78.4)           (3-1)       (149)
+Dividends                     (0.1)              -          -
+Net Internal Cash Generation        (21.5)           (0.8)        (41)
+Equity Investment                    14.9             0.5          28
+Borrowing                            59.3             2 4         113
+52.7             2.1        100
+
+
+
+- 31 -
+6. AGREEMENTS REACHED AND RECOMMENDATION
+Loan Agreements:
+6.01      During negotiations CHESF, ELETROBRAS and/or the Federal Government,
+as appropriate, agreed to the following:
+(a)  CHESF would maintain its earnings at levels consistent with
+sound public utility practices and in accordance with existing
+legislation and would maintain its eligibility for transfers from
+the GGF. The Government confirmed the understanding that DNAEE
+would allow CHESF a return of 10% and that, beginning in 1981,
+no part of this return would be deferred to future years
+(para 1.16);
+(b)  ELETROBRAS would (i) continue to improve the methodology it
+uses in its planning efforts; (ii) complement the "Plan 95"
+by the end of 1981; and (iii) continue to exchange views with
+the Bank on sector planning (para 1.23);
+(c)  ELETROBRAS and CHESF would submit audited financial
+statements to the Bank not later than four months after the
+end of each fiscal year (paras 2.03 and 2.13);
+(d)  ELETROBRAS would take all action necessary to ensure
+that the entire SINSC program is completed in accordance
+with sound engineering, financial and public utility practice
+(para 3.05);
+(e)  ELETROBRAS would furnish to the Bank, not later than
+June 30, 1981, the feasibility studies for the COS's of CEEE,
+CESP, FURNAS and ITAIPU (para 3.05);
+(f)  the Government and ELETROBRAS would provide the Bank the
+opportunity to comment prior to making any changes in
+power sector organization which could substantially affect
+SINSC (para 3.06);
+(g)  ELETROBRAS and CHESF would take all action necessary to
+ensure timely completion of the Northeast telecommunica-
+tions network (para 3.08);
+(h)  ELETROBRAS would on-lend out of the proceeds of the loan
+US$22 million to CHESF on terms and conditions similar to
+the Bank loan (para 3.11);
+(i)  ELETROBRAS would furnish to the Bank, not later than
+June 30, 1981, a training program, satisfactory to the
+Bank, for the installation, maintenance and operation of
+SINSC (para 3.14);
+(j)  ELETROBRAS would set up, by April 30, 1981 and thereafter
+maintain, a panel to advise on implementation of the SINSC
+program (para 3.15);
+
+
+
+- 32 -
+(k) ELETROBRAS would provide supplementary financing to CHESF
+as may be necessary to complete its portion of the project
+should funds available to CHESF for this purpose from other
+sources be inadequate (para 5.01);
+(1) The Federal Government would cause to be provided to ELETROBRAS,
+and CHESF supplementary financing needed to complete the project
+should funds available to them from other sources for this purpose
+be insufficient (para 5.01); and
+(m)  CHESF would not incur any long term debt without the Bank's
+concurrence if its debt service coverage ratio falls below
+1.5 (para 5.06).
+Recommendation
+6.02      With the assurances listed above, the project would constitute
+a suitable basis for a Bank loan of US$54 million equivalent to ELETROBRAS.
+The loan would be repaid over a period of 15 years including three years of
+grace.
+
+
+
+ELETROBRAS ORGANIZATION CHART
+GENERAL
+ASSEMB LY
+MINS ATIVIE                                           FISCAL
+COUNCJLCOUNCL
+ECONOMY                                             PLANNING AND                        UTILITY                                 SYSTEMS|I
+ADFINANCE           CRDIR   ATEN                  ENGINEERING                     MANAGEMENT                                OPERATION
+DIRECTORATE              D T                          DIRECTORATE                      DIRECTORATE                              DIRECTORATE
+E   ~~~~~~~~~~~~~~                                                             &    ~~~~~~~~~~~~~~~~~~  C~~~~~~EC
+uJ            0~~~~~~~
+c  R  U)         -     m~I                         '
+World >nk -a21397
+
+
+
+CHESF ORGANIZATION CHART
+SHAREHOLDERS
+GENERAL ASSEMBLY
+ADMINISTRATIVE                                        FISCAL
+COUNCIL                                          COUNCIL
+PRESIDENCY
+ECONOMI1C ANDE.                                                                                                                                       
+FINANCIAL             SUPPLIES            ENGINEERING                                                     CONSTRUCTION                          OPERATIONS
+O IR ECTORATE         D I R ECTOR ATE      D IR ECTORATE                                                   DIRECTORATE                           DIRECTORATE
+_       .      E                                                                                0
+X, 0                         Cl 
+World 8ank-213'96
+World Bank - 21396
+
+
+
+- 35 -                                        ANNEX 3-1
+CONTROL AREAS OF THE BRAZIL INTERCONNECTED POWER SYSTEM
+FURNAS            CE
+/      /    -
+I                                                                       L
+/~~~~~~~~00
+NOTE
+1 -The dashed lines indicate the Control Areas
+2-- itaipu as part of F URNAS Control Area is currently under study             World Bank - 21393
+
+
+
+ANNEX 3-2
+-36 -                    Page I of 3
+1 Technical Project Details
+For the GCOI/ELETROBRAS portion of the project (mainly the CSC) and
+for the LIGHT (Rio and Sao Paulo) and the CHESF portions the implementation and
+procurement arrangements would be along the following lines:
+(a)  The "Real-Time" (On-Line) Supervision System (RTSS) for the
+CSC is to be acquired--under ICB--from a single prime contractor
+who would be expected to provide extensive on-site support after
+delivery of the RTSS. He would also be requested to offer as an
+option a set of application software which would be fully documented,
+in addition to the design, manufacture, integration, factory testing,
+delivery and placing the RTSS into operation. (Some of the more
+advanced application software would likely be developed by CEPELI/
+staff in cooperation with specialized staff from the major operating
+tutilities). The prime contractor would be responsible for the
+integration of software provided by him and by others and assume
+full responsibility for the system's performance during an extended
+guarantee period. The RTSS would include:
+(i) Computers;
+(ii) Peripherals;
+(iii) Man-machine interface equipment;
+(iv) Communication subsystem equipment; and
+(v) Application and support software.
+(b) The top and next to top hierarchical level (the CSC and the ten
+COSs ) of the overall Supervision and Coordination
+System (SINSC) would follow the structure shown in Annex 3-10
+1/ Centro de Pesquisas de Energia Eletrica (Grupo ELETROBRAS).
+
+
+
+- 37 -                  ANNEX 3-2
+Page 2 of 3
+Necessary COS facilities would be acquired when needed as complete
+systems under ICB.! , mainly consisting of the Data Acquisition and
+Control Systems (DACSs) of the regional and area (state) supply
+companies or the expansion or adaptation of existing DACSs currently
+being established. Each DACS would have:
+(i) a computer-based master station (use of the analogue technique
+would not meet requirements of overall economy, flexibility and
+state-of-the-art requirements);
+(ii) remote terminal units (RTUs); and
+(iii) supporting telecommunication networks to the degree needed by
+the ten companies owning the COSs for supervision and
+control of their operating area.
+Each company's master station equipment (located at its System
+Operation Center - COS) would have for the master station a dual
+(redundant) computer configuration with modern man-machine interfaces
+(CRTs). The DACSs would provide the functions of:
+(i) digital Automatic Generation Control (AGC);
+(ii) supervisory control of the transmission system;
+(iii) data acquisition;
+(iv) energy management (such as production scheduling, load shedding,
+voltage control); and
+(v) network analysis.
+1/ The Brazilian manufacturers are not expected to be able to supply such systems
+during the project period.
+
+
+
+- 38 -                     ANNEX 3-2
+Page 3 of 3
+(c) Computer-to-Computer Data Links. The ten companies currently
+own extensive and efficient microwave or UHF telecommunication
+systems or are in the process of acquiring and installing them,
+The channel facilities are or will be ample and
+can accomodate the requirements of SINSC at a relatively small
+cost, requiring mainly only patching facilities for intercompany
+transfer of information. The transfer to and from the CSC (and
+each company's DACS) will be achieved by two four-wire full duplex
+channels (with route diversity to a maximum extent).
+2.        The functions to be performed by the CSC on-line facilities are summarized
+below:
+(a) production scheduling;
+(b) continuous production supervision;
+(c) continuous transmission system operations supervision;
+(d) network studies (such as real-time network modeling, operational
+power flow analysis, and means to assist corrective rescheduling);
+(e) operations reporting; and
+(f) training, maintenance, and programming.
+The communications links    will provide for computer-to-computer communication
+and provide for the use of programmer terminals for real-time data and message
+transfers.
+
+
+
+BRAZIL
+Power System Coordination Project
+Summary Project Cost Estimate
+(In USS Million)
+ELETROBRAS                                 CHESF                       TOTAL PROJF T
+foreign       Local       Total       Foreign        Local       Total        Foreign       Local        Total
+I-Part A (Supervisory & Control System)
+Infrastructure                              0.1              2.9         3.0                       3.0          3.0         0.1            5.9        6.o
+Equipment & Materials                      11.6              2.2        13.8        8.6            1.9         10.5        20.2            4.1       24.3
+Engineering & Administration                1.2              2.6         3.8        2.5            8.1         10.6         3.7           10.7       14.4
+Consultants                                 1.5              0.5         2.0        0.8            0.5          1.3         2.3            1.0        3.3
+Training                                    1.3              o.4         1.7        0.4            1.2          1.6         1.7            1.6        3.3
+Studies & Projects                           -               1.2         1.2         -             0.7          0.7          -             1.9        1.9
+Subtotal (Base cost)/2/                  15.7              9.8        25.5       12.3            15.4        27.7        28.0           25.2       53.2
+Physical Contingencies                       2.9             2.0         4.9        1.9              2.3        4.2         4.8            4.3        9.1
+Subtotal (before price contingency)     18.6             11.8        30.4       14.2            17.7        31.9        32.8           29.5       62.3
+Price contingencies                         8.j              4.5        13.0        7.8              8.2       16.0        15.9           12.7       28.6
+Total (Supervisory & Control)              27.1             16.3        43.4       22.0            25.9        47.9        48.7           42.2       90.9
+------
+II-Part B (Telecommunication System)                                                   2
+Commur'cations (Base Cost) ) j-             0.3              2.8         3.1        2.1            11.9        14.0         2.4           14.7       17.1
+Physical Contingencies                      0.1              0.5         o.6        0.3              1.8        2.1         o.4            2.3        2.7
+Price Contingencies                         0.2              1.2         1.4        1.2              6.6        7.8         1.4            7.8        9.2
+Total (Telecommunications)                o.6              4.5         5.1        3.6            20.3        23.9         4.2           24.8       29.0
+Total (SINSC System)                     27.7             20.8        48.5       25.6             46.2       71.8         53.3          67.0      120.3
+…---- -- -- -- - - - - - - -- - - -- --- -- - -- - - -- ---- --- -- - - --- -- - - - -- -- - -- -- - - - --- - -- - - - - -- - --- - -- - - - -- - -- -- -- - -- - - - - ----- - - -- - - -- - - - - - - - - - - -- - - - -- - -
+III-Part C (Sector Training Program)
+Training (Bess Cost)                       4.2            12.8        17.0                                                 4.2          12.8        17.0
+Physical Contingency                       0.2             0.8         1.0                                                0.2            0.8        1.0
+Price Contingency                          0.6             1.4         2.0                                                0.6            1.4        2.0
+Total (Sector Training)                 5.0             15.0        20.0                                                5.0           15.0       20.0
+Total Project                          32.7             35.8       68.5        25.6             46.2       71.8        58.3           82.0      140.3    z
+v The Base Cost estimates shown here are in December 1978 prices.  In para 3.08 of the text, these costs were indexed by the 1979 price contingency factor of
+12% to reflect December 1979 price levels.
+2,/ Exchange rate used was US$1 = Cr.20.447
+Revised 12/2/80
+
+
+
+- 40 -                    ANNEX 3-4
+A
+I    0000  - 0    N                   I    - -
+0 N 0040        4 N4.0           I    10fl
+00  N N   0 C 40               -4  o
+-                   I    N
+o  NflNNOO                             i                   -z
+- 0.0  CI     01
+-        00000   .040  00                          I
+00000   0.0 NO  N                   000 0   OIl
+(.40400N0N1  I  ON 01
+o        1 N N         0'' 4   41                   -r     OIl
+A                      .  -  -     -I                  I     Nil
+0      N N            0 NON    01   I    ON  Or NI
+ON            4 NON    or           0.04101
+100          4                0(N   NI         N   Nj0
+0.0    4 NO 04400104   I  0001 NI
+400N      004  III  >                         to-Il
+04004      4,.r,0   0-.              - 4j
+0         --             NOO                               ii
+0%0 000  000 C N
+0        NO  0 0 0    0 4 N 4   C                           NIl
+0        N 10 ,OON    40  40   N                            0,1
+o                       N          N                        NI
+A                                       I                   N
+4          N              N 044    01   I                     ci
+0  0                      NN)    41                           41.
+404                                       I -   -
+0.                                      1*
+0.0      NO  00         004        0    I                   Oil
+0 0004 .000 1- '
+0      0   0   0   N  0   N   4   1.    (-I  I             .1
+N NH -0 I .Ojj
+0000     NOON    .-               41         411
+NO 00 ONONO  4                          1
+4100    0    4 N 40   A                    I      :
+4
+NO         0              00                           NI
+0             0 2I   
+NI        NO.0
+I.
+0          0.0      0000           N 00 '.0        l   4  NI 01
+0      0 N 0 4        0 4 0 -0
+0           .      N              N               I                   41
+0           0
+0          0  044000  4000 N
+i 0       -         N                   ON   Nj
+0           N 4 N4   N           41    4        NIl
+(10      N  4          4           4               I            0      411
+o  0                                             NO1  NI
+0     000010                                                         NI
+O 40       1.
+A    00      0.-
+00        0.0      N 000          44  N 4   0    I   ON                  II
+10 -  (0       0       C NO  4        N 004    4
+00     .  o       4   N N        - NON   0
+00               000000   04
+N        0    04 N 000   0440  N  I  400 N    Oil
+WA         0      -                N   N -  4
+o  10     A
+000  N4                   'o                       101
+400001   0000
++
+000000   000 N 0                            I 01  NI
+404000  0004  0                             I I
+0004    -0   04  ON   N                     I  I
+101      00
+04000    044 N N                             41  NO
+00  N 04        4000    0                  I  I
+0   N N       4 N 0 4  4                 I  I
+0                                                      000
+-     I0         (140       40
+I                400         >0
+4<         04 0   N 1.4                                 00
+0    00           00  040  0.0
+1.1 1.0 0         010 4    04          0 0 4 0  1
+0  0   00             10 II 44
+I 0 0 0 0 00
+04  0 0  0   01..' 01.)       0 0 0 0
+I
+0000004    0  4 0 0 0                 0 0 4 3.                 04
+'-010410100  0   0. N 0.1-(        ON  0.0.
+4 N                                 -
+
+
+
+BRAZIL
+POWER SYSTEM COORDINATION PROJECT
+DETAILED PROJECT COST AND DISDURSEMENT SCHEDULE OF CIRSF SUBPROJECT 1/ 4
+(in uDS 000
+1980                             1981                          1982                          1983                               1984                           1985                      TOTAL
+Foreign       | LoForei~ft~i1  Inotic              1               Tla,       L.ocl         F-inT.             Lo..l           Fo-irelSn       L-ocal         Eernn           Local F1ii-                I L..aI    GRAND
+Diroot  IndSroc2J.|            Dire       ndOcEt  I                            t     _  ADt-                                    Dirt    Inrre   I             Drect   Indirect I            Direct  Indi-ct               TOTAL
+A.  S-ueris-o  and control- 1
+1. Infra-lr-ct.rn                                                      15                              649                          1894                              385                             85                                                        3028      3028
+2. Eq.ipmn.t aod earecla                                                       2275         79         455       819         79      454      2138        80          476       1933          82     475        1130                          8315      320      186C    10495
+3. E.gi.eer.sg and adm .nlatratio-                                    577       657                   2295       127                1779       567                   1805        659                :353         482                 306      2492               8135    10617
+4. Cons-ltaotn                                  180                   150       135                     75        85                   25       85                     15        135                   75         180                150       800                500      1300
+;. Tra-tn-8                                      74                  252         75                    302        75                 303        75                    254         75                   50          75                 50       449               1211      1660
+6, Studi-n                                                            100                              1EO                            Iso                             100                              0                              tOo                         650       650
+7. BDse .cet .1  (Supnrv.    coctrol)           254                 1094       3162         79        3876      1106         79     4625      2865        80         3045       2802          82    2138        1867                 606    12056       320    15384    27760
+8. PhyIca1  -onting-ncy                          38                   164       474         12         581       166         12      696       430        12          457        420          12      321         280                 91      1808       48      2307      4163
+9.   Sobtotal (7 o 8)                           292                  1258      3636         91        4457      1272         91     5319      3295        92         3502       3222          94    2459         2147                697    13864       368    17692    31924
+10. Pr Io  canting-cy                             68                  292       1225         31        1502       565         40     2362      1819        51         1933       2230          62    1625         1732                530      7639      184      8244    16067
+ti. Total Coat (Superv.    control)              360                  1550      4S61        122        5999      1837        131     7681      5114       143         5435       5452         156    4084         3879               1227    21503       552    25936    47991
+B. Tninconaeonlcatlons 2/
+1. Teleconm   cate nons) 3/ 3/                                                                                                                                                             31                                                 2100              11900    14000
+2. Phy.li-l  -ootinge-oy                                                                                                                                                                                                                       300               1800      2100
+3. Price contingency                                                                                                                                                                                                                          1200               6600      7700
+4.  otal Cost (T.lacom-)                                                                                                                                                                                                                       3600             20300    23800
+TOTAL PROJECT COST                                                                                                                                                                                                                      25J03      552    46236    T1791
+1/  B.se cost -ati-et-s e  in constant Dece-b-r 1978 pria.
+2/  total cant of ChESF's nolciporpo-n t-loc-  ia US027162 2 OllIlon '(liolodig U8570.3 m of forE.gn) of
+thIl 0S"23.O m (i.cl dlog US$3.6 m fore-ig) 1-allocatnd to SNINC on the bals of channel usage.
+31  Aru-l diabuTse-nt not shown for tlecommunliotiO.  co-pocent becfa.e the cost sho-n is no a1ocation
+bend or choc-et uPs.e aDd dons cot r-pren..t phyolc-l1y identlfisble projeot 0its.
+4/  Enchaogn -to ...d .ac US$SlCr20.47.
+
+
+
+- 42 -                                                      ANNEX 3-6
+Power System Coordination Project
+Implementation Schedule of ELETROBRAS Subproject
+1979         1980         1981         1982          1983         1984
+1  2  3  4   1  2  3  4  1  2  3  4  1  2  3  4   1  2  3  4 1  2  3  4
+I. Supervisory and Control System
+A. RTSS
+1. Bidding Process                                                X   X X  X  X
+2. Manufacturing of Support Supply System                                          X  X  X  X  X  X  X  X
+3.  Preparation of Application Software                           X   X  X  X  X  X  X  X  X  X  X  X  X
+4.  TraininS                                                                         X X  X  X  X   X X       X
+5.  Installation                                                                                              X X   X X
+6.  Comaissioning                                                                                                          X X   X X
+B. Off-line Information Subsystem
+7. Specification                                                  X   X
+8. Preparation                                                           XX X  X X  X X X X X X  X X
+9. Training                                                                          X X   X X   X X    X    X X  X X  X  X
+10.  Implementation                                                                           XX X X X    X  ZX X             X  X X  X
+C.  SINSC Data bank
+11.  Specification                                                 X   X
+12. Preparation of On-ltine and Off-line
+Programs                                                           X  X  X  X  X                         X X
+13.  Training                                                                          X X                           X X
+14.  Implementation                                                                                                         X X X  X
+II. Telecoemunication
+1.  Demand Studies                                              X   X X
+2.  Circuit Test for Utilities                                  X  X  X   S
+3.  Telephone Network                                              X  X   X  X  S
+4.  Supervision & Communications                                          X  X  X  X
+5. Acquisition of Site for CSC                                  X  X  X
+6.  Survey of Inter-Utility Links                                             X  X  X
+7. Survey of CSC Links                                                        X   X X
+8.  Comsunication Infrastructure definition                                      X  X
+9.  Selection of Configuration of SINSC                                       X  X  X
+10.  Bidding Process                                                                           X X X
+11.  Fabrication,  Transportation & Installation                                                  X  X  X  X  X
+12. Acceptance Period                                                                                       X  X   X  X
+13.  Guarantee Period                                                                                                     XX X   X X 
+14.  Integration of System                                                                                                X  X  X  X  X  X
+III. Building & Auxiliary Equipment
+1.  Hiring of Consultants                                     X  X
+2   Land Purchase                                           X  X
+3. Architectual Studies                                               X   X  X
+4. Engaging Contractors                                                       X  X
+S. Work Statement Preparation1/                                               X  X  X  X  X
+6.  Site Preparation                                                       X  X
+7. Construction                                                                  X  X  X  X  X  X; X  X  X
+B. Purchasing and Installation of Power
+Supplies & Batteries                                  X X  X        X X X X X XX            XIX
+9. Purchasing and Installation of Fire Protection           X  X  X  X   X  X  X  X  X  X  X  X I X  X  X
+10.  Design Procurement and Installation of Micro-
+wave Towers                                                                      X  x  x  x ix  x
+1/ Work statement is the period after award of contract when detailed programs (statements) are prepared for the details of the
+implementation steps of the project, including system design and engineering, software preparation kprograming) procurement,
+and other steps until satisfactory conmercial operation is reached for the system.
+
+
+
+CHESF IMPLEMENTATION SCHEDULE
+1979             1980                        1981                        1982                       1983                        1884                        1989                        1986                        1987
+4      1     2      3      4       1     2      3      4       1     2      3      4      1      2      3      4      1      2      3      4      1      2      3      4      1      2      3      4      1      2      3      4
+and F-n1i Proced- .s_
+2  S-odord I., inn OC..plori- of
+InffnltivcninmEhn SE and USPiEM,
+3  MKO,l-caI-on E--c ..IO  Plannmng
+On h. SEIUS IG-pe I & 21
+4  E-.-cunon of Mndrfi-ca-ons i                                    _
+The SE/US (Gro-p   & 21
+S  SPTcrf,cafron InalOlne+                                                                                                 
+6  Prepacafion of The P;cPPOe|-
+7  Ana-psy Of t.  P     1op .osals_
+8  Co--racI and W50k S-afnmnn-
+8  fnlfrnal PrOpcnjOrrf for Impiomeng p              
+10  Msnofacfors Planning nM SCS
+11  Maoofdclirn of SCS ESorpmnnf                                                                      - I          - _  _  _      _      _-                                                                               
+and SoWfwann fnfcgreiro_
+12  Manu-fan-re nI 8.mof                                                                                                                        7 Confrl_
+U-ll far G-ope I ond 2
+13  F        ctorv 1__f_
+14  Tr-nWpnnfa-lo- ot Eqpmenf                                                                                                                                _
+15. fnffefaronol Eqirpmnnt_
+rOy n-d COS5
+16  fnsfaiiann Hntmot Con-ro_
+17  intallaf inn Of PeA-o3e Contro                                                                                                                    -      - _            - _           - _           -            -
+Uflife- G-np 2
+18   neeina   f Ad-ace  Soft..er
+19  Field Te.. f
+7D  Corn- -sionog of SCS
+21  P-annnd4 id nvWfa._                                                          _                                                                                                                                                                                  i
+I.o, COS Snilding
+22  C-netr-ofion of 8E,ding
+23  Coapera..on e.. -een CHESF and
+24  Man.facfnre               f InilafioO nI
+fRH ofa ConfrOl Ui Sn Gr-ps 3 (2 phi                                                                                                                                                                                                  -             - _           -       -      l
+25  Impl-.Ienfelo of Adenca-d
+KrO9arn I2nd ft..ee                                                                                                                                                                                                                                       on     go I
+TRANSDUCERS
+23  S.e.. of Need fr Trantducae-
+27  El&.ora.Ion of T.e0,rc-l end
+Commercial Spanf-n...ions
+28  Infernal Prnpwur-e fI r Irp.i.nq                          _
+29  SPani..a.in.s. a nA*
+30  Prapsrafion 0l Proplt 1_
+3f  Anniosisol Propasals                                                    _ _                                                                          
+32  Men.l-fcr.r.g                                                                  _
+33  Dnio-Vn 0f Maf-al                                                                   A             A             4*
+HYDROMETEORAL NETWOR!S
+34  Acoi iiron Of  I-odromlr Masfer
+and Coordination --h SCS Suppior
+JbD-'Igi rd,  A-IaN-i f, th. Rtm-                         _             __.,.  _.   
+ilcdriinei                                                                                                                                                  
+36  EIai.inr..on o Teohrca ,and!
+31  S-0-i-linOOroc -son-co
+38  P---naio 0f Proposal-                                                          _
+39  A-alrnisof Procc-als
+40  Meir- 9nil - oOliM Plans -cd, Siplnr
+41  M  -f--ur u E-uP-1n                                                                                                                ,lMdl |-l_| m 
+4f 2            -nnlTc     f R.nn rpoierr
+42loIccivininarrn 00TeonicS ci  moin ConrroillltAts  t  
+4d l3srllon 0r M>lrn Or--ron & Fr1ld Tsfst
+44  Ielalo  wPS,:! ion l|eI  
+45  irinrocrorronM'
+ANDO PANE IS
+Worldf 8nk   21If391
+
+
+
+CONFIGURATION OF SINSC
+AREA CONTROL            E L  R                                                                                        R
+COMPANY SYSTEM            SL        CEEE       CEL       FURNAS      CEMIG       TAPI       CESP       CHS         OTE
+OPERATIONS CENTERS        SUL
+4:-
+To Company Regional
+Operations Centers
+DISTRIBUTION
+COMPANY SYSTEM           CELESC     CELG        CEB      ESCELSA      LIGHT      CBEE       CEMAT       CPFL       LIGHT
+OPERATIONS CENTERS                                                     RIO
+COMPANY
+REGIONAL
+OPERATIONS
+CENTERS
+World Bank - 21394
+
+
+
+Power System Coordination Project
+ELETROBRAS
+Financial Indicators 1976-86
+Actual                                                        Forecast
+1976      1977       1978           1979       1980       1981       1982       1983       1984       1985       1986
+1 Times annual debt service covered
+by gross internal cash generation ei            4.0        4.1        3.2            2.2        2.3        1.5        2.5        2.6        2.5        2.5       2.5
+2 Net Internal Cash generation as
+% of total financial require-
+ments                                          31         28         26             15         29         13         32         35         35         35        34
+3 Total consumer based contribu-
+tiona am % of total financial
+requirements                                   75         68         65             53         92         76         97         99         99        100      100
+l4 Borrowing as % of total financial
+requirements                                   24         30         35             30          8         23          2          _                     _         _
+5  Debt/Equity Ratio                               45/54      51/49      49/51          59/41      58/42      60/40      59/41       59/41    59/41       59/41    59/41                   4s
+LA
+6  Average yield on capital invest-
+ment bJ                                         6.9        8.5        0.1
+7 Average yield on loan invest-
+melnts s/                                      14.5       12.9       11.8
+8 Average yield on total
+investments #/                                 11.9       11.6        7.6
+9  Average cost of borrowing                          6.o       6.5         5.7
+10 Rate of return on total capitaliza-
+tion e/                                         8.4        7.5        8.1
+Notes
+a' Grosa internal cash generation divided by debt service
+2/Reveniues from shareholdings divided by average investments in capital stock
+c/  Revenues from loans divided by average investments in loans
+ReveIiUes from shareholdings and ]oans divided by average total investments
+Net incDme divided by the average at' equity and long term debt outstanding
+
+
+
+Power System Coordination ProJect
+ELETROBRAS
+Sources and Uses of Funds 1979-86
+in millions of June 1979 Cruzeiros                                              Total
+1979             1980        1981      1982        1983        1984        1985              1986      1980-85
+Sources
+Net Operating Income                                            32980             39941      47485       55328      60467       67104       77420            90002       347745
+Less:  non-cash additions to revenuel!                          (5308)            (5672)      (7546)     (9298)     (6060)      (3413)      (2262)            (1596)     (34251)
+Plus:   Loan amortization receipts                               5815             10427      13157       15921      20279       24364       28447            32994       113075
+Gross Internal Cash Generation                             33487             44696      53096       61951      75166       88055     103605            121400       426569
+Less:  Interest                                                 10643             14558      14544       15966      17798       19602       21606             23844      104074
+Debt Repayment                                            4747             4785       22084       9295       11129       15232      20177             25541        82642
+Debt Service                                           15390            19343       36625       25261      26927       34384      4                 49385       18776
+Less:  Net Dividends                                             5460              5130       5876        7611       8620        9243      10185             11868        46665
+Total Deductions                                           20850            24473       42504      32872       37547       44077      51968             61253       233441
+Net Internal Cash Generation                               12637             20223      10592       29079      37619       43978      51637             60147       193128
+Sector Contributions
+Sole Tax                                                       2930              3854       4228        4693       5467       6123        6953              8031        31318
+Reversion                                                     15684             23248      27775       33044      37915       43904      53281             65203       219167
+Compulsory Loan                                               12577             16913      19053       21736      26146       30599      36274             43804       150721
+Total                                                      31191            44015       51056       59473      69528       80626      96508            117038       401206
+Total Consumer-based contributions                              43828             64238      61648       88552     107147      124604     148145            177185       594334
+Government Contributions                                         3755                -          -           -          -          _           _
+Borrowings                                                      24511              5617      18746        2207        405         -           -                 -         26975
+Others                                                          10179               134        153         176        203         234         269               309        1169
+Total Sources of Funds                                     82273            69989       80547      90935      107755     124838      148414            177494       622478
+Uses of Funds
+Equity  Investments                                             12090             12671       20538      27234      19572       15186       17661             20040      112862
+Loan and Advances                                               67807             51932      56971       60482      81568      102350     123106             148635      476409
+Others                                                           2376              5386       3038        3219       6615        7302        7647              8819       33207
+Total Uses of Funds                                        82273            69989       80547      90935      107755     124838      148414            177494       622478
+t/  In addition to depreciation , this includes unrealized gains from investments in subsidiaries and
+associated companies.
+Revised 12/2/80
+
+
+
+Power System Coordination Project
+ELETROBRAS
+Actual and Forecast Income Statements 1976-1986
+In millions of Cruzeiros
+(Forecast In June 1979 Currency)
+Actual (In Current Currency)                                                        1979
+1976     1977     1978           1979      1980     1981      1982     1983      1984     1985      1986
+Revenues            s                         1253     2316        40        10602      15215    18680    22044    21396    21224    22452    23295
+From Loans & Financing                      4245     6830    12877         25031      27691    32161    37056    43268    50562    60222    72609
+From Other Sources                           798       922     131                 -         -             -         -        -         -         -
+Total Revenues                          6296    10068    13048          35633     42906    50841    59100    64664    71786    82674    95904
+Expenses
+Admin., General & Other Expenses             631      974     1372          2653       2965     3356      3772      4197     4682      5254     5902
+Net Operating Income                        5665     9094    11676         32980      39941    47485    55328    60467    67104    77420    90002
+Interest Payments                             1325     2687    4622           10643     14558    14544    15966    17798    19602    21606    23844
+Income before tax                           4340     6407     7054         22337      25383    32941    39362    42669    47502    55814    66158
+Income Tax                                    _        -       454           737        641      893      3068      3752    4618       5845     7486
+After Tax Income                            4340     6407      6600        21600      24742    33834    36294    38917    42884    49969    58672
+Plus:  Net Monetary Adjustment b              _        -       7525            -         -         -        _-                 -         -         - 
+Net Income                              4340      6407    14125         21600      24742    33834    36294    38917    42884    49969    58672         >
+a/ Beginning in 1979 unrealized gains from investments (i.e. the difference between the equity value and cost of investments) are reflected
+in revenues from shareholdings.
+b/ In 1978 this account consisted of net monetary variation (Cr$ 10,003 million) and net monetary correction of fixed assets and
+equity (Cr$ 9,478 million).
+Revised 12/2/80
+
+
+
+Power System Coordination Project
+ELETROBRAS
+Balance Sheets 1976-86
+(In 100 million cruzeiros)
+In Current Prices                                         In June 1979 Prices
+As of' December 31,                  1976      1977      1978          1979      1280      1981       1982      1983       1984      1985       1986
+Assets
+Fixed Assets                                        3          4         7
+Current Assets
+Cash & Equivalent                                14        15         56           10         9         12        12         14        17         20        23
+Other Current Assets                             36        94        126          104       132        159       208        244       284        330       396
+Total                                       50       109       182           114       141       171        220       258        301       350        419
+Investments
+Loans                                           388       690       1365         2030       2410      2812      3200       3761      4489       5371      6445                1
+Capital Stock                                   228       316        914         1622      1849       2146      2527      2811       3023       3247      3479
+Total                                      616      1006      2279          3652      4259      4958       5727      6572       7512      8618       9924               CO
+Total Assets                               670      1120      2468          3766      4400      5129       59147     6830       7813      8967      10342
+Liabilities & Capital
+Long Term Debt                                    283       511       1107         171S       1942      2494      2940       3419      3947       4569      5327
+Currenit Liabilities                               33        80        142          107        287       181       232        287       356        440       534
+Capital & Reserves                                351       525       1218         1183      1407       1691      2011       2358      2751       3185      3706
+Deferred Credits & Liabilities                    294       377         -           761       763        764       764        766       769        772       775
+Total Liabilities & Capital                670      1120      2468          3766      4400      5129       5947      6830       7813      8967      10342
+
+
+
+Pover System Coordination ProJect
+CHES_
+Financial Indicators
+1976         1977      1978        1979      190         198 1       1982                    1984       198          19856
+1.  Finarncial Rate of Return ia(%)                       17         17        12         10.3        8.6         9.0        9.6        12.2        14.1        12.0        10.2
+2.  Operating Ratio    (%)                                40         35        39         36         39         38          38          34          32          48          56
+3.  Debt Service Coverage Ratio                            1.1        o.6        0.5       o.6        o.6        o.6         0.7         0.8         0.9         0.7         0.7                4s
+4.  Self-financing Ratio .                                 3                    L          S          v          S/                                    / v  L    V          V                   %0
+5.  Debt/Equity Ratio i                                 65/35        71/29     65/35      67/37      69/31       69/31      68/32       65/35       61/39        59/41       58/42
+6.  Receivables at year end (days sales)                 162        106        60         56         60         60          60          60           60         60          60
+7.  Depreciation as % Average Gross Plant                             3.1       3.4        3.3        3.0         3.2         3.5         3.6         3.6         3.7         3.7
+N/ Ret operating income (excluding reversion and transfers from global reserve fund) as % of average net fixed assets in operation
+b/ Operating expenses divided by operating revenues
+Gross internal cash generation divided by debt service
+Net internal cash generation as % of total financial resources
+Net divided by debt plus equity
+Negative self-financing ratio
+
+
+
+- 50 -
+ANNEX 5-6
+Pover System Coordination Project
+C8ESF
+Sources and Applications of Funds
+(In millions of June 1979 Cruzeiros)
+Total
+1979       1980       1981      1982      1983      1984      1985       1986      1980-1985
+Sources of Funds
+Net operating income                      3,000       3,362      4,585    5,525    7,686       9,095    7,278      6,013       37,531
+Depreciation                              1,368       1,947      2,710    3,427    3.692       3.753    3,953      4 350       19.482
+Total                                   4,368       5,309      7,295    8,952   11,378    12,848   11,231    10,363          57,013
+Less: Debt service
+Amortization
+Interest
+Total                                   7,405                               9,233    1 8 3,07 1 4,042  4,942 5   15,31359    78,387
+Dividends                                   428         632                                      993    1,546      1,654        3,171
+Less reinvested dividends                   414         610       _         _                    959    1,494      1.599        3.063
+Net dividends                             14          22                                       34        52        55          108
+Net internal cash generation               (3,051)    (3,946)   (4,487)  (4,055)  (2,664)   (2,128)  (4,202)   (5,051)    (21,482)
+Equity Investments
+ELETROBRAS  loans converted to equity   1,199         2,045      2,257    3,000    2,900       2,500    2,000      1,000       14,702
+Advances for construction                    797        114        120                                                            234
+1,996      2,159      2,377    3,000   -Y2,900      2,500    2,000      1,000       14,936
+Borrowing
+Local loans                               8,525       9,885      8,877    6,231    6,894       7,166    8,881      9,428       47,934
+Foreign Loans                             3,310       4,233      4,268    2,166   _  665        _         _                    11.332
+Total                                  11,835      14,118    13,145    8,397    7,559        7,166    8,881      9,428       59,266
+Total Sources of Funds                   10,780      12,331    11,035    7,342    7,795        7,538    6,679      5,377       52,720
+Uses of Funds
+Construction program                     11,413      12,622    11,432    7,707    8,277.    7,822    7,025         5,571       54,885
+Net working capital changes                (559)       (212)      (331)    (331)    (445)       (250)    (320)      (180)      (1,889)
+Cash surplus (deficit)                       (74)       (79)       (66)     (34)      (37)       (34)     (26)       (14)        (276)
+Total Uses of Funds                      10,780      12,331    11,035    7,342    7,795        7,538    6,679      5,377       52,720
+
+
+
+Power System Coordination Project
+CHESF
+Income Statement 1976-86
+(In millions of June 1979 Cruzeiros)
+Actual                                                                Forecast
+1976       1977        1978             1979         1980         1981        1982         1983         1984       1985         1986
+Operating Reveniues                 1419        2462       3711              6476         8075       10854        13232       16099        17733       19967       21591
+Operating E:xpenses
+Operations & Maintenaznce          366         526        740               962         1173        1418         1569        1804         1913        5617        7816
+Depieciation i/                    183         325        714              1368        1947         2710         3427        3692         3753        3953        4350
+Reversion b/                       220         453        709              1146         1593        2141         2711        2917         2972        3119         3412
+Other Expenses                      15          20                                                                     r_
+Total                            784       1324        2163              3476        4713         6269        7707         8413         8638      12689        15578
+Net Opetating Iincome               635        1138       1548              3000         3362        4585         5525         7686        9095        7278         6013
+Lees:   InLerest Charges             143         759       1004              2082         3355        4322         5701         5632        5412        5446         5675
+Net Other Expenses (revenuies) i  (111)       (143)      (377)             (619)        (877)        (647)       (43)         (811)      (1400)      (             152
+t'otal Deductions from ITrcome    32       616         627              1463        2478         3675         4858        4821         4012        3647        4147
+Net Income                         603         522        921              1537          884         910         667          2865        5083        3631         1866
+j )epr,ciation estinmated at about '3 of depreciable plant. Beginning 1979 amortization quota of capitalized interest has been included
+J  Revevsioni includes the reserve f'or global guarantee and estimated at 3.5% of remunerable assets (2.5% in 1979).
+e/  Tri:udes income f'rom investments, profits (loss) on sale of assets, etc.
+
+
+
+Power System Coordination Project
+CHESF
+Forecast Cost of Service
+(In millions of June 1979 Cruzeiros)
+1979       1980        1981        1982        1983        1984        1985        1986
+Remunerable Gross Plant a/                     40329       55266      74711       93742      100595      102455      107556      117315
+Interest Capitalized b/                         1217        3969       9572       14144       16003       16275       17918       21468
+Materials and Supplies                           185         268         381        491         532         542         573         635
+Total                                       41731      59503       84664      108377      117130      119262      126047      139418
+Less:
+Accumulated Depreciation c/                     4421        6022        8149      10861       13968       17206       20536       24085
+Amortization reserve (of Idc) b/                 681         765         968       1325        1777        2262        2771        3359
+Donations and Contributions d/                  2144        2144        3341       3370        3371        3370        3584        3584
+Prior Years Shortfall                            -         (1884)     (5023)      (9756)    (13191)    (15264)    (19891)    (27464)
+Total Deductions                             7246        7047        7435       5800        5925        7574        7000        3562
+Remunerable Investment                         34485       52456       77229     102577      11205       111688      119047      135856
+Cost of Service
+Remunerable Investment e/                       3000        5246        7723      10258       11120       11168       11905       13586
+Operating Expenses                               941        1093        1335       1484        1716        1822        2063        2227
+Depreciation c/                                 1368        1947        2710       3427        3692        3753        3953        4350
+Reversion f/                                    1146        1593        2141       2711        2917        2972        3119        3412
+CCC (Fuel) Quota                                  21          80          83         85          88          91          94          97
+Total                                        6476        9959      13992       17965       19533       19806       24594       29164
+Sales (GWh)                                    13895       16140      19711       21902       25334       26893       30451       32882
+Average price (Cr¢kWh) g/                         44          50          55          60         64          66          66          66
+Sales Revenue                                   6057        8075      16854       13232       16099       17733       19967       21591
+Receipts from Global Guarantee Fund              419         -           -          -           -           -           -           -
+Total                                        6476        8075      10854       13232       16099       17733       19967       21591
+Revenue Shortfall                                -         (1884)      (3139)     (4733)       3435       (2073)      (4627)      (7573)
+a/  Principal difference from balance sheet item is pro-rating of plant additions.
+b/  Decree No. 1506/76 requires interest on construction works to be put in a separate account and amortized over
+the useful life of the asset after construction is completed.
+ci/  Depreciation was estimated at the rate of about 3% of average gross fixed assets.                                                           n
+d/  Contributions by consumers and other third parties are not remunerable.
+e/  Equivalent to 10% of remunerable investment (8.7% in 1979)
+f/  Reversion and Global guarantee quota were estimated as 3.5% (2.5% in 1979 of remunerable investment.
+In the forecasts, effect of 55% tariff increase in November 1979 was not considered inasmuch as the forecasts are in June 1979
+constant cruzeiros.  CHESF assumed a 10% tariff increase in 1980 and 1981 and 5% per year in each of 1982, 1983 and 1984.
+
+
+
+Power System Coordination Project
+CHESF
+Balance Sheets 1976-86
+(In millions of Cruzeiros)
+Actual (Current Prices)                                          Forecast (Constant June 1979 Prices)
+As of December 31,                           1976         1977        1978             1979        1980        1981        1982         1983        1984         1985        1986
+ASSETS
+Gross Plant in Service                     7195       14050        27425           54567        74434       93372      100321      102118       104316      110855       123776
+Accumulated Depreciation                   (748)      (1297)       (3192)          (5112)      (6940)       (9363)    (12365)      (15576)      (18840)     (22256)    (25962)
+Accumulated Amortization                   (227)       (311)        (561)           (665)        (665)       (665)       (665)       (665)        (665)       (665)        (665)
+6220       12442       23672            48790       66829       83344       87291        85877       84811        87934       97149
+Conistruction in Progress                 10035       16827        34189           29895       22651        15144       15903       22382        28006       28494        21143
+Exchange adjustment                         434         871           -
+Total Fixed Assets                16689       30140        57861            78685       89480       98488      103194       108259      112817       116428      118292
+Current Assets
+Cash                                      541         839          370             499         611          764         896        1054         1144        1268         1357
+Accounts Receivable                       633         715         615             1004         1338        1798        2192        2667         2938        3308         3577
+Materials and Supplies                    177           72         144             250          361         475         526          540         552          590         670
+Other Current Assets                       40          47         624             1252        1698         2304        2816        3435         3789        4270         4619
+Total                              1391         1673        1753             3005        4008        5341         6430        7696        8423         9436       10223                1
+Ul
+Deferred Debits                              38           37       4524            10085        14261       17378       19178        21036       23732        26856       29570
+Total                             18118        31850       64138            91396      107242      120571      128108       136274      144236       151940      157222
+LIABILITIES & CAPITAL
+Paid-in Capital                            3150        3560        4681             5267        6096         6707        7505         8272        9596        11298       12743
+Reserves                                   2480        4573        15672           21172       23919        26256       29335        32422       36212        39986       42761
+Surplus                                      15         210          241             214          177         394         184         1102        2985         2981        1696
+Total Equiity                      5645         8343       20594            26653       30192       33357        37024       41796       48793        54265        57200
+Long Term Debt                             9880       17960       34003            52470       61755        68918       70410        70204       69253        70199       71421
+Current Liabilities
+Accounts Payable                          721        1604        2204             3597        4796         6446        7859         9561       10532       11858        12823
+Current Portion of Long Term Debt         558        2179        3577             2588        4832         5983        6906         7765        8117         7936        8205
+Other Current Liabilities                                         428             1341          806         886         928         1967        2560         2701        2592
+1279        3783        6209             7526       10434       13315        15693       19293        21209       22495        23620
+Otber Liabilities
+Deferred Credits                         1294         820           -
+Contributions & Donations                  16         944        3332             4747        4861         4981        4981         4981        4981         4981        4981
+i'otal                             1310         1764        3332             4747        4861        4981         4981        4981        4981         4981         4981        "
+Total Liabilities                 12469       23507        43544            64743       77050       87214        91084       94478        95443       97675       100022
+Total Liabilities & Capital        18118       31850       64138            91396      101242      120571       128108      136274       144236      151940       157222
+
+
+
+EXHIBIT A
+- 54 -
+BRAZIL
+POWER SYSTEM COORDINATION PROJECT
+Selected Documents and Data Available in the Project File
+A. REPORTS AND STUDIES ON THE SECTOR
+A.1     GCOI Documentos basicos do GCOI
+A.2     Eletrobras - Directoria de Operaqao de Sistemas
+Sintese do Plano de Operaqao para 1979
+das Regioes sudeste, nordeste e sul
+Novembro/ 1978 - DEOP/DVEO
+A.3     GCOI - Sudeste/Sul - Secretaria de Supervisao e Coordenagao -
+ELETROBRAS diretoria de Operaqao de Sistemas
+ltrimestre 1979 - Relatorio de Acompanhamento Energetico
+A.4     GCOI - Secretaria de Supervisao e Coordena;ao
+Relatorio Anual de Operaqao do Sistema Interligado - 1978
+ELETROBRAS - Directoria de Operaqgo de Sistemas - DEOP/DVEO
+A.5     GCOI - Sudeste/Sul - Secretaria de Supervisao e Coordena-ao
+ELETROBRAS Diretoria de Operagao de Sistemas
+1977 - Relatorio Anual de Operaqao do Sistema Interligado
+(GCOI Annual Report - 1977)
+A.6     GCOI - Secretaria de Supervisao e Coordena'ao
+Relatorio Estat'stico de Operargo do Sistema Interligado - 1977
+ELETROBRAS - Diretoria de Operacao de Sistemas DEOP/DVEO
+(GCOI - Statistics on Operation of the Interconnected System -
+1977)
+A.7     GCOI - Sudeste/Sul - Secretaria de Supervisao e Coordena9ao -
+ELETROBRAS Diretoria de Opera9ao de Sistemas
+lTrimestre 1979 - Relatorio de Acompanhamento Energetico
+(GCOI - Report on Energy Allocations)
+A.8     GCOI - Secretaria de Supervisao e Coordenasao
+Relatorio Anual de Operacao do Sistema Interligado - 1978
+ELETROBRAS - Diretoria de Operaqao de Sistemas - DEOP/DVEO
+(GCOI - Annual Report - 1978)
+B. REPORT AND STUDIES ON THE PROJECT
+B.1     Executive Summary of the Real-Time Supervision System; July
+1979; prepared by Consorcio Hidroservice - SCI for ELETROBRAS.
+B.2     Technical Specification for the Real-Time Supervision System
+(in five volumes); December 1978; prepared by Consorcio
+Hidroservice - SCI for ELETROBRAS.
+
+
+
+- 55 -
+B.3     Technical and Economic Justification of .he National Supervision
+and Coordination Center
+(a) Report No. 27 -
+Consorcio Hidroservice - SCI (Systems Control Inc. in Palo
+Alto, California)
+October 1978
+(b) Addendum No. 1, October 1978
+(Cost Comparison of SSC Configurations)
+(c) Addendum No. 2, January 1979
+1. Demostrativo dos Custos de Investimentos do Projecto
+CSC. (Demonstration of Cost of Investments of CSC)
+2. Demostrativo dos Custos de Operaqao do Centro Nacional
+de Supervisao e Coordina9ao. (Demonstration of
+Operating Costs of the National Supervision and
+Coordination Center)
+3. Determinacao dos Beneficios minimos para a viabilidade
+do Projeto CSC. (Determination of the Minimum benefits
+for the Feasibility of CSC Project)
+4. Consideracoes sobre os Beneficios Esperados do Projeto
+CSC. (Considerations on the Benefits Expected from the
+CSC Project)
+(d) Anexos - January 1979
+(e) Addendum #2 - Revisao - March 1979
+(f) Anexos -
+I through IV - March 1979
+Annex I.     Brazil South East/South System operation data
+to 1983.
+Annex II.    Le despatching nationale de 1'E d F (The
+national dispatching of EdF)
+Annex III.   Hierarchical computer control for ENEL electric
+system.
+Annex IV.    Impact assessment of the 1977 New York city
+black-out.
+(g) Annexes V - IX March 1979
+
+
+
+- 56 -
+Annex V.     Auerbach computer technology report.
+Annex VI.    Dispatcher training simulator
+Annex VII.   Custos de construgoes no Brazil (Construction
+costs in Brazil)
+Annex VIII.  Orqamento Geral de investimentos com treinamento
+de pessoal.
+Annex IX.    Supervision and Coordination System Project -
+Project Management Task.
+(h) Anexo X - March 1979 - Relatorio #16 - Requisitos de Tele-
+communicagoes do Sistema de Supervisao e Coordenarao
+(actually prepared by Consorcio Hidroservice - SCI)
+December 1977.
+B.4     Convenio Para Implantagao do Sistema Nacional de Supervisao e
+Coordenacao de Operaqao Interligade - SINSC (Agreement on the
+Installation of the National Supervision and Coordination System
+for Interconnected Operations)
+ANNEX 1.   Exposigao de motivos No. 028/79 do Exmo. Sr. Ministro
+dos Minas e Energia.
+ANNEX 2.   Organizaqao para a implantaqao do SINSC.
+ANNEX 3.   Directrivos basices para o funcionamento do SINSC.
+B.5     System for Supervision and Coordination of the Operation of the
+Brazilian interconnected Electrical System Technical Specification
+for the Real-Time Supervision System Specification No. 1 - Volume
+1, December 1978, Consorcio Hidroservice - SCI.
+Contents:
+Volume I
+1.0   Introduction and Background
+2.0   Executive Summary                                               *
+Volume II
+3.0   Man-machine interface operation requirements
+4.0   Data communication requirements
+5.0   Support Software
+Volume III
+6.0   Application Software
+
+
+
+- 57 -
+Volume IV
+7.0   Hardware requirements
+8.0   Overall RTSS requirements
+9.0   Workmanship and standards requirements
+10.0 Project implementation requirements
+Volume V
+Appendices:
+A - Displays
+B - Summary of reports
+C - Content of structured messages
+D - System documentation delivery schedule
+E - Glossary of terms and abbreviations
+F - Content of Data received and Data transmit file
+Attachment
+Hardware and software requirements for the interface between
+the national center and the companies data acquisition and
+control systems.
+B.6     Commissao de estudos de criterios para programa;ao de inter-
+cambios e sua contabiliza;ao - CEPIC
+- Nova metodologia para programagao e contabiliza;ao de inter-
+cambios energeticos no sistema interligado - furnas/cemig/
+light - Sao Paulo/cesp/eletrosul
+- Relatoria SCEN-CEPIC - 01/79
+Marqo de 1979
+B.7     Organizagao do Projeto de Implantaqao do SINSC  (Organization of
+the Implementation of SINSC); September 1979, ELETROBRAS
+B.8     Energy Management System (EMS) Planning Document; September 1978;
+(in two volumes) prepared by THEMAG/STAGG for CHESF (Report is
+the feasibility study for CHESF's COS)
+B.9     Energy Management System (EMS) Procurement Spec; September 1979,
+THEMAG/STAGG for CHESF. (Report covers descriptive technical
+specification for CHESF's COS)
+B.10    Energy Management System (EMS) Supplementary Spec; August 1979,
+THEMAG/STAGG for CHESF
+B.11    Sumario do Projeto do Sistema de Controle e Supervisao; 11/12/
+1979; prepared by CHESF's department of operations (Report is a
+summary of the EMS Planning Document (Item B,.6))
+
+
+
+- 58 -
+B.12    Summario Executivo do Projeto do Sistema Integrado de Tele-
+comunicagoes; January 1980, CHESF (Report is a summary des-
+cription of the Northeast telecommunication project and
+includes copy of the agreement for its implementation)
+B.13    Sistema de Telecomunica;oes para suporte do sistema de
+Controle e Supervisao da CHESF; December 1979, CHESF
+B.14    Configura;ao do Sistema de Telecomunica;oes - CHESF, July 1979
+PROMON for CHESF
+B.15    Companhia Hidro Eletrica do Sao Francisco - CHESF Sistema
+Integrado de Telecomunicaroes Or;amento/Chronograma Fisico-
+Financiero; July 1979, PROMON for CHESF
+B.16    Configuragao do Sistema de Telecomunicacoes - CHESF; July 1979,
+PROMON for CHESF
+B.17    Sistema de Supervisao e Controle - SSC Implantarao de Recursos
+de Supervisao Controle e Agusigao de Dados Memorial Technico
+Descritivo; December 1979, LIGHT (Report is a summary of
+feasibility study of LIGHT's COS)
+B.18    LIGHT - Servicios de Eletricidade S.A.  Sistema Hierarquico de
+Supervisao e Controle Descriptive Technical Report; October
+1979 (later superseded by November 1979 revision). Prepared
+by PROMON
+B.19    CHESF Sistema de Controle e Supervisao da CHESF Pedido de
+Financiamento do Banco Mundial; circa September 1979; prepared
+by CHESF
+- Dossier I: Contains technical information on CHESF's COS
+- Dossier II, Volume I: Contains information on organization
+aspects of CHESF
+- Dossier II, Volume II: Contains financial information on
+CHESF
+B.20    Real-Time Supervision System Bid No. 2000; 1979; prepared for
+ELETROBRAS by CAEEB. (Report covers bidding documents and
+specifications for the CSC).
+B.21    Projeto SINSC:  Termo de Referencia_para o Painel de Consultores
+do Projeto, April 1980 ELETROBRAS.
+B.22    Projeto SINSC: Situagao Atual de Implantaqao do Projeto; April
+1980, ELETROBRAS.
+
+
+
+- 59 -
+B.23    Organizagao do Projeto de Implantagao do SINSC; March 1980,
+ELETROBRAS
+B.24    OrganizaVao para Implantagao do Projeto; August 1980,
+ELETROBRAS
+B.25    Plano Plurianual de Implantarao; July 1980,
+ELETROBRAS
+B.26    Programa Anual de Implantapao; July 1980,
+ELETROBRAS
+C.   WORKING PAPERS PREPARED BY BANK STAFF
+C.1     Miscellaneous financial forecasts, economic anaiyses, and cost
+comparisons.
+
+
+
+
+
+
+0  i t S .   ,    X   V E .FZ U; E L A              =                                                                                      ==                        __       -
+7 : X x~GUYANA )-
+000 0 fOLO;MBA  0 0 X \05  Ct     t            F >       - ,SURINA;ME GUIANA/')
+a 4 0; ; L; S r- tAs _ > gli~~~~~~f   9                                                                     A  -'-- 
+' Macapu4<~~LETONR 
+WX~~~~~~ ~6/   gS   l___
+5   - /  3at  1t  $    ,  iE)4   '       //        \3   2 V        a                J    3          >                               r   -          tiaiiul~~~~~TUCURU
+' ''  -f                       t';   ~ ~ ~~ ~~~/-                           g\2g                                                      5LACXr...*  s
+i . '  X h  /  J   '._  (<            A        -, Se                  A l                                                            \                            ,      
+-:  *<-ii ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~EPRAIcBc.PraVlo' X'<0;   ;
+;;;   ; -  l   > U  /   .                          7           \           D i-- 1                         o( a -;                / -i-                   lo 
+PER0U;  0  a  XB  )  L t 1 A \ z s w . -,^; e aS / -I 9 ,) ilvo&,~~~~~~~SOBRA(NH8
+X    0 ;; 00  R   00 0  0 00 0 30001   <                fJ        X,                       9                LiNIL Y~~~~~~~~~.C O    GF!i
+<S00   L  fft    t:   X, fi; BRS4ZiL  f; 0 f a;  f\,   9)ulffba   G,     / BrosiliMa  TC,   A
+X,          X ~NAT40NAL   ELECTRIC   PO>(WER                ..         J/,                              1\,rM:                         5AI15   |wEB
+SUPERVIfSO RY  AND   COORDINATION  S4YSTEMX\                     Z,..F                       oni                                 h     _  
+M XAhN TRAN95PtSSIONg LIN5 -                .          -'I/TES                   9TMI"                           1S
+44 _   _   -KV                                         G,..                                    E    S X l-J    U I < TREfoortn  7ttr
+C d .......... SOiJR;VIr PAR;AG   AY  rLHAND  RSirr'.O R 
+3                           7500KV   ,L                             >           tt,           o '/C bz                                        to tr            Oe7 
+2)       0   0      N ~709eA O}w:                                                                                                   A      00 0z CIE
+|  O       J      0 *  ~PRiNCIPAL SuBSTATIONS'0             ARjjNt           v                                
+3e-       l         '    C05UndPerAT -ot4 CETERS       =               i                                                                                                        l2 n /
+1/ 05  0  Sate crlrscLFs    . 0 0  99  .  }, . .       K       KROMEffRS  D      2D0      ArJ0     600     SDD      1000        t,5a
+1 5 .:. . . Sr<]te bo=rle3r . St: ' i.5 VMILES                                 0      2iO           400           6rD0 's 'C
+i  0 ._._urrerarJe9r woundrJrtrni ;  a  E .   = i  !  LS -i.  >                                                              I                      _ I E~~~~~~~~~50
+
+
+

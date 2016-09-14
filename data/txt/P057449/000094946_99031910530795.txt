@@ -1,0 +1,1380 @@
+Document of
+The World Bank
+ReportNo: 18521-AR
+PROJECT APPRAISAL DOCUMvENT
+ONA
+PROPOSED LOAN
+IN THE AMOUNT OF US$30.303 MILLION
+TO THE
+REPUBLIC OF ARGENTINA
+FOR A
+YEAR 2000 TECHNICAL ASSISTANCE PROJECT
+November 24, 1998
+Argentina, Chile, and Uruguay Country Management Department
+Poverty Reduction and Economic Management Department
+Latin America and the Caribbean Regional Office
+
+
+
+CURRENCY EQUIVALENTS
+Currency Unit = Peso
+Arg. $ 1 = US$1
+FISCAL YEAR
+January - December 31
+ABBREVIATIONS, ACRONYMS AND GLOSSARY
+AFIP                Federal Public Revenue Administration
+ANSES               National Social Security Administration
+Application (or     A set of computer programs designed to perform repetitive procedures, usually on
+system)             a large number of data.
+BNA                 State commercial bank
+CAS                 Country Assistance Strategy
+Contingency Plan    In the context of the Year 2000 program, a plan for responding to the loss or
+degradation of essential services due to a Year 2000 problem in an automated
+system or equipment. It generally describes the steps an enterprise would take to
+ensure the continuity of its core processes.
+Embedded systems  Computer chips forming integral part of any electronic equipment using computer
+technology
+GOA                 Government of Argentina
+Interface           A boundary across which two systems communicate
+IT                  Information Technology
+Millennium
+compliant           Unaffected by the change from 19XX to 2OXX
+PCU                 Project Coordination Unit
+PFS                 Secretariat of Public Function in the Office of the Chief of Cabinet of Ministers
+PPF                 Project Preparation Facility
+Quality assurance   All the planned and systematic actions necessary to provide adequate confidence
+that a product or service will satisfy given requirements for quality
+Risk assessment     An activity performed to identify risks and estimate their probability and the
+impact of their occurrence
+SOE                 Statement of Expenses
+SFP                 Secretariat of Public Function in the Office of the Chief of Cabinet of Ministers
+TAL                 Technical Assistance Loan
+Testing             The process of exercising a product to identify differences between expected and
+actual behavior
+Validation          The process of evaluating a system or component during or at the end of the
+development process to determine whether it satisfies specified requirements
+Y2K                 The potential problems that might be encountered by computer hardware,
+software, etc. in processing year-date information for years beyond 2000 (the
+"Year 2000 problem")
+Y2KEU               Task force of the Information Technologies Under Secretariat of the Secretariat of
+Public Function assigned to the "Y2K" program
+Vice President: Shahid Javed Burki
+Country Director: Myrna Alexander
+Sector Director: Guillermo Perry
+Task Team Leader: Luis-Jose Mejia
+
+
+
+Page 1
+Argentina
+Year 2000 Technical Assistance Project
+CONTENTS
+A. Project Development Objective ..........................4
+1. Project development objective and key performance indicators ......................................4
+B. Strategic Context ..............................................................................................4
+1. Sector-related CAS goal supported by the project ................................................,.4
+2. Main sector issues and Government strategy                                     .4
+3. Sector issues to be addressed by the project and strategic choices.                                      8
+C. Project Description Summary                                                  .9
+1. Project components .10
+2. Key policy and institutional reforms supported by the project .10
+3. Benefits and target population .10
+4. Institutional and implementation arrangements .................................                           11
+D. Project Rationale .............. ,13
+1. Project alternatives considered and reasons for rejection .,                                             13
+2. Major related projects financed by the Bank and/or other development agencies .                          14
+3. Lessons learned and reflected in proposed project design .14
+4. Indications of borrower commitment and ownership .15
+5. Value added of Bank support in this project .15
+E. Summary Project Analyses ...................                                                                       16
+1. Economic ...........................                                                                     16
+2. Financial .17
+3. Technical .17
+4. Institutional .17
+5. Social .17
+6. Environmental assessment ...........................                                                     17
+7. Participatory approach .17
+F. Sustainability and Risks ...........................                                                               18
+1. Sustainability ...........................                                                               18
+2. Critical risks .18
+3. Possible controversial aspects ...........................                                               19
+G. Main Loan Conditions ...........................                                                                   19
+1. Effectiveness conditions .19
+
+
+
+Page 2
+H. Readiness for Implementation ........................                         19
+I. Compliance with Bank Policies ........................                        19
+Annexes
+Annex l.     Project Design Summary
+Annex 2.     Detailed Project Description
+Annex 3.     Estimated Project Costs
+Annex 4.     Procurement and Disbursement Arrangements
+Table A.     Project Costs by Procurement Arrangements
+Table Al.    Consultant Selection Arrangements
+Table B.     Thresholds for Procurement Methods and Prior Review
+Table C.     Allocation of Loan Proceeds
+Annex 5.     Project Processing Budget and Schedule
+Annex 6.     Documents in Project File
+Annex 7.     Statement of Loans and Credits
+Annex 8.     Country at a Glance
+
+
+
+Page 3
+Argentina
+Year 2000 Technical Assistance Project
+Project Appraisal Document
+Latin America and the Caribbean Regional C)ffice
+Country Management Unit 7
+Date: November 20, 1998                             Task Team Leader/Task Manager: Luis-Jose Mejia
+Country Manager/Director: Myrna Alexander           Sector Manager/Director: Guillermo Perry
+Project ID: 57449   Sector: Public Sector Management  Program Objective Category: Economic Management
+Lending Instrument: T.A.L.                          Program of Targeted Intervention:        No
+Project Financing Data                [X] Loan
+For Loans/Credits/Others:
+Amount (US$m/SDRm): $30.303 million
+Proposed terms:                                                 [X] Single currency, USD
+Grace period (years): 5                                    [X] Variable, Libor-based
+Years to maturity: 15
+Commitment fee: 0.75%
+Service charge: 0.0%
+Front-end fee: 1.0%
+Financing plan (US$m):
+Source                               Local            Foreign       Total
+Government                                                     13.0                         13.0
+IBRD                                                           16.303           14.0        30.30
+Total          29.303           14.0         43.30
+Borrower: Republic of Argentina
+Responsible agency:   Secretariat of Public Function, Office of the Chief of Cabinet of Ministers
+Estimated disbursements (Bank FY/US$M):     1999        2000       2001
+Annual       8.303     17           5
+Cumulative       8.303     25.303      30.303
+Project implementation period: January 1999 - June 2001
+Expected effectiveness date:   January 15, 1999
+Expected closing date:      December 31, 2001
+
+
+
+4
+A: Project Development Objective
+1. Project development objective and key performance indicators (see Annex 1).
+To assist the Government of Argentina on an urgent basis to contain the disruption in the country's social
+and economic infrastructure that would be caused by the failure of critical central government systems to
+process dates properly after December 31, 1999.
+The key performance indicators would be (1) the estimated economic and social damage avoided; and (2)
+the number of identified critical functions able to continue operations with minimum disruption through
+June 30, 2001 as a result of the proposed remediation.
+B: Strategic Context
+1. Sector-related Country Assistance Strategy (CAS) goal supported by the project (see Aninex 1):
+CAS document number: 16505-AR Date of CAS discussion: May 15, 1997
+Date of CAS update: March 17, 1998; November 4, 1998
+While the latest CAS for Argentina, dated April 25, 1997, did not exiplicitly include the project as a
+potential operation in the FY 97-00 period, the need for such support has more recently become apparent
+and was included in the latest CAS Update dated November 4, 1998. As the full effects of the incipient
+problem become manifest, there will be a need for substantial rehabilitation of Argentina's computerized
+systems in order to restore full productive effectiveness. These would in turn support the objectives of
+sustained economic growth and protection of the economy from shocks, as contained in the CAS. The
+proposed operation further protects and supports many institutional reforms and advances made in the
+past several years in terms of the Government's economic management capacity.
+2. Main sector issues and Government strategy:
+A problem has arisen in Argentina and world wide because the software and chips used in its manifold
+computerized systems are unable to properly handle dates in the year 2000. This difficulty (known as the
+"Y2K problem") is likely to cause date-based automated processes to malfunction.
+The origin of the problem is that early computer programmers adopted a two-digit code to represent
+years. One explanation is that they had to work around the constraints imposed by the then limits on the
+size of computer memory and expenses of storing data. A useful technique for doing so was to represent
+dates with an implied century. This made economic sense in reducing the amount of storage required and
+improving computers' processing speed (one megabyte of magnetic disk storage in 1965 cost about $760,
+compared to seventy five cents today). To the extent that the eventual consequences of using date
+shortcuts were contemplated in the 1960-70s, it was believed that the underlying programs would be
+replaced well before the century changed-or that there would be ample time to correct the problem.
+Nobody expected software to last as long as it actually has. Now though, beginning in year 2000,
+computer systems will need to differentiate between respective dates in the 20th and 21st centuries in order
+to remain effective and not behave erratically (i.e., to be "Year 2000 compliant").
+The significance of this problem derives from the high dependence of Argentina's economy and society
+on computers. These systems have become integral to almost every aspect of life as they are now
+commonplace in business and scientific applications, both in operating systems and in the micro chips
+used for many control devices. For many years, the Government and private sector have been carrying out
+operational, managerial support and service functions through increasingly automated and integrated
+telecommunications networks. These are at the heart of their institutional performance. Moreover, as
+
+
+
+5
+information and communications technologies have become more versatile, accessible and integrated,
+their roles have increased.
+Already many critical policy and most administrative reforms proposed to improve public sector
+management (including those supported by Bank projects) require effective information systems for their
+implementation. These include: systems for tax collection, pension administration, banking regulation and
+supervision, administration and regulation of union-run health care plans, operation of water, energy,
+telecommunications, train and other transport systems, monitoring and evaluation of education
+attainment, tracking of disease incidence and other indicators of health status, public sector payrolls, and
+financial management. These systems in turn rely substantially on computer software (respectively
+constituting the applications enabling the computers to perform specific tasks or ernbedded in chips that
+are components of myriad systems and tools). The software thus embodies the procedural logic of
+institutional functions, and as such are valuable assets that require careful management.
+Safeguarding these assets into the 215' century is the immediate task of overcoming the vulnerability to
+the Y2K problem. Although simple in origin, this difficulty can have serious consequences. The failure to
+mitigate it could affect hardware, embedded chips, languages and compilers, operating and security
+systems, database management, transaction-processing systems and more. They could corrupt data, crash
+programs or completely fail to operate, causing huge amounts of records and statistics to be
+compromised. Any entity with time-sensitive data from nuclear reaclors and hospitals to financial
+institutions could be ham ed. Essential services, e.g., benefit payments, transport or emergency facilities
+could be severely disrupted. Moreover, numerous agencies and enterprises rely heavily on exchanges of
+information to support their work and have considerable interaction with each others' systems'.
+The most immediate economic and financial consequence of Y2K for the Government and the rest of the
+economy is the large cost that many institutions will have to incur in fixing their systems to prepare for
+the 21S' century. This includes the opportunity cost of not being able to undertake other investments
+during the remainder of the 1990s because of the need to focus resources on Year 2000 conversions.
+Moreover, the country's macroeconomy may be adversely affected by the disruptions in economic growth
+and social order that could result from the aforementioned types of systemic problems and failures to
+prepare adequately for the date change.
+Therefore, the Government of Argentina, along with the private sector, has an overriding interest in
+seeing that the country's computer systems, together with those of their customers and vendors, are
+rendered "millennium compliant"-or face severe consequences. Action is needed to repair, update or
+replace those systems which are deficient or untrustworthy. In most instances, the basic task is to
+inventory the present applications, find the source code of all programs, identify and correct date
+calculations, recompile all these changes, and test to make sure that what has been changed is correct.
+What makes all this particularly challenging is the need to: (a) find all of the places where date problems
+might lead a program to miscalculate or terminate; (b) coordinate the repair of all parts of the overall
+system so that no one repair interferes with the operations of other parts of the system; (c) test the repair
+by using data that accurately mimics the processing that will occur in the next decade; and (d) complete
+the remediation in adequate time.
+It might be necessary to convert existing applications in order to renovate them or develop new ones; in
+some instances, to retire or decommission an existing application or system component. With some
+packaged software, the approach might be a small addition to the original code that bypasses or corrects
+the problem. Alternatively, codes written for customized applications may call for finding words that
+denote time and adding two extra digits-or instructing the computer to treat every date before a certain
+1 AddMonal examples can befoundin theprojec fdes.
+
+
+
+6
+year as belonging to the next century. There are numerous complications though. It is believed that many
+companies know even less about their embedded systems than about their software, a knotty problem
+because manufacturers of equipment will use different sources of embedded chips, resulting in some of
+their production being compliant, some of it not. Also Y2K affects every system that has an external
+interface. These could be inundated by the proposed changes from systems with which they interface
+(fixes that will have to be fielded simultaneously). And the fact that 2000 is a leap year compounds the
+issue.
+For the Argentine Government, the core factors underlying its strategy are the following:
+*  January 1, 2000 will surely arrive and Y2K-caused disruptions are equally foreseeable. But there
+is far less certainty as to what will happen to the aforementioned and other systems and facilities
+as a result, i.e., how widespread the problems will be, how much will need to be fixed, and what
+it will cost to do so.
+*  It would be prudent before then to get meaningful diagnoses of the extent of the possible damage
+and to try to avert and contain it as expeditiously as possible in order to lessen the costs of failure.
+*  There is insufficient time left in this relatively limited interval to plan and put in place all of the
+precautionary measures that should theoretically be taken, let alone convert to new application
+software.
+*  The Government needs to demonstrate that it is firmly addressing the "Y2K problem," and to
+stimulate broad scale civic participation in the process. In doing the latter though, the last thing
+the authorities want to do is to generate fear that could compound whatever disruption might
+ensue.
+In Argentina, as elsewhere, the Government has come only relatively recently to address these problems.
+But it has done so with a proactive approach, on which it has sought to accelerate progress subsequently.
+At the outset, it took constructive steps to develop a comprehensive strategy. One of its elements was to
+raise a high level of awareness of"Y2K" by disseminating wide scale publicity about its nature so as to
+alert the citizenry, as well as to defuse and correct possible misleading impressions. It also sought to
+ensure that there was an official program in each public sector institution to address the problem. It
+squarely placed the responsibility on each agency for definitive actions in its sphere, instructing every one
+to develop a strategic plan and to allocate significant resources to the problem. This was complemented
+by indications of selective assistance for those vvhich could be most sensitively and seriously hurt.
+In light of the imminence of Year 2000 and the impossibility of being fully compliant in time, the
+Government has set out a phased approach to mitigating the possible damage, along with contingency
+provisions. The authorities appreciate that the full extent of the problem's dimensions will not be readily
+determined. They have therefore deemed it essential to approach the problem with a prioritizing focus.
+The Government's strategy calls for simultaneous successive cycles of mini-project development, side-
+by-side with the implementation of the aforementioned first round of "Y2K" mitigation measures. Some
+of the critical functions are easy to identify (for example, pensions and taxes) and are already being
+addressed and included in a first round likely systems to be supported. Other systems will only be
+identified later during project execution on the basis of the competing agencies' respective importance
+for the security and welfare of Argentines, their income and payment obligations, legal transactions and
+elements of personal confidentiality (ref. Sections below on "sector issues" and "Implementation
+arrangements."). These provisions would be accompanied by the parallel development of contingency
+
+
+
+7
+plans for testing and mitigating those sectors not covered in this first round (as well as for those systems
+which prove to still need mitigation after Year 2000).
+Another element of the Government's strategy was the recognition of the need to aLccompany these
+actions with national education and mobilization campaigns, for which the authorities usefully enlisted
+the Internet. This is intended to lessen the risks and liabilities of the approaching difficulties, and public
+apprehension that the Government is insufficiently attentive to the issues.
+The Office of the Chief of Cabinet of Ministers, the hub of central government initiatives, led the defining
+work and continues to oversee the program. In mid-1997, the Cabinet Office alerted all ministries and
+secretariats to the need to gear themselves up for "Y2K" program activity. In August 1997, it established
+a special task force ("Unidad Ejecutora 2000-Y2KEU") in the Civil Service Secretariat's then Directorate
+for Information Technologies for tackling the problem. The Directoirate has the regular task of dictating
+the regulatory framework for technology policies related to computer science, teleinformatics, multimedia
+technologies and other electronic means and systems aspects. The Cabinet Office charged the Directorate
+with providing technical assistance to the national public agencies on "Y2K".
+The Y2KEU team initially commissioned self-audits of the federal agencies in order to get a first
+impression of the extent of the possible problem and of the potential priority rankings of remediation
+cases. The team likewise began publicizing the issue, and convening meetings of concerned federal
+officials to set out the methodologies for testing and curative actions. They followed this by launching
+the preparations for corrective measures in what they tentatively identified to be the most sensitive public
+service sectors. By early 1998, Y2KEU began, with Bank help, to provide technical support to several of
+these agencies for inventorying their conditions in some detail and analyzing Y2K's impact, which led to
+the development of initial action plans by several of these agencies. This initially involved the national
+social security administration organization (ANSES), which after aclvice from the Y2KEU has already
+launched testing and remedial actions. There has also been collaboration with the federal tax and customs
+entity (AFIP), the state commercial bank (BNA) and others. IBRD consultants have participated in these
+activities, advising on suitable software for security and encryption standards, tools for estimating
+resource requirements for assessments, conversions and testing, etc. Since these actions, Y2KEU has
+maintained a steady stream of meetings and communications with federal agencies, concerning their
+action plans, standards for their fulfillment and progress on these matters.
+Alongside of these public sector initiatives, it is important to note that individual Argentine public
+agencies and private enterprises have made numerous strides. The fiinancial sector seems to have made
+most progress (as appears to be true internationally). Early on, the Central Bank set targets for the
+nation's banks to become "Y2K compliant," which it has been monitoring on a quarterly basis. As early
+as 1996, Argentina's 12Ih largest bank, the "Banco Credicoop", started making assessments and
+converting applications to test every line of code, screen and report, both in terms of mainframe systems
+and at the desktop level. It reported in July 1998 that it had been "tracking the Y2K bug" through its
+systems, reviewing 3.5 million lines of COBOL, 800,000 lines of Assembler, 500,000 lines of NCL and
+many desktop and comparable applications, as well as trips into the data logic of databases and
+transaction processors. It calculated that it was then 35 percent done with its repairs. In mid-1998 also,
+the Central Bank (in addition to the aforementioned goal-setting) was reported to have organized a special
+group of banks to collaborate on this issue, and was attempting to conduct a series of inter-enterprise
+tests, starting with six banks and their ATM networks. It contemplates a 120-bank test in April 1999.
+Further, the nation's principal oil and gas company, YPFSA, reported that it has miade substantial
+progress towards becoming "Y2K-compliant." In addition, while there is no known census of private
+firms' activities, many time-sensitive businesses are known to have already started attacking their
+millennium problems. Moreover, as elsewhere, a consultant industry has developed within Argentina to
+
+
+
+8
+provide conversion and related IT solutions, as well as to apprise (and stimulate) individual businesses on
+how to engage in such activities.
+In advancing the arrangements for implementing the "Y2K" program, the Government has recently taken
+the following steps:
+(a) It restructured the organizational framework for the program so as to clearly distinguish
+between the regulatory functions of the ex-Information Technologies Directorate and those
+authorities and capacities required for speedy, effective implementation of this Project's activities
+through the newly established project coordination unit (PCU) These matters are detailed in
+Section C, Project Description Summary of this PAD.
+(b) In July 1998, it elevated the ex-Information Technologies Directorate to the level of Under
+Secretariat, with which all federal agencies are obligated to clear their "Y2K" programs prior to
+new purchases of IT-related goods or services.
+(c) Simultaneously, it charged the regulatory agencies supervising essential infrastructure-type
+services with seeing that "Y2K" requirements also applied to institutions under theirjurisdiction
+(even those which are no longer Government-operated). Y2KEU has been meeting with these
+agencies to follow up on their related measures.
+(d) After initial delays in launching the PCU, the Government has appointed a suitable officer to
+head the Unit and has been recruiting staff to fill its other positions. With interim short-term
+consultant assistance, the Unit has stepped up the PPF-funded initial mobilization and
+implementation tasks.
+(e) In parallel, the Government and the Bank have been collaborating in undertaking assessments
+of the risks involved in the implementation of existing Bank-supported projects for ensuring that, to
+the extent possible, the portfolio is shielded by Y2K disruption. In addition to possible disruption
+of significant utilities and other services, breakdowns in payment and transfer systems leading to
+substantial delays in the flow of funds to and from the Bank, and to and from project entities, could
+lead to substantial delays in project execution, as well possibly as financial problems for the Bank
+and its borrowers. (To this end as well incidentally, all new projects being appraised will hereafter
+include a specific assessment on "Y2K" risks and any corrective action that need be taken before
+end FY99. These assessments focuses on determining which projects could potentially be affected
+by the problem, and setting out to adopt an adequate level of practices and safeguards. These could
+be financed from project contingency funds).
+3. Sector issues to be addressed by the project and strategic choices:
+The main issue for the Government is now how to organize itself better and more rapidly to undertake the
+timely measures needed to address this urgent situation while simultaneously minimizing possible
+misallocation of funds to lower priority activities in mitigating the problem. The authorities appreciate
+that they need to maintain close surveillance over the Y2K program because of the continuing
+deficiencies in implementation capacity at all levels of government, particularly for tasks with short
+deadlines and undefined scope at the outset.
+Given the pressures of time, the Government has decided to provide financing in the first instance for
+critical central agencies and functions, rather than take a broad based approach which would include all
+agencies As noted, priority rankings would be made for the envisaged assistance based on the results of
+analyses of the potential economic, social and political impact of non-remediation. This is intended to
+lessen the risks and liabilities of the approaching dangers and to achieve benefits as soon as possible. The
+
+
+
+9
+PPF-funded activities will help identify other major critical sysLems, diagnose the effort required to make
+them millennium-compliant, estimate the resources required, and prepare the initial action plans.
+Activity is underway for development of guidance for the first public information activities, pilot courses
+for those who would prepare the entities chosen for the mitigation nneasures, and conducting rounds of
+these courses. A national educational and mobilization campaign will alert the public and private sectors
+to possible dangers of failures to achieve "Y2K-compliance," and information on best practices will be
+made available.
+Although one of the first Bank clients to address the issue of Y2K compliance, Argentina is beginning
+remediation efforts very late, and it would not be possible to repair all identified non-compliant systems.
+Government therefore proposes, in addition to remediation efforts, to prepare during 1999 to take
+recovery measures on all critical systems starting on January 1st, 2000. Recovery activities and on-going
+remediation would be necessary for at least one year after this.date. Given that the magnitude of the
+problem is still largely unknown and costs may outstrip available fLnding, it also possible that
+remediation and recovery activities may taken longer than that and require additional resources.
+It should also be highlighted that the project scope does not include provincial governments nor the
+private sector. With respect to the former, it is anticipated that provincial governnments may avail
+themselves to Bank-financing for Y2K activities under the on-going Provincial Development 11 project
+(Ln. 3877-AR) which has as much as $ 80 million of uncommitted funds. An agreement has been
+reached with the Ministry of Interior which administers the above loan to follow the same approach as
+envisaged under the proposed operation. In the case of the private sector, the Government's role will be
+limited to promoting Y2K awareness and encouraging regulatory agencies in the areas of electricity, gas,
+telecommunications, transport and finance/banking to ensure compliance in their respective sectors.
+C: Project Description Summary
+With the appreciation that the task exceeded Y2KEU's capabilities, the Government requested a Bank
+loan, preceded by a US$ 1.5 million PPF advance for preparing the overall program and advancing
+implementation. The project will entail support for: (a) advancement of the initial inventories of the
+agencies' computer systems; (b) the development of the detailed guidelines to govern the remediation
+works and the initial implementation of the first cases; (c) definition of the eligibility criteria for
+individual agencies' acquisitions of Project funds for these works; (d) elaboration of the guidelines for
+procurement of goods and services and their review, as well as the other essential components of project
+execution; and (e) technical assistance and training regarding the methodological aspects (e.g., testing and
+uses of tools) of solving Y2K computer operations problems.
+The project will further provide support for particular entities and systems in order for them to proceed
+with the testing, modification and verification of changes in priority computerized systems of federal
+agencies designed to remedy or otherwise mitigate the effects of the "Y2K problem." These activities
+(sub-projects) would be financed during the period January 1, 1999 to June 30, 2001, with retroactive
+financing of eligible expenditures after July 1, 1998.
+The project's support will be allocated on the basis of a series of agreements with the agencies selected
+for the remediation works or "sub-projects", based on the application of eligibility criteria and the
+decision of an Executing Committee (elaborated in the Institutional and Implementation Arrangements
+section below). The works would extend from the technical assistance required for planning the "Y2K"
+activities through the investments needed for carrying out the remediation measures, together with quality
+assurance and other tests to verify satisfactory results.
+
+
+
+10
+Loan funds would be used to reimburse expenditures incurred or to pay contractors directly against their
+invoices for these activities, as well as the incremental operating costs of the agencies involved in them.
+Consultants would be employed throughout these processes to assist the benefiting agencies and the
+project coordination unit in these operations. They would as well provide independent monitoring and
+verification of suitable technical solutions, as well as effective competition and transparency in
+procurement decisions.
+Given the strong element of public good and timeliness at stake, these "sub-projects" would be initially
+and partly financed on a grant basis. All of the first year's project implementation expenses would be
+provide,, from the proposed Loan. None of the benefiting agencies would be obligated to repay from
+their respective operating budgets, the Bank's share of financing of their "sub-projects." However, they
+would begin to finance these subprojects in their respective second year's project implementation period.
+Therefore, the Bank's share of the aforementioned beneficiaries' incremental operating costs would
+decline proportionately beginning in the second year of implementation. These same provisions would be
+applied to any of the uses of Loan 3877-AR, the Second Provincial Development Project, for comparable
+"Y2K" activity at provincial levels.
+In addition to these sub-projects, the project would also include technical assistance for on-going mini-
+project preparation study and more detailed design of project implementation measures. Simultaneously,
+an expert in information dissemination would provide guidance for carrying out a broad based
+information campaign. A second expert will design a "train the trainers" course to prepare the first
+agencies chosen for mitigation measures and local consultants for participating in the project. Finally, a
+firm(s) would be engaged to verify the status of Y2K remediation activities by critical sector entities in
+the public or private sector.
+1. Project components (see Annex 2for a detailed description and Annex 3for a detailed cost
+breakdown).
+Component                 Category         Cost Incl.    % of    Bank-        % of
+Contingencies  Total  financing    Bank-
+__________________ _(US$MI  (US$M)   financing
+Support Activities            Inst. Build./Other         7.9        18.2      6.9        23.0
+Remediation and Rescue        Inst. Build./Other        31.5       72.7     19.5        64.0
+Project Coordination          Project Mgt.               2.1         4.8      2.1         7.0
+PPF Refinancing                                    1.5        3.5       1.5         5.0
+Front-end fee                                     0.303      0.7      0.3         1.0
+Total        43.303    100.0      30.303     100.0
+2. Key policy and institutional reforms supported by the project:
+The project does not attempt to address long-term institutional problems in the management of the
+Government's information systems. The institutional support provided under the project concentrates on
+the Government's Year 2000 Execution Unit and the project coordination unit to enable them to perform
+their tasks during the life of the project and to help implementing agencies prepare their remediation
+assistance requests.
+3. Benefits and target population:
+The primary benefit of the project will be the preservation or restoration of vital economic and social
+activities resulting from the infrastructure and services, under the purview of the central government,
+kept operative or rehabilitated. The benefits would be spread broadly throughout Argentina as a result
+and are expected to be most evident in: (1) the continued functioning of core government services, most
+notably, tax, pension, health insurance and other fiscal transfers and payments; (2) other services such as
+
+
+
+11
+animal/plant health services, import and export processing, training, social protection programs,
+registration, national identity cards, passports, licenses, and related access to public services; and (3)
+greater likelihood of the continuity of basic public services such as electricity, gas, water,
+telecommunications, transport, financial systems and banking. The intended benefits will be estimated as
+part of the process of setting priorities for individual sub-projects and will include the gains (or prevention
+of losses) from each of the investments made in order to achieve compliance or to remedy the costs of not
+being compliant.
+4. Institutional and implementation arranigements.
+A Project Coordination Unit (PCU) reporting to the Secretary of Public Function will be in charge of
+project implementation and administration. The PCU would carry out initial studies and activities, prepare
+guidelines for diagnoses and subproject implementation plans, prepare terms of reference, analyze the
+impact of non-remediation for selected agencies, review implementation plans, as well as managing the
+project. The PCU will prepare monthly action plans for approval by an Executing Committee composed
+of the National Director (the Secretary of Public Function) and two of the Secretariat's UnderSecretaries.
+The Executive Committee's functions would also include decisions, guided by national priorities, as to
+which particular economic or social function or respective Government agencies merit the highest
+ranking among the full range of potentially affected programs, which would be reported quarterly to the
+Cabinet of Ministers. In the absence of any known international models, the Government would be
+obliged to choose among competing claimants in an essentially rationing (or "triage") process. It has thus
+to set priorities for identifying those systems that matter most in public sector functioning, fixing those
+that can be fixed, and drawing up contingency plans to cope with the rest. The Bank would provide
+assistance through the review of the lists of proposed priority agencies, and would also approve each
+"sub-project".
+Within the project, this process would consist of the application of a set of eligibility criteria for choosing
+among competing claims for combined Government-Bank funds, to be presented by the interested
+agencies. These criteria were agreed to during negotiations. They include: (a) the rneasure of the
+economic and/or social benefits applicable to a given agency or function that preventing or alleviating the
+Y2K problem could provide; and (b) the state of readiness of that particular agency to undertake Y2K
+testing and remediation. The authorities might elect to designate as their most important core functions
+the retention and secure provision of power, water and sewerage, telecommunications, transport and
+banking services. These comprise critical elements of public safety (as well as depending heavily on
+networks).
+In order to prepare the ground and speed the way for action, the PCU would see that an initial risk
+assessment and impact analysis of core business processes in the priority sectors have been carried out.
+These actions would be completed prior to the effectiveness of the recommended Loan.
+The main line of activity under the project would be the testing and remediation functions of the
+individual agencies selected. They would bear the principal responsibilities for the implementation of
+these activities in their respective organizations, as well as their subsequent maintenance. They would
+prepare the proposals for Y2K activities for PCU review in the first instance, and, if selected,
+subsequently prepare the work programs and plans for the conduct of these operations. In this
+connection, it is expected that the agencies would employ consultant firms for these activities under
+financing from the proposed Loan, rather than individual consultants. During negotiations, the
+Government provided assurances that current agency staff members would have to resign from the public
+service in order to compete for contracts to be let for this work.
+
+
+
+12
+The PCU would be assisted in its operations by the aforementioned "Year 2000 Execution Unit"
+(Y2KEU). The latter consists of an experienced group of information technology professionals who are
+quite knowledgeable on Year 2000 problems, as well as the capabilities and conditions of their
+counterparts in the principal central government institutions. It would advise the agencies on diagnoses,
+preparation and approval of plans, and would assist the PCU on technical aspects of Y2K; it might also be
+enlisted to heip overcome Y2K problems in particular agencies. Similarly, it might provide a useful
+resource for procurement and contracting matters.
+The PCU will draft the model operational agreement with agencies, which will spell out their
+responsibilities, conditions and both parties' obligations. The PCU would ensure that the applications
+provide the requisite information, and it subsequently would sign the agreements with those chosen.
+Finally, the PCU would be responsible for the preparation of the later stages of the project in accordance
+with IBRD norms. In the light of the broad scope of these responsibilities, the large number of
+participants and the urgent nature of the problem, the PCU would receive up-front training in Y2K issues,
+management and planning, decision-making, conflict resolution, etc.
+Procurement, contracting and administrative support for the implementation of the subprojects would be
+carried out by the PCU (whose composition is shown below). Due to the urgent nature of the operation, it
+has been agreed that at least in the initial stages, this project would be non-LACI eligible. To avoid delay,
+an existing Project Administration Unit (National Pension Administration TA Project, Loan 4131) would
+provide administrative, accounting and procurement services; this unit would at the same time train two
+consultants (already hired) in project procurement and accounting. This Unit's financial management
+procedures have been reviewed by a Bank Financial Management Specialist and found suitable for the
+initial stages of the project. A LACI-compatible project management and accounting system has been
+identified and negotiations to acquire it are in progress. All procedures and other aspects of the Project's
+activities would be governed by an operating manual satisfactory to the Bank, whose formal adoption is a
+condition of Effectiveness. It would contain the model operational agreement, the agency eligibility
+criteria, the terms of beneficiary financial assistance, etc.
+The Executing Committee wvould analyze and have to approve the substantive content of agency
+proposals, their unLderlying strategies and their merits for assistance. Its procedures and operating policies
+would emphasize transparency, competition and fairness, as well as the importance of establishing
+program norms at internationally acceptable levels of quality.
+The Ministry of Economy will transfer counterpart budget funds to the project account which the PCU
+will manage. The unit also will manage the Special Account, prepare all requests for reimbursement
+from the Bank and keep all project records and accounts. Project accounts, financial statements, the
+Special Account and the SOEs would be audited annually by independent auditors satisfactory to the
+Bank. Audits would be submitted to the Bank no later than six months after the end of each fiscal year.
+Technical, performance and financial reviews would be conducted quarterly by an independent audit
+entity agreed with the Borrower. Supervision would be carried out by the Bank's Task Team, which
+would review implementation of the project on a quarterly.
+
+
+
+13
+Project Coordination Unit
+|Project Coordinator|
+| (Econo;mist)    l
+|Impact Evaluation and |  |Project Administration|
+|Quality Assurance                 Unit        l
+Information       I Y2K Executing Unit I       Implementation          Y2K Compliwice
+Dissemination Unit                                  Monitoring                Testing
+L   ---------     __
+Institutional placement of the PCU
+President
+Office of the Chief of
+Cabinet of Ministers
+Secretariat Public     Secretariat of Fiscal  Secretariat   atgic         Secretariat of
+Function                 Equity                  Controi            Parlianentary and
+Institutional Relations
+Project Coordination
+Unit
+Undersecretariat for    Undersecretariatfor
+Information Technoto        Public Sector
+Managenent
+Year 2000 Executing
+Unit
+D: Project Rationale
+1. Project alternatives considered and reasons for rejection:
+*   Draw on the existing Bank-financed portfolio (which provides support for many significant
+Federal agencies) rather than initiating new lending. On-going projects coulld conceivably be
+
+
+
+14
+amended to mobilize some funds and deploy established implementation machinery to pursue
+Y2K remediation in the cases of individual Government agencies currently being assisted.
+However, there is no necessary correlation between current Borrowers and those on the priority
+agency list. Y2K expertise would have to be developed in each project execution agency.
+Finally, coordination with "Y2KEU" would still be necessary.
+*  Direct project management by each agency was rejected in favor of a central Project
+Coordination Unit due to the multiplicity of agencies involved in implementation and because the
+repetitive nature of interventions (consulting, acquisition of equipment) favors a strong central
+unit.
+*  More definitive, comprehensive planning before undertaking the Project: The imminence of the
+emerging problems limits the preparatory period. A slow implementation start is therefore not a
+realistic option. Moreover, the project approach has to be relatively experimental given the
+considerable unknowns of the emerging situation, and therefore there is a limit on what would be
+gained by further study. In addition, the scheme calls for on-going project preparation activity
+(including empirical learning from the initial stages) which should compensate for design
+oversights or errors at the outset. Project design and operating procedures will concentrate on the
+problem identification and remediation process. Actual implementation will be composed of the
+initial steps of project execution and simultaneously the beginning of successive cycles of
+subproject development financed by the project.
+*  Direct support to Provincial Governments. The project will provide advisory services on request
+to the Provincial Program Coordination Unit in the Interior Ministry for the latter's conduct of
+Y2K-related activities at provincial levels. However, financing for all testing, remediation, etc.
+actions would have to be provided by resources of the Provincial Development II Loan.
+2. Major related projects financed by the Bank and/or other development agencies (completed, ongoing
+and planned): None.
+3. Lessons learned and reflected in the project design:
+There is no known prior Bank experience in dealing with the Y2K problem in individual borrowing
+countries to draw on or lessons to be reported. Moreover, although there has been much written about
+how many institutions around the world began to examine and fix their computerized systems in recent
+years, there is relatively little rigorous evaluation of the data available on this experience. Several
+countries have already applied national programs, although a mid-1998 review indicated that only 19 of
+120 of the Bank's borrowing countries had then initiated such activity. Estimates of program costs run to
+hundreds of billions of dollars for correcting and testing affected systems world-wide. A commonly used,
+considered reliable illustration is the estimate of the size of the problem in a medium-sized USA state,
+North Carolina (population 7 million). Credible estimates call for expending over $300 million to fix the
+problem in its government systems alone.
+Nonetheless, what is known from the latter has been gleaned and some of it applied in the design of the
+proposed Project. This has mainly concerned the development of the requisite planning . One aspect of
+this has been the need for setting national priorities and determining which systems are the most critical,
+in conjunction with drawing up contingency plans for what will go awry or be uncompleted. A second
+aspect has been emphasis on the elaboration of diagnoses to check computerized systems in order to
+identify potential problems that could be caused by the Year 2000 date change. From this, as well as the
+growing body of knowledge-sharing within Argentina's own information technology community, a
+scheme has been drawn up for use in the project which comprises a roadmap as to which critical steps
+must be taken.
+
+
+
+15
+A second ingredient of international experience reflected in project design concerns the selection of
+sectors to be deemed as priorities for proposed Y2K remediation efforts. One survey showed enormous
+variation among countries, within which finance appeared to predominate; then air transport,
+telecommunications and energy; followed by water and surface transport. InfoDev's seminars and other
+sources have shown a general tendency among borrowers towards: (a) according the fields of banking and
+finance, power and gas, water and telecommunications the highest priority ; (b) placing transport facilities
+in second place; and (c) adding health and defense facilities. The more advanced countries appear to be
+focussing on potential failures that threaten public safety. Overall, governments have placed differing
+emphases on particular sectors in reflection of diverse views on which "risks" they consider best warrant
+premiums, i.e., economic, public safety, health, political. The main lesson has been that each govemment
+must set its own priorities in remediation strategies within the constrained finances, capacity and time
+available. This experience has guided the approach used in the Projecit for definition of the eligibility
+criteria to be used in selection of the Argentine agencies to benefit from the recommended Loan.
+In addition, the design of this project follows the lessons of successful "emergency" activities. The
+objective is focused and its activity would be priority-driven. The plan for managing the operation and
+for its close, independent surveillance draws on the demonstrated need for sufficient flexibility to react to
+unforeseeable circumstances. Decision-making authority and project implementation are highly
+centralized so as to reduce the chances for bottlenecks. Furthermore, the project does not pursue any
+sector policy objectives and has no conditionality in this respect. The approach for monitoring and
+evaluation emphasizes adaptable action plans and work programs.
+On the other hand, the Government's implementation record has been mixed, with numerous agencies
+having weak capacity in management and procurement. Under these circumstances, the "best practice" in
+other emergency-type projects was to centralize procurement responsibility. This is being replicated here.
+Similarly, TA is to be provided in order to help the implementation unit prioritize investments in order to
+try to maximize their impact and demonstration effects.
+4. Indications of borrower comnmitment and ownership:
+The Government has already designed a suitable strategy for approaching the Y2K problem. It likewise
+drew up the program to carry out that strategy, including the establishrnent of an appropriate
+organizational framework for its direction and implementation. The Cabinet Office has repeatedly
+demonstrated strong political support for and interest in the program. It intends to issue a resolution
+requiring all Federal Government agencies to become "Y2K - compliant" by Septemlber 1999.
+5. Value added of Bank support in this project.
+The Bank's involvement is intended to assist Argentina in coping with the potentially serious disruption
+that could occur, possibly causing significant economic contraction and social difficLilties. Bank support
+is therefore aimed at helping the Government obtain widespread recognition of, and mobilize mitigating
+measures for, these problems. Because of the emergency-type circumstances, Bank assistance in project
+management in such cases should be valuable in mounting and carrying out the operation on a timely,
+effective manner-along with strong screening and control procedures. The Bank's presence would thus
+help ensure that the PCU has and maintains adequate accounting, monitoring, management systems,
+technical review and auditing of these relatively widely dispersed activities. More broadly, the Bank is in
+a position to assist the Argentine government tap into a world-wide effort to cope with the Y2K problem
+and can offer a way for Argentina to benefit from the experiences of other countries through its web-site,
+support under InfoDev, and other intemational linkages that the Bank has formed.
+
+
+
+16
+E: Summary Project Analysis
+1. Economic:
+The nature of the Y2K problem puts much at risk and represents a threat to "business-continuity". The
+less prepared government agencies or any other business units are for Year 2000, the more costly it will
+be to fix. Achieving or reinstating system integrity belatedly will become more expensive, and there
+could be litigation over service or production failures. Further, it is likely that there might be an
+increasing cost for information technology workers as their supply is unlikely to be able to keep up with
+demand. And the failure to make processes millennium-compliant quickly could cause productivity
+losses.
+Therefore, the issue is less a technology problem than a potential business liability, and the project's full
+economic benefits will be in reducing or containing that cost. No ex-ante economic analysis (ERR) of
+project returns is possible until specific investments or sub-projects are identified and analyzed,
+particularly because of the unpredictable extent of testing work, the most time-consuming part of the task.
+This issue has been recognized by several countries, and addressed in different ways. A good example of
+how to evaluate potential investments in becoming Y2K compliant is the United States General
+Accounting Office's "Year 2000 Computing Crisis: Business Continuity and Contingency Planning"
+publication (August 1998), which can be found in the project files.
+lndividual sub-projects to financing under the project would be selected based on:
+a. An assessment of the impact of the operation of their particular service or function on:
+* Public safety
+* Public health
+* Public security (economic and national security)
+• Preservation of law and order
+b. Consequential damages: major effects of non-Y2K-compliance on these and/or:
+* adequate supply and distribution of water, power, sewerage, transportation
+* public administration operations
+* health and education services
+* tax and other collections
+* social security and other social program disbursements
+* trade
+* banking and other financial system operations
+* resolution of legal disputes involving sizeable amounts of monies
+* others
+c. Collateral damages: effect of non-Y2K-compliance by this agency on other critical agencies'
+functions
+d. Estimate of the cost of consequential damages versus the cost of preventive remediation
+Investments per se would be limited to the least cost alternative for "emergency" prevention and
+rehabilitation, and must be demonstrably technically sound in accordance with agreed criteria. No
+estimate is made of the potential benefits from upgrading of hardware and software, which will most
+likely increase productivity and spawn additional unanticipated benefits.
+
+
+
+17
+2. Financial
+The uncertainty of the Year 2000 issue precludes a realistic estimation of the costs of making all priority
+computer systems compliant and the final cost estimate at this point is open-ended. Because of the
+uncertain nature of the work involved, the Government needs to be prepared to invest additional resources
+and/or ration what is available to the priority systems. Close monitoring of the program and the adoption
+of contingency plans will be a critical factor in ensuring that whatever resources are available are directed
+to the most critical systems. In addition, perhaps the largest part of repairing the system will be the testilg
+entailed, whose expenses are difficult to forecast. However, in the long-run, the cost of operating the
+upgraded Y2K systems should pose no or very little incremental costs over the present costs of operating
+these same systems and should not pose a long-run problem of sustainability.
+3. Technical.
+The basic technological questions are generally well understood and the solutions per se do not present
+any technological challenge. As noted earlier, the problems tend to be more the uncertainty on the extent
+of the problem, particularly because of imbedded systems, and the lack of historical records to diagnose
+and remedy old systems. Another technical constraint tends to be the availability of technically qualified
+and skilled staff/consultations to undertake the work. The adequacy of design specifications and cost
+estimates for agency subprojects would be reviewed by the project coordination unit and independent
+technical experts provided by the external procurement agency.
+4. Institutional:
+Executinig agencies: The present institutional capacity in the Secretary of Public Function is considered
+adequate but needing strengthening, primarily in order to be able to cope with the urgent nature of the
+work. Generally, Argentina has a relatively well developed information system industry which can be
+tapped, along with external consultants, for the project. The existing capacity would be strengthened with
+technical assistance. The executing unit would consist of the project director, with operational
+responsibilities (including overall project administration and supporting activities) assigned to the Project
+Coordination Unit within that Secretariat. The latter's Y2K Executing Unit (Y2KEU) would provide
+technlical backup to the PCU. The responsibility for the execution of each subproject will rest with the
+individual agency selected for Y2K testing and remediation works.
+5. Social:
+The project is expected to have a positive net social impact. The government programs and services
+likely to be included in the project a priori would be selected on the basic of their contribute to social and
+economic welfare of a large population. Moreover, the project would also have an irnpact more broadly
+throughout Government and the private sector, and should help workers and owners to avoid (or lessen)
+destabilization of economic activity. The information dissemination campaign will be an important facet
+of the project in order to keep the public abreast of the need for changes and to explain, in the case of new
+requirements, the impact that that may have on their eligibility for certain public services.
+6. Environmental assessment:  Environmental Category      []A   []B    [X] C
+The proposed project is expected to have no environmental impact.
+7. Participatory approach:
+a. Primary beneficiaries and other affected groups:
+The project uses a priority-driven approach to identify eligible investments within the Federal public
+service, which are requested by the concerned agencies. The latter figure among the primary
+beneficiaries, which ultimately include those segments of the Argentine population tlhey serve.
+
+
+
+18
+b. Other key stakeholders:
+Provincial governments and the private sector. These stakeholders will be kept informed of the process
+and any changes to public services because of the need to be Y2K compliant. Moreover, in the case of
+provincial governments, they will be supported via the Provincial Development 11 loan.
+F: Sustainability and Risks
+1. Sustainability.
+The subprojects in and of themselves are inherently irreversible and should not pose any significant
+incremental cost in terms of future operation. Further, if the "Y2K" damage is severe enough and the
+affected infrastructure is sufficiently valuable, the stakeholders would have an economic incentive to
+maintain the remedial measures. At present, there are no provisions for government budgetary support
+beyond the implementation of the project's investment phase. As noted above, that may prove to be
+inadequate to cover all systems and more investment will be needed. In addition, without continuing
+maintenance, some infrastructure could be exposed to continuing damage in the future.
+2. Critical Risks (reflecting assumptions in the fourth column ofAnnex 1):
+Risk                      Risk         Risk Minimization Measure
+Ratin
+Annex 1, cell "from Outputs to Objective"
+Miniisterial Decree on Y2K compliance is not  N    Discussions with political levels and
+issued.                                            opposition parties will be necessary
+Inisufficiency of qualified technicians available    M  Argentina has a substantial and growing
+for hire                                            information technology industry, which
+can be readily supplemented from at least
+equivalent expertise in Brazil and Chile.
+Market demand drives governmlent information  M     Government must be prepared to take
+technology experts to the private sector            measures to keep critical experts within
+government agencies
+Estimated amount proves insufficient to deal  N     A 2nd project can be quickly prepared.
+with the Y2K issue
+Annex 1, cell "from Components to Outputs"
+Weak PCU management and implementation        S    (a) Hire high caliber consultants; (b) hire
+capability                                          aiming to fulfill future, not present needs
+(i.e., initial over-dimensioning); (c) full
+PCU in operation by project effectiveness;
+(d) Bank support to focus on this issue;
+Low agency capacity to implement subprojects  S    Ensure that the PCU can provide technical
+assistance to buttress implementation
+Ineffective or inefficient allocation of resources    M  (a) National Director to make funding
+by PCU                                              decisions based on technical
+recommendations and impact analyses; (b)
+Use of a procurement agency; (c)
+comprehensive operational manual
+Overall Risk Rating    S
+Risk Rating - H (High Risk), S (Substantial Risk), M (Modest Risk), N (Negligible or Low Risk)
+
+
+
+The risk of implemcneion capacity wskness is, based on pst expaoiencal vary high and a determlnng
+fctr to the succegs of fiis project.
+3. Pouibie Conbwewawpeci
+No siSicant issueGa  ara icpatmd.
+G: Mhiz Loa Conditia=
+:       I. E.ffeciivenssu Coanditio,ii:
+Adoption of opeating mU=ual govonin project activitieji
+*  TORs and Shortlis for independent entitis for teclmical, procedwul mnd fimancial reviews
+a  Procurem- t aecy hired
+Full PCU in operation
+Agrsd plan of action for to flst semester
+* First Y2K impact study completed
+*  Issuance of a resolution by the Cisf fotCabinc of Mnisrii  requiring a1 Feder&L
+Government entities to be substantially Y2K-compliat by September 1999
+H, Readiness for Implementation
+(The enginewerig dsignt documents for the first yoar's ivities u o sWmpiet  dy  r the    of
+projectimplementation, p  Not applicable-
+L] The procuroment documncts for the first year's activities are complete and ready for the .tart of
+project implamentation. Will not be ready de to the emergncy narioae of tA, project.
+[I T ? Prnjcrt Implemcncion Plan has bee appraised and found to be reallisic an of aisfatwrjy
+quality, Will be ready by qffecveness
+3 The foUowing items arm lacking and are discussed under loan cnditions (Section Q);
+1. CompliancewithBankPolicies
+[ ]   This project complies with all applicAbli Bank policics for emergency operLtion,.
+[X    The following exceptions to Bank policies arc recommended for  . see procuremeat
+asnex). -be project complies with al other applicable Bank poli
+Myrns Alexader                                           ar
+County Director                                S         r
+Task Team Leadcr
+
+
+
+20
+Annex 1
+Project Design Summary
+Argentina: Year 2000 Technical Assistance P'roject
+Narrative Summary         Key Performance Indicators    Monitoring and       Critical Assumptions
+Evaluation    _-
+Sector-related CAS Goal:     Services provided by the main
+Project is not listed in CAS as   sector agencies (e.g., Health,
+it responds to a national    Defense, Social Security and
+emergency that was recognized  Justice) are not affected by the
+as such after the last CAS   Y2K
+discussion.
+Contribute to ensure the
+maintenance of the country's
+productive and service systems                                                       _-
+Project Development
+Objective: To contain or     Problems arising after       GOA reports           The private sector,
+remediate the impact of the  December 31, 1999 in         Specializecl         provincial, municipal
+Year 2000 disruption.        identified critical functions are  publications, both  governments, NGOs carry
+not caused by problems in    official ancl private    out remediation or rescue
+computer systems due to the  Mass-market Press    activities complementing
+change in the millennium.                         those of the GOA
+Outputs:                     Identified systems and critical   Certifications issued   Engagement by the
+I. Computer systems and      functions have been remediated  by the UE2000     various institutions and
+critical functions Y2K   or rescued before 2000.      Quarterly reports by   private sector to carry out
+compatible               Non-remediated systems are    the SFP to Cabinet    remediation or rescue
+2. Impact of Y2K evaluated   those of lesser-impact critical   Agency reports  activities for systems and
+in critical sectors of the  functions                 reviewed by the SFP   operations not in the
+country's productive and    Sectors determined as critical   Copies of      project
+service structure        evaluated before end of March  publications and
+3. Information on the scope    1999.                      videos
+of the impact of the Y2K    Two publicity campaigns in
+issue disseminated among   mass-market and specialized
+the targeted population  media before 2000.                                 _
+Project Components/Sub-      Inputs:
+components:                                                                     1. Entities assign
+I . Inventory of critical    US$1.5m                      Quarterly progress       adequate counterpart
+functions                                              report, aggregating      personnel
+2. Project Coordination      US$2.1 m                     PCU and agency        2. Consulting firms and
+3. Design, development and   US$31.5m                     reports                  individual consultants
+implementation of                                                               available
+remediation and rescue                                                      3. Counterpart budgets
+activities                                                                      assigned for 1999
+4. Information dissemination   US$7.9m                                             (counterpart funds
+(best practices, impact                                                         available)
+study results, others)
+
+
+
+21
+Annex 2
+Year 2000 Technical Assistance Project
+Project Description
+Component A: Support Activities
+Activities carried out by the PCU in support of Y2K remediation. Some of these activities are already on-
+going, financed by a PPF.
+*  Initial estimates of entities and systems at risk confirmed by teams of selected consultants; common
+approaches, tools and methodologies for use by the various entities be identified centrally.
+*  Publicity campaign to alert public and private sector entities to the Y2K problem; telephone hot-line
+assistance; creation and maintenance of a website with best practices and pointers to appropriate
+websites.
+*  Technical analysis of diagnostics and evaluation of the economic impact of non-Y2K-compliance, as
+an input to decision-making in the selection of agencies for financing.
+*  Acquisition, provision and training in the use of tools and methodologies to the Y2K executing units,
+in order to profit from best practices and economies of scale.
+*  Development of common administrative systems for economies of scale and simplicity.
+Component B: Remediation and Rescue
+Agencies selected for financing will implement their remediation subprojects, assisted by the PCU,
+financed from this Loan (remediation activities are taken before Year 2000 to prevent problems).
+Technical Assistance would be provided by the PCU to agencies in carrying out Y2K diagnostics,
+technical and impact analysis, preparing implementation plans, preparing terms of reference and
+supervision of consulting firms; preparing equipment specifications; etc.
+The activities for each agency are expected to be as follows:
+*  Diagnosis
+*  Technical Analysis
+*  Impact Analysis
+*  Allocation of funds (Executing Committee)
+*  Detailed analysis: identified components, problems
+*  Identified remediation options and cost estimates
+*  Evaluation and selection of option to use
+*  Preparation of remediation plan, comprising activities, inputs, resources, testing plan,
+conversion plan, deployment plan, training plan, monitoring indicators, and contingency
+plans.
+* Implementation of remediation plan aimed at non-Y2K-compliant systems, accomplished via one or
+more of the following:
+* Replacement of commonly-used systems by standardized software
+
+
+
+22
+* Upgrade of the hardware/software platform infrastructure if necessary for compliance.
+*  Modification of existing systems
+*  Quality assurance (verification of successful testing)
+*  Implementation of contingency plans (following (a) through (e) above). Contingency plans refer to
+rescue activities, i.e., those taken later to recover from previously unidentified problems, from failed
+remediation plans, or from non-Y2K-compliant exogenous effects (e.g., non-compliant up-stream
+entities).
+Component C: Project Administration
+Activities proper of a project's coordination and administration, such as:
+* Prepare, review and analyze agency non-Y2K-compliance impact studies. Ensure that all subproject
+implementation, testing and contingency plans presented by the agencies are adequate and comply
+with PCU-issued guidelines
+* Send proposed agency selections and supporting documentation to the Bank for approval
+* Ensure that all subproject implementation plans are carried out in tirne and within budget, through
+monitoring of progress and results and taking appropriate action, including assistance to agencies
+requiring it.
+e Provide procurement advice to the agencies, maintain the project accounts and prepare quarterly
+progress reports for submission to the Bank for review.
+* Liaise with a procurement agency for actual procurement; this agency would in addition be
+responsible for quarterly advertisements in the Development Business and advertisements in local
+newspapers as appropriate, and for the preparation and maintenance of a registry of interested
+individual consultants and firms.
+- Ensure that a quarterly technical review is carried out by an independent agency agreed with the
+Bank.
+- Ensure that a quarterly procedural and financial review is carried out by an independent agency
+agreed with the Bank.
+
+
+
+23
+Annex 3
+Year 2000 Technical Assistance Project
+Estimated Project Costs
+Proiect Comnonent                                        Local           Foreign       Total
+-----------------------US $ million----------- ------
+A. Support Activities                                        7.4             0.5          7.9
+B. Remediation and Rescue                                    18.0           13.5         31.5
+C. Project Coordination                                      2.1             0.0          2.1
+Total                                                       27.5            14.0         41.5
+PPF Reimbursement                                             1.5                          1.5
+Front-end Fee                                                                0.303        0.303
+Total Proiect Cost                                          29.0            14.303       43.303
+
+
+
+24
+Annex 4
+Year 2000 Technical Assistance Projlect
+Procurement and Disbursement Arrangements
+Procurement
+The procurement of goods under the project will be conducted in accordance with the Bank's guidelines
+"Procurement under IBRD Loans and IDA Credits, January 1996, revised August 1996 and September
+1997". The procurement of consultants will follow the Bank's guidelines, "Selection of Consultants by
+World Bank Borrower, January 1997 revised September 1997". To expedite implementation, an existing
+experienced project administration unit will carry out procurement and train procurement staff.
+Procurenmen7t methods (Table A)
+A general procurement notice will be made quarterly in the Development Business; all other
+advertisement will be done through the local press. The notice will request expressions of interest, which
+will be maintained by a procurement firn hired to assist the PCU, and from which long- and short-lists of
+consulting firms will be prepared.
+For the procurement of goods, International Competitive Bidding will be used for contracts estimated at
+US$350,000 or more, and may be used for lesser amounts, although due to the urgent nature of the
+operation, and the periodic advertisement in the Development Business, onie month's notice to present
+offers will be considered sufficient. National Competitive Bidding may be used for contracts estimated at
+less thani US$350,000 and more than US$50,000; Shopping will be used for contracts estimated at equal
+to or less than US$50,000.
+Conlsultants' assignments other than individual consultants and manpower-intensive service contracts (see
+below) will be procured through Quality and Cost-based Selection (QCBS). Individual consultants will be
+procured in accordance with the procedure in Part V of the Consultant Guidelines. The Bank's Standard
+Request for Proposals and Forms of Contract will be used. Manpower-intensive service contracts
+involvinig repetitive activities (e.g., file and data-base verification and clean-up) will be procured through
+Least Cost Selections Method (LCSM).
+Prior reviewt, thresholds (Table B)
+Full prior review by the Bank will be carried out for the first three procurement activities of each
+procurement type and the first consulting firm procurement for each participating agency. All bidding
+documents for contracts above $350,000 (for goods) and US$200,000 (for consulting services) will be
+reviewed by the Bank. Prior review for bidding documents for individual consultants with contracts of
+less than US$50,000 per year will not be necessary as long as the activity has been defined in a semi-
+annual plan of action agreed with the Bank. Other terms of reference and equipment specifications will be
+reviewed by the procurement agency and by the Bank through sampling during supervision missions.
+Acquisition of miscellaneous supplies and operational expenses of less than $1,500 per contract, up to a
+maximum of US$ 100,000 per year for the Project Coordination Unit may be carried out through
+comparison of prices without prior review.
+
+
+
+25
+Disbursement
+Allocation of loan proceeds
+The loan will be disbursed over a period of 2.5 years. Disbursements will be made against eligible project
+expenditures for goods and services. As shown in Table C, goods will be financed at 100% for imported
+(foreign) items, 100% for those from ex-factory sources, and 83% for locally purchased items. Consulting
+services will be financed at 100% (excluding taxes), and operating costs will also be financed at 100%.
+Use of statements of expenses
+All disbursements against contracts below the following thresholds will be made against Statements of
+Expenditures:
+*  US$350,000 for goods
+* US$200,000 for consulting firms
+*  US$50,000 for individual consulting contracts
+For these expenditures under SOE, detailed supporting documents showing evidence of payments to
+contractors and suppliers will be kept at the PCU. These documents will be made available to Bank
+supervision missions and the annual audits.
+Special account:
+To facilitate disbursement against eligible expenditures, the Government will establish in a bank
+satisfactory to the IBRD a Special Account (SA) to be operated by the PCU under terms and conditions
+satisfactory to the IBRD. The IBRD would, upon request, make an Authorized Allocation of US$5
+million. Applications for the replenishment of the SA would be submitted monthly or when 20 percent of
+the initial deposit has been utilized, whichever occurs earlier. The replenishment application would be
+supported by the necessary documentation, the SA bank statement, and a reconciliation of this bank
+statement. The SA would be audited annual!y by independent auditors acceptable to the Bank.
+
+
+
+26
+Annex 4, Table A: Project Costs by Procuremenit Arrangements2
+(in US$million equivalent)
+Expenditure Category                                 Procurement Method                            Total Cost
+(including
+contingencies)
+ICB            NCB            Other           N.B.F
+1. Goods
+Computer Equipment                 8.5           4.5             1.5                              14.5
+(8.5)         (2.5)          (1.0)                             (12.0)
+2. Services
+Consulting Firmns                                                        11.0                               11.0
+(9.0)                              (9.0)
+Individual Consultants                                                    6.0            1.03                7.0
+(1.5)                              (1.5)
+File update services                                                      7.0            3.04               10.0
+(7.0)                              (7.0)
+3. Miscellaneous
+PCU supplies and operational                                              0.5                                0.5
+expenses
+(0.5)                              (0.5)
+Front-end Fee                                                             0.303                              0.303
+(0.303)                            (0.303)
+Total                                  8.5             4.5           26.303          4.0                43.303
+(8.5)          (2.5)         (19.303)                           (30.
+Note:   N.B.F. = Not Bank-financed (includes elements procured under parallel cofinancing procedures, consultancies under
+trust funds, any reserved procurement, and any other miscellaneous items). The procurement arrangement for the items
+listed under "Other" and details of the items listed as "N.B.F." need to be explained in footnotes to the table or in the
+text.
+Figures in parenthesis are the amounts to be financed by the Bank loan/IDA credit
+Some of the remediation work will more logically be carried out by information technology staff in agencies, familiar with their own
+systems. Government is therefore proposing to finance a certain amount of extra-ordinary hours of work, using counterpart funds.
+4        See previous footnote.
+
+
+
+27
+Annex 4, Table Al: Consultant Selection Arrangements (optional)
+(in US$million equivalent)
+Selection Method                                     Total Cost
+Consultant Services                                                                                         (including
+Expenditure Category                                                                                       contingencies)
+QCBS   QBS    SFB                  LCS         CQ        Other   N.B.F.               _        .
+A. Firms                    11.0                               7.0                                3.0           21.0
+(9.0)                             (7.0)                                            (16.0)
+B. Individuals                          6.0                                                       1.0            7.0
+___ ___   (1.5)     __  _  _    _  _  _     _  _  _    _  _ _  _ _  _  _  _(1.5)
+Total    11.0         6.0                    7.0                                4.0           28.0
+(9.0)      (1.5)                  (7.0)                                            (17.5)
+Note: QCBS = Quality- and Cost-Based Selection
+QBS = Quality-based Selection
+SFB = Selection under a Fixed Budget
+LCS = Least-Cost Selection
+CQ = Selection Based on Consultants' Qualifications
+Other = Selection of individual consultants (per Section V of Consultants Guidelines), Commercial Practices, etc.
+N.B.F. =Not Bank-financed.
+Figures in parenthesis are the amounts to be financed by the Bank loan.
+
+
+
+28
+Annex 4, Table B: Thresholds for Procurement Methods snd Prior Reviews
+Expenditure          Contract Value          Procurement         Contracts Subject to
+Category             (Threshold)              Method              Prior Review /
+Estimated Total Value
+Subject to Prior
+Review
+US $ thousands                                US $ millions
+1. Goods
+Computer Equipment           <50,000         National Shopping,
+Computer Equipment         < 350,000         NCB or ICB                          4.5
+Computer Equipment         > 350,000         ICB                                 6.5
+Computer Equipment   >$100,000 or >20% of  Sole-Source                           2.0
+components            full replacement value
+2. Services
+Individual Consultants      2 50,000         QBS                                 0.5
+Consulting Firms           2 200,000         QCBS                                6.0
+File Update Services       2 200,000         LCS                                 5.0
+Total value of contracts subject to prior review:      24.5
+Thresholds generally differ by countly and project. Consult OD 11.04 "Review of Procurement Documentation' and contact the Regional
+Procurement Adviser for guidance.
+
+
+
+29
+Annex 4, Table C: Allocation of Loan Proceeds
+Expenditure Category                 Amount in       Financing Percentage
+US$million
+Goods                                           12.0      100%  foreign, 83%
+local ex-factory and
+83% local purchase
+Services                                        16.0      100% excluding
+taxes
+PCU Supplies and Miscellaneous                   0.5      100% excluding
+Operational Expenses                                      taxes
+PPF Refinancing                                  1.5
+Front-end Fee                                    0.303
+Total            30.303
+
+
+
+30
+Annex 5
+Year 2000 Technical
+Assistance Project
+Project Processing Budget and S,chedule
+A. Project Budget                                Planned               Actual
+(At final PCD stage)
+US$95,000             UIS$60,000
+B. Project Schedule                              Planned               Actual
+(At final PCD stage)
+Time taken to prepare the project (months)          7                     5
+First Bank mission (identification)             5/11/1998             5/11/1998
+Appraisal mission departure                      11/2/1998            11/9/1999
+Negotiations                                     11/9/1998            11/24/1998
+Planned Date of Effectiveness                   1/15/1999             _/_/19
+Prepared by: Secretariat of Public Function, Office of the Chief of Cabinet of Ministers
+Preparation assistance: PPF
+Bank staff who worked on the project included:
+Name                                     Specialty
+Luis-Jos5 Mejia                 Sr. Public Sector Management Specialist
+Maria Victoria Lister                   Quality Assurance Officer
+Herman Nissenbaum                             Consultant
+Daniel Hurrell                        Information Technology
+Ludovico Tassoni                        Jr. Operations Assistant
+
+
+
+31
+Annex 6 Year 2000 Technical Assistance Project
+Documents in the Project File*
+A. Project Implementation Plan
+N/A
+B. Bank Staff Assessments
+N/A
+C. Other
+Selection criteria for selecting agencies for financing
+PCU Training Plan
+Operational Manual (after Effectiveness)
+Miscellaneous Y2K and support documentation
+*Including electronic files.
+
+
+
+ANNEX 7
+Status of Bank Group Operations in Argentina
+Operations Portfolio
+Difference          Last PSR
+)etween expectet Supervision Rating b/
+and actual
+disbursements ai    Development
+Proiect    Fiscal         .                                  Original Amount in USS Millions                          Implementation
+ID       Year   Borrower           Purpose         IBRD    IDA   Cancellations  Undisburse   Orig  rm Rev' Objectives Progress
+Number of Closed Proiects:
+Active Proiects
+AR-PE-5968       1987 SEGBA        SEGBA V                  276        0              0         55.62    55.61      0      S          S
+AR-PE-6005       1991 REPUBLIC OF A PROVINC DEV PROJ        200        0              0          7.51     7.49      0      S          S
+AR-PE-5977       1991 ARGENTINE RE\WTR SUPPLY II            100        0             36          19.9   55.91   19.91      S          S
+AR-PE-6036      1993 GOVERNMENT YACYRETA II                 300        0              0          1.01       1       0      S          S
+AR-PE-6003       1993 GOVT OF ARGE RD MAINT & REHAB S(      340        0              0         30.23    20.87      0     NA          S
+AR-PE-6062      1994 MIN OF ECONO CAPITAL MKT TA            8.5        0              0          2.37    2.35       0      S          S
+AR-PE-6025       1994 GOVT OF ARGE MTNAL CHILD HLTH &       100        0              0         11.04     5.74      0     HS          HS
+AR-PE-6060       1995 GOVT OFARGEMUNIC DEVT II              210        0              0        158.24    -19.9      0     HS          HS
+AR-PE-5992       1995 GOVT OF ARGE SECONDARY ED I           190        0              0        131.94   110.32      0      S          U
+AR-PE-6018       1995 ARGENTINE RE PROV DEV II              225        0              0        192.56    24.24      0      U          S
+AR-PE-45687      1996 REP. OF ARGRI H. INSURANCE TA          25        0              0          5.11    -0.32      0     HS          HS
+AR-PE-40909      1996 REP. OF ARGEI H. INSURANCE REFOF      350        0              0          100      125       0     HS          S
+AR-PE-38883      1996 REPUBLIC OF$ENT.EXPORT DV.            38.5       0              0          18.9   18.89    1.34      S          S
+AR-PE-34091      1996 REP OF ARGEI HIGHER ED REFORM         165        0              0        120.51    81.44   59.52     S          S
+AR-PE-6055       1996 GOVT. OF ARGI MINING SCTR DEVT         30        0              0          6.36    -2.54      0     HS          S
+AR-PE-6030       1996 REPUB OF ARC PROVCL HLTH SCTR C    101.4         0              0         84.49    51.34      0      S          U
+AR-PE-6040       1996 GOVERNMENT FORESTRY/DV                 16        0              0         12.13     0.64      0      S          S
+AR-PE-6057       1996 GOVT OF ARGI SECNDARY ED 2           115.5       0              0        100.55    49.39  -14.95     S          S
+AR-PE-37049      1996 GOVT OF ARGE PUB.INV.STRENGTHG         16        0              0         15.32    10.32      0      U          U
+
+
+
+AR-PE-40904      1996 REPUBLIC OF P BANK REFORM               500        0               0          166      166        0      S           S
+AR-PE46821       1997 GOVT.OF ARG PENSION TA                   20        0               0         15.37     2.74       0      S           S
+AR-PE-43418      1997 REPUBLIC OF PAIDS PREV.&STD CTR          15        0               0         10.41    -0.35       0     HS          HS
+AR-PE-39584      1997 GOVT OF ARGE B.A.URB.TSP                200        0               0        177.66    21.67       0      S           S
+AR-PE-6052       1997 GOVT OF ARGE FLOOD PROTECTION           200        0               0        195.37    16.05       0      S           S
+AR-PE-5980       1997 GOVT OF ARGE PROV ROADS                 300        0               0       296.94    56.93        0      S           S
+AR-PE-6010       1997 GOA           PROVAG DEVT I             125        0               0        122.15      7.5       0      S           S
+AR-PE-6059       1997 ARGENTINE REMTL.CHD.HTH.2               100        0               0         90.15     1.14       0      S          HS
+AR-PE-40808      1997 GOA           N.FOREST/PROTC           19.5        0               0         18.13     -0.7       0      S           S
+AR-PE-55935      1998 GOVERNMENT EL NINO EMERGENCY             42        0               0           42       14        0      S           S
+AR-PE-55477      1998 GOVT OF ARGE MINING TA                 39.5        0               0          39.5    12.94       0      S           S
+AR-PE-51695      1998 GOVERNMENT P.RFM(R.NEGRO)                75        0               0           50       25        0      S           S
+AR-PE-51693      1998 GOVERNMENT P.RFM(SALTA)                  75        0               0           30        0        0     HS          HS
+AR-PE-50713      1998 MINISTRY OF E MODEL COURT DEV.            5        0               0            5      0.75       0      S           S
+AR-PE-6050       1998 REP OF ARGEIK POLLUTION MGT.             18        0               0           18      1.16       0      S          S
+AR-PE-6006       1998 MIN. OF ECONC P.RFM(TUCUMAN)            100        0               0           45        0        0      S          U
+AR-PE-6041       1998 GOVERNMENT SMALL FARMER DV.              75        0              0           72.5    13.56       9      S           S
+AR-PE-49269      1998 ARGENTINE RE SOC PROTEC 3               284        0               0          284        0        0
+AR-PE-50714      1998REPUBLICOFPSECOND.ED3                    119        0               0          119      86.5       0      S           S
+AR-PE-51694      1998 GOVERNMENT P.RFM(S.JUAN)                 50        0               0           40       25        0      S          S
+AR-PE-52590      1998 REPUBLIC OF P NAT HWY REHAB&MAI         450        0               0          450   205.63        0      S           S
+AR-PE-6058       1999 REPUBLIC OF A SOC.PROTECT 4           90.75        0              0         90.75        0        0     HS          HS
+Total                                                     5,709.65       0             36       3,451.72  1,253.31    74.82
+Closed
+Active Projects              Proiects                     Total
+Total
+Disbursed
+(IBRD and
+IDA)                                            2,221.93          7,343.55                      9,565.48
+of which has
+been repaid                                     235.63           3,238.85                     3,474.48
+Total now
+held by IBRD
+and IDA       :                                  5,438.01         4,105.42                      9,543.43
+Amount sold                                            0             12.79                        12.79
+
+
+
+of which
+repaid                                                                 12.79                         12.79
+Totai
+Undisbursed                                       3,451.72              0.69                      3,452.41
+1. Actual disbursements to date minus intended disbursements to date as projected at appraisal.
+2. Following the FY94 Annual Review of Portfolio performance (ARPP), a letter based system was introduced (HS = highly Satisfactory, S =
+satisfactory, U = unsatisfactory, HU = highly unsatisfactory): see proposed Improvements in Project and Portfolio Performance Rating
+Methodology (SecM94-901), August 23, 1994.
+Note:
+Disbursement data is updated at the end of the first week of the month.
+
+
+
+ANNE 8
+Argentina at a glance                                                            9/16/98
+Latin   Upper-
+POVERTY and SOCIAL                                       America   middle-
+Argentina  & Carib.  income      Development diamond'
+1997
+Population, mid-year (millions)                    35.2       494      571                 Life expectancy
+GNP per capita (Atlas method, US$)                8,570     3,880    4,520   1
+GNP (Atlas method, US$ billions)                  302.0    1,917      2,584
+Average annual growth, 1991-97
+Population (PO)                                     1.1       1.7       1.5     GNP 
+Labor force (%)                                      1.9      2.3       1.9      p                             Grcss
+pier                         primary
+Most recent estimate (latest year available, 1991-97)                           capita                     enroilment
+Poverty (% of population below national poventy line)  26
+Urban population (% of tota population)              88        74       73
+Life expectancy at birth (years)                     73        70       70
+Infant mortality (per 1,000 live births)             22        32       30
+Child malnutrition (% of children under 5)            2                                  Access to safe water
+Access to safe water (% of population)               64        73        79
+Illiteracy (% of population age 15+)                  4        13        15
+Gross primary enrollment (% of school-age population)  107    111       107             Argentina
+Male                                               ..        ..                       Upper-middle-income group
+Female                                             .._.._..
+KEY ECONOMIC RATIOS and LONG-TERM TRENDS
+1976    1986      1996      1997
+Economic ratios'
+GOP (US$ billions)                         51.2   110.9    298.7    322.7
+Gross domestic investment/GDP              30.7    17.5      18.5      18.9                    Trd
+Exports of goods and serviceslGDP           9.2     8.2       8.9       8.7                     rade
+Gross domestic savingslGOP                 34.0    19.3      18.1      18.2
+Gross national savings/GDP                 34.1    14.8      16.5      16.4
+Current account balance/GDP                 1.3    -2.6       -1.3     -2.9     Domestic
+Interest payments/GDP                       0.9     3.3       1.9       2.0     sIinvestment
+Total debt/GDP                             18.1    47.3      32.4      32.4     Svn
+Total debt service/exports                 34.4    82.8      47.2      49.3
+Present value of debt/GDP                    ..      ..      29.5
+Present value of debt/exports                ..      ..    277.7         ..
+Indebtedness
+197646  1987-97    1996       1997  1998-02
+(average annual growth)
+GDP                                0.6      3.8      4.8      8.6       4.0        -Argentna
+GNP per capita                    -1.9      2.9     3.7       7.1       3.1              Upper-middle-income group
+Exports of goods and services      2.8      8.5     6.7       9.1       6.5
+STRUCTURE of the ECONOMY
+1976    1986      1996      1997     Growth rates of output and investment(%)
+(% of GDP)                                                                      40
+Agriculture                                 8.2      7.8       7.7      7.3       T
+Industry                                   50.9    37.4      35.5      36.4    20
+Manufacturing                            39.1    27.4       24.7     24.8
+Services                                   41.0    54.8      56.8      56.3      0     92   93   9A   w    9    97
+Private consumption                        56.6             .        ..        -20
+General government consumption              9.4       .GDI                                             OGDP
+Imports of goods and services               5.9     6.3       9.2       9.4
+197646  1987-97      1996      1997     Growth rates of exports and imports 1%)
+(average annual growth)
+Agriculture                                 1.2      2.8       3.0      3.3   10r
+Industry                                   -1.5     3.5       5.0      11.2     80
+Manufacturing                            -1.3      3.0       5.3      9.2    60
+Services                                    2.1      4.1       4.9      7.7    40
+Private consumption                          ..20
+General government consumption                    *._                                                         _
+Gross domestic investment                  4.8       7.5       8.8     26.5    -207    92   93   94
+Imports of goods and services               1.1    19.5       18.2     27.1            -    Exports    -       Imports
+Gross national product                     -0.4     4.2        4.6      8.1
+Note: 1997 data are preliminary estimates.
+The diamonds show four key indicators in the countrv (in bold) comDared with its income-oroup averaae. If data are missinm. the diamond will
+be incomplete.
+
+
+

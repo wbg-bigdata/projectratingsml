@@ -1,0 +1,2682 @@
+Document of
+The World Bank    
+FOR OFFICIAL USE ONLY                L
+Report No. 1799-C'R
+STAFF APPRAISAL REPORT
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+February 27, 1978
+Energy, Water and Telecommunications Department
+Latin America and the Carribean Regional Office
+This document has a restricted distribution and may be used by recipients only in the performance of
+their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+CURRENCY EQUIVALENTS
+US$1              -  ¢8.6
+01                x  US$0.12
+01,000            e US$116
+¢1,000,000        -  US$116,279
+ACRONYMS AND ABBREVIATIONS
+CABEI     -  Central American Bank for Ecoromic Integration
+CACM      -  Central American Common Market
+CARRIER   -  A system providing a number of circuits over one link by
+transposition of the frequencies of the telephone signal
+COMTELCA  -  Regional Technical Commission on Telecommunications in
+Central America
+DEL       -  Direct Exchange Line
+GENTEX    -  Public Automatic Telegraph Service
+ICE       -  Instituto Costarricense de Electricidad
+IDB       -  Inter-American Development Bank
+ITU       -  International Telecommunications Union
+NES       -  National Electric System
+NTS       -  National Telecommunications System
+PCM       -  Pulse Code Modulation:  method using quantization of
+the telephone signal so as to provide a number of
+circuits over one link, for instance a pair of wires
+RACSA     - Radiografica Costarricense S.A.
+SNE       -  Servicio Nacional de Electricidad
+SPC       -  Stored Program Control for exchanges through use of
+electronic programmable computers
+STD       -  Subscriber Trunk Dialing
+UHF       -  Ultra High Frequency (radio system)
+VFT       -  Voice Frequency Telegraphy
+VHF       -  Very High Frequency (radio system)
+PBX       -  Private Branch Exchange, usually installed on customer's
+premises
+FDM       -  Frequency Division Multiplex (Telephone Carrier System)
+MULTIPLEX -  Part of the equipment of a carrier system or of a PCM
+system which combines several telephone signals into
+*                      one composite signal, and conversely breaks up a
+composite signal into several individual telephone
+signals
+TELEX     -  Telegraph exchange service for subscribers
+Fiscal Year Ends December 31
+
+
+
+FOR OFFICIAL USE ONLY
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+STAFF APPRAISAL REPORT
+TABLE OF CONTENTS
+Page No.
+I.   INTRODUCTION .       ................ .......................   1
+II.   THE TELECOMMUNICATIONS SECTOR .............................   3
+Background and Organization .................                  3
+Access to Service ....................                         3
+Telephone Service Usage    ........................            4
+Sector Problems - Quality of Telecommunications
+Service           .........................                5
+Institutional Deficiencies ................                    6
+Sector Constraints .......        ............................   6
+Sector Objectives ...............................   6
+The Bank's Role        ............................            8
+Annex 2.01:  Internal Telegraph Service in Costa Rica .....          9
+Annex 2.02:  International Telephone Statistics ...........  10
+III.   THE  BORROWER       .........................................    11
+Organization and Management ..........................  11
+Accounts and Audit ..................                   *     12
+Tariffs ..................                                    13
+Staff and Training ..................   13
+Staff ......   ..                          -              13
+Training .                                                 14
+Existing Telecommunications Facilities .....        ..........  14
+Annex 3.01:  Organization Chart ...........................  16
+Annex 3.02:  Personnel Assumptions ......         ..................  17
+Annex 3.03:  Basic Data as of December 31, 1976
+and as of December 31, 1981 ....       ...........  18
+Annex 3.04:  Exchange Capacity and Connected Lines as of
+December 31, 1976 and Forecast (1977-82)          20
+Annex 3.05:  Summary of Internal and External
+Telecommunications Tariffs ....        ............  21
+This report is based on information provided by ICE and on the findings of
+a mission composed of Messrs. H. H. Richardot and A. J. H. Leoni which
+visited Costa Rica in July/August 1977.
+This document has a restricted distribution and may be used by recipients only in the performance
+of their official duties. Its contents may not otherwise be disclosed without World Bank authorization.
+
+
+
+-2-
+Page No.
+IV.       DEMAND  AND  MARKET  ASPECTS   .......                             .      .........................                   22
+V.       THE  PROGRAM  AND  THE   PROJECT   ......                           .............. ...                ........       24
+The   Program                 .....................                   .....................                 24
+The   Project   .......               ..............                  .....................                 24
+Project   Objectives   ......                      .......... .......... .........                          26
+Project   Cost   ..........................................                                                 27
+Contingencies   .................................. ......                                                   28
+Items for Bank Financing  .............................   28
+Procurement ..................................  30
+Project   Implementation   .............                            ..          ................           31
+Disbursements   ...........................                                            .............        31
+Risk  .................................................    32
+Annex   5.01:           Project   Costs   -   1978-1982                             ................... .            33
+Annex   5.02:           Physical  Project   (1978-1981)                                 .................            34
+Annex   5.03:            Schedule   of  Disbursements                               ................... .            37
+VI.        FINANCES   ............................................................                                              38
+Past Financial Performance and Present Position ......   38
+Asset  Revaluation   ...                         ............................ .....                         40
+Receivables   ...                     ................................ .......                             41
+Financing   Plan   .................................... ...                                                41
+Insurance   ............................................                                                   44
+National   Electric   System   .............................                                                44
+Annex 6.01:   RACSA and ICE/NTS Income Statements ....                                                  ......   46
+Annex 6.02:   Sources and Applications of Funds  ....                                                 ........   51
+Annex   6.03:           Balance   Sheet   .......                         .........................                  52
+Annex   6.04:           Long-Term  Debt   .......                 ..      ............ ......... .                   54
+Annex 6.05:   Performance Indicators  .........                                              ..............    55
+Annex 6.06:  National Electric System,
+Income  Statements   1976-1979   ................                                       56
+Annex 6.07:  National Electric System, Sources and
+Application   of  Funds   1976-1979   ....                              .........       57
+VII.         ECONOMIC  ANALYSIS   ..................................                                               .......       58
+Distribution   of  Benefits   ............                            ..         ...............           58
+Least   Cost   Solution   ..................................                                               59
+Return   on  Investment   .................................                                                59
+Annex   7.01:            Internal  Rate   of  Return   ........                      ..        ............         61
+VIII.         RECOMMENDATIONS                               ...........................................                            63
+Annex 8:01: Related Documents and Data Available
+in  Project  File   ...........                   ..          ...............           64
+Map No. IBRD 13121R
+
+
+
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+APPRAISAL OF THE FIFTH TELECOMMUNICATIONS PROJECT
+I. INTRODUCTION
+1.01      The Government of Costa Rica has requested World Bank assistance in
+helping to finance Instituto Costarricense de Electricidad (ICE)'s five year
+(1978-82) telecommunications development program. The proposed Borrower and
+Beneficiary of the loan would be ICE.
+1.02      ICE's five year (1978-82) telecommunications development program is
+estimated to cost about US$163 million and consists of:
+(a) completion of ongoing projects which will involve total
+expenditures estimated at about US$34 million;
+(b) the proposed project (about US$94 million);
+(c) advance expenditures (about US$28 million) for buildings
+and down payments on equipment to provide for further
+expansion from 1981 onwards; and
+(d) interest during construction (about US$7 million).
+The project is a self-contained part of ICE's five year development program
+and is expected to be completed from 1978 through 1981. The project provides
+for the installation of (a) local exchange lines; (b) long distance facilities;
+(c) rural telephones; (d) expansion of the telex network; (e) replacement of
+the existing archaic telegraph system and extension of telegraph service to
+new areas; and (f) additional training facilities. The estimated project's
+cost of US$94.1 million 1/ includes foreign exchange expenditures of US$53.3
+million. 1/ The proposed Bank loan of US$10.6 million would finance part of
+the foreign costs of the project. It would be associated with an approved
+IDB loan of US$12.2 million and with various suppliers' credits (US$28.7
+million). ICE would finance the local costs (US$46 million) and a limited
+amount of foreign expenditures (US$2.8 million.)
+1.03      The Bank has been associated with the telecommunications sector
+in Costa Rica since 1963 through four loans: a first loan, 346-CR, effective
+October 10, 1963, of US$22 million was made for electric power and telecom-
+munications development. A second loan, 632-CR, effective October 20, 1966,
+included US$6.5 million for telecommunications development. The two first
+projects have been completed. A third loan, 801-CR, effective June 2, 1972,
+including US$17.5 million for telecommunications development has been com-
+pleted by the end of 1977; it has been delayed by one year, partly due to
+an increase in the size of the project during execution to adapt it to higher
+demand than earlier forecast, and partly due to difficulties in implementing
+1/   These amounts do not include interest during construction (see paras. 5.10
+and 5.14).
+
+
+
+- 2 -
+the rural telephone component. The fourth loan, 1006-CR, of US$23.5 million
+effective November 19, 1974, corresponds to the fourth telecommunications
+development project, which is progressing according to an agreed revised
+schedule and is expected to be completed at the end of 1978.
+1.04      This report is based on information obtained from ICE and from the
+findings of the mission composed of Messrs. H. Richardot and A. Leoni which
+visited Costa Rica in July/August 1977.
+
+
+
+II. THE TELECOMMUNICATIONS SECTOR
+Background and Organization
+2.01      Costa Rica, with an area of 51,359 square kilometers, is located in
+the Central American isthmus. It is crossed by highlands oriented northwest
+southeast on its total length, with a central plateau, which is the most
+populated and most economically active area. The 1975 gross national product
+per capita was estimated at $910 (but the average income of rural families is
+less than half of the income of families in urban zones).
+2.02      The principal objective described in the national plan for develop-
+ment 1978-1982 is the elimination of the extreme poverty; among the diverse
+lines of action that the Government intends to follow for doing so are the
+integration of the different production sectors (especially agricultural and
+industrial) to create more jobs, and to foster complementary activities in
+the different provinces to reduce the inequities in development created by
+the rugged geography of the country. Both objectives, and the corresponding
+reinforcement of the guiding capabilities of the Government will require a
+significant improvement of the communications system in Costa Rica (see para.
+7.02).
+2.03      Instituto Costarricense de Electricidad (ICE), an autonomous
+Government-owned public corporation provides - in addition to electric power -
+all national and international telephone services; operates - with its fully
+owned subsidiary RADIOGRAFICA COSTARRICENSE, SA (RACSA) - all equipment used
+for telex operation; and offers circuits for private rental (see paras. 3.14
+to 3.18 the description of the network). A 1964 law gave Radioagrafica
+Costarricense S.A. (RACSA), at the time a concessionary company 50% owned
+by ICE, responsibility for most international services. ICE bought the
+remaining 50% of the shares in October 1975. In accordance with the law that
+established RACSA in 1964, ICE would have taken over the company in 1977.
+However, after some internal and external debate, a law was voted on July 27,
+1977, which maintains RACSA's identity for ten more years and which provides
+that the RACSA shares owned by ICE   be non-negotiable. Independently, "Junta
+Nacional de Comunicaciones", a Government agency operates the existing tele-
+graph network. In order to rationalize the sector and improve efficiency,
+Government intends that this last entity should progressively use ICE's
+telecommunications facilities (see Annex 2.01). Assurances have been obtained
+during negotiations that ICE's charges for use of telephone and telex lines by
+the "Junta Nacional de Comunicaciones" will be adequate to cover the cost of
+providing such services.
+2.04      The Servicio Nacional de Electricidad (SNE) is Costa Rica's
+principal regulatory authority. It has jurisdiction over the tariffs,
+technical standards and finances of ICE's electric and telecommunications
+operations as well as over all other entities providing public electric
+and water/sewerage services. However, SNE does not have jurisdiction
+over RACSA. The government reviews SNE's decisions concerning tariff
+matters.
+
+
+
+-4 -
+2.05      A local factory, CONDUCEN, SA, produces cables of up to a size of
+200 pairs.
+Access to Service
+2.06      Costa Rica's telephone density of 5.61 per 100 population is in
+the medium range when compared with other neighboring countries -- Panama -
+8.52; Mexico - 4.76; Colombia - 5.45; El Salvador - 1.39; Nicaragua - 1.00;
+see Annex 2.02 -- all these other countries, however, have longer waiting
+lists of applicants for telephone service. Existing telephone service is
+largely concentrated in the central plateau, with a density of 16.1 in San Jose
+metropolis (against Mexico City - 13.0; Bogota - 10.6; Santo Domingo - 8.9).
+Telephone densities in the provinces of Costa Rica vary between 1.70 and
+0.40. As of July 1977 there were 93,657 subscribers in Costa Rica, distributed
+as follows:
+No. of        Percent of    Percent of
+Subscribers      Subscribers   Population
+Area metropolitan                   71,112             76            28
+Rest of the Country                 22,545            24             72
+2.07      For purposes of Government administration, Costa Rica has 408 dis-
+tricts, 246 of which have telephone service. The availability of telephone
+service is much better in the urban areas than in the rural areas. All com-
+munities with about 2,000 or more inhabitants have some access to telephone
+service, but only about 50 of them can offer full telephone service with
+exchange connections at business or residential premises. In those com-
+munities with full telephone service, waiting lists of applicants are main-
+tained, which show an average waiting time of about 11 months. In the other
+communities equipped only with public telephones and in 162 rural districts
+where no telephone service is provided, demand can only be roughly estimated,
+as no waiting lists are maintained. (See para. 4.01.)
+Telephone Service Usage
+2.08      Telephone subscribers in Costa Rica are categorized according to
+five classes (two-party, residential, commercial, PBX tie trunks, and public
+telephones), with each category having different tariffs (see Annex 3.05) I/
+depending on whether the connection is in an urban district or a rural com-
+munity (the last category comprises exchanges with less than 300 subscribers).
+In May 1977 the distribution was the following:
+1/   However, "PBX tie trunks", which are physically different from " commer-
+cial lines", are subject to the same tariff.
+
+
+
+- 5 -
+Distribution of Automatic Exchange Subscribers
+Percent         Percent          Percent          Percent
+PBX Links      Commercial      Residential-/      Two-party
+San Jose and
+Area Metropolitan          6              22               70                2
+Province Capitals            3              27               69                1
+Other Localities             1              32               66                1
+1/   Many of these telephones are actually used, at least partially, for
+business purposes.
+In the above table, the telephone lines of the Government are included in the
+PBX and commercial categories. In the metropolitan area, there are 993 Gov-
+ernmental subscribers, in the provincial capitals 269, and in the other locali-
+ties 230. These figures include only the ministries and provincial services
+of the Government (Governor) and not autonomous public services such as ICE or
+social security.
+2.09      With regard to the actual usage of telephones in the metropolitan
+area, traffic originated by the PBXs (representing mostly large enterprises
+and Government) accounts for 19%, commercial traffic for 33% (family and
+moderate sized business, services and liberal professions) and residential
+traffic 2/ for 48% of total traffic. In smaller towns the respective figures
+are estimated at 17% for PBXs, 47% for commercial traffic and 36% for residen-
+tial traffic. These figures represent the distribution of the traffic during
+the busy hours.
+2.10      The pattern of national long distance telephone traffic reflects
+the dominance of the metropolitan area (San Jose and the nearby towns) as
+the central commercial and administrative area servicing the economy of the
+whole country. In small communities from 60% to 80% of the calls are directed
+towards the metropolitan area. In the larger towns, this proportion of calls
+is lower (in the 50% to 60% range).
+Sector Problems
+Quality of Telecommunications Service
+2.11      ICE seems to have now attained a period of stable expansion.  Due
+to the efficiency of the management, the quality of service in Costa Rica is
+good, and the delay to obtain a telephone is presently reasonable compared
+with other Latin-American countries (a maximum of 11 months is the target
+to be achieved at the end of the proposed project). However, because of
+2/   Part of this traffic corresponds actually to business transactions,
+generated from small telephone users (see footnote Y below table
+in para. 2.08).
+
+
+
+- 6 -
+the expected steady growth of the demand (11% on average from 1978 to 1981)
+and of the long-distance traffic (14% on average) the quality of service would
+deteriorate rapidly if the expansion of the network is allowed to lag behind
+demand for any length of time -- examples exist, like the impO.tanL porL
+Puntarenas, and the new district west of San Jose where no new telephone can
+presently be connected. While the quality of service offered by the existing
+rural public telephones is good, such service does not extend to all rural
+communities, particularly in the small communities which are widely dispersed
+and separated by the mountain ranges.
+2.12      The service telex-gentex has been greatly improved with the in-
+stallation in 1974 of an electronic exchange, serving initially 326 sub-
+scribers. But, as has been the case with the telephone, the increase of
+the demand had been underestimated, and the exchange which was expanded
+in 1976 will be saturated during the first semester of 1978, with about 800
+subscribers. The official waiting list for telex service is at present 60
+due to a shortage of teleprinters and of available lines for connecting sub-
+scribers. However, the potential demand is estimated to be much larger.
+Ninety-seven percent of the telex traffic is international; the service is
+good. Furthermore, the telex network will in the future be used to transmit
+telegrams (see Annex 2.01). Expansion under the project should enable ICE to
+largely meet the unfilled demand for telex.
+Institutional Deficiencies
+2.13      In the past ICE, RACSA and Junta Nacional de Comunicaciones worked
+as separate entities and did not fully take advantage of possibilities of
+sharing facilities and resources to reduce the costs. Similarly, the oper-
+ational arrangements were not rationalized to secure least cost. Recently,
+proposals have been approved and steps are being taken to remove these defi-
+ciencies (see Annex 2.01).
+Sector Constraints
+2.14      Telecommunications services in Costa Rica are of reasonably good
+quality but are insufficient and unequally distributed. The principal defi-
+ciencies to be eliminated are the scarcity of telephone services outside of
+the San Jose area, the long waiting list for telex, and the costly obsolete
+telegraph system. Part of these problems have their origin in the too
+conservative projections made by ICE during the past ten years. Another
+reason for this insufficient development of telecommunications services
+is the shortage of resources, which has not provided ICE with the financial
+means to expand those activities which are not highly profitable (rural
+telephones) or for which the demand was not clearly expressed (telex in its
+initial phase). Even now, although ICE is in a position to raise long term
+money for its operations, the spread of services to small communities without
+service is still limited by financial constraints.
+Sector Objectives
+2.15      With Bank's assistance ICE has developed its telecommunications
+operations from less than 10,000 lines, (mostly connected to manual exchanges)
+in 1963, to 87,000 lines in 1976, 98% of which were connected to automatic
+
+
+
+exchanges. ICE operates a modern long distance network which provides a good
+quality subscriber dialing network covering nearly all automatic exchanges in
+the country and which is progressively bringing telephone service to rural
+areas. Besides this physical expansion, ICE has, with the Bank's help, estab-
+lished a sound institutional and financial framework for future expansion and
+operation.
+2.16      Growth in demand is a futnction of economic development.  On this
+basis the growth of the network should correspond to: an average annual
+growth of 11% of additional telephone subscribers, 14% of long distance
+traffic, 13.5% of international traffic, 17% of additional telex-gentex
+subscribers per year. These growth rates are reasonable when compared with
+similar countries. In addition, ICE would, among other objectives, continue
+with measures to increase operational efficiency through improvements to the
+quality of its staff and management.
+2.17      As a consequence of the accent on rural development, and to reduce
+the delay in providing services in these areas, ICE will decentralize part
+of its maintenance and commercial activities during this plan, by creating
+12 centers which will be able to promptly handle requests for providing tele-
+phone connections and provide the basic material for undertaking repairs.
+With the progressive extension of the telephone network to rural areas, the
+existing telegraph offices will gradually be given access to the telephone
+network (see Annex 2,01). In addition to its geographical and functional
+expansion, ICE plans to adopt new techniques and offer new services, mostly
+to be initiated during the present project (see paras. 5.05 to 5.08).
+2.18      In next 10 to 15 years, ICE will extend its local services and high
+quality long distance circuits using the latest available techniques, and will
+concentrate on providing basic telecommunications facilities to rural areas in
+the country, which are currently poorly served. ICE management will have to
+carry heavier responsibilities, to function more effectively and to manage
+efficiently a more complex network. ICE will have to formulate projects and
+to review the need for telecommunications development on priorities designed
+to meet the requirements of administering social services and improving
+economic efficiency as well as meeting expected demand and traffic growth.
+2.19      The sector objectives towards which the proposed project would con-
+tribute are:
+(a)  meet part of anticipated demands for local, long distance
+and international services in San Jose and some 80 other
+localities and maintain the present good quality of service;
+(b)  increase penetration of telephone service in rural areas by
+installing public call offices;
+(c)  replace the existing archaic telegraph system and improve
+the efficiency of operations of telegraph facilities by
+use of telex and telephone facilities which are being
+expanded;
+
+
+
+- 8 -
+(d)  introduce electronic switching and other modern technologies;
+(e)  institution building -- further reinforce the capacity of ICE
+to efficiently provide and operate the telecommunications net-
+works to meet the needs of the society and economy and operate
+on a sound financial basis: this will be achieved by ICE in
+i) keeping the productivity at its present level (about 16 staff
+per 1,000 telephones, which is extremely good for a developing
+country); ii) decentralizing the operations out of San Jose,
+thus improving local control and supervision; and iii) main-
+taining ICE's financial soundness through improved financial
+planning; and
+(f)  expand and develop the training program, which is a prere-
+quisite to creating small self-sufficient teams for basic
+maintenance and for the rational use of new cost effective
+technology (particularly for electronic switching and data
+transmission systems).
+The Bank's Role
+2.20      The Bank's role in the expansion of telephone and telex facilities
+through the four previous loans to ICE is set out in paragraphs 1.03 and
+2.15. The Project Performance Audit Memorandum of the second project con-
+cludes that this was a well-conceived project outstandingly carried out.
+From past difficulties and from the assistance provided by the Bank for
+revising the third project, ICE realized the importance of good project
+planning. As a result, ICE with assistance from a consulting firm, has
+developed its engineering and traffic forecasting on modern lines as part
+of its aim to improve the quality of planning. The effort put in the prep-
+aration of the present project (10 man-years of engineers, 3 man-years of
+economists) and the level of detail taken into consideration mark a signifi-
+cant improvement of the methods of planning for the physical content of the
+project. However, the financial projections have not yet attained the same
+degree of refinement, and the Bank should have a beneficial role in this
+area during the execution of the project.
+2.21      Another effect of the Bank assistance to ICE would be to achieve
+a settlement of Government's bills. This has been a chronic problem, and
+particular attention has been paid to it during the negotiations (see
+para. 6.09); a solution has been worked out to eliminate this difficulty
+and to prevent it from reappearing in the future.
+2.22      The participation of the Bank will increase the chances of success
+of the rural telephone development, both by its financing which directly
+or indirectly will benefit all users of the telecommunication network and by
+the emphasis it can put on the rural aspect of the project.
+
+
+
+-9-
+ANNEX 2.01
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+FIFTH TELECO1ZTUNICATIONS PROJECT
+Internal Telegraph Service in Costa Rica
+The national telegraph system is presently operated by the Govern-
+ment. A subdivision, "Telegrafos y Radio Nacionales", part of the agency
+"Junta Nacional de Comunicaciones", counting 1200 staff, maintains and oper-
+ates 570 telegraph offices throughout the country. The equipment is old and
+the service inefficient, as the traffic is low (from 10 to 20 telegrams per
+day per office in rural areas). The necessity of keeping technical full time
+staff for this service makes it a financial burden to the Government. While
+keeping its overall responsbility, in a national move to reduce its costs,
+Junta Nacional de Comunicaciones will in the future use more and more the
+national telephone and telex network to transmit the telegrams. Accordingly,
+the "Junta Nacional" plans to close down or arrange for ICE/RACSA to maintain
+its present installations in each province. Most of the telegraph operators
+being presently in charge of the mail in small communities are expected to
+keep their position in the "Junta Nacional", while being relieved of their
+technical responsibilities. The new proposals appear to present little risk
+to ICE/RACSA as the financial arrangement provides for reimbursement by "Junta
+Nacional" of the maintenance cost of its specific installations in addition
+to paying the regular telephone and telex charges for the services it uses.
+Furthermore, the additional investment and operational costs corresponding to
+the service provided to "Junta Nacional" are negligible when compared to the
+total telecommunication services in Costa Rica. The progressive use of ICE
+and RACSA facilities for the public telegraph service will begin in 1978 and
+is a rational move which should bring about major savings to the telegraph
+service. But to ensure that this additional service will not be detrimental
+to ICE, assurances have been obtained during negotiation that this service
+will be charged to "Junta Nacional" so as to at least cover the corresponding
+expenses incurred by ICE.
+
+
+
+- 10 -                                                      ANNEX 2.02
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+FIFTH TELECOMMUNICATIONS PROJECT
+Ixternational Telephone Statistics
+POPULA1-/   GROSS NATIONAL                              TELEPHONES - JANUARY 1975
+TION -    PRODUCT - 1973                 NATIONAL                  PRINCIPAL CITIES         REST OF COUNTRY
+Per Capita          Per   Av. Annual  Auto-                      Per-                     Per-
+COUNTRY           1/1/75    Per      Growth   Total   100   Growth Rate  mati-  Total  Per   centage  Total  Per   centage
+Capita    Rate    Number  Popu-  (1965-75)  zation  Number  100  of Nat'l  Number  100  of Nat'l
+(000s)    US$   (1965-73)  (000s) lation         %         1      (0009)  Pop.    %        (0005)  Pop.    %
+AFRICA
+East Africa          39,937      149      2.7        230    0.57    10.5       84.6      166    8.3    72.2        64    0.2    27.8
+Egypt, Arab Rep.    36,730       250      0.8        503    1.37      n.a.    96.7       364    4.0    72.4       139    0.5    27.6
+Ethiopia             27,495       90      1.6         66    0.24    12.1       88.5       52    3.4    78.8        14    0.1    21.2
+Morocco              16,726      320      2.5        189    1.13      2.5      82.0      128    3.2    67.7        61    0.5    32.3
+Nigeria              69,674      210      8.3        111    0.16      6.4      83.4       68    3.9    61.3        43    0.1    38.7
+Rhodesia              6,205      430      3.5        172    2.77      6.2      93.4      138   14.2    80.2        34    0.7    19.8
+South Africa         24,914   1,050       2.0      1,936    7.77      5.5      82.6   1,399   24.2    72.3        537    2.8    27.7
+Sudan                18,112      130    -0.6          56    0.31      4.5      91.4       49    3.0    87.5         7    0.1    12.5
+Tunisia               5,628      460      4.9        114    2.03    12.7       92.6       49    2.4    43.0        65    1.8    57.0
+Zambia                4,687      430    -0.2          68    1.45      8.2      97.8       29    3.3    42.7        39    1.0    57.3
+AMERICAS
+Argentina            25,225   1,640       2.9      2,374    9.41      4.9      96.8   1,378   18.9    58.1        996    5.6    41.9
+Brazil              106,069      760      6.0      2,652    2.50      7.7      94.6   1,992    8.3    75.1        660    0.8    24.9
+Canada               22,661   5,450       3.5    12,454   54.96       5.9      97.8   6,254   59.0    50.2   6,200   51.5    49.8
+Colombia             23,590      550      3.4      1,285    5.45      8.0      98.6      898    7.8    70.0       388    2.6    30.0
+Costa Rica            1,960      710      3.5         98    5.02    16.1       99.0       88   10.5    89.8        10    0.9    10.2
+El Salvador           4,065      350      0.8         50    1.22      8.6      97.2       44    2.9    88.0         6    0.2    12.0
+Mexico               58,265      890      2.8      2,546    4.37    13.4       94.8   2,069   10.2    81.3        477    1.3    18.7
+Trinidad & Tobago    1,060   1,310        2.2         66    6.26      6.0      99.9       41   41.8    62.1        25    2.6    37.9
+US                  212,013   6,200       2.5   143,427   67.65       5.0      99.9  75,904   73.5    52.9  67,523   62.1    47.1
+Venezuela            11,918   1,630       1.3        554    4.65       7.9     99.2      477    9.3    86.1        77    1.1    13.9
+ASIA
+China, Rep.          15,856      660      7.3        901    5.68    19.8       92.5      591   12.0    65.6       310    2.8    34.4
+India               582,596      120      1.5      1,690    0.29      8.4      82.3      879    2.7    52.0       811    0.2    48.0
+Indonesia           123,840      130      4.5        285    0.23      3.4      63.3      201    1.4    70.5        84    0.1    29.5
+Iran                 33,565      870      7.4        806    2.40    16.1       94.1      541    5.3    67.1       265    1.1    32.9
+Iraq                 10,770                          153    1.42      9.4      93.1      126    2.9    82.4        27    0.4    17.6
+Israel                3,408   3,010       6.7        735   21.57    13.1    100.0        562   30.9    76.5       173   10.9    23.5
+Japan               110,626   3,630       9.6    41,905   37.88    13.1        97.4  26,527   42.9    63.3  15,378   31.5    36.7
+Malaysia             11,738      570      3.7        259    2.21      7.9      96.6      n.a.   n.a.    n.a.    n.a.   n.a.    n.a.
+Nepal 2/             12,423       90    -0.1          11    0.09    13.9        n.a.    n.a.   n.a.    n.a.    n.a.   n.a.    n.a.
+Pakistan 2/          69,710      120      2.5        214    0.31      5.9      83.0      n.a.   n.a.    n.a.    n.a.   n.a.    n.a.
+Philippines          40,941      280      2.6        446    1.09    11.4       96.0      374    4.3    83.9        72    0.2    16.1
+Singapore             2,237   1,830       9.4        280   12.53    13.5    100.0        280   12.5   100.0        -       -        -
+Syria 3/              7,121      400      3.6        152    2.14      7.8      89.7      126    5,2    82.9        26    0.6    17.1
+Thailand             41,036      270      4.5        271    0.66    15.3       96.0      234    4.4    86.4        37    0.1    13.6
+EUROPE
+France               52,742   4,540       5.0    12,405   23.52       8.1      94.0   4,546   46.2    36.7   7,859   18.3    63.3
+Germany, Fed. Rep.  62,040   5,320        4.0    18,767   30.25       8.7    100.0   8,185   46.1    43.6  10,582   23.9    56.4
+Sweden                8,178   5,910       2.4      5,178   63.32      4.3    100.0   2,529   75.1    48.9   2,649   55.1    51.1
+Switzerland           6,375   6,100       3.0      3,790   59.46      5.9    100.0   1,798   76.2    47.4   1,992   49.6    52.6
+Turkey               39,127      600      4.4        900    2.30    11.3       78.9      618    8.6    68.7       282    0.9    31.3
+UK                   56,102   3,060       2.3    20,342   36.26       7.4      99.9   8,087   45.8    39.8  12,255   31.9    60.2
+USSR                253,323   2,030       3.5    15,782    6.23       8.2      94.8   4,234   17.4    26.8  11,548    5.1    73.2
+Yugoslavia           21,243   1,060       6.0      1,143    5.38    11.9       97.2      532   17.3    46.6       611    3.4    53.4
+OCEANIA
+Australia            13,337   4,350       3.0      5,000   37.49       6.5     95.2   3,840   42.9    76.1   1,196   26.8    23.9
+New Zealand           3,106   3,680       2.0      1,495   48.12       4.5     92.7   1,135   53.0    75.9        360   37.4    24.8
+/  Population at January 1, 1975 derived from the "Total Telephones" and "Telephones per 100 Population" appearing in
+AT&T's publication, World Telephones (January 1, 1975).
+2/ Telephone and population statistics for Nepal and Pakistan are not available in AT&T's World Telephones (January 1, 1975).
+These figures shown are estimates derived from information available from reports in the Bank.
+31 Telephone and population statistics for Syria are not available in AT&T's World Telephones (January 1, 1975).
+The figures shown are derived from STE's Statistical Abstract of Telecommunications, 1975.
+Sources: - Telephone statistics: World Telephones by AT&T (January 1, 1975).
+- GNP statistics: World Bank Atlas 1975.
+November 10, 1977
+
+
+
+- 11 -
+III. THE BORROWER
+Organization and Management
+3.01      The proposed Borrower, ICE, is a government-owned autonomous in-
+stitution responsible for telecommunications and electric power development.
+Originally established in 1949 to plan and carry out a national electrifi-
+cation program, ICE was authorized by a 1963 law to provide telecommunica-
+tions services within the country. The law setting up ICE defines it as an
+autonomous organization, authorized to carry out its activities independently
+of the Government, except for approval of tariffs and bond issues which is
+the responsibility, for both energy and telecommunications, of the Servicio
+Nacional de Electricidad (SNE), the Costa Rica regulatory authority, and
+reviewed by the Government. Except for an assessment designed to pay the
+operating cost of SNE, ICE is exempt from all taxes.
+3.02      ICE is administered by a seven-member Board of Directors, all
+government-appointed for eight-year terms on a staggered basis, with the
+exception of the Chairman of the Board whose four-year mandate corresponds
+to the country's Presidential term of office. The present Board includes
+two members of the opposition party. ICE's board membership has maintained
+sufficient continuity; two Board members, one of whom is the Chairman of the
+Board, have served since ICE's inception, and a third since 1954.
+3.03      The Board appoints ICE's general manager, three deputy managers,
+the treasurer and the internal auditors. The general manager appoints other
+officials, subject to Board approval, for senior posts.
+3.04      Prior to April 1973, seven sections reported to ICE's general man-
+ager. Four of these related to electric operations, one to telecommunica-
+tions, and two to accounting and administrative matters. In 1973, ICE took
+a large step toward autonomy of its two operating sections by creating three
+directorates headed by deputy managers: one each for power, telecommunica-
+tions and administrative services. At the end of 1973, ICE's telecommunica-
+tions directorate was divided into three divisions: engineering, which has
+responsibility for economic studies and planning, including financial plan-
+ning as well as system design and engineering; construction; and operations.
+In February 1977, a fourth telecommunications division was set up to deal
+with international telephone services. In addition, the administration and
+finance directorate was divided in June 1977 into three divisions, administra-
+tion, finance, and personnel (see Annex 3.01). This organization appears
+adequate for ICE's present needs.
+3.05      In addition to his responsibility inside ICE, the deputy manager
+of the Telecommunication directorate of ICE is directly in charge of RACSA
+(para. 2.03), and responsible for coordinating the complementary activities
+of the two companies.
+
+
+
+- 12 -
+3.06      ICE's senior engineering and financial staff is generally competent
+and has satisfactory experience in proper management. The middle and junior
+personnel are qualified and closely supervised. A comprehensive training
+program (see para. 3.13) helps existing staff to mas-er the rapidly evolving
+telecommunicaion techniques and trains the new staff for the expansion of the
+network.
+3.07      In comparison with the well organized engineering planning, the
+financial planning of the telecommunications directorate requires improve-
+ment; this is caused by insufficient coordination between the financial
+planning and the accounting units of ICE. Given the good quality of its
+staff, ICE should be able to correct this deficiency itself; Bank's advice
+during the execution of the proposed project would, however, be helpful in
+this respect.
+3.08      Because of the extreme centralization in the administration of the
+country and of its economic activities in San Jose, much of the telecommuni-
+cations development has been in the metropolitan area. This was to some
+measure caused by ICE's concentrating on meeting the requirements in San Jose
+where the demand and profits were greatest, particularly in the absence of
+Government directives in the past to extend services to all parts of the
+country. All management, maintenance and installation teams are now central-
+ized in San Jose. Although the pattern is now changing, this centralization,
+in turn, has led to inadequate emphasis on development in the provinces.
+This bias against provincial and rural development has also been partly
+due to a somewhat difficult geographical terrain and to inadequate funds.
+Current Government policy emphasizes telecommunication development over the
+whole country (see para. 7.02).
+Accounts and Audit
+3.09      In the appraisal report of Loan 1006-CR (May 1974), concern was
+expressed about ICE's method of allocating administrative costs between the
+energy and telecommunications services and further between operations and
+construction of the two services. ICE agreed to employ consultants to review
+the allocation of administrative costs and implement such recommendations
+in time and manner satisfactory to the Bank. The findings of a first study
+carried out by Peat, Marwick and Mitchell in June 1974 could not be imple-
+mented by ICE because they would be too elaborate and costly to operate. A
+second study was therefore made and completed in December 1975 and proposed
+coefficients derived from a limited sampling of cost allocations. Cost
+allocation coefficients for Fiscal Year 1978 are now based on a survey of
+administrative employees taken in November 1977 showing time spent on power
+and telecommunication matters and further, on operation and construction in
+connection with power and telecommunications matters. Although this method
+is considered satisfactory in principle, a longer sampling period than one
+month should be used in order to obtain more accurate information. The
+Borrower will therefore, by April 30, 1978, propose to the Bank for its
+approval a sampling method to be adopted in fulfillment of the requirement of
+Section 5.08(b). It has been agreed that, beginning fiscal year 1978, and at
+
+
+
+- 13 -
+least annually thereafter, ICE will allocate administrative costs between the
+Power and Telecommunication Directorates, and further between construction and
+operations in each Directorate, using methods of allocation satisfactory to
+the Bank.
+3.10      External auditing is performed satisfactorily by the local auditing
+firm of Venegas, Alvarez and Company, who are affiliated with Seidman &
+Seidman, a US firm of accountants. Internal audit functions are performed by
+an internal audit group, the head of which reports to the Board of Directors.
+Tariffs
+3.11      The present tariffs, as of March 1976, are summarized in Annex
+3.05. They include the recent changes presented in paragraph 6.02. Telephone
+tariffs in Costa Rica are on the low side compared with the USA but are higher
+than the tariffs in some other Central American countries such as Guatemala
+and El Salvador. Representative monthly tariffs are at present $4.65 residen-
+tial and $8.15 business, both with 100 free pulses. The revenue per line
+amounted to $340/line/year in 1976 (as compared with $300 forecast during the
+appraisal of the previous project) -- this is higher than in most developing
+and developed countries.
+Staff and Training
+Staff
+3.12      ICE's telecommunications staff at the end of 1976 was about 2,700,
+46% for operations, 23% for construction and the other 31% for administra-
+tive and institutional purposes. Both operations and administrative manpower
+decreased in 1976 and a strict recruitment policy has succeeded in keeping
+the ratio of the number of staff in operations to a low 16 per thousand tele-
+phones. During the project period, ICE is expected to recruit about 850
+additional staff for operations and another 300 for administrative support.
+At the end of the project, when ICE would operate about 230,000 telephones,
+the ratio of number of staff in operations 1/ per thousand telephones would
+drop to about 14.4; this is one of ICE's key objectives and would be con-
+sidered as very satisfactory. Annex 3.02 gives details of the number of
+employees in each department for the years 1976 to 1982. The salaries are
+slightly higher than those paid for similar types of work by other adminis-
+trations in Costa Rica. Employment with ICE is made still more attractive
+by a liberal policy of fringe benefits. Turnover of staff is reported to be
+negligible.
+1/   This includes all staff of the operations and construction divisions,
+but not the administrative staff and the staff in the institutional
+section. If they were to be included, the number of staff per thousand
+telephones would be increased by one fourth.
+
+
+
+- 14 -
+Training
+3.13      A specialized department, located in San Jose, and staffed with
+38 persons (11 for telecommunications), covers ICE's in~bo¢   trai--   '
+department has three sections offering courses in administration, electric
+power and telecommunications, respectively. Training programs cover all
+aspects of ICE's activity, and provide courses at all levels for new staff
+as well as for internally promoted employees. Some of the courses are
+given in ICE's offices outside of San Jose when the number of trainees
+justifies it. The training program for telecommunications is reasonably
+comprehensive, and in 1976 it offered 24 different courses for 380 partici-
+pants (nearly 20% of the manpower of ICE-Telecommunications). This program
+is specially designed to complement courses offered by the other technical
+schools in Costa Rica; in cooperation with ICE, the University of Costa Rica
+has recently created a "Licenciatura en Telecomunicaciones", adding one year
+of specialization after the common electrical engineering curriculum. The
+Bank helped the training program by financing training equipment and foreign
+instructors; the proposed Bank project would further stimulate training
+expansion by providing additional training equipment. In addition to this
+in-house training facility, ICE uses to a large extent training provided by
+foreign suppliers. ICE organizes seminars (14 on telecommunications topics
+in 1976) often jointly with the other Central American countries, and also
+offers scholarships (21 in 1976) to study abroad.
+Existing Telecommunications Facilities
+3.14      The existing exchange and long distance network in Costa Rica is
+shown in Map No. IBRD-13121R. Basic network data are set out in Annexes 3.03
+and 3.04. A brief description of ICE's facilities as of December 31, 1976
+is given below.
+3.15      Local Services:  Local services are provided via 50 local exchanges
+-- of which 11 were manual or semi-automatic exchanges -- with a total capac-
+ity of 111,400 lines; connected direct exchange lines amounted to 87,183, 98%
+connected to automatic exchanges. The unfilled expressed demand for telephones
+is about 7,000.
+3.16      Long Distance Services:  Long distance services are provided by
+microwave radio, coaxial cables, VHF/UHF radio and PCM and FDM carrier on
+cables. Facilities for subscriber dialing of long distance calls are avail-
+able to nearly all subscribers on the automatic exchange network; for the
+others, long distance service is provided on semi-automatic, or fully
+manual basis.
+3.17      Telex and Telegraph Facilities:  San Jose is connected by telex/
+gentex to 20 traffic centers using voice frequency telegraph. A telex ex-
+change operated by RACSA, serving 516 telex and 34 gentex subscribers as of
+mid 1977, is installed in San Jose. Independently, Junta Nacional de Comuni-
+caciones operates a telegraph network with 570 offices (see Annex 2.01).
+
+
+
+- 15 -
+3.18      International Facilities:  Costa Rica has good international tele-
+communications facilities to countries in Central America, USA and Europe.
+Costa Rica is connected through a high capacity microwave system which pro-
+vides 108 trunks to the other countries of Central America. This Central
+American network is connected to other international circuits and provides
+Costa Rica with extension links to Mexico and the US through Guatemala (53
+circuits); similarly, it provides Costa Rica with extension to US, Venezuela
+and Spain through the earth satellite station in Nicaragua (17 circuits) and
+to the US, Spain and Colombia through a satellite station located in Panama (6
+circuits). Costa Rica plans to install its own satellite station in 1980 or
+alternatively (see para. 5.02) a submarine cable to the US to take over all
+the present international circuits transmitting through Panama and Nicaragua,
+and provide for further expansion. International direct dialing is avail-
+able to the Central American countries, the US, and Europe. Toll ticketing
+equipment is installed in San Jose to record international calls.
+
+
+
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD OICE)
+ORGANIZATION CHART (DEPARTMENT LEVEL)
+TELECOMMUNICATIONS SECTION
+In~~~~~~~~~~~~~~~~~~~~~~~~O 18AD OF DInFTR 
+I INTERNAL I                                I   ~~~~~~~~~~~~GENERAF 
+AUDITOM                                                      MANAGER
+OMANAGER                                    ANAGERMER
+tt                         POWER                                       TEL ECOFMM .                                          ADM . L    FINANC F
+0
+w
+ti
+0                                                         O  T NW |OSRCIN  IINTERNATIONAL|     C    SIDIITAIN     rNCES         ESNE 
+E g                           A                             ,~~~~~~~~~~OTSD    LA.N
+w
+WoNd go.k - 1e179
+
+
+
+- 17 -
+ANNEX 3.02
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Personnel Assumptions
+1976   1977   1978   1979   1980   1981   1982
+Operations
+Number of personnel             1,267  1,333  1,493  1,573  1,740  1,840  1,990
+Increase over previous year       (64)    66    160       80    167    150    100
+Average salary and related
+expenses (¢ thousands)         32.5   36.8   43.5   47.2   50.9   54.9   56.3
+Increase over
+previous year - percent          -      5.2   12.0    5.3   10.6    8.6    5.2
+Construction (permanent only)
+Number of personnel               652    687    769    810    896    973  1,025
+Increase over previous year       (34)    35       82     41      86     77      52
+Total NTS
+Number of personnel             1,919  2,020  2,262  2,383  2,636  2,863  3,015
+Increase over previous year       (98)   101    242    121    283    227    152
+Administration personnel
+Number of personnel               279    293    328    346    382    415    437
+Increase over previous year       (14)    14      35      18     36      33     22
+Institutional personnel
+(ICE total)
+Number of personnel /1          1,079  1,204  1,295  1,379  1,456  1,551  1,619
+Increase over previous year       101    125      91      84     77      95     68
+/1   Half of it allocated to telecommunications.
+
+
+
+- 18 -
+ANNEX 3.03
+Page 1 of 2 pages
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+AND RADIOGRAFICA COSTARRICENSE
+Basic Data as of December 31, 1976 and as of December 31, 1981
+Plant and facilities in service as at end of December:
+Local Service                                                         1976        1981
+a)   Number of local exchanges                                      50         121
+b)   Total number of local automatic exchanges                      39          86
+c)   Total installed capacity of automatic exchanges           109,150    194,140
+d)   Total number of automatic exchange connections             85,403    150,150
+e)   Total number of manual or semi-automatic exchanges             11          35
+f)   Total capacity of manual or semi-automatic
+exchanges                                             1,990       5,200
+g)   Total number of manual or semi-automatic
+exchange connections                                  1,780       4,650
+h)   Total capacity of local exchanges                         111,140    199,340
+i)   Total number of connections                               87,183    154,800
+j)   Percentage of automatic lines                                98%         97%
+Long Distance Service
+a)   Number of interurban exchanges 1/                               1           4
+b)   Total number of long distance circuits 2/                   3,347       7,400
+c)   Total terminations on interurban exchanges                  4,400       6,500
+d)   Rural public call offices (localities served)                 157       1,003
+1/   In addition to these, the tandem exchanges in San Jose function as urban
+transit and interurban transit exchanges.
+2/   These figures do not include VHF-UHF links used primarily for rural
+telephony.
+
+
+
+- 19 -
+ANNEX 3.03
+Page 2 of 2 pages
+Telegraph and Telex Services                                          1976       1981
+a)   Number of telegraph offices                                 570         1/
+b)   Number of telex exchanges                                     1           I
+c)   Total capacity of telex exchange (outlets)                1,200       1,680
+d)   Total number of telex subscribers                           517       1,300
+1/   Given the projected use of ICE's facilities by telegraph operation,
+this number is likely to increase to about 1,000 offices, but no decision
+has yet been made by Junta Nacional de Comunicaciones.
+
+
+
+- 20 -
+ANNEX 3.04
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+AND RADIOGRAFICA COSTARRICENSE
+Exchange Capacity and Connected Lines
+as of December 31, 1976 and Forecast (1977-82)
+End Year           Exchange Capacity                Connected Lines         % Fill
+1976                  111,140                           87,183              76
+1977                  135,800                          100,200              74
+1978                  141,800                          111,100              78
+1979                  150,900                          125,500              83
+1980                  171,100                          140,100             82
+1981                  199,340                          154,800             78
+1982                  219,204                          169,899             82
+December 28, 1977
+
+
+
+- 21 -                                           ANNEX 3.05
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD
+Summary of Internal and External Telecommunications Tariffs
+(in Colones or US Dollars, as indicated)
+INTERNAL TELEPHONE                                     INSTALLATION FEE               :            SECURITY DEPOSIT
+Metropolitan  Provincial       Rural       Metropolitan  Provincial          Rural
+INSTALLATION FEE AND SECURITY DEPOSIT            Area        Capitals   Communities         Area         Capitals    Communities
+Two party line                              0 600.00    0 600.00        0 400.00          100.00         100.00        100.00
+Residential                                 1,000.00        750.00        500.00          100.00         100.00        100.00
+Commercial                                  1,500.00    1,200.00          750.00          200.00         200.00        200.00
+Public phone on private premises            2,000.00    2,000.00        2,000.00          200.00         200.00        200.00
+CALLS FEE                                               MONTHLY RENTAL                :         CHARGE PER EXCESS IMPULSE
+Two party lines                             0  35.00    0  35.00        0  25.00       See Note (2)
+Residential                                     40.00        40.00         30.00       See Note (2)
+Commercial                                      70.00        70.00         60.00       See Note (2)
+Unlisted                                        90.00        90.00                     See Note (2)
+Public phone on private premises               200.00       200.00                     See Note (2)
+Monthly rental includes 50 and 100 free respectively for party and all other subscribers.
+Example of long distance charges for three minute calls:
+San Jose - Cartago or Alajuela                                          0   1.50
+San Jose - Limon or Puntarenas                                              3.15
+San Jose - Guanacaste or South Zone                                         5.85
+Guanacaste - South Zone                                                     9.45
+INTERNAL TELEX
+Installation                                                          01,250.00*
+Monthly fees (vxcludes free calls)                                        370.00
+Call fees (I minute)                                                        2.50
+*Includes 01,000 Security Deposit
+MOBILE TELEPHONE
+Installation                                                         020,000.00
+Monthly fees                                                              300.00
+Call fees in addition to urban call fees: first minute    See Note (2)
+each additional See Note (2)
+INTERNATIONAL TELEPHONE
+CENTRAL AMERICA AND PANAMA              -                                                  FULL RATE
+Station to Station         Person to Person
+First 3 mi-  Each addl.  First 3 mi-  Each addl.
+nutes      minute          nutes       minute
+El Salvador                                                               31.00         8.00         43.00        10.00
+Guatemala                                                                 31.00         8.00         43.00        10.00
+Honduras - San Pedro Sula                                                 34.50        10.00         48.00        11.00
+- Other                                                         26.00         6.50         36.00         8.00
+Nicaragua                                                                 21.00         5.00         29.00         6.50
+Panama                                                                    31.00         8.00         43.00        10.00
+NOTE:  Reduced rates (nights, Sundays and holidays)are two-thirds of full rate.
+REST OF WORLD                                     FULL RATE FIRST 3 MINUTES
+Station to    Station to  Person to
+Station      (1) Station  Person
+Mexico                                    US$  4.80      US$   1.60  US$  9.00
+Southeastern US                                6.00             2.00       11.25
+Northern and Western US                         7.20            2.40       13.50
+Larger South American Countries               10.50             3.50       15.75
+Spain                                         10.50             3.50       10.50
+(1) Only 1 minute automatic.
+(2) The tariffs for additional pulses vary from 0.15 to 0.25 per pulse and increase by steps when the total
+number of Pulses billed to the subscriber increases for the month.
+November 8, 1977
+
+
+
+- 22 -
+I7.  D EIA 1-D AiN DLARKE A AS ECTS
+4.01      Demand for expansion of the network as a whole exists.  The present
+unsatisfied demand as shown in the waiting list is 6,904, ha'lf of which are
+in San Jose.  But this waiting list does not represent the total unsatisfied
+demand I/ which is conservatively estimated at 10,000, or 9% of working lines.
+Although a potential subscriber must register on an official waiting list to
+acquire a telephone, waiting lists are maintained only in areas served by a
+telephone exchange, or where one will be installed soon. The unsatisfied
+demand in large urban areas is thus reasonably well known, except perhaps for
+the newly developed districts. But in small localities, and particularly in
+rural areas, in which waiting lists are maintained only when telephone ser-
+vice already exists, the uncertainty is much larger. Total demand is in-
+creasing by some 11% per annut  and will by 1981 amount to about 170,000 as
+shown by historical tendency where waiting lists are maintained and inquiries
+elsewhere.  Unmet deaand over the project period is therefore likely to in-
+crease to about 15,000. 2/
+4.02      More than one-third of the population of Costa Rica has no access
+to telephone facilities. When rural telephone service is provided, many of
+these people will start using this public facility and later move up to
+applying for extension of the telephone facilities to their home and busi-
+ness. It is likely that the nearer the public telephone servi'ce will be
+brought to the yet unserviced population, the higher the demand for individual
+telephones will be among them.
+4.03      In addition, there is a demand for service by smal' enterprises
+(for instance, mining and forest exploitation.) which are located in isolated
+places. This service will also be invaluable for the tourist industry and
+large farming development, which tend to appear outside the urban areas and
+represent operations that presuppose basic infrastructure facilities which
+include the provision of basic telephone services. The demand is estimated
+at about 1,200 and will be met by the 1,200 radio telephones -- served by
+1/   Total demand i_c^des the existing connected subscribers and the unsat-
+isfied demand com^.sing the applicants registered on waiting lists
+and the persons 7Zao would apply for a telephone if ICE tfas able to
+provide it in the foreseeable future.
+2/   Unmet demand at a given date in the future is estimated by subtracting
+the number of telephone lines which are planned to be in operation at
+that date from the total demand estimated by historical tendency or
+inquiries. With its present physical and economical resources, ICE
+could hardly undertake a program larger than the one proposed without
+endangering i'ts financial viability and the normal progress of the
+implementation of the project. Therefore, the existence of a reason-
+able unmet demand after the completion of the program is considered as
+acceptable.
+
+
+
+- 23 -
+operators -- which will be installed during the project all over the country;
+these systems will meet essential needs until such time as the areas concerned
+can be given full exchange facilities.
+4.04      The long distance traffic increases per year have for the last
+three years oscillated between 12% and 14%. Since the present project adds
+a significant percentage of provincial subscribers, the projections of an
+average increase of 14% per year during the execution of the project, which
+has been used to dimension the long distance network, appears to be reason-
+able. This higher traffic will largely be met through provision of circuits
+by addition of multiplex equipment to existing radio routes and only a few new
+long distance routes will be added (six only, of which four by microwave and 2
+by PCM on existing cables).
+4.05      Actual demand for telex-gentex has greatly exceeded ICE's and
+RACSA's projections over the past few years. The historical rate of in-
+crease of subscribers had been 20% in previous years although only 15% during
+the past year due to the lack of equipment and the necessary links to the
+network. The official waiting list for connections stands at 60, 90% of it
+in San Jose, but this is of little value as a large number of potential
+applicants are not recorded -- ICE/RACSA have been rather discouraging the
+demands. ICE plans a 17% yearly increase of telex/gentex subscribers until
+the end of the project.
+4.06      The expansion of international traffic has been forecast at a 15%
+of increase during years 1977 to 1979 and 12% thereafter. As the traffic
+increase in 1976 was 17.8%, and averaged 20% during the previous years, the
+forecast seems reasonable.
+
+
+
+- 24 -
+V. THE PROGRAM AND THE PROJECT
+The Program
+5.01      ICE's five-year (1978-82) telecommunications development program,
+estimated to cost in the order of US$163 million, consists of:
+(a)  completion of ongoing projects which will involve total
+expenditures estimated at US$34 million;
+(b)  the proposed project (US$94 million);
+(c)  advance expenditures (US$28 million) for buildings and
+down payments on equipment to provide for further expan-
+sion from 1982 onwards (justified by the projected unmet
+demand at the end of the proposed project, see para. 4.01);
+and
+(d) interest during construct4on (US$7 million).
+The Project
+5.02      ICE had, in 1973, developed a telecommunications expansion program
+for 1974-1980 called Stage IV, the first part of which, called Stage IVa, was
+financed by the fourth loan of the Bank. In 1977, ICE decided to remodel the
+second part of the original project (Stage IVb) and expand it to the year
+1981; ICE renamed it Stage V.  The proposed project consists of ICE's Stage V
+expansion works comprising:
+(a)  an increase in exchange line capacity of about 654100 lines
+(of which about 13,000 will provide service in small
+localities, most of them of less than 2,000 inhabitants).
+These facilities will permit connection of some 54,500
+additional DELs;
+(b)  expansion of long distance facilities by microwave, PCM and
+carrier cable systems and additional multiplex equipment to
+provide 1,600 long distance circuits in the national network,
+of which 200 will be on new routes;
+(c)  installation of three new long distance exchanges and ex-
+pansion of the existing ones 1/ to provide 1,900 new ter-
+minations to accommodate the additional toll circuits;
+(d)  expansion of the rural telephone system to 500 new rural
+communities (public call office service) and 1,200 rural
+productive centers (radio systems served by an operator),
+together with the corresponding cable and radio links to
+connect them to the national network;
+1/   Including the equipment of the urban tandem offices in San Jose which
+carry also long distance traffic.
+
+
+
+- 25 -
+(e) provision of public mobile telephone services to cover
+the country as a whole and connect 300 additional mobile
+stations;
+(f) expansion of the telex exchange, to cater for 450 new telex
+subscribers, and replacement of the old telegraph network
+by a combined telephone-gentex message service;
+(g) installation of an earth station, providing additional cir-
+cuits for international traffic or alternatively a submarine
+cable 1/; and
+(h)  improvement and expansion of the training facilities to meet
+the additional needs of the planned decentralization and to
+provide for the growth of the network and the introduction of
+new techniques.
+5.03      Quantitatively, the number of localities in rural districts in
+Costa Rica served by public call offices will increase from 500 at the end
+of 1978 to over 1,000 at the end of the project. During this period, the
+capacity of the exchanges installed in rural areas will grow from 5,600 to
+14,900. Through this expansion the rural population having access to tele-
+phone service will grow from about 600,000 to over 900,000.
+Number of Rural Localities Served       mid 1977       end 1979       end 1981
+Province of San Jose                  136            210            374
+Rest of the Country                   139            415            629
+TOTAL                      275             625         1,003
+In the whole of Costa Rica, the number of subscribers with individual con-
+nections will increase from 100,300 to 154,800 during the execution of the
+project, distributed as follows:
+I/   ICE has completed this study and has given a copy of the report to the
+Bank. The formal decision will be taken by ICE and RACSA but requires
+parliament approval. The Bank will be able to comment on the choice. In
+any case the international telecommunication traffic of Costa Rica justi-
+fies the installation of its own facility from the economic point of view.
+
+
+
+26 -
+DELs per 100 Population 1!              mid 1977       end 1970       end 1981
+Metropolitan area of San Jose 2!    9.0             11.9           14.0
+Province Capitals                     2.7            3.2            3.7
+Rest of Costa Rica                    1.2            1.7            2.2
+Total of Costa Rica                   4.5            5.9            7.2
+Project Objectives
+5.04      As set out in Chapter IV, the main objective of t-  proposed
+project is to meet part of the present and projected demand f-or telecommuni-
+cation services irn rural as well as in urban areas.  As ex<lained in Chapter
+VII, this is a necessary component of the national plan of development
+adopted by the Government of Costa Rica,
+5.05      In addition to above, ICE intends to modernize its network during
+the present program. The first step in this directioon is to introduce new
+large exchanges of the electronic or semi-electronic type (see Annex 5.02).
+After having discussed with the telephone administrations of Guatemala and
+Panama, which have ordered SPC exchanges, and with the suppliers, ICE deter-
+mined that for the large exchanges this type of equipment would be competi-
+tive with the crossbar technique, and would allow ICE to economically offer
+on a large scale new services in the future (first keyboard telephones and
+centrex services), which appear profitable. Furthermore, since SPC systems
+require less space for the same capacity, a serious problem of buildings will
+be avoided in San Jose, Discussions with the suppliers has led to a pre-
+selection of five of them, and tenders shall be called at the beginning of
+1978.
+5.06      In parallel with the modernization of its network, ICE intends to
+develop new types of services -- the first one, mobile telephones, is under
+experiment on some of the vehicles of ICE connected to a master station in
+San Pedro. The public mobile service will be offered publicly in July 1978
+and the first installation with a capacity of 150 subscribers is expected
+to be fully subscribed.  The project provides for 50 new subscribers per
+year for this service which interests mostly public services and agricultural
+and civil work enterprises.
+5.07      To expand its international links, ICE is planning also the in-
+stallation of a modern satellite station or as an alternative a submarine
+cable to the US, if this latter solution appears more attractive; a study
+comparing both solutions has been completed and communicated to the Bank
+1/   In Costa Rica, the number of telephones is approximately 1.5 times the
+number ofr DELs.
+2/   The metropolitan area of San Jose includes the town of San Jose itself
+and the nearby towns up to a distance of 20 kilometers. The increase of
+telephone equipment in this area will benefit primarily the small towns
+around San Jose where the amount of exchange equipment will be doubled
+during the project while in the town of San Jose itself the increase will
+be only 38%.
+
+
+
+- 27 -
+(see footnote para. 5.02). ICE is prepared to call for bids in 1978, and have
+the equipment in operation in 1980.
+5.08      To prepare for the longer term needs of the Government, the banks
+and other large enterprises, ICE is studying the realization of a basic data
+network.  A first step of this project is the training of ICE's staff by
+foreign specialists, in assessing the needs and designing the network. ICE
+expects to have an experimental working system at the end of the project.
+Project Cost
+5.09      The project's cost is estimated at US$94.1 million including a
+foreign exchange expenditure of US$53.3 million. The proposed Bank loan of
+US$10.6 million would finance part of the foreign costs of the project.
+5.10      The cost of the project shown in detail in Annex 5.01 is summarized
+as follows:
+¢ (millions)                US$ (millions)
+Local   Foreign   Total       Local   Foreign   Total
+Rural telephony                   68        91       159       8.0       10.5      18.5
+Local switching                   15       132       147       1.7       15.4      17.1
+Local network                     43        67       110       5.0        7.8      12.8
+Long distance system              16        26        42        1.8       3.1       4.9
+International transmission         6        42        48       0.6        4.9       5.5
+Land and building                 11         3        14        1.3       0.3       1.6
+Mobile telephony, telex           1/        14        14         1/       1.6       1.6
+Training consultants & misc.    10           3        13        1.2       0.3       1.5
+Subtotal direct costs         169       378      547       19.6       43.9      63.5
+Physical contingencies             7        12        19       0.9        1.4       2.3
+Base price                    176       390      566       20.5       45.3      65.8
+Price contingencies               53        69       122        6.1       8.0      14.1
+Overhead - engineering and
+administration                122         0      122       14.2        0.0      14.2
+Project Cost                     351       459       810      40.8       53.3      94.1
+Interest during construction    44           9        53       5.2        1.0       6.2
+Total cost                       395       468       863      46.0       54.3    100.3
+1/   No figure is shown because cost is less than US$100,000.
+
+
+
+- 28 -
+5.11      The project costs reflect estimated December 1976 prices, based
+on ICE's experience with recent contracts relating to ongoing works, with
+adjustments to bring them up to date to the end of 1977. The project esti-
+mates are reasonable. ICE is exempt from payment of customs duties on
+imported goods.
+Contingencies
+5.12      Price contingencies for project costs amount to 22% of the base
+and physical costs (distributed as 29% of local and 17% of foreign expendi-
+tures). They result from the year by year estimated local cost increase 1/
+of 12% from 1978 to 1982; and year by year estimated foreign cost increases
+of 1978 through 1982 - 8% annually. The foreign cost increases are applied
+as of the date of the contract since in this sector such contracts are made
+on a fixed price basis. The annual percentage cost increases are those used
+by ICE for its projections, and are based on its past experience, and dis-
+cussions with the prospective suppliers; they reflect a weighted average
+made between the quantities of different types of equipment included in the
+project.
+5.13      Provision of local and long distance exchange lines, telephones,
+microwave radio equipment and multiplex terminal channels proposed to be
+procured and installed under the project are based on detailed forecasts
+and detailed engineering. In view of this, the quantities are not expected
+to change significantly, with perhaps one exception, which concerns the
+external plant for urban as well as rural areas. In this domain the use
+of broad quantities based on ratios derived from past experience gives only
+estimates of the equipment needed to service subscribers. Therefore, physical
+contingencies of about 10% have been applied to local and foreign costs of
+external plant, amounting to US$0.9 million of local currency and US$1.4
+million of foreign currency.
+Items for Bank Financing
+5.14      The items to be financed out of the proceeds of the US$10.6 million
+proposed Bank loan are as follows:
+1/   The local cost increase of 12% per year shown here is higher than the
+average cost increase expected in Costa Rica for the next few years.
+However, it is based on ICE's experience during the past two years, and
+explained by the rapid increase in salaries for specialized technician
+and engineers in the telecommunicaion field. These salaries represent
+a large percentage of the local cost of the construction project.
+
+
+
+- 29 -
+US $ (millions)
+Local Facilities
+Subscriber's plant                                       2.8
+Subscribers and junction network                         4.0
+Power, air conditioning                                  0.3
+7.1
+Long Distance Facilities
+Transmission equipment                                   0.6
+Telegraph Facilities
+VFT equipment                                            0.4
+Teleprinters                                             0.3
+0.7
+Training Equipment                                         0.3
+Contingencies                                              1.9
+Total                                                10.6
+Bank financing will only cover 20% of the foreign cost of the project. It
+would be associated with an IDB loan of US$12.2 million and with various
+export and suppliers' credit (US$28.7 million). ICE would finance the local
+costs (US$46 million) and a limited amount of foreign costs (US$2.8 million).
+IDB's appraisal mission of a rural component of the project has been completed
+and the IDB loan approved. Negotiations are being conducted with export
+credit institutions of supplier nations and firm offers have been received
+which constitute a satisfactory financing for all items not covered by the
+Bank and IDB loan.
+
+
+
+- 30 -
+Sources of Funds for the Different Types of Equipment
+(millions of US dollars)
+Division oI
+Total Cost                    Foreign Costs
+Suppliers
+Item              Local-   Foreign   Total   IDB    IBRD         Credit    ICE
+Telephone switching
+equipment               3.7        20.4      24.1    2.2       0        16.8     1.4
+Local network & sub-
+scriber installation   5.9          8.8      14.7    1.0      6.8        1.0
+Transmission equipment   2.5          8.3      10.8    1.6      0.6        6.1
+Rural telephone lines
+& productive centers   3.1          4.1       7.2    2.7                         1.4
+Miscellaneous              4.4        2.4       6.8    0.2      1.3        0.9
+Engineering, institu-
+tional overhead &
+interest during
+construction           19.4         1.0      20.4    1.0
+Contingencies             7.0         9.3      16.3    3.5      1.9        3.9
+TOTAL               46.0        54.3    100.3   12.2    10.6        28.7      2.8
+Ii  All local costs are met by ICE.
+Note: The above table is a condensed presentation of table from paragraph
+5.10 to which has been added the sources of financing for equipment.
+Procurement
+5.15      All goods to be obtained under the project by Bank financing would
+be procured through international competitive bids in accordance with the
+Bank's Guidelines: Up to US$3.4 million of goods to be financed from the Bank
+loan, principally cables and accessories, poles and PVC ducts, are likely
+to be offered in ICB by manufacturers in the Central American Common Market,
+including Costa Rica 2/. Costa Rica is a member of the Central American Common
+2/   While manufacturers in Costa Rica may bid through ICB for goods up to
+$3.4 million, principally cables and accessories, it is quite uncertain
+as to the extent Costa Rican suppliers will be successful in being
+awarded the contract. Because the chances are not considered significant,
+the whole of $3.4 million has been shown as foreign costs in the above
+table.
+
+
+
+- 31 -
+countries. Suppliers from Central American countries would be allowed a
+preference in bid evaluation of 15 percent of the CIF price or 50 percent
+of the import duties, whichever is lower.
+5.16      In respect of other items not financed by the Bank, ICE would
+obtain:
+(a) the new electronic exchanges through limited international
+competitive bidding from firms which have been pre-qualified
+by ICE based on the suitability of equipment to meet its
+needs, and availability of export credit on terms agreed to
+with ICE;
+(b) procurement of additional quantities in respect of items
+awarded after international competition by extension of
+existing contracts;
+(c) extensions to existing equipment through negotiations
+with suppliers of the original equipment for reasons of
+standardization and efficiency; and
+(d) small miscellaneous items available on the local market
+through local bidding, advertised locally.
+Project Implementation
+5.17      The proposed schedule for the execution of the project is set out
+in Annex 5.02, and is considered realistic. ICE's staff has begun work on
+engineering designs and preparation of bid documents. ICE has the capability
+to carry out evaluations of the offers. Most of the civil works will be
+contracted to local firms for execution. ICE will install all extensions to
+existing equipment and request support from the supplier only for installation
+of new type of equipment, mainly electronic exchanges and the possible earth
+satellite station. ICE would carry out the acceptance testing of all installed
+equipment. ICE's management is sufficiently experienced and is capable of
+managing the above work satisfactorily. The project is expected to be com-
+pleted by December 31, 1981, with a slight uncertainty about two components:
+the program of installation of the electronic exchanges has many elements
+which FCE will be facing for the first time and the supplier has also to adapt
+his software to the local conditions with the result that the installations
+could take longer than scheduled; and the rural telephone expansion which
+requires scattered installations over a wide area and could also be somewhat
+delayed.
+Disbursements
+5.18      Estimate of loan disbursements is set out in Annex 5.03.  Disburse-
+ments would be made for 100% of foreign expenditures on goods including the
+foreign exchange component of installation costs, and for 95% of the ex-factory
+costs on any locally awarded contract for goods specified under the loan. The
+
+
+
+- 32 -
+latter would be mainly for the Bank-financed part of external plant for the
+local network. The amount earmarked from the proposed Bank loan is US$6.8
+million, of which suppliers from the Central American countries are expected
+to bid for contracts which may amount to about US$3.4 million (see footnote
+para. 5.15). The closing date of the loan would be June 30 1982.
+Risk
+5.19      The project offers limited risk, the principal one being the pos-
+sibility of delay in a few works due to unforeseen circumstances. In tele-
+communications projects, which comprise a large number of works, delay in
+the completion of a few works does not generally prevent the use of other
+newly created assets.
+
+
+
+COSTA RICA
+INSTITUTO COSTARRICENSE DE6 ELEOTRICIDAD (ICE)
+FIFTII TELECOMMUNICATIONS PROJECT
+roject Coda~- 1978-1982
+(Thousa.nds of Colones)
+1978                          1979                          1980                           1981                           1982                     1978 - 1982
+Local  Poreigo  Total         L-ca   Foreign  Total         Loca   Fo-igo    oa            Local  Forign  Total          Loca   Foreign  Total         Local   F-rig.   Total
+1.  Rura  Telephony
+Exchange- and loncntrators                1,381     3,486   4,867       3,639      7,909  11,548      2,647    8,814  11,461         5,781   11,412  17,193             0         0        0     13,448   31,621   45,069
+Di-et Linen                                 927       658    1,585      1,329        975   2,254      1,754      1,264   3,018    2,520    1,855   4,375                0         0         0      6,530    4,702    11,232
+Rural  Telephone Lines                        0          0        0     8,095      7,786  15,881    12,654   10,433  23,087    4,153    4,005   8,158                   0         0         0    24,902   22,224   47,126
+Sour-, lnst. Tule Pail                      210       411       i2]       291        713   1,004         493    1,040    1,533         622     1,377   1,999            0         0         0      1,616    3,541    5,157
+Rurel Productie Center                      639    3_2    3,967           616     3,3       3,4          594     3,209   3,803         573    3.209   3,782             0         0         0      2 422   13,074   15,496
+Total Rural Retwoch  1,776  4,307   A,123    10,331    12,752  23,083    15,495    15,946  31,441           7,868    10,466  18,314 08 05 09                                       43,54131441    796,011,46  18,31
+Major Links                                 202       823   1,025         400      1,692   2,092         280    1,183   1,463          365      1,601   1,966           00                  0      1,242     5,299      6,546
+Minor tide. (VHF, UMP, C-riir)              368     1,152   1,520         491      1,545   2,036         736    2,305   3,041          425    2,196   2,621             0         0         0      2,020     7,198    9,218
+Cable Network                               573     _740   1,313          323        553      876         50        68       116       219        186      405          0         0         0      1,6       1,547    2,712
+Total Rural Tranunisuico  1,143  2,715    3,858    1,214~--  3,90   5,004        1,6        356T,22            1009       3983   4992             0          0        0      4,432   14,044   18,476
+Civil Works and Elect.                    1,509       115   1,2         3,4          405   4,4        7,9          204   2,800       2,740        2 77   3 01 7         0         0         0     1508       1,501   16, 588
+Total 1 Rural Telepl,ony  5,809    10,713  16,522   ~~~~18,926    24,85i  43,782   26,304   29,020  55,324   17,398   26, 11 8  43,506            0          0        0     6,3        9,77159,144
+2. Loca IcleIphorn SNtwork
+Metropolitan urea switching 2q~,st.         434     5,424    6,059         324     3,787   4,161    2,709    56,039  58,748          3,6 20   36,676  40,296       1,7927   21,412   23,214        9,135  123, 344  132,479
+Provincial Capitals                           0          0        0        91        554      645         91         0        91    1,813       5,538   7,351           0         0         0      1,995    6,092       8,087
+Other L-,raities        ,                     0          0        0         0          0        0          0          0        0    3,230           0   3,230         363     3,112   3,475        3,593    3,112       6,705
+lubtotal 2.1   ~~~~~'     634     5,424    6,~~7059     46      4,4i,86             2800   56,039  58,839    8,663   42,214  50,877    2,-160   24,529  26,689                 14,723  132,54814,7
+Junti-n  Prin Sec Du-t                    1,569       905    2,474      6,962     8,023  14,985   13,292   17,339  30,631            9,430   16,337  25,767             0         0         0     31,253   42,604   73,857
+Subsciber inst Tel Inst                   3,058     5,7    8,3          3,032    6,5    9,8           3,04       6  534      57      2,599     6,135   8,3              0         0         0     1172   249    36,328
+Subtotal 2.2  E.ternal pledt    4,627          6,8   10,811   __)9_994   1467   2466    1633    23. 873  40,205   12,029    22,472  34,501                         0   -- 0            0    42,982   67,203  110 15
+Total 2 Loca  TIelpho-s  Ret.        5,261   11,608  16,870   11, 459    19,015  29,474   19,132   79,912  99,044   20,692    64,686  85,378    2,160   24,529  26,689                       57,705  199.751  257,456 ,
+3.  Long Diuta-ce System
+Swltohing                                     0          0        0     1,563     3,759   5,322       1,609      6,962   8,571         274        840    1,114          0         0         0      346 1,6              50 
+Mior..av  en d Coa.ia1                    3,608     2,528   6,136       2,491      3,182   5,673         426    1,160   1,586    1,387    3,556   4,943                 0         0         0      7,912   10,426   18,338
+Regionl Cable and PCM                     1,557     1,554    3,101        695        184      879        315    1,146   _li~       1.,740    1, 620   3,360             0 __   ____      4_ 307,*****.    4.,49.  ...a0
+Subtotal 3.2 Long Dist. Tra-.  5,165            4,072   9,237    3,8_,36               655           4        , 306    3,047    3,127      5,176   8,303   0___ ___   ____                   12_219   14,92       27 13
+Total 3 Long Distance System         5,165      4,072   9,237    4,749        7,125  11,874    2,350        9,268  11,678    3,401    6,016   9,417                0          0        0    15,665   26,481 ~42,146
+4.  Internationa1 Systen T-ausmision               0         0         0    2,4        j42,11   450        2,3            0   2,3             0          0        0         0          0        0       5.580   42,112   4769
+Total 4 International  System             0         0        0     2,948   42,112  45,060    2,632               0   2,632           0         0         0         0          0        0      5,580   42,112   47,692
+5.  Land Building Elect.                           0         0        0     5,032    2,259   7,291    2,499              86   2,585    3,106          266   3,372           0          0        0     10,637    2,611   13,248
+6.  Mobile Telephony                               0         0         0        55    1,827   1,882           43    1,430    1,473           5 7    1,935   2,03 2          0          0        0         155    5,232    5,387
+7.  Telegraph and Id1a                          283     3,934    4,217          47    2,43 2   2,479          11    1,109   1,120             9    1,027   1,036            0          0        0         350    8, 502    8,852
+8.  Training Consultants and Msc              3,019        269   3,788      2,69         712   3,407       2,407        636   3.043      2,149        589   2,7             0          0        0     10,27 20,706   12 976
+Subtota   1 to     19,517     31,09650,634 44,911   0,381529                    55,378  121,461 13 6, 839   46,812  100,673 147,489    2,360   24,529  26,689   168,79                37,0
+Contingenies PhysiIcal                           640     1,0      1,698      2,032     2,742   4,7,75      3,182    3,9&    7,164        1,989      3,2       5.281   0___ ___   ____                   7,845_  11,07_  1__919
+Base Price                                   20,178   32,155  52,333   46,944  103,081 150,025   58,561  125,443 184,004   48, 80 2  103,969 152,771    2,160   24,529  26,689   176e645  389,177  565,822
+Price Contingenies                            1,150      1,179   2,329       8,476    11,793  20,270    18,714   20,922  39,686   22,957   28,113  51,071               1,443      6,979    8,422      52,742   69,038  121,780
+Engineering and Project Ado                   6,591          0   6,591   20,522             0  20,522   27,072            0  27,022   24,883             0  24,883      4,213           0   4,213      83,281          0   83,281
+Institutiosa1 Overhead                        3,076          0   3,076       9,7            0   9,7    12,634             0  1,634   116i                0  11612       1,6            0   1,966       38,865          0   38,865
+Total 10 Overhead                         9,667          0   9,667   30,099            0  3009        39,70           0  3,70        6,9            0  3649         6,7            0   6,7    12,4                 01214
+Total Project                         30,995   33,334  64,329   85,519  114,874 200,394  116,981  146,415 263,396  108,254  132,082 240,337                       9,782   31,508  41,290    351,533  458,215  809,748
+Interest During Coratruction                  9,855        550  10,405   1091          1,288  12,201    1192          2,559  1448         9,4       4,099  13.146    2,752,.            0   2.S752    4449         89    52,990
+TOTAL COST                            40,850   33,884  74,734   96,432  116,162 212,595  128,908  148,974 277,882  117,301  136,183 253,484    12,534   31,508  44,042    396,027  466,711  862,238
+I/'  ICE applies interest at a fined percntage rate to all projects under co..otnction.  Henc, while ouh interest doting ....otr-tion is foreign in origin, it is shos  as local becase it is
+not specifically idectifiahle-   TIl, hoc--e, do-o not apply to-the~ itereuto coreponding to invetment for the rural  -op-enet which ar  shown in "foreign"1  .e.aus  RIB requested
+specifically to identify then, and          loci-ode tIsc,,, iv~ its fina-cig for thn. eqoipmnent it finace.
+Decebhe 27, 1977
+Revised February 22, 1978
+
+
+
+- 34 -
+ANNEX 5.02
+Page 1 of 3
+COSTA RICA
+INST TUTO COSTARRICENSE DE ETECTRICIDAD (j_I
+FIFTh TELECOMMUNICATIONS PROJECT
+Physical Project (1978-1981)
+Bank Financed Items Marked *
+A.   Local Exchanges                   1978    1979    1980    1981/1982 1/ Total
+Metropolitan area                    0       0   17,000    30,804        47,804
+Province capitals                    0       0         0      3,100       3,100
+Other localities                     0     200       200      4,500       4,900
+Rural exchanges                   588   1,858    3,044        3,728       9,218
+588   2,058   20,244    42,132        65,022
+Notes:
+1)   New automatic exchanges would be obtained through dinternational
+bids for Aserri (500 lines), Ciudad Colon (500 lines), Escazu
+(5,000 lines), Heredia (10,000 lines), Oeste (5,000 lines),
+Santa Ana (1,000 lines), San Jose IV (10,000 lines), San Jose V
+(12,000 lines), San Pedro III (5,000 lines), San Ramon Tres Rios
+(500 lines), Puntarenas (3,000 lines, combined with transit
+exchange), El Roble (2,000 lines). In the list above, exchanges
+which are planned to receive SPC equipment have their names
+underlined.
+2)   Extension of San Jose Norte I and II (5,000 lines'), of Heredia
+(2,000 lines) and Tres Rios (200 lines>  -,ill be fi.nanced by
+suppliers' credit.
+3)   Some of the large new exchanges will repiace existing equipment
+which will be reinstalled by ICE in small localitFes.
+B.   Tandem and Transit Exchanges Expansion
+1)   Town of San Jose
+San Pedro toll exchange: 300 trunk terminations.
+Tandem transit exchanges of San Jose: 600 trunk terminations.
+Replacement of urban tandem of San Jose: 400 additional trunk
+terminations.
+1/   Although all the switching equipment is expected to be delivered and
+installed at the end of 1981, cut-over of some installations is ten-
+tatively scheduled for 1982 (see para. 5.17). The schedule will be
+finalized after the suppliers are known.
+
+
+
+- 35 -
+ANNEX 5.02
+Page 2 of 3
+2)   Provinces
+Transit center of Puntarenas: 500 trunk terminations.
+Transit center of Alajuela: 300 trunk terminations.
+Transit center of Buvis: 300 trunk terminations.
+C.   Long Distance Transmission Equipment:  New Installations
+Equipped
+*Microwave Radio                Channel Capacity            In Service Date
+San Ramon - Cerro Gallo            300/60                        1980
+Cerro Gallo - Orotina              300/48                        1981
+AlaJuela - Atenas                   300/60                       1981
+Las Juntas - Cerro San Jose         300/48                       1981
+*Coaxial Cable
+Sabana No. - San Jose 1/            2,700                        1981
+*PCM Equipment
+Miramar - El Roble                   24/24                       1978
+San Pedro de Poas - Grecia          24/24                        1980
+Ciudad Colon - San Jose 2/          24/24                        1981
+Ciudad Colon - San Pedro 2/         24/24                        1979
+San Antonio - San Jose 2/           48/48                        1980
+D.   Long Distance Transmission Equipment:  Extensions of Number of Channels
+1978    1979    1980    1981    Total
+Microwave                           226       0     488      148      862
+Coaxial cable                       108      24     246      211      589
+Analog carrier on pairs              44       8        8       8        68
+PCM toll network                    24        0      24        0       48
+Increment per year                 402       32     766      367    1,567
+E.  *Junction Cables                              Capacity       In Service Date
+First Tender                              8,500 pair-kms          1978
+2,800  "    "           1980
+11,200  "    "           1981
+1/   This portion of coaxial cable corresponds, in this phase, to the mere
+shifting of microwave antennas presently installed above San Pedro
+building to the Sabana Building. Therefore no multiplex equipment is
+provided.
+2/   These links are part of the junction network of the metropolitan area,
+and are not included in the figures of next paragraph D.
+
+
+
+- 36 -
+ANNEX 5.02
+Page 3 of 3
+F.   Cables for Local Primary Network            Capacit'y        In Service Date
+First delivery                           21,000 pair-kms          1979
+Second delivery                          44,000  "    "           1980
+Third delivery                           56,000  "    "            1981
+G. *Cables for Local Secondary Network
+First tender (call for bids
+1st quarter 1978)                       7,000 pair-kms          1979
+"I                                     24,000  "    "           1980
+It             "24,000  "    "                                  1981
+H.  *Pay - Telephones                           Quantity          In Service Date
+First tender (call for bids
+1st quarter 1978)                           25                  1978
+i'            I"                           210                  1979
+260                  1980
+i'             "I                          310                  1981
+I.  *Telephone Instruments                      Quantity          Date of Delivery
+First tender (call for bids
+2nd quarter 1978)                       70,000                  1979
+it                                      30,000                  1980
+J.  *Telex Equipment                            Quantity          Date in Operation
+Voice frequency telegraphy
+channel equipment                          102                  1978
+"I             "I                          185                  1979
+Teleprinters                                  75                  1980
+75                 1981
+February 15, 1978
+
+
+
+- 37 -
+ANNEX 5.03
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+AND RADIOGRAFICA COSTARRICENSE
+Schedule of Disbursements
+It is assumed that the loan would be approved by Bank in March 1978.
+IBRD Fiscal Year                            Cumulative Disbursements
+and Semester                                 at end of Semester
+(US$ thousands)
+June 30, 1978                                        200
+December 31, 1978                                  1,300
+June 30, 1979                                      4,400
+December 31, 1979                                  6,400
+June 30, 1980                                      7,900
+December 31, 1980                                  9,300
+June 30, 1981                                     10,300
+December 31, 1981                                 10,600
+
+
+
+- 38 -
+VI. FINANCES
+Past Financial Performance and Present Position
+6.01      ICE's financial performance of the telecommunications operations
+has been steadily improving since 1974, and the rate of return on net revalued
+assets has increased, from 7.7% in 1974 and 9.6Z in 1975 to about 17.7X
+in 1976. A summary of the income statement for the period 1974-76 is given
+below:
+ICE-Telecom. - Income Statement 1974-76 (in millions of colones)
+1974       1975        1976
+Actual     Actual      Actual
+Operating revenues               112.1      165.1       255.9
+Operating expenses                92.4      124.6       164.0
+Operating income                  19.7       40.4        91.9
+Average net utility plant
+in operation (revalued)        253.2       419.5       518.4
+Rate of return (on net
+revalued assets)  %              7.7         9.6        17.7
+Average number of DELs         61,121      70,904      81,704
+6.02      The Government and ICE agreed to a tariff increase in October 1974.
+However, because of the opposition from the Central Bank to asset revaluation,
+this was not approved by the Economic Council until January 1975; the cost of
+the basic impulse was then increased from ¢0.10 to ¢0.13; a reduction of the
+duration of the basic impulse from five to three minutes was also sought but,
+because of the Government anti-inflationary policy, this was not granted
+until August 15, 1975; inflation in Costa Rica was about 31% in 1974 and 18%
+in 1975.  A third tariff increase was granted in March 1976; this raised the
+cost of the basic impulse for local calls (varying according to the area of
+the country) to an average of 0O.196. Demand decreased after the 1975
+tariff increase largely because of depressed general economic activity; how-
+ever it rebounded again in 1976.
+
+
+
+- 39 -
+6.03      During 1975 and 1976, ICE installed about 11,000 direct exchange
+lines in each year. With the additional lines and increased tariffs, total
+operating revenues (¢266 million) in 1976 were more than double the 1974
+figures. The 1975 tariff increase did not permit ICE to achieve in that year
+a rate of return of 12% as stipulated in the Loan Agreement 1006-CR, but only
+in 1976 when the rate of return was 17.7%.
+Forecast            Actual
+¢ million   %      ¢ million   %
+Requirements
+Fixed investment                        521.9    104        480.5    80
+Working capital                          (20.9)    (4)      116.4    20
+Total                                501.1    100        596.9   100
+Sources
+Internal cash generation                164.0      33       103.9    17
+Borrowing                               316.0      63       438.6    74
+Other funds                              21.2       4        54.4      9
+Total                                501.1    100        596.9   100
+ICE's requirements during the three-year period 1974-76 was ¢95 million or
+20% above the appraisal forecast; this was due to higher working capital
+needs, partly to cover increases in advance payments for plant and materials
+due to inflation. Fixed investment was some 8% lower than forecast. The
+failure to attain the income targets in 1974 and 1975 resulted in lower than
+expected internal cash generation which was down ¢60 million or 36%; miscel-
+laneous income was up 033 million. ICE covered the gap with additional
+borrowings.
+6.05      ICE's financial position as of December 31, 1976, is suimmarized
+below:
+
+
+
+- 40 -
+f million
+ASSETS
+Net fixed assets                934
+Other assets (net)                6
+Net current assets               75
+Total                      1,015
+LIABILITIES
+Equity                          405
+Long-term debt                  610
+Total                      1,015
+ICE's financial position was satisfactory. Debt/equity ratio was 60/40,
+current ratio 1.9; liquidity was adequate.
+Asset Revaluation
+6.06      During the 1973-75 period, the Costa Rican economy suffered severe
+problems originating from inflation. In 1973, 1974, 1975 and 1976, the
+internal price level increased by 16%, 31%, 18% and 4% respectively 1/. In
+addition, although there was no devaluation of the Costa Rica colon with
+respect to the dollar ICE was affected by several devaluations, explicit or
+not, of the dollar in 1975 and 1976, in relation to other international
+currencies, which resulted in a considerable increase (20% in 1975) in its
+debt service obligations.
+6.07      The Loan Agreement of Loan 1006-CR required ICE to revalue its
+assets before October 1, 1974. However, because of the opposition from the
+Central Bank, which was later overcome, revaluation was performed for the
+first time in 1975 and incorporated in the 1974 balance sheet. The revalu-
+ation, using appropriate indices for local and foreign components, resulted
+in an increase of about one-third of ICE's assets as of December 1974. A
+second revaluation of about 10% was incorporated in the 1975 accounts.
+However, because of the low inflation rate, and after consultation with the
+Bank, ICE's assets were not revalued in 1976. Revaluation will be carried
+out as of the end of 1977, and annually thereafter. The proposed Loan Agree-
+ment repeats the provision of Loan 1006-CR for annual revaluation of ICE's
+assets.
+6.08      The long-term debt to IBRD, CABEI and IDB is readjusted at the
+end of each year for the exchange rate variations of the currencies of the
+loans. The adjustment is not considered as a charge (or profit) and incor-
+porated into the income statement, but registered in a temporary balance
+account as deferred exchange rate difference, which is distributed along
+with the revaluation on property, plant and equipment to be made in the
+next year, thus amounting to a deferred allocation of the revaluation
+differences to the corresponding assets.
+1/   The latest figure corresponding however to a new definition of the
+cost of living index.
+
+
+
+- 41 -
+Receivables
+6.09      ICE's receivables position for private subscribers is good; however,
+it has been recently deteriorating in the case of Government accounts. On
+June 30, 1977, the total receivables amounted to 027.5 million; unpaid Govern-
+ment bills, included in this figure, amounted to 0l2 million, or 17 months'
+Government billings. Private receivables remain at the very satisfactory
+level of three weeks' billings. Under Loan 1006-CR, the Government agreed to
+settle its outstanding arrears by November 1976, and all its future accounts
+within four months after the date of billing. The Government has failed to
+meet this obligation, but has however begun to take measures to resolve this
+matter within the 1978 budget in which, for the first time, funds are specifi-
+cally appropriated to pay current ICE's telecommunications bills. It has
+agreed to pay all bills after the date of the Loan Areement within 90 days of
+the billing date (Section 3.03(a) of the proposed Guarantee Agreement). It
+has also budgeted for 1978 the payment of about US$0.4 million to pay past-due
+bills. In order to completely clear up outstanding bills the Government has
+agreed, as a condition of effectiveness, to budget sufficient funds to pay 65%
+of outstanding telecommunications debts as of the date of the Loan Agreement.
+These bills will be paid prior to December 31, 1978, and the remaining 35%
+will be budgeted in 1979 and paid prior to June 30, 1979.
+Financing Plan
+6.10      ICE's capital investment requirements for telecommunications during
+the period 1978-82, along with the sources from which they would be met, are
+summarized below. Further details are given in Annex 6.02.
+
+
+
+- 42 -
+US$
+Million      Million    %
+Application of funds
+Proposed project                                      809.7        94.2      52
+Ongoing works                                         292.3        34.0      19
+Future program                                        240.0        27.9      16
+Interest during construction                           58.6         6.8       4
+Total construction program                        1,400.6       162.9      91
+Increase in working capital
+Cash                                                 20.4         2.4       1
+Other                                               126.4        14.7       8
+Total working cap. increase                         146.8        17.1       9
+Total applications of funds                       1,547.4       180.0    100
+Sources of funds
+Internal cash generation                            1,477.6       171.8      95
+Less:  debt service                                   581.2        67.6      37
+Net internal cash generation                          896.4       104.2      58
+Borrowing
+IBRD Loan 1006-CR                                      65.1         7.6       4
+Proposed IBRD Loan                                     91.3        10.6       6
+Other borrowings
+IDB                                                 104.9        12.2       7
+CABEI                                                15.9         1.9       1
+Suppliers                                           293.0        34.0     19
+Total                                               413.8        48.1      27
+Total borrowing                                     570.2        66.3      37
+Other sources                                          80.8         9.5       5
+Total                                             1,547.4       180.0    100
+
+
+
+- 43 -
+6.11      For the 1978-82 period, the internal cash generation, net of debt
+service, is expected to contribute 58% of the total requirements. The Bank's
+contribution will be made in the form of the proposed Bank loan, US$10.6 mil-
+lion, assumed to have a term of 17 years including a four-year grace period
+and carrying a 7.45% interest plus the usual commitment fee, and US$7e6
+million balance from Loan 1006-CR. The rest of the borrowing will come from
+a US$12.2 million IDB loan from special funds (2% for 30 years including
+an eight-year grace period); from CABEI (US$1.9 million, 9.25%, nine years
+including a three-year grace period); and from suppliers' credit (US$34.0
+million).
+6.12      Each year the Central Bank fixes the total maximum amount of bonds
+which can be issued by Government enterprises and public corporations, in-
+cluding the maximum bond issue by ICE and the related interest rate. Given
+ICE's excellent credit rating, its bonds are absorbed without difficulty
+on the local market. ICE bonds, which have a maturity of 20 years and carry
+12% interest if the bearer holds them more than 36 months and 8% otherwise,
+are negotiated at par value while Government bonds are traded between 60% and
+70% of par. To increase the attractiveness of its bonds to local investors,
+ICE has entered into repurchase agreement obligating it to redeem them after
+30 day's notice. While ICE has had no redemption problems in the past, in
+order to reduce its exposure to unpredictable demands in the future, the
+proposed Loan Agreement repeats the provision of Loan 1006-CR limiting the
+principal amount of bonds outstanding under repurchase agreements to no more
+than 30% of the total outstanding bonds. ICE has complied with this covenant,
+as at the beginning of 1978 the percentage was 12%. Commercial loans are
+negotiated with the authorization of the Central Bank. For long-term loans,
+the rate obtained by ICE is from 1-1/4% to 1.3/4% over the London interbank
+rate.
+6.13      Projected financial statements for i977-82 and comments are given
+in Annexes 6.01 to 6.04. A summary is given below:
+Years ending December 31           1977    1978    1979    1980    1981    1982
+Operating income in million ¢   134e3   165.9   179.1   200.7   221.6   252.5
+Operating ratio (%)                  59      58       60      61       62      62
+Rate of return (on revalued
+assets) - 70                    17.7    16.7    14,2    12.9    11.8    11.6
+Debt/equity ratio                 54/46   49/51   44/56   40/60   37/63   31/69
+Current ratio                       1.6     1.3      1.4     1.5      1.5     1.7
+Debt service coverage               1.9     2.0      2.0     2.2      2.5     2.9
+
+
+
+- 44 -
+6.14      Because of the heavy investment program, and the lag between
+investment and full utilization of facilities, ICE's financial rate of
+return is expected to decline from a high 17.7% in 1977 to slightly below
+12% in 1981 and 1982. It was agreed with ICE to repeat in the proposed
+Loan Agreement the covenant of loan 1006-CR, which requires ICE to earn a
+rate of return of not less than 12% on revalued net fixed assets. On the
+basis of the present forecast, it is possible that a moderate tariff increase
+may be needed in 1981 or 1982 to reach this target.
+6.15      The projected 1977-82 balance sheets (see Annex 6.03) indicate that
+ICE's financial position will remain sound. Cash position may be tight during
+the period of the program, however, this would present no problem since ICE
+has adequate overdraft facilities. From 1977 to 1982, the debt/equity ratio
+will decrease from 54/46 to 31/69.
+6.16      Debt service coverage by internal cash generation will increase
+from 1.9 to 2,9 betwen 1977 and 1982. As under Loan 1006-CR, MCE agreed that
+NTS will not incur any long-term debt without the Bank's prior approval,
+unless the preceding 12 months' internal cash generation would cover maximum
+future debt service by at least 1.5 times.
+6.17      Indicators which will help monitor ICE's perfor-mance are given in
+Annex 6.05.  ICE will calculate them annually and submit them to the Bank
+for review.
+Insurance
+6.18      ICE has an insurance coverage for year 1976 of 9I79 million against
+fire, strikes, civil war, earthquake, etc., in the Instittao Nacional de
+Seguros de Costa Rica; this figure is to be compared with a value of plant in
+operation of e554 million before depreciation. The assets covered are the
+main switching and long distance transmission plant in addition to buildings.
+Due to the geographical dispersion of the equipment, and the large number of
+independent items that constitute the network, it is acceptable that only
+the largest of these be insured; the risks being spread out in respect of
+other assets present only a relatively small liability in the event of damage
+and loss.
+National Electric System
+6.19      Earnings and financial position of ICE's electricity operations con-
+tinue to be satisfactory. ICE's 1976 energy sales were practically the same
+as the appraisal forecasts of Loan 1126-CR. During 1976 iCE was granted a
+2.6% monthly increase in its tariffs which enabled it to earn a rate of
+return of 11.4% on average revalued fixed assets, compared to 9% as required
+
+
+
+- 45 -
+in the loan agreement. A further 6% tariff adjustment was granted in 1977
+which brought the average 1977 tariff to a level about 150% higher than those
+of 1974 and would raise NES' rate of return to about 13% in 1977 (see details
+in Annex 6.06). The tariff increases in 1976 and 1977 should be sufficient to
+permit ICE to earn a rate of return of 11.6% in 1978. ICE has estimated that
+a further tariff adjustment of about 18% will be needed in 1979 in order to
+earn the covenanted 9% return in that year.
+6.20      As shown in Annex 6.07, ICE was able to self-finance 19%  of its
+electricity construction program in 1976 and about 17% in 1977 (as compared
+with 12% and 19% respectively estimated during Loan 1126-CR appraisal). Al-
+though this self-financing is low by comparison with other utilities, it is
+reasonable since ICE's 1975-79 electricity construction program is very large.
+6.21      ICE's revised construction program for 1976-79 includes several
+projects which have been added since appraisal of Loan 1126-CR. The most
+important of these are a rural electrification program for which IDB has made
+a US$13.5 million loan, an interconnection with Nicaragua to be partly financed
+from a pending US$8 million loan from CABEI and geothermal studies being
+financed from a US$4.1 million grant/loan from IDB.
+6.22      To provide the remainder of the financing for these projects in 1977
+as well as to cover higher than expected local costs for the Arenal project,
+ICE has requested Bank authorization to issue 020 million local bonds (in
+addition to 40 million authorized in September 1976) as well as to borrow US$5
+million from commercial banks (in addition to US$15 million previously author-
+ized). The bonds would be for a term of 20 years and would have an annual
+interest rate of 12%. Terms of the commercial bank loan are expected to be
+seven years including two years of grace and annual interest rate of 1-3/4%
+above LIBOR.
+
+
+
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+RADIOGRAFICA COSTARRICENSE S.A. (RACSA)
+FIFTH TELECOMMUNICATIONS PROJECT
+Income Statement
+(In thousands oL colones)
+Actual   Estimated    ___                Forecast           __ _
+1976        1977        1978     1979      1980      1981      1982
+Operating Revenues
+Telegraph                                 12,393      11,400      11,038   10,676   10,315    9,953    9,607
+Telex and leased channels                 20,449      29,017      35,719   42,420   49,122   55,824   64,703
+Other revenues                             3,311       4,825       5,747   JU62        8,183    8,515    9,729  a7
+Total Operating Revenues                36,153      45,242      52,504   59765   67 0   74292   84,039
+Operating Expenses
+Participation                              8,537       8,507      10,178   11,845   13,518   15,189   17,358
+Telegraph                                  5,751       6,822       7,435    89124    8,821    9,726   10,636
+Telex                                      6,518       5,363       5,959    6,568    7,162    7,770    8,488
+Administration                             6,901       6,718       5,809   _5775    6 63         6 51-5   6,772
+Total Operating Expenses                27,707      27,410      29,381   32 312   35637   39200   43,254
+Operating Income                             8,446      17,832      23,123   273453   31,983   35,092   40,785
+Other Revenues                               3,212          405         425      446       469       492       517
+Non-Operating Expenses
+Income tax                                 4,710       7,994      10,376   12,327   14,353   15,768   18,353
+Total Non-Operating Expenses             4,710       7,994      10,376   12_1327   14,353   15,768   18 353
+Net Income                 6,_948                       10,243       13_2    15,572   18,099   19,816   22,949  C    L
+Appr. to Legal Reserve (25%)             1,737       2,560       3,293    3,893    4,524    4,954    5,737
+Available for Dividends                  5,211       7,682       9,879   11,679   13,574   14,862   17,211
+
+
+
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONIAL TELECO114UNICATIONS SYSTEM (NTS)
+FIFTH TELECOITh4UICATIONS PROJECT
+r          Revenues
+(In thousands o: .3Jolones)
+Actual   Estimated                              Forecast
+1976      1977           1978        1979        1980       1981        1982
+Internal Telephone Service
+Basic monthly charges                 45,139    51,017          61,849     68,966      77,918      86,250     95,012
+Pulses in exc. of bas. allow.         92,690   111,010         131,087    145,593    158,564    176,179    194,646
+Connection fees                       14,370    14,086         16,656      14,047      19,256      17,975     18,863
+Other charges (ext., sp. num.,
+PBX)                                 4,477    10,385          5,735       6,369       7,034       7,606      8,182
+Private lines                          3,402      4,226          6,747      9,160      12,354      15,903      20,483
+Public telephones                      8,269    12,498          20,146     26,878      35,878      47,987      64,239
+Direct revenues and bid spec.          2,291      1,223          1,385      1,529       1,673       1,840       2,024
+Various                                1,632      3,384          4,333      5,601       7,353       9,549      12,511
+Total Internal Telephone           172,270   207,829        247,938    278,143    320,030    363,289    415,960
+Internal Message Service
+Rural telephone service                3,361      5,960          8,671     10,589      13,976      18,894      22,104
+Total Internal Tel. Serv.          175,631   213,789        256,609    288,732    334,006    382,183    438,064
+International Telephone Service
+Telephone                             70,653    88,692          99,672    114,623    131,816    147,635    165,350
+Telephone participation               21,155    22,080          35,437     39,124      42,810      46,496      50,182
+Otherl/                                2,876      2,744          3,171      3,187       3,644       3,773       4,408
+Total International Tel. Serv.    94,684   113,516          138,280           156,934     178,270     197,904    219,940
+Total Revenues                         2r0,315   327,305         394,889    445,666    512,276    580,087    658,004
+1/  Channel leases, transit, broadcast transmission                                            September 15, 1977           " '
+Revised January 14, 1978           t-n
+
+
+
+COSTA RTCA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Income Stastement
+(In thousands of colones)
+Actual    Estimated                             Forecast
+1976         1977          1978       1979        1980        1981        1982
+Operating Revenuesl/                   2709315    327,305 -94,889    445 666    512,276    580,087    658,004
+Operating Expenses
+Personnel-related costs                43,683     47,223          55,428      64,951     75,764      89,683    103,514
+Depreciation                           32,622      48,313         57,093     65,586      75,139      86,090      98,548
+Materials                               5,718       6,068          8,003       9,131     10,854      12,649      13,390
+Partic. and chan. leases               34,134     37,683          41,442      46,754     52,362      57,954      64,180
+Regulatory expenses                     2,052       2,518          3,006       3,433       3,910      4,489       5,162     1
+Institutional costs                   17,454      19,391         24,032      30,809      37,830      41,992      48,128   .->
+Others                                  2                         40,008     45,935      55,681      65,674      72,554
+Total Operating Expenses           164,094    193,001         229,012    266,599    311.540    358,531    405,476
+Operating Income                        106,220    134.403                     179,066    200,735    221,555    252,527
+Other Income and (Expenses)
+Interest paid                         41,689      56,429          58,482      61,089     61,876      61,080      56,721
+Less interest charge to constr.         l3i        11 856         152164      13,029     14,486      13,146       2,753
+Interest Expenses                   2P) .58    T44 37          43,318      48,060      47,390      47,934      53,968
+Rental of equipment o RACSA             1.738       1,582          1,500       2,000       2,000       2,000      2,000
+Dividends received 2/ f221                          7,682          9,879      11,679      13,574     14,862      17,211
+Other income or (expenses)                713        -            (1,303)       -           -          -           -
+Total Other lncome and Expenses    /,662         9,264          10,076     13,679      15,574      16,862      19,211
+0.
+Total Other Income                  (20,896)   (35,308)        (33,242)   (34,381)  _(31815    (31,072)   (34,756)    lhQ
+Net Income                               85 324      98,994        132,634    144 685    168 920    190 483    217 771
+Operating Ratio  (%)                         61          59              58          60         61          62          62
+1/  Details are given in Annex 6.01, page 2
+2/  Details are given in Annex 6.01, page 1                                                     September 15, 1977
+Revised January 14, 1978
+
+
+
+- 49 -
+ANNEX 6.01
+Page 4 of 5
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Notes and Assumptions on Financial Statements
+A.   Income Statements
+1.        The projection of the income for the years 1977 to 1982 inclusive
+has been made while considering that the tariffs will be kept constant at the
+present level.
+2.        Installation charges have been calculated by weighing each type of
+connection fee (varying from 0400 for multiparty lines in rural communities
+to ¢2,000 for public telephones installed on private premises) by the per-
+centage of customers having this service; and multiplying this average by
+the number of new subscribers to be connected during this year; to this
+amount has to be added connection fees for the mobile telephone service
+(t20,O0O presently). The average of the subscription fee is about 01,200
+per subscriber.
+3.        Rental projections are based on existing tariffs and include a
+number of free calls, both of them varying with the type of subscription
+and the locality of the subscriber. The weighted average is 048 per month
+for the subscription, with the present tariffs.
+4.        Metered traffic includes all automatic local and long distance
+calls. The revenues have been calculated again by weighing the different
+tariffs by the weighted percentage of traffic from each tariff group--this
+gives an average of ¢0.196 per pulse.
+5.        International revenues have been projected with an increase of 15%
+for years 1977 to 1979 and 12% for years 1980 and 1981 corresponding to the
+increase in traffic during this period. This assumption is based on a 17%
+historical increase of traffic in 1976, after an average increase of 20%
+during the previous years.
+6.        Various revenues include fines, transfer of subscription, services
+through special numbers, installation of additional bells, and telephone books.
+These revenues have been projected with an average slightly increasing over
+the years corresponding to the expansion of the network.
+
+
+
+- 50 -
+ANNEX 6.01
+Page 5 of 5
+7.        The telex/gentex revenues are expected to increase proportionally
+to the high rate of expansion of the network over the next years, as the
+service is rapidly developing, but the international telegraph is expected
+to slowly decrease.
+8.        Personnel-related costs are expected to increase in proportion to
+the total number of staff and are also indexed at 8% yearly to be consistent
+with revaluation estimates.
+9.        Materials are taken as 9.21% of the variable costs, indexed at 8%
+yearly.
+10.       Regulatory expenses are taken as 1.3% of the operating income for
+national telephone services.
+11.       Institutional costs are projected for 1978 and 1979 at a compounded
+2.5% yearly rate for the average expenditure per customer and from 1980 to
+1982 at a 5% yearly rate.
+
+
+
+- 51 -                                             ANNEX 6.02
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Sources and Applications of Funds
+(In thousands of colones)
+Actual   Estimated                           Forecast                            Total
+1976        1977        1978       1979        1980       1981       1982    1978-1982
+SOURCES OF FUNDS
+Net Internal Cash Generation
+Internal Cash Generation
+Net income before interest           113,882    143,567    175,952   192,745   216,309   238,417   271,738   1,095,161
+Depreciation                           32,622    _48,313       57,093    65,586    75,139    86,090    98,548           382,456
+Total Internal Cash Gen.            146,504    191,880    233,045   258,331   291,448   324,507   370,286   1,477,617
+Debt Service
+Amortization                           36,504      43,139      55,764    68,751    72,754    70,880    72,341            340,490
+Interest not capitalized               28,559      44,573      43,318    48,061    47,390    47,934    53,968           240,671
+Total Debt Service                   65,063       87,712      99,082   116,812   120,144   118,814   126,309           581,161
+Total Net Internal Cash Gen.         81,441    104,168    133,963   141,519   171,304   205,693   243,977              896,456
+Borrowing
+Existing Loans
+IBRD 801                              10,352          414        -          -           -          -          -            -
+IBRD 1006                              80,764      60,263      65,621        -          -          -          -          65,121
+CABEi 237                                 134        -           -           -          -          -          --
+CABEI 87                                3,983       3,550        -           -          -          -          -
+int. Mex. Bank                         12,900        -           -          -           -          -          -
+TCE Bonds                              24,211        -           -           -          -          -          -
+Suppliers' credits                     52,846      24,385      35,067    71,809    15,474    30,233           -         152,583
+Radiografica                            7,918                    -           -          -          -          -
+Total Existing Loans                193,108       88,612    100,688    71,809    15,474    30,233            -218,204
+Proposed Loans
+Current proposed project:  IBRD          -           -         14,876    21,002    26,855    28,608           -           91,341
+Suppliers' credits                       -           -           -           -       65,167    37,083    31,508         133,758
+IDB                                      -           -         11,736    26,398    33,873    32,913           -         104,920
+CABEI                                    -           -          2,994    12,943         -          -          -           15,937
+Others                                   -           -                       -6,000     -          -          -            6,000
+Total Proposed Loans                    -           -         35,606    60,343   125,895    98,604    31,508            351,956
+Total Borrowing                     193,108       88,612    136,294   132,152   141,369   128,837    31,508            570,160
+Other Sources
+Misc. contr. and other                  12,836       6,726      12,129    14,480    16,431    17,762    19,950             80,752
+TOTAL SOLRCES OF FJNDS                  287,386    199,506    282,386   288,152   329,105   352,292   295,436   1,547,369
+APPLICATIONS OF FUNDS
+Construction Program
+Proposed project                          -           -          64,327   200,395   263,397   240,338    41,291           809,748
+Other works of program                 191,223    194,176    195,533    48,759    18,135    16,231    13,604              292,262
+Future program                            -           -            -          -          -        50,000   190,000        240,000
+Interest during construction            13,131      11,856      15,164    13,029    14,486    13,146          2,753        58,578
+Total Construction Program            204,354    206,032    275,024   262,183   296,018   319,715   247,648   1,400,588
+Addition to Working Capital              83,032       (6,525)      7,362    25,969    33,087    32,577    47,788           146,781
+TOTAL APPLICATIONS OF FUNDS             287,386    199,506    282,386   288,152   329,105   352,292   295,436   1,547,369
+October 21, 1977
+Revised: January 16, 1978
+
+
+
+- 52 -                                       ANNEX 6.03
+Page 1 of 2
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Balance Sheet
+(In thousands of colones)
+Actual      Estimated                         Forecast
+Years ending December 31:          1976         1977         1978         1979         1980         1981         1982
+ASSETS
+Fixed Assets
+Plant in service                          824,671   1,063,616   1,418,401   1,769,686   2,167,774   2,630,402   3,019,034
+Less depreciation                         156,024      216,175      287,595      371,272      469,254      583,882      717,759
+Net Utility Plant in Service            668,647      847,441   1,130,806   1,398,414   1,698,520   2,046,520   2,301,275
+Participations                             11,143       11,143        9,802        9,802        9,802        9,802        9,802
+Works in progress (including goods
+in transit)                             254,326      266,344      267,163      285,021      311,147       313,069      341,167
+Total Net Fixed Assets                  934,116   1,124,928   1,407,771   1,693,237   2,019,469   2,369,391   2,652.244
+Current Assets
+Cash and equivalent                        28,121        3,806        2,039          291        1,665        3,282       24,164
+Current government account                  9,750       14,000        1,811        2,067        2,361        2,691        3,060
+Private receivables for services           28,453       39,152       47,279       53,952       61,267       70,264       79,862
+Maintenance equipment inventories          16,000       19,840       25,137       30,541       36,740       45,610       49,497
+Others (including advance payments)        77,170       80,145       84,249       88,436       93,239       98,562      103,123
+Total Current Assets                    159,494      156,943      160,515      175,287      195,272      220,409      259,706
+Other assets                               41,222       46,013       54,008       63,287       73,823       87,385      100,862
+TOTAL ASSETS                         1,l34,832   1,327,884   1,622,294   1,931,811   2,288,564   2,677,185   3,012,813
+LIABILITIES AND CAPITAL
+Equity
+Equity and surplus                        248,638      354,358      499,083      658,249      843,600   1,051,844   1,289,567
+Reserve for revaluation                   156,258      189,351      245,244      317,019      402,714      503,940      621,114
+Total Equity                            404,896      543,709      744,327      975,268   1,246,314   1,555,784   1,910,681
+Net Long-term Debt
+Long-term debt                            653,411      698,884      779,414      842,815      911,430      969,387      928,554
+Less current portion                       43,139       55,764       68,751       72,754       70,880       72,341       71,549
+Total Net Long-term Debt                610,272      643,120      710,663      770,061      840,550      897,046      857,005
+Current Liabilities
+Current portion long-term debt             43,139       55,764       68,751       72,754       70,880       72,341       71,549
+Accounts payable                           32,417       35,658       39,224       43,147       47,461       52,207       57,428
+Others                                      9,055        9,788       11,489       13,463       15,705       18,590       21,457
+Total Current Liabilities                84,611      101,211      119,465      129,36       134,046      143,139      150,434
+Other Liabilities                          35,053       39,844       47,839       57,118       67,654       81,216       94,693
+TOTAL LIABILITIES AND CAPITAL        1,134,832   1,327,884   1,622,294   1,931,811   2,288,564   2,677,185   3,012,813
+Debt/Equity Ratio                           60/40        54/46        49/51        44/56        40/60        37/63        31/69
+Current Ratio                                1.9          1.6          1.3          1.4          1.5          1.5          1.7
+Average Net Plant in Service                518,406      758,044      989,123   1,264,610   1,548,467   1,872,520   2,173,897
+Rate of Return (Revalued Assets)            20.4Z        17.7%        16.7%        14.2%        12.9%        11.8%        11.6%
+October 5, 1977
+Revised January 16, 1978
+
+
+
+- 53 -
+ANNEX 6.03
+Page 2 of 2
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Notes and Assumptions on Financial Statements
+Balance Sheet
+1.        Fixed assets are based on ICE's construction program.  They have
+been revalued at a composite rate of 7.22% yearly over the project period.
+2.        Plant under construction has been transferred to plant in servi--
+at the end of the construction period separately for each component of the
+project according to a detailed timetable. Goods in transit have been treated
+as plant under construction.
+3.        Private receivables for services rendered are expected to equal
+about six weeks' billing for private customers.
+4.        Government account is expected to increase for 1977 in proportion
+to its 1976 increase. Thereafter, it is kept equal to two months' of billing.
+5.        Maintenance equipment inventories are expected to increase in
+proportion to total fixed assets.
+6.        Other liabilities will increase in proportion to personnel expendi-
+tures.
+7.        Long-term debt is described in Annex 6.04.
+
+
+
+ANNEX 6.04
+-54-
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+Long-Term Debt
+Financial Conditions              Original        Grac        Amaorti-    Number
+LOAN                        Contract            Interest    Other Charges        Amount        Period        zation      Yearly
+Date     Term       %          Commissions    (N7S$ thous.)   (Years)    Date From  Payenets
+Develapnent Banks
+IBRD 348                                 09/01/63   19           5.50       3/8 of 1%         9,500.00        4         09/01/67        2
+IBRD 632                                 05/01/69   15.5          6.50      3/4 of 12         6,500.00        4.5        11/01/73       2
+IBRD 801                                 08/01/71   14.5          7.25      3/4 of 1%        17,500.00         5.5       08/01/77       2
+IBRD 1006                                05/15/74   15.5          7.25      3/4 of 1%        23,500.00        4.5        11/15/78       2
+CABEI 237-0                               11/17/59   11            7.50      3/4 of 1%         2,800.00         3         05/17/73       2
+237-1                               11/17/73    8           8.00           1%              650.00        2         05/17/76        2
+87                                  01/18/75   10           8.00       3/4 of 1%           850.00        5         12/18/80        2
+Future                              05/12/77    9           9.50       3/4 of 1%         3,000.00        3           1981          2
+IBRD Proposed                                  /78   17          7.45        3/4 of 12       10,620.00         4           1982         2
+IDB (Rural Telephones)                       02/78   30          2.00       1/2 of 1%        12,200.00         8           1986         2
+Total                                                                                      87.120. 00
+Coossercial Loans
+CCSS No. 2                               09/01/66   12            7.00                        1,500.00                   01/01/67       4
+Chemical Int. Finance                    12/15/72    4.5          9.50      1/2 of 1Y            59.20                   06/15/73       2
+First National City Bank A-47            02/27/73    5            9.00                           59.20                   05/27/73       4
+Bank of America                          05/20/74           (1) 16.00       1/2 of 1%         1,720.90         1.5       02/20/76       4
+Lamex Finance A-78                       06/01/69   8             9.50           1%             700.00         2         06/11/70       2
+Chase Manhattan Bank A-88                03/18/69   3            9.5C                          346.40          2         09/18/69       2
+Chase Manhattan Bank No. 4               07/01/74           (1) 16.00       1/2 of 1%         4,000.00         3.5       01/31/78       2
+The Chemical Bank No. 2                  03/01/74   7           16.00       1/2 of 12         2,500.00         1         06/01/76       4
+Chase Manhattan Bank No. 2               06/30/72   4.5          9.00                           118.40                   02/31/72       2
+Cracker National Bank                    01107/75           (1) 12.00       1/2 of 12         2,000.00         3         01107/78       2
+Bank of America                              08/77   5           8.50                           582.30                      05/78       2
+Total                                                                                      13 586.40
+Financial Suppliers
+L. M. Ericsson O/C 6696                  01/24/63   4             7.50                           28.30                   07/08/68       2
+Phelps Dodge of C.A. SA O/C6996          04/09/68   3             8.00                           95.00                                  2
+CGOT o/c7439                             08/29/70   4             8.00                          147.00                                  2
+L. M. Ericsson O/C7540                   01/13/70   4             7.50                            35.70                  01/13/71       2
+L. M. Ericsson O/C8056                   05/18/68   6             7.50                           80.00                   05/03/71       2
+L. M. Ericsson O/C8558                   08/20/69   5.5           7.50                          406.20                   06/30/72       2
+Northern Electric Co. O/C8607            03/11/69   3.5           9.00                            40.10                  11/12/70       2
+L. M. Ericsson O/C9594                   04/18/73   2             8.25                          292.20                   07/14/72       2
+Phelps Dodge of C.A. SA O/C12158         02/18/73   3             8.00                           89.80                   06/26/74       2
+L. M. Ericsson O/C 12487 and O/C12488 03/23/74   5.5              9.50                        1,491.60                   03/23/75       2
+L. M. Ericsson OC12523                  04/17/74   5.5           9.00                          776.50                   05/30/75       2
+Frederick Electronic O/C12693            08/14/74   8             6.00                          557.50                   02/14/75       2
+L. M. Ericsson O/C12798                  09/26/74   1             9.00                           57.70                   05/22/75       2
+ITT 0/C12900 and O/C13609                03/21/74   5            8.00                         2,149.30                   05/10/76       2
+Standard Telephones O/C13084 and
+O/C13444                               12/27/73   5            6.00                           314.6                    01/16/75       2
+GEC 0/C13450                             12/26/73   5             6.00                          128.50                   06/28/75       2
+L. M. Ericsson O/C13455 and O/C14550  03/06/74   4                9.00                          313.10                   09/06/75       2
+10/03/74
+L. M. Ericsson O/C13355                  01/16/75   5.5           9.00                           650.00                  01/16/76       2
+L. M. Ericsson O/C14186                  07/05/74   5.5           9.00                          519.00                   11/16/75       2
+L. M. Ericsson O/C14188 and              07/05/74   5.5           9.00                          486.60                   10/24/75       2
+O/C14357                 08/21/74
+L. M. Ericsson O/C14339                  08/13/74   5.5           9.00                           220.50                  02/15/76       2
+L. M. Ericsson O/C14577                  10/15/74   5.5           9.00                           146.60                  04/15/76       2
+L. M. Ericsson O/C15174                  05/02/75   5.5           9.00                           277.70                  02/20/76       2
+L. M. Ericsson O/C15454                   07/01/75   5.5          9.00                           502.70                  01/01/77       2
+L. M. Ericsson 0/C16362                   01/02/76   5.5          9.00                           244.00                  01/23/77       2
+L. M. Ericsson O/C17131                   05/03/76   5.5          9.00                           854.90                  07/09/77       2
+L. M. Ericsson O/C17545                   07/12/76   5.5          9.00                            48.80                  08/05/77        2
+L. M. Ericsson O/C18875                  02/03/77   5.5           9.00                           446.10                  08/03/78       2
+L. M. Ericsson O/C19112                  04/04/77   5.5           9.00                           109.60                  10/04/78        2
+L. M. Ericssan                               06/79   5.5          9.00                        5,000.00                                  2
+Total                                                                                      16,509.60
+- Term does not include grace period
+for commercial loans
+(1) Variable = 1-1/2 above LIBOR
+Other 
+Eximtbank                                    12/79   8.0          8.50       1/2 of 1%        21,000.00        2           1983          2
+Condumex                                     08/78   5.0          8.00                         2,500.00                  02/01/79        2
+L. M. Ericsson                               06/79   5.5          9.00                         5,000.00
+Loans Capital of Work                        11/78   4.0         12.00                         2,900.00
+Total                                                                                      30,400.00
+November 1977
+Revised December 1977
+
+
+
+ANNEX 6.05
+- 55 -
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+NATIONAL TELECOMMUNICATIONS SYSTEM (NTS)
+FIFTH TELECOMMUNICATIONS PROJECT
+Performance Indicators
+1.        A set of indicators which would assist in monitoring ICE's performance
+during the project period has been established. ICE will continue to report on
+the actual as well as projected/budgeted achievements related to the performance
+indicators:
+Performance Indicators:
+Year Ending December 31   1976    1977    1978   1979    1980    1981    1982
+Number of DELs (Sub-
+scribers)                 87,183 100,186 111,128 125,486 140,129 154,775 169,899
+Telephone connections
+added                     10,958  13,101  10,844  14,358  14,643  14,646  15,124
+Employees                   1,919   1,970   2,141   2,323   2,509   2,750   2,939
+Gross revenues
+(¢ Million)                270.3   327.3   394.9   445.7   512.3   580.1   658.0
+Rate of return (%)           20.4    17.7    16.7    14.2    12.9    11.8    11.6
+Operating ratio (%)            61       59       58       60       61      62       62
+Debt service
+coverage (times)             1.9      1.9      2.0      2.0     2.2      2.5      2.9
+Current ratio                 1.9      1.6      1.3      1.4      1.5     1.5      1.7
+Debt/equity ratio           60/40   54/46   49/51   44/56   40/60   37/63   31/69
+Revised January 16, 1978
+
+
+
+ANNEX 6.06
+- 56-
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+ICE POWER SECTION
+Income Statements 1976 - 1979
+(in thousands of Colones)
+1976       1977        1978       1979
+Energy Sales in GWh:
+Bulk                                         1021.8     1111.2      1224.7      1313.9
+Retail                                        200.9       202.7      223.1       242.3
+Total                                      1222.7     1313.9      1447.8     1556.2
+Average Price per KWh - in Colones
+Bulk                                         .2293       .2744      .2745       .3240
+Retail                                       .2904       .3512      .3514       .4148
+Revenues from Energy Sales
+Bulk                                        234313     304928      336159     425776
+Retail                                       58332       71184      78394      100497
+Other Operating Revenues                          673        940        1036        1115
+Total Operating Revenues                  293318     377052      415589     527388
+Operating Expenses:                                           -
+Purchased Electricity                           24        -           -           -
+Generation                                   25659      29849       38859       47903
+Transmission and Distribution                15545      16651       20158       26636
+Institutional                                21600      23439       26134       29018
+Insurance                                     1248       1638        2098        5136
+Regulatory Expense                            1896        2116       2513        3326
+Depreciation                                 45003       57262      67383      106748
+Administrative Expenses                      14373       16141      19898       24441
+Total Operating Expenses                  125348     147096      177043     243208
+Operating Income                               167970      229956     238546      284180
+Non-Operating Expense:
+Interest Paid                                81964     153944      195143      219550
+Less Interest Charged to Construction        34210      63857       95263      117027
+Interest Charged to Operations               47754      90087       99880      102523
+Less Non-Operating Income                     9109        7182       7147        7124
+Net Non-Operating Expense                    38645      82905       92733       95399
+Net income                                  129325     147051      145813      188781
+Capital and Surplus at Beginning
+of year                                  834357    1140677    1376696    1664279
+Contributions.                                6405        3947       5147        5645
+Revaluation Surplus                         164011       85021     136623      163753
+Other Charges                                 6579        -           -           -
+Capital and Surplus at end of Year         1140677    1376696    1664279    2022458
+Average Net Fixed Assets (Revalued)        1476052    1687511    2056091    3082888
+Rate of Return                               11.4        13.6       11.6        9.2
+June 1977
+Source: ICE
+
+
+
+- 57 -
+ANNEX 6.07
+COSTA RICA
+INSTITDTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+ICE POWER SECTION
+Forecast Sources and Applicti-cs co Focdc 1976-1979
+(in thousands of Colares)
+1976     1977     1979      1979
+Sources of Funde
+Ictornal Cash Geceratioc
+Oct Operating lcc=ee              167,979  229,956  239,564  294,190
+Deprocistifc                       52,163   62,904   73,562  112,775
+Other -ocue                         9,109    7,192    7,147    7,124
+Bond Repaynoct by C.N.O.L.          2,S25    3,119    3,376    3.655
+Total                         232,067  303,161  322,631  407_734
+Debt Servico
+A.ctitostice                       72,571   83,895  102,732  144,653
+Ictorest Churgod to Op-toti-os     57,376   90.087   99,80  102,523
+Total DBbt S-ice22 129.947  173,942  202,612  247,181
+Net Icternal Cash Geoaratioc        102,120  120,219  12U,019  190,513
+Sortow7ing
+EfsOting Lass.
+L_ual  rocds                         36,262   60,000      -         -
+19RD 800-CR                             397    1,710      -        -
+IBRD 1126                            62,791  159,216   79,825   50,769
+CABEI - 53                              278      -        -         -
+CABEI #2 43-A                         6,186    4,632      -        -
+CASE1 #3 (108)                         -       32,35I   77,912    6,697
+IDS 6273                                484      -        -        -
+0DB #274                             99,202  153,409  105,431   37,321
+Goothe_tnl Project Phasc  0           3,046       939     -         -
+Geothorssl Projuct Phauc II            -        5,977   26,923    2,460
+FIV Lo.se                            51,528   51,600
+Local Locco                           1,446      -        -         -
+IDS #4 (463)                           -       60,000   48,291    7,019
+Coamorolol Loecs                    107,500  172,000      -        -
+Total EIiotig L....          358,120  701_234  339,272  105,065
+Propu.ed 1000,
+Local Bonds                            -         -      40 000   45,000
+Ccr=ercill Loacs                       -         -      34,400      -
+CASEI #4                               -        2,469   31,700   27,890
+FIV L.an-                                        -     103,200      -
+See, Loocc 1 (COROBICI)                -         _       -       140_953
+Total Proposed                   -       2,469  209,300  213.833
+Tctal Borrowiugo              3530120  703,703  547,.572  318.898
+Contrhibtion. frot Coctonern and
+Proc C.N.F.L. for local Project
+COnPaDY                              6,405    3,947    5,147    5,645
+The-l FPtorte  Toon                 6n,Onn   (77,.00)  17.000      -
+TOTAL SOURCES                526,645  759,869  6,73   485.096
+Applications of Focdo
+Con-tr-otion Progro-
+Ecisting Pro-juts:
+IBRD 800-CR                         2,711    1,510      -        -
+IBRD 1126                          95,859  184,415   90,639   32,013
+CABEI - 53                            898      -        -        -
+CABSI 82 43-A                       7,566    5,345      -        -
+CASEI 83 (108)                        736   41 252   99,382    8,097
+IDO  #273                           1,152      -        -        -
+IDB ;274                          269,249  306,769  177,081   27,039
+IDB t4 (463)                          351   64,630   75,870   13,997
+Geotherral Projart Phsse I          9,706    2,439      -         -
+Geothertal Peojoct Phone II          -       12,434   33,138    1,999
+ICE - Particolar Progro=           19,222   14 807   14,579   15,749
+Icteroot D-riag Co.ntroctiou       34,210   63,857   95,263  117,027
+Total Ecieticg Pro-coto       440.660  697,458  565.950  215.919
+Proposed Pro jeons
+Ne   oo.n.   I (COROBICI)            -         -      35,712  220,036
+CABEI #4                             -        3,580  37_418   33_773
+Total Propsosd Projects          -      3,580   73,130  253,809
+Total Constroctioc            4405660  701,039  630,090  469.628
+Stodies of Futuro Projnutc            4,224    5,872    6,737    7,602
+Acqojaitiuc of Othor Asoete          27,348   29,297   20,000   20,000
+Cccnt.toccco  Ic-tltotlc...l           9,699   12,351   13.993   15.7351
+Tonal                          41_271   47.520   40_ 730 _   3_353
+Additi.n.  t  W-orking Capital       44,714   11.311    9,928  (27,885)
+Totol Application of FPrde   526.645  75969  689,738  485.096
+Annual Dhbt Service Coverago
+hatio                               1.79      1,74     1.59      1.65
+Net I'cercal Cooh G..aratioc as
+O of Total Sour-ce  of FPnds         19        17       17        33
+NOE: Thoe revised fo-ec.stn once =ade at a .oc--act e-change rate of
+8.6 colonos ct the US dollar. The appra-ial estirates wore node
+at varying eachange cante  os follows:
+1975        9.9 - 0501
+1976     t  9.1 - US$1
+1977       10.3 - UBS1
+1978       11.4 - US01
+1979     t 12.6 - U8S1
+Jaoosry 1978
+
+
+
+- 58 -
+VII. ECONOMIC ANALYSIS
+7.01      The objectives of the telecommunications program are closely linked
+to the objectives of the National Development Plan for 1978-1982. The pro-
+posed telecommunications program is designed to help achieve the four general
+objectives of the National Plan: fostering continuous economic development
+in all regions; helping small enterprises particularly in the provinces;
+improving the efficiency of government administration; and controlling public
+and para-public expenses.
+7.02      To assist in attaining the National Development Plan objectives,
+increased communication facilities will be required particularly to permit
+easy and rapid exchange of information among the various groups and agencies
+engaged in the industrial, agricultural, and commeercial activities distri-
+buted throughout the country, and between them and government. Since govern-
+ment administration will continue to be centralized in San Jose, the special
+need for the increased communication between San Jose and the sometimes
+mountainous provincial and rural areas can in many instances be met more
+efficiently through telecommunications rather than by resorting to physical
+travel or other more costly means of communication. Given this, government
+has directed ICE to provide increased links to the rural areas and provincial
+towns.
+Distribution of Benefits
+7.03      The distribution of benefits for ICE's five-year (1978-82) telecom-
+munications investment program is spread over the entire economy and will
+reach all income groups. The rural component of the program is designed to
+significantly increase the penetration of telephone service into the more
+backward areas. During the program period approximately 13,000 additional
+exchange lines will be installed in small rural communities (most with less
+than 2,000 inhabitants) and 1,200 rural productive centers will receive
+operator served radio links. The number of localities served by rural public
+call offices (PCO's) will be increased from 500 in 1978 to over 1,000 at the
+end of the program thereby bringing improved communication access to an addi-
+tional 300,000 rural inhabitants, bringing the total number of rural inhabi-
+tants with some form of telecommunications access to an estimated 900,000.
+In choosing communities for PCO's, priority-allocation has been given to
+localities where "Puestos de Salud" are installed in order to enhance the
+efficiency of these nutrition and medical care posts (service to 25% of the
+posts in 1976 will be increased to 80% by 1981).
+7.04      Sample surveys of rural villages conducted by the University of
+Costa Rica with the assistance of ICE and the World Bank have shown that,
+in those rural communities which currently have PCO service, people from
+all income groups make use of the telephone, and PCO usage is not gener-
+ally dominated by any single subgroup of the population. For example, in
+the surveyed villages, almost 80% of the PCO callers made only one or two
+calls a week and approximately 90% made four calls or less. Also, while a
+high proportion of the calls from rural PCO's were made by people who lived
+within two kilometers of the telephone, those who were making calls for
+
+
+
+- 59 -
+agricultural or industry related purposes or for emergency or health rea-
+sons tended to travel significantly farther than average distances to use
+the telephone.
+7.05      Development of the urban network is also of significant importance
+in meeting the needs of agriculture, business and industry, and for facili-
+tating effective government administration and the operation of essential
+social services. In Costa Rica with its limited entrepreneurship and ex-
+pertise, the capital city of San Jose is the primary economic and govern-
+mental service center for the country. Consequently, given the high calling
+rates into and out of San Jose, telephone traffic congestion and limited
+access to service in San Jose would significantly affect the efficiency of
+the entire economy. Additionally, since rural telephone facilities usually
+provide low profitability during the initial years, such investment must be
+compensated by ICE's development of urban facilities, long distance service,
+mobile telephones, telex, international operations and other new service.
+The expansion of the telex network in addition to meeting the increased
+demand from the highly productive and important business sector is also
+designed to rationalize and improve telegraph services, with reduced costs
+of operation and expansion of facilities into new areas.
+Least Cost Solution
+7.06      The least cost solution to the provision of telecommunications
+depends on (a) having made the correct technical and economic decisions
+initially when the networks were planned, and (b) following the optimum
+path in the design, dimensioning and timing of the many installations which
+comprise continuing system expansion.
+7.07      Given the existing network and traffic patterns, the dimensioning
+and timing of the works under the program, of which the project is an in-
+tegral part, are based on individual engineering studies by ICE designed to
+determine the least cost means for improving service to existing subscribers,
+meeting new demands, and expanding into previously unserved areas.
+Return on Investment
+7.08      The internal rate of return on the investment program, defined as
+the discounted rate which equalizes the stream of expected revenues (stated
+in terms of 1977 constant prices) attributable to the program with capital
+and operating costs (at 1977 price level) is 12% (Annex 7.01). Sensitivity
+analysis shows that under the most unfavorable combinations of main parameters
+(increase of 10% each in capital and operating costs, 10% decrease in revenue
+and two year delay in project completion) the rate of return would not be
+less than 7%.
+7.09      The rate of return based on observed willingness to pay existing
+tariffs is an underestimate of program benefits since it does not include
+consumer surplus, a complete estimate of the value of time saved through a
+reduction in the proportion of unsuccessful call attempts, and many of the
+
+
+
+- 60 -
+benefits incurred by receivers of calls, by existing subscribers when new
+subscribers join the system, and by those who benefit indirectly through
+the better administration of regional development, health, transport, and
+agricultural programs, and increased urban and regional business and govern-
+ment efficiency.
+7.10      Benefits are also underestimated because, while the costs included
+in calculating the internal rate of return are those for extending and upgrad-
+ing the network and providing facilities in the newly served rural areas now,
+the full benefits are not included because the available capacity of various
+components of equipment will only be fully utilized when additional invest-
+ment is made in the future. Thus, the costs incurred during the 1978-82
+period will generate additional untabulated benefits during the period fol-
+lowing 1982.
+
+
+
+- 61 -
+ANNEX 7.01
+Page 1 of 2
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+FIFTH TELECOMMUNICATIONS PROJECT
+-Thternal Rate of Return
+1.        Benefit period.  The benefit period of the program extends from
+1978 to 2000, when on average the equipment provided under the program is
+expected to have completed its useful life.
+2.        Capital expenditures.  Preinvestment for the 1982-86 program is
+excluded; but payments made for ongoing works during the first years of the
+program are included. All price contingencies and interest during construc-
+tion have been deducted from the estimated total capital expenditures for
+the program. Capital expenditures do not include expected price increase-
+of foreign costs of 8% per annum during 1978-82 nor the projected price
+increases in local expenditures of 12% per year in 1978-82.
+3.        Operating costs and revenues have been deflated with expected
+local price increases of 12% per annum in 1978-82, to bring them to 1977
+purchasing power and make them comparable with the capital expenditures at
+that time. As from 1982, incremental revenues assigned to the program are
+primarily based on expected additional telephone and telex subscribers and
+traffic brought about by the program, and decrease in operational cost due
+to gain in efficiency related to improvement and expansion of the operations.
+Other revenues, such as the reduction of the operating expenses of the tele-
+graph by Junta Nacional de Comunicaciones for instance are not included.
+Incremental operational costs exclude depreciation and interest and are based
+on additional assets and traffic generated under the program.
+4.        Net benefits.  A summary of the program's costs and benefits
+streams of the program 1978-82 at the cost level of 1977 follows:
+
+
+
+- 62 -
+ANNEX 7.01
+Page 2 of 2
+Capital          Operating
+Year   Expenditure   Costs   Revenues   Net Benefits
+----------------(millions of Colones)---------------
+1978     235.4           7.2       3.4          (211.6)
+1979     216.0          33.6      76.2          (173.4)
+1980     217.3         65.8      124.6          (158.5)
+1981     181.8         98.2      162.9          (111.1)
+1982      29.0        112.1      198.4            57.3
+1983 to 2000      0        114.1      238.4          124.3
+The internal rate of return for the net benefits stream shown above is
+12%.
+5.        Sensitivity analysis.  A sensitivity analysis was performed with the
+following results:
+Rate of Return
+10% increase in capital expenditures               11
+10% increase in operating costs                    11
+10% decrease in revenues                            9
+Two years delay in program completion              10
+Combination of all factors above                    7
+
+
+
+- 63 -
+VIII. RECOMMENDATIONS
+8.01      It has been agreed with ICE that:
+(a) ICE's charges for use of telephone and telex lines by the
+"Junta Nacional de Communicaciones" will be adequate to
+cover the cost of providing such services (para. 2.03);
+(b) beginning fiscal year 1978, and at least annually thereafter,
+ICE will allocate administrative costs between the Power and
+Telecommunications Directorates, and further between construc-
+tion and operations in each Directorate, using methods of
+allocation satisfactory to the Bank (para. 3.09);
+(c) ICE will revalue its assets annually in a manner satisfactory
+to the Bank (para. 6.07);
+(d) in case ICE should issue bonds, the aggregate amount of bonds
+subject to repurchase should not exceed 30% of all bonds of the
+Borrower then outstanding (para. 6.12);
+(e) tariffs will be maintained to achieve a rate of return of not
+less than 12% on annually net revalued assets (para. 6.14);
+(f) NTS will not incur any long-term debt without the Bank's approval
+unless NTS's most recent 12-month internal cash generation is at
+least 1.5 times NTS's maximum debt service requirement (para.
+6.16); and
+(g) ICE will annually calculate the actual value of the performance
+indicators presented in Annex 6.05, and submit them to the
+Bank for review (para. 6.17).
+Note: Agreements (c) to (g) above are continuation of similar covenants
+of Loan Agreement 1006-CR.
+8.02      It has been agreed with the Government that:
+(a) a budgetary allocation be made sufficient to pay 65% of
+Government telecommunications debts outstanding at the date
+of the Loan Agreement (as a special condition of effectiveness),
+and these debts will be paid prior to December 31, 1978; funds
+to pay the remaining 35% will be budgeted for 1979 and will be
+paid prior to June 30, 1979 (para. 6.09); and
+(b) the Government will pay all outstanding telecommunications
+debts, dated after the date of the Loan Agreement, within 90
+days after the date of billing (para. 6.09).
+8.03      The proposed project constitutes a suitable basis for a Bank loan
+of US$10.6 million, for a term of 17 years including a four-year grace
+period at an interest rate of 7.45% plus the usual commitment fee.
+
+
+
+- 64 -
+ANNEX 8.01
+COSTA RICA
+INSTITUTO COSTARRICENSE DE ELECTRICIDAD (ICE)
+FIFTH TELECOMMUNICATIONS PROJECT
+Related Documents and Data Available in Project File
+A.   General Reports and Studies on the Sector and Subsector
+Al   Poblacion de la Republica de Costa Rica por Provincias, Cantones
+y Distritos - Estimacion al: 1 de Julio 1976.
+A2   Preliminary version of the National Plan of Development of
+Costa Rica 1978-1982.
+B.   General Reports and Studies Relating to the Project
+B1   Informe Final V Etapa de Desarrollo para el Banco Internacional
+de Reconstruccion y Fomento.
+B2   Proyecto de Telecomunicaciones Rurales 1977.
+November 7, 1977
+
+
+
+1IBRD-1312 7.
+447  ~    ~        ~                    ~          ~          0              '                                                         444                                                                                                 44744444404Ar   0 
+-                       A            '.  ~~              ~~~~~~~~~~~~~N IC  A  R  A   G  U  A K<1 
+N \  '44  '.4  4'  C4'144"4-'0'4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~1  .
+N                             4'..~~~sj   *p                 '         4                                                                                                                        4   744,
+NN  .44~~~~~~~~~~~~~~~~~~~~~~~~~~~~  4~~~~~~~~~~~~~ ~~~~~~~~~    N ~~~~~~~~~~~~~~~~    'N ~         ~      ~      ~      ~     ~     ~    ~ ~    A
+7.44, kdg
+N                          47~~~~~~~~ .   b44> 
+C, i f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 41740
+I~~~~~~~~~~~~7   I                                                              N                                           /704
+I ~~~~El        1 4 I                                           SI> N,    N          I'                                                                      .
+&477    NN  (,T,                        b                             N ,,>--"I",,44
+4   477'   .    LoFI7,  Ub,N-'                                34.1d41
+27          4Ne,                                                                                   ' 
+4474,4 14,~4.   0'N>, (447 41                                             ",N         '.'47
+4C~~~~~~~~7/                                                                                                N              Ial  Ni,o
+N  'N'  /74'          7'  /1.441427                   ~                                           N          (p444114/- M--:,-
+NNK4  7.,'  4  4~ ~ ~    ~     ~    ~    ~ ~ ~ ~            ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~~~~~~-
+77,7.4,,              7        'N    I        07,o~~~~~o          /                               N    N          RI,  7.~~~~           C444444 71
+7                        4'  77,44,4                         4~~~~~~~~- -      -   I- '   
+77,104,,,  N    N ~      ~      ~      V,
+P                A                       r 4,M,4444/ 0'~  f8ok'  /A                               N,",/V~,1444                                                                                                      '
+',O4
+"WAN''                            $417444OST   RIsCAe.7                                                                     N2                ,,4,.
+INSTITUTO. 4~~  COTRIES   'DE ELECRICIAD
+444  0,7:701'           4740    4                                                                  A'4~~~~~~~UF/VF  4  1"44'.  747444 p4
+..447.M4,
+0,4-   U'44778I                                             4                   4
+/444471  11%.37.,'                              ~        \444444  44444 .              44"T4,,        N0~y      ~     To07                         0,0 
+N T- ,l E.4                         27 . NhLl                            41,0 4P,                4:N
+~~~~   ~~~~~~~                                           Co7ogo~~~~~~~~~~~~~~~~P1
+4701.17422   N  27            47,, 44122/4.4.4                          4.4~ ~ ~ ~ ~ ~ ~ ~~~~~~~p-
+744774446.4<   N  '0                            771~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+

@@ -7,8 +7,8 @@ while IFS='' read -r project_id || [[ -n "$project_id" ]]; do
 		mkdir $3/$project_id
     python src/extract-docs.py $project_id $2 $3
 		for u in $3/$project_id/*.url; do
-			echo "\t$entity_id"
 			entity_id=`basename $u .url`
+			echo "\t$entity_id"
 			curl -L `cat $u` > $3/$project_id/$entity_id.txt
 		done
 	else

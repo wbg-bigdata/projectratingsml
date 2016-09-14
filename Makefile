@@ -15,6 +15,15 @@ data/docs-api: data/project-ids.txt
 data/txt: data/project-ids.txt data/docs-api
 	mkdir data/txt
 	src/download-docs.sh data/project-ids.txt data/docs-api data/txt
+	
+data/projectsdb: data/txt data/project-api
+	mkdir data/projectsdb
+	mongod --dbpath data/projectsdb &
+	until [ -f data/projectsdb/mongod.lock ]; do \
+	     sleep 1; \
+	done
+	src/build-mongo.sh data/project-ids.txt data/project-api data/txt
+	kill $!
 
 #data/project-docs/meta: data/project-api
 #	mkdir data/project-docs/meta

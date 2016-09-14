@@ -1,0 +1,2234 @@
+            Document of
+          The World Bank
+
+
+
+
+                                      Report No: 34697
+
+IMPLEMENTATION COMPLETION REPORT
+            (SCL-40500)
+
+               ON A
+
+        LOAN/CREDIT/GRANT
+
+ IN THE AMOUNT OF US$186.5 MILLION
+
+    TO THE FEDERAL REPUBLIC OF
+
+             MEXICO
+
+              FOR A
+
+WATER RESOURCES MANAGEMENT PROJECT
+
+
+
+
+          December 21, 2005
+
+                                     CURRENCY EQUIVALENTS
+
+                             (Exchange Rate Effective November 11, 2005)
+
+                                      Currency Unit =
+                                            Mex $1 = US$ 0.0937
+                                             US$ 1 = Mex $10.676
+
+                                            FISCAL YEAR
+                                       January 1    December 31
+
+                                ABBREVIATIONS AND ACRONYMS
+AAA            Analytical and Advisory Activities
+ASDSO          Association of Dam Safety Officials
+BCHYDRO        British Columbia Hydro International Limited
+BTEX           Benzene, toluene, ethylbenzene, xylene
+CCA            Mexican Center for Atmospheric Sciences (Centro de Ciencias de la Atmósfera)
+CFE            Federal Power Commaission (Comisión Federal de Electricidad)
+CLICOM         Climate Computing Data Management Program of World Meteorological Organization
+CNA            National Water Commission (Comisión Nacional del Agua)
+COE            United States Army Corps of Engineers
+COTAS          Comités Técnicas de Aguas Subterráneas (Technical Aquifer Committee)
+CT             Technical Consuhancy (Consultivo Tecnico)
+DBMS           Data Base Management System
+DCP            Data Collection Platform
+EC             Environment Canada
+EPA            United States Environmental Protection Agency
+ESP            Extended Streamflow Prediction
+FAO            Food and Agriculture Organization. United Nations Agency
+GAS            Groundwater Group (Gerencia de Aguas Subterraneas)
+GASIR Surface Water and River Engineering Group (Gerencia de Aguas Superficiales e Ingenieria de
+Rios)
+GF             Financing Group (Gerencia de Financiamiento)
+GIS            Geographic Information System
+GOM            Government of Mexico
+GOES           Geostationary Operational Environmental Satellite
+GPS            Geographical Positioning System
+GSCA           Water Quality and Sanitation Group (Gerencia de Saneamiento y Calidad del Agua)
+GSMN           National Meteorological Service (Gerencia del Servicio Nacional de Meteorologia)
+IBRD           International Bank for Reconstruction and Development
+ICB            International Competitive Bidding
+ICOLD          International Commission on Large Dams
+IDSP           Irrigation and Drainage Sector Project
+II             Mexican Engineering Institute (Instituto de Ingenieria)
+IMTA           Mexican Water Technology Institute (Instituto Mexicano de Tecnologia del Agua)
+INEGI          National Institute for Geographic and Informatic Statistics (Intituto Nacional de
+Estadistica Geografia E         Informatica)
+INM            National Meteorological Institute, Spain (Instituto Nacional de Meteorologia, Espatta)
+LAN            National Water Law (Ley de Aguas Nacionales)
+
+MET         British Meteorological Office
+NAFIN       National Finance Institution, SNC (Nacional Financiera, Sociedad Nacional de Credito)
+NCB         National Competitive Bidding
+NDSP        National Darn Safety Program
+NP          New Pesos
+NOAA/NWS    United States National Oceanic and Atmospheric Administration/National Weather
+Service
+NWSRFS      National Weather Service River Forecast System
+OFMIN       On-Farm and Minor Irrigation Networks Improvement Project
+OIE         French International Water Office (Office Internationale de l'Eau)
+PMS         Project Management System
+PROMMA      Programa para la Modernización del Manejo del Agua
+QC/QA       Quality Control/Quality Assurance
+REPDA       National Public Water Rights Registry (Registro Publico de Derechos de Agua)
+SECODAM     Ministry of the Comptroller and Administrative Development (Secretaria de Contraloria y
+Desarrollo          Administrativo)
+SHCP        Ministry of Finance and Public Credit (Secretaria de Hacienda y Cródito Publico)
+SHEF        Standard Hydrological Exchange Format
+SIGA        Water Geographic Information System (Sistema Geografico de Información del Agua)
+SGA         Administration General Subdirectorate (Subdirección General de Administración)
+SGAA        Water Administration General Subdirectorate (Subdirección General de Administración
+del Agua)
+SGP         Planning General Subdirectorate (Subdirección General de Programación)
+SGT         Technical General Subdirectorate (Subdirección General Tecnica)
+SEMARNAP    Ministry of the Environment, Natural Resources and Fisheries (Secretaria de Medio
+Ambiente,                   Recursos Naturales y Pesca)
+SOE         Staternent of Expenses
+SOP         Standard Operating Procedure
+SWSSS       Second Water Supply and Sanitation Sector Project
+TOR         Terms of Reference
+UNDP        United Nations Development Program
+USBR        United States Bureau of Reclamation
+USGS        United States Geological Survey
+WMO         World Meteorological Organization, United Nations Agency
+WRMP        Water Resources Management Project
+
+                                 Vice President:     Pamela Cox
+                              Country Director       Isabel Guerrero
+                                Sector Manager       Abel Mejia
+             Task Team Leader/Task Manager:          Douglas Olson
+
+                                           MEXICO
+                            Water Resources Management Project
+
+
+                                         CONTENTS
+
+
+
+
+                                                                              Page No.
+1. Project Data
+2. Principal Performance Ratings
+3. Assessment of Development Objective and Design, and of Quality at Entry
+4. Achievement of Objective and Outputs
+5. Major Factors Affecting Implementation and Outcome
+6. Sustainability
+7. Bank and Borrower Performance
+8. Lessons Learned
+9. Partner Comments
+10. Additional Information
+Annex 1. Key Performance Indicators/Log Frame Matrix
+Annex 2. Project Costs and Financing
+Annex 3. Economic Costs and Benefits
+Annex 4. Bank Inputs
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+Annex 6. Ratings of Bank and Borrower Performance
+Annex 7. List of Supporting Documents
+Annex 8. Project Accomplishments and Results
+
+Project ID: P007713                                                  Project Name: Water Resources Management Project
+Team Leader: Douglas C. Olson                                        TL Unit: LCSER
+ICR Type: Core ICR                                                   Report Date: December 21, 2005
+
+
+1. Project Data
+                   Name: Water Resources Management Project                       L/C/TF Number: SCL-40500
+   Country/Department: MEXICO                                                             Region: Latin America and the
+                                                                                                     Caribbean Region
+
+        Sector/subsector: Central government administration (88%); Water supply (12%)
+                  Theme: Water resource management (P); Pollution management and
+                            environmental health (S); Decentralization (S); Natural disaster
+                            management (S); Environmental policies and institutions (S)
+
+
+  KEY DATES                                                                  Original               Revised/Actual
+           PCD: 06/08/1994                                     Effective: 03/27/1997                03/27/1997
+     Appraisal: 04/01/1995                                         MTR: 04/30/1999                  02/19/1999
+      Approval: 06/20/1996                                      Closing: 06/30/2002                 06/30/2005
+
+
+
+    Borrower/Implementing Agency:          GOM/CONAGUA
+                      Other Partners:
+
+STAFF                           Current                                        At Appraisal
+Vice President:                 Pamela Cox                                     Shahid Javed Burki
+Country Director:               Isabel M. Guerrero                             D-M Dowsett-Coirolo
+Sector Manager:                 Abel Mejia                                     Theodore F. Nkodo
+Team Leader at ICR:             Douglas C. Olson                               Douglas C. Olson
+ICR Primary Author:             Douglas C. Olson
+
+
+2. Principal Performance Ratings
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HL=Highly Likely, L=Likely, UN=Unlikely, HUN=Highly Unlikely,
+HU=Highly Unsatisfactory, H=High, SU=Substantial, M=Modest, N=Negligible)
+
+                           Outcome:        S
+                      Sustainability:      L
+   Institutional Development Impact:       SU
+                 Bank Performance:         S
+            Borrower Performance:          S
+
+
+                                                      QAG (if available)             ICR
+                                  Quality at Entry: S                                S
+                     Project at Risk at Any Time: No
+
+3. Assessment of Development Objective and Design, and of Quality at Entry
+
+3.1 Original Objective:
+3.1.1 The Water Resources Management (PROMMA) project's general objectives are to: (a)
+promote conditions for environmentally sustainable, economically efficient and equitably allocated
+use of water resources in Mexico; (b) support the integrated comprehensive management of water
+resources; and (c) increase the benefits and reduce the risk related to existing hydraulic
+infrastructure.
+
+Secondary project objectives are to: (a) support groundwater conservation; (b) promote the
+restoration of surface water quality; (c) improve meteorological services for improved water
+management and for the society and economy as a whole; (d) reduce flood damages downstream
+of reservoirs; (e) improve dam safety; (f) improve allocation of water as an economic good; (g)
+promote decentralization of water resources management through the establishment and
+strengthening of river basin councils; (h) improve water resources planning through the
+development of the hydrographic region plans with river basin council participation; and (i)
+improve water rights administration through registry of water rights users and improved fee
+collection.
+
+The project's objectives were responsive to the Government's development priorities, highly
+important from both a country and sector perspective, and consistent with the Bank's Country
+Assistance Strategy (CAS) and global Water Sector Strategy. The project was designed to assist
+Mexico to face major critical challenges in water resources management: (i) the location of
+population and economic activity were inversely related to the availability of water; (ii) expanding
+use of surface water resources was reaching its limit; and (iii) overexploitation of groundwater
+resources was a major problem, with the level of overexploitation of 100 aquifers amounting to 6
+billion m3/year. The project supported the Government of Mexico's water resources policy as
+presented in the National Water Plan 1995- 2000 (Programa Nacional Hidraulico 1995 - 2000)
+which aimed to ensure the availability of water to satisfy the needs of the population and promote
+economic development in an environmentally sustainable manner. In addition, it supported the
+implementation of the new legal framework and policies contained in the National Water Law
+(Ley de Aguas Nacionales, LAN) approved by the Congress in December 1992 and in the law's
+regulations promulgated in January 1994. The LAN was modified in 2004 in order to strengthen
+decentralized and deconcentrated integrated water resources management (IWRM) at the river
+basin and aquifer levels.
+
+The project's objectives were consistent with the Country Assistance Strategy for Mexico
+presented to the Board on May 22, 1995 (Report No. 14518-ME) as discussed more fully in
+Section 3.5. Also, its objectives were in-line with the Bank's Water Sector Strategy and
+commitment: "...to focus its efforts on countries where significant problems exist or are emerging
+involving water scarcity, service efficiency, water allocation, or environmental damage" (Water
+Resources Management: A World Bank Policy Paper, Washington DC, September 1993 at p. 21).
+Water scarcity conditions in Mexico effectively mirrored those of primary interest for the Bank's
+policies.
+
+The formulation of the project's general objectives was very broad and ambitious, but clear. The
+
+
+
+                                                - 2 -
+
+specification of the secondary objectives was more concrete, and responded to the support
+requested from the Bank to finance key activities under the main priorities outlined in the
+1995-2000 National Water Plan. These activities had different levels of specificity and the fact
+that some could be considered outputs while others related to impacts. An annex table in the
+SAR presents clearly the relationship between the general and secondary objectives. The
+project's objectives were extremely demanding, complex and risky implying: (i) a fundamental
+change in "mindset" and CONAGUA's institutional culture regarding water resources in line with
+the principles outlined in the LAN and complementary regulations, (ii) an institutional
+transformation for CONAGUA away from its centralized and infrastructure focused approach to a
+decentralized, integrated approach to water management which involved transfer of key functions
+and responsibilities to water users in irrigation districts. To a large extent the complexity and risk
+is inherent to the challenging approach of integrated water resources management, for which this
+was the first project supported by the World Bank that included a wide gamut of aspects related
+to IWRM. Taking this into account, the most obvious weakness was the expectation of
+producing significant measurable impacts within the relatively short period of 6 years (e.g.,
+reducing water contamination and reduction of overexploitation of groundwater) while the
+fundamental processes of collecting basic information, consolidating new entities for water
+management, and training were just beginning. Fortunately, as indicated below, this was
+recognized during the mid-term review (MTR) and these impact indicators were eliminated and
+more realistic ones were added.
+
+3.2 Revised Objective:
+The objectives did not change. However, the indicators for measuring achievement of the
+objectives and outputs were formally modified in January 2002 simultaneously with a two-year
+extension of the loan's closing date and cancellation of US$40 million. These modifications took
+into account the longer implementation period and reduced cost. They included: revision of
+some of the numerical targets, greater precision in definition of some indicators, and addition of
+new indicators in particular for the new component added in 1999. Impact indicators related to
+reductions in overexploitation of groundwater, reductions in water contamination and reductions
+in downstream damages from reservoirs were eliminated at the mid-term review (formalized in
+2002 amendment), recognizing that because the project did not include investments necessary to
+achieve these impacts, it would not directly be able to directly affect them.
+
+
+3.3 Original Components:
+The project's five components, described below, were designed as an integrated set of actions and
+activities to support integrated water resources management (IWRM) and the achievement of the
+project's development objectives.
+
+Component 1: Institutional Development, Technological Support and Training (US$37.6
+million, 11% of total cost). This component supports development of the institutional and
+organizational structure and the training of human resources necessary to carry out and oversee
+the water resources management functions during and after project implementation. This
+component finances goods, services, training and consultants to support water resources planning
+and management activities at all levels of CONAGUA and to improve the technological resources
+and professional skills of CONAGUA staff.
+
+
+
+                                                  - 3 -
+
+·       Sub-component 1.1 Technical Assistance (US$11.4 million) includes technical assistance
+from international and national organizations and consultants. The assistance is provided
+on-the-job, with experts working directly with CONAGUA technical personnel in the
+development, introduction and implementation of technology in the day-to-day programs of the
+various technical areas within CONAGUA.
+·       Sub-component 1.2 Training (US$16.9 million) consists of courses, workshops, technical
+stays in international institutions, and masters and Ph.D. programs. In most cases, the training
+consists of courses and programs that are offered by existing institutions, although some
+customized training is provided. The Mexican Water Technology Institute (IMTA) is involved in
+various aspects of the subcomponent and other parts of the project as defined in an agreement
+with CONAGUA.
+·       Sub-component 1.3 Project Coordination (US$9.3 million) includes the equipment,
+consulting services and travel expenses necessary for the coordination of the Project at the central
+and regional levels.
+
+Component 2: Water Quantity and Quality Monitoring Improvement and Assessments
+(US$150.0 million, 44% of total cost) supports the updating, improvement and upgrading of the
+hydrological and hydrogeological water quality and quantity monitoring and related
+climatological/meteorological networks, including telemetric networks to provide real-time
+information in order to improve the quality of information for better and more efficient water
+resources management. It improves data collection, processing and dissemination among users.
+Assessments of surface and groundwater bodies and hydrological and hydrogeological studies will
+also be prepared.
+·       Sub-component 2.1 Meteorological Services (US$41.2 million) supports
+the National Meteorological Services Management Unit (GSMN) in the goals of improving the
+collection, analysis, and synthesis of data related to atmospheric phenomenon in order to provide
+meteorological and climatological information and predictions to other parts of CONAGUA,
+other agencies and to the general public. The improvements in weather forecasting will benefit
+water management and the Mexican society and economy as a whole.
+·       Sub-component 2.2 Hydrologic Assessment and Monitoring (US$38.8 million)
+The subcomponent supports the Surface Water and River Engineering Management Unit
+(GASIR)in the goals of: (a) developing and providing adequate data (water level, discharge,
+rainfall, evaporation, sediment transport and reservoir monitoring) at national, river basin and
+state levels, using appropriate technology (distributed data base) within the context of a
+sustainable network; (b) providing near real-time information from at least 50% of the monitoring
+network, in particular rainfall, stream-flow and reservoir data;(c) integrating the information
+collected into reports and other appropriate instruments for water resources planning and to
+support decisions; and(d) establishing a team of trained specialists covering all the technologies
+used in water resources and related monitoring, such as forecasting techniques, hydrological
+models, estimation of rainfall from satellites and radars, etc., as well as the supporting computer
+technology.
+·       Sub-component 2.3 Groundwater Assessment and Monitoring (US$25.6 million)
+supports the activities of the Groundwater Management Unit (GAS) and aims to quantitatively
+and qualitatively assess and monitor the 144 most important aquifers of Mexico. These include 70
+overexploited aquifers, 60 aquifers in fragile equilibrium of exploitation vs. resources, and 14 with
+
+
+
+                                                 - 4 -
+
+high potential for future resource development. All the groundwater management data and
+information derived from the assessment studies and the monitoring system to be implemented
+under the project will be managed by the Groundwater Information System which will be an
+integrated part of the sub-component.
+·       Sub-component 2.4 Water Quality Monitoring and Laboratories (US$44.4 million)
+supports the activities of the Water Quality and Sanitation Management Unit (GSCA) and has the
+objective of redesigning and implementing a water quality program that will provide only data that
+meet specific management needs, are cost-effective, and represent the types of modern
+environmental issues that now face Mexico (e.g. toxicity). The sub-component supports the
+establishment of monitoring networks, water quality laboratories including a National Reference
+Laboratory, water quality assessments and a Water Quality Information System.
+
+Component 3: Reservoir Operation, Dam Safety and Aquifer Management Improvement
+(US$41.2 million, 12% of total cost) supports efforts to improve reservoir operation functions
+during flood events; reservoir operation and aquifer management functions during normal and
+drought conditions; and dam safety related programs. It also aims to improve flood forecasting
+and warning systems, as well as planning for structural and non-structural flood protection
+measures.
+·       Sub-component 3.1 Reservoir Operation (US$14.2 million) supports the activities of the
+Surface Water and River Engineering Management Unit (GASIR) and aims to improve reservoir
+operation to maximize the benefits derived from the operation of existing hydraulic infrastructure
+by increasing water availability, reducing the adverse consequences of floods and droughts, and
+improving hydropower generation, while ensuring environmental protection and where possible
+enhancement.
+·       Sub-component 3.2 National Dam Safety Program (US$18.6 million) supports the
+activities of the Technical Consultancy Management Unit during the first phase of the national
+dam safety program.
+·       Sub-component 3.3 Aquifer Management Improvement (US$8.3 million) supports the
+activities of Groundwater Management Unit (GAS) and includes studies of groundwater
+resources management, aquifer protection, and stabilization of overexploited aquifers, and the
+implementation of groundwater resource optimization models.
+
+Component 4: Water Rights Administration (US$41.4 million, 12% of total cost) will support
+the activities of CONAGUA's General Subdirectorate for Water Administration (SGAA) in the
+establishment and maintenance of the national water rights registry (REPDA) and water user
+assistance, and in water use and discharge fee collection and control. The improved water rights
+administration would facilitate the establishment of dynamic tradable water rights systems (water
+markets).
+·       Sub-component 4.1 National Public Water Rights Registry and Water User Support
+(US$11.2 million) supports the modernization of the REPDA with a series of activities including:
+(a) the improvement of the registry operation, including software development for registry data
+processing; (b) the development of procedures for the processing of all registry data for overall
+checking of the national water rights; (c) the decentralization of the system at the river basin level;
+and (d) information diffusion and easy access to registry data by the public.
+·       Sub-component 4.2 Water Fee and Discharge Fee Collection and Control Service
+
+
+
+                                                 - 5 -
+
+(US$30.2 million) supports modernization of this service to include: (a) a study to develop a
+global assessment of the population of users and polluters; (b) a study of technology development
+for water withdrawal and pollution discharge measurement for fee collection and control,
+followed by a pilot project; and (c) a water use and discharge measurement inspection program.
+
+Component 5: Water Resources Planning and Information Systems (US$71.7 million, 21%
+of total cost) supports the activities of Planning General Subdirectorate (SGP) including: (a)
+establishment and strengthening of river basin councils, based on the consensus of the councils
+members on action programs for the improvement of the water resources management and the
+environmental enhancement in their basin; (b) development of regional water resources planning
+studies for the 13 hydrographic regions; (c) updating of the Regional Water Plans and the
+National Water Plan; (d) prospective studies of integrated water resource management; (e)
+development and implementation of a CONAGUA wide telecommunications and computer
+network and local networks at the central and regional offices; and (f) development and
+implementation of geographic information system technology.
+·       Sub-component 5.1 Water Resources Planning Studies and River Basin Council Support
+(US$16.5 million) supports regional and national planning which will include the following stages:
+(a) diagnostic of present situation; (b) preparation of scenarios for the medium and long term; (c)
+formulation of objectives and alternative strategies, evaluation and recommendations; and (d)
+preparation of the Regional and National Water Plans with the participation of the river basin
+councils and attention to environmental implications as they relate to water resources. It also
+includes component activities (b) and (d) cited above.
+·       Sub-component 5.2 Telecommunications and Computer Networks and Geographical
+Information Systems (US$55.2 million) supports activities (e) and (f) cited above.
+
+The project's components were reasonably related to achieving the project's objectives. They
+directly supported various subdirectorates in CONAGUA (Planning, Water Rights, Technical) and
+the coordination between the subdirectorates in carrying out IWRM. Recognizing the need for
+new staff and additional funding to "modernize" CONAGUA, the project design included these
+provisions which were fully discussed with the Mexican government during preparation and
+negotiations. The project built on the lessons of the Bank's 25 year involvement in Mexico's
+water sector (see section 3.5). However, this was a pioneering project--one of the first Bank
+supported projects for IWRM--and, therefore, there was limited worldwide experience to draw
+on.
+3.4 Revised Components:
+The project was restructured in 1999 after the mid-term review. The MTR brought a more
+focused attention to a smaller set of very important technical issues such as aquifer
+over-exploitation and to the introduction of newer approaches to measure evapotranspiration as
+the best indicator to allocate water at the basin level. The original components were not revised,
+but some refinements were made to the description of activities to be financed. In addition to
+these refinements, a new component, Aquifers Conservation Pilot Project (MASAS) of US$0.5
+million was added formally to the project via an amendment of the loan agreement in May 1999
+The MASAS component aimed to support the initiation of water resources planning in critical
+overexploited aquifer areas, in order to take advantage of improved institutional mechanisms,
+information systems and technical capacities that PROMMA was supporting and to further
+
+
+
+                                                  - 6 -
+
+promote decentralized, participatory IWRM. The amended loan agreement indicated it would do
+the following:
+
+·       Sub-component 6.1 Raising of awareness among water users regarding sustainable
+aquifer management in selected overexploited aquifers, as well as establishment and strengthening
+of Groundwater Technical Committees (COTAs) and local CONAGUA staff, all by conducting
+public information campaigns, carrying out training and capacity building initiatives for COTAs
+and CONAGUA regarding aquifer management, setting up information dissemination systems and
+supporting the creation of mechanisms for financial sustainability of the COTAs.
+·       Sub-component 6.2 Setting up adequate monitoring and information systems in the
+selected aquifers to create the conditions for their sustainable management by implementing
+monitoring networks, developing and monitoring socio-economic, environmental and
+hydrogeological indicators, conducting baseline studies and implementing a technical information
+dissemination system.
+·       Sub-component 6.3 Provision of support for the elaboration and implementation of
+demand management options to promote more efficient water use and aquifer stabilization by
+carrying out studies and promoting decision making among water users in areas such as water
+savings programs, water tariffs, expansion of water markets and reallocation of water rights.
+·       Sub-component 6.4 Provision of support for the elaboration and implementation of
+investment plans by conducting studies, preparing designs and implementing structural options
+(including civil works) for enhanced aquifer water management.
+
+3.5 Quality at Entry:
+The project's quality at entry is considered satisfactory. It was and remains consistent with
+both the priorities of the GOM and the Bank's Country Assistance Strategy, and incorporated
+lessons from previous Bank involvement in the sector. The strategy aimed at assisting Mexico to
+manage the ongoing economic/financial crisis while continuing to support longer range programs
+that contribute to reductions in poverty, environmental improvements and long term sustainable
+growth and development, particularly through investments in human resources, infrastructure and
+natural resource management. The strategy also aimed to extend the reform process downward
+to regional and state levels and support the further devolution of expenditures and responsibilities
+to these decentralized levels. Working within this strategy, the proposed project was specifically
+aimed at developing capacities to decentralize and improve water resources management
+functions, address environmental and water management issues at the river basin level, monitor
+and manage water quality and quantity. As indicated earlier, it directly supported the
+implementation of the government's National Water Plan 1995-2000 and the water law. In April
+2004, a modified LAN was promulgated which reinforced and deepened the legal and institutional
+framework introduced in the 1992 law for deconcentrating and decentralizing integrated water
+resources management at the river basin and aquifer levels. This is an indication of the continued
+relevance and importance of the project to the Mexican government's water policies and
+priorities.
+
+The project design incorporated lessons learnt from previous Bank involvement. The Bank has
+extensive experience in financing water projects in Mexico for over 25 years though the
+water-resources-management-type project is somewhat still new in the Bank. In fact, as indicated
+
+
+
+                                                 - 7 -
+
+earlier, this project was the first to address a wide gamut of aspects of water resources
+management on a nationwide, multi-sectoral basis. Relevant lessons learned from the last five
+operations in the Mexican water sector, including preparation of the Irrigation and Drainage
+Sector Project (Loan 3419-ME, 1991) and the On-Farm and Minor Irrigation Networks
+Improvement Project (Loan 3704-ME, 1994), were incorporated in the design of this project.
+Decentralization and privatization of the operation and maintenance functions in the irrigation
+sector have been very positive and must be encouraged in other areas of water resources use
+and-management. Other lessons learned and incorporated into project design included: (a)
+ensuring CONAGUA ownership of all aspects of the project during preparation and through
+implementation;(b) introduction of adequate technologies and operation and maintenance
+procedures for field monitoring networks; (c) early development of relevant manuals and
+guidelines; (d) capacity building in water management at the central and regional levels; (e)
+training staff at all levels in modern water management methods and technologies; (f) ensuring
+coordination and integration of the various parts of the project into an integrated comprehensive
+whole through river basin planning and management and (g) ensuring substantial stakeholder
+participation through improved communications.
+
+The project also paid sufficient attention to and adequately addressed environmental and social
+issues, and the Bank's safeguard policies. Because the project was not financing any new
+infrastructure development or increased water extraction in any of the project areas, no major
+environmental issues surfaced during project preparation. It was anticipated that the project
+would enhance environmental quality through contributing to the alleviation of some of
+over-exploitation and contamination of water resources in Mexico.
+
+The overall project quality at entry is considered to be satisfactory because it followed the main
+priorities outlined by the LAN and in the the 1995-2000 National Water Plan strategy in which
+the Bank team help through the dialog carried out during the preparation of the project. It
+included learning by doing approach since this was the first project to address IWRM in a country
+with a rich experience in water management but still with many difficult challenges. . However, in
+hindsight, there were some shortcomings and limitations in the project design. The project design
+was overly optimistic and ambitious in its estimation of achievable outputs and outcomes. Since
+the project supported improved capacities, knowledge and information systems, but did not
+include many infrastructure investments, it was not realistic to expect that the project would
+directly result in reductions of surface and groundwater overexploitation, and water quality
+improvements. This was corrected during the MTR when it was agreed to remove these impact
+indicators and add others more suitable for measuring the project's impact. In addition, project
+implementation schedules should have been more realistic. The SAR highlighted three risks: (i)
+reforms in CONAGUA were underway at the same time as project implementation; (ii)
+uncertainty regarding budget allocations; and (iii) CONAGUA's 13 newly established (using river
+basin criteria) regional offices would be responsible for implementing a substantial part of the
+project, while they were in the process of acquiring technical and operational capacity. Each of
+these risks materialized and the mitigation measures proved insufficient to avoid some negative
+impacts on the project's implementation (see section 5.2).
+
+4. Achievement of Objective and Outputs
+
+
+
+                                                  - 8 -
+
+4.1 Outcome/achievement of objective:
+The project's outcome is considered satisfactory. Achieving sustainable water resources
+management is a long-term goal which requires continuous effort beyond the lifetime of this
+project. The most important contribution of the project was in establishing a sound foundation
+and improving some of the basic conditions for sustainable water resources management in
+Mexico.
+
+Although many obstacles and difficulties were encountered during the implementation of the
+project, it is clear that PROMMA supported major improvements that are essential building
+blocks for IWRM. Annexes 1 and 8 (Annex 1 presents selected overall indicators related to
+project achievements as revised in the Implementation Letter attached to the January 17, 2002
+amendment letter to the Loan and Guarantee Agreements and Annex 8 presents a more qualitative
+assessment of project achievements) include numerical and qualitative indicators related to
+project outputs and outcomes. In general the project supported: (a) improvements in the
+timeliness, accuracy and availability of meteorological, hydrological, hydrogeological information
+related to both the quantity and quality of water; (b) improving the stakeholders' and water users'
+knowledge related to water availability and use, and their access to information; (c) increasing
+water user and other stakeholder participation in river basin and aquifer-level water resources
+planning and management; (e) establishing participatory river basin and aquifer institutions; and (f)
+establishing a complete national water rights system to provide legal certainty to water users. An
+added important benefit is that the project supported the complete modernization of
+CONAGUA's computer and telecommunications system.
+
+The project objectives remain relevant in that they support the Government's current strategy
+which includes continued implementation of the 2004 modified LAN and further promotion of
+decentralization and integrated water resources management for economic and social growth.
+The 2004 CAS identifies sustainable environmental and natural resources management as one of
+the key areas for the Bank's continued support to Mexico. Water resources management is
+considered the most pressing environmental problem and is therefore strongly emphasized in the
+2004 CAS. An important follow on project to PROMMA called Integrated Management of
+Basins and Aquifers (GICA) is under preparation and would be directed towards IWRM
+improvements in critical basins and aquifers in the northern and central part. GICA would not be
+possible without the water rights systems, monitoring networks, water quantity and quality
+assessments, hydro-geologic models, River Basin Counsels Aquifer Committees and preliminary
+aquifer management plans developed under PROMMA. The project was consistent with the 1995
+CAS which emphasized the support of long range programs including environmental and natural
+resources management with regional, state and municipal participation.
+
+Specific project objectives:
+
+Promote conditions for environmentally sustainable, economically efficient and equitably
+allocated use of water resources in Mexico, and support of integrated comprehensive
+management of water resources. Through the activities undertaken, some of the major benefits
+derived include: (i) assistance in the decision-making process for the administration and
+management of groundwater (political definitions, development of stabilization planning,
+
+
+
+                                                - 9 -
+
+conservation and sustainable exploitation, transparency in the availability of information on
+aquifers, avoidance of unsustainable exploitation; (ii) improvements to legal certainty for users of
+national water and inherent assets and transparency in the administration of water rights; (iii)
+provision of support in decision-making for the assignment and planning of water resources
+development and contamination control; and (v) consolidation of a water rights base for the
+proper operation of markets and water banks. An incipient water market has been developed and
+water transfers, which reached over 300 million m3/year in 2004. This would not have been
+possible without the water rights administration system that was developed under the project.
+Thirty one River Basin Councils were established and 16 of which are considered to have assumed
+responsibility for water resources management decision making. Twenty five aquifer committees
+of the 70 established are actively focusing on and dealing with critical water resources
+management issues in their areas. Two hundred and two aquifers have had there water
+availabilities published in the national register, which is a required first step to be able to legally
+reduce water usage to sustainable levels. Forty three water bodies have been classified with plans
+developed for water quality improvement. Five critically overexploited aquifers have preliminary
+management plans prepared with the participation of water users CONAGUA and state
+governments. Thirty seven river basin plans have been prepared with the participation of water
+users and state governments. A National Water Plan 2001 - 2006 has been prepared. A complete
+National Water Rights Registry has been implemented which covers an estimated 95% of all
+water use in the country.
+
+Increase the benefits and reduce the risk related to existing hydraulic infrastructure.
+Benefits include assistance to CONAGUA regarding the decision-making processes for : a)
+planning, design and operation of reservoirs and hydraulic projects, and of hydrologic forecasting
+in priority watersheds (Bravo, Fuerte, Yaqui and Panuco rivers), b) investment optimization and
+reduction of impacts due to damage from extreme events. Six modern hydrologic forecasting
+systems are operational in 6 critical flood prone basins. Accurate 96-hour whether forecasts are
+now available for critical basins. A National dam registry has been developed and over 2000 dam
+safety inspections have been carried out.
+
+More details on the activities undertaken, the outputs, results and benefits are presented in
+Annexes 1 and 8.
+
+Although PROMMA has contributed to major improvements in the various fundamental aspects
+necessary to achieve IWRM and overexploitation and pollution have improved in some areas, it is
+important to point out that the water resources problems in many areas have not been reversed
+due mainly to continued population and economic growth. Achieving sustainable IWRM while
+continuing to have adequate socioeconomic development is an arduous long-term goal that
+requires major continued support from government and civil society. Examples of successful
+IWRM are few and far between even in the developed world. To reach this goal in the coming
+years, GOM will need to give high priority, dedicate major resources, and make major painful
+adjustments in sectoral policies. With the 2004 modified LAN and the foundation provided
+through PROMMA, Mexico is in a unique position in the developing world to really be able to do
+it.
+
+4.2 Outputs by components:
+
+
+
+                                                   - 10 -
+
+Component 1: Institutional Development, Technological Support and Training (US41.6
+million, 110% of appraisal estimate)
+Implementation of this component has been satisfactory. This component supported training and
+capacity building and project management. A highlight of the project was the constant technical
+assistance provided by the World Meteorological Organization that provided top-quality
+specialists and experts both international and national in all aspects of the project. These experts
+produced over 150 specific technical reports with practical recommendations on all aspects of the
+project. These reports were widely disseminated within CONAGUA and also outside and provide
+a wealth of knowledge that will be a significant benefit into the future In addition WMO carried
+out annual evaluations of the project which were very detailed and offered numerous
+recommendations for improvements of different aspects of project implementation. The Mexican
+Water Technology Institute provided significant support to many different aspects of the project
+and also produced numerous excellent reports and studies that are a continuing benefit.
+
+River Basin Councils and Aquifer Committees were given training in different aspects of water
+resources management and institution building. Eighty courses benefiting 1,125 persons were
+provided for training these organizations. There were also numerous training events in other
+aspects of water resources management provided to CONAGUA personnel. Eleven CONAGUA
+engineers were provided one year of on-the-job training in France with French basin water
+agencies.
+
+Component 2: Water Quantity and Quality Monitoring Improvement and Assessments
+(US80.7 million, 54% of appraisal estimate)
+Implementation of this component has been satisfactory. The national hydro-climatologic network
+was redesigned through a consultation process in 31 watersheds. The methodology and the reach
+of the project was able to cover 70% of the national territory.
+
+The rehabilitation, modernization and improved operation of 5532 climatologic stations, 2359
+hydrometric stations was carried out. The radiosounding network was modernized. Seven
+meteorological radars were rehabilitated and operated and maintained. Major increases in
+dissemination of whether forecasts through the internet was accomplished. Seventy four
+automatic hydromet stations were installed, operated and maintained in key river basins and 94
+automatic hydroclimatological states were installed, operated and maintained throughout the
+country. One national reference water quality laboratory and 10 regional water quality
+laboratories were installed and accredited. Also, 128t groundwater monitoring networks were
+activated. Sediment monitoring was improved through the establishment five pilot projects.
+
+Information systems were created and strengthened as the SIH, the SIGMAS, the SNICA, the
+SISP, and databases as the National Bank of Climatological Information (BANADACI), and
+other systems of information as the SIGA, and of administration as the SIAA. The project also
+supported the conception, design and implementation of the SIPAO hydraulic programming
+package.
+
+Component 3: Reservoir Operation, Dam Safety and Aquifer Management Improvement
+(US$25.7 million, 62.5% of appraisal estimate)
+
+
+
+                                                - 11 -
+
+Implementation of this component has been satisfactory. In 2004, a principal target was to ensure
+that the successful operation and the complete application of the Systems of Hydrologic
+Forecasting of the CONAGUA (SPRCONAGUA) was established by the end of the project. This
+largely involved the migration from the operating system UNIX to the LINUX systems for the
+computers in four basins (Bravo, Yaqui, Fuerte and Pánuco rivers). The incorporation of the
+information from the telemetric station to the hydrologic forecasting systems was also carried out.
+The introduction of the SPRCONAGUA in the basins of the rivers Nazas, Aguanaval, Mayo and
+Sonora was continued and the necessary activities for the application of the system in the basins
+of the Sotola, Marina and San Fernando, Tamp has begun.
+
+Regarding the organization of the National Program of Dam Safety (PNSP), the definition of
+policies and programs has been supported with corresponding guidelines and procedures to
+guarantee the decentralized functioning of the program. However, with the voluntary retirement
+or changes to 70% of the PNSP staff during 2003, some valuable human resources were lost.
+
+The National Registry of Dams (RNP) has been installed and extended as part of the Computer
+System for Dam Safety (SISP). During 2004, 4,050 records of works and more than 13,500
+digital files were checked and cleaned. 5 local databases were also recovered for review. Over
+2200 dams were inspected and safety remediation needs identified.
+
+The majority of the elements have been established to implement the PNSP and a calculation
+program was distributed for "simplified hydrological analysis of dams with free discharge
+spillways (Version 1.0)". The system of calculation for Hydrological Security for Dams for free
+and controlled discharges (SHIP version 2.0) and the study " Practical guidelines to evaluate the
+influence of the local conditions in the dynamic response of the area ", which focused on the
+preliminary analysis of dams were completed.
+
+Studies were performed for groundwater availability and use permitting the classification of 653
+aquifer systems, prioritizing 144 out of the 258 that are most heavily exploited in Mexico. Jointly
+with the advances of REPDA, the publication of water availability in 202 key aquifers was
+accomplished starting from 2002, which is a key legal step to allow for the restriction of water
+usage to sustainable levels. Detailed hydrogeological models were developed for 35 aquifers that
+will greatly facilitate future aquifer stabilization plans and actions.
+
+The application of remote sensing technologies to estimate evapotranspiration was initiated with
+the purpose of trying and validating these technologies in addressing hydrogeological problems by
+establishing what is the real evapotranspiración and the net groundwater extraction volumes. The
+method is being applied, tested, calibrated and adapted, to estimate the components of
+evaporation and evapotranspiration in the water balances of the Sonora and Yaqui river basins.
+Appropriate training was also carried out for the application of the model.
+
+Component 4: Water Rights Administration (US$18.1 million, 44% of appraisal estimate)
+Implementation of this component has been satisfactory. Over 400,000 water uses were registered
+and issued valid water rights through REPDA. REPDA is now the single official record for water
+rights, offering certainty and legal basis with transparency and credibility linked with the national
+
+
+
+                                                   - 12 -
+
+waters and inherent public goods, including the dissemination of the simplified procedures and
+products over the Internet. In October, 2004 ISO 9000 quality certification was achieved.
+
+Sampling points and quality parameters were established for discharges in select locations. Over
+24,000 inspections of discharges were carried out and sanctions were issued where discharges
+exceeded parameters.
+
+Component 5: Water Resources Planning Studies and River Basin Council Support (US$55
+million, 77% of appraisal estimate)
+Implementation of this component has been satisfactory. The three planning targets, established
+originally for this project: (i) the development of 13 regional water plans and strategies; (ii) the
+preparation of the National Hydraulic Program (PNH);and (iii) pilot analyses of the water
+resources were all completed satisfactorily. In 2003, a special analysis was made to evaluate goals
+and proposed targets, since this represented the completion of the mid-term of the National
+Hydraulic Program 2001-2006, the development of which was supported by the project.
+
+The national water geographic information systems, a massive geographically referenced data
+management system was developed. This component also supported the complete modernization
+of CONAGUA's computer and telecommunications systems. Prior to the project, computer
+systems were primitive and not interconnected. All technical personnel are now connected to a
+CONAGUA intranet and the internet. Much of the web page development for CONAGUA was
+supported by the project.
+
+25 River Basin Councils were established, with the supporting groups for monitoring evaluation,
+other specialized working groups, as well as more than 70 COTAS and several other commissions
+and basin committees.
+
+Component 6. Aquifers Conservation Pilot Project. (US$0.5 million, added at mid-term
+review)
+Implementation of this component has been satisfactory. In support and as part of the integrated
+aquifer management project (MASAS), five studies were developed in 2002, 2003 and 2004 for 5
+critically overexploited aquifers (Aguascalientes, Coast of Hermosillo, Querétaro, el Bajio of
+Guanajuato and San Luis Potosi) to explore diverse arrangements for the development, use, and
+extraction of groundwater in order to reduce overexploitation. These studies were developed in a
+participatory manner with CONAGUA and other federal agencies, water users organizations and
+State entities closely involved. Critical water management issues were evaluated and plans for
+reducing overexploitation were developed.
+
+4.3 Net Present Value/Economic rate of return:
+During project preparation it was recognized that the nature of the PROMMA project did not
+lend itself to a standard cost-benefit analysis or a comparison in net present values of
+project-related increases in the production of goods and services. Annex G of the Staff Appraisal
+Report did attempt to provide a sense of the fact that PROMMA-type projects result in
+considerable benefits that although not directly measurable are nevertheless real. The benefits
+derive from enhancements in the way information is organized and made available to decision
+making processes. Based on studies and anecdotal evidence from different parts of the world, and
+
+
+                                                 - 13 -
+
+on the estimate of the economic values associated with different economic activities that can
+benefit from improved information in Mexico, the SAR attempted to show that PROMMA-type
+projects result in major benefits. However, attempts to estimate the economic benefits of
+PROMMA during or after project implementation was not contemplated nor included as a project
+activity.
+
+4.4 Financial rate of return:
+    Not applicable. As above.
+
+
+4.5 Institutional development impact:
+    The project's institutional development impact is considered to be substantial.
+
+Mexico has a long and well established tradition in water resources which started in the 30s when
+the country began investing heavily in water storage facilities and in groundwater development to
+expand irrigation to about 6 million Has in 2000, and supply water to the rapidly expanding urban
+population which grew from around 25 million in 1950 to about 100 million in 2000.
+
+Mexico began to focus on water resources management in the early 70s. In 1972 the Government
+of Mexico entered into a tripartite agreement with the World Bank and the United Nations
+Development Program to prepare the 1975 National Water Plan. The resultant Plan provided a
+basis for water development and management during the ensuing 25 years and has proved to have
+been valuable in outlining the general direction for these activities. The National Water Plan was
+farsighted and defined the needs for the construction of new infrastructure and for improvements
+in water resources management. The National Water Plan identified the following needs in order
+to improve water resources management: (a) the need to develop and enact a modified National
+Water Law; (b) the need to establish a national water authority with responsibility for developing
+and implementing water policy and regulations within a modified National Water Law; (c) the
+need to carry out integrated water resources planning and management; (d) the need to increase
+water use efficiency and to restore and improve water quality; (e) the need to improve
+coordination between different public and private entities involved in water use and management;
+(f) the need to decentralize responsibilities and promote water user participation in planning and
+management; (g) the need to introduce pricing and other economic incentives to induce efficient
+water use and pollution abatement; (h) the need to transfer operation and maintenance
+responsibilities in irrigation areas to water users; and (i) the need to development research and
+training programs to support institutional development and improved water resources
+management. Based on this plan, The National Water Commission (Comision Nacional del Agua
+­ CONAGUA) (the national water authority) and IMTA (Mexican Institute of Water
+Technology) were established in 1988; the National Water Law (Ley Nacional de Agua ­ LAN)
+was promulgated in 1992 and modified in 2004; irrigation and drainage systems were transferred
+to water user associations and responsibilities related to municipal water systems were transferred
+to municipalities in the 1990s.
+
+The project (PROMMA) was designed to help address many of the initial issues including
+improved institutional mechanisms for coordination between stakeholders, improved participatory
+planning, improved information systems and knowledge related to water resources quantity and
+
+
+
+                                                 - 14 -
+
+quality for both surface and groundwater, and the establishment of a complete system of water
+rights. PROMMA supported all of the necessary elements to provide a firm foundation and
+platform for moving towards integrated water resources management (IWRM) in Mexico. This
+project was the first in the Bank to address a complete set of activities related to IWRM. One
+remarkable feature of the project is that it did not include infrastructure investment but was
+exclusively designed to support improvements in water resources management. The project was
+in line with the conclusions of the international water meeting in Dublin and of the Bank's Water
+Resources Policy Paper. The Government of Mexico (GOM) requested the Bank's support on
+the project in order to continue and deepen the reform began in the 1975 water plan and to be in
+line with international best practices. The Bank was seen as a key partner because of the long
+history of support beginning with the 1975 water plan and a series of sectoral projects supporting
+irrigation and drainage, water supply and sanitation and watershed management. It was
+particularly recognized by GOM and the Bank that in order to really be able to carry out IWRM it
+was critical to improve monitoring and assessments of water resources in terms of both quantity
+and quality, to have a solid water rights system, to carry out water resources planning at the river
+basin level, and to establish participatory institutions to support water resources planning and
+management.
+
+During the period of creation and initial consolidation of CONAGUA, 1988-1992, it represented
+an important experiment in consolidating most aspects of water resources management into one
+institution, including: policy, water rights administration, planning, irrigation and drainage
+development, and water supply and sanitation development. In other countries these activities are
+divided between various institutions and it was believed that consolidating them within one
+institution would greatly facilitate integration. PROMMA was designed to support various
+departments in CONAGUA (Planning, Water Rights, Technical) and to support cooperation
+between the departments in carrying out IWRM. From the beginning PROMMA also was
+designed to support regionalization and decentralization of water resources management to the
+river basin level. At the time PROMMA was initiated, CONAGUA was reorganized such that
+regional offices were defined by hydrologic boundaries and not by administrative (state)
+boundaries as had been the case in the past. These regional offices although they continue to have
+weaknesses due to inadequate personnel and other resources, played an important role in project
+implementation.
+
+Since its inception CONAGUA has evolved into a remarkable institution with many
+accomplishments and still important challenges that need urgent attention. It is an institution of
+approximately 16,000 strong staff distributed in all the territory with 13 regional offices and 32
+state offices, a budget of about US$1.3 Billion and has a well recognized capacity to respond to
+natural disasters. Even within CONAGUA, the integration of activities to achieve IWRM is still
+far from being a reality. CONAGUA faces major challenges: reducing over-exploitation of
+aquifers, pollution and over-allocation of water rights, implementing effective decentralization,
+improving efficiency of operations, improving policy analysis and formulation to influence
+decision making particularly in sectoral policies (like the Tarifa 09 electricity tariff) that are often
+at cross purposes to sustainable use of groundwater. GOM needs to focus more attention on the
+political economy dimension. To a certain extent, CONAGUA followed the inertia of the past in
+terms centralization, excessive dedication to infrastructure expansion, limited attention to O&M,
+
+
+
+                                                  - 15 -
+
+lack of coordination of sectoral views, and by tradition limited consideration to policy analysis
+including economic, social and environment. PROMMA did not include a dimension for
+high-level dialog to address these issues and was therefore unable to provide adequate support in
+this policy arena.
+
+Mexico has been undergoing a broad decentralization and democratization process, which in the
+water sector is strongly reflected in the 2004 revision to the National Water Law. The revision to
+the law had its underpinnings in the ongoing transformation and modernization of water resources
+management in Mexico supported by the project. The River Basin Councils and particularly the
+Aquifer Committees have broad water user and other local stakeholder participation and they
+have been playing an increasingly important role in understanding and beginning to deal with the
+serious local water resources management problems. The project has made important
+contributions to this process through: (a) the establishment and strengthening of the River Basin
+Councils and Aquifer Committees, (b) the establishment and dissemination of information and
+information systems, (c) improved water rights administration, and (d) river basin and aquifer
+participatory planning processes. The institutional impact is considered to be sustainable. A
+change in thinking has begun towards valuing water as an economic, social and environmental
+resource. The project has supported improvements in the capacities of local communities and the
+integration of their water-related activities with regional and national water resources
+management entities.
+
+4.5.2 The project contributed significantly to the strengthening of CONAGUA's technical
+capacity and improved coordination and regionalization of water resources management related
+activities, and supported the strengthening of CONAGUA regional offices (within the constraint
+of their limited personnel and budget) improving their ability to take on the responsibilities given
+them under the 2004 National Water Law.
+
+
+
+5. Major Factors Affecting Implementation and Outcome
+
+5.1 Factors outside the control of government or implementing agency:
+Although there were not significant changes in CONAGUA personnel, the change in
+administration in 2000 had a significant slow-down effect on the project particularly in regard to
+the implementation of the new component ­ MASAS that was included after the mid-term review.
+Because of this transition, MASAS did not actually begin implementation until 2002. Other
+components also suffered a slow down while the new administration defined its priorities.
+Historically CONAGUA has dedicated major effort on managing emergencies, particularly
+relating to hurricanes and flooding, but also to droughts. When these emergencies occur, as
+several did during project implementation, budgetary resources are reallocated to meet the
+emergency requirements and ongoing activities, such as PROMMA suffer slow downs.
+
+
+5.2 Factors generally subject to government control:
+During the execution of the project there were several obstacles which resulted in an extension of
+the completion date and the cancellation of the resources that were to be used during the period
+
+
+
+                                                     - 16 -
+
+of 1996-2001. The principal problems were: 1) an initial shortage of qualified personnel and
+insufficient hiring of qualified personnel during implementation, and 2) inadequate budget
+allocations throughout project implementation that necessitated scaling back of project activities;
+extension of the implementation period and cancellation of US$65.7 million of the loan.
+
+During the preparation of this project, it was anticipated by CONAGUA that budget allocations
+to the various management units would be significantly larger than prior to the project. However,
+the Government had budgetary and policy constraints that did not allow it to follow through on
+the commitments expressed at negotiations to increase CONAGUA's budget allocations
+commensurate with the financing needs of the project. The Government's ICR report indicates
+there was a vicious cycle because CONAGUA was not able to increase staffing with professionals
+with skills that it lacked (the SAR estimated a total of 724 permanent staff which would be offset
+by attrition), it fell behind in project implementation and did not fully execute its budget which led
+to a reduction of the budget in the following year.
+
+A related issue affecting World Bank projects in Mexico, is that the Bank loans bring little or no
+additionality in terms of resources for the executing agencies like CONAGUA. CONAGUA and
+the various management units within CONAGUA receive only their annual budget allocation and
+do not directly receive the loan proceeds. The financial resources expended by the different
+management units within CONAGUA a large portion of which are identified as project
+expenditures are their budget allocations. The amount of budget allocated to each management
+unit is determined through the normal annual budgeting process. Although it appears that the
+amount of resources expended under the project are large, when compared to the needs of a
+country the size of Mexico with its serious water resources management issues, the resources
+available and expended are small. To put this into perspective, in the United States,
+approximately US$15 Billion is expended annually at the federal and state levels on activities
+similar to those in PROMMA. Mexico expends less than $US50 Million per year on these
+activities.
+
+At the time of the transition of administration in 2000 the Bank prepared a Water Policy Note and
+held discussions with the new administration that included the suggestions for deepening reforms
+and reinforcing the holistic structure of CONAGUA, arguing against the possibility of returning
+irrigation infrastructure responsibilities to the Agriculture Secretary. These discussions initiated
+an increase in high-level dialog between the Bank and GOM on water-related issues.
+
+5.3 Factors generally subject to implementing agency control:
+CONAGUA experienced difficulties in following Bank procedures in procurement and financial
+management within the timeframes dictated by their annual budgeting cycle. The budget cycle for
+CONAGUA is such that resources for activities other than salaries and overhead are normally not
+available until about March or April of each year. Management units are very busy and normally
+do not begin to prepare terms of reference and specifications until they are sure that budget
+resources are available. This creates a situation where expenditures for consultant services, goods
+procurement and civil works are often made during the last few months of each year. During the
+latter years of project implementation this problem was partially alleviated through multi-annual
+contracts that need to be approved by SHCP on a case-by-case basis.
+
+
+
+                                                    - 17 -
+
+5.4 Costs and financing:
+Total actual project costs were US$221.6 million, 65% of the total project cost estimated at
+appraisal; of this amount, the Bank loan financed 55% of the cost as expected at appraisal. As
+explained in section 5.2, the project's cost and scope were reduced due to limitations on
+CONAGUA's hiring of personnel needed for project implementation and on its authorized
+budget. Taking this into account, US$65.7 million of loan funds was cancelled: US$40.0 million
+in May 2002, US$14 million in May 2003, and US$11.7 in February 2005. The Bank also agreed
+to the Government's request for an additional 3 years to complete core project activities: (i) an
+extension of 2 years was granted in January 2002, and (ii) an extension of 1 year was granted in
+April 2003. Slow disbursements was a issue throughout the project's life, reaching a 42 months
+lag compared to the original estimate. Disbursement lags are a common problem of
+Bank-financed projects in Mexico. This is due to among other things, the absence of an incentive
+mechanism for facilitating quick disbursement of international loans, which does not affect the
+overall budget of the line ministry implementing a project (no additionality).
+
+
+6. Sustainability
+
+6.1 Rationale for sustainability rating:
+The outcomes of the project are likely to be sustainable provided the Government and
+CONAGUA remain committed to improving the management of the water resources sector.
+Water is a national security issue in Mexico and a major policy and political issue. This by itself
+provides for the rationale for sustaining gains achieved during the project. The activities and
+perhaps more importantly the dialogue initiated under this project have been key to advancing
+water resources development and use that is economically, socially and environmentally
+sustainable in Mexico. The Bank engaged the client in a broader discussion on the strategy for
+future water development with a view to having a more integrated approach which included
+linking the institutional and organizational issues into the overall water resources management.
+
+This operation however involved an important constraint. Water resources management needs to
+be carried out at the local level in basins and aquifers. The project supported the formation of
+river basin councils and aquifer committees that have made good progress in understanding water
+issues and potential solutions. The 2004 modified LAN strongly supports decentralization of
+water resources management to Basin Organizations that would be formed out of existing
+CONAGUA regional offices. However, the regional offices have a limited number of personnel
+with technical abilities in project-related areas and have inadequate budget. This restricted the
+extent to which decentralized water resources management was carried out under the project and
+will undoubtedly limit the ability to carry out the 2004 modified LAN reforms in the future. In
+addition, CONAGUA historically has been a large, hierarchical, centralized institution and
+changes to any institution such as this one are often difficult and require significant time to
+accomplish.
+
+The political commitment to transfer staff and budgetary resources to new river basin
+organizations is the main issue that needs to be resolved in order to ensure availability of a critical
+mass of professionals and budget that can support the development of the sector. This is another
+factor that will contribute to the sustainability of the outcome. There are a bare minimum number
+
+
+
+                                                  - 18 -
+
+of technicians and other qualified personnel in CONAGUA and the other supporting agencies
+needed to carry out project related activities. These persons will be instrumental in supporting
+sustainable water resources management and scaling-up best practices. Government hiring
+restrictions severely limit the ability of CONAGUA to replace departing personnel. This has
+required that CONAGUA reassign and train existing personnel to support priority project-related
+activities. Although less than ideal, this approach has proved adequate. In addition, with the
+training that was conducted in this project, local communities are now more capable of managing
+the resource.
+
+It is important to note that in the current sectoral policy framework, the progress towards an
+integrated approach to water resources management made under the project and supported by the
+2004 modification to the LAN could prove to be insufficient. It has been clearly established that
+the overexploitation of aquifers is fundamentally a result of the policies of water pricing and
+subsidies that promote irrigated agricultural production, independently of what this costs society.
+Agriculture consumes 70 to 80 % of the water in Mexico. The tariff 09 for the electricity and
+other programs creates conditions ­ via subsidies - that encourage the overuse of water in
+low-value activities which not only is very costly for the Mexican society but also wastes scarce
+natural resources. The economic signals of these policies result in situations where farmers
+continue to overexploit the water resources, including some aquifers that are crucial to the
+socio-economic activities in several regions of the country, thereby compromising the future
+economic and social development of these regions. The bank is presently carrying on a dialog with
+Mexican government leaders and is preparing several AAA activities to support this dialog.
+Particular emphasis is being placed on being well prepared to dialog with the transition team after
+the July 2006 presidential elections and prior to their assuming office in December.
+
+Good water resources management is dependent upon having a solid technical understanding and
+knowledge base of water resources availability, quality and existing uses. A complete water rights
+system is another essential building block. The project supported these aspects and in so doing,
+provides strong momentum to advance the next steps towards sustainable integrated water
+resources management.
+
+
+6.2 Transition arrangement to regular operations:
+During preparation of the project several potential areas for follow-on operations were identified,
+including: (a) construction of hydraulic infrastructure; (b) implementation of water quality
+improvement plans; (c) implementation of groundwater stabilization plans; (d) implementation of
+river basin plans; and (e) remedial action on existing dams with safety problems. The GICA
+project presently under preparation would build on the foundation provided by PROMMA and
+develop and implement specific IWRM plans in critical water scarce basins and aquifers in the
+northern and central part of the country. As presently conceived GICA will support detailed
+scenario planning in the Rio Bravo Basin and the development and implementation of IWRM
+plans in 6 aquifer areas, 5 of which benefited from preliminary planning in the MASAS
+component. It will be decentralized and deconcentrated integrated water resources management
+and planning at the basin and aquifer level with the participation of local stakeholders, water
+users, state and local governments and CONAGUA in accordance with the 2004 modified LAN.
+The plans will define in detail the needs for infrastructure and management improvements and will
+
+
+                                                  - 19 -
+
+support investments to partially implement these plans. GICA will also support the development
+of financing plans and mechanisms to channel existing programs and finances towards the
+implementation of the IWRM plans. Although important, no follow-on actions are presently
+planned for dam safety remedial actions. CONAGUA does have an ongoing program in this
+regard, that is addressing these issues.
+
+7. Bank and Borrower Performance
+
+Bank
+7.1 Lending:
+The Bank's performance preparing and obtaining approval of the project is considered moderately
+satisfactory. The Bank team understood well the problems that exist in the Mexican water
+resources sector. Hence, the Bank supported the design of a project that was planned to
+demonstrate the importance and value of integrated water resources management in order to
+reduce the water scarcity problems and to change some of the perceptions regarding the resource
+and the sector. However, it is now clear that the project design was overly ambitious in
+undertaking a national program of this nature and magnitude, and the Bank task team did not fully
+understand the difficulties and challenge of the undertaking. In addition, the project did not
+include a comprehensive policy component to support strategies and dialog with other sectors,
+and with relevant government agencies. Nevertheless, it should be kept in mind that this was the
+first complete IWRM project supported by the Bank, and the project's successful completion is
+partially due to its well thought out and comprehensive design.
+
+
+
+7.2 Supervision:
+The Bank's supervision of the project is considered satisfactory. The Bank team actively
+provided technical and administrative support to the project. The technical contribution was
+imperative to achieve the modernization of services and the measurement facilities for efficient
+administration, planning, new technologies such as the determination of remote sensing based
+evapotranspiration, and to develop the holistic approach for the MASAS. The Bank's supervision
+missions were regular and identified critical problems early and cooperated with the project unit in
+seeking solutions and improving implementation. The supervision team had a good measure of
+continuity.
+
+The mid-term review was carried out as scheduled in early 1999 and due to the delays already
+incurred, the completion date was extended; the resources not expected to be used were
+cancelled; and the project was restructured as explained in Section 3.4 with the introduction of
+more realistic indicators. The project development objectives were unchanged since the activities
+to be undertaken remained relevant to the objectives i.e. "improving and promoting conditions"
+and ''supporting'' a platform for IWRM. Mutual agreement on the proposed changes was obtained
+from CONAGUA, NAFIN, SHCP and the Bank.
+
+It is important to point out that the project also had the excellent support of the World
+Meteorological Organization (WMO) for the supervision missions and for evaluation, as well as
+for the contracting of consultancies, execution of technical assistance and high level training. This
+WMO assistance is a highlight of the project and brought much international expertise to help
+
+
+                                                 - 20 -
+
+Mexico to be a leader in the developing world in water resources management related activities.
+
+
+7.3 Overall Bank performance:
+The Bank's overall performance is considered satisfactory.
+
+Borrower you need to expand on these sections/very little is mentioned
+
+Borrower
+7.4 Preparation:
+The borrower's performance in project preparation is rated as satisfactory. The borrower
+committed as many resources as was feasible to the preparation effort and was well organized. All
+of the different CONAGUA management units involved in the project dedicated significant effort
+to project preparation. In general, the Project Implementation Plan could be considered as a
+5-year work plan for the different management units within the Planning, Technical and Water
+Administration Subdirectorates of CONAGUA, and they considered it to be as such. CONAGUA
+took advantage of the PHRD grant and the support provided by WMO and the Bank to develop
+modernization plans for all of these management units utilizing high-caliber international
+experience in the areas of meteorological services; surface water and groundwater quantity and
+quality monitoring, assessment and management; river basin planning and management; dam
+safety and water rights administration. Project preparation also provided an important
+opportunity, which was taken advantage of by the borrower, to consider how to improve the
+integration of the different activities being carried out by the different CONAGUA management
+units at the central level. During project preparation, CONAGUA implemented a reorganization
+of its regional offices along hydrologic rather than administrative boundaries, recognizing the
+importance of carrying out water resources planning and management at the river basin level.
+
+7.5 Government implementation performance:
+The government's implementation performance is rated as moderately satisfactory for the reasons
+set out in section 5.2. Within the constraints of limited budget and personnel, SHCP, NAFIN and
+CONAGUA did an excellent job of implementing the project, diligently carrying out their
+responsibilities as defined in the Project Implementation Plan. At the mid-term review these
+GOM entities carefully reviewed project progress and agreed with the Bank to adjust project
+components and indicators to make them more realistic.
+
+
+7.6 Implementing Agency:
+CONAGUA's implementation performance is rated as satisfactory. Within the constraints of
+insufficient personnel and financial resources and preoccupation of government leaders to other
+pressing problems and emergencies, the functionaries in CONAGUA and NAFIN working on the
+project were very dedicated, hard working and diligent. Their strong efforts clearly resulted in the
+project's successes and benefits. Prior to each supervision mission, excellent progress reports
+were prepared. Annual evaluation reports prepared by WMO consultants were highly beneficial
+in reviewing different project activities and making realistic recommendations for implementation
+activities during the following year. CONAGUA and NAFIN diligently carried out procurement
+and financial management fiduciary activities in accordance with Bank guidelines. A post-project
+review of procurement found implementation to have been satisfactory. Annual audits were
+
+
+                                                   - 21 -
+
+carried out on time and did not identify serious financial management problems.
+
+CONAGUA has major responsibilities to reform and adjust its operations in accordance with the
+2004 modified LAN, which supports decentralization and deconcentration of water resources
+management in order to carry out IWRM at the river basin and aquifer levels with the
+participation of water users other stakeholders and the state and municipal governments, and to
+develop and implement a water financing system. Some progress was made in this regard during
+project implementation particularly in the development of regional water plans and in the MASAS
+component introduced at the mid-term review. The regional offices took on additional
+responsibilities and are presently being reorganized into River Basin Organizations in accordance
+with the 2004 modified LAN. The new project under preparation (GICA) is designed to further
+support this reform process.
+
+7.7 Overall Borrower performance:
+The overall performance of the Borrower is assessed as satisfactory. Notwithstanding the
+significant limitations outlined above, the Borrower's execution of the project was adequate.
+Representatives from SHCP, NAFIN and CONAGUA as well as other Mexican government
+agencies gave dedicated attention to project implementation issues, participated in supervision
+missions and paid strong attention to aide memoire recommendations.
+
+
+8. Lessons Learned
+
+Sustainable water resources management efforts cannot succeed without a holistic integrated
+approach that deals with irrigation and drainage, water supply and sanitation, agricultural
+productivity and the environment, and these need to be planned and managed at the basin or
+aquifer level with the direct participation of water users and other stakeholders. Irrigation and
+drainage and water supply and sanitation draw from water sources, consume water and return
+water with reduced quality to water systems, as well as impact flow regimes and ecological
+systems. The environment is a special "water using sector" and most environmental concerns are
+typically the responsibility of environmental rather than water management agencies. But
+environmental service activities are important to overall WRM, particularly in regard to the
+provision of ecological flows.
+
+Although IWRM projects are inherently complex, care should be taken to limit the scope to the
+extent possible and to focus on the most important elements. The dam safety and some of the
+meteorological services sub-components could perhaps have been handled better under separate
+operations. The nationwide and centralized approach of the project reduced the ability to focus
+on major problem areas, although this was partially ameliorated through the inclusion of MASAS
+at the mid-term review.
+
+Climatological and hydrological monitoring networks need to be well designed and have strong
+operation and maintenance programs. The project benefited strongly from the support of the
+WMO which greatly helped to ensure the quality of these aspects.
+
+Implementing a nationwide water rights registration and administration program is a massive and
+
+
+
+                                                - 22 -
+
+complex undertaking. Because of the inability to measure the amount of water usage by each
+water user, Mexico opted to assign water rights amounts based on declarations by the water users
+when they registered. This resulted in overallocations, which are now having to be dealt with on
+a case-by-case basis. The water rights administration system under the project is a tremendous
+achievement, not duplicated anywhere in the developing world. It provides an essential platform
+for IWRM. However, this overallocation aspect has complicated the effectiveness of the water
+rights program. It remains to be seen whether the approach taken was the best, although many
+officials insist that it was the only way possible to proceed.
+
+Putting the appropriate technical information in the hands of the users greatly helped them to
+accept that they have a role to play in managing the resources and to develop some ownership on
+their part. There is a persistent mindset in Mexico and elsewhere that the government needs to
+solve the problems mainly through investments. Although government-supported investments are
+essential, water users and other stakeholders need to take a direct interest and play a critical role
+in the planning and management of water resources. The gradual incorporation of the users into
+the decision-making processes at the River Basin Councils and Aquifer Committees is
+contributing to addressing the sustainability of the resource. The process however has been slow
+and is not completed; it needs to be kept on-going, strengthened and scaled-up.
+
+Decentralization of management is a long and continuous process, which requires unwavering
+commitment by the Government and responsible agencies. Although the process of
+decentralization has gained some momentum, it is imperative that additional activities, such as
+improving the regulations and procedures in support of the LAN, and continuing to build
+capacities are followed up. State and municipal governments had limited participation in the
+project although they were involved in the regional water planning and the MASAS component.
+The GICA project will emphasize more state and municipal involvement.
+
+It is important that the Government provides a clear signal and remains true to the reform process
+in support of the LAN, to create confidence and political support for integrated water resources
+management. Often changes in policy following a political/election cycle send conflicting or
+wrong signals and undermine the process. It is important to have clear objectives and a sustained
+vision not only within a project designed to support IWRM but also at the highest levels of
+government. Governments have multiple agendas that are often at cross purposes, which can
+significantly impact the ability to achieve IWRM. A project such as this one requires strong
+government support and priority. The project should support a continuing high-level dialog to
+strengthen the government's water-related policy agenda. The Bank should provide continuous
+support to this dialog through periodic high-level contacts and complementary AAA. Many times
+during the implementation of the project, the Bank team and Mexican counterparts felt somewhat
+like orphans and that there was a lack of high-level government understanding and commitment
+both within CONAGUA and in other parts of the government. During the later years of project
+implementation, the Bank increased its broad support to the Mexican water agenda including a
+number of AAA activities. There have been corresponding improvements in the government's
+support. The project would have been better designed if it had had a policy component that
+included this high-level dialog and linkage to AAA activities from the beginning.
+
+
+
+
+                                                 - 23 -
+
+Irrigation and water sector development activities being carried out under the direction of
+CONAGUA and other related agencies are not sufficiently taking into account water resources
+availability and management parameters. The amount of water that can be consumptively used in a
+basin or aquifer as well as meet environmental needs should form the basis or centerpiece for
+project planning and investment. This project has provided much of the technical monitoring and
+assessment necessary for determining water availability as well as some of the institutional
+mechanisms necessary to ensure sustainable water resources management and use. It is
+recommended that CONAGUA expand the dialogue on water resources limitations and
+appropriate management with the other sub-directorates not involved in the project and also with
+the other entities involved in water irrigation and water supply activities, particularly at the local
+basin and aquifer level. This is a long-term issue that needs continuous focus and deepening, if
+sustainable water resources management is to be achieved.
+
+
+9. Partner Comments
+
+(a) Borrower/implementing agency:
+Please refer to Annex 9.
+
+(b) Cofinanciers:
+
+
+(c) Other partners (NGOs/private sector):
+Comments provided by WMO via Email.
+
+The World Meteorological Organization (WMO) and the World Bank have cooperated in the last
+10 years providing assistance and support to Mexico through the Bank financed Mexico Water
+Resources Management Project. The project has resulted in major improvements to nearly every
+aspect of water resources management in Mexico. It has been recognized as an excellent example
+of collaboration between WMO and the World Bank, which could serve as a model and be
+applied in other countries. WMO is a specialized Agency of the United Nations for weather,
+climate and water.
+
+WMO provided technical assistance, transfer of technology, training and key advice and
+recommendations for the different specific areas which contributed substantially to the
+implementation of the project. This support provided through WMO professional staff and
+top-class international and national experts and consultants was important for the successful
+implementation of the project and continued collaboration would be very beneficial.
+
+
+10. Additional Information
+
+
+
+
+                                                 - 24 -
+
+Annex 1. Key Performance Indicators/Log Frame Matrix
+
+
+
+
+                                        - 25 -
+
+                                                                                                                                                                                                                             Overall Indicators
+
+                                                                                                                               1996                       1997                     1998                      1999                       2000                     2001                    2002                    2003
+
+
+INDICATOR                                                                                                   UNIT
+                                                                                                                                                                                                                                                                          al
+         OF              EJECUTOR                                                   INDICATORS
+
+                                                                                                                       Original Target   Actual  Original  Target  Actual  Original Target   Actual  Original Target   Actual   Original Target   Actual  Revised Target    Actu  Revised Target  Actual  Revised Target   Actual
+
+           TYPE
+
+
+
+                                                                       Improved Allocation        Annual volume
+
+                                                                       of Water as an             of water             1               65.9              2        84.2     3               201.1     5               285.8      5               334.2     285 439.4 285 585.2                             285            733
+                                 SGAA                                  Economic Good              transferred
+                                                                                                  (millions of m3)
+
+
+
+                                                                       River Basin Councils
+                                                                       Having Assumed
+                                                                       Principal Decision
+                                                                       Making                     # of councils                                                                                      1                0         1                0        3              1        6              2        11             10
+                                     GCC                               Responsibilities for
+                                                                       Water Management
+                                                                       Activities
+
+
+
+                                                                       Aquifer committees
+                                                                       established and            # of committees                                                                                                                                         0              0        8              10       16             17
+                                        GCC                            carrying out WRM
+                                                                       responsibilities
+
+
+
+
+                                                                       Aquifers with water
+                                                                       availabilities             # of availabilities                                                                                3                0         8                0        14             0        14             0        14             202
+                                           GAS                         published in the           published
+                                                                       national register
+
+
+
+
+                                                                       Water Bodies
+                                                                       Classified and Water       # of water           2                3        30               11      160              19       240              21        320              25        320            36       48             41       54             43
+                                              GSCA                     Quality Improvement        bodies
+                                                                       Plans Developed
+
+
+                OUTCOMES
+
+
+                                                                       Hydrological
+                                                                       Forecasting                # of river basins    0                0        1                0        4                2        11               3         11               4        4              4        5              4        6               4
+                                                  GASIR                Systems Operational
+
+
+
+
+                                                                       Accurate 96-Hour
+                                                                       Weather Forecasts          % of accurate
+                                                                                                  forecasts           55               50        40               65       50              75        60              79         70              77        75             75       79             79       80             79
+                                                       USMN            for river basins
+
+
+
+
+                                                                       Aquifers with
+                                                                       integrated                 # of aquifers                                                                                                                                                                   0              0        4               4
+                                                           GAS         management plans
+
+
+
+
+                                                                       Financial                  % of CONAGUA
+
+                                                                       sustainability of          budget covered      65               55        75               54       85              45        50              54         50              56        50             69       50             71       50             68
+                                                              SGAA     water management           through water
+                                                                                                  fee payments
+
+
+
+                                                                       River Basin Plans
+                                                                       Adopted                    # of Plans                                                               4                0        10              12         13              13        13             13       13             13       13             13
+                                                                  GPH
+
+
+                                                                                                                                                         - 26 -
+
+- 27 -
+
+                                                          Groundwater
+                                                          Monitoring Networks    # of networks          16  10   35   40   57  90   68   130  88  130  99  108  102   108 120
+          GAS                                             Operational
+
+
+
+
+                                                          Integrated analysis
+                                                          of overexploited       # of hydro-        3   7   23   12   43   18  58   18        21       23   59   23   59   23
+             GAS                                          aquifers               geologic models
+
+
+
+
+                                                          Integrated analysis
+                                                          of aquifers in         # of hydro-        0   0   0     0    0   0   0    11        11       11   0    11    0   12
+                GAS                                       equilibrium            geologic models
+
+
+
+
+                                                          Analysis of
+                                                          intersectoral
+                                                          management,
+                                                          systematic             # of studies       3   7   3    17   13   27       27        27       27   27   27   27   27
+                   GAS                                    framework and
+                                                          sustainability
+                                                          measures
+
+
+
+
+                                                          Groundwater            %                          25   50        61       70        77       82   93   90   100 100
+                      GAS                                 information system     implementation
+
+
+
+
+                                                          Water geographic       % progress             20       30        50  60   60    75  80   90  90  100   95   100  98
+                         SIGA                             information system
+
+
+
+
+OUTPUTS
+                                                          National reference
+                                                          laboratory installed   # of laboratories  0   0   1     0    1   0   1     1    1    1        1   1    1     1   1
+                             GSCA                         and accredited
+
+
+
+
+                                                          Regional and mobile
+                                                          laboratories Installed # of laboratories  0   0   5     0   13   0   13    0    13   1        1   19   6    19   6
+                                 GSCA
+
+
+
+
+                                                          Water body
+                                                          classifications
+                                                          studies and plans to   # of studies       20  3   80   17   165  29       32        34       40   54   46   60   52
+                                     GSCA                 improve water
+                                                          quality indices
+
+
+
+
+                                                          Improve and
+                                                          maintain the
+                                                          climatological         # of stations     790 488 1841 1865 2892 2636 3592 2799 4086 3689    4489 5336 4801 5836 5114 5539
+                                         GASIR            monitoring network
+
+
+
+
+                                                          Improve and
+                                                          maintain the
+                                                          hydrometric            # of stations     663 146 1542  645 2431 1340 3131 1377 3131 1638    1853 3840 2019 4280 2269 2340
+                                              GASIR       monitoring network
+
+
+
+
+                                                          Automatic
+                                                          Hydrometric Stations   # of stations      0   0   44
+                                                                                                             - 28 -0  44   0   44   44    54  44   54  44   54   54   63   63
+                                                   GASIR  Operational
+
+                                          Synoptic              # of observa-
+
+                                          Observations          tions                150.5     151.5     152.5    150.2       150     149.1 175   152   180   139 120
+USMN                                                            (thousands)
+
+
+
+
+                                          Radio soundings       # of soundings
+                                                                (thousands)           4.8       4.8      4.9       4.4        5.7       5.7   13   6     14   5.4
+    USMN
+
+
+
+
+                                          Bulletins             # of bulletins
+                                          disseminated          (thousands)          266.3     532.1     574.2    659.3      629.2     591.5  650 372.9 650  220.9
+        USMN
+
+
+
+
+                                          Internet              # of
+
+                                          consultations         consultations        13.2      63.3      178      191.9     440.2      768.8 300 1009.3 360 1550
+            USMN                                                (thousands)
+
+
+
+
+                                          Automatic
+                                          hydroclimatological   # of stations                                                  0        60    150  74   170    84
+                USMN                      stations operational
+
+
+
+
+                                          Dams Inspected        # of dams        500  1   1500 210  2500 601  3500 982  4500 1229 3950 1531 4950 1790 5950 1989
+                    GCT
+
+
+
+
+                                          Instrumentation of    # of dams         0    0   0     0    1   1    2    2    2     2   2    3     2    3     2     3
+                       GCT                dams
+
+
+
+
+                                          Review of dam
+                                          design and            # of dams         0    0   2     0    4   2    4    6    6     8   10   35    16   35    24    35
+                          GCT             emergency plans
+
+
+
+
+                                          Topobatrimetric
+                                          studies and flood     # of studies      0    0   0     0    0   0    3    2    6     3   9    6     12   8     16    15
+                             GCT          plain planning
+
+
+
+
+                                          Water Users           # water rights
+                                                                registered       80   56   150  116  220 208  280  347  300  388   300 405    327 414.2 327   424
+                                SGAA      Registered            (thousands)
+
+
+
+
+                                          Dischargers           # of dischargers
+                                                                inspected         5   1.4  10   3.4  15  5.7   20  6.7  25     8   30   9.8  24.9 14.29  26.8 19.3
+                                    SGAA  Inspected             (thousands)
+                                                                                            - 29 -
+
+        Local Area           # of networks
+GIT     Computer Networks                       13   4   26  14  50   19    50  19   68   19   72    75   75  102   102
+        Installed            installed
+
+
+
+
+   GIT  Computers Installed  # of computers    1679 250 2637 650 3500 1350 5360 1950 5360 2100 5360 8432 8744 9672 10174 10912
+
+
+
+
+                                                     - 30 -
+
+Annex 2. Project Costs and Financing
+
+Project Cost by Component (in US$ million equivalent)
+                                                                      Appraisal    Actual/Latest Percentage of
+                                                                       Estimate      Estimate     Appraisal
+                              Component                              US$ million    US$ million
+A. Institutional Development, Technological Assistance                  37.70            41.60        110.3
+and Capacity-Building
+B. Evaluations and Modernization of Data Monitoring                    150.00            80.70         53.8
+Systems on Quantity and Quality of Water
+C. Modernization of Dan Security and Operation and                      41.10            25.70         62.5
+Aquifer Management
+D. Water Use Administration                                             41.40            18.10         43.7
+E. Planning and Information Systems for the Water Sector                71.70            55.00         76.7
+F. Sustainable Management of Underground Water                            0.00             0.50          0
+Sources
+
+
+
+
+Total Baseline Cost                                                    341.90           221.60
+                                 Total Project Costs                   341.90           221.60
+                        Total Financing Required                       341.90           221.60
+   Annex 2a ­ Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million
+                                                      equivalent)
+
+    Project Component                             Appraisal     Actual/Latest   Percentage
+                                                  Estimate         Estimate             of
+                                                                       2004      Appraisal
+A   Institutional Development, Technological           37,7              41,6         110,3
+    Assistance and Capacity-Building
+1   Technical Assistance                               11,4               9,6          84,2
+
+2 Capacity Building                                     16,9               12,3         72,8
+
+3 Project Coordination                                   9,4               9,9         105,3
+
+2 Professional Fees of PROMMA Personnel                                    9,8           NA
+
+B   Evaluations and Modernization of Data             150,0              80,7          53,8
+    Monitoring System on Quantity and Quality
+    of Water
+1   Meteorological Monitoring Networks                 41,2              28,4          68,9
+
+2   Hydrometric, Climatic, Sediment and Reservoir      38,8              24,6          63,4
+
+
+
+
+                                                          - 31 -
+
+    Level Monitoring Networks
+3   Evaluation and Monitoring of Underground           25,6            6,3           24,7
+    Waters
+ 4 Networks for Monitoring Water Quality and            44,4            21,3          48,1
+   Laboratories
+C   Modernization of Dam Security and                  41,1            25,7          62,5
+    Operation and Aquifer Management
+1   Reservoir Management                               14,2            10,2          71,8
+
+2  Dam Security                                         18,6             5,3          28,5
+
+3  Improving Aquifer Management                          8,3            10,2         122,9
+
+D   Water Use Administration                           41,4            18,1          43,7
+
+1   REPDA and User Services                            11,2            7,9           70,5
+
+2  Collection, Inspection and Control                   30,2            10,2          33,8
+
+E   Planning and Information Systems for Water         71,7            55,0          76,7
+    Sector
+E1  Establishment and Strengthening of Watershed       16,5            16,4          99,4
+    Councils
+E2 Regional and National Planning
+
+E3  Information, Telecommunications and SIGA           55,2            38,6          69,9
+
+F   Sustainable Management of Underground              0,0             0,5           NA
+    Water Sources
+    MASAS                                                              0,5           NA
+
+   TOTALS                                              341,9          221,6          64,8
+
+
+
+
+Project Costs by Procurement Arrangements (Appraisal Estimate) (US$ million equivalent)
+                                                                              1
+                                                         Procurement Method
+    Expenditure Category                       ICB           NCB                2        N.B.F.  Total Cost
+                                                                          Other
+1. Works                                       0.00          0.00          0.00          26.10      26.10
+                                              (0.00)         (0.00)        (0.00)        (0.00)     (0.00)
+2. Goods                                      75.00          15.00         1.10           3.30      94.40
+                                             (63.70)        (12.80)        (0.90)        (0.00)    (77.40)
+3. Services                                    0.00          0.00         100.00          0.00     100.00
+                                              (0.00)         (0.00)       (85.10)        (0.00)    (85.10)
+4. Training                                    0.00          0.00          17.20          0.00      17.20
+                                              (0.00)         (0.00)       (14.70)        (0.00)    (14.70)
+5. Incremental Operating                       0.00          0.00          14.00          0.00      14.00
+Costs - IMTA                                  (0.00)         (0.00)        (9.30)        (0.00)     (9.30)
+6. Recurrent Costs                             0.00          0.00          0.00          90.10      90.10
+                                              (0.00)         (0.00)        (0.00)        (0.00)     (0.00)
+   Total                                      75.00          15.00        132.30         119.50    341.80
+                                             (63.70)        (12.80)      (110.00)        (0.00)   (186.50)
+
+
+Project Costs by Procurement Arrangements (Actual/Latest Estimate) (US$ million equivalent)
+                                                                              1
+                                                        Procurement Method
+    Expenditure Category                       ICB           NCB                2       N.B.F.   Total Cost
+                                                                          Other
+1. Works                                       0.00          0.00          4.72          0.00      4.72
+
+
+
+                                                          - 32 -
+
+                                           (0.00)             (0.00)            (2.11)            (0.00)           (2.11)
+   2. Goods                                 31.76              0.00              4.50             0.00             36.26
+                                           (17.68)            (0.00)            (3.00)            (0.00)           (20.68)
+   3. Services                              0.00               0.00             56.64             0.00             56.64
+                                           (0.00)             (0.00)           (32.94)            (0.00)           (32.94)
+   4. Training                              0.00               0.00              0.00             0.00              0.00
+                                           (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+   5. Incremental Operating                 0.00               0.00              0.00             0.00              0.00
+   Costs - IMTA                            (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+   6. Recurrent Costs                       0.00               0.00              0.00             0.00              0.00
+                                           (0.00)             (0.00)            (0.00)            (0.00)           (0.00)
+       Total                                31.76              0.00             65.86             0.00             97.62
+                                           (17.68)            (0.00)           (38.05)            (0.00)           (55.73)
+
+   Expenditure Category       Budget        Total      Counterpart         Local           Total       Total Cost
+                               Used         BIRF1                       Contribution    Contribution
+    1 Assets                      38.652    42.724           3.154            8.306           9.272       51.997
+    2 Consulting                  76.511    61.501              625           16.509          16.509       78.010
+    3 Watershed Councils            1.658       834             185              300             300        1.135
+
+    4 Capacity-Building             5.251     6.930               16             704             704        7.635
+    5 Works                        11.664     8.845           2.361            5.023           5.960       14.805
+   6 Vehicle                          625         0                0             625             625          625
+    7 Indirects                    16.587         0                0          16.343          16.343       16.343
+   8 Disbursements                     0          0                0               0               0             0
+   IMTA
+   Subtotal                     150.948    120.835            6.340           47.811          49.715      170.550
+    9 Fiscal Resources             70.674           0             178          41.350          41.350       51.073
+   9.1 Disbursement              25.672           0             178            1.111           1.111       10.833
+   Eligibles
+   9.2 Expenditure                 45.002         0                0          40.239          40.239       40.239
+   Total US$                    221.622    120.835            6.518           89.161          91.064      221.622
+   (thousands)
+
+
+
+
+     1/Figures in parenthesis are the amounts to be financed by the Bank Loan. All costs include contingencies.
+
+     2/Includes civil works and goods to be procured through national shopping, consulting services, services of contracted staff
+       of the project management office, training, technical assistance services, and incremental operating costs related to (i)
+       managing the project, and (ii) re-lending project funds to local government units.
+
+
+
+Project Financing by Component (in US$ million equivalent)
+                                                                                                       Percentage of Appraisal
+        Component                   Appraisal Estimate                  Actual/Latest Estimate
+                                Bank        Govt.        CoF.         Bank         Govt.      CoF.       Bank     Govt.     CoF.
+A. Institutional               29.10         8.50                    23.10         18.50                 79.4     217.6
+Development,
+Technological Assistance
+and Capacity Building
+
+
+
+
+                                                           - 33 -
+
+B. Evaluations and        71.70  78.40          56.50   24.20    78.8 30.9
+Modernization of Data
+Monitoring Systems on
+Quantity and Quality of
+Water
+C. Modernization of Sam   22.60  18.60          13.20   12.50    58.4 67.2
+Security and Operation
+and Aquifer Management
+D. Water Use              8.60   32.70           6.50   11.60    75.6 35.5
+Administration
+E. Planning and           54.50  17.20          21.00   34.00    38.5 197.7
+Information Systems for
+Water Sector
+F. Sustainable            0.00    0.00           0.50   0.10     0.0   0.0
+Management of
+Underground Water
+Sources
+
+
+
+
+                                         - 34 -
+
+Annex 3. Economic Costs and Benefits
+
+
+
+
+                                      - 35 -
+
+Annex 4. Bank Inputs
+
+(a) Missions:
+Stage of Project Cycle                No. of Persons and Specialty            Performance Rating
+                                     (e.g. 2 Economists, 1 FMS, etc.)    Implementation Development
+                   Month/Year  Count           Specialty                   Progress       Objective
+
+ Identification/Preparation
+              03/01/1995                3    TASK MANAGER (1);                S               S
+                                             CONSULTANTS (2)
+
+
+ Appraisal/Negotiation
+              06/29/1995                5    TASK MANAGER (1);                S               S
+                                             CONSULTANTS (2);
+                                             AGRICULTURALIST (1);
+                                             PROCUREMENT
+                                             SPECIALIST (1)
+
+
+ Supervision
+
+              08/09/1996                2    WATER RESOURCES ENG.             S               S
+                                             (1); CONSULTANT (1)
+              06/27/1997                3    SR. HYDROGEOLOGIST (1);          S               S
+                                             SR.WATER RES. ENGINEER
+                                             (1); SR. FINANCIAL
+                                             ANALYST (1)
+              11/27/1997                2    TASK MANAGER (1);                S               S
+                                             SR.FINANCIAL ANALYST (1)
+              07/16/1998                4    WATER RES. ENG. (1);             S               S
+                                             TTL-WATER RES. ENG. (1);
+                                             FINANCIAL ANALYST (1);
+                                             ECONOMIST (1)
+              02/19/1999                8    TTL - WAT. RES. ENG. (1);        S               S
+                                             ECONOMIST (1);
+                                             ECONOMIST (FAO/CP) (1);
+                                             HYDROLOGIST (CONS.) (1);
+                                             LAWYER (CONS.) (1);
+                                             HYDROGEOLOGIST (CONS.)
+                                             (1); ENGINEER (CONS.) (1);
+                                             CONFLICT RESOLUTION SP
+                                             (1)
+              02/19/1999                3    TTL - WAT. RES. ENG. (1);        S               S
+                                             ECONOMIST (FAO/CP) (1);
+                                             HYDROLOGIST (WMO) (1)
+              02/19/1999                3    TTL - WAT. RES. ENG. (1);        S               S
+                                             ECONOMIST (FAO/CP) (1);
+                                             HYDROLOGIST (WMO) (1)
+              03/02/2001                7    TTL - WATER RES. ENG. (1);       S               S
+                                             PROCUREMENT SPECIALIST
+                                             (1); FIN. MAN. SPEC. (2);
+                                             AGRO-METEOROLOGIST (1);
+                                             HYDROLOGIST (1); WAT.
+
+
+
+                                              - 36 -
+
+                                            RES. SPECIALIST (1)
+               07/20/2001              6    TTL - WAT. RES. ENG. (1);         S    S
+                                            PROCUREMENT SPEC. (1);
+                                            FIN. MAN. SPEC. (1);
+                                            AGRO-METEOROLOGIST (1);
+                                            HYDROLOGIST (1); WAT.
+                                            RES. SPEC. (1)
+               03/08/2002              6    TTL - WAT. RES. ENG. (1);         S    S
+                                            FIN. MAN. SPEC. (1);
+                                            ECONOMIST (1);
+                                            AGRO-METEOROLOGIST (1);
+                                            HYDROLOGIST (1); WAT.
+                                            RES. SPEC. (1)
+               08/24/2002              2    TTL _ WAT. RES. ENG. (1);         S    S
+                                            ECONOMIST (1)
+               08/24/2002              2    TTL- WATER RES. ENG. (1);         S    S
+                                            ECONOMIST (1)
+               09/06/2003              2    TTL - WAT. RES. ENG. (1);         S    S
+                                            CONS. - ECONOMIST (1)
+               03/15/2004              2    TTL WAT. RES. ENG. (1);           S    S
+                                            CONS. ECONOMIST (1)
+               08/20/2004              2    TTL WAT. RES. ENG. (1);           S    S
+                                            CONS. ECONMIST (1)
+
+
+ ICR
+               04/11/2005             3     TASK MANAGER (1);                 S    S
+                                            CONSULTANT (1);
+                                            OPERATIONS ANALYST
+                                            (1)
+
+
+
+(b) Staff:
+
+       Stage of Project Cycle                Actual/Latest Estimate
+                                 No. Staff weeks                 US$ ('000)
+  Identification/Preparation           182.8                         434.6
+  Appraisal/Negotiation                 39.6                           96.5
+  Supervision                          160.3                         503.0
+  ICR                                     5.5                           6.7
+  Total                                387.2                        1040.8
+
+
+
+
+                                            - 37 -
+
+Annex 5. Ratings for Achievement of Objectives/Outputs of Components
+
+(H=High, SU=Substantial, M=Modest, N=Negligible, NA=Not Applicable)
+                                          Rating
+  Macro policies                        H        SU    M       N    NA
+  Sector Policies                       H        SU    M       N    NA
+  Physical                              H        SU    M       N    NA
+  Financial                             H        SU    M       N    NA
+  Institutional Development             H        SU    M       N    NA
+  Environmental                         H        SU    M       N    NA
+
+Social
+           Poverty Reduction            H        SU    M       N    NA
+           Gender                       H        SU    M       N    NA
+           Other (Please specify)       H        SU    M       N    NA
+  Private sector development            H        SU    M       N    NA
+  Public sector management              H        SU    M       N    NA
+  Other (Please specify)                H        SU    M       N    NA
+
+
+
+
+                                                    - 38 -
+
+Annex 6. Ratings of Bank and Borrower Performance
+
+(HS=Highly Satisfactory, S=Satisfactory, U=Unsatisfactory, HU=Highly Unsatisfactory)
+
+
+6.1 Bank performance                           Rating
+
+   Lending                                       HS     S     U       HU
+   Supervision                                   HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+6.2 Borrower performance                       Rating
+
+   Preparation                                   HS     S     U       HU
+   Government implementation performance         HS     S     U       HU
+   Implementation agency performance             HS     S     U       HU
+   Overall                                       HS     S     U       HU
+
+
+
+
+                                                    - 39 -
+
+Annex 7. List of Supporting Documents
+
+
+
+
+                                      - 40 -
+
+Additional Annex 8. Project Accomplishments and Results
+
+
+
+
+                                 Outputs                                Results                                   Benefits
+Meteorological and Climatological (i) Technological modernization of      (i) Substantial increase in the quantity (i) Assistance daily decision-making
+Prognostics                       the various networks of the             and opportunity of available data over   for social and economic activities (e.g.
+                                  Meteorological Observation System,      the state of the atmosphere and the      agricultural and like activities in
+Component 2                       telecommunications and the              hydrological cycle, in particular        general, social events, etc) (ii)
+                                  computational base for the processing   during emergency situation like          Minimization of effects caused by
+                                  of meteorological data. (ii)            hurricanes and droughts. (ii)            extraordinary hydrometeorological
+                                  Improvement of the National Bank        Improvement of alert capabilities, in    phenomena (protection of human
+                                  for Climatological Data (iii)           particular for the National Civil        lives, damage to cultivation zones,
+                                  Improvement in the quality of           Protection System. (iii) Prognostics at  destruction of homes, involuntary
+                                  meteorological prognostics.             the disposal of user and general public  displacement, economic loss, etc.) (iii)
+                                                                          through SMN's website, with more         Contribute elements for the integrated
+                                                                          than 2.2 million users in 2004. (iv)     management of water resources.
+                                                                          Daily knowledge of the weather in the
+                                                                          country for everyday use. (v)
+                                                                          Prognostics and alerts for hurricanes,
+                                                                          tropical storms and droughts.
+·Surface water monitoring Flood   (i) Establishment of telemetric         (i) Substantial increase in the          (i) Assist the decision-making process
+Prevention Dam Security           networks in a total of 100              availability and use of                  within the CONAGUA and in other
+                                  hydroclimatologic stations in critical  hydroclimatological information, as      constituencies and other users, for: a)
+Components 2 and 3                zones (ii) Rehabilitation and           well as information for riversheds,      planning, design and operation of
+                                  continuous modernization of             and dike water levels through the        reservoirs and hydraulic projects, and
+                                  conventional climatological and         SIH; (ii)Prompt transmission of          of hydrologic forecasting in priority
+                                  hydrological stations (iii)             hydroclimatological information to       watersheds (Bravo, Fuerte, Yaqui and
+                                  Establishment of the Hydrological       the central headquarters of the          Panuco rivers), b) investment
+                                  Information System (SIH)                GASIR through the internet, the SIH;     optimization and reduction of impacts
+                                  (iv)Redesign of the national            (iii) Availability of information for    due to damage from extreme events;
+                                  hydroclimatological network that        sediment removal in pilot riversheds;    (ii) Contribute elements for the
+                                  covers 70% of the national territory    (iv) Daily hydrologic prognostics in     integrated and sustainable
+                                  (v) Modernization of the sediment       prognostics centers in the cities of     management of water resources.
+                                  monitoring through the establishment    Monterrey, NL; Hermosillo, Son; Cd
+                                  of a pilot program (vi) Establishment   Victoria, Tamps; y Torreón, Coah;
+                                  of the River Prognostic System of the   (v) Decentralized program, with
+                                  CONAGUA (SPRCONAGUA) in                 regional participation, for the
+                                  four priority watersheds (vii)          realization of follow-up activities
+                                  Establishment of the National Dam       related with dam security; (vi)
+                                  Security Program (PNSP) (viii)          Registry of dam and report on dam
+                                  Establishment of the National Dam       inspections
+                                  Registry (RNP) / Dam Inventory
+Evaluation and Management of      (i) Studies and aquifer analysis        (i)Publication of the average annual     (i) Assistance in the decision-making
+Groundwater Resources             covering 24 of the 144 most             availability for selected priority       process in the administration and
+                                  important aquifers in Mexico; (ii)      aquifers; (ii) 204 priority aquifers     management of groundwater (political
+Components 2 and 3                Reactivation of piecemetric networks    count with upgraded and available        definitions, development of
+                                  in the most important aquifers, an the  technical documentation; (iii)           stabilization planning, conservation
+                                  installation of automatic monitors of   Complete and reliable knowledge of       and sustainable exploitation,
+                                  water levels and hydraulic              geo-hydrological variables; (iv) Real    transparency in the availability of
+                                  conductivity; (iii) Development of the  evotranspiration estimation and of net   information about the situation of
+                                  Geographic Information System for       volume extraction of underground         every aquifer, avoid unsustainable
+                                  the Management of Underground           waters with the SEBAL methodology;       exploitation of groundwater, facilitate
+                                  Waters (SIGMAS); (iv) Introduction      (v) Application of technologies for the  expedited attention to requests for new
+                                  of the SEBAL method, to validate the    increase of underground water            water sources; (ii) Contribute
+                                  use of certain technologies of remote   recharge and control of contamination    elements for the integrated and
+                                  perception, developed as an             through saline intrusion of aquifers in  sustainable management of water
+                                  instrument to study hydrogeological     costal zones.                            resources.
+                                  problems; (v) Development of
+                                  projects for the plotting of
+                                  underground waters.
+Water Quality Monitoring          (i) Complete redesign and validation    (i) Availability of useful data about    (i)Assist the decision-making process
+                                  of water quality monitoring networks;   the condition and tendencies in the      within the CONAGUA and other
+Component 2                       (ii) Establishment of the National      quality of Mexican water resources;      constituencies for the management of
+
+
+
+
+                                                                 - 41 -
+
+                                 Reference Laboratory (LNR); (iii)         (ii) Assurance in the reliability of all  water quality (risk minimization and
+                                 Eight accredited regional laboratories    nationally-produced data on water         costs for the use/consumption of
+                                 to fulfill the requisites of the Norm for quality; (iii) Establishment,             contaminated water; water treatment
+                                 metrology; (iv) Development of the        promulgation and application of           planning for streams and bodies of
+                                 SNICA to improve the preparation of       water quality standards toward the        water), (ii) Contribute elements for the
+                                 the relevant information of water         improvement of supply.                    sustainable and integrated
+                                 quality.                                                                            management of water resources.
+
+
+Water Rights                    (i) Consolidation of the Public Registry   (i) Regularization of a large extent of   (i) Legal certainty for users of
+                                of Waters (REPDA) that is required by      the universe of users of water sources    national water and inherent assets
+Component 4                     the LAN, in combination with the           and of discharges from residual           (assistance in the decision-making of
+                                management of the legal                    waters, through the emission of the       users in terms of their investments);
+                                documentation of assistance to             corresponding title of ownership, and     (ii) Transparency in the
+                                concession and permits, (ii) Operation     its registry in the REPDA; (ii)           administration of water rights; (iii)
+                                of the SIAA; (iii) Gradual compliance      Attention to the most efficient users;    Support in decision-making in the
+                                with the norms relative to the controlled  (iii) Operation of a more efficient and   assignment and planning in terms of
+                                use of volumes of water from               modern rights registry system; (iv)       the management of water resources
+                                concessions and to the quality of          Availability of a platform to manage      and contamination control; (iv)
+                                discharges, product of inspection visits   a adequate registry and control of        Consolidate a base for the proper
+                                and fiscalization; (iv) Increase in the    users through a uniform and               operation of the market and water
+                                collection of rights that must be paid by  homogeneous data model; (v)               banks; (v) Contribute elements toward
+                                responsible stakeholders of concessions    Compliance with the LAN in what is        the integrated and sustainable
+                                and permits.                               relevant with the implementation of       management of water resources.
+                                                                           actions set to correct and reduce
+                                                                           contamination through discharges of
+                                                                           residual waters y the payment of
+                                                                           rights and fines caused by infractions;
+                                                                           (vi) Integral use of generated
+                                                                           information from the central, regional
+                                                                           and state offices of the SGAA.
+Water Basin Committees           (i) Development of technical              (i) The CC and auxiliary bodies           (i) Increased participation of the civil
+                                 assistance, capacity-building,            (COTAS and other assistance organs)       society and governmental authorities
+Component 5                      equipment supply and specific studies     operate with the support of the           in the decision-making process of
+                                 for the establishment and                 Regional and State Management             water management; (ii) Assistance
+                                 consolidation of the CC and COTAS         Offices; (ii) Strengthening of the        over the decentralization of water
+                                 in the 13 administrative regions of the   conceptual framework of water             management; (iii) Increased
+                                 CAN; (ii) Development of capacities       management by hydrographic                confidence of users for water
+                                 at the levels of the different            watershed; (iii) Availability of plans    management; (iv) Contribute elements
+                                 stakeholders of water, through the        and work programs, where activities       to the integrated and sustainable
+                                 realization of events in each CC and      and tasks can be gathered and             management of water resources.
+                                 two national events of CC; (iii) 15 CC    complied by each Council in the
+                                 have already development their            following years, and that respond to
+                                 "management instruments"; (iv)            the uncertainties and necessities of
+                                 Development of meetings for all CC        every watershed.
+                                 and their auxiliary organs, with ample
+                                 social participation.
+National and Regional Planning   Elaboration of (i) Master Regional        (i) Count with a general vision of        ((i) Strengthening of the regional and
+                                 Plans (MRP) for each of the 13            water resources and of the related        central planning process of water
+Component 5                      Regions with a general vision until de    national and regional levels; (ii)        resources; (ii) Increase the access to
+                                 year 2025; (ii) National Development      Establishment of the necessary            information to users and general
+                                 Plan 2001-2006 (PND); (iii) National      projects to satisfy the defined criteria  public over the sustainable planning
+                                 Hydraulic Program (PNH)                   for the three scenarios, along with the   of water resources; (iii) Contribute
+                                 2001-2006 and its evaluation for the      priorities implicit in the                elements for the integrated and
+                                 medium-term; (iv) the third edition of    implementation process; (iii)             sustainable management of water
+                                 "Unified System of Basic Water            Availability of statistic and basic       resources.
+                                 Information" (SUIBA); (vi)                cartographic information, as well as
+                                 Strengthening and broadening of           information for socio-economic
+                                 System for Geographic Information of      topics, land use, water use, etc. in the
+                                 Water (SIGA).                             planning process; (iv) Panorama for a
+                                                                           sustainable future of water resources
+                                                                           until the year 2025, as well as
+                                                                           scenarios, strategies and action plan
+                                                                           for the period of 2001-2006; (v)
+                                                                           Regional goals for the period for
+                                                                           2002-2006 and necessary project
+                                                                           identification with the priorities
+                                                                           implicit in the implementation
+                                                                           process.
+Sustainable Management of        (i) Management strategies and action      (i) Sensibilization and construction of   (i) Support the reduction in the
+Groundwater Resources            plans in pilot areas that include the     consensus and establishment of            unsustainable exploitation of aquifers
+
+
+
+                                                                  - 42 -
+
+                                Aguascalientes Valley (Ags), the        contacts, details action plans and       and the stabilization of extractions;
+Component 6                     Bajío (Gto), the Centro and Sur de      mechanisms to initiate the               (ii) Contribute to the guarantee of
+                                Querétaro regions (Oro), the            instrumentation of pilot areas; (ii)     sustainable use of underground water
+                                Hermosillo Coast and Cuenca del Río     Availability of aquifer management       resources, from the public and private
+                                Sonora (Son) and Central San Luis       policies and action plans for            sector, urban and industrial, as well as
+                                Potosi region (SLP); (ii) Technical     overly-exploited aquifers; (iii)         the agriculture sector; (iii) Assist the
+                                assistance to strengthen the project    Modernization projects in the            rationalization over the use of water
+                                development; (iii) Establishment of     irrigation sector and strategies in the  based on its valuation; (iv) Contribute
+                                pilot farms for plasticulture.          management and actions plans in five     elements for the integrated and
+                                                                        pilot areas; in three of them its        sustainable water management.
+                                                                        implementation is already being
+                                                                        considered by the corresponding state
+                                                                        governments.
+Institutional development,      (i) Development of actions toward       (i) Technology transfer and increase     (i) Improvement of staff productivity
+technological assistance and    institutional strengthening; (ii)       and strengthening of technical           in daily activities; (ii) Contribute
+capacity-building               Elaboration of reports, manuals and     capacity of CONAGUA and CC staff         elements for the integrated and
+                                technical studies; (iii) Development of and users of national waters; (ii)       sustainable management of water
+Component 1                     capacity-building workshops in the      Technological assistance of              resources.
+                                different components of PROMMA;         International character for
+                                (iv) Execution of numerous activities   CONAGUA staff.
+                                in technical assistance of national and
+                                international character; (v)
+                                Establishment of special covenants of
+                                technical assistance.
+
+
+Information Systems and         Policy definition and establishment of  (i) Establishment of modern              (i) Increasingly agile, opportune and
+Telecommunications              computational and telecommunication     information infrastructure (more than    reliable decision-making and
+                                networks of the CONAGUA in its          9,000 network points in the              execution of action; (ii) Contribute
+Component 5                     central, regional and state offices.    CONAGUA); (ii) Integration of            elements for the integrated and
+                                                                        information systems; (iii)               sustainable management of water
+                                                                        optimization of corporate information    resources.
+                                                                        and telecommunication services; (iv)
+                                                                        Monitoring of increase demand for
+                                                                        information and data, as well as the
+                                                                        flow, process and storage of
+                                                                        information for technical, regional
+                                                                        and administrative sectors of the
+                                                                        CONAGUA, as well as for the variety
+                                                                        of users
+
+
+
+
+                                                                - 43 -
+
+Additional Annex 9. Comments from CONAGUA
+
+
+
+
+                                     - 44 -
+
+- 45 -
+
+- 46 -
+
+- 47 -
+
+- 48 -
+
+- 49 -
+
+- 50 -
+
+- 51 -
+
+- 52 -
+
+- 53 -
+
+- 54 -
+
+- 55 -
+
+- 56 -
+
+- 57 -
+

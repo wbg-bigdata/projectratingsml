@@ -1,0 +1,1010 @@
+﻿                                         80121
+Report No. 62
+
+
+South Asia Human Development Sector
+
+(GXFDWLRQDO$WWDLQPHQWLQ$IJKDQLVWDQ
+$Q(FRQRPLF$QDO\VLV
+
+July 2013
+
+
+
+
+Discussion Paper Series
+Report No. 62
+
+
+South Asia Region
+Human Development Unit
+
+
+
+
+EDUCATIONAL ATTAINMENT IN AFGHANISTAN:
+        AN ECONOMIC ANALYSIS
+
+
+
+
+                         July 2013
+
+
+
+
+                             i
+                                           TABLE OF CONTENTS
+
+
+Introduction.........................................................................................................................1
+Country Context..................................................................................................................1
+Reviewing the Literature.....................................................................................................5
+Data and Methodology of the Study..................................................................................7
+Results and Findings..........................................................................................................10
+Conclusions........................................................................................................................14
+References..........................................................................................................................16
+
+
+
+
+                                                                  ii
+                     LIST OF FIGURES AND TABLES
+
+Figures
+Figure 1: Gross Enrolment Ratio (GER) for Primary and Secondary Education in Fragile
+States ……………………………………………………………………………………3
+Figure 2: Age-specific Enrollment Rates, Afghanistan 2007/08………………………..4
+Figure 3: Grade-specific Net Completion Rates, Afghanistan 2007/08………………...4
+Figure 4: Trend in Gender Parity Ratios in Enrollment and Net Completion Rates in
+Afghanistan, 2007/08……………………………………………………………………5
+
+Tables
+Table 1: Distribution of Employed Men and Women by Years of Education in Rural and
+Urban Afghanistan, 2007/08……………………………………………………………..2
+Table A.1: Factors Associated With the Probability of Being Enrolled in Primary School
+in Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic Estimation……17
+Table A.2: Factors Associated With the Probability of Being Enrolled In Middle School
+in Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic Estimation……19
+Table A.3: Factors Associated With the Probability of Being Enrolled In High School in
+Urban and Rural Afghanistan 2007/08: Marginal Effects of Logistic Estimation………21
+
+
+
+
+                                          iii
+                AUTHORS
+
+
+
+             Harsha Auturupane
+Lead Education Specialist and Task Team Leader
+               The World Bank
+
+
+
+
+             Ramani Gunatilake
+         Consultant, The World Bank
+        Principal Author of the Report
+
+
+
+
+                Mari Shojo
+             Education Specialist
+              The World Bank
+
+
+
+
+              Roshini Ebenezer
+                 Consultant
+              The World Bank
+
+
+
+
+                      iv
+                           ACKNOWLEDGEMENTS
+
+The team acknowledges with sincere gratitude the assistance of Government of
+Afghanistan counterparts in the preparation of this report as well as several World Bank
+colleagues. From the Government of Afghanistan counterparts, we would like to
+acknowledge in particular, the Ministry of Education and the Ministry of Higher
+Education. From the World Bank, staff of the South Asia Education Department, and the
+World Bank Kabul office provided valuable inputs. Early findings from the report have
+also been presented to the development partners in Afghanistan, such as the Governments
+of France, Germany, and the U.S.A., and multilateral partners such as UNESCO and
+UNICEF, who provided valuable suggestions and inputs.
+
+
+
+
+                                           v
+                                  INTRODUCTION
+
+Afghanistan’s ability to enhance its human capital resources will determine the course of
+the nation’s future economic, human and social development. Recognizing this, the
+Government of Afghanistan is committed to implementing policies aimed at getting
+children, particularly girls, into the education system. This paper aims to inform this
+process by investigating a variety of characteristics of children, such as their households,
+educational facilities, community factors, and spatial variables that are associated with
+education enrollment in urban and rural Afghanistan.
+
+                              COUNTRY CONTEXT
+
+The country has an acute shortage of human capital resources (World Bank, 2013). This
+is evident from the fact that 78 percent of employed Afghans between the ages of 16 and
+60 have not been to school. In 2007/08, 57 per cent of employed men and 86 per cent of
+employed women in urban areas had no schooling (NRVA, 2007/08). The situation in
+rural Afghanistan was much worse: there, nearly three-fourths of employed men, and
+almost all employed women, had not been to school. In the entire population of employed
+Afghans, only 4 per cent had completed primary school, only 2 per cent had completed
+middle school, and only 5 percent counted at least 12 years of schooling.
+
+School enrollment is a key indicator of a country’s progress in developing its human
+capital. As Figure 1 indicates, Afghanistan school enrollment rates are low even in
+comparison to other conflict- affected regions. Figure 2 illustrates the extent of the
+problem as it plots age-specific enrollment rates of boys and girls in 2007/08. Enrollment
+rates for boys range from 15 per cent of 6 year olds to 42 per cent of 18 year olds,
+peaking at 71 per cent in the 11-12 age range. Girls’ enrollment is everywhere lower,
+from 11 per cent of 6 year olds to 17 per cent of 18 year olds, with a peak of 50 per cent
+at 11 years of age. The inverted U-shaped curves of the plots with higher rates in the
+middle of the age-range, likely reflect the movement through the system of the cohort
+enrolled in the ‘significant leap’ of the first two years following reconstruction in
+Afghanistan in 2002 (Miwa, 2005).
+
+
+
+
+                                             1
+ Table 1: Distribution of Employed Men and Women by Years of Education in Rural
+                           and Urban Afghanistan, 2007/08
+
+ Years of                         Urban                                     Rural
+ Education
+                         Men                Women              Men                  Women
+
+          0                 57.0               86.2               73.0                 96.1
+
+          1                 0.3                0.3                    0.2              0.1
+
+          2                 1.0                0.5                    0.9              0.2
+
+          3                 2.7                0.7                    1.9              0.5
+
+          4                 2.9                1.3                    2.1              0.5
+
+          5                 2.7                0.5                    2.2              0.4
+
+          6                 5.5                1.8                    5.0              0.7
+
+          7                 2.8                0.8                    2.0              0.3
+
+          8                 4.2                1.1                    2.5              0.4
+
+          9                 3.2                0.9                    3.0              0.2
+
+         10                 2.3                0.6                    1.2              0.1
+
+         11                 2.0                0.5                    1.0              0.1
+
+         12                 13.4               4.7                    4.9              0.4
+
+     Total (%)             100.0              100.0               100.0               100.0
+
+  Total (numbers)         1,264,377          427,951            3,346,399            2,063,126
+
+Source: Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+
+                                                     2
+ Figure 1: Gross Enrolment Ratio (GER) for Primary and Secondary Education in
+                                 Fragile States
+
+
+
+
+Source: World Bank Education Statistics (2007/2010).
+
+
+There appears to be significant leakage from the system which gathers momentum over
+the school cycle. This is evident in Figure 3 which plots grade-specific net completion
+rates. Only 27 per cent of six year old boys complete that grade, and this figure drops to 6
+per cent at 17 years of age. It is much worse for girls. Only 20 per cent of six year old
+girls complete the grade, while only 2 per cent reach the finishing line at 17 years of age.
+Figure 4 sets out the ratios of gender-specific enrollment and net completion rates. Boys’
+enrollment rates are 1.5 times girls’ enrollment rates at primary and lower secondary
+levels, rising to more than twice the female enrollment rate at the end of the school cycle.
+Gender differentials become even more starkly apparent when we look at the ratios
+between boys’ and girls’ net completion rates.
+
+
+
+
+                                                  3
+                           Figure 2: Age-specific Enrollment Rates, Afghanistan 2007/08
+
+
+                  80
+                  60
+   Percentage %
+
+                  40
+                  20
+                  0
+
+
+
+
+                       6       7     8       9       10       11        12         13       14   15   16   17   18
+
+                                                                       Age
+
+                                                              Boys' net enrolment rate
+                                                              Girls' net enrolment rate
+
+
+Source: Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+                   Figure 3: Grade-specific Net Completion Rates, Afghanistan 2007/08
+                  30
+                  20
+   Percentage %
+
+                  10
+                  0
+
+
+
+
+                       1        2        3       4        5        6           7        8        9    10   11    12
+
+                                                                       Grade
+
+                                                              Boys' net completion rate
+                                                              Girls' net completion rate
+
+
+Source: Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+                                                                   4
+ Figure 4: Trend in Gender Parity Ratios in Enrollment and Net Completion Rates
+                            in Afghanistan, 2007/08
+
+
+
+
+Source: Estimated using NRVA 2007/08 data, individual weights used.
+
+
+This paper aims to investigate the factors underlying these low school enrollment figures
+and is structured as follows. Section 1 reviews previous research in this area. Section 2
+provides a brief description the data and the methodology used in this analysis. In Section
+3 we present the results which are then discussed in Section 4.
+
+                         REVIEWING THE LITERATURE
+
+There are few studies that investigate the factors associated with school enrollment in
+Afghanistan. Some these are econometric analyses (Rashid, 2005; Guimbert et al., 2008;
+and Aturupane, Gunatilaka, Shojo and Ebenezer, 2013) and others are qualitative
+investigations. Hunte , 2006 and Rashid, 2005 used the National Risk and Vulnerability
+Assessment (NRVA) Survey data of 2003 while Guimbert et al., 2008 also used NRVA
+2003 data but combined it with data from the School Census of 2004 and the Public
+Expenditure Tracking Survey of 2004/05. Hunte, 2006 used qualitative methods and the
+material from four case studies (two in in the cities of Kabul and Kandahar and two in
+villages in the provinces of Kabul and Faryab) to explore the complexities surrounding
+the issue of household decision-making about enrollment. In terms of supply-side factors
+affecting school enrollment, these studies suggest that:
+
+ 1)    The availability and quality of schools was found to be an important driver of
+ enrollment and (Guimbert et al., 2008); In fact, among the reasons given for non-
+ enrollment in the NRVA 2003, non-availability of a school accounted for 30 per cent of
+
+
+                                                  5
+cases and the availability of secondary schools was found to have some impact on
+primary enrollment. Proximity was another important factor
+
+2)      The quality of teaching was also found to be important. A high proportion of
+contract teachers reduced the likelihood of enrollment, a higher pass rate in the district
+increased the probability of enrollment and a high proportion of female teachers
+increased the likelihood of enrollment while the proportion of male-only schools had
+little impact. Enrollment was found to be higher for schools not operated by the
+government.
+
+In terms of demand side factors, these studies indicate that:
+
+1)      Age and gender were strongly associated with the probability of being enrolled,
+with children in the age 7 to 11 age group, and boys, more likely to be in school than
+older children and girls (Guimbert et al., 2008). They found that being a boy increases
+the likelihood of going to school by almost 40 per cent.
+
+2)     Size of the household also was a significant factor: children in large households
+had significantly lower probability of enrollment but household expenditure was not
+strongly correlated with enrollment. For example, Hunte, 2006 found that many
+extremely poor households continue to place high expectations on education as a way
+out of poverty and, rather than require their children to work, they send boys (and to a
+lesser degree, girls) to school in the hope of a better future. But she also cautioned that
+while parents may want to educate both sons and daughters, they may be constrained by
+a combination of poverty (which inhibits the enrollment of both boys and girls) and their
+fear of negative social pressure (specifically in relation to girls’ enrollment). As a result,
+some but not all boys in a household may go to school, while girls are not enrolled at all
+or stop going to school with the onset of puberty (Hunte, 2006).
+
+3)    Parents are the primary decisions makers in the enrollment process with input from
+grandparents and the child’s older brother (Hunte, 2006). In general, those households
+which enroll all of their children (boys and girls) in school appear to have comparatively
+more egalitarian relations between members. This is in contrast to another conflict-
+affected society, Somaliland, where the mother’s decision-making was found to be
+highly predictive of girls’ schooling (Viswanathan, 2006).
+
+4)    Disability was negatively associated with enrollment (Guimbert et al., 2008)
+
+5)    Working children were also less likely to go to school. (Guimbert et al., 2008).
+
+6)      The children of literate parents were more likely to go to school and community
+factors were also found to be important. For example, the probability of enrollment was
+lower in the Western region and higher in the Eastern and Southern regions, and Pashto
+speakers were less likely to be enrolled than Dari speakers. (Hunte, 2006) also noted that
+households tend to copy their neighbors’ enrollment decisions.
+
+
+
+                                             6
+7) Insecurity was negatively associated with enrollment as households that experienced
+a security incident were 9 per cent less likely to send their primary aged children to
+school than households which had not, other things being equal (Guimbert et al., 2008).
+But insecurity did not appear to be associated with less likelihood of girls enrolling rather
+than boys. This is contrast to Tajikistan, for instance, where exposure to conflict had a
+large significant negative effect on the enrollment of girls, and little, or no, effect on
+enrollment of boys (Shemyakina, 2011). In post-conflict Mozambique, too, conflict-
+exposure during the first seven years of life was found to be negatively associated with a
+lower probability of enrollment for girls, not boys, and this result was related to the
+choices that the household made during the conflict years (Domingues, 2011). But
+Guimbert et al. (2008) found that in Afghanistan, insecurity did not have a significantly
+negative effect on girls’ secondary enrollment, even though it was associated with
+marginally higher enrollment for the entire sample.
+
+8)      Migration was found to be a factor in qualitative study but not in the econometric
+analysis. Hunte (2006) found that Afghan refugees returning home have greater
+aspirations for their children’s education, having observed the benefits of education in
+Pakistan and Iran. This appears to have been the experience in some other conflict-
+affected countries too, for example in Somaliland (Viswanathan, 2006). But Guimbert et
+al.’s (2008) econometric analysis found migration having little impact on enrollment in
+Afghanistan.
+
+In this paper we investigate use the most recent NRVA household survey (2007) data set
+to investigate the association of these and other factors with the enrollment of girls and
+boys in rural and urban Afghanistan.
+
+              DATA AND METHODOLOGY OF THE STUDY
+
+Data
+
+This analysis is based on data from the National Risk and Vulnerability Assessment
+(NRVA) Survey of 2007/08. This comprehensive household survey collected information
+on demography, consumption expenditure, education, maternal and child health,
+employment, household and community-based infrastructure. The survey instruments
+also included several questions related to certain cultural practices and the respondents’
+perceptions. The sample of 20,576 households was drawn from 2,572 communities in all
+34 provinces of all Afghanistan and was designed to be representative at the province
+level for most key indicators. The survey took place over a 12 month period from
+September 2007 through August 2008 to capture the effects of seasonality unlike its
+predecessors, the NRVAs of 2003 and 2005.
+
+The NRVA 2007/08 includes four key instruments: a men’s questionnaire, a women’s
+questionnaire and two community questionnaires, one for male community leaders and
+the other for female community leaders. While the quality of household-level information
+related to demography, consumption expenditure of households and educational
+attainment of individuals was good, there was a very high non-response rate for several
+                                             7
+key education facilities-related variables at the community level. For example, the
+community questionnaire included questions about the availability of schools by type,
+distance and source of funding, as well as about the number of male and female teachers
+in the community, but the response rate for most of these variables was around 20-30 per
+cent. Hence in looking at supply-side factors, we had to confine ourselves to only a few
+variables. Nevertheless, the survey instrument also included some questions about
+household decision-making concerning enrollment which enabled us to investigate
+econometrically some of the issues raised by Hunte (2006), although parents’ attitudes
+about children’s education have not been elicited in this survey, unlike the NRVA of
+2003 which Guimbert et al. (2008) used. Moreover, the 2007/08 questionnaire also
+included some questions on cultural practices which we used as proxies for the extent to
+which some cultural factors are associated with the probability of enrollment.
+Investigating these influences is particularly important as cultural notions that education
+is ‘unnecessary’ or ‘harmful’ for girls in particular are fairly widely prevalent, and have
+been leveraged by political groups for their own advantage (World Bank, 2005).
+
+Methodology and Variables
+
+The conceptual framework used for the econometric analysis follows Guimbert et al.’s
+(2008) previous analysis in comparing the demand and supply-side factors associated
+children attending school. The model is based on the relationships between school
+enrollment and demand and supply-side factors that have emerged from the theoretical
+and empirical literature as follows:
+                                  E  f  C, H , S , R  .                  (1)
+
+The binary dependent outcome E takes the value one if the individual is enrolled in
+school and zero if he or she is not. C is a vector of child characteristics, H a vector of
+household characteristics, S a vector of school characteristics and R a vector of
+community and spatial characteristics. It should be noted that the model does not address
+the issue of causality and only seeks to identify the variables associated with school
+enrollment.
+
+Equation (1) is a reduced form equation in which some key variables influencing
+enrollment outcomes are absent: for example, school inputs under the parents’ control,
+such as school attendance and purchase of stationery, and other child characteristics that
+may be unobservable. Some of the omitted variables may also be correlated with the error
+term.
+
+While Guimbert et al. (2008) adopt the probit model as their standard specification, with
+logit and linear probability model specifications used for robustness tests, in this paper
+we adopt the logit model as the standard specification. This is because Stata’s estimation
+commands that adjust for sample design do not produce goodness of fit tests, whereas
+Archer and Lemeshow’s (2006) user-written program, svylogitgof.ado, can be deployed
+to perform a F-adjusted mean residual test to measure goodness of fit after fitting a
+logistic regression model to survey data.
+
+
+                                            8
+Primary education in Afghanistan consists of Grades 1-6 from age 7-12, mid or lower
+secondary school consists of Grades 7-9 from age 13-15 and high or senior secondary
+school consists of Grades 10-12 from age 16-18. Hence, equation (1) is estimated over 12
+sub-samples related to enrollment type (primary, mid and high school enrollment of
+children in the relevant age groups), gender and sector of residence (urban or rural). Our
+main variables are as follows:
+
+Child Characteristics
+Among the child characteristics considered, apart from the usual demographic
+characteristics such as age, we were able to include variables denoting two levels of
+disability, mild and severe; whether the child was employed; and, how many hours he or
+she spent on household chores the previous week.
+
+Group Variables
+Of the group of variables denoting household characteristics, we included per capita
+household consumption expenditure which had been adjusted for spatial and temporal
+differences. This was exactly the same data used for the World Bank’s (2010) Poverty
+Status in Afghanistan, and details about how the data was adjusted can be found in that
+report. The impact of conflict was captured by a dummy variable which took one if the
+household had suffered a security-related shock last year. To represent the impact of
+inter-generational schooling, both mother’s and father’s years of education were included
+in the model. To control for the impact of cultural factors, we included dummy variables
+denoting whether the child’s mother was usually accompanied when she left the family
+compound, and whether she wore a burka outside the home. Some aspects of the nature
+of household decision-making about enrollment, highlighted by Hunte (2006) were
+captured by variables that took the value one if the decision about boys’ or girls’
+education was taken by the principal female of the household, or the principal male
+member of the household, who need not necessarily have been the child’s parent. The
+reference category includes consultative decision-making that ranges from including just
+the spouse of the principal male or female member in making the decision, through
+consultation with the child concerned, to consultation with male members of the family
+or the decision being made by non-family members. Matching the data used for the
+construction of the two variables with the child’s own parents’ data would have resulted
+in the loss of too many observations, hence we opted to maintain the representativeness
+of the variable and hence of the sample. It should be noted that other studies that have
+looked at the impact of the nature of household decision-making have expressed the
+variable as a dummy variable that takes one if the mother has sole decision-making
+responsibility rather than sharing decision-making with someone else (for example, see
+Upadhyay and Hindin, 2005 and Viswanathan, 2006). However, given the patriarchal and
+traditional nature of Afghan society, we thought that it would be more interesting to look
+at the extent to which sole decision-making responsibility by both men and women in the
+household was correlated with the enrollment of girls and boys separately. Hence we
+constructed the variables accordingly.
+
+
+
+
+                                            9
+Supply-side variables
+The only variables relating to supply side factors available in the survey at relatively high
+non-missing frequencies were those related to the availability of a boys’ only school,
+girls’ only school, co-educational school and madrassa in the community. Among
+community variables considered, topographic variables were included in the model
+estimated on the rural sample as variation in terrain characteristics were mainly in rural
+areas, the towns locating mainly in plains, and also because terrain has been found to be
+highly correlated with poverty in Afghanistan (World Bank, 2010). We also controlled
+for accessibility and connectivity by including variables on the distance to the nearest
+road, and a dummy variable to indicate whether the road was passable all year. Since the
+World Bank’s (2010) poverty assessment suggested that the level of economic prosperity
+of the community as denoted by the proportion of bad jobs (casual laborer, self-
+employment and family work) and the share of underemployed (working less than 35
+hours a week) among the employed were important correlates of poverty, we included
+these variables in the models to see their impact on enrollment. Finally, we included
+province dummies to capture the effect of regional fixed effects not captured by the other
+spatial variables.
+
+The results of the econometric analysis of the factors associated with primary, mid and
+high school enrollment of girls and boys in rural and urban Afghanistan are presented in
+the next section.
+
+                            RESULTS AND FINDINGS
+
+We will focus here on explaining the results pertaining primary school enrolment in some
+detail. We have discussed middle school and high school results when they differ from
+the results of our primary school analysis.
+
+Factors Associated with Primary Enrollment
+
+Table A.1 sets out the marginal effects of the logistic estimation of factors associated
+with the probability of being enrolled in primary school for children between 6 and 12
+years of age. The first two columns set out the means or proportions of the explanatory
+variables relating to the sub-samples of boys and girls in the sample as a whole, and the
+remaining columns set out the results of the estimation for the urban and rural sub-
+samples. Results of the F-adjusted mean residual test suggests that the four specifications
+explain the variation in the probability of enrollment of the sub-samples quite well.
+The following factors that appear to be most strongly and significantly associated with
+the probability of enrollment: 1) The two age-related variables; 2) The variables related to
+disability; 3) Child labor; 4) Who makes the decisions about children’s education; 5) The
+level of economic prosperity in the community; and 6) Regional variables. Of these
+factors, however, the level of economic prosperity in the community as measured by the
+proportion of bad jobs appears to be the single most important factor as its marginal
+effects in all the equations are much larger than those of any of the others. All of the
+
+
+
+                                             10
+above are demand-side factors and supply side variables, while significant, together
+account for much less of the variation in school enrollment.
+
+There also appear to be important rural and urban differences in the association of these
+key factors with the dependent variable. For example, household per capita expenditure is
+positively correlated with the probability of enrollment but impact is largest and most
+significant in urban areas. On the other hand, the negative impact of child labor is also
+most pronounced in urban areas, and is likely to reflect the opportunity cost of going to
+school in terms of foregone household income. Severe disability appears to constrain
+boys’ access more than girls’ access. Sole decision-making about children’s education by
+the principal female member of the household appears to be more strongly correlated
+with the probability of enrollment than sole decision-making by the principal male
+member. But note that the impact of sole female decision-making is much higher in rural
+areas rather than in urban areas and on girls’ likelihood of participation than boys’
+likelihood.
+
+The regional variables are by and large significant across the board, but there are
+important differences among provinces. Girls and boys in the south, west, and southwest
+regions are less likely to participate in primary education than children in Afghanistan’s
+central region. Those in the southwest region, in particular seem much disadvantaged as
+all the marginal effects are negative, large and significant. However, while children in the
+west central region are more likely to be enrolled than those in the central region, girls in
+the west and the north east appear to have a higher probability of being enrolled than
+boys in the same provinces.
+
+The marginal effects of the age-related variables are note-worthy. Together they tell us
+that the probability of enrollment rises but at a decelerating rate as age rises. This is
+reflected in the inverted U of the plot on enrollment in 2 and confirms that the significant
+leap in enrollment which began with reconstruction has not been sustained.
+We turn next to some of the other variables that appear to be significantly correlated with
+the probability of enrollment although their impacts appear to be relatively smaller. Of
+particular interest is the impact of parental educational attainment on the probability of
+enrollment. These two variables appear to be significantly correlated (at the 1 per cent
+critical level) with the probability of enrollment across all four equations, but note that
+mother’s education always has a bigger impact than the father’s level of education, and
+that it is more for girls’ enrollment rather than boys’ enrollment. Thus, the results show
+that while parental education is important, mother’s education is the more important,
+particularly for girls’ enrollment.
+
+The impacts of cultural factors are also interesting. It appears that the mother usually
+wearing a burka outside the compound is positively correlated with child enrollment
+although only the results for urban boys and rural girls are significant. It is possible that if
+the mother wears a burka she has greater freedom of movement outside the home and is
+able to take her children to school and bring them back herself, which increases their
+chances of enrollment. On the other hand, having to be accompanied by somebody else
+when she leaves the compound is significantly and negatively associated with girls’
+
+
+                                              11
+enrollment in urban areas and positively and significantly associated with girls’
+enrollment rural areas. It is possible that it is more difficult to find people to accompany
+one in busier urban areas hence the mother is not able to accompany her daughters to
+school in urban areas. In contrast, in rural areas, it may be easier to find people to
+accompany oneself, and safer to do so as well. Hence girls’ chances of participating in
+school appear to be greater in rural areas if the mother is always accompanied when she
+leaves the compound.
+
+The impact of an insecurity or violence-related shock on the probability of schooling is
+negative across all four equations, but significant only for rural girls. These results are in
+line with Guimbert et al.’s (2008) findings for Afghanistan in 2003. Although
+Afghanistan is a conflict-affected country, the impact of conflict on the probability of
+children’s education does not appear to be as important as the impact of many other
+variables, although it is likely to have an impact on other variables associated with
+enrollment, for example, by affecting the economic prosperity of communities.
+
+The signs of the accessibility variables in the rural samples are counter-intuitive and hard
+to interpret. The results show that in urban areas, the sign of the marginal effect of the
+variable is as expected with the probability of enrollment declining as distance increases.
+But in rural areas, the probability of enrollment increases as distance from the nearest
+road increases. It is possible that if the model included variables denoting distance from
+the nearest educational facility, we would obtain more meaningful results for the rural
+sample as well. However, the poor quality of the relevant data in the survey precluded our
+including that information in our model as well.
+
+Factors Associated with Enrollment in Middle School
+
+Table A.2 sets out the marginal effects of the logistic regressions which looks at the
+extent to which much the same factors investigated in the analysis of primary education,
+are associated with the probability of children in the relevant age group being enrolled in
+mid or lower secondary school. The four equations on the four subsamples differentiated
+by gender and location appear to explain variation in the dependent variable quite well as
+they all pass the goodness of fit test.
+
+The key factors found to be associated with the probability of primary enrollment also
+appear to be at play in determining the probability of enrollment in mid-school.
+Community-level economic development and regional factors appear all important. The
+average proportion of bad jobs in the community has the largest and most significant,
+negative association with enrollment from among all the explanatory variables. Girls and
+boys in urban and rural areas in the north, west and southwest are significantly less likely
+to be attending mid-school than children in the central region. Children in the south are
+also less likely to be attending mid-school but the results are significant only for rural
+girls. In contrast, both girls and boys in urban and rural areas in the west central region
+are more likely to be attending school than children in the central region, although the
+result for boys in urban areas is not significant. Boys and girls in rural areas in the north
+east, however, are more likely to be attending school than those in the central region.
+
+
+                                             12
+The next most important variable associated with the probability of enrollment is
+disability, as in the primary school enrollment analysis. But here we are on the downward
+slope of the inverted U- shaped curve apparent in Figure2, and the econometric results
+confirm that the probability on enrollment declines as the child’s age increases: the
+leakage from the system begins here. Household per capita expenditure and child
+employment also behave in much the same way. But note that involvement in household
+chores is negatively and significantly associated with the enrollment of rural girls.
+Experiencing a security-related shock the previous year has little significant impact on
+mid-school enrollment and it should be recalled that Guimbert et al. (2008) found much
+the same in relation to secondary school enrollment in 2003. Mother’s years of education
+continues to be more positively correlated with the probability of children’s enrollment in
+mid-school than father’s education other than in the case of rural boys where mother’s
+education has a negative but not statistically significant impact but father’s years of
+education has a positive impact. Sole decision-making power over enrollment by the
+principal male member of the household has a significantly positive effect only on the
+enrollment of boys and girls in rural areas, whereas sole decision-making power by the
+principal female member of the household has a much larger positive impact on
+children’s education, particularly on the enrollment of girls. The availability of
+appropriate schools in the community is also positively and significantly associated with
+the probability of enrollment, but here too, the demand-side factors appear to have greater
+explanatory power in the equation.
+
+Factors Associated with Enrollment in High School
+
+Table A.3 sets out the results of the logistic regression analyses investigating the factors
+associated with the probability of young people between the ages of 16 and 18 attending
+high school. All the equations except the last one pertaining to the enrollment of rural
+girls in high school pass the goodness of fit test.
+
+Here too, the same variables found to be highly correlated with the probability of primary
+and mid-school enrollment, appear significantly correlated with the probability of high
+school enrollment. But there are interesting differences. The impact of employment on
+employment is larger and significant across the board. The negative impact of household
+per capita expenditure on high school enrollment is also much larger, suggesting that the
+opportunity cost of foregone earnings in household income is much higher at this age and
+stage of the education cycle. Exposure to conflict appears to have little impact on the
+probability of high school enrollment.
+
+Sole decision-making over education by the principal male household member is
+correlated significantly only with the enrollment of girls in urban areas. In contrast, sole
+decision-making about education by the principal female member of the household has a
+little less than twice as large an impact, and highly significant in the equations related to
+the probability of enrollment of urban boys and rural girls. Unlike in the case of primary
+and mid-school enrollment, neither of the decision-making variables is significantly
+correlated with boys’ enrollment in rural areas.
+
+
+
+                                             13
+Father’s years of education appear more significantly correlated with the probability of
+boys and girls attending high school in urban areas, and its impact is even greater than
+that of mother’s years of education for urban boys. But the size of the marginal effect of
+mother’s years of education on the probability of girls participating in education, whether
+in rural or urban areas, is much larger. The impacts of variables denoting cultural
+background of household are interesting. The mother having to wear a burka and having
+to be accompanied when outside the compound are significantly and negatively
+correlated with the probability of enrollment of girls in urban areas. It is possible that in
+urban areas, negative social pressure may be preventing girls from participating in school
+after puberty if their cultural background is more traditional, as Hunte (2006) points out.
+But the mother wearing a burka is significantly associated with a greater probability of
+rural girls and urban boys attending high school. It is not immediately clear why this may
+be so.
+
+In comparison with these demand-driven factors, supply-side factors are not significantly
+correlated with the probability of high school enrollment other than in the case of rural
+girls whose likelihood of participation is positively and significantly associated with the
+availability of a girls’ only high school.
+
+Thus the findings of this study, too, confirm those of Guimbert et al. (2008) and Hunte
+(2006) that conclude that demand-side factors appear to be more important in
+Afghanistan.
+
+                                    CONCLUSION
+
+Our results confirm that demand-side factors appear to be more important in Afghanistan.
+In fact this study found that while the availability of appropriate schools is significantly
+correlated with primary and mid-school enrollment, they have a significant impact only
+on the enrollment of rural girls in high school.
+
+In particular, the mix of explanatory variables we have been able to include in our
+models and the results obtained reinforce the observation that, while parents may want to
+educate both sons and daughters, they may be constrained by a combination of poverty
+and their fear of negative social pressure. The analysis in this paper found that economic
+factors such as the economic backwardness of the community families live in, and their
+level of economic welfare as denoted by consumption expenditure were the most
+important correlates of the probability of enrollment. These two factors likely combine
+with the opportunities available for child labor in the community, and so affect the
+opportunity costs of sending children to school. It is apparent that these choices become
+more acute as the child grows older, and his or her income-earning capacity increases.
+
+While children of more educated parents, particularly of better-educated mothers, are
+more likely to go to school, whether they actually do crucially depends on the economic
+situation the household is in. Moreover, while sole decision-making, by either the female
+or male principal member of the household about the education of boys and girls
+increases the chances of enrollment, relative to a more consultative decision-making
+
+                                             14
+process, decision-making solely by the principal female member has a greater impact,
+particularly on the enrollment of girls. Less consultative decision-making such as this,
+either by the principal male or female member of the household, is likely to be closely
+influenced by immediate family circumstances rather than with the opinions of others
+who may not be as preoccupied with the cost constraints, both in terms of parental inputs
+and children’s foregone earnings and help with household chores, perhaps freeing up
+older members to go out to work, that face the household.
+
+Right now, Afghanistan appears to be in a paradoxical situation: while education and
+better human capital needs to power economic growth, incomes need to expand to ease
+the constraints on education enrollment that are currently imposed by economic
+backwardness. To break out of this circle of constraints against enrollment, policy makers
+need to aggressively pursue policies that concentrate on easing the economic costs to
+households of children attending school, while enhancing the supply and quality of the
+facilities provided.
+
+
+
+
+                                           15
+                                REFERENCES
+
+ARCHER, K. J. & LEMESHOW, S. 2006. "Goodness-of-fit test for a logistic regression
+     model fitted using survey sample data". The Stata Journal, 6, 97-105.
+ATURUPANE H., GUNATILAKA R., SHOJO, M. & EBENEZER R., 2013.
+     "Education, Economic Welfare and Subjective Well-Being in Afghanistan,
+     2007/2008". World Bank Working Paper Series. Report No.XXX. The World
+     Bank. Washington DC.
+DOMINGUES, P. 2011. "Civil War Exposure and School Enrolment: Evidence from the
+     Mozambican Civil War". Sorbonne, Network of European Peace Scientists.
+GLEWWE, P. & KREMER, M. 2005. "Schools, Teachers and Education Outcomes in
+     Developing Countries". Policy Paper No. 009. Bureau for Research in Economic
+     Analysis of Development.
+GOVERNMENT OF AFGHANISTAN & INTERNATIONAL AGENCIES 2004.
+     "Securing Afghanistan's Future: Accomplishments and the Strategic Path
+     Forward".
+GUIMBERT, S., MIWA, K. & NGUYEN, D. T. 2008. "Back to School in Afghanistan:
+     Determinants of School Enrollment". Journal of Educational Development, 28,
+     419-434.
+HUNTE, P. 2006. "Looking beyond the school walls: household decision-making and
+     school enrollment in Afghanistan". Briefing Paper. Afghanistan Research and
+     Evaluation Unit. Kabul, Afghanistan.
+MIWA, K. 2005. "Investing in Afghanistan's Future: A Strategy Note on the Education
+     System in Afghanistan". The World Bank.Washington DC.
+RASHID, F. 2005. "Education and gender disparity in Afghanistan". Master Thesis in
+     Development Economics, Williams College, Massachusetts.
+SHEMYAKINA, O. 2011. "The Effect of Armed Conflict on Accumulation of
+     Schooling: Results from Tajikistan". Journal of Development Economics, 95,
+     186-200.
+UPADHYAY, U. D. & HINDIN, M. J. 2005. "Do higher status and more autonomous
+     women have longer birth intervals? Results from Cebu, Philippines". Social
+     Science & Medicine, 60, 2641-55.
+VISWANATHAN, K. 2006. "Factors Affecting School Enrollment in a Post-
+     Repatriation Context: A Study of Household Roles, Attitudes and Forced
+     Migration Processes in Urban Somaliland". PhD Thesis. John Hopkins
+     University.
+WORLD BANK. 2005. "Afghanistan National Reconstruction and Poverty REduction -
+     the Role of Women in Afghanistan's Future". The World Bank. Washington DC.
+WORLD BANK. 2010. "Poverty Status in Afghanistan: A Profile based on National
+     Risk and Vulnerability Assessment (NRVA) 2007/08". The World Bank
+     Washington DC.
+WORLD BANK. 2013. "Higher Education in Afghanistan: An Emerging
+         Mountainscape". The World Bank. Washington DC.
+
+
+
+
+                                        16
+   Table A.1: Factors Associated With the Probability of Being Enrolled in Primary School in Urban and Rural Afghanistan
+                                            2007/08: Marginal Effects of Logistic Estimation
+
+                                                                              Means or proportions        Urban                     Rural
+                                                                               Boys        Girls       Boys         Girls        Boys         Girls
+Child’s characteristics
+Age                                                                             9.43       9.33       0.5040***    0.6103***    0.4221***    0.2392***
+Age squared                                                                     91.94      90.12     -0.0223***   -0.0285***   -0.0183***   -0.0116***
+Child is mildly disabled                                                        0.01       0.01      -0.3923***   -0.3821***     -0.0958      -0.0181
+Child is severely disabled                                                      0.01       0.00      -0.4639***     -0.2739    -0.4142***   -0.2210***
+Child engaged in income-earning activity last week                              0.16       0.09      -0.2833***    -0.1421**   -0.1030***      0.0166
+Hours spent on household chores during previous week                            10.12      11.76       -0.0012    -0.0055***     -0.0006     -0.0017**
+Household, parents, culture
+Household’s per capita expenditure                                              7.22       7.21      0.2037***    0.2151***    0.0335**       0.0205
+Household suffered violence/insecurity-related shock last year                  0.11       0.11       -0.0057      -0.0249      -0.0408      -0.0396*
+Mother’s years of education                                                     0.39       0.38      0.0137***    0.0310***    0.0205**     0.0456***
+Father’s years of education                                                     2.00       2.03      0.0129***    0.0194***    0.0198***    0.0073***
+Mother usually accompanied outside the compound                                 0.82       0.81        0.0104     -0.0707**     -0.0002     0.0451***
+Mother usually wears burka when outside the compound                            0.66       0.65      0.0811***      0.0486       0.0108     0.0387***
+Female head/spouse of male head, has sole decision-making power over boys’
+education                                                                       0.04                 0.1793***                 0.1166***
+Male head/spouse of female head, has sole decision-making power over boys’      0.57                   0.0304                  0.0437***
+education
+Female head/spouse of male head, has sole decision-making power over girls’
+education                                                                                  0.04                   0.2986***                 0.2917***
+Male head/spouse of female head, has sole decision-making power over girls’
+education                                                                                  0.52                   0.1340***                 0.0542***
+Education facilities in community
+Boys’ primary school in community                                               0.26                 0.1176***                 0.0728***
+Girls’ primary school in community                                                         0.24                     0.0531                  0.1185***
+
+
+
+                                                                                 17
+                                                                                        Means or proportions                  Urban                                 Rural
+                                                                                         Boys        Girls                 Boys               Girls              Boys               Girls
+Co-educational primary school in community                                                0.15       0.16                0.0671**            0.0330           0.0615***          0.0713***
+Community and infrastructure variables
+Valley                                                                                                                                                         -0.0189           0.1171***
+Valley and hills                                                                                                                                             -0.0442***            0.0139
+Hills                                                                                                                                                          -0.0055             0.0111
+Distance in km to nearest road                                                              2.53           2.60         -0.0069***         -0.0111**          0.0008**           0.0013***
+Road is passable all year                                                                   0.72           0.72           -0.0453            0.0745            0.0081             -0.0100
+Average proportion of bad jobs in the community                                             0.89           0.89         -0.5020***        -0.6013***         -0.7330***         -0.6649***
+Average proportion of underemployed persons in community                                    0.31           0.31           0.0812            -0.1084            0.0488            0.0593**
+Regional variables
+East                                                                                        0.12           0.12         -0.1578***          -0.0596           -0.0682**         0.1481***
+Northeast                                                                                   0.15           0.16            0.0525          0.1503***          -0.0624**          0.2577***
+North                                                                                       0.11           0.11          -0.1175**           0.0083          -0.1952***          0.0626**
+West                                                                                        0.09           0.10         -0.1558***        0.1868***          -0.2130***          0.0979***
+Southwest                                                                                   0.11           0.11         -0.2707***        -0.2921***         -0.6590***         -0.3531***
+West central                                                                                0.06           0.07            0.0430           0.1465*             0.0299           0.2951***
+F-adjusted mean residual test (p-value)                                                                                    0.800             0.120              0.720              0.328
+Number of observations                                                                                                     2998               2749               8560               7878
+Notes:
+1. Dependent variable is the probability of being enrolled in primary school. Boys: mean 0.62, standard deviation 0.005. Girls: mean 0.41, standard deviation 0.005
+2. The omitted categories in the dummy variable analyses are: consultative decision-making that ranges from including just the spouse of the principal male or female member in making the
+decision, through consultation with the child concerned, to consultation with male members of the family or the decision being made by non-family members; plain; Central.
+3 ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+4. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and Lemeshow’s user-written Stata program svylogitgof.ado was
+used to generate the test results. See Archer and Lemeshow (2006), ‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+5. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+
+                                                                                             18
+      Table A.2: Factors Associated With the Probability of Being Enrolled In Middle School in Urban and Rural Afghanistan
+                                         2007/08: Marginal Effects of Logistic Estimation
+
+                                                                              Means or proportions              Urban                        Rural
+                                                                               Boys       Girls        Boys              Girls      Boys              Girls
+Child’s characteristics
+Age                                                                            14.04      13.99      -0.0430**      -0.0781***    -0.0554***     -0.0737***
+Child is mildly disabled                                                        0.02       0.01       -0.1534       0.2197**      -0.1822**          -0.0322
+Child is severely disabled                                                      0.01       0.01      -0.6781***     -0.5119***    -0.4422***     -0.1584**
+Child engaged in income-earning activity last week                              0.39       0.22      -0.1957***     -0.1302**     -0.1764***         -0.0012
+Hours spent on household chores during previous week                           13.88      18.56        0.001            -0.0034    -0.0005       -0.0038***
+Household, parents, culture
+Household’s per capita expenditure                                              7.24       7.26      0.1906***      0.1913***     0.0829***           0.0235
+Household suffered violence/insecurity-related shock last year                  0.14       0.10        0.0129           -0.0305    -0.0267           -0.0476
+Mother’s years of education                                                     0.38       0.48       0.0209*       0.0374***      -0.0041           0.0185**
+Father’s years of education                                                     2.13       2.15      0.0124***      0.0166***     0.0271***      0.0115***
+Mother usually accompanied outside the compound                                 0.79       0.79        0.0064           -0.0753     0.0302            0.0394
+Mother usually wears burka when outside the compound                            0.65       0.65      0.1061***          0.0067      0.0156            0.0137
+Female head/spouse of male head, has sole decision-making power over boys’
+education                                                                       0.05                 0.1680***                      0.0792
+Male head/spouse of female head, has sole decision-making power over boys’
+education                                                                       0.56                   0.0423                      0.0487*
+Female head/spouse of male head, has sole decision-making power over girls’
+education                                                                                  0.04                     0.2192***                    0.2502***
+Male head/spouse of female head, has sole decision-making power over girls’
+education                                                                                  0.50                         0.0365                       0.0464**
+Education facilities in community
+Boys’ mid school in community                                                   0.20                 0.1432***                    0.1122***
+
+
+
+                                                                                 19
+                                                                                         Means or proportions                       Urban                                 Rural
+                                                                                          Boys       Girls                  Boys              Girls              Boys              Girls
+Girls’ mid school in community                                                                             0.15                            0.2183***                            0.1231***
+Co-educational primary school in community                                                  0.13           0.16            0.0123            -0.0576          0.1066***         0.3222***
+Community and infrastructure variables
+Valley                                                                                                                                                          0.0065          0.1561***
+Hills                                                                                                                                                          -0.2025*            0.0166
+Distance in km to nearest road                                                              2.02           2.30          -0.0315**         -0.0623**           -0.0003             0.0012
+Road is passable all year                                                                   0.73           0.72            0.0254            0.0913             0.0315            -0.0375
+Average proportion of bad jobs in the community                                             0.89           0.87         -0.3204***         -0.5015***        -0.8310***         -0.6027***
+Average proportion of underemployed persons in community                                    0.32           0.29            0.0363            -0.0308          0.1655***            0.018
+Regional variables
+South                                                                                       0.11           0.10           -0.0863            0.1501            -0.0633          -0.1001***
+Northeast                                                                                   0.14           0.17            0.0644          0.1866***           -0.0736          0.1886***
+North                                                                                       0.12           0.13         -0.2048***         0.1655***         -0.1747***           -0.0423
+West                                                                                        0.10           0.10           -0.1298*         0.2391***         -0.2653***           0.0978**
+Southwest                                                                                   0.11           0.08         -0.2554***         -0.4674***        -0.6691***         -0.2666***
+West central                                                                                0.05           0.06            0.0071          0.2716***          0.1373***         0.2464***
+F-adjusted mean residual test (p-value)                                                                                     0.927             0.265              0.683             0.696
+Number of observations                                                                                                      1292              1204               3169               2755
+Notes:
+1. Dependent variable is the probability of being enrolled in middle school. Boys: mean 0.63, standard deviation 0.008. Girls: mean 0.39, standard deviation 0.008
+2. The omitted categories in the dummy variable analyses are: consultative decision-making that ranges from including just the spouse of the principal male or female member in making the
+decision, through consultation with the child concerned, to consultation with male members of the family or the decision being made by non-family members; plain; Central.
+3 ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+4. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and Lemeshow’s user-written Stata program svylogitgof.ado was
+used to generate the test results. See Archer and Lemeshow (2006), ‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+5. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+
+                                                                                             20
+      Table A.3: Factors Associated With the Probability of Being Enrolled In High School in Urban and Rural Afghanistan
+                                             2007/08: Marginal Effects of Logistic Estimation
+
+                                                                       Means or proportions       Urban                      Rural
+                                                                        Boys        Girls       Boys         Girls        Boys         Girls
+Child’s characteristics
+Age                                                                      17.05      16.93     -0.0852***   -0.1183***   -0.1019***   -0.0377***
+Mildly disabled                                                          0.02       0.01       -0.1483       0.0498     -0.2119**     -0.0193
+Severely disabled                                                        0.01       0.01      -0.5120***    -0.2504     -0.4532***   -0.0939***
+Employed                                                                 0.58       0.30      -0.4557***   -0.2549***   -0.4238***   -0.0583***
+Household, parents, culture
+Household’s per capita consumption expenditure                           7.29       7.31      0.2404***    0.2605***    0.0857***      0.0329
+Household suffered violence/insecurity-related shock last year           0.12       0.09        0.0308       0.0183      -0.0264      -0.0454
+Mother’s years of education                                              0.42       0.47       0.0160*      0.0177*       0.0077     0.0217***
+Father’s years of education                                              2.12       2.52      0.0201***    0.0148***    0.0147***    0.0081***
+Mother usually accompanied outside the compound                          0.76       0.77        0.0180     -0.1598***   0.0747**      -0.0109
+Mother usually wears burka when outside the compound                     0.63       0.63      0.1650***    -0.1269**      0.0088     0.0407**
+Female head/spouse of male head, has sole decision-making power over
+boys’ education                                                          0.05                 0.2659***                   0.0488
+Male head/spouse of female head, has sole decision-making power over
+boys’ education                                                          0.57                   0.0368                    0.0362
+Female head/spouse of male head, has sole decision-making power over
+girls’ education                                                                    0.04                   0.3321***                 0.1812**
+Male head/spouse of female head, has sole decision-making power over
+girls’ education                                                                    0.52                   0.1893***                   0.0096
+Education facilities in community
+Boys’ high school in community                                           0.23                   0.0107                   -0.0204
+Girls’ high school in community                                                     0.30                    -0.0526                  0.0773***
+                                                                                Means or proportions                 Urban                                  Rural
+                                                                                 Boys        Girls                 Boys               Girls              Boys               Girls
+Madrassa in community                                                               0.12           0.12           -0.0670            -0.0619            -0.0089            0.0485
+Community and infrastructure variables
+Valley                                                                                                                                                  0.0190           0.1242***
+Valley and hills                                                                                                                                        -0.0233            0.0155
+Hills                                                                                                                                                   -0.0432            0.1463
+Distance in km to nearest road                                                      1.98           2.27         -0.0134***           -0.007            0.0016*             0.0001
+Road is passable all year                                                           0.72           0.75           0.0318             0.0280             0.0297            -0.0272
+Average proportion of bad jobs in the community                                     0.87           0.85         -0.4077***         -0.7410***        -0.7065***         -0.6190***
+Average proportion of underemployed persons in community                            0.31           0.28           0.0866              0.109           0.2012***          0.0873**
+Regional variables
+South                                                                               0.12           0.10          0.1519**            0.0386            -0.0944*          0.1035**
+East                                                                                0.11           0.11           0.0204            0.1714**         -0.1401***            0.0346
+Northeast                                                                           0.16           0.16           0.0858           0.1955***         -0.1702***          0.1499***
+North                                                                               0.13           0.13           -0.0606          0.2677***         -0.2712***             0.054
+West                                                                                0.08           0.10           0.0099           0.2467***         -0.2338***          0.2324***
+Southwest                                                                           0.07           0.03         -0.2010**          -0.2835***        -0.5181***         -0.1260***
+West central                                                                        0.05           0.05           0.1327             0.2157             0.0229           0.2438***
+F-adjusted mean residual test (p-value)                                                                            0.675              0.975              0.420              0.092
+Number of observations                                                                                              1098               879               2576               1768
+Notes:
+1. Dependent variable is the probability of being enrolled in high school. Boys: mean 0.52, standard deviation 0.009. Girls: mean 0.28, standard deviation 0.010.
+2. The omitted categories in the dummy variable analyses are: consultative decision-making that ranges from including just the spouse of the principal male or female member in making the
+decision, through consultation with the child concerned, to consultation with male members of the family or the decision being made by non-family members; plain; Central.
+3 ***, **, and * denote statistical significance at the one per cent, five per cent and ten per cent levels respectively.
+4. The F-adjusted mean residual test measures goodness of fit after fitting a logistic regression model to survey data. Archer and Lemeshow’s user-written Stata program svylogitgof.ado was
+used to generate the test results. See Archer and Lemeshow (2006), ‘Goodness-of-fit test for a logistic regression model fitted using sample survey data’, in Stata Journal, 6 (1), pp. 97-105.
+5. Estimated using NRVA 2007/08 data, individual weights used.
+
+
+
+
+                                                                                             22
+

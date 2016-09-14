@@ -1,0 +1,1742 @@
+Document of
+The World Bank
+Report No. T-7184-UA
+TECHNICAL ANNEX
+TO THE
+MEMORANDUM AND RECOMMENDATION
+OF THE PRESIDENT
+UKRAINE
+TREASURY SYSTEMS PROJECT
+JANUARY 27, 1998
+Poverty Reduction and Economic Management Unit
+Europe and Central Asia Region
+
+
+
+CURRENCY EOUIVALENTS
+(as on June 1997)
+Currency Unit = HR
+1.95 HR =US $1.0
+US$1= 0.51HR
+1993  1994  1995  June 1997
+US l.00=      -     -    -     1.95
+PRINCIPAL ABBREVIATIONS AND ACRONYMS
+CAS         Country Assistance Strategy
+DC          Direct Contracting
+FAD         Fiscal Affairs department
+GFMIS       Government Financial Management Information System
+GFS         Government Finance Statistics
+H/W         Hardware
+IBL         Institutional Building Loan
+IBRD        International Bank for Reconstruction and Development
+ICB         International Competitive Bidding
+IMF         International Monetary Fund
+IS          International Shopping
+IT          Information Technology
+MOF         Ministry of Finance
+NS          National Shopping
+NBU         National Bank of Ukraine
+PC          Personal Computer
+PFM         Public Finance Management
+PHRD        Policy and Human Resources Development Fund
+PIU         Project Implementation Unit
+QCBS        Quality and Cost Based Method of Selection
+RDBMS       Relational Data Base Management System
+RTU         Regional Treasury Units
+S/W         Software
+SOE         Statement of Expenses
+SU          Spending Unit
+SL          Short List
+TLS         Treasury Ledger System
+TSA         Treasury Single Account
+Fiscal Year
+January I - December 31
+Vice President:   Johannes F. Linn, ECAVP
+Country Director:   Paul J. Siegelbaum, ECC 11
+Sector Director:  Pradeep K. Mitra, ECSPE
+Sector Leader:    Sanjay Pradhan, ECSPE
+Team Leader :     Lilia Burunciuc, ECC 11
+Co-Team-Leader:   Ali Hashim, ECSPE
+
+
+
+TABLE OF CONTENTS
+1. COUNTRY AND SECTOR BACKGROUND                                                                          2
+2. SECTOR ISSUES TO BE ADDRESSED BY THE PROJECT                                                           3
+Progress to date                                                                                     4
+3. LESSONS OF EXPERIENCE AND BANK STRATEGY                                                                5
+Lessons Learned                                                                                      5
+Rationale for Bank Involvement                                                                       5
+4, THE PROJECT                                                                                            6
+Objectives                                                                                          6
+Project Description                                                                                 6
+A. Policy Framework and Institutional Reforms                                                     6
+B. Key Cbaracteristics of the Treasury Ledger System Design                                       7
+Items to be Financed                                                                                9
+A. Technical Assistance (base cost US $ 2.62 million)                                            10
+B. Computer Hardware and Software (base cost US $ 21.4 million)                                  12
+C. Training (base cost US $ 0.6 million)                                                         13
+5. IMPLEMENTATION ARRANGEMENTS, PLANS AND SCHEDULES,
+MONITORING AND EVALUATION                                                                         14
+Project Implementation Arrangements                                                                14
+Implementation Strategy & Schedule                                                                 14
+Project Sustainability                                                                             15
+Project Launch, Monitoring and Evaluation                                                          15
+6. PROJECT FINANCING AND COSTS; PROCUREMENT AND DISBURSEMENT
+ARRANGEMENTS                                                                                      17
+Financing and Costs                                                                                17
+Procurement Arrangements and Schedules                                                             19
+Methods other than ICB                                                                           20
+Technical Assistance                                                                             21
+Disbursement and Financing Schedules                                                               23
+Financial Management System                                                                        24
+Special Account                                                                                  24
+Project Audits                                                                                   25
+8. BENEFITS AND RISKS                                                                                   26
+Benefits                                                                                            26
+Critical Assumptions and Risks                                                                      26
+9. AGREEMENTS REACHED                                                                                    28
+
+
+
+LIST OF ANNEXES:
+Annex 1:        Detailed Functionality of the Treasury Ledger System and the Technology Architecture
+Required for Implementation.
+Annex II:       Treasury Systems Project Implementation Schedule.
+Annex III:      Project Performance Monitoring Indicators.
+Annex IV:       Detailed Cost Tables.
+Annex V:        Detailed List of Technical Assistance Requirements.
+
+
+
+GOVERNMENT OF UKRAINE
+Treasury Systems Project
+Loan and Project Summary
+Borrower:                Ukraine
+Implementing Agency:    The Ministry of Finance
+Beneficiaries:           The Ministry of Finance, the Treasury Department
+Poverty:                 Not applicable
+Amount:                  US$ 16.4 million
+Terms:
+The loan would be made in US Dollar at the Bank's standard
+interest rate for LIBOR based single currency loans, with a
+maturity of 20 years including five years of grace.
+Commitment Fee:          0.75 percent on undisbursed credit balances, beginning 60 days
+after signing, less any waiver.
+Financing Plan:          See para. 6.1
+Staff Appraisal Report:    Technical Annex (Report No. T-7184-UA) in Lieu of Appraisal
+Report to supplement Memorandum of the President (Report No. P-
+71 84-UA).
+Project ID Number:       49174
+
+
+
+
+
+
+1. COUNTRY AND SECTOR BACKGROUND
+1.1   Over the last two years, the Government of Ukraine has carried out important reforms
+that have stopped hyper-inflation, provided a stable currency, and led to a recovery in hard
+currency exports. However, unless there is a more fundamental reform of the public sector, the
+success of the reform program in sustaining macroeconomic stability and in reversing the decline
+in output may be jeopardized.
+1.2   One of the main factors which indicates the fragility of the achieved success is the
+unsustainable fiscal situation. For the last few years, the Government has been running up
+arrears and postponing expenditures, caused by the unrealistic budget and by poor expen diture
+management and control. To achieve sustainability, the Government budget has to correspond to
+a realistic assessment of available resources. The preparation of the budget and its execution
+needs central coordination, first, to ensure that the resources are allocated to priorities and
+second, to guarantee that expenditure commitments do not deviate from available revenues. This
+requires strengthening the Ministry of Finance (MOF) and creating a well functioning treasury
+system. It also means setting clear rules for expenditure selection, allocating expenditure
+responsibility and ensuring oversight. All these measures will contribute to a stable and efficient
+system.
+1.3   At present, the Government has developed a reform program to address the issue of fiscal
+sustainability and to improve the management of public resources as well as to address many of
+the existing government-imposed obstacles to business through a proposed Public Resource
+Management Loan. Reforming the public expenditure system and creating a well functioning
+Treasury system is an important element of this program -- the Government realizes its crucial
+importance for the success of the whole reform program. Moreover, the Government has agreed
+with the IMF on a set of reform actions aimed at improving public expenditure management to
+be supported by the stand-by program.
+1.4   The Bank is already active in restructuring the public sector in Ukraine. The IBL, already
+in place, helps to develop a number of key institutions and their associated systems. Three pieces
+of economic and sector work, namely a study of Debt Management, a Public Expenditure
+Review and a Public Investment Review provide the analytical underpinnings for reforms in
+Public Sector aimed at rationalizing taxes and improving tax administration, restructuring the
+budget expenditure management, improving administrative efficiency, and making government
+more responsive to private sector needs.
+1.5   The IMF has also been extensively involved in advising the Government in the areas
+addressed by the project. In particular, assistance is being provided to the Treasury in the
+development of a new budget classification structure, a chart of accounts and the functional
+specifications for a fully functioning treasury system through a resident expert in Ukraine. The
+Government has expressed a strong desire to ensure IMF involvement in the implementation
+phases of its reform program and the IMF would continue to be responsible for advising the
+MOF and Treasury on the substantive aspects of the budget execution, cash management and
+treasury operations, and to assist the Treasury in designing and installing the full treasury system.
+
+
+
+-2-
+2. SECTOR ISSUES TO BE ADDRESSED BY THE PROJECT
+2.1   Previous analyses by the Ukrainian authorities and by the IMF and the World Bank staff
+highlighted significant weaknesses in the budget system and the financial management of
+governnent operations. These have been reported on in previous IMF reports (e.g. Ukraine- A
+Prograrn to set up a Treasury System, IMF/FAD, April 1993). The features of the previous
+system that hindered effective financial management in the central and local governments are
+summarized below.
+2.2  In the process of transformation from a centrally planned to a market economy, the public
+expenditure management system will need to be re-structured and take on new tasks in order to
+be an efficient instrument of economic management. Specifically, past preoccupation with
+compliance with centrally issued directives to fulfill the planned targets is no longer relevant.
+Other major weaknesses in the former public expenditure management system are:
+1)  Diffusion of responsibilities for fiscal matters among a number of different entities
+within the Government in addition to the MOF;
+2)  Inappropriate budget classifications, which do not allow  meaningful budget
+monitoring;
+3)  Inappropriate legal framework for budget preparation, approval, implementation and
+monitoring;
+4)  Lack of reliable, comprehensive and timely accounting information;
+5)  Underdeveloped debt and cash management operations that are not linked to overall
+budget management;
+6)  Dispersion of budget money in many spending units accounts, instead of concentrating
+money in a single treasury account, which makes cash management difficult;
+7)  Lack of macro economic framework needed for formulation of the budget and making
+of revenue and expenditure projections;
+8)  Lack of administrative capacity to adjust the budget in response to changing
+circumstances;
+2.3   The proposed project will address the points 1-6 mentioned above: assist the Government
+to define the functional responsibilities of the Treasury, the Budget and Taxation Departments of
+the MOF, design new budget classification structures to allow meaningful resource allocation
+and monitoring, design a new legal framework to underpin budget execution, design and
+implement a treasury system to centralize payment processing and optimize cash management,
+and provide timely information on the deployment and use of fiscal resources.
+
+
+
+-3 -
+Progress to date
+2.4   The Treasury Department has been established as an organization and has begun taking
+over the budget execution functions formerly carried out by the financing departments of the
+MOF. However, fiscal management accounting still depends on records maintained by the
+National Bank of Ukraine (NBU). Payments are, for a large part, still made directly from the
+spending units' accounts held in banks. Nevertheless, the Government is extremely committed
+to establishing well functioning Treasury to meet the needs of financial administration in a
+market economy. Moreover, difficult fiscal situation is forcing the Government to take actions to
+improvement of expenditure management and control. It is committed to addressing remaining
+systemic problems, such as fiscal reporting which is dependent on records maintained by the
+NBU and payments which are made directly from spending unit accounts held in banks. It has
+set up its own targets for making the Treasury operational -- start performing basic functions (the
+interim system) in 1997 and become fully operational in 2000.
+2.5   Originally, the work on the treasury system had started under the Institution Building
+Loan (IBL) Treasury component, which was canceled in April 1996, due to the lack of progress
+at that stage. However, some operational procedures, operating manuals and directives for the
+new system have been developed under the IBL Treasury component.
+2.6   Over the last twelve months, the Treasury Department has embarked on a project to set
+up an interim computer based system with the assistance of the NBU. This system will cater to
+basic requirements for treasury operations related to financing Government programs and
+processing payments from Government agencies. The Government has started to centralize
+payment processing on a pilot basis from June 1, 1997 for the Kiev University, Ministry of
+Health, and the Chernobyl and the Employment funds, for three Oblasts. Subsequently, the
+scope was increased to include all central Government institutions based in Kiev. The pilot is
+being extended now to cover all Oblasts by end 1997. In addition, a draft of the new Budget
+Management Law has been prepared. Finally, the new Minister of Finance has taken an active
+interest in the project and has set up a formal working group and the Treasury has developed a
+detailed action plan required for project implementation.
+2.7   A separate computer department has also been set up and is currently staffed with about
+20 analysts and programmers at the Treasury headquarters. In addition 2-3 analysts and
+programmers are located at each Oblast Treasury office. To set up the interim system, the
+Treasury has acquired computer hardware and software worth about $6.4 million, financed from
+its own resources.
+2.8   The Government has approached the Bank to finance the development and
+implementation of new systems, processes, procedures and methodologies required for the
+establishment of the fully functional Treasury. The Bank loan would supplement Government's
+own outlays and enable the full implementation of the treasury system. The project will build on
+work already done by the borrower in establishing a Treasury Department and associated
+systems.
+
+
+
+-4-
+3. LESSONS OF EXPERIENCE AND BANK STRATEGY
+Lessons Learned
+3.1   The Bank's experience with the Treasury component under the IBL shows that the
+borrower's commitment and extensive local involvement in designing the project (participatory
+approach) as well as extensive involvement by the Bank's resident mission in the process of
+preparation and supervision, are essential for the success of the project. The Bank's experience
+with similar projects indicates that other important aspects that need to be kept in mind are: (i)
+well defined objectives consistent with the country's absorptive capacity; (ii) thorough preparation
+and accurate assessment of needs; (iii) close monitoring of project preparation actions to be
+undertaken by the borrower and provision of necessary technical assistance; and (iv) rigorous
+supervision to handle the design, procurement and implementation challenges that these projects
+typically present.
+3.2   The project incorporates the above mentioned lessons by: (i) focusing on areas to which
+the Government is currently committed; (ii) building on existing Government efforts in these
+areas; (iii) providing technical assistance to help the borrower to implement the actions required
+for the project preparation and providing financing for skills required for project implementation;
+(iv) proposing a PIU to meet implementation challenges; and (v) anticipating intensive supervision
+requirements and involving the resident mission in Kiev in this process.
+3.3   The Government is very committed to the project. An indication of the Government's
+commitment and ownership is that the project scope and design are based on an action plan and
+cost estimates developed jointly with Treasury officials. Government commitment is also
+confirmed by the intention to make its own contribution to the project of about 37 percent of the
+project cost which includes US$ 6.4 million for hardware and software for the interim budget and
+US$ 3.6 million for duties and taxes.
+Rationale for Bank Involvement
+3.4   The Country Assistance Strategy (CAS) emphasizes the need for restructuring the public
+sector and recasting it in a supportive role essential to the efficient operation of a market
+economy.  The indicators established in the CAS for monitoring progress towards this
+development objective include strengthening economic management institutions. The creation of
+a Treasury Departmern to manage budget execution - including oversight of extra budgetary and
+local budget operations - and implementation of associated systems and procedures, is an essential
+step to meet the needs of financial administration in a market economy. The project will help build
+institutional capacity in Ukraine to deal with public expenditure management issues and assist the
+Government to set up the Treasury in close collaboration with the IMF. The Bank and Fund are
+currently involved in several similar projects in the countries in transition, and over the years, have
+developed valuable expertise in this area that give them a comparative advantage. Bank support
+would thus significantly help the Government to develop an efficient system of public finance.
+This would be in line with the objectives of the CAS (Report No. 15674-UA, June 3, 1996).
+
+
+
+-5-
+4. THE PROJECT
+Objectives
+4.1   The overall objective of the Project is to support ongoing Government efforts to assist the
+Government to design and implement a fully functional, automated treasury system, that would
+serve as an effective instrument for budget execution and cash management.
+Project Description
+4.2   The Government is in the process of implementing several key policy actions to enable the
+Treasury to be set up and function in accordance with international best practices. To support
+this activity, this project will assist the Government in designing and implementing a fully
+functional automated treasury system capable of serving as an effective instrument for budget
+execution and cash management. The proposed project would provide technical assistance,
+computer equipment and software and training to enable the authorities to design, develop, test
+and implement processes, procedures and systems, related regulations and training programs for
+budget execution and treasury operations and payroll management. The project would first assist
+in the design of the systems. The system will then be implemented at a number of pilot sites and,
+after the pilot exercise, replicated across the country.
+4.3   Following is a brief description of the institutional and policy reforms underway, and of
+the information systems and associated technology to be set up for the Treasury under the project.
+A.   Policy Framework and Institutional Reforms
+4.4   The IMF and World Bank have been extensively involved in advising the Government in
+developing policy and institutional reforms to enable the treasury to be set up and function in
+accordance with international best practices. A comprehensive package of public sector reforms
+is being undertaken by the Government and supported by the Bank as part of preparation of the
+proposed Public Resource Management Loan. The proposed Treasury project will complement
+the reforms proposed under the Public Sector Resource Management Loan and will support
+Government efforts to reform the system of public expenditures. In addition, these reforms are
+being supported by the IMF's program. Some of the key actions and policy reforms being
+undertaken are detailed below:
+(i)    Development of a comprehensive Budget Management Law which will provide a
+framework for the proper management of public moneys and property, with specific
+emphasis on: (a) the receipt and custody of public moneys (including banking
+arrangements); (b) public expenditure management (including control processes and
+linkages with appropriations); (c) the accounting system; (d) the role and responsibilities
+of the Treasury and other MOF departments; (e) asset management and control; (f)
+borrowing and investment (specifically the management of the public debt); and (g)
+reporting and audit. The first draft of the law has already been prepared by the MOF, and
+reviewed by the Bank and the IMF, and is currently being discussed in several
+Parliamentary committees.
+
+
+
+-6-
+(ii)   Adoption of a budget classification system consistent with the IMF's Government
+Finance Statistics (GFS) methodology, and final design of a treasury chart of accounts
+embodying this classification system for implementation. The Ministry of Finance already
+issued the new budget classification system on December 3, 1997.
+(iii)  Implementation of a transaction based treasury ledger system embodying the new
+chart of accounts.
+(iv)   Centralization of all Government payments through the Treasury and consolidation
+of bank accounts to a single account at the NBU. The Government started a pilot on June
+1, 1997, to implement central payment processing for the Kiev University, Ministry of
+Health, and the Chernobyl and the Employment funds, for three Oblasts. The pilot will be
+extended to cover all Oblasts by end 1997. Centralized payment processing will be
+progressively extended across the Government during 1998, with 70% of transactions by
+value expected to be processed centrally by June 1998.
+(v)   Reducing reliance on physical movements of cash in the budget revenue collection
+process and implementation of a payroll system that makes direct deposits to employee
+bank accounts, replacing cash payments. It is expected that the government will pilot an
+automated payroll system within the MOF in 1999. This system would then be
+progressively implemented across the Government.
+(vi)   Conducting a functional review of the Treasury Department to first review the
+allocation of functions between the Treasury and Budget Departments of the MOF, and
+Tax Administration by November 1997. Consequently, a comprehensive operational and
+effectiveness review of the Treasury will be completed by end- 1998.
+B.    Key Characteristics of the Treasury Ledger System Design
+4.5.  At a policy level, recommendations related to the scope and functions of the Treasury and
+associated systems and procedures have been developed by the IMF and are based on
+international best practice as adapted for economies in transition. The Treasury Ledger System
+(TLS) proposes a centralized approach to payment processing through the Treasury, rather than a
+decentralized approach, in which the accounting departments of ministries would be directly
+responsible for processing payments for expenditures incurred by their respective agencies. The
+IMF has weighed the advantages and disadvantages of a centralized versus a decentralized system
+in the early 1990s, while designing this system, and believes that the centralized approach is more
+appropriate for Ukraine for the following reasons:
+(a)   Under the current system the Ministry of Finance (MOF) periodically distributes
+funds to spending agency bank accounts, and the spending units directly process payment
+transactions against these accounts. This results in a situation where, on the one hand,
+sizable idle balances can build up in spending unit bank accounts, while the MOF is in
+deficit in overall terms. This, in turn, necessitates additional government borrowing and/
+or causes arrears in payments.
+
+
+
+-7-
+(b)   The MOF cannot exercise any control to ensure that public expenditures incurred
+by spending units were in accordance with budget appropriations.
+(c)   The MOF does not receive timely information on public expenditures or receipts
+from line agencies.
+In view of this, the IMF has recommended implementation of a centralized model in which all
+Government funds would be placed in a TSA at the NBU (Central Bank), spending agency bank
+accounts would be closed, and all payments for spending agencies would be processed by the
+Treasury Department, which would control the TSA at the Central Bank.
+4.6   The proposed system would not, however, undermine spending unit authority and
+responsibility for budget preparation or administrative and financial control of expenditures during
+the budget execution phase. These responsibilities would continue to lie with the spending
+agencies. Thus, the finance departments of spending agencies would continue to be responsible
+for budget preparation and ex- ante financial control (including commitment control) of
+transactions. The accounting departments of these agencies would verify receipts of goods and
+ensure that proposed expenditures are in accordance with budgeted appropriations, prior to
+forwarding payment orders to Treasury for payment. Though a good treasury system cannot
+rectify problems of bad budgeting, the new system would, nevertheless, enable the Treasury to
+ensure that proposed expenditures are in fact in accordance with the budget appropriations, as
+they should be under any well performing fiscal management system. It would also provide the
+MOF a means to exercise control on which payments need to be given priority in a situation in
+which there is a shortage of funds. Since all payments would be processed through Treasury, the
+system would also enable the Treasury to, simultaneously, compile overall information for the
+MOF on public expenditures and receipts. Therefore, in view of the current need for central
+control over expenditures and idle balances in agency accounts, and for up to date information on
+public expenditures and receipts, a centralized system holds clear advantages over a decentralized
+approach.
+4.7   The core functional processes and information flows associated with the system are shown
+schematically in Figure 1. The project envisages implementing systems at the Treasury head
+offices and at each of the Oblast and Rayon branches of the Treasury to process and control
+central government payments in their respective areas. Local government payments are not
+envisaged to be part of the system at this stage. Nevertheless, the implementation of the treasury
+system would not preclude the installation of a similar system for local governments at a later
+date.
+4.8   The TLS would be the core Government Financial Management Information System
+(GFMIS) and would be used by:
+(i)   the Treasury and its regional offices to perform the basic accounting functions and
+to undertake budget implementation;
+(ii)  the Budget Department of the MOF to obtain the status of actual expenditures and
+perform the processes associated with budget preparation and monitoring;
+(iii) the Cash Management Department of Treasury to provide the information it
+requires for cash management and implementation of cash limits;
+
+
+
+Figure 1: Ukraine- Core Government Fiscal Management Processes, Information Systems and Information Flows 
+Treasury will be Responsible for Making Payments. Central Bank Directly responsible for Retail Bankin-g Operations.
+Core Functional Processes                                                          Spending           Ministry of Finance                 GFM Information                        National Bank of Ukraine                       Commercial
+Ministries & SUa                             Treasury          Syatems                                      TSA                                     Banks
+Central Processes
+Deve"lo Maka-cro Economic Framework (with Sectoral Ministry Input)                                            J                                                                        Legend
+.--*    Information Flows
+Bnudge1jt GuidellneS                                                          Bu--- Sdget GuidelinesJ
+J   Agency Involvement in the Process
+Ric-eiv-e B-u dg-et P r-o p osals   W (Mnits-tirie-s  sen d  con- solI 'date-d -propo- s-als  Budget Proposals
+(including SUs) to MOF)                                                                                       ]Budget Preparation system
+Consolidate Bud-get Propo~sals     i-nalize Bud-ge-t                                                          ]T
+-BudijetAppm-p4i I-o-tig-nal-a-ri               r- -r-rBudget-                                BudgetI
+Ministries                                                                                   Appropriitios              Appropriations
+Consolidated Fiscal reports
+Mo-nitor- Overall Budget_Execution --                                                                                                                              rom System
+Central
+Treasury Ledger&
+Casth Management
+--  Expenditure ManagementlControliProcesss ___
+Treasury, Line Ministry Heatd Offices and SUs at the Center)-
+Receive'Cash- Req-uire-m ent Forecas-ts firom Ministries                                           Cash Forecasts/Requirennents! 
+Obtain Expenditure_Figures and Cash Balances from TLS
+Determine Ortly Limits on Commitments ( Enter_In_System and inform Ministries)                   .4Ortlcorrmndment-LnilTits-
+Determine Funds Allocationg to Ministries (Enter in System, Inform Ministries)                         Financial releases                -
+_____ - -                                                               Budget ~~~~~~~~~~~~~~~~~appro
+Ministries Determine Btudget Appropriations and Commitment Limits for Stis                              o      m     ~           J       -4
+Finaniaiil Release  toSAccounts (Enter into System and inform SLIs)                                 FssilRlae oSt)              7
+K;equ-est-foe-E-xoenifdiidFiJ?, -AdmTni-tstaiti~/I-A~p-pvaT-W Bu-dg-IUary Zo-ntrtof--a
+Ministries)                                                                               L
+Co6m-mitm-e-nt-s an-d Verif-ic-ati-o-ns (ofdo-ods Receipt) Transactions                            -commitmentsANefitcations~                                                           National Bank                             Commerciat
+Payment Orders_to make Expenditure-.Payment orders                                                                                                                                        ot Ukraine                                Banks
+Budgetary~ Cnrol at Treasury                                                                                                    1]                                                          TSA)
+Payment transcti1fons agais TS   yTesr   -Paymeni Transactions against T                                                                                                                  ~
+Cre dit to -Commercial Banks of Amounts authorized for credit to Govt. Creditors                                                                                                                        Credit to Suppliers Acc,o.ts]
+Daily Filei of paym ents -r-o-m- T-SA and_Reconcililation by Treasu ry                                                          F~DiyF n ot Payments from TSA 
+Summary of Receipts (Tax and Non Tax) to the TSA  -_ _                                                                           ]                             S mmary of Receipts --Summary of Receipts 
+Detie  Accounso   instries fro-m  ystem                                                             Det-ailed-Accounts-at Mi tne
+Deaaled Sl, Accoun-ts f r onm -Syste                                                      jDetailedSUA Aount                      
+in-fo-rmati-on flows_tfolfrom Subo-rdinate 'Unitt s      -                                                                                         
+Uss
+Regional and District Spending Unit Processes                  -RTUs                                                               Regional                                    Regional                               Branches of
+Req~uest for Ex-pe-n-diture_Admini~strative Appr-ov-al  & Lo-cal_1Bu-dg-etary Cont-rol-                                                        Systems                                  Branches of                              Commercial
+Com6mitmenrt-s and Verifications (of_Goods Receipt) Transactions                           U        CommitmentsNerifications'                  Modules                                      NBUt                                     Banks
+Pa-ymenti O-rders to_ m- a ke_Expenditure                                                              -Payment orders --
+Budigetary Control at Treasury_(RTU)    _------
+Pay-me-n-tt-ra-nsacet-ions against TSA by Treasury - --       --                                                                                         Payment Transactions against TSA,   J
+Creditto Commercial B-anks of Amounts authorized for credit to Go-vt. Creditors                                                                                                                        Crecht to Suppliers AccountsJ
+Weaily- Fil 1-9 of' -paym ents f-rom T-S-A-   --                                                                                 1Daily File of Payments from TSA 
+Summnary of Receipts (Tax and Non Tax) to the TSA                                                                                           ISummary of Receipts                             JSummary of ReceiptsJ
+Detailed Accounts of SUs from System                                                                  b etailed Su Acco.nsot
+
+
+
+-9-
+(iv)  line agencies, to cater to their accounting and financial information needs; and
+(v)   the Government auditing organization to access financial transaction data for
+auditing purposes.
+4.9   In a fully automated accounting system, as it exists in most developed countries and
+several middle income countries, the basic accounting processes are automated and data captured
+only once as an accounting transaction progresses through the system. Such a system, introduced
+along with a modem budget classification system and an appropriate chart of accounts, enables
+expenditures and revenues to be recorded at a very detailed level and related to specific programs
+and projects.  Data recorded at this level can be directly used for program and project
+management. This data is also easily amenable to cross classification in other ways as required for
+financial analyses. In the absence of an automated accounting system, data recording is not at as
+detailed a level. More important, cross classification of data to other schema is very cumbersome
+and therefore is seldom carried out. The introduction of an automated accounting system would
+ensure completeness of data capture (that is no transaction would be processed outside the
+system) and rigorous application of appropriate financial controls to all transactions processed by
+the system.
+4.10  The information contained in the system data bases would provide the MOF and other
+core financial agencies with comprehensive management information related to the country's
+financial resources. In addition, the system would provide useful financial information to the
+ministries and other spending units (in their respective areas) to enable them to better manage
+their work programs.
+4.11  The system will encompass the functional requirements for the budget implementation and
+accounting processes and would cover the appropriation, commitment, funds allocation, and
+payment processes for both the investment and current budgets. The details of the functionality
+of the TLS and of the technology architecture to be used are given in Annex I.
+Items to be Financed
+4.12  A description of the technical assistance, computer hardware and software, and training to
+be financed under the project are given in the following paragraphs.
+
+
+
+-10-
+A.    Technical Assistance (base cost US $ 2.62 million)
+4.13  The IMF has been providing technical assistance to the Treasury in the development of a
+new budget classification structure, a chart of accounts and the functional specifications for a fully
+functioning treasury system through an expert resident in Ukraine and would continue to be
+responsible for advising the MOF/ Treasury on the substantive aspects of the Budget Execution,
+Cash Management and Treasury Operations. For this purpose, the IMF proposes to designate and
+finance experts/ advisors to continue to advise the Government on the functional aspects of
+Treasury operations and to assist the Treasury in the design and installation of the full treasury
+system.
+4.14  The project would supplement this with technical assistance in the functional and technical
+areas as well as for project implementation as described below:
+Functional Aspects:
+4.15  Technical assistance in functional aspects would include:
+(i)    Review of existing budget classifications and coding structures and develop and
+design a revised structure and chart of accounts conforming with the IMF's GFS
+classification methodology and suitable for both budget preparation and implementation.
+(ii)   Developing the legal regulatory and operational framework and develop detailed
+guidelines, procedures, regulations, forms and operating manuals for budget execution
+processes required at all levels of Treasury operations to implement the treasury system
+and for payroll management.
+(iii)   Developing methods to improve forecasting of expenditure requirements and cash
+management.
+(iv)   Developing the fiscal reporting system of Treasury and improve linkages between
+the Treasury fiscal reports and MOF analysis.
+(v)   Developing detailed functional specifications for the treasury ledger system and
+payroll system, including requirements for incorporating necessary expenditure control
+procedures.
+(vi)   Assessing  training  requirements for institutional development, including,
+assessment of the skill levels of Treasury/ MOF staff to operate and manage a modem
+fiscal management system as well as necessary technical skills required for the
+implementation and operation of the new treasury system, and develop and implement a
+training, skills upgrading and recruitment program as may be necessary.
+
+
+
+-11-
+Technical Aspects:
+4.16  In the information systems area, technical assistance would be provided to develop the
+technical design of the TLS and payroll system and implement the systems first at a designated set
+of PILOT sites - the center, one oblast and a few (4-5) rayons and after testing the system in this
+environment, replicate the new system country wide. This would include:
+(i)    Developing the technology architecture for implementing the budget execution
+treasury and payroll systems and specifying the hardware, software and communications
+design, systems software and application software environment (UNIX, RDBMS &
+Application development tools)
+(ii)   Researching and identifying application software for the Treasury and payroll
+systems and determine customization requirements.
+(iii) Specifying the hardware and software requirements and prepare bidding
+documents in accordance with World Bank Procurement Guidelines.
+(iv)   Supervising implementation of the budget execution and treasury operations and
+payroll systems, including:
+v  Technical project coordination and systems integration;
+*  Procurement of hardware and software;
+v Installation and testing of H/W and S/W;
+*  Customization or development (as may be required) of application software
+for budget execution and treasury operations and payroll.
+*  Acquisition, installation and testing of S/W for the treasury system
+A  Developing operational guidelines, security and disaster recovery procedures
+*  Developing procedures and check list for replicating systems at subsequent
+sites.
+(v)   Develop a plan for upgrading the informatics capability of the Treasury to enable it
+to carry out the design, implementation, operation and maintenance of the above systems;
+including:
+*  Specifying an organization structure and training/ skills requirements for this
+facility
+*  Developing a training strategy and plans for the implementation of the systems
+country wide
+*  Developing end user manuals and training materials and documentation
+*  Training end users at Pilot sites
+*  Designing and specifying systems training facilities for the Treasury/MOF
+
+
+
+-12-
+Project Implementation
+4.17  Technical assistance would also be provided to assist the Treasury to administer and
+manage the project and assist with Bank procedures (project monitoring, accounting,
+disbursement). A Project Implementation Unit (PIU) will be established at the Treasury for
+project monitoring, implementation, administration, procurement, and disbursement. The project
+will provide financing for salaries and operating costs of the PIU.
+B.    Computer Hardware and Software (base cost US $ 21.4 million)
+4.18 Details of computer hardware, software, related equipment to be provided under the
+project are summarized below:
+Hardwvare, Systems Software and Application Development Tools, DBMS's.
+Equipment (UNIX servers, work stations, networks, printers, uninterrupted power supply
+[UPS], site preparation), systems software and application development tools for central
+facilities at the Treasury Headquarters, Oblast and selected Rayon treasury offices. Each
+office would receive an appropriately sized UNIX server, a Local Area Network (LAN), a
+RDBMS and application development tools, laser and line printers and windows based
+work stations and modem connections connecting with the overall treasury network.
+Details of equipment to be procured would be determined by the Treasury and Project
+consultants. The project would also provide some computer hardware to supplement the
+hardware procured from Government's own resources, that is required for the ful
+implementation of the interim system.
+Application Software
+Application software will be necessary for treasury systems at center, regional units, and
+spending units and customization, as may be necessary, and application software to
+manage and operate a payroll system for Government employees. This includes cost of
+package software purchase and customization as identified by project consultants. In case
+package software is not available the application software would need to be custom
+developed.
+Miscellaneous
+These include office equipment and training facilities for Treasury, as may be necessary.
+
+
+
+-13-
+C     Training (base cost US $ 0.5 million)
+4.19  Training is recognized to be a crucial element for project implementation. Training
+requirements for the project can be divided into several areas:
+(i)    Training in principles, concepts and methodologies of the subject areas covered by
+the project, namely, budget execution, cash management and treasury operations.
+(ii)   Senior level management training / orientation in the use of computer based
+financial management information systems.
+(iii)  End user training in the use of the computerized information systems to be set up
+under the project. This would include training for line agency finance staff and for
+Government auditors.
+(iv)   Technical training in the use of the specific tools to be employed for developing
+and implementing the information systems under the project. e.g. the chosen RDBMS, the
+operating system-UNIX, application development and computer assisted software
+engineering (CASE) tools, etc.
+(v)   More general training related to the design and development of information
+systems.
+(vi)   Training in electronic data processing (EDP) project management and the
+provision of end user support to staff who will use the systems.
+4.20  The project would provide financing for:
+(i)    Technical assistance for a training needs analysis and development of an overall
+training strategy and a schedule for training users in the light of the results of the training
+needs analysis; the design and specification of in-house training facilities and/ or
+identification of suitable training courses within the country and abroad; the development
+and acquisition of training materials, technical documentation and end user manuals.
+(ii)   Training courses to be arranged at site, or in local or foreign institutes to cover the
+above mentioned areas. Staff to be trained under the project would include the MOF, Line
+Agency, Government Auditors, and Treasury.
+(iii)   The project would also finance study assignments for government officials in the
+budget execution and treasury operations areas to enable them to benefit from the
+experiences of other countries in these areas. This would include financing of courses and
+study tours on specific topics.
+
+
+
+-14-
+5. IMPLEMENTATION ARRANGEMENTS, PLANS AND
+SCHEDULES, MONITORING AND EVALUATION
+Project Implementation Arrangements
+5.1   Project Implementation Arrangements are summarized below:
+(a) Implementation Period: Four Years; FY1998-FY2001
+(b) Executing Agencies: The Treasury would admninister funds under the project
+(c) Project Oversight: An Inter-Agency Coordinating Committee chaired by the Head of
+the Treasury has been set up by a resolution of the Cabinet of Ministers on April 3, 1997
+to oversee overall implementation of the project and advise on policy issues.  The
+committee includes representatives of the MOF, the NBU, the National Agency for
+Reconstruction and Development, the Ministry of Economy and the Treasury.
+(d) Project Coordination: The working group that was part of project preparation will
+now form part of project steering committee during project implementation.
+(e) Project Accounting, Reporting, Monitoring, and Evaluation and Auditing: (i) A
+Project Implementation Unit (PrU) in the Treasury would be responsible or activities
+related to project monitoring, administration, accounting, disbursement, procurement and
+periodic reporting to the Bank; (ii) Project Accounts and the Special Account will be
+audited in accordance with the Guidelines for Financial Reporting and Auditing of Projects
+Financed by the World Bank (March 1982); (iii) World Bank supervision missions.
+Implementation Strategy & Schedule
+5.2   The various steps involved in the implementation of this new system are detailed in the
+accompanying project implementation schedule attached as Annex II. The schedule describes the
+main tasks involved in the implementation of the full treasury system and gives the estimated start
+and completion dates for these tasks.
+5.3   The implementation strategy adopted for the project was arrived at after an analysis of
+possible alternatives in order to achieve a cost effective solution to the Government's needs for a
+set of efficient and effective tools for public expenditure management. The following aspects are
+particularly important:
+(a) Technology Platform: The choice of an OPEN and scaleable systems technological
+platform that is proposed for the project was arrived at after an analysis of other
+technological options, since it strikes a balance between large main-frame systems, which
+would be cumbersome and expensive and other PC based options ( e.g. stand- alone PCs)
+that could be under-powered and not scaleable to sites with a large number of
+transactions;
+
+
+
+-15-
+(b) Applications Software Package Selection and Systems Pilot: The Project
+Implementation Schedule shows that the project would first look at feasible alternatives
+for an appropriate technological platform and an off the shelf software package that could
+possibly meet the Treasury requirements, after customization. This would be followed by
+acquiring the application software for a few pilot sites. This software would be tested on
+the computers acquired for the interim system. After the pilot system has been
+implemented and the Treasury has confirmed the fit between the new system and treasury
+requirements, it would be replicated across the remaining sites. The application software
+would be acquired in a single contract through a process of International Competitive
+Bidding (ICB). The delivery schedule for the contract would specify, first, a delivery of a
+few licenses for the pilot phase only. After a successful pilot implementation, additional
+copies would be acquired under the same contract for the replication phase. Custom
+development of application software would be undertaken only if no off the shelf
+application software package is found that could possibly be used for the Treasury system
+after suitable customization. Additional hardware required for the final replication would
+be procured after the Pilot exercise has been successfully completed.
+Project Sustainability
+5.4   The sustainability of the project would largely depend upon the commitment by the
+authorities to the project objectives. Work under this project builds upon local efforts already
+underway, which give a strong indication of Government commitment. Another critical condition
+for project sustainability is that the Treasury be able to assimilate and retain the transfer of
+technical skills. The project would build on existing efforts and supplement technical skills as
+required. To institutionalize the technological changes smoothly the project would recruit foreign
+and local specialists and structure training programs for staff. By developing long term training
+strategies the project would ensure sustained institutional capacity. Participation of the local
+private sector in systems development and implementation activities proposed in the project
+would also contribute to sustainability counter balancing attrition tendencies.
+Project Launch, Monitoring and Evaluation
+5.5    A set of project monitoring and performance indicators have been developed (Annex III)
+to measure the inputs, key process milestones, track outputs and assess the impact of the project
+inputs on the project's major development objectives. These will be used as a basis for monitoring
+and evaluating the project. A project launch workshop would be held in Spring 1998. The project
+launch workshop would include a session on procurement.  A mid-term review to assess
+performance achieved and to review the appropriateness and continuing relevance of the project
+design. In addition, more concise progress reports would be provided to the Bank on a quarterly
+basis by the Treasury describing the status of implementation and procurement activities.
+5.6   Reporting and Annual Reviews. The Treasury will prepare semi-annual descriptive and
+financial reports on each project component, objective and activity (beginning from the date of
+Loan Effectiveness). The reports will describe: (i) current status; (ii) deviations, if any, from the
+implementation plan; and (iii) the reasons for deviations and corrective actions being taken.
+Reporting and Bank supervision will focus on reviews of. (i) the emerging policy framework;
+
+
+
+-16-
+(ii) the effectiveness of component and sub-component activities and their consistency with
+agreements reached at negotiations; (iii) performance of the implementing groups and institutions;
+(iv) emerging needs for adjustments to project parameters; and (v) possible follow-up operations
+which could be supported by the Bank. Bank supervision will be based on the quarterly and semi-
+annual progress reports and the annual evaluation of project activities by the Treasury. This will
+be supplemented by a review of project expenditures and availability of financial resources, in
+addition to substantive discussions with technical assistance groups implementing or assisting in
+the implementation of various components, and discussions with responsible authorities. A mid-
+term review of the project is planned for Spring 2000.
+5.7   In view of the significant complexity and difficulty of technical assistance projects of this
+sort, Bank staff and consultant supervision inputs are expected to be high and atypical, as
+compared to the average, but comparable to other similar projects. It is estimated that the
+requirements wili be in the range of 16-20 staff weeks per year. Supervision would include: (a)
+general portfolio management - review of procurement and consultant contracting documents,
+progress reports and correspondence; (b) formal reviews- participation in the midterm and other
+reviews; and (c) supervision missions. At least two supervision missions would be necessary
+annually each for a period of two weeks on average. Table I shows the supervision plan.
+Table 1: Supervision Plan
+Timing        Staff Weeks         Staffing
+FY98           12 weeks          Team Leader (4 weeks)
+Information Systems Specialist (4 weeks)
+PFM Specialist (4 weeks)
+FY99            20 weeks          Team Leader (8 weeks)
+Information Systems Specialist (6 weeks)
+PFM Specialist (6 weeks)
+FY2000          16 weeks          Team Leader (6 weeks)
+Information Systems Specialist (6 weeks)
+PFM Specialist (4 weeks)
+FY 2001         10 weeks          Team Leader (4 weeks)
+Information Systems Specialist (4 weeks)
+PFM Specialist (2 weeks)
+
+
+
+-17-
+6. PROJECT FINANCING, COSTS & PROCUREMENT
+AND DISBURSEMENT ARRANGEMENTS
+Financing and Costs
+6.1   The proposed Bank loan of US$ 16.4 million equivalent will finance 70 percent of the
+total project investment costs and 70.2 percent of the foreign exchange costs. The Government
+will finance 37 percent of project investment costs. This includes US$ 6.39 million equivalent for
+hardware and software for the interim system, and duties and taxes which are estimated at US$
+3.41 million equivalent. Recurrent incremental costs, which comprise equipment operations and
+maintenance and facilities service costs (US$ 0.7 million equivalent), will be financed entirely by
+the Government. It is expected that the IMF would designate and finance specialist advisors for
+varying periods of time up to a total of 24 person months, to assist in the design and
+implementation of the system.
+6.2   Project costs and financing plan is shown in Table II. This table also shows total project
+costs, by project component and by expenditure category. Project costs include a physical
+contingency for unforeseen variations (US$ 0.906 million) equivalent to about 5% percent of the
+base cost of all project items. The foreign exchange component is estimated at about US$ 23.285
+million including contingencies, or 86.6 percent of total project costs. Taxes and duties on goods
+and service contracts are calculated at 25 percent. Therefore, project costs include an estimated
+US$ 3.41 million equivalent in direct and indirect taxes and duties on goods and services, to be
+financed by the Government. About US$0.7 million equivalent is required to cover incremental
+operating costs directly attributable to the Project during the period July 1997 to December 2001.
+These consist of incremental operation and maintenance expenditure for equipment and facilities
+related charges. Detailed Cost Tables are attached at Annex IV.
+
+
+
+-18-
+Table II: Financing Plan by Financier and Component
+(Total amounts including duties and taxes)
+Cost Component       IBRD    %    Govt.   %    Total   For.    %    Local   %    Duties
+Exch.         (exclud        and
+ing           Taxes
+Taxes)
+Equipment         &
+Software
+Standard H/W and S/W   10,379   54   8,995    46   19,374   16,779   87   -              2,595
+Application S/W       2,714    80   679      20   3,393    2,714    80   -               679
+Sub Total             13,093   56   9,673    44   22,767   19,494   86   -               3,273
+Technical Assistance
+Information   Systems  1,906    100  -       -     1,906    1,906    100  -        100
+Experts                       I_I
+Treasury     Systems  545     80   136       20   682       545     80   -         -     136
+Experts
+Project Implementation  271   100  -         -    271       271     100  -         100
+Support                                                                           _
+Sub Total            2,722    95   136       5    2,859    2,723    95   -               136
+Training           IlI
+Training     courses, 585     100  -         -    544       544     100  -         -    -
+fellowships, study tours
+& attachments)
+Total    Investment  16,400   63   9,810    37   26,170   22,760   87   -          8    3,410
+Costs
+Recurrent Costs
+HIW,  S/W,  Maint.J  -        -    696       100  696       525     71   171       29   -
+License        Fees,
+Telecommunications
+costs, and incremental
+operational  expenses
+during        project
+implementation
+period
+Total                -        -    696       -    696      500      -     171      -    3,410
+Total Project Costs    16,400   61   10,506   39   26,866   23,285   79   171      8    3,410
+
+
+
+-19-
+Procurement Arrangements and Schedules
+6.3    Procurement arrangements under the Project are summarized in Table III.
+Table m: Procurement Arrangements
+Total Cost, including contingencies, taxes and duties
+(US$ million) a
+Expenditure Type                   ICB             Other             NBF d             Total
+Equipment
+Standard Hardware and      8.88              1.5              8.99              19.37
+Software      (8.88) b          (1.5)c                            (10.38)
+Application Software     2.71                               0.68              3.39
+(2.71)                                              (2.71)
+Consulting Services                                 2.72              0.14             2.86
+(2.72)                             (2.72)
+Training                                            0.54                               0.54
+(0.54)e                            (0.54)
+Total                             11.59             4.76              9.81             26.16
+(11.59)           (4.76)                            (6.36)
+Recurrent Costs
+Equipment Operations  and                                             0.70             0.70
+Maintenance, includin2 H/W.
+Software       Maintenance,
+License Fees, etc.
+Total                                                                 0.70             0.70
+Total Project Costs               11.59             4.76             10.50             26.86
+(11.59)           (4.76)                            (16.36)
+Notes:
+a: Numbers may not add up due to rounding.
+b: Figures in parenthesis are respective amounts financed by IBRD.
+c: Includes International shopping (IS) for small amounts of goods not exceeding $300,000 per contract,
+up to an aggregate amount of US$ 1.000 million; prudent National Shopping may be used for sundry
+items not exceeding US $ 25,000 per contract up to an aggregate amount of $0.350 million. Direct
+contracting for proprietazy, time critical or special compatible equipment may be used up to an
+aggregate amount of US 0. 15 million equivalent subject to Bank's prior review.
+d: NBF: Not Bank Financed includes, US$6.4 million of equipment and software acquired by the
+Government from its own resources and US$3.27 million in taxes and US$ 0.7 million in recurrent
+costs to be paid by the Government.
+e: Includes Bank financed consulting services and training to be procured in accordance with the Bank's
+guidelines for use of consultants.
+6.4.    Procurement of Goods. Equipment contracts which are estimated to cost more than
+US$300,000 equivalent per contract will be procured following international competitive bidding
+(ICB) procedures in accordance with the Bank's "Guidelines for Procurement Under MBRD Loans
+and IDA Credits" January 1995, revised January and August 1996. Equipment procurement has
+been packaged according to related specialized fields (para. 6.8). Equipment procured through
+ICB will account for about 90 percent of the total equipment value financed by the Bank (US$
+9.38 million out of a total equipment cost of US$10.38 million (excluding duties and taxes). For
+contracts or goods to be awarded on the basis of ICB, the Borrower may, as set forth in the Loan
+
+
+
+-20-
+Agreement, grant a margin of preference in the evaluation of bids up to 15% or the amount of
+applicable custom duties, which ever is lower, to qualified domestic manufacturers of goods in
+accordance with the World Bank Procurement Guidelines (January 1995, revised January and
+August 1996). The General Procurement Notice for the project will appear in the January 98
+edition of United Nations Development Business.
+Methods other than ICB
+6.5  International Shopping. Procedures for International Shopping will be used for small
+amounts of equipment where the cost of ICB would clearly outweigh possible price advantages.
+Contracts for equipment costing less than $300,000 equivalent, not to exceed an aggregate
+amount of US$1.0 million equivalent, will be awarded under international shopping procedures,
+based on comparing price quotations obtained from at least three suppliers from two eligible
+countries.
+6.6   National Shopping (NS).  Minor sundry items, such as small lots of information
+technologies and office equipment, not exceeding US$25,000 per contract, up to an aggregate
+amount of US$0.350 million equivalent, could be purchased on the basis of prudent national
+shopping by comparing price quotations obtained from at least three local suppliers.
+6.7.  Direct Contracting (DC). Goods and technical licenses which: (i) are of proprietary
+nature; or (ii) need to be compatible with other installed equipment, may be procured through
+direct negotiations with property and/or copyright owners, on terms and conditions acceptable to
+the Bank. Such items include contracts for intellectual property such as books, technical journals,
+training materials, audio-visual materials, computer applications software, including annual
+upgrading and licensing arrangements, copyrights, translation and reprinting rights for training
+materials, are estimated to cost under US$150,000 equivalent in the aggregate.
+6.8   Table IV shows the major procurement packages for goods. The major procurement of the
+hardware and software has been separated in to three ICB packages for the following reasons:
+(a)   Package-I consists of the hardware requirements for the interim  system
+(comprising only standard hardware and software- mainly PCs and servers and some LAN
+equipment). This has to be procured about a year or more earlier than the equipment for
+the full system.
+(b)   Package-2 is for the application software for the full system. The application
+software is sold by specialized firms and is best procured separately from these firms. This
+procurement will take place about 9-12 months after the interim system has been put in
+place.
+(c)   Package-3 will be the hardware for the full system and will be procured one year
+after the purchase of the first package.
+Since the project envisages the employment of a UNIX / OPEN systems environment, the
+separate purchases of hardware as envisaged under packages 1 and 3 and application software
+under package 2 would not pose any compatibility problems or restrict competition for bidding.
+
+
+
+-21-
+Table IV: Summary of Major Procurement Packages for Goods
+(Costs excluding taxes and duties)
+Component/           Estimated    Procurement  Start Doc.  Invitation   Award  Contract
+Package              Cost        Method      Preparatio            Contract   Completion
+US$ million             n
+Standard Hardware and  3.1       ICB         2/98       4/98       10/98     12/98
+Software for Interim
+System
+Standard Hardware and  5.78      ICB         10/98      12/98      2/99       12/2000
+Software for Full System
+Application Software    2.71     ICB         2/98       4/98       10/98      12/2000
+Technical Assistance
+6.9    As discussed in chapter 4, the major technical assistance required in the functional area
+would be provided by experts deputed and financed by the IMF. The project would supplement
+this technical assistance in specific areas. Technical assistance assignments are estimated at US
+$2.72 million equivalent. Consulting services will be contracted in accordance with the
+"Guidelines for the Use of Consultants by World Bank Borrowers, January 1995 (The Consultant
+Guidelines). Firms and individuals will be selected for consultant assignments in accordance with
+the Bank's consultant guidelines. The Terms of Reference of all assignments would be subject to
+Bank's prior review. The following methods of procurement, summarized in Table V, will be
+followed.:
+(a)    Quality and Cost Based Selection: A set of consultancies valued at US$1.25
+million equivalent, comprising Information Systems Specialists with wide international
+experience in the implementation of accounting systems would be contracted
+internationally utilizing the procedures prescribed for the Quality and Cost Based Method
+of Selection (QCBS) from short listed firms. This group would typically include
+Applications Systems analysts, Systems Software Specialists, Database Specialists and
+Networking Specialists.
+(b)   Individual Consultant Procedures will be used for small consultant contracts up
+to US$100,000 each. Many of the services provided under the project involve contracting
+of specialized experts, both national and international as individuals where knowledge of
+the various disciplines to be treated under the project is the paramount requirement. The
+following categories of experts would be contracted under these procedures:
+(i)    Treasury Experts: These assignments require specific skills normally
+available from ex-Treasury/MOF officials from other countries with relevant
+experience. The total estimate for these services is US$ 0.54 million equivalent.
+(ii)   Technical Experts for Project Implementation (Computer Programmers,
+End User Support Staff Training and Documentation Specialists): This category
+of experts are mainly intended to supplement the shortage of technical skills in the
+
+
+
+-22-
+Treasury and required for project implementation. This category of experts would
+be procured at a total cost of US$0.65 million equivalent.
+(iii)   Procurement, Disbursement and Accounting Specialists: These personnel
+are required to staff the PIU, and this set of consultancies is valued at US$ 0.24
+million equivalent. Procurement specialists hired under this category would enable
+the Treasury to manage the procurement arrangements relating to consultants and
+equipment required for the project.
+6.10   Table V shows the major procurement packages for technical assistance.
+Table V: Summary of Procurement Packages for Technical Assistance a
+Est. Cost    Procurement  Start       Invitation    Award       Contract
+Package              US $ million  Method      Tender                    Contract     Completion
+Preparation
+Infornation   Systems  1.25       S/L (QCBS)  11/97         12/97        2/98        6/2000
+Specialists
+Treasury Experts     0.54        Individuals    11/97       12/97       2/98         6/2000
+(based   on
+qualifications)
+Technical experts for 0.65        Individuals    10/98      12/98       2/99         6/2000
+project implementation            (based   on
+qualifications)
+Procurement/         0.24        Individuals    11/97       12/97        2/98        6/2000
+Disbursement/                    (based   on
+Accounting Specialists            qualifications)
+a = Detailed list of experts is given at Annex V
+6.11   The Treasury is the main implementing agency of the project. It is felt that the Treasury
+would require assistance in activities related to implementing the project and therefore as
+mentioned in paragraph 4.17 a PIU would be set up to, inter-alia, assist in procurement activities.
+The project would finance procurement specialists to ensure that procurement activities are
+carried out in a cost effective manner and in accordance with Bank procedures. A Country
+Procurement Assessment Review (CPAR) has not been prepared for the Ukraine. For this project
+the Government would follow agreed Bank procurement procedures as described above and as
+set forth in the Loan agreement.
+6.12 Bank Review. For goods, the Bank shall review the Borrower's procurement plans,
+decisions and procedures in accordance with Appendix 1 of the Guidelines for Procurement under
+IMRD Loans and IDA Credits (January 1995). In particular: (i) each contract estimated to cost
+US$300,000 or more, which will cover all ICB contracts; and (ii) all DC shall be subject to prior
+review, in accordance with paragraph 2 of Appendix 1 of the above Guidelines Other contracts
+for goods for amounts less than US$300,000, shall be subject to post review. Terms of reference
+for all consulting contracts would require prior review by the Bank. Consultants contracts above
+$100,000 for firns and above $50,000 for individuals would require prior review by the Bank.
+However, for technical assistance contracts under US$100,000 for firms and under US$50,000
+for individuals, the Bank will require prior review of only the terms of reference and short-lists of
+candidates.
+
+
+
+-23-
+Disbursement and Financing Schedules
+6.13  Disbursements.  Disbursements against contracts for goods less than US$300,000
+equivalent would be made on the basis of statement of expenses (SOE). SOE will also be used
+for all consulting firm contracts less than $100,000 and individual consultants contracts less than
+US$50,000 and for all expenses on training, fellowships and studies. All related SOE
+documentation would be retained by the Treasury, the implementing agency, and made available
+for subsequent examination by independent auditors and Bank supervision missions.  The
+proposed Project is expected to be disbursed over a period of five years. The closing date will be
+June 30, 2002.
+6.14 Disbursements of World Bank Funds will be made as shown in Table VI. A summary of
+the disbursement plan is shown in Table VII.
+Table VI: Proposed Disbursement Categories
+Category                 Amount of Loan          Percent of Expenditures to
+(US$ million)                be Financed
+Equipment & Software                    12.0             100   percent  of  foreign
+expenditures and 100 percent
+of local expenditures (ex-
+factory cost) and 80 percent of
+other local expenditures
+Consulting Services                     2.22             100 percent of expenditures
+Training                                0.5              100 percent of expenditures
+Project Implementation Unit             0.28             100 percent of expenditures
+Un-allocated                            1.4
+Total                                   16.4
+
+
+
+-24-
+Table VII
+Disbursement by Semesters
+Total Project Costs
+(US$ 000)
+Semester         IBRD Financing  Costs  to   be Cash Flow           Cumulative
+Financed                          Cash Flow
+1                                 4,738.5          -4,738.5         -4,738.5
+2                1,273.2          4,738.5          -3,465.3         -8,203.7
+3                1,273.2          1,729.2          -456.0           -8,659.7
+4                1,416.2          1,729.2          -313.0           -8,972.7
+5                1,416.2          3,615.3          -2,199.1         -11,171.8
+6                2,857.0          3,615.3          -758.3           -11,930.2
+7                2,857.0          3,350.1          -493.1           -12,423.3
+8                2,633.6          3,350.1          -716.5           -13,139.8
+9                2,664.4                        _ 2,664.4           -10,475.3
+Total            16.4             26,866.3         -10.506.1        -10.506.1
+Financial Management System
+6.15 The Treasury is responsible for the accounting function for the Government as a whole.
+Staff in Treasury are therefore familiar with accounting and auditing practices, standards, and
+internal controls required to ensure adherence to proper accounting and auditing standards. The
+project will nevertheless provide assistance to the PIU to finance accounting and disbursement
+specialists, acceptable to the Bank, to ensure that a proper financial management system is in
+place. An appropriate accounting system, acceptable to the Bank, will be set up, and project
+related accounting/auditing and disbursement activities are to be carried out satisfactorily and in
+accordance with Bank procedures. Periodic project reports would, inter-alia, include: (a) financial
+statements that give an assessment of the projects financial status, including reports of costs
+actually incurred by expenditure category (specified in Table II) and variances compared to the
+plan for the period; (b) project progress reports, that give a summary of the status of the project
+and explanation and variances in key project indicators listed at Annex III; and (c) procurement
+management reports giving status and details of contracts above the prior review threshold.
+Special Account
+6.16  The Borrower will establish and maintain a Special Account (as specified in the Loan
+Agreement) with an authorized allocation of US$1,600,000. This will be exclusively for making
+payments from the proceeds of the Bank Loan. The initial deposit of the authorized allocation
+will be limited to US$800,000 and the remaining portion of the authorized allocation would be
+released when disbursements reach a level of US$3,000,000: In addition:
+(i)   All applications for direct payment or special commitments must be for an amount
+not less than 20 percent of the initial deposit of the authorized allocation to the special
+account or not less than 20 percent of the full authorized allocation once available; and
+
+
+
+-25-
+(ii)   Applications for replenishment of the Special Account would be submitted on a
+monthly basis or when one third of the amount deposited has been withdrawn, which ever
+occurred earlier. Submission of replenishment applications takes precedence over the
+minimum size application as stated in (i) above.
+Project Audits
+6.17 Project Accounts and the Special Account will be audited in accordance with the Guidelines
+for Financial Reporting and Auditing of Projects Financed by the World Bank (March 1982). A
+Bank approved auditor will be identified prior to effectiveness. The Borrower will provide the
+Bank (within six months of the end of each fiscal year), an audit report of such scope and detail as
+the Bank may reasonably request, including a separate opinion by an independent auditor
+acceptable to the Bank, on disbursements against certified SOE. The separate opinion should
+mention whether the SOEs subniitted during the fiscal year, together with the procedures and
+internal controls involved in their preparation, can be relied upon to support the related
+withdrawal applications.
+
+
+
+-26-
+8. BENEFITS AND RISKS
+Benerits
+8.1   Current budget processes in Ukraine suffer from the following basic weaknesses: (a) the
+budget classification system is not useful for allocating resources to specific areas and functions;
+(b) the budget execution processes cannot ensure that actual public expenditures are according to
+budgeted categories; (c) the system of transferring funds to spending unit bank accounts, leads to
+a situation where significant idle balances are built up in these accounts while the MOF is in
+deficit in overall terms, thereby creating arrears or necessitating further borrowing; and (d) the
+MOF does have access to timely and accurate information on public expenditures and receipts to
+enable it to perform its functions. The project would help remove each of these weaknesses by:
+(a) implementing a GFS based classification system that would give the Government a tool to
+improve resource allocation and enable functional and economic analyses of the budget to be
+carried out; (b) improving budget execution processes which will enable implementation of
+improved expenditure controls in Government and assist in ensuring that these expenditures
+follow approved budget appropriations; (c) implementing a Treasury Single Account at the NBU
+and centralizing payment processing through Treasury which would eliminate the need of separate
+agency bank accounts and the danger of idle balance build up; and (d) implementing a TLS that
+would provide the MOF a means to obtain timely, consistent and accurate financial information.
+8.2   These actions, taken together, will enable Government to improve resource planning, cash
+management, budgeting and public expenditure management and control. The improvements in
+the quality and timeliness of financial information and improvement in the capacity to carry out
+functional and economic analyses of the budget would promote the capacity to properly formulate
+and execute fiscal policies. The consistency in the classification of expenditure items and an
+effective system to control and monitor cash flows would enhance transparency and accountability
+in the fiscal process.
+8.3   The total cost of the project is a very small fraction of the projected annual public
+expenditures in 1997. The benefits of even minor improvements to the efficiency, effectiveness or
+management of public expenditure, which would arise from improved financial information and
+control would significantly exceed project costs. The net development impact of the project is
+therefore expected to be positive. The fiscal impact of the project cost would be negligible.
+Critical Assumptions and Risks
+8.4   Continued Government commitment to reform of the public sector and to strengthening
+the basic economic management institutions is a pre- requisite for successful project
+implementation. Specifically, by improving the quality of fiscal management systems the project
+would introduce transparency in the fiscal and resource allocation and expenditure processes.
+This would affect those who benefit from the current weaknesses. These interests may act to
+delay the project actions and divert it from its objectives. The Government has indicated its
+
+
+
+-27-
+commitment to treasury system reform and has set an explicit timetable for the implementation of
+a full treasury system. Moreover, work under this project builds upon efforts already underway.
+These factors mitigate against some of the risks involved.
+8.5  Introduction of the new institutional structure of budget execution would require a
+reorganization and re- alignment of the roles and responsibilities of related government agencies,
+such as the MOF, the NBU, the Treasury, as well as the relationships with the line ministries.
+Another key element is the requirement that the TSA be established at the NBU and spending unit
+accounts at commercial banks be closed and payment processing centralized through Treasury.
+Implementation of these aspects would need government support at the highest levels, who
+recognize the need for change, to ensure that the change process is completed smoothly. A
+phased and gradual introduction of new policies and procedures and a broad training program in
+the use of the new systems and methodologies would allow a wider appreciation of benefits and
+would enhance ownership.
+8.6   The project would need to cope with: (a) the organizational capacities of the Treasury to
+manage project implementation; (b) lack of adequate technical skills within the Government; (c)
+the ability of Government to retain staff who have been trained. To ameliorate this risk the project
+would provide financing for hiring project implementation specialists and other technical skills
+from the private sector as required. However, it is likely that an ongoing policy of training would
+need    to    be    adopted    with    significant    attrition    rates    expected.
+
+
+
+-28-
+9. AGREEMENTS REACHED
+9.1   During appraisal agreements were reached with the Government that the following actions
+would be completed before loan negotiations: (a) a GFS consistent budget classification system
+and a treasury chart of accounts embodying this classification would be adopted; and (b) central
+payment processing would be introduced for payments related to the Kiev University, the Ministry
+of Health, the Chernobyl and Employment Funds. Both conditions have been met.
+9.2   During negotiations agreements were reached with the Government that as a condition for
+Board presentation, the Treasury will have to submit to the Bank evidence that the PIU has been
+established. This condition has been met.
+
+
+
+Annex I
+Page 1 of 2
+Detailed Functionality of the Treasury Ledger System
+and the Technology Architecture Required for Implementation
+A.    Functionality
+The Treasury Ledger System would have a capability to:
+(i)    Record initial budgets and distribute the budget appropriations as approved by the
+legislature, to spending ministries and keep a record of initial budgets, revised budgets,
+and budget transfers, for a typical government spending unit.
+(ii)   Distribute appropriation and commitment authorizations to spending units and to
+record commitments incurred by a spending unit against the approved limits and the
+appropriation during the course of a year.
+(iii)   Distribute funds allocations to spending units and keep a record of the amounts of
+funds allocations against the appropriations and any changes thereto.
+(iv)   Record expenditure against commitments and funds allocations (e.g.. due to
+purchase orders, or other payments). The system will have facilities to check availability
+of appropriation, commitment and funds allocation prior to approving a payment.
+(v)   Print consolidated payment instructions for action by the banking system.
+(vi)   Record revenue and other receipts against appropriate account heads.
+(vii)  If required, print checks against payment instructions and or make arrangements
+for the electronic transfer of payment information to an external paying entity.( e.g. a
+bank).
+(viii)  Consolidate data from all ministries and regional offices, as necessary. The
+system will have good report writing facilitates and enable easy retrieval and reporting on
+data in the system data bases, in a variety of formats. The system would be able to
+produce the commonly required accounting and management reports.
+(ix)   The system would have facilities to restrict access only to duly authorized staff.
+B.    Technology Architecture Requiredfor the Information Systems
+Hardware Configuration: Implementation of the treasury system would require a distributed
+architecture with computer processing power located at the various nodes of the network (the
+center, the regional treasury units at the Oblasts and the Rayons and the line agencies). These
+
+
+
+Annex I
+Page 2 of 2
+nodes would be connected via the public switched data network that is available in Ukraine. The
+transaction processing and database management required at each node would be carried out by
+the computers installed at these nodes. Summary or detailed data. as required, would be
+transmitted via telecommunications facilities to the central computers located at the Treasury
+office in Kiev. Such an architecture distributes computing power, commensurate with needs, to
+different nodes of the network, thereby optimizing usage and making it more reliable and less
+vulnerable to malfunctions at a single central site. In addition, end users at the regional treasury
+units and spending agencies would have better control over their technological and data resources
+and this fosters a sense of ownership for the systems they use. The size and distribution of
+computing power across the various nodes of the network will be determined by the volumes of
+data and transactions that are generated and stored at the various nodes and the volumes and
+frequencies of data that are transmitted between the nodes.  Information gathered from
+discussions with the Treasury has been used to estimate the size and location of computers. This
+information is being progressively refined by the consultants during the preparation phase of the
+project, by undertaking actual surveys to gather data for each site.
+Software Characteristics: The nature of the application systems requires that the same core
+functionality be available at all nodes of the network. Thus, for example, the core functionality
+requirements will be similar at all Regional Treasury Units. Therefore the same application
+software package would need to be replicated at multiple sites. This characteristic requires that
+the application software be scaleable and be able to run on small or large computers without
+major changes. Scalability can be achieved either by choosing a line of computers of varying
+capacities which are fully compatible from the software perspective. However, such a choice
+would restrict further additions to the network to this vendor and to this line of computers.
+Alternatively, to avoid these restrictions, the application systems should be developed using
+application development tools and Relational Data Base Management System (RDBMS)
+software that can operate on machines of different sizes offered by several vendors. This feature
+is called software portability.
+Several application development and RDBMS packages are available in the market which
+are both vertically and horizontally portable. Ideally the way to ensure vertical and horizontal
+portability and scalability at the various nodes of the network is to choose hardware and software
+that subscribes to the OPEN systems concepts. In practice, the environment that comes closest to
+this concept in current technology is the UNIX environment. Applications developed under this
+environment would be able to run, with minimum changes, on any computer that has a UNIX
+based operating system. Most hardware vendors now offer a version of UNIX as an operating
+systems alternative. Another operating systems option that is gaining popularity in view of its
+relative simplicity is Windows NT. The project therefore proposes to use UNIX or Windows NT
+as the operating systems environmnents across the nodes of the network. In addition the
+application development environment chosen will use Fourth Generation Languages (4GLs) and
+Relational Database Management Systems and associated development tools, Graphical User
+Interfaces (GUIs), to increase application development productivity and offer a user friendly
+environment for data access and usage. This approach strikes a balance between large main
+frame systems which would be cumbersome and expensive and other options which could be
+under powered and not scaleable to sites with a large number of transactions.
+
+
+
+Annex II: Ukraine- Treasury Systems Project - Implementation Schedule
+_9I s7     I         g8          1  -'    99                     00                    01
+ID   Task Name                                          Duration       1       6       |123456789                 123456789             123456789             123456789
+I    Bank Project Processing                                437d
+2        World Bank Identification Mission                    2w
+3        PHRD Grant Funds available                           ld
+4        Pre - Appraisal mission                             10d
+5        Appraisal Mission                                    2w
+6        Project Negotiations at World Bank                   1w
+7        Board Approval                                       1 d
+8        Loan Effectiveness                                   Id
+9    Appoint IMF Advisor/Experts                            1     _20w  .   .     .     ,      :     _.
+10   Select and Appoint Information Systems and Treasury     24w
+Experts (Consultants -PHRD financed)              __:___.
+11   Select and Appoint Information Systems and Treasury     24w
+Experts (Consultants -Project Financed) _____ ___.__:_
+12   Develop and Implement Interim System                  1261d
+13        Document Functional Requirements for Financing     52w  _          .   .... . _
+and Payment Processes and App. SNW Specs.    ._._._._.
+14        Develop/ Customize Application Software for        52w         :      :-_77 :
+Interim System
+15        Procure and Install Hardware for Interim System    52w                . . _         .
+(Government Financed)                        ._.___:
+16       Procure Hardware for Interim System ( Bank          26w
+Financed)          _____ __               _.-.
+1 7       Install Interim System Country Wide                 2
+18       Interim System Installed                             Od
+19       Operate Interim system                             135w
+20   Finalize and Document Treasury System                  120d
+Functional Requirements       _         ____ _.___
+21        Bud Exec Processes and Guidelines, Chart of        24w
+Accounts, Trans. Docs. Inform Flows, ReportsD D
+22   Develop Operating Manuals and detailed                 260d
+Instructions        _________________________    ;                                       ________                    ____________________________          _______ag
+Page 1                                                                                       w
+
+
+
+Annex II: Ukraine- Treasury Systems Project - Implementation Schedule                                                                                                         0
+97                   98                   99                    0001                       1X
+ID   Task Name                                         Duration       1 )2i3L4L5L6J7J8|9J F | 1231415167 89| |  12345 19              123456789             1  3456789 H
+23       Finalize Legal Framework and Regulations,          52w                                                        _H
+Develop Detailed Operating Manuals/Directives    _    |_._._I
+24   Develop Technical Systems Design For Full             120d
+_____ Treasury Ledger System _m ___         _     ___:.
+25       Develop High Level Design and Technical            24w
+Architecture
+26       Develop Detailed Software                          24w
+Requirements/specifications    __.___
+27       Develop HNv Specifications                         24w_:_-.__________________
+28   Procure & Customize Application Software              120d
+_pplication Software              __
+29       App. SN Search, Procurement, Testing,              24w
+Evaluation, Contract Award
+30   Install Systems                                       120d
+31       Install, Customize and Test Application SNv ( TLS  24w
+and Payroll systems) (Pilot Sites)  _       ___
+32       Customize /Develop training material               t2w
+33       Train Users (Pilot Sites)                          12w       . _  _  _ __ _
+34       Complete Pilot System Installation                  Od
+35   Replicate at Remaining Sites                          180C
+36       Procure and Install Any Additional HNv Required    36w.
+37   Replicate systems at all remaining sites260d
+38       Receive and Install HNV and Systems SAN            24w
+39       Install and Test Application SAN (TLS/Payroll)     24w
+40       Train Users (TLS/Payroll)                          24w
+41       Cut over to Full System (TLS/Payroll)              24w
+42       TLS/Payroll fully operational                       Od
+43       Systems Replication Completed                       O
+44   Assessinst'itut'ional development requirements     945d
+Page 2
+
+
+
+-Annex II: Ukraine- Treasury Systems Project - Implementation Schedule
+97         1         98                   99                   00                   01
+ID   Task Name                                        Duration   I I |1 12131415161718191 | | 112131415161718191 | |11121314151617189 1| 1213141516171819 123456789
+45       Training needs analysis                            8w
+46       Implement Training/ skills Upgrading/Recruitment  100w
+Program
+47       Project Complete                                   Od
+(CD 
+Page 3                                                                                     o
+e~~~~~~~~~~~~~~~~~~~.
+
+
+
+(D~
+'--i
+Annex III - Project Performance Monitoring Indicators
+Objectives                 Ensure smooth and timely execution of the budget, while minimizing the cost of Government financing throughi the establishmilent of improved Treasury
+operations and cash management processes, procedures and systems.
+Input Indicators           Process Indicators                                   Output Indicators                                    Impact In(dicators
+Consultancy Services       The followinig activities will be completed in       Full finctional design of systems, processes and     T'he systems implemented under the project
+financed by the project in    accordance with the project implementation schedule.   procedures for ''reasury Operations completed and  will give the government the ability to
+various aspects of                                                              implemented ;                                        produce budget projections, functional and
+Treasury Operations and    Engagement of Consultants;                                                                                economic analysis, fiscal reports consistent
+Cash Malnagement,                                                               GFS consistent budget classification system  approved   with GIS classification.
+Information Systems        Design and development of a fuill ftinctional treasury    and effective for all Government expenditure, revenue
+Design and Development.   system and a payroll system;                          and financing operations;                            The new 'FSA'based liniancial management
+procedtires, covering cash allocation,
+Development of methiodologies for ef'fective cash   I)etailed regulations and operating maniuals covering    commitment, payment processing, accounting
+flardware, Systems         management;                                         'I'reasury Single Account (TSA) based budget          and reporting, implemented under the project,
+Software and Application                                                        execution processes (cash allocationi, commitment and   will enable commitment, payment and
+Software required for the  Development of a plan for upgrading the informatics   payment control, payment processing, accounting and   internal audit control at the Center, and at all
+Treasury Operation System   capability for the Treasury IMOI for the management   reporting) completed and in use;                   Oblasts and Rayon branches of the Treasury.
+at Regional and District   of the above systems;
+Treasury Units and                                                              Technical design of Treasury Ledger and Playroll     A pilot for the payroll system will be
+Center.                    Development of a training strategy and plan for the  Systems completed and implemented;                   introduiced whicih vill enable personnel
+implementation of the revised Treasury Operations                                                        control and direct salary deposits to staff
+System.                                             Treasury training center established and operational  bank accounits.
+and adequate numbers of staif trained in the use of the
+Acquisition, Delivery, installation and testing of I I/W    new  Treasury and Payroll Systems;           The TSA based bud(get cxecution processes
+and S/W per implementation schedule;                                                                     will result in improved Cash maniagemiient. At
+I I/W, S/W delivered, installe(d and tested;         least 80% of the national governmi)elnt
+Application SIW tested for the following minimum    payments, by amount, will he routedl throtigi
+Iunctionallity for the Treasury Ledger System:      the Treasury.
+maintaining and processing cash allocation,
+colmlm)itmllelit, paymenit and( receipts transactions,  Improved cash mianagcient systemii will
+accountinig lor government finianicial assets and    reduce total government cash balances with
+liabilities and producing core Financial reports    the banking system to at least half the present
+re(luired by the MOF/ Treasury, and the required    amounit.
+functionality for the lPayroll System;
+
+
+
+Cost Table I
+Ukraine
+Tresawy Systems Project
+Expenditur Accounts B.sualdown
+All Detailed Tables (USS '00)
+Physical
+Plus
+Bass Cost                       Physical Cotingeoncies               Tce Contingencls           _otaltontl. Coen.                       Base Costs   Price
+Local                                 LOCAl                             Localt                                Local                          * Price   Cool, ont
+fE6cl.  Duties &              for.   (E.ct.  Duties &           For.   (Excl.  Duties                         (Execl.  Duties &             Ceonl on   Phylcal
+for. Exht.  Teats)   Taxes      Total    Exth.  Tes) T_1xs    Toalx   Exch.  Tates)   Taxes    Tetal  For. Exth.  7sxes)   Texes              Total   Base Costs  Cont.
+1. Invernflsot Costs
+A. Technical Assistance
+fl10llsrweSysltels LePot                             1,7200       -                1. 7200    n0o        -              860    t87         -         '    B8.7     1,872.7                       1,872.7     1,7B3B     89.2
+Treasury Sysleoro Experts                              5000              125.0      625.0    25.0        .      6 3     31.3    20-4               5.1    23.5       540.4      -      138.4      681.8       640.3     32.0
+Subtotal TechnicalAsslstance                           2.2200              125.0     2.3450    111.0             683  117.3    672                   5.1    923      2,4182        -     1364   2.5545   2,432.Y    t216
+B Trainitg                                               500.0                 -       50000    25 0       -25.0    368                      .              1886       5438                          5 43 6     557.7     25.9
+C. Equilprnnlt
+StandardtHW&SW                                       9.5000        -    2,3750    11.8750    4750        -    1188    5936    404.3             t0t   S00.3    10i379 3               2,594.8    12974t1   12.3563    6t7.
+Standard HNWand SIW Govt Frnanced                    6.400 0       -         .     6,400.0       -       -        -                                                6,400.0                 -    68400.0     6,400.0
+Alst,Katmnns N                                       2.500 0      .      1025.0    3,125.0  1325.0       -     31.3   108.3    804 A              22.4  111.       2.714 4             67086     3.393 0    3,231.4    161.6
+SubtotalEqsipment                                     18,4000       .    3,000.0    21400.0   6000               1f00   7500   493                 1234    617.1   1943.7               32734    22,707.1   21.9877    T77.4
+D. PIU
+ConsuiarnlSalanestAtxwancs                             2450        -         -       245.0    12.3       -        -    12.3      93             -          9.3       2666                  -       2666       253.9     12.7
+Operabonal expenses                                     35.0       -         .        35.0     1.S       -        -      L       14        -         -     1.4        35.1      -         -         38.1       36.3       18
+SsblelalP3U                              2800   ~~~~~~~~~~~~~----  .   280.0    14.0       .               4       17                  * 07            304.7      .304 7                        2902      14.5
+Total tRwestmnenlCosts                                  21,4000       .    3.125O    24,520.0   700.0              1503   90.3   6102                128.5   738.7   22,7602         -    3,4098    26.19°9    25.2280     941.4
+Ii Recu"nen Costs
+A Mantlenance and License Fres,T.lecomm 0sts             525 0    1750                 70.         .3.7                                                -    .37       0250    171 3 76683                       868.
+Total Rerestnt Costs                                       5250    1750                7000   _                                              .37              .3.7      0525.0  17123.                696.3       69638
+Tolal                                                   21,9250    1750    3.1250    25.2250    750:0              1503  9063   610.2    -37         128.5   7350    23.2i52    171.3    3,4098    26,8663    25.9248       9414
+5QtP
+(D  (D
+04
+O C
+Fh
+
+
+
+Cost Table 2                                                                    , V
+Ukraine                                                                    o C
+Treasury Systems Project
+Expenditure Accounts by Years - Totals Including Contingencies                                      %D
+All Detailed Tables (US$ '000)
+Totals Including Contingencies
+1998      1999       2000      2001     2002      Total
+I. Investment Costs
+A. Technical Assistance
+Information Systems Experts                           265.3      539.5     546.8      521.2       -     1,872.7
+Treasury Systems Experts                                  -      269.8     273.4      138.6       -       681.8
+Subtotal Technical Assistance                           265.3      809.3     820.2      659.8       -     2,554.5
+B. Training                                              106.1     107.9     218.7      110.9               543.6
+C. Equipment
+Standard HW&SW                                       1,989.4    1,348.8   4,784.4   4,851.4       -    12,974.1
+Standard HNWand SNV Govt Financed                    6,400.0         -         -          -       -    6,400.0
+Applications SN                                       663.1    1,011.6    1,025.2     693.1       -     3,393.0
+Subtotal Equipment                                     9,052.6   2,360.4    5,809.7   5,544.5       -    22,767.1
+D. PIU
+Consultant SalarieslAllowances                         47.7       70.1      71.1       77.6       -       266.6
+Operational expenses                                    5.3       10.8      10.9       11.1       -        38.1
+Subtotal PIU                                             53.1       80.9      82.0       88.7       -       304.7
+Total Investment Costs                                   9,477.0    3,358.4    6,930.6   6,403.9      -    26,169.9
+II. Recurrent Costs
+A. Maintenance and License Fees,Telecomm costs              -      100.0     300.0      296.3               696.3
+Total Recurrent Costs                                         -      100.0     300.0      296.3       -       696.3
+Total PROJECT COSTS                                      9,477.0    3,458.4    7,230.6   6,700.2       -    26,866.3
+
+
+
+Cost Table 3
+Ukraine
+Treasury Systems Project
+Project Components by Year - Base Costs
+All Detailed Tables (USS '000)
+Base Cost
+1998      1999      2000      2001      2002     Total
+Treasury Systems                        9,300.0   3,212.5   6,637.5   6,075.0       -   25,225.0
+Total BASELINE COSTS                       9,300.0   3,212.5   6,637.5   6,075.0       -   25,225.0
+Physical Contingencies                    145.0     155.6     316.9     288.8       -       906.3
+Price Contingencies
+Inflation
+Local                                   5.5      14.1      48.5      60.4        -      128.5
+Foreign                                26.5      76.2     227.8     279.8        -      610.2
+Subtotal Inflation                       32.0      90.3     276.2     340.1               738.7
+Devaluation                                           -         -       -3.7      -        -3.7
+Subtotal Price Contingencies               32.0      90.3     276.2     336.5        -      735.0
+Total PROJECT COSTS                        9,477.0   3,458.4   7,230.6   6,700.2       -   26,866.3
+Taxes                                     530.5     526&0    t,216.6    1,136.6      -    3,409.8
+Foreign Exchange                        8,946.5   2,907.4   5,939.0   5,492.3            23,285.2
+rd>
+(D (D
+x
+w-
++ c
+
+
+
+m
+Cost Table 4                                                           H
+Ukraine                                                       o
+Trreasury Systems Project
+Expenditure Accounts by Years -- Base Costs
+All Detailed Tables (US$ '000)
+Base Cost                          Foreign Exchange
+1998      1999      2000       2001     2002      Total      %      Amount
+I. Investment Costs
+A. Technical Assistance
+Information Systems Experts                             250.0     500.0      500.0     470.0        -     1,720.0   100.0    1,720.0
+Treasury Systems Experts                                    -      250.0     250.0      125.0       -      625.0    80.0       500.0
+Subtotal Technical Assistance                             250.0     750.0      750.0     595.0        -     2,345.0    94.7    2,220.0
+B. Training                                               100.0     100.0      200.0     100.0        -      500.0   100.0       500.0
+C. Equipment
+Standard HW&SW                                         1,875.0   1,250.0   4,375.0   4,375.0        -    11,875.0    80.0    9,500.0
+Standard H/Wand S/W Govt Financed                      6,400.0        -          -         -        -     6,400.0   100.0    6,400.0
+Applications SN/                                        625.0      937.5     937.5     625.0        -     3,125.0    80.0    2,500.0
+Subtotal Equipment                                       8,900.0    2,187.5    5,312.5   5,000.0      -    21,400.0    86.0   18,400.0
+D. PIU
+Consultant Salaries/Allowances                           45.0       65.0      65.0      70.0        -      245.0   100.0       245.0
+Operational expenses                                      5.0       10.0      10.0      10.0        -       35.0   100.0        35.0
+Subtotal PIU                                               50.0      75.0       75.0      80.0       -       280.0   100.0       280.0
+Total Investment Costs                                     9,300.0   3,112.5   6,337.5    5,775.0       -   24,525.0    87.3   21,400.0
+II. Recurrent Costs
+A. Maintenance and License Fees,Telecomm costs                -      100.0     300.0     300.0        -      700.0    75.0       525.0
+Total Recurrent Costs                                           -      100.0     300.0     300.0       -       700.0    75.0       525.0
+Total BASELINE COSTS                                       9,300.0   3,212.5   6,637.5   6,075.0        -    25,225.0    86.9   21,925.0
+Physical Contingencies                                    145.0     155.6      316.9     288.8       -       906.3    82.8       750.0
+Price Contingencies
+Inflation
+Local                                                   5.5       14.1      48.5      60.4        -      128.5
+Foreign                                                26.5       76.2     227.8     279.8        -      610.2   100.0       610.2
+Subtotal Inflation                                       32.0       90.3     276.2     340.1        -      738.7    82.6       610.2
+Devaluation                                                 -         -          -       -3.7      -        -3.7       -
+Subtotal Price Contingencies                               32.0      90.3      276.2     336.5       -       735.0    83.0       610.2
+Total PROJECT COSTS                                        9,477.0   3,458.4   7,230.6   6,700.2        -   26,866.3    86.7   23,285.2
+Taxes                                                     530.5     526.0    1,216.6    1,136.6      -     3,409.8       -
+Foreign Exchange                                         8,946.5   2,907.4    5,939.0   5,492.3      -   23,285.2
+
+
+
+Cost Table 5
+Ukraine
+T reasury Systems Project
+Expenditure Accounts Project Cost Summary
+All Detailed Tables
+%     % Total
+(Local '000)                     (US$ 000)              Foreign   Base
+Local    Foreign      Total      Local    Foreign      Total   Exchange  Costs
+I. Investment Costs
+A. Technical Assistance
+Information Systems Experts                               -     3,354.0    3,354.0         -     1,720.0     1,720.0     100       7
+Treasury Systems Experts                              243.8       975.0    1,218.8     125.0       500.0      625.0       80       2
+Subtotal Technical Assistance                           243.8     4,329.0    4,572.8     125.0     2,220.0    2,345.0       95       9
+B. Training                                                 -      975.0       975.0         -       500.0      500.0      100       2
+C. Equipment
+Standard HW&SW                                       4,631.3    18,525.0    23,156.3    2,375.0  9,500.0    11,875.0      80      47
+Standard H/Wand Sl\ Govt Financed                         -    12,480.0   12,480.0         -     6,400.0     6,400.0     100      25
+Applications SAN                                     1,218.8    4,875.0    6,093.8     625.0     2,500.0    3,125.0       80       12
+Subtotal Equipment                                     5,850.0   35,880.0   41,730.0    3,000.0    18,400.0   21,400.0      86      85
+D. PIU
+Consultant Salaries/Allowances                            -       477.8      477.8         -       245.0      245.0      100        I
+Operational expenses                                      -       68.3        68.3         -        35.0       35.0      100
+Subtotal PIU                                                -      546.0       546.0         -       280.0      280.0      100       1
+Total Investment Costs                                   6,093.8   41,730.0   47,823.8    3,125.0   21,400.0   24,525.0       87      97
+II. Recurrent Costs
+A. Maintenance and License Fees,Telecomm costs          341.3     1,023.8    1,365.0     175.0       525.0      700.0       75        3
+Total Recurrent Costs                                     341.3     1,023.8    1,365.0     175.0       525.0      700.0       75       3
+Total BASELINE COSTS                                     6,435.0    42,753.8   49,188.8   3,300.0    21,925.0   25,225.0      87      100
+Physical Contingencies                                  304.7     1,462.5    1,767.2     156.3       750.0      906.3       83       4
+Price Contingencies                                     364.3     1,739.0    2,103.3     124.9       610.2      735.0       83       3
+Total PROJECT COSTS                                      7,104.0    45,955.3    53,059.2    3,581.1    23,285.2    26,866.3   87      107
+x
+OIQ Di
+(D (D
+0
+i-h
+
+
+
+OJQ :J
+Cost Table 6                                                   °N
+Ukraine                                                    ° 0
+Treasury Systems Project
+Expenditure Accounts by Financiers
+All Detailed Tables (US$ '000)
+Local
+The Government          tBRD                Total                   4Excl.  Duties &
+Amount      %      Amount       %      Amount       %     For. Exch.  Taxes)   Taxes
+I. Investment Costs
+A. Technical Assistance
+Information Systems Experts                                -       -     1,872.7   100.0    1,872.7      7.0    1,872.7        -         -
+Treasury Systems Experts                               136.4    20.0       545.4    80.0      681.8      2.5      545.4        -     136.4
+Subtotal Technical Assistance                            136.4     5.3    2,418.2    94.7    2,554.5       9.5    .2,418.2       -     136.4
+8. Training                                                  -       -       543.6   100.0       543.6     2.0      543.6        -         -
+C. Equipment
+Standard HW&SW                                        2,594.8    20.0   10,379.3    80.0   12,9741      48.3   10,379.3        -    2,594.8
+Slandard HNVand SNW Govt Financed                     6,400.0   100.0          -       -    6,400.0    23.8    6i400.0         -         -
+Applications SAN                                       678.6    20.0    2,714.4    80.0    3,393.0    12.6    2,714.4          -     678.6
+Subtotal Equipment                                      9,673.4    42.5    13,093.7    57.5   22,767.1    84.7   19,493.7        -    3,273.4
+0. Piu
+Consultant Salaries/Allowances                             -       -       266.6   100.0       266.6     1.0      266.6        -
+Operational expenses                                       -       -        38.1   100.0        38.1     0.1       38.1        -
+Subtotal PIU                                                 -       -       304.7   100.0      304.7      1.1      304.7       -
+Total Investment Costs                                    9,809.8    37.5   16,360.2    62.5   26,169.9    97.4   22,760.2         -    3,409.8
+li. Recurrent Costs
+A. Maintenance and License Fees,Telecomm costs           696.3   100.0           -       -      696.3      2.6      525.0   171.3
+Total Recurrent Costs                                      696.3   100.0          -        -      696.3      2.6      525.0   171.3
+Total Disbursement                                       10,506.1    39.1   16,360.2    60.9   26,866.3   100.0   23,285.2   171.3   3,409.8
+
+
+
+Cost Table 7
+Ukraine
+Treasury Systems Project
+Table 1. Treasury Operations
+Detailed Costs
+AN Deailed Tables
+Breakdown of Totals Incl. Cont. (USS
+L 000)                      Parameters (in %)
+Lotal                         PIty.
+Base Cost 1US$ 000)                                Totals Including Contingencies USS '000)                     (Exct.   Duttes &             Cont.   For.    Gross
+Unlt     1998       Is99      2000      2001      2002     Total      199B      1999       2000      2001     2002      Total    For. Exch.  Texas)   Tunes      Total     Rate   Exch.  Tax Rate
+1. tt rnl taCosts
+A. Technisca Assistance
+Information Systems Expets (Local)       amount       250.0     500.0     500.0      470.0       -     1.720.0     265.3     539.5     540.t      521.2             1,872.7    1,872.7                 -    '1,872.7     S 0    100 0      0 0
+Treasury Systems Exopers                 amount           .     2500      2500       12S0               6250                 26300     273.4      1386               681.        5450.4            136.4       681.      S 0    800       200
+Subtotal Technical Assistance                           250 0     750.0     7500       09 0        -    2,345.0     265.3      809.3     020.2     659.6       -     2.554.5    2,416.2              020.4    2,554.5
+9. Equipment
+Standanrd.lardwar and System Software    amount      1,875.0   1,2500    4,3750    4.375.0            11.875 0    1080.4    1.348.0    4,784 4    4,551.4         t2.974.1    10.379.3            2,594.0    1,974.1     50     50.0      20.0
+KW S    GOVT Foansed                     amrunt     6,400.0         .         .          .             6400.0   0.400.0          -         -         -              0.400.0    6.400.0                        . 6,4000   00    100.0       0.0
+APPatroO So1nware                        amount       625 0     937.5     037.5      025.0             3,025.0      63.1 1'011.8 14023.2          83.1        -     3,393 0    2.714,4            3,8.0 3432 .0         50    8000       200 
+Subtotal Eqalpmenl                                    8.90000    2.107.5   52312.0   0,000.0            21,400.0   8,002.6   2,200.4   5.009 7    5,044.0           22.707,1    09,403.7       - 3.273 4    22.707 I
+C Traiing                                  amount       1000      1000      200.0      100.0       -      500.0      106.1     107.9     210.7      110.9              043.6      543.6        -         -       0436      50    1000        00
+t. Ptoject ltmplemtntalton Unit
+Consurant Salaries/Allowances            amount        45.0      65.0      650        70.0               245.0      47.7      70.1      71.1       77.6              268.6       266.6                         262.8     5.0   100.0       00
+Operatlonaltexpenses                     amount         50       100        00.0      10.0       -        35.0       5.3      10.8       10.9      11.1               30.1        38.1       .                  32.1     5.0   100.0       0.0
+Subtotal Project tmplementation Unit                     50.0      75.0      75.0       00.0       .      260.0      03.1       80        0 82 0     e.?7              304 7      304.7        -                 304.7
+Total tnvestment Costs                                  9,300.0   3,1125    6,337,5    5,775.0       -    24.5250    0,477.0   3,350.4   0,930.6   6,403.9       -   26,169.9   22,760.2         -   3,409.8   20.1099
+I. Recurrent Costt
+W1, SWNMainI. Licence fees, Tetecom costs  amount           -     100.0     3000       3000        -      7000                 100.0     300.0     290.3               896.3      525.0   171.3          -       696.3     0.0    750        0.0
+Total Recurr ntCosts                                                too00     3000       3000               700.0                100.0     3000      296.3            26086.3       525.0   171.3    3            696.3
+Total                                                    0.32000    2.212 0    6.637,5    0,070.0         25.220 0    0,477.0   2,450.4   7,2305 0   ,700.2       - 26,866.3    23,285.2   171.3   3.409 6    26.056 3
+lS
+i-A
+O C
+0<
+
+
+
+x
+00
+1--
+0 <
+Cost Table 8
+Ukraine
+Treasury Systems Project
+Table 1. Treasury Operatons
+Detailed Costs
+All Detailed Tables
+Expenditures by Financiers (USS 000)
+The Govemment                                                     IBRD
+Unit      1998     1999      2000      2001      2002      Total      1998      1999       2000      2001      2002      Total
+L tnvestment Costs
+A. Technical Assistance
+Intormation Systems Experts (Local)                            amount                                                                   265.3      539.5     546.8     521.2              1.8727
+Treasury Systems Experts                                       amount                 54.0      54.7       27.7       -       136.4         -      215.8     218.7      110.9       -       545.4
+Subtotal Technical Assistance                                                     -    54.0       54.7       27.7       -       136.4     265.3      755.3     765.5     632.1        -    2,41802
+B. Equipment
+Standard Hardware and System Sottware                          amount       397.9   269.8      956.9      970.3       -    2,594.8    1,591.5    1,079.0   3,827.6    3,881.1       -   10,379.3
+HVW SNV GOVT Financed                                          amount      6,400.0                            - -           6,400.0
+Application Software                                           amount        132.6   202.3      205.0     138.6       -       678.6     530.5      809.3     820.2      554.4             2,7144
+Subtotal Equlpment                                                           6,930.5   472.1    1,161.9    1,108.9            9,673.4   2,122.1    1,888.3   4,647.8    4,435.6            13,0937
+C. Training (courses,tellowships,sludy tours,alttachments)       amount           -        -         -          -       -                 106 1      107.9     218.7      110.9       -       543.6
+0. Project Implementation Unit
+ConsultantSalanes/Allowances                                   amount                -                        -       -           -      47.7       70.1      71.1       77.6       -       266.6
+Operabional expenses                                           amount                     -              -        -         -             5.3       10.8      10.9       11.1       -        38.1
+Subtotal Project Implementation Unit                                              -        -                                        -      53.1       80.9      82.0      88.7                304.7
+Total Investment Costs                                                         6,930.5   526.0    1,216.6   1,136.6             9,809.8    2,546.5   2,832.4   5,714.0   5,267.3             16,360.2
+II. Recurrent Costs
+HNV, SAN Maint, Licence fees, Telecom costs                      amount           -   100.0      300.0      296.3               696.3         -         -          - 3                           -
+Total Recurrent Costs                                                               -   100.0      300.0      296.3    _          696.3                ---
+Total                                                                          6,930.5   626.0    1,516.6   1,433.0             10,506.1   2,546.5   2,832.4   5,714.0   5,267.3         -    16,360 2
+
+
+
+Cost Table 9
+Ukraine
+Treasury Systems Project
+I nflation and Exchange Rates
+All Detailed Tables
+Upto
+Up to     Project
+Negotiation   Start    1998    1999    2000    2001    2002
+Inflation (in %s) la
+Most Goods and Services
+Annual rates
+Local                                            0.0      0.0    25.0    15.0    11.0    10.0    10.0
+Foreign                                          0.0      0.0      2.1      1.3      1.4      1.4      1.4
+Compounded rates
+Local                                            0.0      0.0    12.5    34.4    51.7    67.5    84.3
+Foreign                                          0.0      0.0      1.1      2.8      4.2      5.6     7.1
+Exchange rates (Local/Foreign) lb
+Most Goods and Services
+Rates actually used                                2.0      2.0      2.0      2.0      2.0      2.1     2.1
+Constant purchasing parity rates                   2.0      2.0      2.2      2.5      2.8      3.1      3.4
+% deviation                                        0.0      0.0   -10.2   -23.5   -31.3   -33.7   -38.9
+Zero
+Rates actually used                                2.0      2.0      2.0      2.0      2.0      2.1     2.1
+Constant purchasing parity rates                   2.0      2.0      2.0      2.0      2.0      2.0      2.0
+% deviation                                        0.0      0.0      0.0      0.0      0.0      5.1     5.1
+\a Yearly values are within Each Project Year
+\b Yearly values are at Project Year Midpoints
+D
+I-C
+
+
+
+Annex V
+Detailed List of Technical Assistance Requirements§ .
+Method of Selection             Item                               Estimated    Estimated Annual Rate   Approximate Time Period
+Number                US$
+Quality and Cost Based Selection
+Information Systems Specialists   Systems Analysts                     2               US$ 60,000                  3 years
+(Estimated Total Cost      Systems Software Specialists          1               US$ 60,000                  3 years
+US $ 1.25 million)
+Database Specialists                  2               US$ 60,000                  3 years
+Networking Specialists                2               US$ 60000                   3 years
+Individual Consultant
+Procedures
+Category I - Treasuty Experts    Functional Treasumy Specialist        I              US$ 100,000                  4 ycars
+(Estimated Total Cost US$0.54   Accouniting Specialist               1              US$ 1(0,000                  1.5 years
+million)
+Category II - Tchlinical Experts   Computer Programmers                7              US$ 24,000                   3 years
+for Project Implementation
+(Estimated Totzil Cost US$0.65    Eiitd lJser Sutpport Staff         2               US$ 18,000                  2 years
+Iillionl)
+Documentation/ Training               I              US$ 18,000                   2 years
+Specialists
+Category III- Staff for PIU     Procurement Specialists                2              US $ 12,000                  4 years
+(Estimated Total Cost US $ 0.24   Disbursement/ Accounting           3               US $12,000                  4 years
+million)            Specialists
+
+
+

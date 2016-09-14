@@ -1,0 +1,368 @@
+Report No. 23702
+Report No: I072881 <--Please check for duplicates!
+Integrated Safeguards Data Sheet (Initial)
+Date ISDS Prepared/Updated: 02/15/2002
+Section I - Basic Information
+A. Basic Project Data
+Country: CENTRAL AFRICA Project ID: P072881
+Project: BEAC Regional Payment System    Task Team Leader: Andre Ryba
+Authorized to Appraise Date: July 16, 2001        IBRD Amount ($m):
+Bank Approval: May 28, 2002      IDA Amount ($m): 11.00
+Managing Unit: AFTFS     Sector: FS - Financial Sector Development
+Lending Instrument: Technical Assistance Loan (TAL)       Status: Lending
+I.A.2. Project Objectives:
+The global objective of the project is to improve the efficiency and
+security of payments in the Central African Economic and Monetary Union
+(CAEMU ). Detailed objectives are:
+B To increase payment safety and security,
+B To increase the supply of banking services to the population,
+B To develop modern electronic payment instruments,
+B To develop the inter-bank financial market,
+B To reduce bank operating costs and client fees,
+B To reduce the time required for clearing and settlement,
+B To reduce the use of cash,
+B To comply with international standards,
+B To improve the legal and regulatory framework in order to restore
+client confidence in banks and payment instruments.
+By supporting the implementation of a state-of-the-art payment system for
+the entire CAEMU area, the project would contribute to the development of
+non cash transactions, the reinforcement of banks, the development of
+microfinance institutions, the deepening of the financial sector, and,
+more generally, the expansion of trade and investment in member
+countries.
+The above measures will have primarily an indirect impact on poverty, by
+improving access to the banking system and strengthening microfinance
+intermediation. The project will also include a pilot scheme based on
+electronic money and pre-paid smart cards to address the needs of the poor
+population that currently has no access to banking services. The objective
+of this component will be, in particular, to determine the conditions
+required to successfully automate the payment of electricity provided to
+the poor. It is expected that this approach will enable electricity
+providers (and potentially other utility service providers) to expand
+their customer base to the poor in a safe, low cost, and reliable manner.
+I.A.3. Project Description:
+At this stage, the description presented below reflects the directions in
+which the preparation process is engaged. At the end of this process
+(expected in fall 2001) a revised and more accurate description would be
+
+
+
+presented in the PAD.
+The project includes seven components:
+- a project management support component: this is a key condition for
+success due to the complexity and timeframe of such a project, which
+require a professional project management approach ;
+- a real time settlement system in order to provide timely settlement of
+large value transactions related to the inter-bank and securities markets
+. This system would also enable the settlement of net low value clearing
+and settlement systems in a timely and secure manner,
+- a low value electronic clearing and settlement system, to reduce the
+time and cost of retail banking payments and restore customers'confidence
+in banks and basic banking services,
+- an inter-bank card system, to develop electronic transactions on a
+regional basis and reduce the use of costly and unsecured cash and
+paper-based payment instruments ;
+- a pilot scheme for e-money to enable the supply of electricity to the
+poor in a safe and reliable financial environment ;
+- a common telecommunication and computer infrastructure, and,
+- a risk management system for securing payment transactions in order to
+better manage customer credit and fraud..
+i) The project support component includes project management and
+monitoring, procurement, base line surveys that will enable the project
+management unit to measure the base-line situation and the evolution of
+performance indicators during and after project implementation.
+Other activities in this component would include the improvement of the
+legal framework, identification of requirements to upgrade BEAC and
+commercial banks' information and computer systems, and training.
+International and local consultants will be hired to assist the project
+team in managing and implementing the above-mentioned actions.
+ii) The large value settlement component includes the establishment of a
+Real Time Gross Settlement (RTGS) system at the regional level. This
+system will process large or urgent transactions sent individually by head
+offices of commercial banks and other participating financial
+institutions. The objective of this system is to settle transactions
+within a few minutes under normal conditions. Liquidity and risk
+management features will be included in the system's functionality in
+order to comply with international standards.
+The RTGS system would be open to banks and other financial institutions
+through three different access modes: i) a direct participant would manage
+its own account at BEAC and have direct technical (on line) access to the
+RTGS ; ii) an indirect participant would have a settlement account
+managed by BEAC, but would use a direct participant's platform or that
+of a service provider to access the RTGS ; iii) in the third mode, the
+financial institution would be represented by a direct participant and
+would have no settlement account in BEAC's books. The direct participant
+providing the service would be financially responsible for all
+transactions made on behalf of that institution.
+- 2 -
+
+
+
+The RTGS system would process and settle transfers in CFA francs among
+participants or with the Central Bank, and the bilateral or multilateral
+balances resulting from the clearing of low value transactions in netting
+systems. It would also settle the payment leg of securities transactions
+(processed by BEAC or other government securities clearing and settlement
+systems). The settlement of the payment leg of securities traded on the
+Regional Stock Market if and when implemented could also be made through
+the RGTS. FCFA cover and transfers related to international transactions
+would be processed through this system as well.
+Volume of transactions to be processed in the RTGS system will be
+estimated during project preparation. Credit orders would represent the
+major share of transactions.
+iii) The objective of the low value clearing and settlement component is
+to significantly improve the clearing and settlement of low value
+transactions (e.g. checks, letters of exchange, credit orders, direct
+debit, card transactions)To avoid the drawbacks associated with the
+clearing of paper instruments, and lengthy transportation delays, a new
+scheme is currently under study: the use of MICR or OCR techniques
+(magnetic or optical characters are printed at the bottom of the paper
+instrument) would enable the automation of exchange and clearing of
+instruments in an automated national clearinghouse. Furthermore, it is
+envisaged that scanning of the paper instrument would enable an electronic
+transmission that would permit the payor's bank to swiftly control the
+full validity of the instrument and accelerate the credit to end customer
+accounts.
+Electronic access to a national clearinghouse system would be provided at
+the local level through BEAC's offices and network, if internal commercial
+banknetworks are not operational. This scheme would allow any bank to
+submit all its payment instruments to the nearest access point, whatever
+the location of the other bank branch involved in the transaction. For
+archiving purposes, paper transactions, including "outstation
+transactions", would be exchanged in parallel by using, for example, the
+facilities of the former clearing houses (e.g. BEAC offices).
+Rejection of payments through the electronic clearing house system would
+be permitted within an agreed number of days, depending on the type of
+transaction and complexity of control.
+In this scheme, interbank clearing and settlement would be done on the
+basis of electronic files and the legal framework would need to be
+adapted to support the validity of electronic data and digital signature.
+Initially, settlements would be made on a semi-manual basis at the end of
+each clearing and settlement cycle through the posting of net balances
+into a single settlement account of each participating bank held at each
+BEAC national office. When the large value clearing and settlement system
+(RTGS) is in place, settlement of multilateral balances would be
+processed automatically.
+The volume of transactions to be processed in the low value clearing and
+settlement system will be estimated during project preparation.
+iv) The objective of the card component is to coordinate and strengthen
+- 3 -
+
+
+
+commercial bank initiatives in card activity through the development of an
+inter-bank card scheme at the sub-regional level. The banking community
+would develop a common card logo and brand name, enabling bank customers
+to use any card accepted in the scheme in any Automated Teller Machine
+(ATM) or merchant's equipment (Point Of Sale - POS).
+This new line of products would be designed to be consistent with
+commercial banks' strategies and client needs at the local, national,
+sub-regional and international levels.
+It is expected that this inter-bank approach will enable a very rapid
+development of this instrument in the whole sub-region and a decrease in
+cash transactions. In the future, some arrangement could be agreed upon
+with West Africa, for instance to have the central and West African cards
+accepted throughout the whole African French Franc Zone.
+This component would include the design and progressive implementation of
+a new regulatory framework: contractual arrangements between banks and
+their clients, minimum requirements for inter-bank services and standards,
+common risk management rules and procedures, loss sharing agreement in
+case of fraud, and establishment of a common legal entity in charge of
+regulating the system and maintaining relations with international bank
+card networks like VISA and MASTERCARD on behalf of commercial banks.
+The common entity would be in charge of coordinating technical standards
+and quality and security of operations, including the use and
+certification of existing facilities offered by banks or by service
+providers with the objective of decreasing costs, sharing investments, and
+increasing reliability and security of the entire system.
+Volume of transactions to be processed in the card system will be
+estimated during project preparation
+v) A "financing of the poor" component would include the implementation of
+a pilot scheme to test the technical, economic and social feasibility of
+using "e-money" systems, such as pre-paid smart cards, for small payments
+to be made by households that currently have no access to banking
+services, in particular the poor. The pilot would initially focus on the
+automatic and pre-payment of utility services like electricity and water
+supply.
+Some pilot experiences have already been implemented for a one or two year
+test period in several countries of the sub-region. However, given the
+significant up-front investment required and the social implications, a
+more coordinated approach involving all stakeholders concerned ( NGOs,
+local authorities, electricity provider, banks, etc.) would be conducted
+during the preparatory phase in order to design the pilot scheme.
+This component would develop on a wider scale existing schemes in which
+electricity and water supply companies are offering their services to the
+poor. This is done on the basis of pre-paid e-money cards In such a
+scheme, a smart card (similar to telephone prepaid cards) is bought by the
+customer from the utility service provider (or from a bank), and the
+amount of money paid to the provider or the bank is registered in the
+memory of the card. In the household, equipment is installed that allow
+- 4 -
+
+
+
+electricity to be supplied as long as some "money" remains in the memory
+of the card. Automatically, the amount corresponding to consumption is
+"debited" in the card. When no more money is available, supply is stopped
+and the user has to go to a bank or another supplier to reload the card.
+For utility companies, this solution represents a way to deliver their
+services with a significant reduction in the cost of connection (or
+de-connection), of collection of information on usage, and of payments.
+This specific use of smart cards should enable the development of this
+technique in other fields such as health services, transport, welfare
+payments, where payment, collection, and controls are inefficient and
+fraud very high.
+vi) The telecommunication infrastructure component is key in improving
+the efficiency of the systems described above and reducing operating
+costs.
+A few satellite and land telecommunication networks have been put in place
+by BEAC and commercial banks, however coverage is still incomplete and
+does not fully respond to the needs of the financial sector, and
+investment and operating costs are high. A common approach by the whole
+financial community should speed up the provision of telecommunication
+infrastructure, improve dialogue with the telecommunication operators in
+the region, and sizably reduce the cost of electronic transfers for
+inter-bank and intra-bank transactions.
+The telecommunication infrastructure component will include local,
+national and regional networks that have to be built or strengthened and
+secured for all clearing and settlement operations (large value and low
+value transactions, card authorizations and cash withdrawals, exchange of
+data--reports, files, internet banking-- etc.).
+vii) the risk management component objectives are to secure payment
+transactions, manage customer credit , and mitigate fraud or abuse. It is
+a key element for reducing fraud, claims and disputes and providing
+confidence to banks and their customers.
+Different approaches /systems have been put in place in developed and
+developing countries with varying results. The objective is to design and
+implement a system that will result in rapid improvements for banks and
+their customers, and that will include risk management for all kinds of
+instruments.
+A detailed design, taking into account the specific requirements of
+stakeholders in the region, and based on a progressive and pragmatic
+approach, will be available at the end of the preparation phase of the
+project.
+A revised estimate will be provided at the end of preparation phase.
+Components:
+Project management support
+(including training)
+-5-
+
+
+
+Large Value Payment System
+Low Value Payment System
+Bank Card System
+E-money pilot scheme
+Risk management /credit bureau
+Legal, Technology standards,
+Telecommunications
+I.A.4. Project Location: (Geographic location, information about the key
+environmental and social characteristics of the area and population likely
+to be affected, and proximity to any protected areas, or sites or critical
+natural habitats, or any other culturally or socially sensitive areas.)
+B. Check Environmental Classification: C (Not Required)
+Comments: no nevironmental impact
+C. Safeguard Policies Triggered
+Policy Applicability
+Environmental Assessment (OP/BP/GP 4.01)         No
+Forestry (OP/GP 4.36)    No
+Natural Habitats (OP/BP 4.04)    No
+Safety of Dams (OP/BP 4.37)      No
+Pest Management (OP 4.09)        No
+Involuntary Resettlement (OP/BP 4.12)    No
+Indigenous Peoples (OD 4.20)     No
+Cultural Property (OP 4.11)      No
+Projects in Disputed Territories (OP/BP/GP 7.60)*         No
+Projects in International Waterways (OP/BP/GP 7.50)       No
+*By supporting the proposed project, the Bank does not intend to prejudice
+the final determination of the parties' claims on the disputed areas
+Section II - Key Safeguard Issues and Their Management
+D. Summary of Key Safeguard Issues. Please fill in all relevant questions.
+If information is not available, describe steps to be taken to obtain
+necessary data.
+II.D.la. Describe any safeguard issues and impacts associated with the
+proposed project. Identify and describe any potential large scale,
+significant and/or irreversible impacts.
+no safeguards issues
+II.D.lb. Describe any potential cumulative impacts due to application of
+more than one safeguard policy or due to multiple project component.
+II.D.lc Describe any potential long term impacts due to anticipated future
+activities in the project area.
+-6-
+
+
+
+II.D.2. In light of 1, describe the proposed treatment of alternatives (if
+required)
+II.D.3. Describe arrangement for the borrower to address safeguard issues
+II.D.4. Identify the key stakeholders and describe the mechanisms for
+consultation and disclosure on safeguard policies, with an emphasis on
+potentially affected people.
+The project will be developed in close consultation with major
+stakeholders. As indicated earlier the design of the project will be made
+at three regional workshop bringing together all stakeholders.
+The Steering Committee and Consultative Committees established in each
+country will meet regularly to review progress. and proposals made by
+workshops and consultants and reach agreement on key aspects of the
+project.
+Information will be distributed regularly to senior management of all
+banks and major companies in order to be sure that a large consensus will
+be reached at the end of the preparatory phase regarding the content,
+implementation plan and project budget.
+These Committees are composed of major stakeholders and would later
+monitor project implementation.
+E. Safeguards Classification. Category is determined by the highest impact
+in any policy. Or on basis of cumulative impacts from multiple safeguards.
+Whenever an individual safeguard policy is triggered the provisions of
+that policy apply.
+I S1. - Significant, cumulative and/or irreversible impacts; or
+significant technical and institutional risks in management of one or more
+safeguard areas
+I S2. - One or more safeguard policies are triggered, but effects are
+limited in their impact and are technically and institutionally manageable
+[XI S3. - No safeguard issues
+I SF. - Financial intermediary projects, social development funds,
+community driven development or similar projects which require a safeguard
+framework or programmatic approach to address safeguard issues.
+F. Disclosure Requirements Environmental Assessment/Analysis/Management
+Plan:   Expected         Actual
+Date of receipt by the Bank      Not Applicable  Not Applicable
+Date of "in-country" disclosure Not Applicable   Not Applicable
+Date of submission to InfoShop   Not Applicable  Not Applicable
+Date of distributing the Exec. Summary of the EA to the ED
+(For category A projects)       Not Applicable   Not Applicable
+Resettlement Action Plan/Framework:      Expected         Actual
+Date of receipt by the Bank      Not Applicable  Not Applicable
+Date of "in-country" disclosure Not Applicable   Not Applicable
+-7 -
+
+
+
+Date of submission to InfoShop   Not Applicable  Not Applicable
+Indigenous Peoples Development Plan/Framework:   Expected         Actual
+Date of receipt by the Bank      Not Applicable  Not Applicable
+Date of "in-country" disclosure Not Applicable   Not Applicable
+Date of submission to InfoShop   Not Applicable  Not Applicable
+Pest Management Plan:    Expected        Actual
+Date of receipt by the Bank      Not Applicable  Not Applicable
+Date of "in-country" disclosure Not Applicable   Not Applicable
+Date of submission to InfoShop   Not Applicable  Not Applicable
+Dam Safety Management Plan:      Expected        Actual
+Date of receipt by the Bank      Not Applicable  Not Applicable
+Date of "in-country" disclosure Not Applicable   Not Applicable
+Date of submission to InfoShop   Not Applicable  Not Applicable
+If in-country disclosure of any of the above documents is not expected,
+please explain why.
+Signed and submitted by          Name    Date
+Task Team Leader:        Andre Ryba      02/13/2002
+Project Safeguards Specialists 1:
+Project Safeguards Specialists 2:
+Project Safeguards Specialists 3:
+Approved by:     Name    Date
+Regional Safeguards Coordinator:         Serigne Omar Fye         02/14/2002
+Sector Manager/Director:         Gerard Byam      02/14/02
+For a list of World Bank news releases on projects and reports, click here
+- 8 -
+
+
+
