@@ -24,6 +24,9 @@ data/projectsdb: data/txt data/project-api
 	done
 	src/build-mongo.sh data/project-ids.txt data/project-api data/txt
 	kill $!
+	
+data/appraisal-abstracts.json: data/txt
+	python src/build-appraisal-abstracts.py data/txt data/appraisal-abstracts.json
 
 #data/project-docs/meta: data/project-api
 #	mkdir data/project-docs/meta
