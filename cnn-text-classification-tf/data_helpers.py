@@ -26,22 +26,51 @@ def clean_str(string):
 
 
 def load_data_and_labels():
-    """
-    Loads MR polarity data from files, splits the data into words and generates labels.
-    Returns split sentences and labels.
-    """
-    # Load data from files
-    positive_examples = list(open("../data/positive_ratings.csv", "r").readlines())
-    positive_examples = [s.strip() for s in positive_examples]
-    negative_examples = list(open("../data/negative_ratings.csv", "r").readlines())
-    negative_examples = [s.strip() for s in negative_examples]
-    # Split by words
-    x_text = positive_examples + negative_examples
+    #define the data directory where the templates live
+    data_dir = "./data/templates/"
+    data_dir = "./data/rt-polaritydata/"
+
+    #store all of the class data in a list
+    class_data = []
+    label_list = []
+    default_list = []
+
+    #load data from files
+    for i in os.listdir(data_dir):
+        print data_dir+i
+        examples = list(open(data_dir+i).readlines())
+        examples = [s.strip() for s in examples]
+        #append these examples to the list of lists
+        class_data.append(examples)
+        #make the label list as long as the numbe rof classes
+        default_list.append(0)
+
+    # concat class examples
+    counter = 0
+    for class_examples in class_data:
+        #set the label
+        temp_list = [0] * len(class_data)
+        temp_list[counter] = 1
+        label_list.append(temp_list)
+        if counter == 0:
+            x_text = class_examples
+        else:
+            x_text = x_text + class_examples
+        counter += 1
+
+    #clean and split
     x_text = [clean_str(sent) for sent in x_text]
+    x_text = [s.split(" ") for s in x_text]
+
     # Generate labels
-    positive_labels = [[0, 1] for _ in positive_examples]
-    negative_labels = [[1, 0] for _ in negative_examples]
-    y = np.concatenate([positive_labels, negative_labels], 0)
+    final_labels = []
+    counter = 0
+    for class_examples in class_data:
+        print label_list[counter]
+        final_labels.append([label_list[counter] for _ in class_data[counter]])
+        counter += 1
+
+    y = np.concatenate(final_labels, 0)
     return [x_text, y]
 
 
