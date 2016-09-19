@@ -33,6 +33,7 @@ tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on 
 
 # Data parameters
 tf.flags.DEFINE_integer("number_of_classes", 2, "Number of classes (default: 2)")
+train2val = 0.1 #unitary ratio training to validation. e.g. 0.1 is 10% val.
 
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
@@ -63,8 +64,9 @@ y_shuffled = y[shuffle_indices]
 
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
-x_train, x_dev = x_shuffled[:-1000], x_shuffled[-1000:]
-y_train, y_dev = y_shuffled[:-1000], y_shuffled[-1000:]
+split_train2val = int(len(x_text)*train2val)
+x_train, x_dev = x_shuffled[:-split_train2val], x_shuffled[-split_train2val:]
+y_train, y_dev = y_shuffled[:-split_train2val], y_shuffled[-split_train2val:]
 print("Vocabulary Size: {:d}".format(len(vocab_processor.vocabulary_)))
 print("Train/Dev split: {:d}/{:d}".format(len(y_train), len(y_dev)))
 
