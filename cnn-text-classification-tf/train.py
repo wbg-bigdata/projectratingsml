@@ -8,6 +8,9 @@ import datetime
 import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
+import logging
+
+logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
 # Parameters
 # ==================================================
@@ -28,12 +31,15 @@ tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many ste
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
 
+# Data parameters
+tf.flags.DEFINE_integer("number_of_classes", 2, "Number of classes (default: 2)")
+
 FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
 print("\nParameters:")
 for attr, value in sorted(FLAGS.__flags.items()):
-    print("{}={}".format(attr.upper(), value))
-print("")
+    logging.debug("{}={}".format(attr.upper(), value))
+logging.debug("")
 
 
 # Data Preparatopn
@@ -42,6 +48,7 @@ print("")
 # Load data
 print("Loading data...")
 x_text, y = data_helpers.load_data_and_labels()
+logging.debug("number of entries: "+str(len(x_text)))
 
 # Build vocabulary
 max_document_length = max([len(x.split(" ")) for x in x_text])
@@ -73,7 +80,7 @@ with tf.Graph().as_default():
     with sess.as_default():
         cnn = TextCNN(
             sequence_length=x_train.shape[1],
-            num_classes=2,
+            num_classes=FLAGS.number_of_classes,
             vocab_size=len(vocab_processor.vocabulary_),
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
