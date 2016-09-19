@@ -8,6 +8,9 @@ import datetime
 import data_helpers
 from text_cnn import TextCNN
 from tensorflow.contrib import learn
+import logging
+
+logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
 # Parameters
 # ==================================================
@@ -35,8 +38,8 @@ FLAGS = tf.flags.FLAGS
 FLAGS._parse_flags()
 print("\nParameters:")
 for attr, value in sorted(FLAGS.__flags.items()):
-    print("{}={}".format(attr.upper(), value))
-print("")
+    logging.debug("{}={}".format(attr.upper(), value))
+logging.debug("")
 
 
 # Data Preparatopn
@@ -45,6 +48,7 @@ print("")
 # Load data
 print("Loading data...")
 x_text, y = data_helpers.load_data_and_labels()
+logging.debug("number of entries: "+str(len(x_text)))
 
 # Build vocabulary
 max_document_length = max([len(x.split(" ")) for x in x_text])

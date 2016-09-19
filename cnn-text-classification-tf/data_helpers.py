@@ -1,8 +1,10 @@
 import numpy as np
 import re
+import os
 import itertools
 from collections import Counter
-
+import logging
+logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
 def clean_str(string):
     """
@@ -27,8 +29,7 @@ def clean_str(string):
 
 def load_data_and_labels():
     #define the data directory where the templates live
-    data_dir = "./data/templates/"
-    data_dir = "./data/rt-polaritydata/"
+    data_dir = "../data/by_IEG_rating/"
 
     #store all of the class data in a list
     class_data = []
@@ -37,12 +38,13 @@ def load_data_and_labels():
 
     #load data from files
     for i in os.listdir(data_dir):
-        print data_dir+i
+        logging.debug(data_dir+i)
         examples = list(open(data_dir+i).readlines())
         examples = [s.strip() for s in examples]
         #append these examples to the list of lists
+        logging.debug("number of examples of class ("+str(i)+"): "+str(len(examples)))
         class_data.append(examples)
-        #make the label list as long as the numbe rof classes
+        #make the label list as long as the number of classes
         default_list.append(0)
 
     # concat class examples
@@ -60,16 +62,15 @@ def load_data_and_labels():
 
     #clean and split
     x_text = [clean_str(sent) for sent in x_text]
-    x_text = [s.split(" ") for s in x_text]
 
     # Generate labels
     final_labels = []
     counter = 0
+    logging.debug("Label matrix:")
     for class_examples in class_data:
-        print label_list[counter]
+        logging.debug(label_list[counter])
         final_labels.append([label_list[counter] for _ in class_data[counter]])
         counter += 1
-
     y = np.concatenate(final_labels, 0)
     return [x_text, y]
 
